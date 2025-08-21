@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UEDHvR7QhMHGf-w1kVtYmRQX128TIm8TESl5NFtu1j0Q0Lp17TUJ1H5xCq5lmxapACk9TESGQkckEUHO3PL-mxD_gnhfbP_hcOQNfga_JHny4_T6jzsvJLB7yzjzGhBB5IiCdKKd4Lix5XFnXV7KbMegJvixqAPO1XdPWL0tq6UdtVw4_Zu2ePR7LRPUtUIvDTyLCXEMpFkHnJ_cZ9lZL-Q~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "620d2fc5c8b12cc703R-2d-_FVBU",
+      "encryptUserId": "cdee51d81b1de29a03F-09u7Fls~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "此岗位需在丰台区政府驻场，包吃住，工作环境好。\n\r主要工作内容：\r\n1、设备维护与管理：\r\n（1）对各类相关设备（二层三层网络交换机、电脑服务器、华为会议设备、麦克风、功放音响、调音台等）进行日常巡检，查看设备运行状态指示灯、硬件连接情况、各关键性能指标，及时发现并记录潜在故障隐患。\r\n（2）根据业务或会议需求，进行设备参数配置调整，如 IP 地址分配、VLAN 划分、设备功能参数设定（摄像头角度、麦克风增益等），同时定期备份设备配置文件，保障设备稳定运行且能在出现问题时快速恢复。\r\n（3）跟踪设备使用情况及寿命周期，根据实际状态安排设备维修、更换或升级计划，做好设备资产管理，完善设备台账记录。\r\n2、机房保障：\r\n（1）监控机房温湿度，调节精密空调等设备，确保环境温湿度处于适宜范围；检查机房消防设施、清洁状况，保障机房消防安全与整体整洁。\r\n（2）关注市电输入、UPS 电源系统运行状态及配电柜各线路情况，保证电力稳定供应，预防停电、过载、漏电等电力故障隐患。\r\n3、网络保障：\r\n（1）利用网络监控工具实时监测网络各项指标（带宽利用率、延迟、丢包率等），提前预判并处理网络问题，确保网络通畅，满足业务或会议的传输需求。\r\n（2）在出现网络故障时，运用相关工具（Ping、Tracert、Wireshark 等）迅速排查故障点，判断是链路、设备还是配置等方面的问题，并及时修复，保障网络连通性和稳定性。\r\n4、系统配置与管理：\r\n（1）负责服务器操作系统（Windows Server、Linux 等）的安装、配置、更新及日常维护，管理用户账号及权限，部署和优化各类应用服务（Web 服务、邮件服务、数据库服务等），保障系统稳定运行。\r\n（2）根据不同的业务场景或会议要求，对音视频会议系统、相关软件平台进行配置，包括创建账号、设置权限、安排会议形式等，确保符合使用需求。\r\n5、安全管理：\r\n（1）协助进行网络安全漏洞扫描，更新防火墙规则，限制非法访问，防止黑客攻击、恶意入侵等安全威胁，保障网络及数据安全。\r\n（2）关注机房物理安全（门禁、监控系统正常运行等），检查设备及系统的病毒防护情况，确保服务器、终端等安装有效的杀毒软件且及时更新病毒库。\r\n6、会议相关保障\r\n（1）会议前，全面检查并调试音视频设备，保障其正常工作且呈现良好效果；检测网络带宽，协调优化网络环境；准备会议室环境，避免灯光、噪音等问题影响会议。\r\n（2）会议期间，实时监控音视频质量，及时处理出现的各类问题（如画面模糊、声音卡顿等），为参会人员提供操作协助，遇到突发故障迅速实施应急方案，保障会议顺利进行。\r\n（3）会议后，整理关闭设备，记录会议相关数据，总结运维情况，对设备进行维护保养及系统软件更新升级。\r\n7、文档记录与汇报：\r\n（1）编写更新各类运维相关文档，如设备配置、巡检记录、故障处理记录、会议运维总结等，确保文档准确、详细，便于后续查阅及知识传承。\r\n（2）定期向上级汇报运维整体情况，包含设备运行状态、出现的问题及解决措施、潜在风险等内容，辅助决策制定。\r\n\r\n专业技能要求：\r\n（1）精通计算机网络体系结构，掌握TCP/IP 协议、VLAN划分、路由交换原理等网络知识，熟悉常见网络设备（路由器、二层三层交换机、防火墙等）的配置与管理。\r\n（2）熟练掌握 Windows Server、Linux 等主流操作系统的安装、配置、管理及故障排除，了解服务器硬件结构与常见故障处理，具备服务器性能优化、数据备份恢复能力。\r\n（3）深入了解音频、视频基本原理，掌握音视频设备（调音台、麦克风、摄像头、功放音响等）的工作机制、参数设置及常见故障排查解决方法，熟悉不同品牌型号音视频会议终端设备及会议软件平台的使用。",
+      "encryptAddressId": "da1c8b3b178f58391nF82dm4FlBRwIW8Wfia",
+      "address": "北京丰台区首科大厦A1815",
+      "longitude": 116.313979,
+      "latitude": 39.87762,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230508/48ba41acc9cef1bf48843462de28b70ce9ba1a512c9b19056bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bfe35482cf330bc60919d92455dfa080ee6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器硬件",
+        "桌面运维",
+        "音频视频",
+        "计算机网络体系结构",
+        "计算机相关专业",
+        "运维经验",
+        "IDC机房运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241204/607f1f3d68754fd0eaafb4f9a3a70460111a23a59419fea90e75ee7095dad4b10bb8e4193d56012_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "鼎森荣泰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "43d86d94017d881733N909q5EQ~~",
+      "brandName": "鼎森荣泰",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230724/7bf6f160950405e97703c510d07676715d64ae3cb18329376392818537578799b43ea4c8310a5f1b.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "自主研发、运营的科技型企业，聚焦于将人工智能、大数据、物联网、云计算、5G等新一代信息技术公司",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1733386774863,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鼎森荣泰",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智慧林网络",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1751366495098,
+        "brandName": "智慧林网络",
+        "customerBrandName": "智慧林网络",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f2735c9688f94d5b0HV62tW_Fw~~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "深圳智慧林网络科技有限公司成立于2015年，是一家致力于新一代人工智能技术及其应用研发的创新科技企业，拥有完全自主知识产权的新一代人工智能核心算法和深度学习技术，以及国际领先水平的数据高速传输技术，和无损压缩技术。\n    公司从2017年以来己连续三次认定为国家高新技术企业，深圳市专精特新企业等等荣誉称号，并已通过ISO9001质量管理体系认证和知识产权管理体系认证。已申报完全自主知识产权发明专利75项，并已获得授权发明专利25项，PTC国际发明专利8项，软件著作权72项，注册商标16项。\n    我公司秉承“以技术为引领、以市场为导向、以品质为追求、以服务为根本”的核心价值观服务于各行各业，为国家的发展尽一份力量。",
+        "labels": [
+            "节日福利",
+            "团建聚餐",
+            "零食下午茶",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/34d61a2ed7bd4630f1cc5d225dc5e0e7.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "certMaterials": [],
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区国家超级计算深圳中心(深圳云计算中心)7楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "80db09b6670e81b21n182Ny-FVtZx4m_U_id",
+        "encryptId": "0102dcefab3a5c1903d70t64FFJX",
+        "encryptUserId": "21057a515525b9670HR609u7GFpV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "安卓开发",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.596603,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.989938,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7238f87f9b65e26ea4b320e3066cd7c",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "岗位职责：\n1.端到端系统开发\n设计并实现 Web/移动端应用（React/Vue/Flutter）与 后端服务（Node.js/Go/Python），构建完整的物联网设备管理平台（如陪护机器人控制面板）。\n2.开发设备-云端全链路功能：\n前端：实时数据可视化（机器人运动轨迹、传感器状态）、用户交互界面（语音指令配置、固件OTA升级入口）。\n后端：RESTful API 开发（设备控制指令下发）、WebSocket 实时通信（动态数据推送）、数据库设计（用户数据+设备日志）。\n3.嵌入式协同开发\n对接硬件团队（STM32/RK3588S），定义设备通信协议（如基于 MQTT 的 JSON 数据格式），开发嵌入式端 HTTP/MQTT 客户端。\n实现前后端与嵌入式设备的联调（如通过 Web 界面控制机器人电机转动）。\n4.跨平台功能实现\n构建响应式 Web 应用适配多终端（PC/平板/手机），开发混合应用（React Native/Electron）实现本地化硬件交互（如蓝牙直连控制）。\n集成第三方服务（地图API、支付接口、云存储）与开源中间件（Redis/Kafka）。\n5.性能与安全优化\n优化前端渲染性能（代码分割、懒加载）、后端接口响应时间（缓存策略、SQL 调优）。\n实现用户认证（OAuth 2.0/JWT）、设备通信加密（TLS/DTLS）、防 XSS/CSRF 攻击。\n\n任职资格：\n1.计算机科学与技术、软件工程、电子信息工程等计算机相关专业，全日制本科及以上学历。\n2.精通Java或Kotlin编程语言(Android原生开发)，熟练掌握安卓开发框架和常用组件，熟悉安卓系统架构和运行机制。\n3.精通Dart+Flutter或Uniapp+Vue框架，能够完成 Android/iOS 双端跨平台开发以及发布。\n4.有语音相关应用开发经验优先，如降噪、回声消除、语音识别引擎接入等。\n5.熟悉TCP/HTTP/WebSocket/MQTT等协议。\n6.熟悉BLE、WIFI等通信方式和协议，有IoT物联网行业开发经验者优先。\n7.熟悉常用的开发工具和版本控制工具，如 Android Studio/Xcode、Git 等。\n8.有智能硬件或机器人项目经验者优先。\n\n岗位福利：周末双休，8小时工作制，带薪年假，五险一金，升职加薪，研发环境优越。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "Android开发经验",
+            "通信相关专业",
+            "数据结构/算法能力",
+            "数学相关专业",
+            "Android客户端产品研发",
+            "Flutter",
+            "React Native",
+            "计算机/软件工程相关专业",
+            "大规模应用开发/维护经验",
+            "Kotlin"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c892b19456b843b3f5212fa9228ba95a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UIz8J1PC1Iaqp-f18TzmFz-mPR_Dkngu_iOHQ7HIoe5t057YKFnfQiBP-ubHZKZmR1fcG2SL7NYRTsk5iFtq4dUj3cml2FkHCQqo6VeauwMFuo3Wj2MB56oilOSxO2o8g_uNdq74Tkco7LJfv_0LV2F7O4ny",
+    "selfAccess": false,
+    "sessionId": null
+}

@@ -1,0 +1,31 @@
+{
+  "atsOnlineApplyInfo": {
+    "alreadyApply": false
+  },
+  "bossInfo": {
+    "name": "郑彬龙",
+    "title": "招聘者",
+    "activeTimeDesc": "刚刚活跃"
+  },
+  "brandComInfo": {
+    "encryptBrandId": "6a9c23b4145895da1nZ829y0E1M~",
+    "brandName": "山东聚众",
+    "scaleName": "",
+    "industryName": "医疗服务"
+  },
+  "jobInfo": {
+    "encryptId": "6d716a35f23ccf2703Z62tm5F1BY",
+    "salaryDesc": "4-6K",
+    "jobName": "软件开发人员",
+    "experienceName": "1-3年",
+    "degreeName": "本科",
+    "encryptUserId": "d1b61988e0161b760nZ93tm8E1JR",
+    "locationName": "临沂",
+    "postDescription": "岗位职责：\n** Unity 3D 技术开发**\n负责使用 Unity 3D 引擎开发医学教育类项目，包括医学模型的 3D 建模导入调试、动画交互导入调试、实时渲染、光照系统以及粒子效果等；\n实现场景交互逻辑，设计并优化用户操作流程；\n熟练使用 Unity 的物理引擎动画系统，并对力学模拟和角色动画进行开发；\n熟练使用 C# 编写高效、可维护的代码，熟悉基于原生C#的热更新系统，确保跨平台兼容性和代码质量；\n负责 Unity 的版本控制和持续集成，确保代码库的稳定性和高效迭代。\n跨平台移植与优化\n负责将 Unity 项目移植到不同平台（如 Windows、Linux、移动设备等），并针对不同平台进行性能调优；\n熟悉移动设备的性能限制，优化资源加载、渲染和内存占用，确保流畅运行；\n研究并实现 AR/VR 设备（如 Pico 等）的适配和优化；\n编写跨平台支持的原生模块（Native Plugins），深入理解平台架构和 API 使用。\n数据与后端整合\n使用 MySQL 数据库设计和管理医学教育项目的用户数据、课程内容和操作记录；\n编写高效的 SQL 查询，优化数据库性能，确保数据一致性；\n使用 Python 实现数据处理、分析和可视化功能，生成用户交互行为报告；\n负责前后端数据交互，使用 RESTful API 或 WebSocket 实现实时通信；\n集成第三方服务（如云存储、支付系统等），确保服务端稳定运行。\n多语言开发与协作\n使用 C#、JavaScript、Python 等多种语言完成项目开发任务，确保代码兼容性和可维护性；\n掌握 Web 端开发技术（如 JavaScript、Vue.js、React），完成 WebGL 构建和跨平台发布；\n熟悉 Python 的数据分析和机器学习库（如 Pandas、NumPy、TensorFlow），为医学教育项目提供智能推荐功能；\n熟悉前端框架（如 Three.js）与 Unity 的结合，实现 Web 端的 3D 可视化功能；\n掌握版本控制工具（如 Git、 SVN），并在团队中推动代码规范和协作流程。\n性能优化与调试\n深入分析 Unity 项目性能瓶颈，优化渲染、动画、声音等模块，提升运行效率；\n使用 Unity Profiler 和其他性能分析工具，诊断和解决内存泄漏、帧率抖动等问题；\n优化网络通信协议，提高数据传输效率，降低延迟；\n熟悉 WebGL 构建与优化，解决浏览器兼容性问题；\n编写自动化测试脚本，确保不同平台和版本的稳定性和兼容性。\n用户体验与 UI/UX 设计\n使用 Unity 的 UI 系统（如 UnityEngine.UI、Canvas 等）设计用户界面；\n熟悉 WXML/WXSS 语法，参与微信小程序开发，优化移动端用户体验；\n与美术和设计师协作，实现高性价比的视觉效果和交互逻辑；\n编写动态 GUI 逻辑，确保实时反馈用户操作；\n收集用户反馈，优化操作逻辑和界面布局，提升产品易用性。\n协作与项目管理\n与团队成员紧密合作，包括 3D 建模师、动画师、UI 设计师和医学顾问，确保项目按时高质量交付；\n参与需求分析、技术设计和原型开发，为项目可行性提供技术建议；\n制定开发计划，跟踪项目进度，解决问题并及时汇报进展；\n熟悉敏捷开发流程，能够独立完成任务并有效管理时间；\n掌握项目管理工具（如 Jira、Trello 等），提升团队协作效率。\n技术要求：\n熟练掌握 C#，具备良好的面向对象编程思想和代码规范；\n精通 Unity 3D 引擎，熟悉 Unity 的核心模块（Transform、 Rigidbody、 Collider、Animator、ParticleSystem 等）；\n熟练使用 Unity 的 Shader 实现自定义渲染效果，了解 OpenGL/Direct3D 的基础；\n熟悉 Python 的基础语法和常用库（如 os、datetime、json、requests 等），能够处理数据读取和分析任务；\n掌握 MySQL 数据库设计，能够独立完成表结构设计和 SQL 查询优化；\n熟悉 JavaScript 基础，了解前端框架（如 Vue.js、React）和 WebGL；\n熟悉跨平台开发，了解不同平台的性能特点和适配要求；\n熟悉 Git 等版本控制工具，具备良好的代码管理和协作能力；\n有医学、教育类项目经验优先，能够理解并实现医学相关的交互逻辑。\n加分项：\n有使用微信小程序（WXML/WXSS）开发经验；\n了解游戏引擎的底层实现原理，有自研或优化经验；\n熟悉机器学习算法，熟练使用Cline等辅助开发工具；\n有 AR/VR 项目开发经验，熟悉相关硬件和 SDK。",
+    "longitude": 118.357993,
+    "latitude": 34.640005,
+    "address": "临沂郯城县鸿福大厦3楼"
+  },
+  "lid": "9FEwMz46F8E.search.256",
+  "securityId": "FKjvgpK9syqro-k1pxU0i2nzZQgBvIoc5I0DEW-pbXyVNDR47myQj2nvgR_KpXVsMNbaBfiDgoOQ-xgAPCuqINU2zilT8m-zYaX8SQosY-LsAB7M7lIbBJlB9Zz7KZsLn20y2zphMQAuUok~"
+}

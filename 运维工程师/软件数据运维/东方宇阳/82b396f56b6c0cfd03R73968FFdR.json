@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0eGQzSb8sGH8X-R1tZxKYv_wHDnUXOVKophSRM_EhSgmQqr3_in7rcZO9xmG2LO1Tf8u1iTEHpy5RXI-3cE5pWKFOWi9R4io7-94xFXpZ7hTZZ47MWKYzVwzMWSzph7cwUCVUF9AIQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "82b396f56b6c0cfd03R73968FFdR",
+      "encryptUserId": "0c1a1c4527e9bfae1XR809q1GFI~",
+      "invalidStatus": false,
+      "jobName": "软件数据运维",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101130900,
+      "locationName": "哈密",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "部标平台数据维护\n车辆编号管理：负责维护车辆的编号系统，确保每辆车的编号准确无误，便于追踪和管理。\n车辆分组管理：定期更新和维护车辆分组信息，以支持车队的高效组织和调度。\n终端名称管理：确保所有车辆终端的名称清晰、准确，以便于识别和维护。\n视频摄像头质量检查：定期对车辆上安装的视频摄像头进行检查，确保其正常工作，以提供高质量的监控画面。\n告警记录监控与维护：监控车辆终端的告警记录，及时响应并处理告警事件，维护系统安全。\nGPS工牌信息更新：负责维护GPS工牌信息，确保定位数据的准确性和实时性。\n终端指令下发：根据运维需求，及时下发终端指令，以优化车辆性能和维护车辆安全。\n维护工单记录：详细记录所有的维护工单，包括问题描述、处理过程和结果，以便于问题追踪和历史数据分析\nTMS各车队班组维护\n人员档案管理：负责维护智慧矿山系统中的人员档案，确保所有员工的个人信息、职位变动和权限设置准确无误，以支持人力资源的有效管理。\n工牌信息更新：定期更新和维护员工的工牌信息，包括工牌的发放、回收和状态更新，以确保工牌系统的准确性和安全性。\n车辆信息维护：管理智慧矿山系统中的车辆信息，包括车辆的登记、状态监控和维护记录，以确保车辆数据的准确性和车辆管理的高效性。\n终端设备管理：负责监控和维护智慧矿山系统中的终端设备信息，包括设备的配置、状态监测和故障处理，以保障系统终端的稳定运行和数据的实时传输。\n各个班组车辆出勤情况跟踪\n1出勤情况监控与维护：负责密切跟进各班组反馈的车辆出勤情况，通过系统监控和数据分析，及时排查并解决终端设备的异常情况。在系统中进行动态维护，确保出勤数据的准确性和实时性。\n2.离厂车辆管理：对需要离厂的车辆进行严格的禁用处理，通过系统操作确保车辆状态的及时更新。这一措施有助于维护车辆数据的准确性，同时保障车队管理的规范性和安全性。\n各个班组换绑终端设备及车辆核查\n终端与车辆匹配审核：负责定期执行终端设备与车辆的安装匹配情况检查，确保每台终端设备正确安装并绑定到指定车辆。这一流程对于维护车队的运营效率和数据准确性至关重要。\n车辆信息校正：在核查过程中，一旦发现终端设备与车辆信息不符的情况，立即进行信息更正，更新系统中的记录，以确保车辆信息的准确性和完整性。这一措施有助于提高车队管理的规范性，减少运营中可能出现的混乱和错误。\n配合终端软件版本升级服务\n终端软件版本管理：负责监督和执行终端软件的版本升级服务，确保所有终端设备都能够顺利升级到客户指定的版本。这一过程需要精确的规划和执行，以避免服务中断和数据丢失。\n全面升级执行：通过精心协调的升级流程，确保每一台终端设备都按照预定的时间表和质量标准完成升级，从而满足客户的需求和期望。\n目标实现保障：在整个升级过程中，持续监控升级状态，及时解决可能出现的任何问题，确保最终实现既定的升级目标，为客户提供稳定、可靠的软件服务。\n客户沟通与支持：在升级过程中，与客户保持密切沟通，提供必要的技术支持和咨询，确保客户对升级过程和结果感到满意。\n记录与文档更新：详细记录整个升级过程，包括遇到的问题、采取的措施和最终结果，更新相关文档，为未来的维护和升级提供参考。\n客户软件功能需求业务对接\n现场功能测试协作：与北京研发团队紧密合作，参与现场测试以验证新功能的实现。确保测试环境与生产环境的一致性，以及测试数据的准确性和完整性，从而为客户提供高质量的软件功能。\n功能需求对接：积极与客户沟通，深入理解他们的软件功能需求，并将这些需求准确传达给研发团队。在测试过程中，确保所有功能都按照客户的要求实现，满足业务目标。\n组织批量测试验证：负责组织和执行批量测试，以验证软件功能的稳定性和性能。通过模拟实际使用场景，确保软件在高负载条件下的可靠性，以及在各种操作条件下的兼容性。\n测试结果分析与反馈：对测试结果进行详细分析，识别潜在的问题和改进点。及时向研发团队和客户提供反馈，推动功能的优化和完善。",
+      "encryptAddressId": "8e8d5645176acf601nF429S6GVRQx4m2Uvyf",
+      "address": "哈密伊吾县白石湖露天煤矿鸣阳车队",
+      "longitude": 94.73693,
+      "latitude": 43.938594,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bfa4c6c4c188713ed6bb72b0834f9f51e36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bf9bd5cb5c28f364c7a3b83f513373d2106bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "实施交付运维",
+        "系统运维",
+        "计算机相关专业",
+        "电子/电气/自动化相关专业",
+        "网络安全相关经验",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "牛先生",
+      "title": "新疆项目团队",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240616/607f1f3d68754fd0efcecdbe7f190a4dc6946dcb25b7433fca02890f835a0877ce28c0a864f62d5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "东方宇阳",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff0341e6bb333bf01Hx50t8~",
+      "brandName": "东方宇阳",
+      "logo": "https://img2.bosszhipin.com/mcs/chatphoto/20160326/059dc2fff9fce87ef857895413300262d9011219bca05e9f21913f2c3806483a.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成立于2007年7月，属央企投资的软件企业，国家高新技术企业。公司依托自主知识产权的数据平台形成完善的产品及服务体系，致力于为企业提供大数据技术产品及服务，并具备从数据应用方案咨询、数据治理、数据仓库建设、数据可视化分析、数据深度应用到数据平台实施运维服务的‘端到端’大数据价值服务能力，在高性能、易用性、AI深度分析等方面形成独特优势。 \r\n公司成立之初，本着数据驱动未来之心，先后承担了国家进出口配额数据中心的建设和运维工作，大型中央企业数据中台、数字厂矿的建设和运维等重大项目，逐步沉淀出【DoSSP数据快速应用支撑平台】和【DoSSP智联云】两大主要平台产品，为企业提供万物互联、数据应用服务，量身定制数据应用解决方案，提供高效优质的建设运营服务。产品亮点：提高企业效能，避免重复开发，形成数据资产。\n在工4.0的浪潮下，东方宇阳努力推动后ERP时代新技术和应用体系的标准化，【DoSSP智联云】助力组织迈入D时代。 \r\n公司愿景：让大众工作生活更有品质；公司使命：使工业智慧化；公司价值观：为客户提供适合的产品及服务、联结万物、价值驱动。 \n\n企业荣誉：\n北京市软件协会副会长单位；\n中国软件协会AAA级会员；\n中国电子信息行业联合会的理事单位；\n公司还是工信部两化联盟金融工委新成立的“企业价值与风险”专委会联席会长单位。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1732709287211,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方宇阳",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
