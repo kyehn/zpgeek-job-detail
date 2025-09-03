@@ -1,0 +1,108 @@
+{
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "八维九章科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1745747899417,
+        "brandName": "八维九章科技有限公司",
+        "customerBrandName": "八维九章科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d738f9c3dd4f72a51HV409i1EVM~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "是国内领先的智能物联网管理系统解决方案提供商，是专业从事智能管理，软、硬件系统的研发、生产、销售和服务的高科技企业。公司以人工智能和物联网技术为核心，专注于养老领域并拥有独立的自主知识产权的智能管理系统解决方案，在同类产品中具有领先优势。",
+        "labels": [
+            "节日福利",
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "全勤奖",
+            "股票期权",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240604/7bf6f160950405e9f665b6bb7f15deb4bff38a68774a0bd96c92fddb32b922fc3f9eafe3b10b6264.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "certMaterials": [],
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区东华·虹湾1号2栋302",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "d89085b8a6ecf3371nNy0t69E1NWyoy3WPyd",
+        "encryptId": "d7e15dd9745ddcea03Z42tW6F1tX",
+        "encryptUserId": "a918d0ef294707c80X160tW9FFdS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.621961,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.034698,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fed156b8371a77b6bdc1a2e2c4239fe1",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1. Java 编程语言精通： \n- 对 Java 语言基础有深入理解，熟练掌握数据类型、运算符、流程控制语句、面向对象编程（封装、继承、多态）等核心概念，并能在实际开发中灵活运用。 \n- 精通 Java 核心库，如集合框架（List、Set、Map 等）、多线程（Thread、Runnable、Executor 框架等）、异常处理（try - catch - finally、自定义异常等）、输入输出流（IO 流、NIO）等，能够高效编写可靠、高性能的代码。 \n- 理解 Java 虚拟机（JVM）原理，包括类加载机制、内存模型、垃圾回收机制等，能够根据 JVM 性能调优的相关知识，优化代码性能，排查内存泄漏、线程死锁等问题。\n\n2. 常用框架熟练运用： \n- 熟练掌握 Spring 框架，包括 Spring IoC（控制反转）和 AOP（面向切面编程）的原理与应用，能够基于 Spring 框架进行企业级应用的开发，实现依赖注入、事务管理、面向切面编程等功能，提高开发效率和代码的可维护性。 \n- 深入了解 Spring Boot 框架，能够快速搭建基于 Spring Boot 的应用程序，利用其自动配置、起步依赖等特性，简化项目搭建和开发过程，实现高效的微服务开发。 \n- 熟悉 MyBatis 或 Hibernate 等持久层框架，掌握 SQL 语句的编写与优化，能够进行数据库表结构设计、数据持久化操作，实现对象关系映射（ORM），将 Java 对象与数据库表进行高效交互。\n\n3. 数据库操作能力： \n- 熟练掌握至少一种关系型数据库，如 MySQL、Oracle、SQL Server 等，能够进行数据库的设计、创建、维护和优化。包括表结构设计、索引创建、存储过程编写等，确保数据库的高效运行。 - 具备编写复杂 SQL 查询语句的能力，能够进行数据的查询、插入、更新、删除等操作，并能通过 SQL 优化提高查询性能，如使用索引、避免全表扫描、合理使用连接查询等。 \n- 了解数据库事务管理，能够确保数据操作的原子性、一致性、隔离性和持久性（ACID 特性），处理并发事务时保证数据的完整性和正确性。\n\n4. 问题解决与调试能力： \n- 具备较强的问题分析和解决能力，在开发过程中遇到编译错误、运行时异常、性能瓶颈等问题时，能够迅速定位问题根源，并通过有效的调试工具（如 IDE 的调试功能、日志分析工具等）和方法解决问题。 \n- 善于总结开发过程中的问题和经验教训，不断提升自己的技术能力和解决问题的能力，能够在遇到类似问题时快速解决，提高开发效率。\n\n5. 团队协作与沟通能力： \n- 具备良好的团队协作精神，能够与团队成员密切配合，共同完成项目开发任务。在团队中积极分享自己的技术知识和经验，同时也善于学习他人的长处，提升团队整体技术水平。 \n- 能够与产品经理、测试工程师、前端工程师等其他相关人员进行有效的沟通，理解项目需求和业务逻辑，确保开发工作与项目整体目标保持一致，及时反馈开发过程中的问题和进度。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "云计算经验",
+            "架构设计经验",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73850ace828e12178863cee00ae54353"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JUVu870DnRXPm-a1tEYE4t6UTSSAaQZ6XwLb1MokeAB4jWtYX67F9msx306JT-zc91ROvP8ozoCx9T1v05_PssoAmp_Am-JLjdfUthXW569IGSTGnaXmYkDK58pDT_TWISIrM7RLobPoeCBUTsm7339ChMzlOw~~",
+    "selfAccess": false,
+    "sessionId": null
+}
