@@ -5,13 +5,15 @@
     "bossInfo": {
         "activeTimeDesc": "半年前活跃",
         "name": "张幸",
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg?x-oss-process=image/resize,w_100,limit_0",
         "title": "研发三部"
     },
     "brandComInfo": {
         "brandName": "有云数智",
         "encryptBrandId": "475c6d7e09078c691H152d2-E1o~",
         "industryName": "互联网",
-        "scaleName": ""
+        "labels": [],
+        "scaleName": null
     },
     "jobInfo": {
         "address": "武汉武昌区新大地酒店702室",
@@ -20,12 +22,32 @@
         "encryptUserId": "ed62092e5e856e821HFy2dW8GFc~",
         "experienceName": "1-3年",
         "jobName": "devops开发工程师",
+        "jobStatusDesc": "招聘中",
         "latitude": 30.536872,
         "locationName": "武汉",
         "longitude": 114.324554,
         "postDescription": "岗位职责：\n1. 负责云平台自动化部署工具的开发和维护\n2. 负责云平台运维工具的开发和维护\n3. 负责公司内部DevOps流程的规范化，并且维护公司内部CI/CD等基础设施\n任职要求：\n1. 具备较强的服务意识，和沟通能力\n2. 具备较强的责任感，和学习能力\n3. 具有良好的操作系统基础，熟悉Linux架构以及丰富的Linux系统管理经验\n4. 具有良好的网络基础，理解常见的网络协议以及原理\n5. 掌握基本的自动化运维工具：Shell/Python/Puppet/Ansible，并有相关的项目经验\n6. 计算机相关专业，本科及以上学历\n加分项：\n1. 熟悉虚拟化技术kvm， libvirt，qemu\n2. 深入理解OpenStack核心组件，如nova, cinder , glance, neutron, keystone等\n3. 有OpenStack/Ceph相关的开发以及运维经验\n4. 熟悉容器相关技术，有相关开发以及运维经验",
-        "salaryDesc": "6-10K"
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Jenkins",
+            "Ansible/Salt/Puppet",
+            "运维开发经验",
+            "Python/Shell",
+            "计算机相关专业"
+        ]
     },
-    "lid": "2vQDl3JilTG.search.11",
-    "securityId": "jN0daDeaqlL9j-G1Z7lSaQSnlGFX_uhLQliPMSsX599k0MKIlSRt0RTRO5HiinPX2y2Q6OZzi84VPV0GQx2wxaTBAdrxivIJBvVrIQX1slS26l9O3c8u1PVb_Rb9dmCaAVZOnBFqkg70lg~~"
+    "lid": "85irlkKIQyM.search.42",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "武汉招聘",
+            "运维开发工程师招聘",
+            "武汉运维开发工程师招聘",
+            "有云数智运维开发工程师招聘"
+        ],
+        "companyFund": "5516.138897万",
+        "resTime": "2013-01-21",
+        "updatedTime": "2025-08-05"
+    },
+    "securityId": "LdK0juU5heWCf-W1c0FpDRmC48jKdtyAnLrs9Kc9PM5n5qizglwXUIyMo8ixXEe_wzDLD--roS6E1_jl9T4Vf378H_jtEYGKosZyE_ZNx5zK9s1QQp82yDV2aYe2MDXyiZmbHuPRj_giDA~~"
 }

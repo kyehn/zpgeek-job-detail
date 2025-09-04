@@ -1,18 +1,26 @@
 {
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
     "atsOnlineApplyInfo": {
         "alreadyApply": false
     },
     "bossInfo": {
         "activeTimeDesc": "半年前活跃",
         "name": "王女士",
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230802/607f1f3d68754fd0e80ed9585b70d1e127ef85ea4652e8eaeaa571cdbe6b82d62e47de0ddb76b12_b.jpg?x-oss-process=image/resize,w_100,limit_0",
         "title": "人力资源部经理"
     },
     "brandComInfo": {
         "brandName": "湖北一颗麦穗信息技术",
         "encryptBrandId": "06b5905ce5c8bac41XRz39y1ElU~",
         "industryName": "移动互联网",
-        "scaleName": ""
+        "labels": [],
+        "scaleName": null
     },
+    "certMaterials": [],
+    "handicappedInfo": null,
     "jobInfo": {
         "address": "武汉汉阳区中海大厦A座18楼",
         "degreeName": "大专",
@@ -20,12 +28,43 @@
         "encryptUserId": "d7674ef31ddc544d1HR50t6_GVQ~",
         "experienceName": "1-3年",
         "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
         "latitude": 30.565856,
         "locationName": "武汉",
         "longitude": 114.245496,
         "postDescription": "1.测试小程序的各个模块；\n2.熟悉功能测试方法，测试流程和用例设计；\n3.能够熟练应用多种测试工具者优先考虑；\n4.1年以上测试工作经验。",
-        "salaryDesc": "5-6K"
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "软件测试",
+            "接口测试"
+        ]
     },
-    "lid": "2vcDozHTIox.search.65",
-    "securityId": "0Kjb9T_qur4Xu-_164-PMG6uzNyEWfzBlsp7_MJASOKzYTOhEWiO6hEyfXL8GuHrqwEvLOEgkxSQRzMjD8hrjeurPCEU3DcALPZVSDLUmcLIha161xi1YztljVncA4JyqMdAal49ZULqAw~~"
+    "lid": "85jozWlh27o.search.28",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "武汉招聘",
+            "测试工程师招聘",
+            "武汉测试工程师招聘",
+            "湖北一颗麦穗信息技术测试工程师招聘"
+        ],
+        "companyFund": "100万元",
+        "resTime": "2021-09-22",
+        "updatedTime": "2025-08-05"
+    },
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bvbPJq7r0oYi1-510xtd6ayChLlxRdviPRgJDLy3boBrrZMCqPGzkKUjhbkxsjFAMYArXfY8HUPIrY1xYaRS5ZQB2ntsJ-EnWYzv1q3xgaZaZOs0oTh6W5oaaeARXcawTVfUMcTaKn0jdQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }
