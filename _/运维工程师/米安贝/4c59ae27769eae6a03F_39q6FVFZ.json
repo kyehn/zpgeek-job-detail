@@ -1,0 +1,61 @@
+{
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "name": "崔晓唯",
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20250523/607f1f3d68754fd05475a0b0be0d82b284b47c31899b327b0591db773ec11704f9704f8e93aaf93_b.jpg?x-oss-process=image/resize,w_100,limit_0",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "brandName": "米安贝",
+        "encryptBrandId": "271a3c565b1f30b20nZ829m-EA~~",
+        "industryName": "互联网",
+        "introduce": "-- 我们是谁\n我们是一个创意无上限节操有下限的创业公司，服务于传统商业综合体，为其打造一站式商业会员运营管理体系以及智慧服务体系\n\n-- 我们的产品\n完整的会员管理体系，智慧城市生活服务体系，及其衍生商业运营服务体系\n\n-- 我们的小伙伴\n团队领导：80后 资深媒体人 互联网+商业运营专家 \n“用电商网站的思维运营一个购物中心”思想”创始人\n技术总监：资深开发者 企划活动+数字营销践行者\n十二年开发经验、成熟商业会员体系设计开发落地经验、微信智慧停车代表人物\n运营总监：商业会员成功运营经验 执行力超强 脑洞比黑洞还大\n设计总监：有情怀有节操，双商奇高，颜值与才华并存\n\n -- 我们想要的你\n有活力有激情，勇于发声，提出自己想法和创意，敢于打破世俗常规。责任心超强、学习能力超强，团队合作意识超强。\n如果你对事业充满激情，有一颗年轻而奔放的心，不受条条框框约束而又敢作敢当，勇于实践体现自己的价值，无论你的学历多少、经验多浅、年龄多小，你在这里都会受到欢迎并可能被委以重任！",
+        "labels": [
+            "节假日加班费",
+            "夜班补助",
+            "年终奖",
+            "节假日加班费",
+            "夜班补助",
+            "年终奖",
+            "节假日加班费",
+            "夜班补助",
+            "年终奖",
+            "节假日加班费",
+            "夜班补助",
+            "年终奖"
+        ],
+        "scaleName": null
+    },
+    "jobInfo": {
+        "address": "西安新城区金花·新都汇写字间A座1401",
+        "degreeName": "大专",
+        "encryptId": "4c59ae27769eae6a03F_39q6FVFZ",
+        "encryptUserId": "dd26162c4a23c15e0Hd43Ny8F1I~",
+        "experienceName": "经验不限",
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "latitude": 34.268395,
+        "locationName": "西安",
+        "longitude": 108.996693,
+        "postDescription": "【岗位职责】\n1. 机房/服务器日常运维管理\n * 负责物理服务器、虚拟机、网络设备的部署、维护、巡检和故障处理\n * 参与 IDC 机房基础设施规划、服务器上架、布线、电源等管理工作\n2. 系统运维与服务稳定性保障\n * 管理和优化 Linux 系统，包括系统参数配置、安全加固、性能调优等\n * 负责服务部署、配置、版本升级与回滚，保障系统稳定性与可用性\n3. CI/CD 流程与自动化发布维护\n * 构建并维护 Jenkins 等流水线工具\n * 编写自动化脚本（Shell/Python/Ansible），实现自动化部署、回滚、扩缩容等\n4. 容器与 Kubernetes 集群管理\n * 负责 Kubernetes 集群的部署、扩容、监控、调度优化等工作\n * 管理 Helm Chart、Ingress、Sidecar 等关键组件\n5. 参与测试与质量保障\n * 协助测试和开发团队进行环境搭建、集成测试、性能测试等\n * 参与故障排查与复盘，持续优化系统监控与告警机制\n【任职要求】\n基础能力\n* 熟练掌握 Linux 系统操作与维护\n* 熟悉常见中间件和服务部署，如 Nginx、Tomcat、Redis、MySQL 等\n* 熟悉虚拟化与网络基础知识\nDevOps / 自动化能力\n* 熟练使用 Jenkins、GitLab CI、ArgoCD 等持续集成与持续部署工具\n* 具备 Shell/Bash/Python 脚本编写能力\n* 有 Ansible、Terraform 等基础设施即代码工具使用经验者优先\nKubernetes 与云原生相关能力\n* 熟练掌握 Kubernetes 的安装配置、运维和日常管理\n* 熟悉 Docker 镜像构建、Harbor 镜像仓库、Ingress 配置等容器生态技术\n* 熟悉服务监控和日志系统（Prometheus、Grafana、ELK、Alertmanager 等）\n测试能力\n* 了解基本的测试方法（单元测试、接口测试、压力测试等）\n* 能够配合测试团队提供稳定的测试环境与发布流程支持\n加分项\n* 有 SRE、混合云、私有云项目经验者优先\n* 有线上故障应急响应、系统恢复经验者优先\n* 有安全运维相关经验者优先\n* 具备开发背景者优先\n* 有实际使用阿里云 ASK（Serverless Kubernetes）或 ACK（容器服务 Kubernetes 版）的经验者优先\n* 熟悉阿里云 VPC、SLB、日志服务、云监控、容器镜像服务等产品者优先\n【工作方式与成长路径】\n* 深度参与系统架构设计与优化，提升平台稳定性与弹性\n* 可向高级运维工程师、SRE、DevOps 架构师或技术管理岗位发展",
+        "salaryDesc": "4-7K",
+        "showSkills": []
+    },
+    "lid": "4ZOZhtKVpm0.search.17",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "西安招聘",
+            "运维工程师招聘",
+            "西安运维工程师招聘",
+            "米安贝运维工程师招聘"
+        ],
+        "companyFund": "500万人民币",
+        "resTime": "2017-09-26",
+        "updatedTime": "2025-09-10"
+    },
+    "securityId": "6LQz-WQvTyU0w-110ev4hKarDUpK-Uw0AOIYhliU7VKuJrnvA5B9oOFpMsS5thWC77J72mdNuPwlVln6hrtGiuPkXggXCZmLhDjtHMDrFMAd0GQYiF3jJd0vu3TD7i4gbOD5-u95_ccz"
+}
