@@ -1,0 +1,80 @@
+{
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "name": "张罗康",
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20250108/607f1f3d68754fd0b0f00024ad1cbe2b35efae3320bda72a1431ef8ff5c8b3797f4401b83b9a057_b.jpg?x-oss-process=image/resize,w_100,limit_0",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "brandName": "江苏麒航航天科技",
+        "encryptBrandId": "685dff5aae9191971H142NW7E1M~",
+        "industryName": "铁路/船舶/航空/航天制造",
+        "introduce": "江苏中麒鑫航天科技集团有限公司，立足中国航天科技前沿，深耕航空智能制造领域，以科技创新驱动未来出行变革。作为国家级科技型中小企业、省创新型中小企业、省民营科技企业及三星上云企业，公司凭借硬核实力与前瞻布局，已成为全球低空经济领域的领军者。\n公司聚焦工业无人机、eVTOL飞行器、飞行汽车三大核心赛道，构建覆盖研发、生产、应用的全产业链生态。依托航天航空领域专家教授领衔的高端研发团队，结合1500㎡智能化研发中心与3000㎡现代化生产基地，持续突破技术瓶颈。目前，公司已斩获24项核心专利，技术成果广泛应用于智能控制、动力系统、垂直起降等关键领域，奠定行业技术标杆地位。",
+        "labels": [
+            "节日福利",
+            "带薪年假",
+            "全勤奖",
+            "五险一金",
+            "节日福利",
+            "带薪年假",
+            "全勤奖",
+            "五险一金",
+            "节日福利",
+            "带薪年假",
+            "全勤奖",
+            "五险一金",
+            "节日福利",
+            "带薪年假",
+            "全勤奖",
+            "五险一金"
+        ],
+        "scaleName": null
+    },
+    "jobInfo": {
+        "address": "苏州苏州工业园区新盛里·低空经济产业园s8栋",
+        "degreeName": "大专",
+        "encryptId": "f6c2a0c4f5de260803J-39m_FVVV",
+        "encryptUserId": "6bae5bbbab1bd68f0Xxy3N68EVBW",
+        "experienceName": "1-3年",
+        "jobName": "软件运维工程师",
+        "jobStatusDesc": "最新",
+        "latitude": 31.30689056700253,
+        "locationName": "苏州",
+        "longitude": 120.7877583979872,
+        "postDescription": "我们正在寻找一位充满激情和动手能力的运维工程师，你将作为技术核心成员，全面负责公司业务系统的从零搭建、部署、运维和优化工作。如果你享受亲手搭建和维护稳定、高效服务器环境的成就感，那么这个职位非常适合你！\n主要职责：\n1.基础设施搭建： 负责从裸机或云服务器（ECS）开始，完成Linux系统初始化、安全加固、性能优化等全套环境搭建。\n2.服务部署与配置： 独立部署和维护Web服务（Nginx/Apache）、应用中间件（Tomcat/Node.js/Python）、数据库（MySQL/Redis）等。\n3.域名与网络管理：\n熟练配置和管理DNS解析（添加A记录、CNAME、MX记录等）。\n熟练配置Nginx/Apache等反向代理服务器，实现负载均衡、动静分离、SSL证书配置与HTTPS强制跳转。\n4.持续集成/持续部署（CI/CD）： 搭建和维护Jenkins、GitLab CI或其他CI/CD工具，自动化代码部署流程。\n5.监控与安全： 搭建系统监控体系（如Prometheus+Grafana、Zabbix），制定报警规则，保障业务7x24小时稳定运行；具备基本的安全防护能力。\n6.故障排查： 快速响应和处理系统及网络故障、性能瓶颈，并形成总结文档。\n7.自动化与DevOps实践：\n设计和维护CI/CD流水线（如Jenkins/GitLab CI），实现自动化部署。\n容器化平台（Docker/Kubernetes）的搭建、运维和应用部署。\n8.高可用保障：\n制定并执行监控、报警、数据备份与恢复方案，快速响应并处理线上故障。\n持续进行系统性能分析和调优。\n职位要求：\n1.硬性技能：\n精通Linux操作系统，能熟练使用常用命令，具备Shell脚本编写能力。\n必须有从零部署并维护生产环境的完整经验，熟悉服务器初始化、服务部署、配置调优全流程。\n精通Nginx的配置，包括反向代理、负载均衡、缓存等。\n熟练掌握域名注册、备案（如有）、DNS解析（A/CNAME/MX记录等）全套流程。\n熟悉至少一种自动化配置工具（如Ansible/SaltStack）。\n了解Docker容器技术及其编排部署。\n了解网络基础知识，能配置和管理防火墙等网络设备\n2.软性能力：\n具备极强的主动性和解决问题的能力，能独立负责一个项目的基础设施。\n良好的沟通能力和团队协作精神，工作细致严谨。\n强烈的责任感和 ownership（主人翁意识），对线上稳定性有敬畏之心。\n加分项：\n有云平台（阿里云、腾讯云、AWS等）使用和管理经验。\n有容器化（Docker/K8s）部署和管理经验。\n有自动化运维开发经验（Python/Go）。\n有完整配置域名和SSL数字证书配置经验\n拥有小程序或互联网项目从开发到上线的完整经验，尤其熟悉包含支付流程的部署、配置与联调",
+        "salaryDesc": "6-9K·13薪",
+        "showSkills": [
+            "网络运维",
+            "Nginx",
+            "运维开发/DevOps",
+            "Redis",
+            "Python/Shell",
+            "计算机相关专业",
+            "网络安全相关经验",
+            "运维经验",
+            "域名配置",
+            "MySQL/Oracle",
+            "Docker",
+            "系统运维",
+            "运维开发经验",
+            "映射公网"
+        ]
+    },
+    "lid": "1RkjXfq4ki5.search.10",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "苏州招聘",
+            "运维工程师招聘",
+            "苏州运维工程师招聘",
+            "江苏麒航航天科技运维工程师招聘"
+        ],
+        "companyFund": "1000万元",
+        "resTime": "2022-08-31",
+        "updatedTime": "2025-09-17"
+    },
+    "securityId": "9m08yEmExMUDG-x1Sr7S3re4md5g0_h2nCrvHGZITghqjkfUfmZEIFGr1aCf4NTFxaPXA9cbcYSpmW8oC5zHpRrJIutJJMXLO3khN6GXeUujLkTKVoic0De53q0PpEPCj3DLSpqDvWKJgrw~"
+}
