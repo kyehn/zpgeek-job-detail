@@ -8,14 +8,16 @@
     },
     "bossInfo": {
         "activeTimeDesc": "半年前活跃",
-        "name": "高睿",
+        "name": "高先生",
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210316/7164f489b7c096099d1289f2980b162d673808b979ddb17ddd652e77ceb_b.jpg?x-oss-process=image/resize,w_100,limit_0",
         "title": "人事专员"
     },
     "brandComInfo": {
         "brandName": "知常容",
         "encryptBrandId": "82992861766b3d011XF52t28Eg~~",
         "industryName": "计算机软件",
-        "scaleName": ""
+        "labels": [],
+        "scaleName": null
     },
     "certMaterials": [],
     "handicappedInfo": null,
@@ -26,13 +28,33 @@
         "encryptUserId": "3bd5b77f3779ce4333R829S-FFU~",
         "experienceName": "1-3年",
         "jobName": "自动化测试",
+        "jobStatusDesc": "招聘中",
         "latitude": 31.329557,
         "locationName": "芜湖",
         "longitude": 118.360351,
         "postDescription": "工作经历：2年左右\n学历：大专及以上\n愿意去芜湖长期工作",
-        "salaryDesc": "4-8K"
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "JAVA",
+            "python",
+            "Android自动化测试",
+            "UIAutomator",
+            "Appium"
+        ]
     },
-    "lid": "1XKuqVodxSj.search.14",
+    "lid": "8Czl1JtqJ6F.search.2",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "芜湖招聘",
+            "自动化测试招聘",
+            "芜湖自动化测试招聘",
+            "知常容自动化测试招聘"
+        ],
+        "companyFund": "100万人民币",
+        "resTime": "2017-02-13",
+        "updatedTime": "2025-09-11"
+    },
     "oneKeyResumeInfo": {
         "alreadySend": false,
         "canSendPhone": false,
@@ -45,7 +67,7 @@
         "beFriend": false,
         "interestJob": false
     },
-    "securityId": "CT3Cogz3LSJW_-R1VODYy3sNqUNunvLFKE6xRaoyzbZQIOpHHY890rrtEIotJtqxHom8G-THcACHkBkicjgVcb_1RIG6KAfTXlj4QIGh3ihDk67JauLyNAtmhw0J1Cr9msbk8DBvEMA~",
+    "securityId": "fmMe1iq2AUqED-U15rNKqclhocmu3VX7nzeWUKpZdmHeQchuPZHuopxXmve8qw7ThImErT_hTbP-HxQoggDuKMSrpfAPXd9HX1-9mtPiZjmjv-rQ",
     "selfAccess": false,
     "sessionId": null
 }
