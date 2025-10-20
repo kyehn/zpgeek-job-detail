@@ -1,0 +1,67 @@
+{
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "name": "李先生",
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240515/607f1f3d68754fd00ef3194797e57308e8b07d13ff5951169be69766ba2459b8f30dc9a633c2553_b.jpg?x-oss-process=image/resize,w_100,limit_0",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "brandName": "石家庄燎原",
+        "encryptBrandId": "eed4b9082dd4badb1HB-3N60Eg~~",
+        "industryName": "大数据",
+        "introduce": "燎原科技，公司全称石家庄燎原网络技术有限公司。坐落于河北省省会石家庄。 燎原科技于2011年从事支付行业，拥有50余人的专业化服务团队，是致力于公共支付渠道建设，运营和服务的专业金融机构。公司深入B2C，B2B和O2O领域，推动线下电子金融和支付平台的研发，以及智能终端的通信网络建设，全面提供电子金融、移动支付和线下受理服务网点，网络运营管理与解决方案，是线下便利电子商务的领航者。",
+        "labels": [
+            "年终奖",
+            "绩效奖金",
+            "加班补助",
+            "全勤奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "零食下午茶",
+            "团建聚餐",
+            "节日福利",
+            "生日福利",
+            "交通补助",
+            "五险"
+        ],
+        "scaleName": null
+    },
+    "jobInfo": {
+        "address": "石家庄新华区华强中心华强中心A座写字楼2311",
+        "degreeName": "本科",
+        "encryptId": "b2225bd481e315c803Jy0t21FVpY",
+        "encryptUserId": "d8b57a18e2109c49031z2N20GFQ~",
+        "experienceName": "经验不限",
+        "jobName": "java工程师",
+        "jobStatusDesc": "招聘中",
+        "latitude": 38.045209,
+        "locationName": "石家庄",
+        "longitude": 114.481203,
+        "postDescription": "岗位职责\n1. 参与公司核心业务系统的架构设计与高质量开发，保障系统在高并发、高可用场景下的稳定、高效运行； \n2. 负责后端核心模块开发、数据库设计与性能优化，包括但不限于 MySQL 分库分表策略实施、慢 SQL 调优、索引优化等； \n3. 设计并维护高可用、高扩展性的 RESTful API 接口，配合前端团队完成联调，支持前端页面样式与交互的快速迭代； \n4. 熟练运用主流中间件与大数据组件，如 Redis（缓存/分布式锁）、RabbitMQ（异步解耦）、Elasticsearch、ClickHouse等，提升系统整体性能与可扩展性； \n5. 积极探索并落地智能化开发实践，合理运用 AI 工具（如大模型）辅助编码、测试、文档生成，提升研发效能； \n6. 参与线上系统监控、故障排查与性能调优，具备良好的线上问题定位与应急响应能力。\n---\n任职要求\n1. 统招本科及以上学历，计算机或相关专业，具备扎实的计算机基础和良好的沟通表达能力； \n2. 2年以上 Java 后端开发经验，具备中大型复杂业务系统开发经验，有支付、金融、聚合业务系统背景者优先； \n3. 精通 MySQL，深入理解事务、锁机制、执行计划，具备分库分表（如 ShardingSphere）实战经验，能独立完成 SQL 优化与数据库性能调优； \n4. 熟练掌握 MyBatis 及其高级特性（如动态 SQL、插件机制、二级缓存等），熟悉主流 ORM 框架； \n5. 熟悉 Redis 核心数据结构及应用场景（如缓存穿透/雪崩防护、分布式锁、限流等），有生产环境调优经验； \n6. 有 RabbitMQ/Kafka 等消息中间件使用经验，理解消息可靠性、顺序性、幂等等关键问题； \n7. 具备 Linux 环境开发与运维能力，能熟练使用常用命令进行日志分析、进程监控、性能排查等； \n8. 了解前端基础技术（HTML/CSS/JS），能使用 Vue 进行页面调整与联调； \n9. 熟悉 Elasticsearch 和 ClickHouse 者优先，有实时数据查询、日志分析或 OLAP 场景实践经验更佳； \n10. 了解数据安全与合规要求者优先，如加密算法（AES/RSA）、密钥管理（KMS）、PCI-DSS 或金融行业安全规范。\n---\n加分项（优先考虑）\n- 有高并发、高可用分布式系统设计经验； \n- 熟悉微服务架构（Spring Cloud/Alibaba）及容器化部署（Docker/K8s）； \n- 对研发效能、DevOps、CI/CD 有实践认知； \n- 具备技术热情，持续关注 AI 编程、云原生、大数据等前沿技术。",
+        "salaryDesc": "7-10K·13薪",
+        "showSkills": [
+            "Java",
+            "MyBatis",
+            "Redis",
+            "Spring"
+        ]
+    },
+    "lid": "9ivGdvaGTS3.search.36",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "石家庄招聘",
+            "Java招聘",
+            "石家庄Java招聘",
+            "石家庄燎原Java招聘"
+        ],
+        "companyFund": "500万人民币",
+        "resTime": "2017-12-03",
+        "updatedTime": "2025-10-20"
+    },
+    "securityId": "3NGAXJAtNAwYn-D1ZqS-Fm6W2xWIfaQYzKrL4Wh6V7J8GMGmsp6iD0ygeqedWbvyAvk8YmU6FydkbyNy_m2Ia75b_JSPRmcu0d8SATpUvEL71wcVHMWIEM8YwLhHluANzO14dV5fUeQu"
+}
