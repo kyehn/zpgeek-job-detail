@@ -3,7 +3,7 @@
         "alreadyApply": false
     },
     "bossInfo": {
-        "activeTimeDesc": "在线",
+        "activeTimeDesc": "刚刚活跃",
         "name": "张女士",
         "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220508/607f1f3d68754fd0f25cbf1e6135a65d2af54a2d241f0f42ae18236b3526f3b28240a5a43c8_b.jpg?x-oss-process=image/resize,w_100,limit_0",
         "title": "经理"
@@ -14,24 +14,6 @@
         "industryName": "计算机软件",
         "introduce": "山东至信信息科技股份有限公司成立于2011年8月，主要业务涵盖软件研发、创新系统集成、物联网、大数据、云计算、虚拟现实、人工智能、国产软硬件替代等新一代信息技术领域。多年来，公司专注政务、教育两大领域，赋能数字政府、共建未来教育。公司始终坚持“扎根日照、辐射山东、服务全国”的市场定位，走自主研发和创新之路。\n 十余年来，公司凭借着精准的市场定位、扎实的产品、良好的信誉和细致周到的服务，逐步发展成为助推产业数字化转型升级的软件行业领军企业。公司现已是工业和信息化部认定的国家级专精特新“小巨人”企业，是科技部认定的国家级高新技术企业，是日照市新一代信息技术行业北交所上市重点储备企业。是教育部批准设立的国家级职业教育教师企业实践基地。现已通过国际软件成熟度最高等级CMMI5级、数据管理能力成熟度DCMM3级、ITSS2级、电子与智能化壹级资质、信息安全服务资质、知识产权和业务连续性管理体系等20余项权威认证。\n 公司现被认定为山东省智慧大数据工程研究中心、山东省软件工程技术中心、山东省物联网传感技术应用工程研究中心、山东省数据开放创新应用实验室、山东省企业技术中心、山东省一企一技术中心等10余个科创平台。曾获得国家级教学成果奖、省技术发明奖、省大数据科技进步奖，山东省人民政府颁发的“第六届企业管理创新成果奖”，成功实施山东省“工赋百景”数字化转型揭榜挂帅试点项目、山东省级专利导航项目。现已主导起草标准、授权发明专利、软件著作权等450余项，自主研发政务和教育类平台400余个，服务于全国1000余家党政机关及企事业单位。",
         "labels": [
-            "周末双休",
-            "购车补助",
-            "购房补助",
-            "五险一金",
-            "免费停车",
-            "免费旅游",
-            "周末双休",
-            "购车补助",
-            "购房补助",
-            "五险一金",
-            "免费停车",
-            "免费旅游",
-            "周末双休",
-            "购车补助",
-            "购房补助",
-            "五险一金",
-            "免费停车",
-            "免费旅游",
             "周末双休",
             "购车补助",
             "购房补助",
@@ -48,19 +30,24 @@
         "encryptUserId": "cfd7b374511b82531nR63dm5EFFZ",
         "experienceName": "1-3年",
         "jobName": "软件运维工程师",
-        "jobStatusDesc": "招聘中",
+        "jobStatusDesc": "最新",
         "latitude": 35.461035,
         "locationName": "日照",
         "longitude": 119.541052,
         "postDescription": "岗位职责\n1. 负责服务器环境（物理机/云平台）的搭建、维护、系统部署及故障排查； \n2. 编写和维护自动化部署脚本（Shell/Python/Ansible等），保障CI/CD流程高效安全； \n3. 推动持续集成/持续交付（CI/CD），优化研发流程，提升发布效率； \n4. 负责线上服务的监控（Prometheus/Grafana/ELK等），快速定位并解决故障，保障SLA； \n5. 负责中间件（Nginx、Redis、MySQL、MongoDB、Kafka、ES、MQ等）的部署、调优与维护； \n6. 设计高可用架构，制定容灾备份策略，确保业务连续性； \n7. 搭建并维护K8S/Docker容器平台，优化集群调度与资源管理； \n岗位要求\n1. 统招大专及以上学历，计算机相关专业，2年以上服务器运维经验（物理机/云平台）； \n2. 熟练Linux系统管理，掌握Shell/Python等脚本语言，能编写自动化运维工具； \n3. 熟悉Java生态（SpringBoot/SpringCloud），具备JVM调优经验； \n4. 精通MySQL/Redis/Nginx/Kafka/ES等组件的部署、监控与性能优化； \n5. 熟练使用Git/Jenkins等CI/CD工具，熟悉Ansible/Terraform等自动化运维工具； \n6. 熟悉K8S/Docker，具备集群管理、Helm Chart部署及故障排查能力； \n7. 了解公有云（如：阿里云）核心服务（如ECS/VPC/SLB）； \n8. 具备网络安全知识（防火墙/WAF/RBAC），熟悉等保2.0或ISO27001标准； \n9. 良好的问题排查能力，能快速响应线上故障并推动解决； \n10. 有国产化（信创）环境运维经验，了解国产系统、数据库、中间件安装部署； \n11. 具备安全运维经验（渗透测试/漏洞修复）优先考虑。 \n12. 热爱技术，具备团队协作精神，有较强的文档编写和沟通能力。",
         "salaryDesc": "5-8K",
         "showSkills": [
-            "网络运维",
-            "K8S",
-            "计算机相关专业"
+            "Golang",
+            "Java",
+            "Ansible/Salt/Puppet",
+            "系统运维",
+            "计算机相关专业",
+            "Python/Shell",
+            "网络安全相关经验",
+            "Kubernetes"
         ]
     },
-    "lid": "4IUFIIQPSgs.search.31",
+    "lid": "36vTS6D3P5z.search.12",
     "meta": {
         "breadcrumbs": [
             "首页",
@@ -71,7 +58,7 @@
         ],
         "companyFund": "1280万人民币",
         "resTime": "2011-08-08",
-        "updatedTime": "2025-09-11"
+        "updatedTime": "2025-11-03"
     },
-    "securityId": "55wQPQrk2hTLu-d1zGCUOeV0wvlz5oE4VwQTLz6Tk9G4NFY1-D0unShZhvwl0nUdaa7zrdXu9lqbRZZD96wx03Ltnwc_IUuEPWNR0bf_p1cuUG-UGU39uuvJGE4FUIXmA9Kwah-arGafCAtubr-Ry_08B7wZsqdqQftFz2rsqJvv9EYeEa8~"
+    "securityId": "h9UiUuTGjx-69-y1ztKyf4kmuocKJnU1nZfIUdY3a3OBCIftt5uNFx71w1P-QlChUhgz8b8q7VrfW61ch2kRQTf9ajmnA_vDAMO019IW6DoyJWoOcOvx"
 }
