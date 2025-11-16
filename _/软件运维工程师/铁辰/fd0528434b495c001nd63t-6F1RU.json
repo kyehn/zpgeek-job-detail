@@ -7,15 +7,30 @@
         "alreadyApply": false
     },
     "bossInfo": {
-        "activeTimeDesc": "3日内活跃",
-        "name": "张璐",
+        "activeTimeDesc": "今日活跃",
+        "name": "张女士",
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180712/04db27690b0510c58a6045a0a84ee94d3cdd6748e2cb2cc6d431c577536_b.jpg?x-oss-process=image/resize,w_100,limit_0",
         "title": "人事"
     },
     "brandComInfo": {
         "brandName": "铁辰",
         "encryptBrandId": "35c4e86c430ddd2003x909q4Ew~~",
         "industryName": "计算机软件",
-        "scaleName": ""
+        "introduce": "安全技术、信息技术、物联网技术开发、技术咨询、技术服务、技术转让；计算机软硬件研发、销售、技术咨询、技术服务，技术转让；消防工程设计、施工；消防设施维护、保养检测；消防安全评估；互联网信息服务；电子产品、通信产品销售、维修",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "包吃",
+            "节日福利",
+            "生日福利",
+            "有无线网",
+            "团建聚餐",
+            "餐补"
+        ],
+        "scaleName": null
     },
     "certMaterials": [],
     "handicappedInfo": null,
@@ -26,13 +41,32 @@
         "encryptUserId": "6a196fcec966bb8d03Z_2Ni-ElY~",
         "experienceName": "1年以内",
         "jobName": "软件运维工程师",
+        "jobStatusDesc": "招聘中",
         "latitude": 31.98156,
         "locationName": "南京",
         "longitude": 118.780849,
         "postDescription": "职责：\n　　1、负责公司现有线上产品的日常运维工作\n　　2、负责线上产品所涉及服务器及网络的维护及故障排除\n　　3、负责公司现有线上产品功能扩展及维护\n　　4、负责产品功能、产品实施方面的培训及验收工作\n　　职位要求：\n　　1、1年以上项目运维经验\n　　2、熟悉Linux 服务器维护，熟悉nginx，springboot 项目部署\n　　3、熟悉Oracle、MySQL数据基础操作\n　　4、熟练掌握Git,SVN等代码管理工具，对构建，代码检查，发布有相应经验。\n　　5、有JAVA开发基础的优先考虑\n　　5、对技术有激情、有追求;富于技术创新精神，勇于解决技术难题;\n　　6、责任心强，具备良好的团队合作精神和承受压力的能力。",
-        "salaryDesc": "6-9K"
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "Java",
+            "Nginx",
+            "服务器配置",
+            "MySQL"
+        ]
     },
-    "lid": "27XRs9GkrQO.search.3",
+    "lid": "2z5bbTCzdHf.search.14",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "南京招聘",
+            "运维工程师招聘",
+            "南京运维工程师招聘",
+            "铁辰运维工程师招聘"
+        ],
+        "companyFund": "1000万人民币",
+        "resTime": "2019-05-31",
+        "updatedTime": "2025-11-15"
+    },
     "oneKeyResumeInfo": {
         "alreadySend": false,
         "canSendPhone": false,
@@ -45,7 +79,7 @@
         "beFriend": false,
         "interestJob": false
     },
-    "securityId": "SQYCtOWHSz3V_-M1gdJyDsCAAkxP_O9typCCz2IrMhQ5d8EKn_2eR_DHFWINlaEr1g7sxEdCTMxd_oqGeOYA_4YwEeHk3USxcOLF39D-miKVhPNx6fltqrHCey8pmFXa-7KFougWZCJ_",
+    "securityId": "Rbncc0rJ-PsIq-71L_fWgg2rLI4IDUtc9Q0hLk770fcvZRVwFJE4mcM6RFGEYcJhXAwj77IqGl6aPfvuOlA4JAPN-kbRUmG2FO5vnK16yWEoO41sqQ~~",
     "selfAccess": false,
     "sessionId": null
 }
