@@ -7,15 +7,32 @@
         "alreadyApply": false
     },
     "bossInfo": {
-        "activeTimeDesc": "3日内活跃",
+        "activeTimeDesc": "刚刚活跃",
         "name": "黄女士",
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210405/378ad33f924e26c1a1a9b32ccbf955c8268d6a1f93dcaea7e950996ef12_b.jpg?x-oss-process=image/resize,w_100,limit_0",
         "title": "人事专员"
     },
     "brandComInfo": {
         "brandName": "成都思必得",
         "encryptBrandId": "04d088b911808ff51nV839-1FQ~~",
         "industryName": "计算机软件",
-        "scaleName": ""
+        "introduce": "思必得软件，是中国高教、科研行业数字采购、智慧资产管理软件头部企业，始终致力于协助用户提升数字化综合治理能力；团队十多年来持续服务包括清华大学、上海交通大学、浙江大学、四川大学等在内的200余所高校和科研单位，拥有超过60%以上的部委直属高校客户。\n 公司秉承“思难行易，势在必得”的企业哲学，践行“客户第一、利他思维、持续进取、同创共享”的企业文化，公司总部位于成都，在北京、广州、深圳、合肥、哈尔滨、西安、福州等地设有分支机构，2018年成功引入上市公司博思软件（股票代码300525）的战略投资。\n 公司福利：▪五险一金 ▪商业保险 ▪健康保险 ▪定期体检 ▪员工培训 ▪生日福利 ▪结婚礼金 ▪生子礼金 ▪节假日福利▪ 法定节假日 ▪带薪假期 ▪运动俱乐部 ▪团建旅游",
+        "labels": [
+            "交通补助",
+            "节日福利",
+            "零食下午茶",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "股票期权",
+            "年终奖",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金",
+            "生日福利",
+            "团体健康险"
+        ],
+        "scaleName": null
     },
     "certMaterials": [],
     "handicappedInfo": null,
@@ -26,13 +43,33 @@
         "encryptUserId": "c76752ec11aeb5720nVy2tS-FFNW",
         "experienceName": "1-3年",
         "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
         "latitude": 30.631,
         "locationName": "成都",
         "longitude": 104.077,
         "postDescription": "岗位职责\n1、负责软件产品的安装部署、调试升级。\n2、负责客户服务的运维监控、漏洞修复，保障系统运行。\n3、负责客户数据初始化、数据清洗等工作。\n4、负责处理用户软件使用过程中的各类问题。\n5、为销售人员提供技术支持。\n6、公司安排的其他运维支持工作。\n任职要求\n1.大学本科学历，计算机相关专业者优先；\n2.熟悉 Linux 操作系统，能熟练安装和维护 Linux 服务器，熟练使用 Linux 基础指令；\n3.熟悉 Tomcat、Jboss等中间件，掌握主流 WEB 服务器的配置和维护，如 Nginx、Apache；\n4.熟练使用 SQL 命令；熟悉主流数据库的安装部署、维护、数据备份恢复，熟悉 Oracle、Postgresql、达梦数据库优先；\n5.掌握容器化技术，熟悉 Docker 环境的部署和运维；\n6.工作细致耐心，敬畏生产，有责任心，具备良好的服务意识。",
-        "salaryDesc": "5-6K"
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "Nginx",
+            "MySQL/Oracle",
+            "Docker",
+            "boss系统运维",
+            "计算机相来自BOSS直聘关专业"
+        ]
     },
-    "lid": "2gaV0DguSDC.search.26",
+    "lid": "3MeaODuwbq9.search.10",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "成都招聘",
+            "运维工程师招聘",
+            "成都运维工程师招聘",
+            "成都思必得运维工程师招聘"
+        ],
+        "companyFund": "588.9548万人民币",
+        "resTime": "2004-03-30",
+        "updatedTime": "2026-01-07"
+    },
     "oneKeyResumeInfo": {
         "alreadySend": false,
         "canSendPhone": false,
@@ -45,7 +82,7 @@
         "beFriend": false,
         "interestJob": false
     },
-    "securityId": "0A3Fnf8fEAzb_-V1Ax5RFxEEKUYjwlwC4ZWoc75KK0tnL9wgeKwLPK-j5qOjBoVUakCmtKtG0NwED2sgINZz_4NNZ9RCxvcUPajjxNcebOPll_b4IarWhQUo8xM9VeiilnMd0YrpC6_jpA~~",
+    "securityId": "Gb_5zrI0_uZ1B-Z1X5EQHYBnMAE8nOXu6duAqaSkxfrm4STXVUbKLI62rZ3WPj8eKPfrLTvyZMRFqtfKGwLHVduHH4wojDBi5bQkiMvxN4zabWNz8hk~",
     "selfAccess": false,
     "sessionId": null
 }

@@ -1,18 +1,36 @@
 {
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
     "atsOnlineApplyInfo": {
         "alreadyApply": false
     },
     "bossInfo": {
-        "activeTimeDesc": "半年前活跃",
-        "name": "朱孝力",
+        "activeTimeDesc": "2月内活跃",
+        "name": "朱先生",
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190510/6c2ba47af45efe0359c60fc77ac03710594827831f1dc4a77b4f01247de_b.jpg?x-oss-process=image/resize,w_100,limit_0",
         "title": "测试经理"
     },
     "brandComInfo": {
         "brandName": "苏州奇梦者科技",
         "encryptBrandId": "f06880a77a3078b51n1-2ty4GFY~",
         "industryName": "计算机软件",
-        "scaleName": ""
+        "introduce": "奇梦者是一家成长期的高科技语音技术公司，在低功耗复杂场景下的语音信号处理技术、语音识别技术和语音合成技术等行业领先，面向全球一线终端品牌客户提供新一代音视频智能化解决方案。我们坚持源头技术创新，科技服务产业的使命，期望富有激情和使命的您加入我们。\n我们看重良好的学习能力，不折不挠的钻研精神，面对人生挫折、失败勇于直面的乐观和积极进取的精神。\n\n\n我们为工程师提供了良好的职业发展规划，从基础的程序设计能力培养到解决问题分析问题能力的锻炼，到科学数学问题的研究，到成为产业中的积极参与者和建设者都提供了良好的发展空间和培养机制。\n如果您喜欢程序设计，喜欢在自由平等的高科技产业迎浪搏击，喜欢通过不舍昼夜的键盘工作改变世界，立志做一件不平凡的事情，期待您与我们联系。",
+        "labels": [
+            "节日福利",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "全勤奖",
+            "年终奖",
+            "意外险",
+            "五险一金"
+        ],
+        "scaleName": null
     },
+    "certMaterials": [],
+    "handicappedInfo": null,
     "jobInfo": {
         "address": "苏州吴中区苏州纳米技术国家大学科技园E1604",
         "degreeName": "大专",
@@ -20,12 +38,44 @@
         "encryptUserId": "69d7254d53d86c560XZ52tm0GVQ~",
         "experienceName": "1年以内",
         "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
         "latitude": 31.257075,
         "locationName": "苏州",
         "longitude": 120.737881,
-        "postDescription": "测试工程师职位描述\n职责：\n1.根据测试用例进行用例执行，提交bug并进行bug跟踪\n2.有较强的逻辑分析能力和学习能力\n3.协助搭建可靠、适用的测试环境，准备所需的测试数据\n4.配合软硬件研发团队推进项目进展\n岗位要求：\n1.大专及以上学历,22届学生优先；\n2.熟悉软件测试流程和测试方法；\n3.热爱测试，有良好的逻辑思维能力、沟通能力，有责任感和团队意识",
-        "salaryDesc": "4-7K·13薪"
+        "postDescription": "测试工程师kanzhun职位描述\n职责：\n1.根据测试用例进行用例执行，提交bug并进行bug跟踪\n2.有较强的逻辑分析能力和学习能力\n3.协助搭建可靠、适用的测试环境，准备所需的测试数据\n4.配合软硬件研发团队推进项目进展\n岗位要求：\n1.大专及以上学历,22届学生优先；\n2.熟悉软件测试流程和测试方法；\n3.热爱测试，有良好的逻辑思维能力、沟通能力，有责任感和团队意识",
+        "salaryDesc": "4-7K·13薪",
+        "showSkills": [
+            "kanzhun软件测试",
+            "Python",
+            "Linux"
+        ]
     },
-    "lid": "28KdcLSrCXF.search.39",
-    "securityId": "hokQSUDji4HTo-k1YdJzQnWeWxsF6LOH4vY8IuORhDOu03yVXgPmVyCCuhZNMDmjJZWlUZWIlvIMOoBRPG_aS9cHysWQGdRIMUgjy95Jnqw3Cq6iDj1nD_MSpP_bf00vzs8mzck7-3EjXw~~"
+    "lid": "3MWNOgK0BJW.search.5",
+    "meta": {
+        "breadcrumbs": [
+            "首页",
+            "苏州招聘",
+            "测试工程师招聘",
+            "苏州测试工程师招聘",
+            "苏州奇梦者科技测试工程师招聘"
+        ],
+        "companyFund": "664.1373万人民币",
+        "resTime": "2014-09-03",
+        "updatedTime": "2025-12-09"
+    },
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jhPVZ9uBrUeae-X1iwbRrIs75qD9KzmkX9oOZAxy3QRUxhU9MplOGhB15DIp8oQfB51lxCE90swBvO4h4e0FdVrRSzOw_bYwQo6YSVxVGME2lXMs22M~",
+    "selfAccess": false,
+    "sessionId": null
 }
