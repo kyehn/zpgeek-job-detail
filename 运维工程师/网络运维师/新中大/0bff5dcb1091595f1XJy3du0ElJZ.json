@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9yntwhnmlOvyQ-e1ZuCpLsMtpfQgHRcWh2o4bJfipQa7OS2I2GrqYCQi5NN_v9Amjd5EYfFWw0E3VJ3WltF5WM-6RzVA69-tKx77IWAUZn9aQIbDeOVV",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0bff5dcb1091595f1XJy3du0ElJZ",
-      "encryptUserId": "0c0b499ac70455a30nx43Ny_GFFX",
-      "invalidStatus": false,
-      "jobName": "网络运维师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责办公电脑、办公网络、会议设备、打印机、多媒体设备等运行维护；\n2、负责网络设备、安全设备的配置与日常运行维护；\n3、负责机房设施的日常检查与维护。\n\n任职要求：\n1、大专及以上学历，计算机管理、通信管理等相关专业；\n2、具备计算机、网络基础知识，了解系统和网络规划知识；\n3、工作认真，态度积极，有良好的沟通协调能力，具备主动学习能力和意识；\n4、有办公电脑、办公网络、会议设备、打印机、多媒体设备运维工作经验者优先。",
-      "encryptAddressId": "61268ceae39ab44033V43tu6F1c~",
-      "address": "长沙岳麓区中国科学院广州地球化学研究所长沙矿产资源勘查中心3楼",
-      "longitude": 112.946978,
-      "latitude": 28.219209,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67e5b54dcc0a6256dbba082f785e76b6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/084b27d24683727b7d4bd43550596a9b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "计算机相关专业",
-        "通信相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "高女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "新中大",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3552819afab4229e1XF52Ni4F1s~",
-      "brandName": "新中大",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1717809453397,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "新中大",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "新中大",
+        "certificated": true,
+        "large": null,
+        "name": "高女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1717809453397,
+        "brandName": "新中大",
+        "customerBrandName": "新中大",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3552819afab4229e1XF52Ni4F1s~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区中国科学院广州地球化学研究所长沙矿产资源勘查中心3楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "61268ceae39ab44033V43tu6F1c~",
+        "encryptId": "0bff5dcb1091595f1XJy3du0ElJZ",
+        "encryptUserId": "0c0b499ac70455a30nx43Ny_GFFX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "网络运维师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.219209,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.946978,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/084b27d24683727b7d4bd43550596a9b",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责办公电脑、办公网络、会议设备、打印机、多媒体设备等运行维护；\n2、负责网络设备、安全设备的配置与日常运行维护；\n3、负责机房设施的日常检查与维护。\n\n任职要求：\n1、大专及以上学历，计算机管理、通信管理等相关专业；\n2、具备计算机、网络基础知识，了解系统和网络规划知识；\n3、工作认真，态度积极，有良好的沟通协调能力，具备主动学习能力和意识；\n4、有办公电脑、办公网络、会议设备、打印机、多媒体设备运维工作经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "网络运维",
+            "计算机相关专业",
+            "通信相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67e5b54dcc0a6256dbba082f785e76b6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9yntwhnmlOvyQ-e1ZuCpLsMtpfQgHRcWh2o4bJfipQa7OS2I2GrqYCQi5NN_v9Amjd5EYfFWw0E3VJ3WltF5WM-6RzVA69-tKx77IWAUZn9aQIbDeOVV",
+    "selfAccess": false,
+    "sessionId": null
 }

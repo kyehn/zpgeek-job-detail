@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vUXVdtvSWGyWg-k1YF2ZYRaL2AzjPNdXD5SeT3_qLVVOQHkEQKKACnYtryv5eqi1CDwKIqZYDfmQ73Kdd2XpBWJX99bV_hq8MqV3pIVDuAGGfnq72fjt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "37326b0fa0192a6c1Xd609W7F1tW",
-      "encryptUserId": "aeec6248d7c7e0f60nV92d64FlNZ",
-      "invalidStatus": false,
-      "jobName": "单片机软件工程师",
-      "position": 100804,
-      "positionName": "单片机",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、负责公司嵌入式系统开发。\n2、熟悉单片机系统相关研发过程。\n3、熟悉PCB板设计绘制软件Allegro或Pads等，熟悉编程软件Kwill MDK等。",
-      "encryptAddressId": "55ba154499703f703nZ52d29",
-      "address": "无锡江阴市创智产业园(金山路)数码港A座南5楼",
-      "longitude": 120.336852,
-      "latitude": 31.918259,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbe442e2d4e7ceee1500efc97ce70526",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93f3d65dffd652a0042bdb57c8c1feb3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "嵌入式技术",
-        "PCB设计",
-        "Cadence",
-        "C++",
-        "C语言"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230506/607f1f3d68754fd0359bce80086a15e05a832358ce770ef557f0e4a37f93efbe24a75c009a9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "LEBO SCIENCE",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1ecdaa81d110002d1nB60tm_Flc~",
-      "brandName": "LEBO SCIENCE",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732191644565,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "LEBO SCIENCE",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "LEBO SCIENCE",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230506/607f1f3d68754fd0359bce80086a15e05a832358ce770ef557f0e4a37f93efbe24a75c009a9_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1732191644565,
+        "brandName": "LEBO SCIENCE",
+        "customerBrandName": "LEBO SCIENCE",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1ecdaa81d110002d1nB60tm_Flc~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡江阴市创智产业园(金山路)数码港A座南5楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "55ba154499703f703nZ52d29",
+        "encryptId": "37326b0fa0192a6c1Xd609W7F1tW",
+        "encryptUserId": "aeec6248d7c7e0f60nV92d64FlNZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "单片机软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.918259,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.336852,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93f3d65dffd652a0042bdb57c8c1feb3",
+        "position": 100804,
+        "positionName": "单片机",
+        "postDescription": "1、负责公司嵌入式系统开发。\n2、熟悉单片机系统相关研发过程。\n3、熟悉PCB板设计绘制软件Allegro或Pads等，熟悉编程软件Kwill MDK等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K·13薪",
+        "showSkills": [
+            "嵌入式技术",
+            "PCB设计",
+            "Cadence",
+            "C++",
+            "C语言"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbe442e2d4e7ceee1500efc97ce70526"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vUXVdtvSWGyWg-k1YF2ZYRaL2AzjPNdXD5SeT3_qLVVOQHkEQKKACnYtryv5eqi1CDwKIqZYDfmQ73Kdd2XpBWJX99bV_hq8MqV3pIVDuAGGfnq72fjt",
+    "selfAccess": false,
+    "sessionId": null
 }

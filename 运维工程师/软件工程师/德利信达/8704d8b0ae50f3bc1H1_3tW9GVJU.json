@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WChaHfxISJbLJ-c1FleLPY6nt9uIg4HQHGVcTEmr-DFQ-Pvv3z2eqCdqElmfggkIiT2UOQfTToeke6fQIUEz38FK5s1m6_hQOjf4cHZnXPMOAitVmQw8SCbY31QX2j2QvhBPke_4Rw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8704d8b0ae50f3bc1H1_3tW9GVJU",
-      "encryptUserId": "a1cfd129bb45e4e61XJy09i8",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责SharePoint系统的日常维护和管理，保障系统的正常运行 2.负责权限管理，end user现场问题解决 3.负责SharePoint系统日常故障排查，客户问题咨询等4.负责对客户进行系统操作培训 5.与项目研发对接客户提出的软件需求及修改建议。\n岗位职责：\n任职资格:1.三年左右工作经验 2.一年以上sharepoint运维及管理经验 3.定制开发(工作流及门户)及运维经验 4.熟悉Window操作系统 5.熟悉sqlserver数据库的安装维护和日常使用:6.熟悉sharePoint相关技术栈相关开发工具与插件sharepointsOM/csOM,SharePointDeianerNintexworkflow,Sharegate，PowerPlatform 7.计算机或相关专业毕业 8.沟通能力，客户服务意识强；良好的工作责任心，学习能力强",
-      "encryptAddressId": "0bbfd7faa0d1c9f51nB50t26E1FTwI22Uf2a",
-      "address": "北京朝阳区中冶大厦北京中冶大厦",
-      "longitude": 116.452591,
-      "latitude": 39.959942,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bf1af34d6270d02d4c7cb06b2f67c7e8cb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bf376253fe19b3e20cd5155d3fbfcc3ff36bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SharePoint"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240717/607f1f3d68754fd073c6958ccea2a602d762630e83b3acf42b92ffd90e34db9130b763e81fdaef5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "德利信达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "afd1ed21a538d68f0HN90ti5GQ~~",
-      "brandName": "德利信达",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "专注全国IT外包及系统集成服务！联想核心供应商",
-      "labels": [
-        "五险一金",
-        "绩效奖金",
-        "保底工资",
-        "加班补助",
-        "节假日加班费",
-        "法定节假日三薪",
-        "全勤奖",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1730329691134,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "德利信达",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "德利信达",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240717/607f1f3d68754fd073c6958ccea2a602d762630e83b3acf42b92ffd90e34db9130b763e81fdaef5_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730329691134,
+        "brandName": "德利信达",
+        "customerBrandName": "德利信达",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "afd1ed21a538d68f0HN90ti5GQ~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "专注全国IT外包及系统集成服务！联想核心供应商",
+        "labels": [
+            "五险一金",
+            "绩效奖金",
+            "保底工资",
+            "加班补助",
+            "节假日加班费",
+            "法定节假日三薪",
+            "全勤奖",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区中冶大厦北京中冶大厦",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0bbfd7faa0d1c9f51nB50t26E1FTwI22Uf2a",
+        "encryptId": "8704d8b0ae50f3bc1H1_3tW9GVJU",
+        "encryptUserId": "a1cfd129bb45e4e61XJy09i8",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.959942,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.452591,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bf376253fe19b3e20cd5155d3fbfcc3ff36bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.负责SharePoint系统的日常维护和管理，保障系统的正常运行 2.负责权限管理，end user现场问题解决 3.负责SharePoint系统日常故障排查，客户问题咨询等4.负责对客户进行系统操作培训 5.与项目研发对接客户提出的软件需求及修改建议。\n岗位职责：\n任职资格:1.三年左右工作经验 2.一年以上sharepoint运维及管理经验 3.定制开发(工作流及门户)及运维经验 4.熟悉Window操作系统 5.熟悉sqlserver数据库的安装维护和日常使用:6.熟悉sharePoint相关技术栈相关开发工具与插件sharepointsOM/csOM,SharePointDeianerNintexworkflow,Sharegate，PowerPlatform 7.计算机或相关专业毕业 8.沟通能力，客户服务意识强；良好的工作责任心，学习能力强",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "SharePoint"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bf1af34d6270d02d4c7cb06b2f67c7e8cb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WChaHfxISJbLJ-c1FleLPY6nt9uIg4HQHGVcTEmr-DFQ-Pvv3z2eqCdqElmfggkIiT2UOQfTToeke6fQIUEz38FK5s1m6_hQOjf4cHZnXPMOAitVmQw8SCbY31QX2j2QvhBPke_4Rw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

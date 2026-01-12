@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Ce5rt1zQRdTrg-81SuggpLl9Y_xwVRPoZdMdTeLxWR83kOFGz-hiXCpYTMQNtUF0I_iVIouJXwvr8czbnBF0VaUz9LDesbd7W7rgN-u3spfaKrQabJ03gAu7QvziSXRqN5IkkGGBvDsJCDWhfjdTbTWy",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ef9f38705c10111e1Hx53ty4FlI~",
-      "encryptUserId": "ff81c5c48a9007170n170tq_ElI~",
-      "invalidStatus": false,
-      "jobName": "Android",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位描述：1、基于Android系统进行APP的设计和开发；\r\n2、能按照项目计划独立完成移动客户端的开发，并按时提交高质量代码；\r\n3、了解产品人员的设计思想，根据产品设计文档，制定开发计划；\r\n4、规范代码和文档的编写和维护，持续的完善产品，提高产品性能。\r\n5、负责安卓应用基础技术架构的设计、开发和测试工作；\r\n6、参与公司核心APP核心功能开发，UI设计，参与版本迭代；\r\n7、独立完成编码，参与独立模块与组件库的开发。\r\n任职条件：1、本科及以上学历计算机相关专业;\r\n2、精通JAVA编程语言，精通Android开发，有良好的编程习惯；\r\n3、熟悉UDP、TCP等网络协议编程技术；\r\n4、熟悉Android系统架构及相关技术的API调用，熟练使用Android各种UI组件 ;\r\n5、熟悉Android下网络通信机制，熟悉常用JSON/XML数据格式，熟悉数据库操作 ；\r\n6、熟悉数据结构与算法，有较强理解能力；\r\n7、精通Android应用开发框架，以及UI实现相关技术，能独立开发高性能的Android应用；\r\n8、有良好的代码习惯，要求结构清晰、命名规范、逻辑性强、代码冗余率低、代码注释清晰；\r\n9、熟悉SVN或Git等相关的代码管理工具；\r\n10、工作积极主动，有强烈的责任感和严谨的工作作风，对移动产品有浓厚兴趣；有良好的团队精神和敬业",
-      "encryptAddressId": "f4216fb426dc707e1XF60tu7E1I~",
-      "address": "上海浦东新区临港软件园",
-      "longitude": 121.9255,
-      "latitude": 30.90075,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e18e2624ba4d3a382cbe1eaa714364cf",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9872fde2d28897792679dbabdc382b50",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Android UI",
-        "java",
-        "service"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "潘女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中京复电",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3aacea34c2031dfa1HB42dS_",
-      "brandName": "中京复电",
-      "logo": "https://c-res.zhipin.com/jrs/4_a551eb61568eee1bd8ff4a3d4411e4f6.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734812233650,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中京复电",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中京复电",
+        "certificated": true,
+        "large": null,
+        "name": "潘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734812233650,
+        "brandName": "中京复电",
+        "customerBrandName": "中京复电",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "3aacea34c2031dfa1HB42dS_",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://c-res.zhipin.com/jrs/4_a551eb61568eee1bd8ff4a3d4411e4f6.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区临港软件园",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "f4216fb426dc707e1XF60tu7E1I~",
+        "encryptId": "ef9f38705c10111e1Hx53ty4FlI~",
+        "encryptUserId": "ff81c5c48a9007170n170tq_ElI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Android",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.90075,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.9255,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9872fde2d28897792679dbabdc382b50",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "岗位描述：1、基于Android系统进行APP的设计和开发；\r\n2、能按照项目计划独立完成移动客户端的开发，并按时提交高质量代码；\r\n3、了解产品人员的设计思想，根据产品设计文档，制定开发计划；\r\n4、规范代码和文档的编写和维护，持续的完善产品，提高产品性能。\r\n5、负责安卓应用基础技术架构的设计、开发和测试工作；\r\n6、参与公司核心APP核心功能开发，UI设计，参与版本迭代；\r\n7、独立完成编码，参与独立模块与组件库的开发。\r\n任职条件：1、本科及以上学历计算机相关专业;\r\n2、精通JAVA编程语言，精通Android开发，有良好的编程习惯；\r\n3、熟悉UDP、TCP等网络协议编程技术；\r\n4、熟悉Android系统架构及相关技术的API调用，熟练使用Android各种UI组件 ;\r\n5、熟悉Android下网络通信机制，熟悉常用JSON/XML数据格式，熟悉数据库操作 ；\r\n6、熟悉数据结构与算法，有较强理解能力；\r\n7、精通Android应用开发框架，以及UI实现相关技术，能独立开发高性能的Android应用；\r\n8、有良好的代码习惯，要求结构清晰、命名规范、逻辑性强、代码冗余率低、代码注释清晰；\r\n9、熟悉SVN或Git等相关的代码管理工具；\r\n10、工作积极主动，有强烈的责任感和严谨的工作作风，对移动产品有浓厚兴趣；有良好的团队精神和敬业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "Android UI",
+            "java",
+            "service"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e18e2624ba4d3a382cbe1eaa714364cf"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Ce5rt1zQRdTrg-81SuggpLl9Y_xwVRPoZdMdTeLxWR83kOFGz-hiXCpYTMQNtUF0I_iVIouJXwvr8czbnBF0VaUz9LDesbd7W7rgN-u3spfaKrQabJ03gAu7QvziSXRqN5IkkGGBvDsJCDWhfjdTbTWy",
+    "selfAccess": false,
+    "sessionId": null
 }

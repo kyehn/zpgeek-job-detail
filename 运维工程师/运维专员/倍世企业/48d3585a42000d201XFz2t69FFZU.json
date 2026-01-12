@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "X4-CPICfI8DnX-31I5gKDdID4fwrXUzOtpcXOHrZJaRdfC9kUmmMSdKfB_F4PciDFmhXaR18TDE-cGBowZsAHnjU4Es5fA6dgRnRoaa6iWDLf9US7emMc45cUsXM00SxoctUxQS-Y8vH",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "48d3585a42000d201XFz2t69FFZU",
-      "encryptUserId": "24efd3c200e5200d0nJ52N28EFQ~",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210300,
-      "locationName": "嘉兴",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "职责描述：\n1、负责信息化系统项目整体搭建、策划、实施。配合完成信息化项目计划跟进、项目实施过程中的资源协调，跟进控制与调整，确保项目进度、成本和质量符合要求；\n2、负责编制完善项目文档、手册、对业务部门进行相关培训，指导业务部门正确使用系统，提高应用水平和效率，并对操作人员提出的需求、问题，进行及时应答与处理；\n3、负责信息化系统故障排查，包括软、硬件故障，并协调资源及时修复问题；\n4、负责信息化各业务流程的配置实现及报表设计对接，对执行进度保持跟踪，按照需求更新维护系统；\n5、负责公司内部网络及信息化应用系统的日常维护、运维分析、技术评估和项目实施。\n\n任职要求：\n1、全日制大专及以上学历，计算机、软件工程、通信工程、自动化控制及相关专业；\n2、2年以上制造型企业信息化管理实施或运维经验，比如：MES，WMS，ERP，金碟等；\n3、善于沟通，能同相关业务部门紧密合作，快速理解业务部门提出的需求或问题。",
-      "encryptAddressId": "2d761c639ff6425603Vy09S9EFY~",
-      "address": "嘉兴海宁市倍世环保文海北路1109",
-      "longitude": 120.406074,
-      "latitude": 30.370112,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f2554c8efe7c5d550b7836fa590d0dc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf3334f88d89bec7d309460a4771b956",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曾女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211224/607f1f3d68754fd057940474d912884d0605ffbc8ebdc33ad8ee6c9e4a80eece6d080283526_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "倍世企业",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "10fa86d436d089081HJy3tu6Ew~~",
-      "brandName": "倍世企业",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190302/1142b0fb7af1f7a7c7e95c25623948c9bd263b140de02de76990dc06e80aba11.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "倍世企业是国内专业的中央净水过滤器，以及各类专业性前置过滤器研发、生产、销售为一体的综合性集团企业。\n倍世企业一直致力于推动中央净水过滤器在全球的普及，旗下拥有专业的前置过滤器制造工厂、塑料注塑成型工厂、五金加工工厂、研发公司、创新净饮水设备工厂、销售公司等九家子公司。",
-      "labels": [
-        "定期体检",
-        "加班补助",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "交通补助",
-        "节日福利",
-        "住房补贴",
-        "缴纳五险"
-      ],
-      "activeTime": 1732415273264,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "倍世企业",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "倍世企业",
+        "certificated": true,
+        "large": null,
+        "name": "曾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211224/607f1f3d68754fd057940474d912884d0605ffbc8ebdc33ad8ee6c9e4a80eece6d080283526_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1732415273264,
+        "brandName": "倍世企业",
+        "customerBrandName": "倍世企业",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "10fa86d436d089081HJy3tu6Ew~~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "倍世企业是国内专业的中央净水过滤器，以及各类专业性前置过滤器研发、生产、销售为一体的综合性集团企业。\n倍世企业一直致力于推动中央净水过滤器在全球的普及，旗下拥有专业的前置过滤器制造工厂、塑料注塑成型工厂、五金加工工厂、研发公司、创新净饮水设备工厂、销售公司等九家子公司。",
+        "labels": [
+            "定期体检",
+            "加班补助",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "交通补助",
+            "节日福利",
+            "住房补贴",
+            "缴纳五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190302/1142b0fb7af1f7a7c7e95c25623948c9bd263b140de02de76990dc06e80aba11.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "嘉兴海宁市倍世环保文海北路1109",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "2d761c639ff6425603Vy09S9EFY~",
+        "encryptId": "48d3585a42000d201XFz2t69FFZU",
+        "encryptUserId": "24efd3c200e5200d0nJ52N28EFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.370112,
+        "location": 101210300,
+        "locationName": "嘉兴",
+        "longitude": 120.406074,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf3334f88d89bec7d309460a4771b956",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "职责描述：\n1、负责信息化系统项目整体搭建、策划、实施。配合完成信息化项目计划跟进、项目实施过程中的资源协调，跟进控制与调整，确保项目进度、成本和质量符合要求；\n2、负责编制完善项目文档、手册、对业务部门进行相关培训，指导业务部门正确使用系统，提高应用水平和效率，并对操作人员提出的需求、问题，进行及时应答与处理；\n3、负责信息化系统故障排查，包括软、硬件故障，并协调资源及时修复问题；\n4、负责信息化各业务流程的配置实现及报表设计对接，对执行进度保持跟踪，按照需求更新维护系统；\n5、负责公司内部网络及信息化应用系统的日常维护、运维分析、技术评估和项目实施。\n\n任职要求：\n1、全日制大专及以上学历，计算机、软件工程、通信工程、自动化控制及相关专业；\n2、2年以上制造型企业信息化管理实施或运维经验，比如：MES，WMS，ERP，金碟等；\n3、善于沟通，能同相关业务部门紧密合作，快速理解业务部门提出的需求或问题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "网络运维",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f2554c8efe7c5d550b7836fa590d0dc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "X4-CPICfI8DnX-31I5gKDdID4fwrXUzOtpcXOHrZJaRdfC9kUmmMSdKfB_F4PciDFmhXaR18TDE-cGBowZsAHnjU4Es5fA6dgRnRoaa6iWDLf9US7emMc45cUsXM00SxoctUxQS-Y8vH",
+    "selfAccess": false,
+    "sessionId": null
 }

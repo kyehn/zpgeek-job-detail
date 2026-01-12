@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "r233XNdsCv7VB-J1dQpQgYjZO8F_NEct9tbXRDFu3TUBZPaHRaYIOZ7bELtrXcmTqVNpclOSNXc1hCwaB0yjMvn64aYcfcKi9R43b9Lk3Tplrme7TtHHrGw_LzGKhDJ8Vn0ucL21y9p0Cf9Dalxs9uBrE84K",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "322a17f9a9a960d903Z72N61FVZR",
-      "encryptUserId": "ed9784366e1655a00H1609W4Elc~",
-      "invalidStatus": false,
-      "jobName": "软件测试测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、根据产品规范编测试计划，设计测试数据和测试用例；进行功能测试、性能测试、安全测试、自动化测试。\n2、实施软件功能测试，创建和执行测试脚本以满足测试需要，完成对产品的集成测试与系统测试，对产品的性能及客户上线和项目验收测试任务，并对软件bug进行跟踪分析和报告；\n3、协助开发人员分析bug原因，提交产品功能优化、性能改进的建议。\n\n\n任职资格\n1、须持有人社部颁发的软考中级-软件评测师证书；\n2、持有人社部颁发的软考中级-信息安全工程师证书者优先考虑；\n3、熟悉测试过程，熟悉常见的缺陷管理工具；\n4、熟悉功能测试、性能测试，黑盒测试方法，能写简单测试计划、根据软件需求编写测试用例；\n5、熟悉bug跟踪管理工具；\n6、有较强的逻辑分析能力和学习能力，工作责任心强，细致有耐心；\n7、2年以上软件测试经验，熟悉B/S架构，有设计、编码、代码审计经验者优先。",
-      "encryptAddressId": "ab2cbc825036f40e3n1_39q6EVQ~",
-      "address": "合肥蜀山区中国科学技术大学先进技术研究院科大先研院未来中心十楼",
-      "longitude": 117.12949,
-      "latitude": 31.827708,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfada8ffa95d55568b8286ab08e4f082c76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bffb88080f5d54cf0a81a050ddf1205e326bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "俞女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191019/d06f5e75a44ff52420456fe0d13ec721b86e1c7edca0ad7be4ce3af5ed2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "安徽科测",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "aa1a778aab14b9131HF52d-1Elo~",
-      "brandName": "安徽科测",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1741675240250,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安徽科测",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安徽科测",
+        "certificated": true,
+        "large": null,
+        "name": "俞女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191019/d06f5e75a44ff52420456fe0d13ec721b86e1c7edca0ad7be4ce3af5ed2_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1741675240250,
+        "brandName": "安徽科测",
+        "customerBrandName": "安徽科测",
+        "customerBrandStageName": "",
+        "encryptBrandId": "aa1a778aab14b9131HF52d-1Elo~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区中国科学技术大学先进技术研究院科大先研院未来中心十楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "ab2cbc825036f40e3n1_39q6EVQ~",
+        "encryptId": "322a17f9a9a960d903Z72N61FVZR",
+        "encryptUserId": "ed9784366e1655a00H1609W4Elc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.827708,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.12949,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bffb88080f5d54cf0a81a050ddf1205e326bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责\n1、根据产品规范编测试计划，设计测试数据和测试用例；进行功能测试、性能测试、安全测试、自动化测试。\n2、实施软件功能测试，创建和执行测试脚本以满足测试需要，完成对产品的集成测试与系统测试，对产品的性能及客户上线和项目验收测试任务，并对软件bug进行跟踪分析和报告；\n3、协助开发人员分析bug原因，提交产品功能优化、性能改进的建议。\n\n\n任职资格\n1、须持有人社部颁发的软考中级-软件评测师证书；\n2、持有人社部颁发的软考中级-信息安全工程师证书者优先考虑；\n3、熟悉测试过程，熟悉常见的缺陷管理工具；\n4、熟悉功能测试、性能测试，黑盒测试方法，能写简单测试计划、根据软件需求编写测试用例；\n5、熟悉bug跟踪管理工具；\n6、有较强的逻辑分析能力和学习能力，工作责任心强，细致有耐心；\n7、2年以上软件测试经验，熟悉B/S架构，有设计、编码、代码审计经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfada8ffa95d55568b8286ab08e4f082c76bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "r233XNdsCv7VB-J1dQpQgYjZO8F_NEct9tbXRDFu3TUBZPaHRaYIOZ7bELtrXcmTqVNpclOSNXc1hCwaB0yjMvn64aYcfcKi9R43b9Lk3Tplrme7TtHHrGw_LzGKhDJ8Vn0ucL21y9p0Cf9Dalxs9uBrE84K",
+    "selfAccess": false,
+    "sessionId": null
 }

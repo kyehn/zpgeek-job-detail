@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EebgUpz1bNasf-_1JQr51woEgIToQbhGuAYrdhwG5cXjXwwGQbua11Q-xYMEYV7x7bWRCR4Iz3rA_73xnu2r_89IxVIVYPHSHYNy0IYEA0bM3p4Zrkw4",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4c00cfc0d9cdfd2c1nBy2Nq6FlBY",
-      "encryptUserId": "0ad747f16f43978a0nZ90tm-FFZW",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101091100,
-      "locationName": "秦皇岛",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "计算机日常维护，弱点工程施工。",
-      "encryptAddressId": "07beb83a8af06f1e03B63d-9F1o~",
-      "address": "秦皇岛海港区世贸官邸3-1001",
-      "longitude": 119.602703,
-      "latitude": 39.929431,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c8917297e7cc1c875f3ad4fa158e2012",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d99d5318a552a33aa983e44718c8a783",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络交换技术",
-        "应用运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "宁先生",
-      "title": "市场部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210416/16fbccf6a11310fb2e6ae6e185e12840056d222da7717bc97ed5b98db82_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "燕大万通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ea98e00989b8751b1nF939S-EFM~",
-      "brandName": "燕大万通",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727375982268,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "燕大万通",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "燕大万通",
+        "certificated": true,
+        "large": null,
+        "name": "宁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210416/16fbccf6a11310fb2e6ae6e185e12840056d222da7717bc97ed5b98db82_b.jpg",
+        "title": "市场部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727375982268,
+        "brandName": "燕大万通",
+        "customerBrandName": "燕大万通",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ea98e00989b8751b1nF939S-EFM~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "秦皇岛海港区世贸官邸3-1001",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "07beb83a8af06f1e03B63d-9F1o~",
+        "encryptId": "4c00cfc0d9cdfd2c1nBy2Nq6FlBY",
+        "encryptUserId": "0ad747f16f43978a0nZ90tm-FFZW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.929431,
+        "location": 101091100,
+        "locationName": "秦皇岛",
+        "longitude": 119.602703,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d99d5318a552a33aa983e44718c8a783",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "计算机日常维护，弱点工程施工。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "网络交换技术",
+            "应用运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c8917297e7cc1c875f3ad4fa158e2012"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EebgUpz1bNasf-_1JQr51woEgIToQbhGuAYrdhwG5cXjXwwGQbua11Q-xYMEYV7x7bWRCR4Iz3rA_73xnu2r_89IxVIVYPHSHYNy0IYEA0bM3p4Zrkw4",
+    "selfAccess": false,
+    "sessionId": null
 }

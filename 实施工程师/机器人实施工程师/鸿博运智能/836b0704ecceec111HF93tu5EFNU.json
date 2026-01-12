@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OLkPiQIoeoOtR-w1I0-t6s_EdAdzP1SJduUO0pkBCzjY0VxQYWyThN5XzL8bAgEnxFrL3pItHdQl08o3WUYVOLDZlDy4Up7bqcJW55ofHcXz47UdmCy3",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "836b0704ecceec111HF93tu5EFNU",
-      "encryptUserId": "e2255876cb963a870XB63dm7FFpZ",
-      "invalidStatus": false,
-      "jobName": "机器人实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101280800,
-      "locationName": "佛山",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "根据项目蓝图要求结合现场环境，负责从设备入厂、设备装、系统部署、系统联调到机器人正常运行整个过程管理与实施，包括：\n1 项目现场环境勘测\n2 设备/工具/物料进场安排与协调\n3 货架、输送线安装/过程监管\n4 货架码&机器人行走导航码的安装\n5 基于ubuntu的机器人服务器系统部署\n6 与客户上游系统及输送线联调\n7 项目现场实施问题记录、反馈与处理。",
-      "encryptAddressId": "45b0b66ad1ae940f33By2d25GFNZxI64VPg~",
-      "address": "佛山三水区佛山格洛仓储服务有限公司001",
-      "longitude": 112.955272,
-      "latitude": 23.430554,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7c1b49dcfa1e48bb221b668eeb83d2d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/337dc230d892804b403aee3ab23e6e75",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "计算机相关专业",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙先生",
-      "title": "总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240516/607f1f3d68754fd02039621b74d7a926413031d6ea59afa2d73638bf1f0472329f25743412dec26_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "鸿博运智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f4ebefb5e38b56091Xx729u7EVQ~",
-      "brandName": "鸿博运智能",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727704221257,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鸿博运智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鸿博运智能",
+        "certificated": true,
+        "large": null,
+        "name": "孙先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240516/607f1f3d68754fd02039621b74d7a926413031d6ea59afa2d73638bf1f0472329f25743412dec26_b.jpg",
+        "title": "总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727704221257,
+        "brandName": "鸿博运智能",
+        "customerBrandName": "鸿博运智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f4ebefb5e38b56091Xx729u7EVQ~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "佛山三水区佛山格洛仓储服务有限公司001",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "45b0b66ad1ae940f33By2d25GFNZxI64VPg~",
+        "encryptId": "836b0704ecceec111HF93tu5EFNU",
+        "encryptUserId": "e2255876cb963a870XB63dm7FFpZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "机器人实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.430554,
+        "location": 101280800,
+        "locationName": "佛山",
+        "longitude": 112.955272,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/337dc230d892804b403aee3ab23e6e75",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "根据项目蓝图要求结合现场环境，负责从设备入厂、设备装、系统部署、系统联调到机器人正常运行整个过程管理与实施，包括：\n1 项目现场环境勘测\n2 设备/工具/物料进场安排与协调\n3 货架、输送线安装/过程监管\n4 货架码&机器人行走导航码的安装\n5 基于ubuntu的机器人服务器系统部署\n6 与客户上游系统及输送线联调\n7 项目现场实施问题记录、反馈与处理。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "软件实施经验",
+            "计算机相关专业",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7c1b49dcfa1e48bb221b668eeb83d2d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OLkPiQIoeoOtR-w1I0-t6s_EdAdzP1SJduUO0pkBCzjY0VxQYWyThN5XzL8bAgEnxFrL3pItHdQl08o3WUYVOLDZlDy4Up7bqcJW55ofHcXz47UdmCy3",
+    "selfAccess": false,
+    "sessionId": null
 }

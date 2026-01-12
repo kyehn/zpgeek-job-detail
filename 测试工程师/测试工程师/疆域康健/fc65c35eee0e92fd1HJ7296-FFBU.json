@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "63FNHCJP3ynMR-p1NAjaa4nwf-S3UQNlphXvj32ObAbEYhVaTOPcliwMNWgLdtPOJAB7eOq-7XmMoRxemLHJB01jMNnL5DOi5xSxGSN8Ud40eiPfmQ26t6XnxE7U1w9HGL-OiOmRjdWRig~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fc65c35eee0e92fd1HJ7296-FFBU",
-      "encryptUserId": "6d49a2c80772a2b90nR63928GVRU",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1.负责公司软件业务系统web端、机台端测试、APP测试等，包括但不限于功能测试、接口测试、异常测试、兼容性测试、数据测试等。\n2.参与项目过程质量保障工作，深度参与需求评审、技术评审并做需求分析及风险评估，根据影响范围制定相关测试策略、测试计划、测试方案、能够独立完成测试用例设计。\n3.把关提测质量，完成测试用例全量执行，协助并推动研发定位和解决问题，并产出测试报告。\n4.把控并及时暴露项目风险，推动风险应对，推动产品研发测试上线，维护测试环境及测试数据。\n5.跟进线上问题的分析、定位、推进解决，并总结复盘。\n岗位要求：\n1.有1年及以上测试工作经历，本科及以上学历，有端到端的测试经验和医疗项目测试经验优先，有设备测试经验有限。\n2.精通软件测试理论，熟悉软件测试流程和方法，熟练掌握功能测试、接口测试、性能测试。\n3.熟练常用测试工具如Postman、JMeter、Fiddler、adb等进行测试。\n4.熟悉MySQL数据库，并能够熟练编写SQL语句进行测试工作。\n5.工作严谨认真，勤奋踏实；有良好的沟通能力、进取心和很强的责任心。\n6.善于发现和分析问题，有良好的团队精神，能自觉独立完成日常工作，接受较强的工作压力。",
-      "encryptAddressId": "80dc49a15e9c5035331y29m5EVBWxI66Uv4~",
-      "address": "成都双流区生物医药创新孵化园E9栋6楼",
-      "longitude": 104.106997,
-      "latitude": 30.516619,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bdf46f86d58bf77ad8c1af4acb665926",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/528f5df7158b247005f874f776a15b83",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "嵌入式测试",
-        "Python",
-        "Shell",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "软件项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "疆域康健",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "921b8687dfa40cae1nV429S5ElY~",
-      "brandName": "疆域康健",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719574569725,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "疆域康健",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "疆域康健",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "软件项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719574569725,
+        "brandName": "疆域康健",
+        "customerBrandName": "疆域康健",
+        "customerBrandStageName": "",
+        "encryptBrandId": "921b8687dfa40cae1nV429S5ElY~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都双流区生物医药创新孵化园E9栋6楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "80dc49a15e9c5035331y29m5EVBWxI66Uv4~",
+        "encryptId": "fc65c35eee0e92fd1HJ7296-FFBU",
+        "encryptUserId": "6d49a2c80772a2b90nR63928GVRU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.516619,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.106997,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/528f5df7158b247005f874f776a15b83",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责\n1.负责公司软件业务系统web端、机台端测试、APP测试等，包括但不限于功能测试、接口测试、异常测试、兼容性测试、数据测试等。\n2.参与项目过程质量保障工作，深度参与需求评审、技术评审并做需求分析及风险评估，根据影响范围制定相关测试策略、测试计划、测试方案、能够独立完成测试用例设计。\n3.把关提测质量，完成测试用例全量执行，协助并推动研发定位和解决问题，并产出测试报告。\n4.把控并及时暴露项目风险，推动风险应对，推动产品研发测试上线，维护测试环境及测试数据。\n5.跟进线上问题的分析、定位、推进解决，并总结复盘。\n岗位要求：\n1.有1年及以上测试工作经历，本科及以上学历，有端到端的测试经验和医疗项目测试经验优先，有设备测试经验有限。\n2.精通软件测试理论，熟悉软件测试流程和方法，熟练掌握功能测试、接口测试、性能测试。\n3.熟练常用测试工具如Postman、JMeter、Fiddler、adb等进行测试。\n4.熟悉MySQL数据库，并能够熟练编写SQL语句进行测试工作。\n5.工作严谨认真，勤奋踏实；有良好的沟通能力、进取心和很强的责任心。\n6.善于发现和分析问题，有良好的团队精神，能自觉独立完成日常工作，接受较强的工作压力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "嵌入式测试",
+            "Python",
+            "Shell",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bdf46f86d58bf77ad8c1af4acb665926"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "63FNHCJP3ynMR-p1NAjaa4nwf-S3UQNlphXvj32ObAbEYhVaTOPcliwMNWgLdtPOJAB7eOq-7XmMoRxemLHJB01jMNnL5DOi5xSxGSN8Ud40eiPfmQ26t6XnxE7U1w9HGL-OiOmRjdWRig~~",
+    "selfAccess": false,
+    "sessionId": null
 }

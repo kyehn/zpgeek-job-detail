@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "NbbZ94nBiwdd3-R1-UCCXfIt_T83CZvX9LZncHqqGfkaG3mnatUuWrPVjGajZU_bcFZKRYnxqJoUgJIC8jDkxUXM7qLWvqITk9v-ZdV6ECvWwiPuoY9G",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3d93e6824c6a9e1f1Xd82dy-GVVS",
-      "encryptUserId": "65a4d2cd62813bb20nB93dm0EFZU",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100114,
-      "positionName": "Node.js",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n\n1、参与产品后端功能的设计与研发，及持续重构；\n\n2、完成基于nodejs redis mongodb PostgreSQL等技术的服务器端API开发；\n\n3、与团队紧密配合，保障线上服务的可靠性、可用性\n\n 岗位要求：\n\n1、大专以上学历，计算机相关专业；\n\n2、一年以上后端开发工程师经验，对Node.js以及其他新技术充满热情；\n\n3、熟练掌握Javascript语言编程，熟悉Node.js标准库的使用，能完成相应的扩展开发；\n\n4、具备express、 fastity等框架的使用经验，熟悉Restful API 设计；\n\n5、熟悉 Redis、mongodb、PostgreSQL和掌握源代码管理软件；\n\n6、具有Linux上的开发经验，能够编写常用和基本的Shell脚本；\n\n7、高度的责任心以及良好团队合作精神；",
-      "encryptAddressId": "3623c2e6dea8aa440XF909u4GFQ~",
-      "address": "青岛胶州市青岛惠能软控有限公司闽江路60号",
-      "longitude": 120.098113,
-      "latitude": 36.138571,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1028e7d471d8587fba8bc7f364721bd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72c0979e6f6bd8aa00b4326c0e484785",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Shell",
-        "后端开发",
-        "服务器端开发",
-        "Linux",
-        "Express",
-        "周末双休",
-        "五险一金",
-        "带薪年假"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220718/607f1f3d68754fd02e85713a67dc72eee9e755f19524202ca098e64a56b32e1c89f103521e1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "青岛惠能软控有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f6b1f82d13f0b9e01nRz0961FVE~",
-      "brandName": "青岛惠能软控有限公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730066546154,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青岛惠能软控有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青岛惠能软控有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "唐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220718/607f1f3d68754fd02e85713a67dc72eee9e755f19524202ca098e64a56b32e1c89f103521e1_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1730066546154,
+        "brandName": "青岛惠能软控有限公司",
+        "customerBrandName": "青岛惠能软控有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f6b1f82d13f0b9e01nRz0961FVE~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛胶州市青岛惠能软控有限公司闽江路60号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3623c2e6dea8aa440XF909u4GFQ~",
+        "encryptId": "3d93e6824c6a9e1f1Xd82dy-GVVS",
+        "encryptUserId": "65a4d2cd62813bb20nB93dm0EFZU",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 36.138571,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.098113,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72c0979e6f6bd8aa00b4326c0e484785",
+        "position": 100114,
+        "positionName": "Node.js",
+        "postDescription": "岗位职责：\n\n1、参与产品后端功能的设计与研发，及持续重构；\n\n2、完成基于nodejs redis mongodb PostgreSQL等技术的服务器端API开发；\n\n3、与团队紧密配合，保障线上服务的可靠性、可用性\n\n 岗位要求：\n\n1、大专以上学历，计算机相关专业；\n\n2、一年以上后端开发工程师经验，对Node.js以及其他新技术充满热情；\n\n3、熟练掌握Javascript语言编程，熟悉Node.js标准库的使用，能完成相应的扩展开发；\n\n4、具备express、 fastity等框架的使用经验，熟悉Restful API 设计；\n\n5、熟悉 Redis、mongodb、PostgreSQL和掌握源代码管理软件；\n\n6、具有Linux上的开发经验，能够编写常用和基本的Shell脚本；\n\n7、高度的责任心以及良好团队合作精神；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "Shell",
+            "后端开发",
+            "服务器端开发",
+            "Linux",
+            "Express",
+            "周末双休",
+            "五险一金",
+            "带薪年假"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1028e7d471d8587fba8bc7f364721bd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "NbbZ94nBiwdd3-R1-UCCXfIt_T83CZvX9LZncHqqGfkaG3mnatUuWrPVjGajZU_bcFZKRYnxqJoUgJIC8jDkxUXM7qLWvqITk9v-ZdV6ECvWwiPuoY9G",
+    "selfAccess": false,
+    "sessionId": null
 }

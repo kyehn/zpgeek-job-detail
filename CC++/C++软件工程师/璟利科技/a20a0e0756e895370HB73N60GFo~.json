@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2JTwUkCd0R7dj-71_8OpI9m2UAqtsrd1Qz5SAN4bjQHq0oW7WdbPZjEzlHu_ZKf_ypboNLBAkEPCvOsH4JNwuibSvYGctyGUWkB5uO2NWftrFU8FnVzTD37twgmTmF-760zXSQNqRqk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a20a0e0756e895370HB73N60GFo~",
-      "encryptUserId": "ac04d990599d166e1nR63ty9EVRZ",
-      "invalidStatus": false,
-      "jobName": "C++软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.计算机相关专业，熟练使用C++ STL模板库;\n2.熟悉QT或者MFC优先\n3.快速学习能力，较强的团队沟通和协作能力，较强的自我驱动能力。\n4.能接受加班与出差",
-      "encryptAddressId": "680a5c8a55fcaf181X1-2tu6EVo~",
-      "address": "成都武侯区理想中心3栋411-B",
-      "longitude": 104.063054,
-      "latitude": 30.595417,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f12855b4905e9efe939b073af50264a5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dff033fb372876a1fb6578d246a19d73",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "丁先生",
-      "title": "技术部主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "璟利科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "df3672cdf5e4d9110HJ729u-FQ~~",
-      "brandName": "璟利科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210311/d3eca7bcb1702b330fefec7571f2c343ebce086dd441650c79ab415f73874fb8.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1717401484846,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "璟利科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "璟利科技",
+        "certificated": true,
+        "large": null,
+        "name": "丁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "技术部主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1717401484846,
+        "brandName": "璟利科技",
+        "customerBrandName": "璟利科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "df3672cdf5e4d9110HJ729u-FQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210311/d3eca7bcb1702b330fefec7571f2c343ebce086dd441650c79ab415f73874fb8.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区理想中心3栋411-B",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "680a5c8a55fcaf181X1-2tu6EVo~",
+        "encryptId": "a20a0e0756e895370HB73N60GFo~",
+        "encryptUserId": "ac04d990599d166e1nR63ty9EVRZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "C++软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.595417,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.063054,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dff033fb372876a1fb6578d246a19d73",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1.计算机相关专业，熟练使用C++ STL模板库;\n2.熟悉QT或者MFC优先\n3.快速学习能力，较强的团队沟通和协作能力，较强的自我驱动能力。\n4.能接受加班与出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "C++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f12855b4905e9efe939b073af50264a5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2JTwUkCd0R7dj-71_8OpI9m2UAqtsrd1Qz5SAN4bjQHq0oW7WdbPZjEzlHu_ZKf_ypboNLBAkEPCvOsH4JNwuibSvYGctyGUWkB5uO2NWftrFU8FnVzTD37twgmTmF-760zXSQNqRqk~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OmKC-VgGhNenm-Z1jqOoXUVdNkoWDaXRVyNkWuts1m8lxfvMZQiOKP1Vvi_1qH56NEVQC4yNQeTMn3Sse2rmhp5zbnzYonfOs6x--tjqKRmnW0F0TwM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c7b314cb45ebbd8d1XZ52tW0ElNT",
-      "encryptUserId": "d5aaa1a52df54c890XF_2ty7EVI~",
-      "invalidStatus": false,
-      "jobName": "云计算运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "云计算项目交付、云平台运维、网络运维",
-      "encryptAddressId": "8007304b6a72ec790nB70924FVM~",
-      "address": "武汉洪山区鹏程国际C座13层1303",
-      "longitude": 114.354289,
-      "latitude": 30.527316,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3626a9a1cc703efbc737c48e082a628e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e3b19a004f7fb2ed3a1251458a02228b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维工程师",
-        "网络运维",
-        "云计算",
-        "网络设备",
-        "H3CCE",
-        "H3CSCE",
-        "H3CNE、H3CSE"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220311/607f1f3d68754fd059d3c92cd0426feb7795cbfaeca5ec8fd5b4adf6e63dcaf90e00971e405_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "瑞桥云",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9010dcf81b9b3a9d1XRz0tW_EFc~",
-      "brandName": "瑞桥云",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723730118562,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瑞桥云",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "瑞桥云",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220311/607f1f3d68754fd059d3c92cd0426feb7795cbfaeca5ec8fd5b4adf6e63dcaf90e00971e405_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723730118562,
+        "brandName": "瑞桥云",
+        "customerBrandName": "瑞桥云",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9010dcf81b9b3a9d1XRz0tW_EFc~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区鹏程国际C座13层1303",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8007304b6a72ec790nB70924FVM~",
+        "encryptId": "c7b314cb45ebbd8d1XZ52tW0ElNT",
+        "encryptUserId": "d5aaa1a52df54c890XF_2ty7EVI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "云计算运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.527316,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.354289,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e3b19a004f7fb2ed3a1251458a02228b",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "云计算项目交付、云平台运维、网络运维",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "运维工程师",
+            "网络运维",
+            "云计算",
+            "网络设备",
+            "H3CCE",
+            "H3CSCE",
+            "H3CNE、H3CSE"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3626a9a1cc703efbc737c48e082a628e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OmKC-VgGhNenm-Z1jqOoXUVdNkoWDaXRVyNkWuts1m8lxfvMZQiOKP1Vvi_1qH56NEVQC4yNQeTMn3Sse2rmhp5zbnzYonfOs6x--tjqKRmnW0F0TwM~",
+    "selfAccess": false,
+    "sessionId": null
 }

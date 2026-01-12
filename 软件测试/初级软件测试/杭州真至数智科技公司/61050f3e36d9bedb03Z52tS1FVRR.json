@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mdHdiqlk-rqbE-m1MLN49OZe-M2qC7es_BF-VxTD7kUkn2d7W39jx0nTEa6l7xmxRKmsINZIEVo0tsIp-l8KWsDNDVTyUCs8TkG-349hKdNsQTGWs9VIQUnHDmdVCHaDL0-AnXkTgvWH0qFuujrwEpjWpr0Wzg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "61050f3e36d9bedb03Z52tS1FVRR",
-      "encryptUserId": "477f6696bc8d97be0nd429u_GFpW",
-      "invalidStatus": false,
-      "jobName": "初级软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责： \n1、负责产品业务，系统流程，WEB11功能的测试和质量保证工作。 \n2、参与需求评亩，理解产品需求能独立编写测试用例并进行用例评亩和执行用例。 \n3、完成相关产品的需求功能测试完成从测试环境到生产环境全流程上线。 4、跟踪测试问题，协助开发定位分析问题，持续跟踪bug修复情况。 \n5、提供产品测试结果和文档给予业务处理人员培训。 \n\n岗位要求： \n1、本科以上学历 \n2、2-3年或以上功能测试优先，有独立负责项目经验者优先，有大模型，流程测试项目经验优先 \n3、具备基础的测试知识，熟练掌握则试用例设计和app测试方法。\n4、具备代码理解能力，数据库操作方法，助力开发完成问题定位 \n5、主观能协性好，遇到问题有独立思考及推进解决的能力 \n6、沟通能力出色，多系统协调，能分析问题进行多方协调处理，不产生任何矛盾。 \n\n工作地点:常规地点五常，根据项目组安排杭州内其他办公室驻论\n工作时间:8:3017:30，有加班窗口期需加班到次日，有调休。",
-      "encryptAddressId": "590279f1e54ab0b81nV509-_EVBSw4q7WPOb",
-      "address": "杭州余杭区浙江鸿程计算机系统有限公司-",
-      "longitude": 120.048166,
-      "latitude": 30.294324,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/402b6ab1acff439a539e4ee66c41a727",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d12d269983352dad105bd03e2e20535d",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Shell",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "喻女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220307/607f1f3d68754fd0bc867b93bb8b60a4b4673750e3c004b988701acb3c1c35ef7261632a0ec_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "杭州真至数智科技公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6d4a6fa96dba41781HV52Ny1E1E~",
-      "brandName": "杭州真至数智科技公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1741166502947,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州真至数智科技公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州真至数智科技公司",
+        "certificated": true,
+        "large": null,
+        "name": "喻女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220307/607f1f3d68754fd0bc867b93bb8b60a4b4673750e3c004b988701acb3c1c35ef7261632a0ec_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1741166502947,
+        "brandName": "杭州真至数智科技公司",
+        "customerBrandName": "杭州真至数智科技公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6d4a6fa96dba41781HV52Ny1E1E~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区浙江鸿程计算机系统有限公司-",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "590279f1e54ab0b81nV509-_EVBSw4q7WPOb",
+        "encryptId": "61050f3e36d9bedb03Z52tS1FVRR",
+        "encryptUserId": "477f6696bc8d97be0nd429u_GFpW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.294324,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.048166,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d12d269983352dad105bd03e2e20535d",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责： \n1、负责产品业务，系统流程，WEB11功能的测试和质量保证工作。 \n2、参与需求评亩，理解产品需求能独立编写测试用例并进行用例评亩和执行用例。 \n3、完成相关产品的需求功能测试完成从测试环境到生产环境全流程上线。 4、跟踪测试问题，协助开发定位分析问题，持续跟踪bug修复情况。 \n5、提供产品测试结果和文档给予业务处理人员培训。 \n\n岗位要求： \n1、本科以上学历 \n2、2-3年或以上功能测试优先，有独立负责项目经验者优先，有大模型，流程测试项目经验优先 \n3、具备基础的测试知识，熟练掌握则试用例设计和app测试方法。\n4、具备代码理解能力，数据库操作方法，助力开发完成问题定位 \n5、主观能协性好，遇到问题有独立思考及推进解决的能力 \n6、沟通能力出色，多系统协调，能分析问题进行多方协调处理，不产生任何矛盾。 \n\n工作地点:常规地点五常，根据项目组安排杭州内其他办公室驻论\n工作时间:8:3017:30，有加班窗口期需加班到次日，有调休。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Shell",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/402b6ab1acff439a539e4ee66c41a727"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mdHdiqlk-rqbE-m1MLN49OZe-M2qC7es_BF-VxTD7kUkn2d7W39jx0nTEa6l7xmxRKmsINZIEVo0tsIp-l8KWsDNDVTyUCs8TkG-349hKdNsQTGWs9VIQUnHDmdVCHaDL0-AnXkTgvWH0qFuujrwEpjWpr0Wzg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

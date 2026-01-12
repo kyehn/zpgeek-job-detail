@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1XgtWFh6zbpdc-l1mABIyX72tW6fmRDhyxJPituq-3u9U8PTKTP1mxzIMtCQLeR3S6BlUKNjO8OMzgsLwBARvnPWGvQTnp9Ya1tRvnJPlgkV9bztbrIXVe7m09HsDdGmN4RW3iZAoEM1jSM7AIKTvMlLWXs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9d47e0d22aab8a0a03V92ty9GFdU",
-      "encryptUserId": "e84f88653084cef403F92965GVU~",
-      "invalidStatus": false,
-      "jobName": "技术运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101120500,
-      "locationName": "烟台",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责\n1、主要负责医院信息化产品的项目实施与管理；\n2、包括需求调研、客户干系人日常工作汇报，对内与研发、开发、集成等团队进行沟通。\n任职资格\n1、本科学历，计算机、软件工程、医疗信息化等理工计算机相关专业优先；\n2、优秀的沟通能力、学习能力、具有学生干部或社团经历优先；\n3、认可信息化行业发展，具备良好的适应能力与责任心，强烈的自我成就欲望；\n其他要求：人员及居住地点：招远",
-      "encryptAddressId": "c8ddd6198dcdd1251nx72Ni5FVNVxo-9U_-d",
-      "address": "烟台招远市山东黄金职业病防治院门诊综合楼综合楼",
-      "longitude": 120.509032,
-      "latitude": 37.460063,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf809f62f3e102f2ea37b700f29f48edb76bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf33bb56fa6edad9f58994ae84dec04a9e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf7507cbb7f896a87806bb989cc496957e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf8a9b90c826fcee33c5f0af153746f63c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221017/607f1f3d68754fd086857ce104685df4f0177779b1d28ce9b516d597141ae03ce295705cd30_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "新禹通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bb141be0166f17be3nB_3Nm0EA~~",
-      "brandName": "新禹通",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211015/7b5b554d84f9729c1e327fd7d14fe172bc9207a2e404a6f843f940fc87e193989793ddf6a8bb757a.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "山东新禹通信息技术有限公司成立于2018年，是专业的新技术应用专家。公司现有近30人的研发、交付、运维团队。专注于物联网、云计算、大数据的应用，融合现代业务流程管理技术，提供专业化的物联网、大数据解决方案。集成了多项新技术，为相关行业客户提供了软件开发服务。 \n公司主营业务面向：工业互联网、智慧教育、智慧医疗、智能海工、智慧能源、农业物联网等；是东软、海康、联通、电信等业务创新合作伙伴。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1741592929921,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "新禹通",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "新禹通",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221017/607f1f3d68754fd086857ce104685df4f0177779b1d28ce9b516d597141ae03ce295705cd30_b.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1741592929921,
+        "brandName": "新禹通",
+        "customerBrandName": "新禹通",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "bb141be0166f17be3nB_3Nm0EA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "山东新禹通信息技术有限公司成立于2018年，是专业的新技术应用专家。公司现有近30人的研发、交付、运维团队。专注于物联网、云计算、大数据的应用，融合现代业务流程管理技术，提供专业化的物联网、大数据解决方案。集成了多项新技术，为相关行业客户提供了软件开发服务。 \n公司主营业务面向：工业互联网、智慧教育、智慧医疗、智能海工、智慧能源、农业物联网等；是东软、海康、联通、电信等业务创新合作伙伴。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211015/7b5b554d84f9729c1e327fd7d14fe172bc9207a2e404a6f843f940fc87e193989793ddf6a8bb757a.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "烟台招远市山东黄金职业病防治院门诊综合楼综合楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf8a9b90c826fcee33c5f0af153746f63c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf7507cbb7f896a87806bb989cc496957e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "c8ddd6198dcdd1251nx72Ni5FVNVxo-9U_-d",
+        "encryptId": "9d47e0d22aab8a0a03V92ty9GFdU",
+        "encryptUserId": "e84f88653084cef403F92965GVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.460063,
+        "location": 101120500,
+        "locationName": "烟台",
+        "longitude": 120.509032,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf33bb56fa6edad9f58994ae84dec04a9e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作职责\n1、主要负责医院信息化产品的项目实施与管理；\n2、包括需求调研、客户干系人日常工作汇报，对内与研发、开发、集成等团队进行沟通。\n任职资格\n1、本科学历，计算机、软件工程、医疗信息化等理工计算机相关专业优先；\n2、优秀的沟通能力、学习能力、具有学生干部或社团经历优先；\n3、认可信息化行业发展，具备良好的适应能力与责任心，强烈的自我成就欲望；\n其他要求：人员及居住地点：招远",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250213/48ba41acc9cef1bf809f62f3e102f2ea37b700f29f48edb76bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1XgtWFh6zbpdc-l1mABIyX72tW6fmRDhyxJPituq-3u9U8PTKTP1mxzIMtCQLeR3S6BlUKNjO8OMzgsLwBARvnPWGvQTnp9Ya1tRvnJPlgkV9bztbrIXVe7m09HsDdGmN4RW3iZAoEM1jSM7AIKTvMlLWXs~",
+    "selfAccess": false,
+    "sessionId": null
 }

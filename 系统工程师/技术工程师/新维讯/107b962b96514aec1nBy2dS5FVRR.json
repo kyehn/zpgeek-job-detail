@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ONl3kxywBx6FE-G1b16hj8i99uxVQIcMr7x9ocnlCKrfqPyAhZjefe3_Vgmekm_CiAzECwllMyvuG4AQYe_xGfGctkpG8bLBXR58OaOJtzmg2LNZUhhvCx7JSTHo76F8MCwkA2eAhblIr-E~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "107b962b96514aec1nBy2dS5FVRR",
-      "encryptUserId": "74012914b9c9eeac0nZ93t-5FFdZ",
-      "invalidStatus": false,
-      "jobName": "技术工程师",
-      "position": 100404,
-      "positionName": "系统工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.对广播电视设备进行安装调试\n2.对用户进行操作培训(需出差)\n3.前期能够和有经验的工程师认真学习，争取早日能够独立完成技术工作\n4.踏实认真，聪明好学\n5，计算机类专业优先\n6、做五休二，六日双休，不加班",
-      "encryptAddressId": "86c0279ee54a8bdf03dz29u8FlE~",
-      "address": "北京昌平区修正大厦(郑上路)1010",
-      "longitude": 116.367735,
-      "latitude": 40.100822,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bec8bac8bc2ec6359ea05471f81dd42c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4097f126fd3c309b643dc17ba0294fad",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "技术员"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "范先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220216/607f1f3d68754fd0bc2440f854b7ca98b8e9c5205bc2f4a9929219d8991dcd0a5b214ca0086_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "新维讯",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf3c9ec31dd4dae81nF83dm-GVE~",
-      "brandName": "新维讯",
-      "logo": "https://c-res.zhipin.com/jrs/f29fea4222581101fd8e2fa073500cf7.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1725605219631,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "新维讯",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "新维讯",
+        "certificated": true,
+        "large": null,
+        "name": "范先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220216/607f1f3d68754fd0bc2440f854b7ca98b8e9c5205bc2f4a9929219d8991dcd0a5b214ca0086_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725605219631,
+        "brandName": "新维讯",
+        "customerBrandName": "新维讯",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "cf3c9ec31dd4dae81nF83dm-GVE~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/f29fea4222581101fd8e2fa073500cf7.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京昌平区修正大厦(郑上路)1010",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "86c0279ee54a8bdf03dz29u8FlE~",
+        "encryptId": "107b962b96514aec1nBy2dS5FVRR",
+        "encryptUserId": "74012914b9c9eeac0nZ93t-5FFdZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.100822,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.367735,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4097f126fd3c309b643dc17ba0294fad",
+        "position": 100404,
+        "positionName": "系统工程师",
+        "postDescription": "1.对广播电视设备进行安装调试\n2.对用户进行操作培训(需出差)\n3.前期能够和有经验的工程师认真学习，争取早日能够独立完成技术工作\n4.踏实认真，聪明好学\n5，计算机类专业优先\n6、做五休二，六日双休，不加班",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "技术员"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bec8bac8bc2ec6359ea05471f81dd42c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ONl3kxywBx6FE-G1b16hj8i99uxVQIcMr7x9ocnlCKrfqPyAhZjefe3_Vgmekm_CiAzECwllMyvuG4AQYe_xGfGctkpG8bLBXR58OaOJtzmg2LNZUhhvCx7JSTHo76F8MCwkA2eAhblIr-E~",
+    "selfAccess": false,
+    "sessionId": null
 }

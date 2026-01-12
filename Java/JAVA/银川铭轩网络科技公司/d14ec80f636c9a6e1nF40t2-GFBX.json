@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "gUIZpjlVNtVZn-11-VvvXx3JxdX9_UchaVp7kt4Q8s_aQO812rtyQYvb4VAR8NuKwuurbCTjexVNbTx-uvRE_13FPKMN_qtIKDg1ZybG4YmDF5-o9su_",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d14ec80f636c9a6e1nF40t2-GFBX",
-      "encryptUserId": "6333f9b240067d740nZz2t65FVJY",
-      "invalidStatus": false,
-      "jobName": "java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101170100,
-      "locationName": "银川",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、参与讨论、分析新项目需求，负责模块的讨论、编码、单元测试及相关文档编写；\n2、参与项目所需的技术预研； \n3、1年或以上后端开发经验 ，有电力业务经验优先；\n4、熟悉Mysql、SQL Server等主流数据库，Redis等缓存技术；\n5、熟悉至少一种JavaWeb后端开发相关技术spring mvc等；\n 6、熟悉JavaScript、html、css了解vuejs、angularjs等主流前端开发框架； \n7、有较强的责任心，抗压能力强、具备良好的沟通能力及团队协作能力。",
-      "encryptAddressId": "93d3085208d35c4103Bz09m6ElE~",
-      "address": "银川兴庆区光耀中心705",
-      "longitude": 106.273941,
-      "latitude": 38.444165,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7cfac20e6ddbb0e4560365d8d09799e7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28520910ce2cd1748ea835dd6495f2c7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "HTML",
-        "CSS",
-        "MVC开发",
-        "Spring",
-        "Redis",
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210426/5b997f89dd1a86471bcd3b19ae15cc68dd4ca07c942d62b7153db927185_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "银川铭轩网络科技公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "01f2066dbe6a14601nF92t68F1o~",
-      "brandName": "银川铭轩网络科技公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "全勤奖",
-        "年终奖",
-        "员工旅游",
-        "餐补",
-        "通讯补贴"
-      ],
-      "activeTime": 1723023317591,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "银川铭轩网络科技公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "银川铭轩网络科技公司",
+        "certificated": true,
+        "large": null,
+        "name": "吴先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210426/5b997f89dd1a86471bcd3b19ae15cc68dd4ca07c942d62b7153db927185_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723023317591,
+        "brandName": "银川铭轩网络科技公司",
+        "customerBrandName": "银川铭轩网络科技公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "01f2066dbe6a14601nF92t68F1o~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "全勤奖",
+            "年终奖",
+            "员工旅游",
+            "餐补",
+            "通讯补贴"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "银川兴庆区光耀中心705",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "93d3085208d35c4103Bz09m6ElE~",
+        "encryptId": "d14ec80f636c9a6e1nF40t2-GFBX",
+        "encryptUserId": "6333f9b240067d740nZz2t65FVJY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.444165,
+        "location": 101170100,
+        "locationName": "银川",
+        "longitude": 106.273941,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28520910ce2cd1748ea835dd6495f2c7",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、参与讨论、分析新项目需求，负责模块的讨论、编码、单元测试及相关文档编写；\n2、参与项目所需的技术预研； \n3、1年或以上后端开发经验 ，有电力业务经验优先；\n4、熟悉Mysql、SQL Server等主流数据库，Redis等缓存技术；\n5、熟悉至少一种JavaWeb后端开发相关技术spring mvc等；\n 6、熟悉JavaScript、html、css了解vuejs、angularjs等主流前端开发框架； \n7、有较强的责任心，抗压能力强、具备良好的沟通能力及团队协作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "SQL",
+            "HTML",
+            "CSS",
+            "MVC开发",
+            "Spring",
+            "Redis",
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7cfac20e6ddbb0e4560365d8d09799e7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "gUIZpjlVNtVZn-11-VvvXx3JxdX9_UchaVp7kt4Q8s_aQO812rtyQYvb4VAR8NuKwuurbCTjexVNbTx-uvRE_13FPKMN_qtIKDg1ZybG4YmDF5-o9su_",
+    "selfAccess": false,
+    "sessionId": null
 }

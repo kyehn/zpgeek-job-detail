@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3IZwwwyUW5pby-Z15q7kHzEBEFoeSJd_MRP7Ma-o6qbPYwX5IgL7fppk2Bcu3BSwWcva0S53RjLeHBwanUIwibbL0B_CkNSH9JRDA0eGxoRjxVEdnX8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5ede6a048bc9ecf31Hd93tq0EVNZ",
-      "encryptUserId": "d356a701aaf865a703d70tq8EVY~",
-      "invalidStatus": false,
-      "jobName": "C++开发工程师（实习）",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟练掌握C/C++语言\n2. 熟悉软件开发过程\n3.熟悉软件设计模式\n4. 熟悉Windows和Linux操作系统\n5. 了解QT软件开发\n6. 善于沟通，具备团队合作精神",
-      "encryptAddressId": "7aad6e5780bb45440nF53ty-F1ZUy467Vfk~",
-      "address": "苏州苏州工业园区东坊创智园地B3幢3楼",
-      "longitude": 120.761974,
-      "latitude": 31.274165,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e2b1a34f4d1a4782657d675baab5386",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1edbd33ec1bf84e9a5f1688d7a8114c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "C",
-        "Java",
-        "QT",
-        "MFC",
-        "STL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "宏控软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4e6eebae81fad6a51nB92Ni-FFc~",
-      "brandName": "宏控软件",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719445905000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宏控软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宏控软件",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1719445905000,
+        "brandName": "宏控软件",
+        "customerBrandName": "宏控软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4e6eebae81fad6a51nB92Ni-FFc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州工业园区东坊创智园地B3幢3楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7aad6e5780bb45440nF53ty-F1ZUy467Vfk~",
+        "encryptId": "5ede6a048bc9ecf31Hd93tq0EVNZ",
+        "encryptUserId": "d356a701aaf865a703d70tq8EVY~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "C++开发工程师（实习）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.274165,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.761974,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1edbd33ec1bf84e9a5f1688d7a8114c",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1.熟练掌握C/C++语言\n2. 熟悉软件开发过程\n3.熟悉软件设计模式\n4. 熟悉Windows和Linux操作系统\n5. 了解QT软件开发\n6. 善于沟通，具备团队合作精神",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "C++",
+            "C",
+            "Java",
+            "QT",
+            "MFC",
+            "STL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e2b1a34f4d1a4782657d675baab5386"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3IZwwwyUW5pby-Z15q7kHzEBEFoeSJd_MRP7Ma-o6qbPYwX5IgL7fppk2Bcu3BSwWcva0S53RjLeHBwanUIwibbL0B_CkNSH9JRDA0eGxoRjxVEdnX8~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PTZ5vLxG7AdP_-u10sfXTOiyeRN0nVIQIMXbyjmsrnTtpv_mTyBCF6vZcBn1EcpGEpLIq1TFP5zbKIjX0kWSNEAUzp_TgW4qy_5lfv6g4UlfZYyUK_GpZ3WRAOp_VyncRKUxecyrAZ_pKXc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c1df41bceaf3b6ca1Hx809-0E1BV",
-      "encryptUserId": "32ec84aa5a6888800XN_0tu1FVdW",
-      "invalidStatus": false,
-      "jobName": "数据开发",
-      "position": 100508,
-      "positionName": "数据开发",
-      "location": 101230500,
-      "locationName": "泉州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "app软件刷视频看广告（仅线下）",
-      "encryptAddressId": "84cbec0409349c8e1nZ83dm0ElJSy4m6Ufmf",
-      "address": "泉州安溪县福建农誉商贸配送中心进玉路91-1901",
-      "longitude": 118.195335,
-      "latitude": 25.056888,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240721/48ba41acc9cef1bfb73c960c71bd61481d99e7a38e1455c36bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240723/48ba41acc9cef1bf13c8152ec6e7b36d084adeefe3271d776bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "app看广告赚佣金"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240912/607f1f3d68754fd00fc8028072e8348124ff0864442a72c437960cfafcb174ccb475958582978dd_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "安溪县城厢小童网...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "190dc09aa04d8dd01HJ93tu5F1U~",
-      "brandName": "安溪县城厢小童网...",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240818/7b5b554d84f9729cbd56df733074f0a50a65fc18ca373cefd366e5e6291a986de587fbc56927154a.jpg.webp",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "生日福利",
-        "有无线网",
-        "宿舍有空调",
-        "包住",
-        "团建聚餐",
-        "全勤奖",
-        "加班补助",
-        "保底工资",
-        "绩效奖金"
-      ],
-      "activeTime": 1727332249000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安溪县城厢小童网...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安溪县城厢小童网...",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240912/607f1f3d68754fd00fc8028072e8348124ff0864442a72c437960cfafcb174ccb475958582978dd_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727332249000,
+        "brandName": "安溪县城厢小童网...",
+        "customerBrandName": "安溪县城厢小童网...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "190dc09aa04d8dd01HJ93tu5F1U~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "生日福利",
+            "有无线网",
+            "宿舍有空调",
+            "包住",
+            "团建聚餐",
+            "全勤奖",
+            "加班补助",
+            "保底工资",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240818/7b5b554d84f9729cbd56df733074f0a50a65fc18ca373cefd366e5e6291a986de587fbc56927154a.jpg.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "泉州安溪县福建农誉商贸配送中心进玉路91-1901",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "84cbec0409349c8e1nZ83dm0ElJSy4m6Ufmf",
+        "encryptId": "c1df41bceaf3b6ca1Hx809-0E1BV",
+        "encryptUserId": "32ec84aa5a6888800XN_0tu1FVdW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 25.056888,
+        "location": 101230500,
+        "locationName": "泉州",
+        "longitude": 118.195335,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240723/48ba41acc9cef1bf13c8152ec6e7b36d084adeefe3271d776bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100508,
+        "positionName": "数据开发",
+        "postDescription": "app软件刷视频看广告（仅线下）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "app看广告赚佣金"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240721/48ba41acc9cef1bfb73c960c71bd61481d99e7a38e1455c36bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PTZ5vLxG7AdP_-u10sfXTOiyeRN0nVIQIMXbyjmsrnTtpv_mTyBCF6vZcBn1EcpGEpLIq1TFP5zbKIjX0kWSNEAUzp_TgW4qy_5lfv6g4UlfZYyUK_GpZ3WRAOp_VyncRKUxecyrAZ_pKXc~",
+    "selfAccess": false,
+    "sessionId": null
 }

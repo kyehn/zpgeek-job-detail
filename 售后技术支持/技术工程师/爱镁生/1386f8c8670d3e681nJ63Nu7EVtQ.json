@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "i6uROeuOhokwL-C1p9S5dsSq3DxKVCXhQM186TEpOhxNlWyuFRm1adQZ6qRh7J_-opKps4aUIopt6-YwX_tiVcqplbr4iBKXJ9BgvH9npxoZCwI-LVgE",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1386f8c8670d3e681nJ63Nu7EVtQ",
-      "encryptUserId": "0ee384f7dc9df62a0nd_2tS5EFpR",
-      "invalidStatus": false,
-      "jobName": "技术工程师",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "仪器设备的售前规划、安装调试、售后维修\r\n\r\n加分项\r\n有以下行业经验：医疗器械",
-      "encryptAddressId": "7a7b8e8318c239b83nNz3Ni7",
-      "address": "杭州拱墅区三立时代广场605",
-      "longitude": 120.158757,
-      "latitude": 30.310147,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/891cc8d948f718611520cd009dcc7620",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2ec2edff2e31147f87bfc7ff5b069a80",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统调试",
-        "技术沟通"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "章先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "爱镁生",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d825e3f3526282541nN_0ty-GFs~",
-      "brandName": "爱镁生",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "主要经营第二类医疗器械（检验方面体外诊断仪器试剂等",
-      "labels": [
-        "零食下午茶",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1725252282030,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "爱镁生",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "爱镁生",
+        "certificated": true,
+        "large": null,
+        "name": "章先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725252282030,
+        "brandName": "爱镁生",
+        "customerBrandName": "爱镁生",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d825e3f3526282541nN_0ty-GFs~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "主要经营第二类医疗器械（检验方面体外诊断仪器试剂等",
+        "labels": [
+            "零食下午茶",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州拱墅区三立时代广场605",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7a7b8e8318c239b83nNz3Ni7",
+        "encryptId": "1386f8c8670d3e681nJ63Nu7EVtQ",
+        "encryptUserId": "0ee384f7dc9df62a0nd_2tS5EFpR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.310147,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.158757,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2ec2edff2e31147f87bfc7ff5b069a80",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "仪器设备的售前规划、安装调试、售后维修\r\n\r\n加分项\r\n有以下行业经验：医疗器械",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "系统调试",
+            "技术沟通"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/891cc8d948f718611520cd009dcc7620"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "i6uROeuOhokwL-C1p9S5dsSq3DxKVCXhQM186TEpOhxNlWyuFRm1adQZ6qRh7J_-opKps4aUIopt6-YwX_tiVcqplbr4iBKXJ9BgvH9npxoZCwI-LVgE",
+    "selfAccess": false,
+    "sessionId": null
 }

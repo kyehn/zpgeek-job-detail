@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jq9jJ02pS30Ax-Q1pqoMeU8B8GA68clmFENiHrfBvR8YQXm1vs6Hh10H0q0-qtKSi7mPd0lwfGiBtArP3vv2lYdiOAPA0Yn-KSlcXZ7m9VUWxYmAX6rSNgJvVL8Ax0BEG7ERCflNR7xxZoVbMPHEQ73L",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ec578b5921695c0d1HRz3t21FlRY",
-      "encryptUserId": "34c481360266eef80nd42Ny6FVRU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101271100,
-      "locationName": "宜宾",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K",
-      "payTypeDesc": null,
-      "postDescription": "java语言，负责服务器端、web端程序的设计及编写\n可居家办公 不用到工作室实地上班",
-      "encryptAddressId": "60d4934e8f0d63471nZ-3ty7GVVW",
-      "address": "宜宾翠屏区寅吾地中海蓝湾49栋",
-      "longitude": 104.665386,
-      "latitude": 28.778307,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfaf1c784501e1b817110aedb86f2007e06bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf95c1740e095e2b9faaed3ffacedae0686bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MyBatis",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "段先生",
-      "title": "人事管理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "珙县洛表镇梦影信...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ad1fd053975eaa1d1XB93N20GVc~",
-      "brandName": "珙县洛表镇梦影信...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725343787000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "珙县洛表镇梦影信...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "珙县洛表镇梦影信...",
+        "certificated": true,
+        "large": null,
+        "name": "段先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "人事管理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725343787000,
+        "brandName": "珙县洛表镇梦影信...",
+        "customerBrandName": "珙县洛表镇梦影信...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ad1fd053975eaa1d1XB93N20GVc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宜宾翠屏区寅吾地中海蓝湾49栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "60d4934e8f0d63471nZ-3ty7GVVW",
+        "encryptId": "ec578b5921695c0d1HRz3t21FlRY",
+        "encryptUserId": "34c481360266eef80nd42Ny6FVRU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.778307,
+        "location": 101271100,
+        "locationName": "宜宾",
+        "longitude": 104.665386,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf95c1740e095e2b9faaed3ffacedae0686bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "java语言，负责服务器端、web端程序的设计及编写\n可居家办公 不用到工作室实地上班",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K",
+        "showSkills": [
+            "Java",
+            "MyBatis",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfaf1c784501e1b817110aedb86f2007e06bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jq9jJ02pS30Ax-Q1pqoMeU8B8GA68clmFENiHrfBvR8YQXm1vs6Hh10H0q0-qtKSi7mPd0lwfGiBtArP3vv2lYdiOAPA0Yn-KSlcXZ7m9VUWxYmAX6rSNgJvVL8Ax0BEG7ERCflNR7xxZoVbMPHEQ73L",
+    "selfAccess": false,
+    "sessionId": null
 }

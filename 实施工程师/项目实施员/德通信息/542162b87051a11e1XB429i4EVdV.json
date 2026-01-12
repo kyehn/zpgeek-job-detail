@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Q9cK7c-gUN33B-B1nL_Saar2u1-7O5A2qjLRMNZnKvHhTrNSin3Jjs5vmxlIeVd5rFGCWAd_ZKWfRFdeC0zu1b53fwXPttIPmgzEsRyvn46u_ZQLOA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "542162b87051a11e1XB429i4EVdV",
-      "encryptUserId": "337771dd8bec1ca70nV_0ty5FFI~",
-      "invalidStatus": false,
-      "jobName": "项目实施员",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101240100,
-      "locationName": "南昌",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "1、系统项目实施及运维\n2、计算机相关专业\n3、应届毕业生\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
-      "encryptAddressId": "5551ea9f7a7e1c121nZ53NS5FlZS",
-      "address": "南昌青山湖区万科海上之光2栋308",
-      "longitude": 115.988194,
-      "latitude": 28.712134,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf854b9143bd09519defa5b0b2cd6ad5a56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230618/48ba41acc9cef1bf6eff9cfe64e5928cf85a2355131522426bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "德通信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "83cbd5138a889bee0n1639-0Ew~~",
-      "brandName": "德通信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100010,
-      "industryName": "分类信息",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727322431004,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "德通信息",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "德通信息",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727322431004,
+        "brandName": "德通信息",
+        "customerBrandName": "德通信息",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "83cbd5138a889bee0n1639-0Ew~~",
+        "focusBrand": false,
+        "industry": 100010,
+        "industryName": "分类信息",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南昌青山湖区万科海上之光2栋308",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5551ea9f7a7e1c121nZ53NS5FlZS",
+        "encryptId": "542162b87051a11e1XB429i4EVdV",
+        "encryptUserId": "337771dd8bec1ca70nV_0ty5FFI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "项目实施员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.712134,
+        "location": 101240100,
+        "locationName": "南昌",
+        "longitude": 115.988194,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230618/48ba41acc9cef1bf6eff9cfe64e5928cf85a2355131522426bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1、系统项目实施及运维\n2、计算机相关专业\n3、应届毕业生\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "ERP",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf854b9143bd09519defa5b0b2cd6ad5a56bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Q9cK7c-gUN33B-B1nL_Saar2u1-7O5A2qjLRMNZnKvHhTrNSin3Jjs5vmxlIeVd5rFGCWAd_ZKWfRFdeC0zu1b53fwXPttIPmgzEsRyvn46u_ZQLOA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

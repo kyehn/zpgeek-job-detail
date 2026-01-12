@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GJSmft_9jVtnC-x1QSjfN5kfa01cJNIEQ06oRzCDwCFode0GKrB53QRyIWZcxbFvz4tGwU8VRLgFUPk24zM-3b-Jg8SdnyPEmS_GxO9iNYWNaRnlJPANFkQWjqGgrqKeQQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6f2ca4712e03717903V709S1FlRV",
-      "encryptUserId": "a964d893af1fc8cb03x-3967F1c~",
-      "invalidStatus": false,
-      "jobName": "python爬虫工程师",
-      "position": 100514,
-      "positionName": "爬虫工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n科研数据处理：针对经管、社科类科研项目，使用Python处理各类数据集，包括数据清洗、整理和预处理，确保数据的高质量和一致性。\n数据获取：利用Python及相关工具（如requests、BeautifulSoup、Pandas等）从API、数据库或网页采集科研数据，并进行规范化处理。\n\n岗位要求：\n熟练的Python技能：精通Pandas、NumPy、Matplotlib等数据处理和分析工具，具备处理大规模数据的能力。\n科研数据经验：有经管、社科等领域数据处理的经验，能够针对不完整、复杂的数据进行有效清洗和分析。\n数据采集能力：能使用Python相关工具（如requests、BeautifulSoup等）进行数据抓取，并对获取的数据进行清洗和转换。\n数据可视化能力：能够通过Matplotlib、Seaborn等工具进行数据的可视化展示，传达数据背后的信息和洞见。\n\n加分项：\n1. 统计分析与计量经济学：有统计分析基础，了解计量经济学方法在科研数据中的应用。\n2. 机器学习应用：能够构建简单的机器学习模型，用于数据分类、预测等任务。\n3. 自然语言处理（NLP）：熟悉文本分析技术，如TF-IDF、LDA、BERT等，可用于科研文献分析或问卷数据处理。\n4. 高效数据处理：熟悉并能优化数据处理流程，如使用多线程加快数据处理速度。\n5. 大语言模型应用：有ChatGPT或类似大语言模型在科研数据分析中的实际应用经验。\n6. 数据库操作：熟练使用MySQL等数据库进行数据存储和查询。",
-      "encryptAddressId": "16ec9eb31225ef261nR739m8E1ZW",
-      "address": "成都武侯区群益商务大厦侠客岛里望江岛512",
-      "longitude": 104.079663,
-      "latitude": 30.620788,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bfe54b099a6e2044a6789988d4a5c19f626bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bfc621d4a4010d575e4ab0aafa0b1ec9ba6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "爬虫"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "蔡女士",
-      "title": "HRM",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231225/607f1f3d68754fd0d5ff7f1e3a44b9d3f96088e1775d37e1f3cfec72bcab9698ff35bae087fd2e9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "无限集数",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "88b2c3920f6830f81n192NW-FFY~",
-      "brandName": "无限集数",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230511/7bf6f160950405e99cc00c65c29a54f030dfe422fcac70bf4767413202e3cc95db15189f767940bd.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "公司成立于2020年，目前主要拥有公众号、网站、小红书等多个平台，拥有海量数据库，为万千科研学者提供数据服务\n我们的产品：\n科研数据、数据课程、数据定制三大板块\n我们能带给你：\n工作氛围超nice，一起提升\n绩效奖金，努力才会有回报\n我们期待：\n想提升自己，想被人看到你的才华和努力，只要你是千里马，我们希望做你的伯乐！",
-      "labels": [
-        "团建聚餐",
-        "零食下午茶",
-        "带薪年假",
-        "底薪加提成",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1737110111246,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "无限集数",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "无限集数",
+        "certificated": true,
+        "large": null,
+        "name": "蔡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231225/607f1f3d68754fd0d5ff7f1e3a44b9d3f96088e1775d37e1f3cfec72bcab9698ff35bae087fd2e9_b.jpg",
+        "title": "HRM"
+    },
+    "brandComInfo": {
+        "activeTime": 1737110111246,
+        "brandName": "无限集数",
+        "customerBrandName": "无限集数",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "88b2c3920f6830f81n192NW-FFY~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "公司成立于2020年，目前主要拥有公众号、网站、小红书等多个平台，拥有海量数据库，为万千科研学者提供数据服务\n我们的产品：\n科研数据、数据课程、数据定制三大板块\n我们能带给你：\n工作氛围超nice，一起提升\n绩效奖金，努力才会有回报\n我们期待：\n想提升自己，想被人看到你的才华和努力，只要你是千里马，我们希望做你的伯乐！",
+        "labels": [
+            "团建聚餐",
+            "零食下午茶",
+            "带薪年假",
+            "底薪加提成",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230511/7bf6f160950405e99cc00c65c29a54f030dfe422fcac70bf4767413202e3cc95db15189f767940bd.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区群益商务大厦侠客岛里望江岛512",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "16ec9eb31225ef261nR739m8E1ZW",
+        "encryptId": "6f2ca4712e03717903V709S1FlRV",
+        "encryptUserId": "a964d893af1fc8cb03x-3967F1c~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "python爬虫工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.620788,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.079663,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bfc621d4a4010d575e4ab0aafa0b1ec9ba6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100514,
+        "positionName": "爬虫工程师",
+        "postDescription": "岗位职责：\n科研数据处理：针对经管、社科类科研项目，使用Python处理各类数据集，包括数据清洗、整理和预处理，确保数据的高质量和一致性。\n数据获取：利用Python及相关工具（如requests、BeautifulSoup、Pandas等）从API、数据库或网页采集科研数据，并进行规范化处理。\n\n岗位要求：\n熟练的Python技能：精通Pandas、NumPy、Matplotlib等数据处理和分析工具，具备处理大规模数据的能力。\n科研数据经验：有经管、社科等领域数据处理的经验，能够针对不完整、复杂的数据进行有效清洗和分析。\n数据采集能力：能使用Python相关工具（如requests、BeautifulSoup等）进行数据抓取，并对获取的数据进行清洗和转换。\n数据可视化能力：能够通过Matplotlib、Seaborn等工具进行数据的可视化展示，传达数据背后的信息和洞见。\n\n加分项：\n1. 统计分析与计量经济学：有统计分析基础，了解计量经济学方法在科研数据中的应用。\n2. 机器学习应用：能够构建简单的机器学习模型，用于数据分类、预测等任务。\n3. 自然语言处理（NLP）：熟悉文本分析技术，如TF-IDF、LDA、BERT等，可用于科研文献分析或问卷数据处理。\n4. 高效数据处理：熟悉并能优化数据处理流程，如使用多线程加快数据处理速度。\n5. 大语言模型应用：有ChatGPT或类似大语言模型在科研数据分析中的实际应用经验。\n6. 数据库操作：熟练使用MySQL等数据库进行数据存储和查询。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "爬虫"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bfe54b099a6e2044a6789988d4a5c19f626bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GJSmft_9jVtnC-x1QSjfN5kfa01cJNIEQ06oRzCDwCFode0GKrB53QRyIWZcxbFvz4tGwU8VRLgFUPk24zM-3b-Jg8SdnyPEmS_GxO9iNYWNaRnlJPANFkQWjqGgrqKeQQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

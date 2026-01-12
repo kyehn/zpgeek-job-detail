@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "a7JnyFO6J4Odv-H1O5x0m9x1oQ1Pu6M0mh7CI59Uf-eang_a0h7GU_j4mSFHCNnGQ05IFSnHYpDJR-vgRlkxgA9hsfxG2CXCmAN9HKM_T0pvX74vtNPz",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6482aba01d5ccab41HF83tS8E1pT",
-      "encryptUserId": "122e5190d9d2434d0nF80ty4E1VT",
-      "invalidStatus": false,
-      "jobName": "数据标注专员",
-      "position": 130121,
-      "positionName": "数据标注/AI训练师",
-      "location": 101100200,
-      "locationName": "大同",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "文本类数据标注\n根据抖音以及平台的审核规则，进行系统学习后，准入项目进项标注\n长白项目，只有白班，需要逻辑思维能力，语言组织能力强，细心+耐心\n项目类型以文本 大模型方向为主\n1）、大专和大专以上学历，专业不限，优先本科；\n2）、行政班（9：00-18：00）双休；\n3）、薪资2000底薪+绩效，综合收入3000左右；",
-      "encryptAddressId": "992c12b7d0dad1b733d92d25FVdZwI67Uvg~",
-      "address": "大同平城区东风里数据服务基地东风里数据服务基地东风里数据服务基地4楼",
-      "longitude": 113.295161,
-      "latitude": 40.115563,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf8535e71a81cd809392cbd338cd94eb156bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfe97d128f65b26ce04a5f9019e140392a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "文本标注",
-        "不接受居家办公",
-        "标注结果整理",
-        "标注数据分析",
-        "数据分析能力强",
-        "标注方法优化",
-        "标框标注",
-        "图片标注",
-        "分类标注",
-        "接受加班"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "车女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240729/607f1f3d68754fd0461a65f09bfe93fc049a24ac767e1c20acb340c95cee2ec540ae8d3b0506a3a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "灵波微步",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "edddf5b381b29b421Xd439y0EVM~",
-      "brandName": "灵波微步",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "底薪加提成",
-        "绩效奖金"
-      ],
-      "activeTime": 1725376084665,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "灵波微步",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "灵波微步",
+        "certificated": true,
+        "large": null,
+        "name": "车女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240729/607f1f3d68754fd0461a65f09bfe93fc049a24ac767e1c20acb340c95cee2ec540ae8d3b0506a3a_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725376084665,
+        "brandName": "灵波微步",
+        "customerBrandName": "灵波微步",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "edddf5b381b29b421Xd439y0EVM~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "底薪加提成",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "大同平城区东风里数据服务基地东风里数据服务基地东风里数据服务基地4楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "992c12b7d0dad1b733d92d25FVdZwI67Uvg~",
+        "encryptId": "6482aba01d5ccab41HF83tS8E1pT",
+        "encryptUserId": "122e5190d9d2434d0nF80ty4E1VT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据标注专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.115563,
+        "location": 101100200,
+        "locationName": "大同",
+        "longitude": 113.295161,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfe97d128f65b26ce04a5f9019e140392a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 130121,
+        "positionName": "数据标注/AI训练师",
+        "postDescription": "文本类数据标注\n根据抖音以及平台的审核规则，进行系统学习后，准入项目进项标注\n长白项目，只有白班，需要逻辑思维能力，语言组织能力强，细心+耐心\n项目类型以文本 大模型方向为主\n1）、大专和大专以上学历，专业不限，优先本科；\n2）、行政班（9：00-18：00）双休；\n3）、薪资2000底薪+绩效，综合收入3000左右；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "文本标注",
+            "不接受居家办公",
+            "标注结果整理",
+            "标注数据分析",
+            "数据分析能力强",
+            "标注方法优化",
+            "标框标注",
+            "图片标注",
+            "分类标注",
+            "接受加班"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf8535e71a81cd809392cbd338cd94eb156bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "a7JnyFO6J4Odv-H1O5x0m9x1oQ1Pu6M0mh7CI59Uf-eang_a0h7GU_j4mSFHCNnGQ05IFSnHYpDJR-vgRlkxgA9hsfxG2CXCmAN9HKM_T0pvX74vtNPz",
+    "selfAccess": false,
+    "sessionId": null
 }

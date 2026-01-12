@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zL7GtJWSduYiJ-f1SNnh_UWzMIgpQ5vyYOsKxvUSO2IPekJaZULSYW9HaO52BR9inCx1dlcnJVkVtMNpr0-4Dt0Yes5tc-x-fNrlnuRVHPOrsRZ5Hxtau9cieHHysizkU9YifgIMcBPDfvWhQEDyGg4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bb837ba1ca9b59fb1HR609q9GFJU",
-      "encryptUserId": "ef1d9047539393681XR839S8F1Q~",
-      "invalidStatus": false,
-      "jobName": "测试员",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280300,
-      "locationName": "惠州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责裁线机数值的调整\n2、裁线检查\n3、有相关工作经验\n4、勤奋好学",
-      "encryptAddressId": "b124cb1e7d704eb633x_2dW6ElU~",
-      "address": "惠州惠阳区海能新一代信息产业园3栋8楼",
-      "longitude": 114.427815,
-      "latitude": 22.755495,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ae95163de8004288c437d2212d33254",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/716d121f0fcdba1366a1f2184a480877",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "文女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "深圳麦赫科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1f3663510c618d771XF-3Ni5FFQ~",
-      "brandName": "深圳麦赫科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725270937003,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳麦赫科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳麦赫科技",
+        "certificated": true,
+        "large": null,
+        "name": "文女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1725270937003,
+        "brandName": "深圳麦赫科技",
+        "customerBrandName": "深圳麦赫科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1f3663510c618d771XF-3Ni5FFQ~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "惠州惠阳区海能新一代信息产业园3栋8楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b124cb1e7d704eb633x_2dW6ElU~",
+        "encryptId": "bb837ba1ca9b59fb1HR609q9GFJU",
+        "encryptUserId": "ef1d9047539393681XR839S8F1Q~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.755495,
+        "location": 101280300,
+        "locationName": "惠州",
+        "longitude": 114.427815,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/716d121f0fcdba1366a1f2184a480877",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、负责裁线机数值的调整\n2、裁线检查\n3、有相关工作经验\n4、勤奋好学",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "通信测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ae95163de8004288c437d2212d33254"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zL7GtJWSduYiJ-f1SNnh_UWzMIgpQ5vyYOsKxvUSO2IPekJaZULSYW9HaO52BR9inCx1dlcnJVkVtMNpr0-4Dt0Yes5tc-x-fNrlnuRVHPOrsRZ5Hxtau9cieHHysizkU9YifgIMcBPDfvWhQEDyGg4~",
+    "selfAccess": false,
+    "sessionId": null
 }

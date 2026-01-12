@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-V4RxBLrpL9NT-e1Fs5eXbXwet65VRf_0wl4f6TdMnF-KoAk1xv8jD7kO16MuRhr75fiIRFszUdXZwQ6KZTt2hCOqiRL7JpT2TYDcjifGiYw_RbfktON",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8126103da991d8081HF_2tu9GFtQ",
-      "encryptUserId": "f69bb5d38bced8fc0XF73NS8FVpT",
-      "invalidStatus": false,
-      "jobName": "内外饰设计工程师",
-      "position": 230110,
-      "positionName": "内外饰设计工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "内外饰系统研发：  车身产品零部件方案设计、并完成3D数模及2D图纸",
-      "encryptAddressId": "240e4d89b3e57d6633V83dq1EVVZw4m-Vfs~",
-      "address": "深圳坪山区深圳百泰黄金珠宝大厦1104",
-      "longitude": 114.377193,
-      "latitude": 22.729652,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf53f988262ef21fe4bb4b5fd683e77e626bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf47aa636c72bb90abb0a1fe9462950ff66bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "内饰",
-        "外饰",
-        "Catia",
-        "汽车相关专业",
-        "模具相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "公司老板",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240507/607f1f3d68754fd0df737c33cacf4a759fe383a7b6ec0faf41099181125582412ba3ccef5209a5d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "宁波锐捷汽车科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "75dfbf523c08d72c1HB929u9Els~",
-      "brandName": "宁波锐捷汽车科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100801,
-      "industryName": "汽车研发/制造",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727493580420,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宁波锐捷汽车科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宁波锐捷汽车科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240507/607f1f3d68754fd0df737c33cacf4a759fe383a7b6ec0faf41099181125582412ba3ccef5209a5d_b.jpg",
+        "title": "公司老板"
+    },
+    "brandComInfo": {
+        "activeTime": 1727493580420,
+        "brandName": "宁波锐捷汽车科技",
+        "customerBrandName": "宁波锐捷汽车科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "75dfbf523c08d72c1HB929u9Els~",
+        "focusBrand": false,
+        "industry": 100801,
+        "industryName": "汽车研发/制造",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳坪山区深圳百泰黄金珠宝大厦1104",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "240e4d89b3e57d6633V83dq1EVVZw4m-Vfs~",
+        "encryptId": "8126103da991d8081HF_2tu9GFtQ",
+        "encryptUserId": "f69bb5d38bced8fc0XF73NS8FVpT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "内外饰设计工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.729652,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.377193,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf47aa636c72bb90abb0a1fe9462950ff66bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 230110,
+        "positionName": "内外饰设计工程师",
+        "postDescription": "内外饰系统研发：  车身产品零部件方案设计、并完成3D数模及2D图纸",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K·13薪",
+        "showSkills": [
+            "内饰",
+            "外饰",
+            "Catia",
+            "汽车相关专业",
+            "模具相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf53f988262ef21fe4bb4b5fd683e77e626bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-V4RxBLrpL9NT-e1Fs5eXbXwet65VRf_0wl4f6TdMnF-KoAk1xv8jD7kO16MuRhr75fiIRFszUdXZwQ6KZTt2hCOqiRL7JpT2TYDcjifGiYw_RbfktON",
+    "selfAccess": false,
+    "sessionId": null
 }

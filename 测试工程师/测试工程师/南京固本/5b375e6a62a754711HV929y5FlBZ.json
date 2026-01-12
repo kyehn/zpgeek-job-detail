@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "5XkKrlKKnUZmO-v1IA1nHjoFm541R4hOC7PS9M0WyamxfHwm7F13Ppl2-CJiolPYnKgyoO6GQXROKEgLFJdKxS73q8cZAXuYWot1V5pYJPkcpZ3ol1U~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5b375e6a62a754711HV929y5FlBZ",
-      "encryptUserId": "6d86a1576ae9a34b1nR_3Ny6GFVQ",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "掌握现有主流测试工具\n具备编写测试用例的能力\n负责公司业务软件的功能测试",
-      "encryptAddressId": "09b6dc691fc52d951n162dS0FlE~",
-      "address": "南京玄武区常发广场(红山路)4栋312",
-      "longitude": 118.810819,
-      "latitude": 32.08569,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/798443bf6a5344d1d15de161b5b527a4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa4de9b841d396e909a654f4a3b2c9c4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "压力测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "窦先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "南京固本",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "23e0a9a74a9df34833R629y9Fw~~",
-      "brandName": "南京固本",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231104/7bf6f160950405e9f2d6766d4f295252663b83010f5eba1801c6065ed4537482b17e48e2f7c93843.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "通讯行业软件提供商，运营商的业务支撑系统的平台厂家，自研非外包。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
-        "员工旅游",
-        "包吃",
-        "零食下午茶",
-        "通讯补贴",
-        "节日福利",
-        "交通补助"
-      ],
-      "activeTime": 1725365282560,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京固本",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京固本",
+        "certificated": true,
+        "large": null,
+        "name": "窦先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725365282560,
+        "brandName": "南京固本",
+        "customerBrandName": "南京固本",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "23e0a9a74a9df34833R629y9Fw~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "通讯行业软件提供商，运营商的业务支撑系统的平台厂家，自研非外包。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "员工旅游",
+            "包吃",
+            "零食下午茶",
+            "通讯补贴",
+            "节日福利",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231104/7bf6f160950405e9f2d6766d4f295252663b83010f5eba1801c6065ed4537482b17e48e2f7c93843.png.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京玄武区常发广场(红山路)4栋312",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "09b6dc691fc52d951n162dS0FlE~",
+        "encryptId": "5b375e6a62a754711HV929y5FlBZ",
+        "encryptUserId": "6d86a1576ae9a34b1nR_3Ny6GFVQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.08569,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.810819,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa4de9b841d396e909a654f4a3b2c9c4",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "掌握现有主流测试工具\n具备编写测试用例的能力\n负责公司业务软件的功能测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "自动化测试",
+            "压力测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/798443bf6a5344d1d15de161b5b527a4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "5XkKrlKKnUZmO-v1IA1nHjoFm541R4hOC7PS9M0WyamxfHwm7F13Ppl2-CJiolPYnKgyoO6GQXROKEgLFJdKxS73q8cZAXuYWot1V5pYJPkcpZ3ol1U~",
+    "selfAccess": false,
+    "sessionId": null
 }

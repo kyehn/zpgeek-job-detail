@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uMDjrLXrSV6Ci-D1HdF10VwTx4kjIVdDKHGWGvt80fKMbRvCuYegMpU_DBSF5sVL487099HXVf6LkWp24cJv0qbTCl03JmiN-WJTQIqpuMTuhQTeOJYx7KPVLVVLWU9cBdojie7MtQXkyA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6c0b214ab2877de11XNz3Nu4GFpR",
-      "encryptUserId": "25941b65781afad01HN53N6-GVM~",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.掌握C#开发技术，有至少一个实际项目开发经验\n2.掌握网页开发技术，熟练使用vue进行前端开发\n3.有移动端开发经验优先\n4.能熟练编写sql语句\n5.满足1234要求情况下掌握其他前端技术，或者后端技术优先考虑\n\n此岗位非应届毕业生岗位，请理解，谢谢！",
-      "encryptAddressId": "55004a15b3c63a830Hxz3tq5GVQ~",
-      "address": "重庆渝北区重科智谷2208",
-      "longitude": 106.49824,
-      "latitude": 29.613254,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f23ed42c596929c487521c573bcad2f1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd4137f6c7301b12055cc6e5cd66819f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "MySQL",
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邱先生",
-      "title": "高级产品总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190823/37c397f071f99d4ada7bb862626c20b8ea27a5277451133ffbad253543d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "医信智达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf6674c9bae238da1nB_29S_EVI~",
-      "brandName": "医信智达",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100402,
-      "industryName": "医疗服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722412736814,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "医信智达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "医信智达",
+        "certificated": true,
+        "large": null,
+        "name": "邱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190823/37c397f071f99d4ada7bb862626c20b8ea27a5277451133ffbad253543d_b.jpg",
+        "title": "高级产品总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1722412736814,
+        "brandName": "医信智达",
+        "customerBrandName": "医信智达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cf6674c9bae238da1nB_29S_EVI~",
+        "focusBrand": false,
+        "industry": 100402,
+        "industryName": "医疗服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆渝北区重科智谷2208",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "55004a15b3c63a830Hxz3tq5GVQ~",
+        "encryptId": "6c0b214ab2877de11XNz3Nu4GFpR",
+        "encryptUserId": "25941b65781afad01HN53N6-GVM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.613254,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.49824,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd4137f6c7301b12055cc6e5cd66819f",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "1.掌握C#开发技术，有至少一个实际项目开发经验\n2.掌握网页开发技术，熟练使用vue进行前端开发\n3.有移动端开发经验优先\n4.能熟练编写sql语句\n5.满足1234要求情况下掌握其他前端技术，或者后端技术优先考虑\n\n此岗位非应届毕业生岗位，请理解，谢谢！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "C#",
+            "MySQL",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f23ed42c596929c487521c573bcad2f1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uMDjrLXrSV6Ci-D1HdF10VwTx4kjIVdDKHGWGvt80fKMbRvCuYegMpU_DBSF5sVL487099HXVf6LkWp24cJv0qbTCl03JmiN-WJTQIqpuMTuhQTeOJYx7KPVLVVLWU9cBdojie7MtQXkyA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

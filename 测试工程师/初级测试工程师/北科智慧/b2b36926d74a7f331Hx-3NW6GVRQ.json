@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_P5htSOEIPnKC-i1LaVazy2sdtBY6NvUeTnTDNTukclMlD1fLNQ7ukoNGzQmupyKGm4KyW_8bxt9QtutlVu0udMAvdIPEfl6JD5XOGK6nr1d9F7uT3y-MhVo5BERoWkvs6MbXrUTcXoq",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b2b36926d74a7f331Hx-3NW6GVRQ",
-      "encryptUserId": "386f42d15c5ff9af1nd43d26Elo~",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司软硬件产品的测试工作，分析测试需求，设计测试用例，执行测试用例。\n2、紧密配合项目经理及研发工程师工作，制定测试时间测试计划，将发现问题及时录入项目管理系统并推进研发工程师解决。\n3、负责收集客户反馈问题，将问题重现，评估问题解决的优先级别。\n4、协助项目经理及研发工程师处理相关工作，包括硬件制线，采购工作等。\n\n岗位要求：\n1、统招本科毕业，学信网可查，电子工程或软件工作专业优先。\n2、1-3年相关工作经验，熟悉软硬件测试的基本方法和流程。\n3、工作细心、不挑剔，勇于承担，团结同事。",
-      "encryptAddressId": "9a327b57cc16915c1nZ83tS4GFNQwoq4U_qe",
-      "address": "北京朝阳区京环大厦6楼",
-      "longitude": 116.437014,
-      "latitude": 40.00169,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bffc80c6f83bcd6b7775cdabfe0009ce126bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bff390693c687500938190da4aea4025706bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "压力测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190531/2ab4bccc0ebfa50aef23662173ede051dddecedeb8030ab32c0af133171_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "北科智慧",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c1cbd4aefa6311911nd_09i8Eg~~",
-      "brandName": "北科智慧",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201205/ee10c2aa058520ffc6866128f86814cdb14d214e24fe0fdfc84b1cb4b5e5fdf8.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "公司专注于商业智能行业解决方案，数据可视化分析，电商平台建设，同时为企业提供IT综合服务。北科智慧的创始团队来自微软，IBM，联想，东软等知名企业，有多年IT互联网经验，也有专注于数据分析领域的海外专家。北科智慧坚持以客户为中心的理念，为其持续创造价值，与客户一同成长。",
-      "labels": [
-        "每周下午茶",
-        "五险一金",
-        "定期体检",
-        "全勤奖",
-        "带薪年假",
-        "餐补",
-        "零食下午茶",
-        "包吃",
-        "交通补助"
-      ],
-      "activeTime": 1728141139452,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北科智慧",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北科智慧",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190531/2ab4bccc0ebfa50aef23662173ede051dddecedeb8030ab32c0af133171_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1728141139452,
+        "brandName": "北科智慧",
+        "customerBrandName": "北科智慧",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "c1cbd4aefa6311911nd_09i8Eg~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "公司专注于商业智能行业解决方案，数据可视化分析，电商平台建设，同时为企业提供IT综合服务。北科智慧的创始团队来自微软，IBM，联想，东软等知名企业，有多年IT互联网经验，也有专注于数据分析领域的海外专家。北科智慧坚持以客户为中心的理念，为其持续创造价值，与客户一同成长。",
+        "labels": [
+            "每周下午茶",
+            "五险一金",
+            "定期体检",
+            "全勤奖",
+            "带薪年假",
+            "餐补",
+            "零食下午茶",
+            "包吃",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201205/ee10c2aa058520ffc6866128f86814cdb14d214e24fe0fdfc84b1cb4b5e5fdf8.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区京环大厦6楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9a327b57cc16915c1nZ83tS4GFNQwoq4U_qe",
+        "encryptId": "b2b36926d74a7f331Hx-3NW6GVRQ",
+        "encryptUserId": "386f42d15c5ff9af1nd43d26Elo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.00169,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.437014,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bff390693c687500938190da4aea4025706bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、负责公司软硬件产品的测试工作，分析测试需求，设计测试用例，执行测试用例。\n2、紧密配合项目经理及研发工程师工作，制定测试时间测试计划，将发现问题及时录入项目管理系统并推进研发工程师解决。\n3、负责收集客户反馈问题，将问题重现，评估问题解决的优先级别。\n4、协助项目经理及研发工程师处理相关工作，包括硬件制线，采购工作等。\n\n岗位要求：\n1、统招本科毕业，学信网可查，电子工程或软件工作专业优先。\n2、1-3年相关工作经验，熟悉软硬件测试的基本方法和流程。\n3、工作细心、不挑剔，勇于承担，团结同事。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "性能测试",
+            "压力测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bffc80c6f83bcd6b7775cdabfe0009ce126bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_P5htSOEIPnKC-i1LaVazy2sdtBY6NvUeTnTDNTukclMlD1fLNQ7ukoNGzQmupyKGm4KyW_8bxt9QtutlVu0udMAvdIPEfl6JD5XOGK6nr1d9F7uT3y-MhVo5BERoWkvs6MbXrUTcXoq",
+    "selfAccess": false,
+    "sessionId": null
 }

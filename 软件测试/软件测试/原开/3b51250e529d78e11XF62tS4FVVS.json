@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jcArCPvLMmVPM-51kjn4bwenaENrznG5CTh6R4jCIRAvnk6nKc5Z22fCRXTkLb5ct2ngTuGjw05SGrDacbftSGP_RM19yWsbt0qmhJT1g1nv4vhzHlU7",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3b51250e529d78e11XF62tS4FVVS",
-      "encryptUserId": "8a1702de311fe2470nJ52Ni7GVNZ",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "分析产品需求，制定合理高效的测试计划",
-      "encryptAddressId": "9af311a9e8c167680HZ72d20Elo~",
-      "address": "重庆沙坪坝区富力城二期第1区2栋12楼3号",
-      "longitude": 106.309239,
-      "latitude": 29.599729,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77ff42173125c038592c9801ba594c13",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ee147a2b56680dc3e4404890efdd8c9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "压力测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "高先生",
-      "title": "事业部",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221010/607f1f3d68754fd0931db8b8d929be6a50bccaea7180c3621f08973f24f923b83022d66f983_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "原开",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ed9022d0551f7b841Xd-2Ni_FVI~",
-      "brandName": "原开",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726995714043,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "原开",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "原开",
+        "certificated": true,
+        "large": null,
+        "name": "高先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221010/607f1f3d68754fd0931db8b8d929be6a50bccaea7180c3621f08973f24f923b83022d66f983_b.jpg",
+        "title": "事业部"
+    },
+    "brandComInfo": {
+        "activeTime": 1726995714043,
+        "brandName": "原开",
+        "customerBrandName": "原开",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ed9022d0551f7b841Xd-2Ni_FVI~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆沙坪坝区富力城二期第1区2栋12楼3号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "9af311a9e8c167680HZ72d20Elo~",
+        "encryptId": "3b51250e529d78e11XF62tS4FVVS",
+        "encryptUserId": "8a1702de311fe2470nJ52Ni7GVNZ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.599729,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.309239,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ee147a2b56680dc3e4404890efdd8c9",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "分析产品需求，制定合理高效的测试计划",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "性能测试",
+            "压力测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77ff42173125c038592c9801ba594c13"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jcArCPvLMmVPM-51kjn4bwenaENrznG5CTh6R4jCIRAvnk6nKc5Z22fCRXTkLb5ct2ngTuGjw05SGrDacbftSGP_RM19yWsbt0qmhJT1g1nv4vhzHlU7",
+    "selfAccess": false,
+    "sessionId": null
 }

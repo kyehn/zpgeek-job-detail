@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8Cx5dHpJlKhyz-K1Jdo_Il-RFVXFnfdrPIROeJRvxuk6L6zfovEVMOAegEjVqkNPm-eqS6bN0eE16220yyLPPsuXPMsl8cPA_xrkgJDz9_ZStHp44K2UV9jBMfz98daxTCmBW33Lgz-hxFQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7532df5c0f5b4cc11HJ_2d-1F1FW",
-      "encryptUserId": "01af6db1f9c6f1360XFz3Nm6EVpV",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101260100,
-      "locationName": "贵阳",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-7K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟练Intelli IDEA2以上，能独立完成所需求逻辑，独立完成安卓及IOS打包上架。\n2.积极自学能力极强。\n3.熟悉网上购物平台开发及维护逻辑。\n4.前端小问题处理及修改。",
-      "encryptAddressId": "57fb1d31b2e41b013nJ-3di_FFZTxY-4Wfo~",
-      "address": "贵阳南明区花果园U区南区2609",
-      "longitude": 106.671044,
-      "latitude": 26.566778,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230426/48ba41acc9cef1bf16c1c73ad3391e05f9742033f2a1818c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf0d1fb27ae4fd705b072a087644ba4d1c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "石先生",
-      "title": "人事部",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "贵州利途网络有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e3f2177de8c20e9c1HVz2tW0GVE~",
-      "brandName": "贵州利途网络有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "公司公司成立于2023年\n\n办公地址：花果园U区\n\n主要经营：提供网上第三方交易平台",
-      "labels": [],
-      "activeTime": 1727072305000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "贵州利途网络有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "贵州利途网络有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "石先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "人事部"
+    },
+    "brandComInfo": {
+        "activeTime": 1727072305000,
+        "brandName": "贵州利途网络有限公司",
+        "customerBrandName": "贵州利途网络有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e3f2177de8c20e9c1HVz2tW0GVE~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "公司公司成立于2023年\n\n办公地址：花果园U区\n\n主要经营：提供网上第三方交易平台",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "贵阳南明区花果园U区南区2609",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "57fb1d31b2e41b013nJ-3di_FFZTxY-4Wfo~",
+        "encryptId": "7532df5c0f5b4cc11HJ_2d-1F1FW",
+        "encryptUserId": "01af6db1f9c6f1360XFz3Nm6EVpV",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 26.566778,
+        "location": 101260100,
+        "locationName": "贵阳",
+        "longitude": 106.671044,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf0d1fb27ae4fd705b072a087644ba4d1c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.熟练Intelli IDEA2以上，能独立完成所需求逻辑，独立完成安卓及IOS打包上架。\n2.积极自学能力极强。\n3.熟悉网上购物平台开发及维护逻辑。\n4.前端小问题处理及修改。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-7K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230426/48ba41acc9cef1bf16c1c73ad3391e05f9742033f2a1818c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8Cx5dHpJlKhyz-K1Jdo_Il-RFVXFnfdrPIROeJRvxuk6L6zfovEVMOAegEjVqkNPm-eqS6bN0eE16220yyLPPsuXPMsl8cPA_xrkgJDz9_ZStHp44K2UV9jBMfz98daxTCmBW33Lgz-hxFQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

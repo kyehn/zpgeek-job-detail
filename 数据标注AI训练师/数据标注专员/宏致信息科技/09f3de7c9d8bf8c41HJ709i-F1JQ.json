@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0484f7tRkeMyZ-p1XOHhvhm4IEuPRyxFqIK--uDOyz7Jqud2VQi2r9VHdFNLMfeQNJV1c_-HztYru_mKueZHYlCJF-hKmcpTD1iMZKunEvOrdmRIVtcRmWYf0EZ_2bhtk-AJccG0fVIn-_w~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "09f3de7c9d8bf8c41HJ709i-F1JQ",
-      "encryptUserId": "59711c6322aa9f230XF_3d6_EFFW",
-      "invalidStatus": false,
-      "jobName": "数据标注专员",
-      "position": 130121,
-      "positionName": "数据标注/AI训练师",
-      "location": 101181800,
-      "locationName": "济源",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "数据标注师，底薪2000加提成，月薪4000左右，长白班，标准八小时。每周日休息",
-      "encryptAddressId": "09e2635ee3d862463nV42dS8EltXxoW9Wfg~",
-      "address": "济源济源市数字经济产业园6号楼205",
-      "longitude": 112.604939,
-      "latitude": 35.046367,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230525/48ba41acc9cef1bfd293e83dd6eca2628a4fbfb32fc2704a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfb23ce1d63f5c426ce18d74a3a3f421626bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "文本标注",
-        "数据标注",
-        "不接受居家办公",
-        "语音标注",
-        "数据分析能力强",
-        "描点标注",
-        "区域标注",
-        "标框标注",
-        "接受加班",
-        "图片标注"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "苏先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "宏致信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f950876d27b1efd41HF409y_GVM~",
-      "brandName": "宏致信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "主要利用标注工具对车辆道路信息数据采集标注",
-      "labels": [
-        "五险",
-        "交通补助",
-        "零食下午茶",
-        "全勤奖",
-        "节假日加班费",
-        "底薪加提成"
-      ],
-      "activeTime": 1726548196000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宏致信息科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宏致信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "苏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1726548196000,
+        "brandName": "宏致信息科技",
+        "customerBrandName": "宏致信息科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f950876d27b1efd41HF409y_GVM~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "主要利用标注工具对车辆道路信息数据采集标注",
+        "labels": [
+            "五险",
+            "交通补助",
+            "零食下午茶",
+            "全勤奖",
+            "节假日加班费",
+            "底薪加提成"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济源济源市数字经济产业园6号楼205",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "09e2635ee3d862463nV42dS8EltXxoW9Wfg~",
+        "encryptId": "09f3de7c9d8bf8c41HJ709i-F1JQ",
+        "encryptUserId": "59711c6322aa9f230XF_3d6_EFFW",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "数据标注专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 35.046367,
+        "location": 101181800,
+        "locationName": "济源",
+        "longitude": 112.604939,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfb23ce1d63f5c426ce18d74a3a3f421626bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 130121,
+        "positionName": "数据标注/AI训练师",
+        "postDescription": "数据标注师，底薪2000加提成，月薪4000左右，长白班，标准八小时。每周日休息",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "文本标注",
+            "数据标注",
+            "不接受居家办公",
+            "语音标注",
+            "数据分析能力强",
+            "描点标注",
+            "区域标注",
+            "标框标注",
+            "接受加班",
+            "图片标注"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230525/48ba41acc9cef1bfd293e83dd6eca2628a4fbfb32fc2704a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0484f7tRkeMyZ-p1XOHhvhm4IEuPRyxFqIK--uDOyz7Jqud2VQi2r9VHdFNLMfeQNJV1c_-HztYru_mKueZHYlCJF-hKmcpTD1iMZKunEvOrdmRIVtcRmWYf0EZ_2bhtk-AJccG0fVIn-_w~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "el1AXhA7_Y2WE-E1XziCpr2my2sP0m-YiR6CU228ybv3brSFQRUYUzXnY72aJwBZg5qoyowS_vaKUXvh2Bo1FcR_cCDqErxxIAJnH1CAVSOaFo-QiQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c8e980fca135ae821X183N-9EFtV",
-      "encryptUserId": "d3d62d124ad31a750HRz3d2_EQ~~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "开发软件前后端\n软件测试",
-      "encryptAddressId": "2850d6cfe8500f9d0Xx739u9FFQ~",
-      "address": "南京栖霞区紫东国际创意园(紫东路)7-4-1",
-      "longitude": 118.912737,
-      "latitude": 32.079161,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a58fea506138bcd156540c40e18d1927",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de07b6eb4ebde21533a3aaaed5842022",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "销售经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "君博旭",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d288b5a9638a36521XZ_2tu0GFc~",
-      "brandName": "君博旭",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101205,
-      "industryName": "电力/热力/燃气/水利",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724069536340,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "君博旭",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "君博旭",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "销售经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724069536340,
+        "brandName": "君博旭",
+        "customerBrandName": "君博旭",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d288b5a9638a36521XZ_2tu0GFc~",
+        "focusBrand": false,
+        "industry": 101205,
+        "industryName": "电力/热力/燃气/水利",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京栖霞区紫东国际创意园(紫东路)7-4-1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2850d6cfe8500f9d0Xx739u9FFQ~",
+        "encryptId": "c8e980fca135ae821X183N-9EFtV",
+        "encryptUserId": "d3d62d124ad31a750HRz3d2_EQ~~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.079161,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.912737,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de07b6eb4ebde21533a3aaaed5842022",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "开发软件前后端\n软件测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a58fea506138bcd156540c40e18d1927"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "el1AXhA7_Y2WE-E1XziCpr2my2sP0m-YiR6CU228ybv3brSFQRUYUzXnY72aJwBZg5qoyowS_vaKUXvh2Bo1FcR_cCDqErxxIAJnH1CAVSOaFo-QiQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

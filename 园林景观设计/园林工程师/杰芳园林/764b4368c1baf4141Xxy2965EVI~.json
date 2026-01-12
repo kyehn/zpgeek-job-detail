@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WJZDf2BXnqQ7X-Q1EOGFK2tRsWy5J8J9avsk1tPgdMXKGptcNqOLIWpBDhHNQKogELJ-0bHK06hBIe_3BflCT_-HZTsdGMOON8JOOQE5CAuDen4FgmBWEcqCyCadTHs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "764b4368c1baf4141Xxy2965EVI~",
-      "encryptUserId": "588594558dc5098903x409q_E1U~",
-      "invalidStatus": false,
-      "jobName": "园林工程师",
-      "position": 220206,
-      "positionName": "园林/景观设计",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "专科以上园林园艺相关专业，有c1以上驾驶证优先。负责园林园艺规划设计，施工，与采购工作，有足够的沟通，协调，组织能力。有开发新的绿化相关业务愿望与信心。薪资与业绩直接挂钩。吃苦耐劳，责任心强，应届毕业生善于学习热爱本行业也可以。",
-      "encryptAddressId": "e0953990872eebe41X1909i5FFI~",
-      "address": "广州天河区宝阳阁(北门)二楼广州市杰芳园林绿化有限公司",
-      "longitude": 113.339108,
-      "latitude": 23.144383,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0d55d3ee96e76ed03803aa5b421422f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3bc61bd5dc843cce123a391021010f52",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "方案设计",
-        "工程造价",
-        "园林设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "杰芳园林",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "979d608f15eac1d41X193N6_Ew~~",
-      "brandName": "杰芳园林",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101303,
-      "industryName": "农/林/牧/渔",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734533319493,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杰芳园林",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杰芳园林",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734533319493,
+        "brandName": "杰芳园林",
+        "customerBrandName": "杰芳园林",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "979d608f15eac1d41X193N6_Ew~~",
+        "focusBrand": false,
+        "industry": 101303,
+        "industryName": "农/林/牧/渔",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区宝阳阁(北门)二楼广州市杰芳园林绿化有限公司",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "e0953990872eebe41X1909i5FFI~",
+        "encryptId": "764b4368c1baf4141Xxy2965EVI~",
+        "encryptUserId": "588594558dc5098903x409q_E1U~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "园林工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.144383,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.339108,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3bc61bd5dc843cce123a391021010f52",
+        "position": 220206,
+        "positionName": "园林/景观设计",
+        "postDescription": "专科以上园林园艺相关专业，有c1以上驾驶证优先。负责园林园艺规划设计，施工，与采购工作，有足够的沟通，协调，组织能力。有开发新的绿化相关业务愿望与信心。薪资与业绩直接挂钩。吃苦耐劳，责任心强，应届毕业生善于学习热爱本行业也可以。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "方案设计",
+            "工程造价",
+            "园林设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0d55d3ee96e76ed03803aa5b421422f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WJZDf2BXnqQ7X-Q1EOGFK2tRsWy5J8J9avsk1tPgdMXKGptcNqOLIWpBDhHNQKogELJ-0bHK06hBIe_3BflCT_-HZTsdGMOON8JOOQE5CAuDen4FgmBWEcqCyCadTHs~",
+    "selfAccess": false,
+    "sessionId": null
 }

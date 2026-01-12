@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "r1dAH6HY5Uvuq-M1WvjQggv51pzzh1rT6Bzj3wbD7KDzDjZQW8o7dviMnT9TpI3JSeg30EkWDlGIzDeT8QFxdeFuudaVROOhpiNxyISNg6wVKvbN5Jtt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "17cd69be31cc43dc1HR-3t-5E1JX",
-      "encryptUserId": "721257b6a4382ada0nV509y9GFdS",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 150314,
-      "positionName": "统计员",
-      "location": 101190800,
-      "locationName": "徐州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责商品订单的制定及分析；\n2、负责商品的补货、调拨及分配；\n3、负责商品结构和商品销售情况的分析；\n4、负责商品活动的制定及跟踪；\n5、负责日常报表的统计及分析。\n任职要求：\n1、本科及以上学历，财务、统计、数学专业优先；\n2、熟练掌握各种办公软件及图表运用；\n3、具备良好的数据分析与逻辑判断能力；\n4、善于沟通与团队合作。",
-      "encryptAddressId": "2c04ac60d1d67b6a1nV72dm-FFJR",
-      "address": "徐州泉山区全季酒店(徐州铜山万达广场店)7楼",
-      "longitude": 117.195259,
-      "latitude": 34.20149,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af4266bcb67d059f04f0fb66653a6747",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cff5db09cb329d335d3287553cf5edd1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "零售产品专员",
-        "统计分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "京南体育",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "99985f00123a99d51nB73N61FlU~",
-      "brandName": "京南体育",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210402/d9692d549031391abb28b6466aacd8c7908febae37432bd0d24f2b0083ebb2f8.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101003,
-      "industryName": "服装/纺织",
-      "introduce": "抖音第一大国际运动品类供应链！\n专业主播团队！\n专业直播间运营团队！\n专业短视频运营团队！",
-      "labels": [
-        "节日福利",
-        "交通补助",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "年终奖",
-        "全勤奖",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1727684269128,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "京南体育",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "京南体育",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727684269128,
+        "brandName": "京南体育",
+        "customerBrandName": "京南体育",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "99985f00123a99d51nB73N61FlU~",
+        "focusBrand": false,
+        "industry": 101003,
+        "industryName": "服装/纺织",
+        "introduce": "抖音第一大国际运动品类供应链！\n专业主播团队！\n专业直播间运营团队！\n专业短视频运营团队！",
+        "labels": [
+            "节日福利",
+            "交通补助",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "年终奖",
+            "全勤奖",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210402/d9692d549031391abb28b6466aacd8c7908febae37432bd0d24f2b0083ebb2f8.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "徐州泉山区全季酒店(徐州铜山万达广场店)7楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2c04ac60d1d67b6a1nV72dm-FFJR",
+        "encryptId": "17cd69be31cc43dc1HR-3t-5E1JX",
+        "encryptUserId": "721257b6a4382ada0nV509y9GFdS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.20149,
+        "location": 101190800,
+        "locationName": "徐州",
+        "longitude": 117.195259,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cff5db09cb329d335d3287553cf5edd1",
+        "position": 150314,
+        "positionName": "统计员",
+        "postDescription": "岗位职责：\n1、负责商品订单的制定及分析；\n2、负责商品的补货、调拨及分配；\n3、负责商品结构和商品销售情况的分析；\n4、负责商品活动的制定及跟踪；\n5、负责日常报表的统计及分析。\n任职要求：\n1、本科及以上学历，财务、统计、数学专业优先；\n2、熟练掌握各种办公软件及图表运用；\n3、具备良好的数据分析与逻辑判断能力；\n4、善于沟通与团队合作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "零售产品专员",
+            "统计分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af4266bcb67d059f04f0fb66653a6747"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "r1dAH6HY5Uvuq-M1WvjQggv51pzzh1rT6Bzj3wbD7KDzDjZQW8o7dviMnT9TpI3JSeg30EkWDlGIzDeT8QFxdeFuudaVROOhpiNxyISNg6wVKvbN5Jtt",
+    "selfAccess": false,
+    "sessionId": null
 }

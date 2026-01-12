@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_HeW0PtC3j1C_-01bvgKy4F5oMgWTAn22IIz3vTdHvUc_KsElO85ACpaa_bxlJOKf9eSB8rrTmFayEokXK8a5-AM_aup6YcpXC-X6UB5vKWI33HRVE7BtPcouOi8wGj5Lirnv4Yb6G-wwEk-Mog8FUEHIJbg03ykRD2vHZCbyQVCZ-fHKxVxfPyjG3P4l2g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d7946e86bcda25511HB52ty4ElJT",
-      "encryptUserId": "3a011a6ad3b4b9050nZ42dS-F1RQ",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责公司互联网产品测试；\n2.能按测试流程进行操作，保证测试效率、质量；\n3.能完成功能测试、压力测试、性能测试、适配及接口自动化测试脚本开发等工作中的一种或多种；\n4.能按团队的工作目标与计划高效执行，保证目标实现；\n5.解决测试过程中的复杂技术问题，能有方法和思路进行解决。\n任职要求：\n服务器测试:\n（1）2~3年服务器测试经验，熟悉java语言，有代码阅读能力\n（2）.熟悉linux系统和使用，并具备环境搭建能力\n（3）.有接口测试/页面自动化测试/接口自动化测试经验优先\n（4）.熟悉mysql数据库基本操作，了解kafka,redis,Cassandra等其他存储优先",
-      "encryptAddressId": "a3afb641853cb9631nB-2tS7EVNYxIW9V_uf",
-      "address": "南京雨花台区南京市雨花区金证科技园1",
-      "longitude": 118.778435,
-      "latitude": 31.971973,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b57c60e8986d57ed23f3d8e2d8aea9da",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f87d20300072cbc596925d85a8420bcc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "Selenium"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240513/607f1f3d68754fd05008b98878a7828f51ba0c3e9cd0478309b4eb8af27f2ddd4ad3bb3fd53a1b3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "湖南拓维信创系统集成",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1a5a8f83ae48e8481HR-3d29FFY~",
-      "brandName": "湖南拓维信创系统集成",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231013/7bf6f160950405e9f9f130de6f7a6c96027da0affc60071820491525247cc82bfb781f29554c55e2.png.webp",
-      "stage": 0,
-      "stageName": "",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "l Talkweb，拓新思维、创造未来\nl 1996年成立，2008年深交所主板上市（股票代码：002261.SZ）\nl 总部设于湖南，在北京、上海、深圳等地设有分支机构，拥有4000+名员工\nl 业务涵盖政企数字化、智能计算、鸿蒙生态\nl 业务覆盖全国31个省级行政区、海外12个国家",
-      "labels": [
-        "交通补助",
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "零食下午茶",
-        "员工旅游",
-        "带薪年假",
-        "加班补助",
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1733907833431,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖南拓维信创系统集成",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "湖南拓维信创系统集成",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240513/607f1f3d68754fd05008b98878a7828f51ba0c3e9cd0478309b4eb8af27f2ddd4ad3bb3fd53a1b3_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1733907833431,
+        "brandName": "湖南拓维信创系统集成",
+        "customerBrandName": "湖南拓维信创系统集成",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1a5a8f83ae48e8481HR-3d29FFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "l Talkweb，拓新思维、创造未来\nl 1996年成立，2008年深交所主板上市（股票代码：002261.SZ）\nl 总部设于湖南，在北京、上海、深圳等地设有分支机构，拥有4000+名员工\nl 业务涵盖政企数字化、智能计算、鸿蒙生态\nl 业务覆盖全国31个省级行政区、海外12个国家",
+        "labels": [
+            "交通补助",
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "零食下午茶",
+            "员工旅游",
+            "带薪年假",
+            "加班补助",
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231013/7bf6f160950405e9f9f130de6f7a6c96027da0affc60071820491525247cc82bfb781f29554c55e2.png.webp",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区南京市雨花区金证科技园1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "a3afb641853cb9631nB-2tS7EVNYxIW9V_uf",
+        "encryptId": "d7946e86bcda25511HB52ty4ElJT",
+        "encryptUserId": "3a011a6ad3b4b9050nZ42dS-F1RQ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.971973,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.778435,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f87d20300072cbc596925d85a8420bcc",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.负责公司互联网产品测试；\n2.能按测试流程进行操作，保证测试效率、质量；\n3.能完成功能测试、压力测试、性能测试、适配及接口自动化测试脚本开发等工作中的一种或多种；\n4.能按团队的工作目标与计划高效执行，保证目标实现；\n5.解决测试过程中的复杂技术问题，能有方法和思路进行解决。\n任职要求：\n服务器测试:\n（1）2~3年服务器测试经验，熟悉java语言，有代码阅读能力\n（2）.熟悉linux系统和使用，并具备环境搭建能力\n（3）.有接口测试/页面自动化测试/接口自动化测试经验优先\n（4）.熟悉mysql数据库基本操作，了解kafka,redis,Cassandra等其他存储优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "自动化测试",
+            "Selenium"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b57c60e8986d57ed23f3d8e2d8aea9da"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_HeW0PtC3j1C_-01bvgKy4F5oMgWTAn22IIz3vTdHvUc_KsElO85ACpaa_bxlJOKf9eSB8rrTmFayEokXK8a5-AM_aup6YcpXC-X6UB5vKWI33HRVE7BtPcouOi8wGj5Lirnv4Yb6G-wwEk-Mog8FUEHIJbg03ykRD2vHZCbyQVCZ-fHKxVxfPyjG3P4l2g~",
+    "selfAccess": false,
+    "sessionId": null
 }

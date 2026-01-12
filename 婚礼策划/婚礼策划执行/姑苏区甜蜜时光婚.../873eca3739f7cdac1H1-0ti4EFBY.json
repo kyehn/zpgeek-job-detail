@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "URTkHqaGm23eW-61nzuiO_EpSTgxTTLn1cphp1hFtTUXJYyaegbLA_P4CHyEsMfY05JMAFIzyq578VjAJJBP25aSqYvxMYriX3NQ8fA1xEW1oNZYsa57njexGA6mRibqr4FRZhwAnASjXLY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "873eca3739f7cdac1H1-0ti4EFBY",
-      "encryptUserId": "3b92c28b28bc29c30XV-3du9GFJX",
-      "invalidStatus": false,
-      "jobName": "婚礼策划执行",
-      "position": 290702,
-      "positionName": "婚礼策划",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "行业经验：1-2年婚庆公司从业",
-      "encryptAddressId": "133987617cfaf95f1nV-2du7FFBTwo27UP6Z",
-      "address": "苏州姑苏区苏州甜蜜时光婚庆策划中心7栋102",
-      "longitude": 120.594492,
-      "latitude": 31.279613,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231220/48ba41acc9cef1bfb42dcd28298fa71006ace6699cd040a26bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231220/48ba41acc9cef1bf289dc7f8635a023ffcb50fd1622259196bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "婚庆行业经验",
-        "1到3年婚礼策划经验",
-        "有婚礼策划经验",
-        "无销售性质"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "主理人",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240403/607f1f3d68754fd0112666138e1e3338dfb0ac9c0bc9c7e509564df18aaf987c27bb0651438b48d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "姑苏区甜蜜时光婚...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bbd44431e660bdd31HJ_2Nu-FFI~",
-      "brandName": "姑苏区甜蜜时光婚...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101105,
-      "industryName": "婚庆/摄影",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730642001746,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "姑苏区甜蜜时光婚...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "姑苏区甜蜜时光婚...",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240403/607f1f3d68754fd0112666138e1e3338dfb0ac9c0bc9c7e509564df18aaf987c27bb0651438b48d_b.jpg",
+        "title": "主理人"
+    },
+    "brandComInfo": {
+        "activeTime": 1730642001746,
+        "brandName": "姑苏区甜蜜时光婚...",
+        "customerBrandName": "姑苏区甜蜜时光婚...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bbd44431e660bdd31HJ_2Nu-FFI~",
+        "focusBrand": false,
+        "industry": 101105,
+        "industryName": "婚庆/摄影",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州姑苏区苏州甜蜜时光婚庆策划中心7栋102",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "133987617cfaf95f1nV-2du7FFBTwo27UP6Z",
+        "encryptId": "873eca3739f7cdac1H1-0ti4EFBY",
+        "encryptUserId": "3b92c28b28bc29c30XV-3du9GFJX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "婚礼策划执行",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.279613,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.594492,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231220/48ba41acc9cef1bf289dc7f8635a023ffcb50fd1622259196bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 290702,
+        "positionName": "婚礼策划",
+        "postDescription": "行业经验：1-2年婚庆公司从业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "婚庆行业经验",
+            "1到3年婚礼策划经验",
+            "有婚礼策划经验",
+            "无销售性质"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231220/48ba41acc9cef1bfb42dcd28298fa71006ace6699cd040a26bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "URTkHqaGm23eW-61nzuiO_EpSTgxTTLn1cphp1hFtTUXJYyaegbLA_P4CHyEsMfY05JMAFIzyq578VjAJJBP25aSqYvxMYriX3NQ8fA1xEW1oNZYsa57njexGA6mRibqr4FRZhwAnASjXLY~",
+    "selfAccess": false,
+    "sessionId": null
 }

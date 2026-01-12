@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jp_7WdByQkK3V-t1KHawJQWmKAB5XrURSt1mk_78371MVwNX1c6Ygm5H7beK1BVf7vRAJ5F8pLjPWIYilzZ6vfidG491SgYvPkigZyL0nM4ju7ieEw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "29ddd27cfb41fa383n142Ni6Elc~",
-      "encryptUserId": "8489547277481ec30nR53964EFA~",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "完成公司业务统计报表的收集、整理、汇总、上报及数据统计分析工作",
-      "encryptAddressId": "dee92c4e8a1522da1HBz3tu1EFc~",
-      "address": "上海闵行区冠捷大厦(北门)408C",
-      "longitude": 121.31501,
-      "latitude": 31.191609,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81b9d1267d1ead5e39fe3d15fde9a9a1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a734db0d9432966c5142d6979981a6b3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据分析",
-        "商业分析",
-        "Tableau",
-        "Excel"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240716/607f1f3d68754fd09ed6de33f5e9a0090b047de76eb36dc419e7bd6b8bc45d2f1ffa10f4eda9dff_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "算酷",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "47c4c43dbc2004471nV909W6Elc~",
-      "brandName": "算酷",
-      "logo": null,
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "包吃"
-      ],
-      "activeTime": 1725372689349,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "算酷",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "算酷",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240716/607f1f3d68754fd09ed6de33f5e9a0090b047de76eb36dc419e7bd6b8bc45d2f1ffa10f4eda9dff_b.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1725372689349,
+        "brandName": "算酷",
+        "customerBrandName": "算酷",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "47c4c43dbc2004471nV909W6Elc~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "包吃"
+        ],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海闵行区冠捷大厦(北门)408C",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "dee92c4e8a1522da1HBz3tu1EFc~",
+        "encryptId": "29ddd27cfb41fa383n142Ni6Elc~",
+        "encryptUserId": "8489547277481ec30nR53964EFA~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.191609,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.31501,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a734db0d9432966c5142d6979981a6b3",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "完成公司业务统计报表的收集、整理、汇总、上报及数据统计分析工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "数据分析",
+            "商业分析",
+            "Tableau",
+            "Excel"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81b9d1267d1ead5e39fe3d15fde9a9a1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jp_7WdByQkK3V-t1KHawJQWmKAB5XrURSt1mk_78371MVwNX1c6Ygm5H7beK1BVf7vRAJ5F8pLjPWIYilzZ6vfidG491SgYvPkigZyL0nM4ju7ieEw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VxAji5wBCT75U-n1kckwdRjNSvBWK9HUobwPlcOXbLQoEpqKB1_F1TISHeEIwlHsZLLYC8CGEp-vCc-Q-88s_gYEiny-YhiLFJikUF1IHk5cNL2rcOmFpm2C6MIwdRqUI75mmpcC",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f1ce0df32192d3cb1HB53dW_E1tT",
-      "encryptUserId": "e53e02f07187d6830XZ539W4EA~~",
-      "invalidStatus": false,
-      "jobName": "摄影助理",
-      "position": 170602,
-      "positionName": "摄影/摄像师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.配合摄影组完成拍摄工作\n2.管理公司影视器材（日常保养、出入库登记等）\n3.有影视拍摄经验，能熟练使用各种摄影机及镜头，懂灯光\n4.熟练使用办公软件，及后期剪辑软件\n5.有架设直播平台经验",
-      "encryptAddressId": "f20dbe7e833fbedd1nZ83du1GFtQ",
-      "address": "北京朝阳区芒果互娱(北京)影视传媒公司有限公司C5-5南门1-3层",
-      "longitude": 116.540565,
-      "latitude": 39.904558,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231010/48ba41acc9cef1bf12300cf4e329556bea485d6999862b196bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231010/48ba41acc9cef1bfb82f478ea83af8b23b5cef860873bc2c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "摄影摄像皆有"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "摄影主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "芒果互娱影视",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3b0b8e8778f56b8233192926",
-      "brandName": "芒果互娱影视",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/0b91c58a875538a7c38ef012bd7247dfcfcd208495d565ef66e7dff9f98764da.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100003,
-      "industryName": "社交网络与媒体",
-      "introduce": "公司执行项目\n中华人民共和国成立70周年—晚会纪录片\n央视综合频道《加油向未来》第一第二第三季\n                        《经典咏流传》第一第二第三季\n                           《动物来了》\n                           《脑洞大开》\n                         《开学第一课》\n央视财经频道    《时尚大师》\n央视少儿频道《过年啦》《我们的节日》\n央视体育频道《体育人间》\n江西卫视《为体育发声》\n湖南卫视《向往的生活》\n浙江卫视《我们十七岁》\n爱奇艺《国风美少年》《我和我的祖国》\n天津卫视《爱情保卫战》《跨时代战书》\n                《百万粉丝》《幸福来敲门》\n               《星梦奇缘》《泊客中国》《大香格里拉》《绿色英雄》",
-      "labels": [
-        "五险一金",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "交通补助",
-        "零食下午茶"
-      ],
-      "activeTime": 1719708764650,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "芒果互娱影视",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "芒果互娱影视",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "摄影主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1719708764650,
+        "brandName": "芒果互娱影视",
+        "customerBrandName": "芒果互娱影视",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "3b0b8e8778f56b8233192926",
+        "focusBrand": false,
+        "industry": 100003,
+        "industryName": "社交网络与媒体",
+        "introduce": "公司执行项目\n中华人民共和国成立70周年—晚会纪录片\n央视综合频道《加油向未来》第一第二第三季\n                        《经典咏流传》第一第二第三季\n                           《动物来了》\n                           《脑洞大开》\n                         《开学第一课》\n央视财经频道    《时尚大师》\n央视少儿频道《过年啦》《我们的节日》\n央视体育频道《体育人间》\n江西卫视《为体育发声》\n湖南卫视《向往的生活》\n浙江卫视《我们十七岁》\n爱奇艺《国风美少年》《我和我的祖国》\n天津卫视《爱情保卫战》《跨时代战书》\n                《百万粉丝》《幸福来敲门》\n               《星梦奇缘》《泊客中国》《大香格里拉》《绿色英雄》",
+        "labels": [
+            "五险一金",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "交通补助",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/0b91c58a875538a7c38ef012bd7247dfcfcd208495d565ef66e7dff9f98764da.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区芒果互娱(北京)影视传媒公司有限公司C5-5南门1-3层",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f20dbe7e833fbedd1nZ83du1GFtQ",
+        "encryptId": "f1ce0df32192d3cb1HB53dW_E1tT",
+        "encryptUserId": "e53e02f07187d6830XZ539W4EA~~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "摄影助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.904558,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.540565,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231010/48ba41acc9cef1bfb82f478ea83af8b23b5cef860873bc2c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 170602,
+        "positionName": "摄影/摄像师",
+        "postDescription": "1.配合摄影组完成拍摄工作\n2.管理公司影视器材（日常保养、出入库登记等）\n3.有影视拍摄经验，能熟练使用各种摄影机及镜头，懂灯光\n4.熟练使用办公软件，及后期剪辑软件\n5.有架设直播平台经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "摄影摄像皆有"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231010/48ba41acc9cef1bf12300cf4e329556bea485d6999862b196bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VxAji5wBCT75U-n1kckwdRjNSvBWK9HUobwPlcOXbLQoEpqKB1_F1TISHeEIwlHsZLLYC8CGEp-vCc-Q-88s_gYEiny-YhiLFJikUF1IHk5cNL2rcOmFpm2C6MIwdRqUI75mmpcC",
+    "selfAccess": false,
+    "sessionId": null
 }

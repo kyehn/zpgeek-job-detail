@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GSqnrvYBCDOWC-i1pd1NTLI7TSg-trH8JsNUvxVk0jIxPG9cCNb4hmhmwKcvw-o0XFsIUzMAETflmHUbfOA8PDwU6kq9_0Ah4DhQuG6jV-qb1xQngmI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "89b47710ba54b9f01nN-2Nu1GFFQ",
-      "encryptUserId": "688401337bc96efc03Z70t26FVE~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101281000,
-      "locationName": "湛江",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责数据库系统（主要是DB2）的搭建与日常管理维护，包括性能监控，检测，性能调试和优化，安全管理，故障排除等;\n2、负责公司MES系统、ERP系统、OA系统的正常运行;\n3、负责各类操作系统（AIX、linux、window server操作系统等）的安装、配置、升级，运行维护与管理，保障系统正常运行，满足日常需要;\n4、负责各系统之间的通信维护和调试，解决各系统之间通信故障；\n5、负责服务器的搭建、部署、监控、调优、安全、日常维护和管理工作。\n薪酬福利待遇：\n1.提供具有市场竞争力的薪酬水平，发放交通补贴、餐费补贴、高温补贴、通讯补贴等，应届毕业生年薪5-8万/年，工程师8-12万/年。\n2.五险一金、意外险、带薪休假\n3.外地员工免费住宿（2人/间）\n4.节假日礼包、年度体检\n5.免费到上海培训机会，提升员工技能\n6.晋升空间广阔，技术、管理双通道发展",
-      "encryptAddressId": "94a2cacd6a4a08201nF42Nu1EFM~",
-      "address": "湛江麻章区东海岛宝钢厂11号",
-      "longitude": 110.537464,
-      "latitude": 21.051893,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/296e1490160f2815ab314fe8d8eb070e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2fe3b70eb3cd982a150d8cb380f5eaee",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux",
-        "AIX",
-        "DB2"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "林女士",
-      "title": "商务",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180708/6f56e027706d622ad457e3c2613df2c174ca3684ecb84036af7041d1cb0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "万兴通讯",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "24aae15e3b5368461nx82N29E1M~",
-      "brandName": "万兴通讯",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727274370036,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万兴通讯",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万兴通讯",
+        "certificated": true,
+        "large": null,
+        "name": "林女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180708/6f56e027706d622ad457e3c2613df2c174ca3684ecb84036af7041d1cb0_b.jpg",
+        "title": "商务"
+    },
+    "brandComInfo": {
+        "activeTime": 1727274370036,
+        "brandName": "万兴通讯",
+        "customerBrandName": "万兴通讯",
+        "customerBrandStageName": "",
+        "encryptBrandId": "24aae15e3b5368461nx82N29E1M~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "湛江麻章区东海岛宝钢厂11号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "94a2cacd6a4a08201nF42Nu1EFM~",
+        "encryptId": "89b47710ba54b9f01nN-2Nu1GFFQ",
+        "encryptUserId": "688401337bc96efc03Z70t26FVE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 21.051893,
+        "location": 101281000,
+        "locationName": "湛江",
+        "longitude": 110.537464,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2fe3b70eb3cd982a150d8cb380f5eaee",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责数据库系统（主要是DB2）的搭建与日常管理维护，包括性能监控，检测，性能调试和优化，安全管理，故障排除等;\n2、负责公司MES系统、ERP系统、OA系统的正常运行;\n3、负责各类操作系统（AIX、linux、window server操作系统等）的安装、配置、升级，运行维护与管理，保障系统正常运行，满足日常需要;\n4、负责各系统之间的通信维护和调试，解决各系统之间通信故障；\n5、负责服务器的搭建、部署、监控、调优、安全、日常维护和管理工作。\n薪酬福利待遇：\n1.提供具有市场竞争力的薪酬水平，发放交通补贴、餐费补贴、高温补贴、通讯补贴等，应届毕业生年薪5-8万/年，工程师8-12万/年。\n2.五险一金、意外险、带薪休假\n3.外地员工免费住宿（2人/间）\n4.节假日礼包、年度体检\n5.免费到上海培训机会，提升员工技能\n6.晋升空间广阔，技术、管理双通道发展",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Linux",
+            "AIX",
+            "DB2"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/296e1490160f2815ab314fe8d8eb070e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GSqnrvYBCDOWC-i1pd1NTLI7TSg-trH8JsNUvxVk0jIxPG9cCNb4hmhmwKcvw-o0XFsIUzMAETflmHUbfOA8PDwU6kq9_0Ah4DhQuG6jV-qb1xQngmI~",
+    "selfAccess": false,
+    "sessionId": null
 }

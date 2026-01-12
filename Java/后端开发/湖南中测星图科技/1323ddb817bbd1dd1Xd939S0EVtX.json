@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Dq9iLdIAc7aRD-W1aKjbjxGC6BEpNm6Q1_LGhTLwTVdTfyEeI6p4WJf_IEz6ACqJsY-7rS0p8vNLJZ9hbf9z5y32steE3JujULy-BlPUzQvlyg4Dxac3",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1323ddb817bbd1dd1Xd939S0EVtX",
-      "encryptUserId": "f6ff28132c9f4e570nBy3dy4EFRX",
-      "invalidStatus": false,
-      "jobName": "后端开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.本科及以上，计算机软件开发相关专业\n2.在校专业排名前30%\n3.遵纪，守法，勤奋，好学\n4.1年内普通本科毕业生4-5k\n5.985.211及硕士5-9k",
-      "encryptAddressId": "c67d547136ddf8130XF-29W0FFM~",
-      "address": "长沙天心区湖南地理信息产业园总部基地3楼309",
-      "longitude": 112.993756,
-      "latitude": 28.055624,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/951ca02aceb7ba5acdb70769ffbffc14",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/827ce25fdeeab2a5dda09e1649b30472",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全栈工程师",
-        "Java",
-        "MySQL",
-        "架构师",
-        "MyBatis",
-        "后端工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "翁先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "湖南中测星图科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "235995e6890f63281XVz29q_FFY~",
-      "brandName": "湖南中测星图科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725330199735,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖南中测星图科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖南中测星图科技",
+        "certificated": true,
+        "large": null,
+        "name": "翁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725330199735,
+        "brandName": "湖南中测星图科技",
+        "customerBrandName": "湖南中测星图科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "235995e6890f63281XVz29q_FFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙天心区湖南地理信息产业园总部基地3楼309",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c67d547136ddf8130XF-29W0FFM~",
+        "encryptId": "1323ddb817bbd1dd1Xd939S0EVtX",
+        "encryptUserId": "f6ff28132c9f4e570nBy3dy4EFRX",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "后端开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 28.055624,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.993756,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/827ce25fdeeab2a5dda09e1649b30472",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.本科及以上，计算机软件开发相关专业\n2.在校专业排名前30%\n3.遵纪，守法，勤奋，好学\n4.1年内普通本科毕业生4-5k\n5.985.211及硕士5-9k",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "全栈工程师",
+            "Java",
+            "MySQL",
+            "架构师",
+            "MyBatis",
+            "后端工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/951ca02aceb7ba5acdb70769ffbffc14"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Dq9iLdIAc7aRD-W1aKjbjxGC6BEpNm6Q1_LGhTLwTVdTfyEeI6p4WJf_IEz6ACqJsY-7rS0p8vNLJZ9hbf9z5y32steE3JujULy-BlPUzQvlyg4Dxac3",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "khsb8S229a7x_-61rZKDiZTCsZXRQXNmZX5uDkY9W9AOoKsjUYULT4WscUv4pHZ-F4-GpeNSC7_ZcgPm2uWfoWmb8gfd0WiDLvpeaqEG7g5_38ZlOVA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7ae175ace2e3ab221HB-3tu_FltV",
-      "encryptUserId": "6b4316f72991633e0nR6092-GFc~",
-      "invalidStatus": false,
-      "jobName": "语音测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "注意，必须会粤语！！！必须会粤语！！！必须会粤语！！！\n\n工作职责:\n1. 了解语音业务架构，制定车机端语音测试方案；\n2. 负责产品线测试的全流程，包括参与需求分析、设计评审，制定测试计划，保证项目的质量和进度；\n3. 根据产品需求开发测试用例的编写及执行，以及测试的报告的输出；\n4. 参与路测，设定各路测场景保证产品质量；\n任职要求：\n1. 专科以上学历，会粤语；\n2. 有3年以上智能语音端到端测试经验，熟悉车载语音交互方式；\n3. 熟悉软件工程和测试流程，掌握功能测试、白盒等，了解性能测试，熟练使用一至两种主流测试工具；\n4. 熟练使用主流测试用例和 BUG 流转平台；\n5. 熟悉Android系统及adb等调试工具；\n6. 能够独立完成测试任务，对测试流程有丰富经验；",
-      "encryptAddressId": "9a66ba727f0381160nF62tm8EVVQwYq3Vfg~",
-      "address": "武汉汉阳区岚图汽车科技有限公司研发楼1",
-      "longitude": 114.156244,
-      "latitude": 30.573741,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76d26800f389e797f27612a71725acfb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c114b1405c3f15133a88d6c4035dc4e9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "语音测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "韩女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "蓬勃科技(大连)...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9868f4edf4fb7ce01nJ_3960F1A~",
-      "brandName": "蓬勃科技(大连)...",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e9242caa1ae3e682b0eee6837161d6ba90360908b4afc9646ec363ddd2de5f6272.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727424695569,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "蓬勃科技(大连)...",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "蓬勃科技(大连)...",
+        "certificated": true,
+        "large": null,
+        "name": "韩女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727424695569,
+        "brandName": "蓬勃科技(大连)...",
+        "customerBrandName": "蓬勃科技(大连)...",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9868f4edf4fb7ce01nJ_3960F1A~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e9242caa1ae3e682b0eee6837161d6ba90360908b4afc9646ec363ddd2de5f6272.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉汉阳区岚图汽车科技有限公司研发楼1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "9a66ba727f0381160nF62tm8EVVQwYq3Vfg~",
+        "encryptId": "7ae175ace2e3ab221HB-3tu_FltV",
+        "encryptUserId": "6b4316f72991633e0nR6092-GFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "语音测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.573741,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.156244,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c114b1405c3f15133a88d6c4035dc4e9",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "注意，必须会粤语！！！必须会粤语！！！必须会粤语！！！\n\n工作职责:\n1. 了解语音业务架构，制定车机端语音测试方案；\n2. 负责产品线测试的全流程，包括参与需求分析、设计评审，制定测试计划，保证项目的质量和进度；\n3. 根据产品需求开发测试用例的编写及执行，以及测试的报告的输出；\n4. 参与路测，设定各路测场景保证产品质量；\n任职要求：\n1. 专科以上学历，会粤语；\n2. 有3年以上智能语音端到端测试经验，熟悉车载语音交互方式；\n3. 熟悉软件工程和测试流程，掌握功能测试、白盒等，了解性能测试，熟练使用一至两种主流测试工具；\n4. 熟练使用主流测试用例和 BUG 流转平台；\n5. 熟悉Android系统及adb等调试工具；\n6. 能够独立完成测试任务，对测试流程有丰富经验；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "语音测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76d26800f389e797f27612a71725acfb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "khsb8S229a7x_-61rZKDiZTCsZXRQXNmZX5uDkY9W9AOoKsjUYULT4WscUv4pHZ-F4-GpeNSC7_ZcgPm2uWfoWmb8gfd0WiDLvpeaqEG7g5_38ZlOVA~",
+    "selfAccess": false,
+    "sessionId": null
 }

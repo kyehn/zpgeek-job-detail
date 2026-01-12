@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IkZAAguwQjYsb-s1MMSt3wb6ZvA-K84MJL5wPcN8Hhudr5_k24zcyNzY3Vd_749QX0VHBjZVR-biwlzjZN66ngbfgAcqoloHq7m1AYtkq_ZrzDzZBEoIYqhhOsXQzJax6NkdnPiyfkEfGjs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9a3e110844afd5d003R62di-EFVT",
-      "encryptUserId": "53110910d74a75b40nN82dq8F1JU",
-      "invalidStatus": false,
-      "jobName": "后端工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "职责\n设计和实现高效、可扩展的后端架构，支持系统稳定性和可维护性；\n\n优化、调试、和重构后端代码，以提升系统性能和可扩展性；\n\n使用 Spring Boot 构建REST API，为前端提供高效数据接口；\n\n实施 OAuth2 和JWT认证机制，确保系统安全性和数据隐私；\n\n使用 AWS CodePipeline 或 Github Action 管理CI/CD流程，实现自动化部署；\n\n分析和处理日志数据，确保后端逻辑的准确性和高性能；\n\n进行代码审查，确保符合高质量标准，并为团队提供技术指导。\n\n任职要求\n计算机科学或相关技术领域的学士学位，有一定的Java开发经验， 对IO, 多线程，缓存, 动态平衡等框架有所了解。\n\n有使用主流云技术栈（如Azure或AWS）设计和实现后端系统的经验优先；\n\n精通 Spring Boot 和 SQL，有REST API设计经验优先, 了解微服务；\n\n熟悉OAuth2和JWT认证机制，有数据安全和加密的实践经验；\n\n有CI/CD自动化部署经验，尤其是 AWS CodePipeline 或 Github Action；\n\n注重代码质量和系统扩展性，有良好的团队合作能力。\n\n熟悉使用代码管理器如GIT",
-      "encryptAddressId": "28e1c7596fdf6e921nR_3NW_FlRR",
-      "address": "武汉江岸区融创融汇广场31层3102",
-      "longitude": 114.296655,
-      "latitude": 30.597671,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfa640b02385a9a4ff85808b69aedfa7426bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfde5f98abc6c05a8387b5be58f56618036bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "不接受居家办公",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "蔡先生",
-      "title": "武汉负责人",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230217/607f1f3d68754fd0e2132c0046b365bbd12d30cdd3944ec73d30536bf7c1fd9b2d5327ce9b7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "武汉达润",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "53296f16de1192f91XB929W6ElA~",
-      "brandName": "武汉达润",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230728/7b5b554d84f9729cfa8afd505476b1cd71a93bc17c7704773d30536bf7c1fd9b2d5327ce9b778b34.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100603,
-      "industryName": "翻译",
-      "introduce": "武汉达润是一家美国律所在中国成立的文案中心，位于武汉市江岸区，主要服务于科学，商业，艺术，体育，教育等领域行业精英；\n\n海外律所是一家专门处理商业，移民与信托等法律的综合性律师事务所；",
-      "labels": [
-        "团建聚餐",
-        "零食下午茶",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1731972786373,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉达润",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉达润",
+        "certificated": true,
+        "large": null,
+        "name": "蔡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230217/607f1f3d68754fd0e2132c0046b365bbd12d30cdd3944ec73d30536bf7c1fd9b2d5327ce9b7_b.jpg",
+        "title": "武汉负责人"
+    },
+    "brandComInfo": {
+        "activeTime": 1731972786373,
+        "brandName": "武汉达润",
+        "customerBrandName": "武汉达润",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "53296f16de1192f91XB929W6ElA~",
+        "focusBrand": false,
+        "industry": 100603,
+        "industryName": "翻译",
+        "introduce": "武汉达润是一家美国律所在中国成立的文案中心，位于武汉市江岸区，主要服务于科学，商业，艺术，体育，教育等领域行业精英；\n\n海外律所是一家专门处理商业，移民与信托等法律的综合性律师事务所；",
+        "labels": [
+            "团建聚餐",
+            "零食下午茶",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230728/7b5b554d84f9729cfa8afd505476b1cd71a93bc17c7704773d30536bf7c1fd9b2d5327ce9b778b34.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江岸区融创融汇广场31层3102",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "28e1c7596fdf6e921nR_3NW_FlRR",
+        "encryptId": "9a3e110844afd5d003R62di-EFVT",
+        "encryptUserId": "53110910d74a75b40nN82dq8F1JU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "后端工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.597671,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.296655,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfde5f98abc6c05a8387b5be58f56618036bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "职责\n设计和实现高效、可扩展的后端架构，支持系统稳定性和可维护性；\n\n优化、调试、和重构后端代码，以提升系统性能和可扩展性；\n\n使用 Spring Boot 构建REST API，为前端提供高效数据接口；\n\n实施 OAuth2 和JWT认证机制，确保系统安全性和数据隐私；\n\n使用 AWS CodePipeline 或 Github Action 管理CI/CD流程，实现自动化部署；\n\n分析和处理日志数据，确保后端逻辑的准确性和高性能；\n\n进行代码审查，确保符合高质量标准，并为团队提供技术指导。\n\n任职要求\n计算机科学或相关技术领域的学士学位，有一定的Java开发经验， 对IO, 多线程，缓存, 动态平衡等框架有所了解。\n\n有使用主流云技术栈（如Azure或AWS）设计和实现后端系统的经验优先；\n\n精通 Spring Boot 和 SQL，有REST API设计经验优先, 了解微服务；\n\n熟悉OAuth2和JWT认证机制，有数据安全和加密的实践经验；\n\n有CI/CD自动化部署经验，尤其是 AWS CodePipeline 或 Github Action；\n\n注重代码质量和系统扩展性，有良好的团队合作能力。\n\n熟悉使用代码管理器如GIT",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "Java",
+            "不接受居家办公",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfa640b02385a9a4ff85808b69aedfa7426bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IkZAAguwQjYsb-s1MMSt3wb6ZvA-K84MJL5wPcN8Hhudr5_k24zcyNzY3Vd_749QX0VHBjZVR-biwlzjZN66ngbfgAcqoloHq7m1AYtkq_ZrzDzZBEoIYqhhOsXQzJax6NkdnPiyfkEfGjs~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "v8QJHM3Mx8L24-w16FBAtHlAJ5L3pFdY_R00AQLb0lZnT_wsFoH7jG9ObxnCZhrFmzqJsVc5YpqVvyAO714vyJwLdAobZQaQ58UNrMdKFDUA61hnYG07T0imXfcXEAMwX2DgN1cnb_fDdp9n4PoRdUQXYxE84yWZAErXB9OsZbhA3JbJ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f45249f986b397e503R60ti0EFpZ",
-      "encryptUserId": "b2546b26511f63700nV80tW8F1VV",
-      "invalidStatus": false,
-      "jobName": "超市IT 运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "1. IT运维职位描述\n负责超市门店建设项目IT基础设施相关工作(包括不限于网络方案建设, 设备调试, 无线调配等)落地实施；\n负责超市门店PC设备的系统安装，软件安装，相关问题的排除；\n负责超市门店POS，生鲜秤，扫描枪，PDA，电子价签等职能终端设备的安装、配置、问题排错；\n负责超市门店IT机房设备(防火墙,交换机,服务器等)的日常管理和维护；\n负责日常监控门店接入网络，局域网络，WIFI网络运行状态(通过zabbix, ELK日志系统)，快速解决相关网络问题；\n协助超市门店智能业务系统(电子秤, 电子价签等管理系统)的部署、管理、维护工作；\n2. 职位要求\n本科以上学历，有CCNP网络认证, LPI或RHCE者优先;\n两年以上IT运维工作经验, 熟悉 linux centos系统, 可部署常见应用, 如kvm, ngix服务等, 有云操作经验或运维自动化开发经验优先;\n精通Windows桌面操作系统和常用办公软件\n熟悉市面主流网络设备（如华为，H3C等）交换机、防火墙等网络系统概念以及配置，具备网络故障分析排障能力\n具有钻研精神以及独立解决问题的能力，较好的沟通总结能力，能接受在新零售行业发展\n对企业防病毒维护或者部署经验，对安全有一定的认识\n熟悉办公或连锁门店网络基础建设，有独立IT机房建设项目经验优先\n有Linux运维经验者优先\n有线下零售IT运维经验者优先\n有抗压能力, 良好的服务意识\n可接受国内短期出差",
-      "encryptAddressId": "0860caa4bedf16893nN42921EVRWw4q9UPw~",
-      "address": "北京通州区京东大厦京东总部",
-      "longitude": 116.56293,
-      "latitude": 39.786622,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05caa4219f74f38ef824ab78f9c69799",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/840efd72f1eec92e3f46e7c6fe70144c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维",
-        "桌面运维",
-        "计算机相关专业",
-        "运维经验",
-        "打印机/复印机维修经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "网络运维",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210221/e1cf3951d99e46b9fa7d45d2d7bc786ffd49a969c4921bf700cf0104ed2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "四季优选",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "21d0d282fa12970733N-3d2-",
-      "brandName": "四季优选",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180821/4e45faf032bd81907f43f6b4e12c7ba856096715a4f1ed44bb04e8142aa80ecd.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "7FRESH作为京东零售对外赋能的战略项目，是京东集团创始人、董事局主席兼首席执行官刘强东先生 “无界零售”理论的具体业务践行。2016年下半年，该项目开始在京东集团内部孵化，其首家生鲜食品超市位于北京亦庄大族广场一层，2017年12月对外营业。7FRESH拥有独立的APP，同时提供以门店为中心3公里范围内半小时送达的外送服务，覆盖海鲜、果蔬、肉禽蛋、烘焙、鲜花、餐饮、杂百等商品品类，其中生鲜食品占比超过70%。",
-      "labels": [
-        "节日福利",
-        "餐补",
-        "带薪年假",
-        "五险一金",
-        "月休六天"
-      ],
-      "activeTime": 1732175219946,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "四季优选",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "四季优选",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210221/e1cf3951d99e46b9fa7d45d2d7bc786ffd49a969c4921bf700cf0104ed2_b.jpg",
+        "title": "网络运维"
+    },
+    "brandComInfo": {
+        "activeTime": 1732175219946,
+        "brandName": "四季优选",
+        "customerBrandName": "四季优选",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "21d0d282fa12970733N-3d2-",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "7FRESH作为京东零售对外赋能的战略项目，是京东集团创始人、董事局主席兼首席执行官刘强东先生 “无界零售”理论的具体业务践行。2016年下半年，该项目开始在京东集团内部孵化，其首家生鲜食品超市位于北京亦庄大族广场一层，2017年12月对外营业。7FRESH拥有独立的APP，同时提供以门店为中心3公里范围内半小时送达的外送服务，覆盖海鲜、果蔬、肉禽蛋、烘焙、鲜花、餐饮、杂百等商品品类，其中生鲜食品占比超过70%。",
+        "labels": [
+            "节日福利",
+            "餐补",
+            "带薪年假",
+            "五险一金",
+            "月休六天"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180821/4e45faf032bd81907f43f6b4e12c7ba856096715a4f1ed44bb04e8142aa80ecd.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京通州区京东大厦京东总部",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "0860caa4bedf16893nN42921EVRWw4q9UPw~",
+        "encryptId": "f45249f986b397e503R60ti0EFpZ",
+        "encryptUserId": "b2546b26511f63700nV80tW8F1VV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "超市IT 运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.786622,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.56293,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/840efd72f1eec92e3f46e7c6fe70144c",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1. IT运维职位描述\n负责超市门店建设项目IT基础设施相关工作(包括不限于网络方案建设, 设备调试, 无线调配等)落地实施；\n负责超市门店PC设备的系统安装，软件安装，相关问题的排除；\n负责超市门店POS，生鲜秤，扫描枪，PDA，电子价签等职能终端设备的安装、配置、问题排错；\n负责超市门店IT机房设备(防火墙,交换机,服务器等)的日常管理和维护；\n负责日常监控门店接入网络，局域网络，WIFI网络运行状态(通过zabbix, ELK日志系统)，快速解决相关网络问题；\n协助超市门店智能业务系统(电子秤, 电子价签等管理系统)的部署、管理、维护工作；\n2. 职位要求\n本科以上学历，有CCNP网络认证, LPI或RHCE者优先;\n两年以上IT运维工作经验, 熟悉 linux centos系统, 可部署常见应用, 如kvm, ngix服务等, 有云操作经验或运维自动化开发经验优先;\n精通Windows桌面操作系统和常用办公软件\n熟悉市面主流网络设备（如华为，H3C等）交换机、防火墙等网络系统概念以及配置，具备网络故障分析排障能力\n具有钻研精神以及独立解决问题的能力，较好的沟通总结能力，能接受在新零售行业发展\n对企业防病毒维护或者部署经验，对安全有一定的认识\n熟悉办公或连锁门店网络基础建设，有独立IT机房建设项目经验优先\n有Linux运维经验者优先\n有线下零售IT运维经验者优先\n有抗压能力, 良好的服务意识\n可接受国内短期出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·14薪",
+        "showSkills": [
+            "网络运维",
+            "系统运维",
+            "桌面运维",
+            "计算机相关专业",
+            "运维经验",
+            "打印机/复印机维修经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05caa4219f74f38ef824ab78f9c69799"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "v8QJHM3Mx8L24-w16FBAtHlAJ5L3pFdY_R00AQLb0lZnT_wsFoH7jG9ObxnCZhrFmzqJsVc5YpqVvyAO714vyJwLdAobZQaQ58UNrMdKFDUA61hnYG07T0imXfcXEAMwX2DgN1cnb_fDdp9n4PoRdUQXYxE84yWZAErXB9OsZbhA3JbJ",
+    "selfAccess": false,
+    "sessionId": null
 }

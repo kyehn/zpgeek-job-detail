@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "cRSRvY1pZU5YT-U1B5MRRzN3r91-tiB63DEOyXCIfj3VBWBINE-nNgSxjjuady9icyKkrWu8mSnUgDtJZIw_4GEm-qf2HKAXQv0tIMfzSeEweeoJH9s~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "46bb371153a506cb1HR43di_F1pW",
-      "encryptUserId": "6286b052b5d5d7d11XRy2d2_FlI~",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100107,
-      "positionName": ".NET",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1)计算机软件、计算机应用、或相关专业专科及以上学\n历;\n2)1年及以上工作经验;\n3)具备较强的沟通理解能力、团队协作能力，责任感\n强;\n4)熟悉 C#开发语言，熟悉web开发，熟练使用\nLayui、Vue等前端开发框架\n5)至少熟悉使用一种数据库的使用(SQLserver、\nPostgresql)\n6)熟练使用SVN、Git等版本管理工具。\n7)早九晚六，周末双休，公司在地铁口。",
-      "encryptAddressId": "442e11c9151c3be40HFy2tS_E1c~",
-      "address": "长沙岳麓区金荣·央谷金座13层1302",
-      "longitude": 112.89626,
-      "latitude": 28.216789,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7f8e66af042e7e4eab3e0fc46a6b3a4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccc6c4a0eba8a1d9ef9c27988896577f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        ".NET开发经验",
-        "计算机相关专业",
-        "前端开发经验",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "袁女士",
-      "title": "项目主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230302/607f1f3d68754fd0bb8c422c112125be79a90a606a28b084e2c290115f109fdbbad72401316_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "立辰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f1098325a291d5ec1HZ93NS7F1c~",
-      "brandName": "立辰科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "员工旅游",
-        "加班补助",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1725368930499,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "立辰科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "立辰科技",
+        "certificated": true,
+        "large": null,
+        "name": "袁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230302/607f1f3d68754fd0bb8c422c112125be79a90a606a28b084e2c290115f109fdbbad72401316_b.jpg",
+        "title": "项目主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725368930499,
+        "brandName": "立辰科技",
+        "customerBrandName": "立辰科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "f1098325a291d5ec1HZ93NS7F1c~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "员工旅游",
+            "加班补助",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区金荣·央谷金座13层1302",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "442e11c9151c3be40HFy2tS_E1c~",
+        "encryptId": "46bb371153a506cb1HR43di_F1pW",
+        "encryptUserId": "6286b052b5d5d7d11XRy2d2_FlI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.216789,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.89626,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccc6c4a0eba8a1d9ef9c27988896577f",
+        "position": 100107,
+        "positionName": ".NET",
+        "postDescription": "1)计算机软件、计算机应用、或相关专业专科及以上学\n历;\n2)1年及以上工作经验;\n3)具备较强的沟通理解能力、团队协作能力，责任感\n强;\n4)熟悉 C#开发语言，熟悉web开发，熟练使用\nLayui、Vue等前端开发框架\n5)至少熟悉使用一种数据库的使用(SQLserver、\nPostgresql)\n6)熟练使用SVN、Git等版本管理工具。\n7)早九晚六，周末双休，公司在地铁口。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java",
+            ".NET开发经验",
+            "计算机相关专业",
+            "前端开发经验",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7f8e66af042e7e4eab3e0fc46a6b3a4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "cRSRvY1pZU5YT-U1B5MRRzN3r91-tiB63DEOyXCIfj3VBWBINE-nNgSxjjuady9icyKkrWu8mSnUgDtJZIw_4GEm-qf2HKAXQv0tIMfzSeEweeoJH9s~",
+    "selfAccess": false,
+    "sessionId": null
 }

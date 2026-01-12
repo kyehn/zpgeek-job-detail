@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RsitMojcMRHZc-z1bPkbuZS5F2X-uHA1SXBbyjW3MMjyG2hXDdQBChvN-POao5Ns_e_OUsZcJxJMu-8AYUwpppjQTjGfSMJnLjVxajWDz9TLZ-Eokkii90VCVF2KhlMjsCLTV2AekPwtTONy3txg04kOdQx_-a8hHjT1gJjg2T6eMBl-v1KjrGoiroSE710~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "669bce2e9d25df3103R629q0ElpV",
-      "encryptUserId": "f8ccdf3130c73e420Xx509S7F1ZY",
-      "invalidStatus": false,
-      "jobName": "java Python WEB开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "Java（Python)\n技能要求:\n能独立架构项目编码部署上线\n1、熟悉前后端分离的技术架构，Java基础知识扎实良好的编码习惯，逻辑思维清晰; 有Python Django开发经验，熟练使用Python进行WEB后端开发，熟悉Django。\n2、深入理解Spring、SpringCloud框架;\n3、Vue等常用框架，熟悉多线程、多进程编程;\n4、对设计模式有一定了解，能够在开发中灵活运用常见的设计模式;\n5、熟悉基于Git团队协作开发过程;熟练使用Git等开发工具。\n6、熟练使用MySQL数据库，熟悉消息队列，掌握常用的性能优化技巧;\n7、熟练使用Linux开发，服务器配置，Tomcat/nginx优化等;\n8、熟悉敏捷开发模式，CI工具，自动化部署工具等;\n9、有OA项目开发经验者优先;熟悉RBAC优先;熟悉并在实际项目中有实际使用过流程引擎开发者优先。\n10、熟悉微服务架构，uniapp。\n11、熟悉SDK,API接入。熟悉Openapi。\n12、具有物联网开发平台经验。",
-      "encryptAddressId": "90b4d5f85189e4301nF63t60FFFVwo-8Uv6b",
-      "address": "深圳坪山区深圳技术大学c5",
-      "longitude": 114.399831,
-      "latitude": 22.700708,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78dc856aed5a450166d846c3b7e0f735",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ba3ec780889830d09b477d0373c345b2",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "物联网经验",
-        "SpringCloud",
-        "MySQL",
-        "物联网",
-        "Spring",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "深圳市云上智博科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "469f00a95b67a4021Hx-0t24FFY~",
-      "brandName": "深圳市云上智博科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "深圳市云上智博科技有限公司成立于2021年，公司从事于计算机软硬件研发维护及网络安全等方面。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1734682454935,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市云上智博科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "深圳市云上智博科技",
+        "certificated": true,
+        "large": null,
+        "name": "朱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734682454935,
+        "brandName": "深圳市云上智博科技",
+        "customerBrandName": "深圳市云上智博科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "469f00a95b67a4021Hx-0t24FFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "深圳市云上智博科技有限公司成立于2021年，公司从事于计算机软硬件研发维护及网络安全等方面。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳坪山区深圳技术大学c5",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "90b4d5f85189e4301nF63t60FFFVwo-8Uv6b",
+        "encryptId": "669bce2e9d25df3103R629q0ElpV",
+        "encryptUserId": "f8ccdf3130c73e420Xx509S7F1ZY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java Python WEB开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.700708,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.399831,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ba3ec780889830d09b477d0373c345b2",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "Java（Python)\n技能要求:\n能独立架构项目编码部署上线\n1、熟悉前后端分离的技术架构，Java基础知识扎实良好的编码习惯，逻辑思维清晰; 有Python Django开发经验，熟练使用Python进行WEB后端开发，熟悉Django。\n2、深入理解Spring、SpringCloud框架;\n3、Vue等常用框架，熟悉多线程、多进程编程;\n4、对设计模式有一定了解，能够在开发中灵活运用常见的设计模式;\n5、熟悉基于Git团队协作开发过程;熟练使用Git等开发工具。\n6、熟练使用MySQL数据库，熟悉消息队列，掌握常用的性能优化技巧;\n7、熟练使用Linux开发，服务器配置，Tomcat/nginx优化等;\n8、熟悉敏捷开发模式，CI工具，自动化部署工具等;\n9、有OA项目开发经验者优先;熟悉RBAC优先;熟悉并在实际项目中有实际使用过流程引擎开发者优先。\n10、熟悉微服务架构，uniapp。\n11、熟悉SDK,API接入。熟悉Openapi。\n12、具有物联网开发平台经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "Java",
+            "物联网经验",
+            "SpringCloud",
+            "MySQL",
+            "物联网",
+            "Spring",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78dc856aed5a450166d846c3b7e0f735"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RsitMojcMRHZc-z1bPkbuZS5F2X-uHA1SXBbyjW3MMjyG2hXDdQBChvN-POao5Ns_e_OUsZcJxJMu-8AYUwpppjQTjGfSMJnLjVxajWDz9TLZ-Eokkii90VCVF2KhlMjsCLTV2AekPwtTONy3txg04kOdQx_-a8hHjT1gJjg2T6eMBl-v1KjrGoiroSE710~",
+    "selfAccess": false,
+    "sessionId": null
 }

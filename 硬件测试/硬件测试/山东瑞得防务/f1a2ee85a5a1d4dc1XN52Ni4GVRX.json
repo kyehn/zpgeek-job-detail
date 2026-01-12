@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9hFLBoBaJB789-s1JqzMzoI9Q908rNqyJvE-3KxJjP36iRcSwafk_pGonzUqMX3JtbWuIhGBqIFeFHgRUHXxdARbrmWw1fGeIfkuaOuR0_yFRLvGesU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f1a2ee85a5a1d4dc1XN52Ni4GVRX",
-      "encryptUserId": "78717c5021ae4e880nx93dS0FFVY",
-      "invalidStatus": false,
-      "jobName": "硬件测试",
-      "position": 100308,
-      "positionName": "硬件测试",
-      "location": 101120600,
-      "locationName": "潍坊",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "调试，测试，焊接，组装等",
-      "encryptAddressId": "c4b60b99329d54b433d93N20FVA~",
-      "address": "潍坊寿光市港投双创中心24号楼",
-      "longitude": 118.85531,
-      "latitude": 36.847315,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/165c1cefdc5f3b549b97722b60f3787c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2652ae2e4b46a8a93459f558d46448b6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "智能硬件类",
-        "通信设备类",
-        "机器人/无人机类",
-        "硬件测试经验",
-        "软件测试经验",
-        "硬件研发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "山东瑞得防务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8e6dc8794341add403xy2dm7Fg~~",
-      "brandName": "山东瑞得防务",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722937806897,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东瑞得防务",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东瑞得防务",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722937806897,
+        "brandName": "山东瑞得防务",
+        "customerBrandName": "山东瑞得防务",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8e6dc8794341add403xy2dm7Fg~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "潍坊寿光市港投双创中心24号楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c4b60b99329d54b433d93N20FVA~",
+        "encryptId": "f1a2ee85a5a1d4dc1XN52Ni4GVRX",
+        "encryptUserId": "78717c5021ae4e880nx93dS0FFVY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "硬件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.847315,
+        "location": 101120600,
+        "locationName": "潍坊",
+        "longitude": 118.85531,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2652ae2e4b46a8a93459f558d46448b6",
+        "position": 100308,
+        "positionName": "硬件测试",
+        "postDescription": "调试，测试，焊接，组装等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "智能硬件类",
+            "通信设备类",
+            "机器人/无人机类",
+            "硬件测试经验",
+            "软件测试经验",
+            "硬件研发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/165c1cefdc5f3b549b97722b60f3787c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9hFLBoBaJB789-s1JqzMzoI9Q908rNqyJvE-3KxJjP36iRcSwafk_pGonzUqMX3JtbWuIhGBqIFeFHgRUHXxdARbrmWw1fGeIfkuaOuR0_yFRLvGesU~",
+    "selfAccess": false,
+    "sessionId": null
 }

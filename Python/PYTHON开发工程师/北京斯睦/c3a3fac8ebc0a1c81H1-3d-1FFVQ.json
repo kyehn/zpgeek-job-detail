@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "x52VFM4R_kgZn-41f-plxDFvrK4YTDKt0yQ_uGg1YG_2ViD-q6ozfSpxf28-LFGXl9OooErBG0SIs-2UAvpq4fYWQjIawTaJu54SLzM9839qPXA0NlR39y8uI5RHsXs0Ru5o2h_lt-45mc4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c3a3fac8ebc0a1c81H1-3d-1FFVQ",
-      "encryptUserId": "8c178b0da5b29a7e0n162d-4EVVX",
-      "invalidStatus": false,
-      "jobName": "python开发工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-9K",
-      "payTypeDesc": null,
-      "postDescription": "职责职责：\n1. 根据项目需求和设计要求，承担系统开发工作（基于python）。\n2. 根据项目开发主管安排，按照开发计划提交符合设计要求的代码，并进行系统缺陷修复，确保系统达到质量要求；\n3. 参与系统测试和开发相关文档编写工作；\n4. 参与系统设计与开发实施相关其他工作；\n能力特征：\n1. 本科及以上学历，计算机相关专业。\n2. 熟练使用python编程语言。\n3.有YOLO算法应用经验者优先。",
-      "encryptAddressId": "b8dd31712263d5501nB42tm7EFdSxY26U_KW",
-      "address": "北京通州区华远·好天地B座401",
-      "longitude": 116.694339,
-      "latitude": 39.871301,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf48cb814e5ac35a5920989885538575936bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf015fb2411f4d7eaec08dda191f98e5316bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230330/607f1f3d68754fd05e1bf431c4e8ff1ab98788a8f8ecd8e4e25cfe8ce3129e4724df4bd0021_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "北京斯睦",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "86a71c0ba3b08f0c1XJ43d60FFU~",
-      "brandName": "北京斯睦",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240618/7b5b554d84f9729c32771e385fa2b322aadee52da7c41923e25cfe8ce3129e4724df4bd0021bd272.jpg.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101201,
-      "industryName": "石油/石化",
-      "introduce": "在这里你也是老板，我们携手一起见证奇迹",
-      "labels": [
-        "带薪年假",
-        "年终奖",
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1729875632113,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京斯睦",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京斯睦",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230330/607f1f3d68754fd05e1bf431c4e8ff1ab98788a8f8ecd8e4e25cfe8ce3129e4724df4bd0021_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729875632113,
+        "brandName": "北京斯睦",
+        "customerBrandName": "北京斯睦",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "86a71c0ba3b08f0c1XJ43d60FFU~",
+        "focusBrand": false,
+        "industry": 101201,
+        "industryName": "石油/石化",
+        "introduce": "在这里你也是老板，我们携手一起见证奇迹",
+        "labels": [
+            "带薪年假",
+            "年终奖",
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240618/7b5b554d84f9729c32771e385fa2b322aadee52da7c41923e25cfe8ce3129e4724df4bd0021bd272.jpg.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京通州区华远·好天地B座401",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b8dd31712263d5501nB42tm7EFdSxY26U_KW",
+        "encryptId": "c3a3fac8ebc0a1c81H1-3d-1FFVQ",
+        "encryptUserId": "8c178b0da5b29a7e0n162d-4EVVX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "python开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.871301,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.694339,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf015fb2411f4d7eaec08dda191f98e5316bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "职责职责：\n1. 根据项目需求和设计要求，承担系统开发工作（基于python）。\n2. 根据项目开发主管安排，按照开发计划提交符合设计要求的代码，并进行系统缺陷修复，确保系统达到质量要求；\n3. 参与系统测试和开发相关文档编写工作；\n4. 参与系统设计与开发实施相关其他工作；\n能力特征：\n1. 本科及以上学历，计算机相关专业。\n2. 熟练使用python编程语言。\n3.有YOLO算法应用经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-9K",
+        "showSkills": [
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf48cb814e5ac35a5920989885538575936bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "x52VFM4R_kgZn-41f-plxDFvrK4YTDKt0yQ_uGg1YG_2ViD-q6ozfSpxf28-LFGXl9OooErBG0SIs-2UAvpq4fYWQjIawTaJu54SLzM9839qPXA0NlR39y8uI5RHsXs0Ru5o2h_lt-45mc4~",
+    "selfAccess": false,
+    "sessionId": null
 }

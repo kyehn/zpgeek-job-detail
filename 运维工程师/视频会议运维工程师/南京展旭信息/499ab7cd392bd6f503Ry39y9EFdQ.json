@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "lRbARGJRQZgIj-n1aqdvXk87GARpdAlRzqZxhH7YSjUtLZQQIx9Tgpys0Q6b0Hi4Zt7M5c4mmdg3ulsKGWEAEflAivUZNqVu8maplhqNeYC0MI795ZDYRyzxYdHXkezjuYk0bImS_W-F0I0leVhO3Ucu8aYTVw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "499ab7cd392bd6f503Ry39y9EFdQ",
-      "encryptUserId": "1a9ba9904adbfbad0nF80t-9E1JW",
-      "invalidStatus": false,
-      "jobName": "视频会议运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "‌视频会议运维主要是指对视频会议系统进行技术支持、设备维护、会议保障等一系列服务‌。具体内容包括：\n负责视频会议系统的日常技术支持，确保会议顺利召开‌。对视频会议设备进行日常维护，会议保障与服务‌要会前进行设备检查和准备，确保设备完好并调试至最佳状态‌，会中值守，及时解决会议中出现的技术问题，保障会议顺利进行‌，会后进行设备归档和存放。视频会议运维人员还需具备扎实的计算机专业知识和音视频设备操作技能，以及良好的沟通协调能力和高度的责任心，以应对各种突发情况和确保会议的高效进行‌。",
-      "encryptAddressId": "2ed4a203367fb7e21nJ539u9F1tZxo2_WPyc",
-      "address": "南京鼓楼区国网江苏招标有限公司凤凰西街243号",
-      "longitude": 118.749926,
-      "latitude": 32.040776,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bffa15627faca5f814fa45fd01c903ddfd6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bf7db7f0d15f0cdba95f7a764e5ccb1b6e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bf55d8d45c139548a49726b155aee049226bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bfe1bd8fb73e80af04265c8b933ff05cf26bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维",
-        "桌面运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "辛女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "南京展旭信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7268d435d2eca3321XZ80t24FFE~",
-      "brandName": "南京展旭信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735295693971,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京展旭信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京展旭信息",
+        "certificated": true,
+        "large": null,
+        "name": "辛女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1735295693971,
+        "brandName": "南京展旭信息",
+        "customerBrandName": "南京展旭信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7268d435d2eca3321XZ80t24FFE~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京鼓楼区国网江苏招标有限公司凤凰西街243号",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bfe1bd8fb73e80af04265c8b933ff05cf26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bf55d8d45c139548a49726b155aee049226bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "2ed4a203367fb7e21nJ539u9F1tZxo2_WPyc",
+        "encryptId": "499ab7cd392bd6f503Ry39y9EFdQ",
+        "encryptUserId": "1a9ba9904adbfbad0nF80t-9E1JW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "视频会议运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.040776,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.749926,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bf7db7f0d15f0cdba95f7a764e5ccb1b6e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "视频会议运维主要是指对视频会议系统进行技术支持、设备维护、会议保障等一系列服务。具体内容包括：\n负责视频会议系统的日常技术支持，确保会议顺利召开。对视频会议设备进行日常维护，会议保障与服务要会前进行设备检查和准备，确保设备完好并调试至最佳状态，会中值守，及时解决会议中出现的技术问题，保障会议顺利进行，会后进行设备归档和存放。视频会议运维人员还需具备扎实的计算机专业知识和音视频设备操作技能，以及良好的沟通协调能力和高度的责任心，以应对各种突发情况和确保会议的高效进行。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "网络运维",
+            "系统运维",
+            "桌面运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241224/48ba41acc9cef1bffa15627faca5f814fa45fd01c903ddfd6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "lRbARGJRQZgIj-n1aqdvXk87GARpdAlRzqZxhH7YSjUtLZQQIx9Tgpys0Q6b0Hi4Zt7M5c4mmdg3ulsKGWEAEflAivUZNqVu8maplhqNeYC0MI795ZDYRyzxYdHXkezjuYk0bImS_W-F0I0leVhO3Ucu8aYTVw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pcbKUTMeN39nx-D1rtA7V3gLnFM0TLw27Of51uoP2AyDsXbqq30YKXCRk6iUqEJjHFsobzR3JciHwBXQgd7DhvAlqRN-kU2Ku35T-dCanFwf6osOyKvQ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8c1e5b57bd10d0051XNy2tq8ElJY",
-      "encryptUserId": "a88a2a128f4dceef0n142t-6EFZS",
-      "invalidStatus": false,
-      "jobName": "电子技术员",
-      "position": 101401,
-      "positionName": "电子工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "负责生产工艺改进，工装夹具制作，样品组装与老化测试。有一年以上电子厂工作经验",
-      "encryptAddressId": "f2a7b7e7a36662e933J_2dy7F1Y~",
-      "address": "广州白云区欧柏皮具厂3号",
-      "longitude": 113.308544,
-      "latitude": 23.267072,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bac3a23428d53f6a32c9f30bc479268a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0bacc476c41552b00519538c69a44b71",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子工艺工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广州泓美科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "12773cf6dc02fcf31XJ-0tW5E1o~",
-      "brandName": "广州泓美科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100006,
-      "industryName": "医疗健康",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727860942636,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州泓美科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州泓美科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "朱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727860942636,
+        "brandName": "广州泓美科技有限公司",
+        "customerBrandName": "广州泓美科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "12773cf6dc02fcf31XJ-0tW5E1o~",
+        "focusBrand": false,
+        "industry": 100006,
+        "industryName": "医疗健康",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州白云区欧柏皮具厂3号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f2a7b7e7a36662e933J_2dy7F1Y~",
+        "encryptId": "8c1e5b57bd10d0051XNy2tq8ElJY",
+        "encryptUserId": "a88a2a128f4dceef0n142t-6EFZS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "电子技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.267072,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.308544,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0bacc476c41552b00519538c69a44b71",
+        "position": 101401,
+        "positionName": "电子工程师",
+        "postDescription": "负责生产工艺改进，工装夹具制作，样品组装与老化测试。有一年以上电子厂工作经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "电子工艺工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bac3a23428d53f6a32c9f30bc479268a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pcbKUTMeN39nx-D1rtA7V3gLnFM0TLw27Of51uoP2AyDsXbqq30YKXCRk6iUqEJjHFsobzR3JciHwBXQgd7DhvAlqRN-kU2Ku35T-dCanFwf6osOyKvQ",
+    "selfAccess": false,
+    "sessionId": null
 }

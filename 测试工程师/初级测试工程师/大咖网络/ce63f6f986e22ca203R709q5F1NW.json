@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0GF9hSU9itBxO-U1IA_CSWSfU_ulgAy0mf3CH7V0MVXn7BZb0tHqc5qsw14Zg7SxL_aDs4eRUKRPxXWQYmFJjfZtRU7esRT7qy_kIFvHxYYsasGuxdHntMzPXSs-OakrIyNDn7Xb6z6Bb8YSbYGXzjkA7fWmrlG7yOdVprYrm0BcNF99FQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ce63f6f986e22ca203R709q5F1NW",
-      "encryptUserId": "aaeafa93693df8c10X1-2dW_EVo~",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉测试流程和测试用例设计\n掌握基本得测试工具，入缺陷跟踪系统(JRA)、测试管理工具（TestRall）\n技能:\n细心和耐心，能够系统地执行测试用例。\n初步的问题分析和解决能力\n良好的沟通能力，能够清晰地报告和跟踪缺陷。",
-      "encryptAddressId": "7233c413f5193d381nF52t20FFZRxIS3Uv6f",
-      "address": "北京东城区中粮广场A",
-      "longitude": 116.429877,
-      "latitude": 39.907018,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d7577d8730b86957af63ae180208db4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0852a78a4dbacb8e8c84e562125982ef",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240415/607f1f3d68754fd0960006cdfec46bb7b0a9d3faa8f5c470885c883f590e381b2125cb9dff4ed2c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "大咖网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cb2ed77e4d3ec7ae1XZ-3t-0EVo~",
-      "brandName": "大咖网络",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732521739727,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大咖网络",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "大咖网络",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240415/607f1f3d68754fd0960006cdfec46bb7b0a9d3faa8f5c470885c883f590e381b2125cb9dff4ed2c_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732521739727,
+        "brandName": "大咖网络",
+        "customerBrandName": "大咖网络",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cb2ed77e4d3ec7ae1XZ-3t-0EVo~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京东城区中粮广场A",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7233c413f5193d381nF52t20FFZRxIS3Uv6f",
+        "encryptId": "ce63f6f986e22ca203R709q5F1NW",
+        "encryptUserId": "aaeafa93693df8c10X1-2dW_EVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.907018,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.429877,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0852a78a4dbacb8e8c84e562125982ef",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "熟悉测试流程和测试用例设计\n掌握基本得测试工具，入缺陷跟踪系统(JRA)、测试管理工具（TestRall）\n技能:\n细心和耐心，能够系统地执行测试用例。\n初步的问题分析和解决能力\n良好的沟通能力，能够清晰地报告和跟踪缺陷。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d7577d8730b86957af63ae180208db4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0GF9hSU9itBxO-U1IA_CSWSfU_ulgAy0mf3CH7V0MVXn7BZb0tHqc5qsw14Zg7SxL_aDs4eRUKRPxXWQYmFJjfZtRU7esRT7qy_kIFvHxYYsasGuxdHntMzPXSs-OakrIyNDn7Xb6z6Bb8YSbYGXzjkA7fWmrlG7yOdVprYrm0BcNF99FQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

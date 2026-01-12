@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZMu5H7UWZnBf_-x1vyMu3R9SgrCLigc8wr8qrfpK_NNCRcBhRLj8M_cHkdCqefRbv93aersSxoRZNt0Bw60AQASEZ6ZHpdaGNZy_z8AiXo5Cxtn3Yw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ba55ac3a1d15952a1nF-2ti8ElNY",
-      "encryptUserId": "e86db25f3a5a6fdb1HZ-3ty1F1c~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1：负责公司维保客户日常设备运维，巡检，按照公司和客户要求出具巡检报告。及时解决运维设备出现的故障。\n2：负责公司销售同事跟进项目的测试和实施\n3: 重大节假日客户运维保障\n\n晋升通道：技术总监，公司副总",
-      "encryptAddressId": "e8e3092aaa763a5903F709m5EFY~",
-      "address": "成都金牛区兴普中心A座振兴路99号",
-      "longitude": 104.009394,
-      "latitude": 30.714314,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/305c8c53a94897c089f5f853ae0f46d5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59d9725064d29680ba47aced3686679a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "安全运维",
-        "存储运维",
-        "机房运维",
-        "系统运维",
-        "虚拟化运维",
-        "Linux",
-        "Windows",
-        "网络交换技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "侯先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "腾信金瑞科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "72ad1cd9f3458a171nZ52dy6GA~~",
-      "brandName": "腾信金瑞科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/e5bb7c5dce37b12e8b625b82f7155afaa5f505e45f422121425071ff81ca9793_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "成都腾信金瑞科技有限公司目前是Sonicwall ，SOPHOS全线产品西区总代和售后服务中心， 阿尔卡特朗讯程控电话系统，交换机，无线四川总代。信锐战略合作伙伴。H3C分销商，DELL 产品分销商。天空卫士数据防泄密西区铂金代理，川源全闪存西区独家代理。拥有自主知识产权的GPU云桌面。",
-      "labels": [
-        "年终奖",
-        "员工旅游",
-        "交通补助",
-        "通讯补贴",
-        "零食下午茶",
-        "加班补助",
-        "五险"
-      ],
-      "activeTime": 1727472197130,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "腾信金瑞科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "腾信金瑞科技",
+        "certificated": true,
+        "large": null,
+        "name": "侯先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727472197130,
+        "brandName": "腾信金瑞科技",
+        "customerBrandName": "腾信金瑞科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "72ad1cd9f3458a171nZ52dy6GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "成都腾信金瑞科技有限公司目前是Sonicwall ，SOPHOS全线产品西区总代和售后服务中心， 阿尔卡特朗讯程控电话系统，交换机，无线四川总代。信锐战略合作伙伴。H3C分销商，DELL 产品分销商。天空卫士数据防泄密西区铂金代理，川源全闪存西区独家代理。拥有自主知识产权的GPU云桌面。",
+        "labels": [
+            "年终奖",
+            "员工旅游",
+            "交通补助",
+            "通讯补贴",
+            "零食下午茶",
+            "加班补助",
+            "五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/e5bb7c5dce37b12e8b625b82f7155afaa5f505e45f422121425071ff81ca9793_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都金牛区兴普中心A座振兴路99号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e8e3092aaa763a5903F709m5EFY~",
+        "encryptId": "ba55ac3a1d15952a1nF-2ti8ElNY",
+        "encryptUserId": "e86db25f3a5a6fdb1HZ-3ty1F1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.714314,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.009394,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59d9725064d29680ba47aced3686679a",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1：负责公司维保客户日常设备运维，巡检，按照公司和客户要求出具巡检报告。及时解决运维设备出现的故障。\n2：负责公司销售同事跟进项目的测试和实施\n3: 重大节假日客户运维保障\n\n晋升通道：技术总监，公司副总",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "安全运维",
+            "存储运维",
+            "机房运维",
+            "系统运维",
+            "虚拟化运维",
+            "Linux",
+            "Windows",
+            "网络交换技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/305c8c53a94897c089f5f853ae0f46d5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZMu5H7UWZnBf_-x1vyMu3R9SgrCLigc8wr8qrfpK_NNCRcBhRLj8M_cHkdCqefRbv93aersSxoRZNt0Bw60AQASEZ6ZHpdaGNZy_z8AiXo5Cxtn3Yw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

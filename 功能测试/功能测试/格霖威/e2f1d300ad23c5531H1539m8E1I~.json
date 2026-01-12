@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "23bDrj5WyrKfU-b1IMjtxE6Q8HmtusTLVmKZhfJn7gPATcxxZhUmqRapbXx9XkAmf-KNdHSm-GlO_qJFY8h300gIAsjdLi4Xn1CAvextQ802fSi6",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e2f1d300ad23c5531H1539m8E1I~",
-      "encryptUserId": "1422ff20413dd7b30nN62d-1F1Q~",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101200700,
-      "locationName": "咸宁",
-      "experienceName": "经验不限",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "简单的测试和记录，会用电脑",
-      "encryptAddressId": "fb90fb3b69386ba81nRy2Nu5FVA~",
-      "address": "咸宁咸安区启迪之星(咸宁)615",
-      "longitude": 114.35994,
-      "latitude": 29.892905,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5194a3e6077dc08a25360bbcf85b7363",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60cba0159fe195be733617dd06551953",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "副总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210315/e129f27e97133fbe4655af6409cb781d4eb07a86e66daa670d9b21f207b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "格霖威",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1c27f028f92999fe1Hx63Ny9FA~~",
-      "brandName": "格霖威",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190314/7195b5cf155985beeb880e27305316534eb07a86e66daa670d9b21f207b84233.png",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100903,
-      "industryName": "原材料及加工/模具",
-      "introduce": "新材料",
-      "labels": [
-        "五险一金",
-        "定期体检"
-      ],
-      "activeTime": 1721463521857,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "格霖威",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "格霖威",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210315/e129f27e97133fbe4655af6409cb781d4eb07a86e66daa670d9b21f207b_b.jpg",
+        "title": "副总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721463521857,
+        "brandName": "格霖威",
+        "customerBrandName": "格霖威",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "1c27f028f92999fe1Hx63Ny9FA~~",
+        "focusBrand": false,
+        "industry": 100903,
+        "industryName": "原材料及加工/模具",
+        "introduce": "新材料",
+        "labels": [
+            "五险一金",
+            "定期体检"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190314/7195b5cf155985beeb880e27305316534eb07a86e66daa670d9b21f207b84233.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "咸宁咸安区启迪之星(咸宁)615",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "fb90fb3b69386ba81nRy2Nu5FVA~",
+        "encryptId": "e2f1d300ad23c5531H1539m8E1I~",
+        "encryptUserId": "1422ff20413dd7b30nN62d-1F1Q~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.892905,
+        "location": 101200700,
+        "locationName": "咸宁",
+        "longitude": 114.35994,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60cba0159fe195be733617dd06551953",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "简单的测试和记录，会用电脑",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "性能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5194a3e6077dc08a25360bbcf85b7363"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "23bDrj5WyrKfU-b1IMjtxE6Q8HmtusTLVmKZhfJn7gPATcxxZhUmqRapbXx9XkAmf-KNdHSm-GlO_qJFY8h300gIAsjdLi4Xn1CAvextQ802fSi6",
+    "selfAccess": false,
+    "sessionId": null
 }

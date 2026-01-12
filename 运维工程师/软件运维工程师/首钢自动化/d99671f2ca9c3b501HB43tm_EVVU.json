@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Z8q0_PY6GWz5r-J16VgndTg0SUPPr1yk-RzVZ-RJYaDJftdhK__sQE5j3I3S4mSqYQSBoM4_JxhximkiLr9EjkEG0V7efAAwi_kLUrFBveIMAXX9quiNDP4WKk4NvOLnHE4TvuN5a0Cw",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d99671f2ca9c3b501HB43tm_EVVU",
-      "encryptUserId": "f8cc31cadf3703f103193tW6ElE~",
-      "invalidStatus": false,
-      "jobName": "软件运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101090500,
-      "locationName": "唐山",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：1.负责公司内部电脑终端、笔记本电脑Office办公软件、浏览器插件等的安装与维护工作；\n2.负责公司内部电脑终端、笔记本电脑、打印机及相关外设的故障排查、处理工作；\n3.负责终端设备网络故障诊断及接入层交换机的配置、更换工作；\n4.完成领导交办的其它事项；\n任职要求：\n任职要求：\n1.计算机网络、计算机应用专业优先考虑；\n2.能够适应倒班工作机制；\n3.具有良好的团队协作精神与沟通能力，服从单位管理；",
-      "encryptAddressId": "1a4c002acd724f150XZ729m-EFZZwYm4U_k~",
-      "address": "唐山曹妃甸区曹妃甸工业区工业区",
-      "longitude": 118.512257,
-      "latitude": 39.003364,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db53660106ca64b0d864c3c91b91c5ea",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c0c4872d516979cde3651bc3cae33553",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "桌面运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "首钢自动化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8574736c10ad58f51nF73t29FlQ~",
-      "brandName": "首钢自动化",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220416/7bf6f160950405e9c08c551f4ddeef4b44619251fd31c3039f3c30f78c016f4d5ca542b0f291c217.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "北京首钢自动化信息技术有限公司\n\n发展于1972年，现有员工3000余人;\n\n是首钢集团旗下的自动化、信息化、专业性公司;\n\n是集信息化规划实施、自动化系统设计、软件开发、系统集成、技术服务于一体的高新技术企业；\n\n拥有国家重点实验室和300余项专利技术、软件著作权及注册软件产品；\n\n具备承担大型企业一至四级自动化信息化“交钥匙”工程的整体实力；\n\n致力于成为国内领先的智能工业和智慧城市综合服务提供商和引领者。",
-      "labels": [
-        "节日福利",
-        "餐补",
-        "带薪年假",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1720076490901,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "首钢自动化",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "首钢自动化",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1720076490901,
+        "brandName": "首钢自动化",
+        "customerBrandName": "首钢自动化",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "8574736c10ad58f51nF73t29FlQ~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "北京首钢自动化信息技术有限公司\n\n发展于1972年，现有员工3000余人;\n\n是首钢集团旗下的自动化、信息化、专业性公司;\n\n是集信息化规划实施、自动化系统设计、软件开发、系统集成、技术服务于一体的高新技术企业；\n\n拥有国家重点实验室和300余项专利技术、软件著作权及注册软件产品；\n\n具备承担大型企业一至四级自动化信息化“交钥匙”工程的整体实力；\n\n致力于成为国内领先的智能工业和智慧城市综合服务提供商和引领者。",
+        "labels": [
+            "节日福利",
+            "餐补",
+            "带薪年假",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220416/7bf6f160950405e9c08c551f4ddeef4b44619251fd31c3039f3c30f78c016f4d5ca542b0f291c217.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "唐山曹妃甸区曹妃甸工业区工业区",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1a4c002acd724f150XZ729m-EFZZwYm4U_k~",
+        "encryptId": "d99671f2ca9c3b501HB43tm_EVVU",
+        "encryptUserId": "f8cc31cadf3703f103193tW6ElE~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "软件运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 39.003364,
+        "location": 101090500,
+        "locationName": "唐山",
+        "longitude": 118.512257,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c0c4872d516979cde3651bc3cae33553",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：1.负责公司内部电脑终端、笔记本电脑Office办公软件、浏览器插件等的安装与维护工作；\n2.负责公司内部电脑终端、笔记本电脑、打印机及相关外设的故障排查、处理工作；\n3.负责终端设备网络故障诊断及接入层交换机的配置、更换工作；\n4.完成领导交办的其它事项；\n任职要求：\n任职要求：\n1.计算机网络、计算机应用专业优先考虑；\n2.能够适应倒班工作机制；\n3.具有良好的团队协作精神与沟通能力，服从单位管理；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "桌面运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db53660106ca64b0d864c3c91b91c5ea"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Z8q0_PY6GWz5r-J16VgndTg0SUPPr1yk-RzVZ-RJYaDJftdhK__sQE5j3I3S4mSqYQSBoM4_JxhximkiLr9EjkEG0V7efAAwi_kLUrFBveIMAXX9quiNDP4WKk4NvOLnHE4TvuN5a0Cw",
+    "selfAccess": false,
+    "sessionId": null
 }

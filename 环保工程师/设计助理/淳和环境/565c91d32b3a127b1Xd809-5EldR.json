@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QAUPSaAqaZDo9-i1YkS5b-DgSou0Z8ySxi36GKdGMalFsK-8Nq7Zll24YzAF7m2tV-vTdgR2MEuiFzkHgaHGunC5eDwcRvJZjFhO8Z-tm52ioeMmSX6R",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "565c91d32b3a127b1Xd809-5EldR",
-      "encryptUserId": "4c089db09839aa590nF73t2-GFVU",
-      "invalidStatus": false,
-      "jobName": "设计助理",
-      "position": 300901,
-      "positionName": "环保工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、根据工程项目要求，配合进行前期现场踏勘、方案编制；\n2、根据下达的任务书进行具体的规划设计工作，并进行项目的汇报、评审；\n3、熟练使用AUTOCAD（天正）、OFFICE、PS、SWMM等设计软件；\n4、大专以上学历，责任心强，有较好的抗压能力及协作精神；\n5、环境工程、环境科学、生态规划、环艺、风景园林、给水排水工程、市政工程等相关专业；",
-      "encryptAddressId": "b6390654b06b44cf0XJ63tu4F1U~",
-      "address": "苏州昆山市花桥国际创新港A11-303",
-      "longitude": 121.053084,
-      "latitude": 31.286232,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/34b1468ec0da3cdc5a4d301b9d5bc245",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dadc6bf080489eba71a62deaea9aa57",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220721/607f1f3d68754fd0b0a37009d1247df6fa4ffca6a2b87c500fd23728f30c7c4c5ac110630e7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "淳和环境",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6bcd572eec38300e1XZ63921EFE~",
-      "brandName": "淳和环境",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220721/7b5b554d84f9729ce5b8798e6ee7d894896fff592c0bde480fd23728f30c7c4c5ac110630e75817d.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "坐落于全国百强县市榜首昆山市的产业科创中心建设主阵地——花桥国际创新港，是一家专注于河道湖泊水体生态系统恢复的集调研、设计、实施、运维服务于一体的科技型生态环保公司。",
-      "labels": [
-        "高温补贴",
-        "餐补",
-        "带薪年假",
-        "节假日加班费",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1728709983823,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "淳和环境",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "淳和环境",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220721/607f1f3d68754fd0b0a37009d1247df6fa4ffca6a2b87c500fd23728f30c7c4c5ac110630e7_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1728709983823,
+        "brandName": "淳和环境",
+        "customerBrandName": "淳和环境",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "6bcd572eec38300e1XZ63921EFE~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "坐落于全国百强县市榜首昆山市的产业科创中心建设主阵地——花桥国际创新港，是一家专注于河道湖泊水体生态系统恢复的集调研、设计、实施、运维服务于一体的科技型生态环保公司。",
+        "labels": [
+            "高温补贴",
+            "餐补",
+            "带薪年假",
+            "节假日加班费",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220721/7b5b554d84f9729ce5b8798e6ee7d894896fff592c0bde480fd23728f30c7c4c5ac110630e75817d.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市花桥国际创新港A11-303",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b6390654b06b44cf0XJ63tu4F1U~",
+        "encryptId": "565c91d32b3a127b1Xd809-5EldR",
+        "encryptUserId": "4c089db09839aa590nF73t2-GFVU",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "设计助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.286232,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.053084,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dadc6bf080489eba71a62deaea9aa57",
+        "position": 300901,
+        "positionName": "环保工程师",
+        "postDescription": "1、根据工程项目要求，配合进行前期现场踏勘、方案编制；\n2、根据下达的任务书进行具体的规划设计工作，并进行项目的汇报、评审；\n3、熟练使用AUTOCAD（天正）、OFFICE、PS、SWMM等设计软件；\n4、大专以上学历，责任心强，有较好的抗压能力及协作精神；\n5、环境工程、环境科学、生态规划、环艺、风景园林、给水排水工程、市政工程等相关专业；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K·13薪",
+        "showSkills": [
+            "设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/34b1468ec0da3cdc5a4d301b9d5bc245"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QAUPSaAqaZDo9-i1YkS5b-DgSou0Z8ySxi36GKdGMalFsK-8Nq7Zll24YzAF7m2tV-vTdgR2MEuiFzkHgaHGunC5eDwcRvJZjFhO8Z-tm52ioeMmSX6R",
+    "selfAccess": false,
+    "sessionId": null
 }

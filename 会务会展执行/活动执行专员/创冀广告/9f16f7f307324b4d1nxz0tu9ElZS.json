@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CrP2CNh1wG6mF-I18DsQaih_g7u3n8KjUVH70k6vP4Gv63WwtBgXvEJ4f6g5tvkGgaKu2a-ML-Flf02JpmgrrJ9w7JJR4hSnxzNRuhzxdcZHdrJOdzSj",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9f16f7f307324b4d1nxz0tu9ElZS",
-      "encryptUserId": "fc621a4304c6d8d20nd909y0F1BX",
-      "invalidStatus": false,
-      "jobName": "活动执行专员",
-      "position": 140506,
-      "positionName": "会务/会展执行",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、1-2年以上的活动执行经验；\n\n2、有体育类的活动执行经验者优先\n\n3、较强的业务能力，能和客户良好的沟通；\n\n3、 了解执行的策划、实施流程；\n\n4、 具备很好的沟通技巧和服务意识，性格开朗，有责任心、进取心及团队协作精神；\n\n5、 具有良好的职业道德；愿意接受挑战性的工作，能够高效及时完成工作。",
-      "encryptAddressId": "e3011f7c22416d4003R829u8GQ~~",
-      "address": "南京鼓楼区五台山体育中心商务楼406",
-      "longitude": 118.774278,
-      "latitude": 32.046403,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/261b3b728cc2354c12c286af8e7c4d0d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e6cf8ee280c0f082d388945b09715ec",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "广告/公关公司经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "马女士",
-      "title": "行政人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "创冀广告",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fb0204c7cf6f9b241nd-2Nm_F1Y~",
-      "brandName": "创冀广告",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726519635000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "创冀广告",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "创冀广告",
+        "certificated": true,
+        "large": null,
+        "name": "马女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "行政人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726519635000,
+        "brandName": "创冀广告",
+        "customerBrandName": "创冀广告",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fb0204c7cf6f9b241nd-2Nm_F1Y~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京鼓楼区五台山体育中心商务楼406",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e3011f7c22416d4003R829u8GQ~~",
+        "encryptId": "9f16f7f307324b4d1nxz0tu9ElZS",
+        "encryptUserId": "fc621a4304c6d8d20nd909y0F1BX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "活动执行专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.046403,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.774278,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e6cf8ee280c0f082d388945b09715ec",
+        "position": 140506,
+        "positionName": "会务/会展执行",
+        "postDescription": "1、1-2年以上的活动执行经验；\n\n2、有体育类的活动执行经验者优先\n\n3、较强的业务能力，能和客户良好的沟通；\n\n3、 了解执行的策划、实施流程；\n\n4、 具备很好的沟通技巧和服务意识，性格开朗，有责任心、进取心及团队协作精神；\n\n5、 具有良好的职业道德；愿意接受挑战性的工作，能够高效及时完成工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "广告/公关公司经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/261b3b728cc2354c12c286af8e7c4d0d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CrP2CNh1wG6mF-I18DsQaih_g7u3n8KjUVH70k6vP4Gv63WwtBgXvEJ4f6g5tvkGgaKu2a-ML-Flf02JpmgrrJ9w7JJR4hSnxzNRuhzxdcZHdrJOdzSj",
+    "selfAccess": false,
+    "sessionId": null
 }

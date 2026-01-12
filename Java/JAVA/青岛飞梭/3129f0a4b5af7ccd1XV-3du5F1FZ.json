@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "o8zgZVwrTNRld-t1rM1dFitB5KMIW74rLpch0x4FAif5Azxn_3Cqlyx9nPXYFpGfc1Hq6_U65fHXWqnzT8LQTK07cQczH7jRM_2OX4No0nWT9YCpC0Y~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3129f0a4b5af7ccd1XV-3du5F1FZ",
-      "encryptUserId": "0a49ed5abafcb6200XBz3d21Elo~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "扎实的java编程基础，精通Java EE、WEB前端等技术",
-      "encryptAddressId": "754be4ed3e5e9b960nV-39W_F1I~",
-      "address": "上海浦东新区张江海外科技创新园302",
-      "longitude": 121.586781,
-      "latitude": 31.205806,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9b8f859d3d8742a6510684bc100830f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17016e5e9c5065adb041e2ebe5b0e28f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "HTML",
-        "CSS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "贾女士",
-      "title": "IT",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201119/ece8407c09e3d16fe5c258bd6a16a462a74fd74ced0ce787b0a74a60ce3_b.jpg",
-      "large": null,
-      "activeTimeDesc": null,
-      "bossOnline": false,
-      "brandName": "青岛飞梭",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a4011453f5b770c41nJ40t-1E1I~",
-      "brandName": "青岛飞梭",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725476796620,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青岛飞梭",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": null,
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青岛飞梭",
+        "certificated": true,
+        "large": null,
+        "name": "贾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201119/ece8407c09e3d16fe5c258bd6a16a462a74fd74ced0ce787b0a74a60ce3_b.jpg",
+        "title": "IT"
+    },
+    "brandComInfo": {
+        "activeTime": 1725476796620,
+        "brandName": "青岛飞梭",
+        "customerBrandName": "青岛飞梭",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a4011453f5b770c41nJ40t-1E1I~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区张江海外科技创新园302",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "754be4ed3e5e9b960nV-39W_F1I~",
+        "encryptId": "3129f0a4b5af7ccd1XV-3du5F1FZ",
+        "encryptUserId": "0a49ed5abafcb6200XBz3d21Elo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.205806,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.586781,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17016e5e9c5065adb041e2ebe5b0e28f",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "扎实的java编程基础，精通Java EE、WEB前端等技术",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "HTML",
+            "CSS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9b8f859d3d8742a6510684bc100830f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "o8zgZVwrTNRld-t1rM1dFitB5KMIW74rLpch0x4FAif5Azxn_3Cqlyx9nPXYFpGfc1Hq6_U65fHXWqnzT8LQTK07cQczH7jRM_2OX4No0nWT9YCpC0Y~",
+    "selfAccess": false,
+    "sessionId": null
 }

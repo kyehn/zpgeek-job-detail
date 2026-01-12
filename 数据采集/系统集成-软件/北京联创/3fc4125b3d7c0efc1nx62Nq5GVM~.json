@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FxR9Yc11Pssna-B1Fh1m6CgZpSf2Ef5JmYBSjrcZ7LaYqHnVpJH2QE03LkJp36v3rcH67R-j83UX4OitHScgVlh3jBT8avw-ima7XX1zJZnHB7g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3fc4125b3d7c0efc1nx62Nq5GVM~",
-      "encryptUserId": "de59ed35b3e8c98a1Xx53tu_FFs~",
-      "invalidStatus": false,
-      "jobName": "系统集成-软件",
-      "position": 100122,
-      "positionName": "数据采集",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-16K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司系统集成项目的顶层软件开发。对多种数据采集板卡具备丰富开发经验的优先。\n1、本科以上学历，计算机、自动化、通信电子、电子电气及软件编程相关专业；\n2、精通VC、Labview等软件编译器，能够独立开发程序；\n3、具备良好的英语水平；\n4、熟悉各种采集卡，安捷伦，泰克等测控设备仪器程序控制者优先；\n5、有系统集成，软件开发等相关工作经验者优先；\n6、具备较强的动手能力，对航空总线，AD、DA、USB等数据采集等系统开发有经验者优先；\n7、具有较强的沟通和谈判能力，良好的团队合作意识；\n8、2年以上系统集成，软件开发经验者优先；",
-      "encryptAddressId": "9e61f98b7df8458f1Xdy3d-8EFQ~",
-      "address": "北京朝阳区瑞普大厦C座",
-      "longitude": 116.4258,
-      "latitude": 40.03341,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a47c61e3fe0edcaeee137f73bbb3ba7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60290ef7410591125202f4695de443c2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "LabVIEW"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170613/1e2d0ef7e3b19e92439fb0306fef89f39911d42bd07279d67c6e3d96f66_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "北京联创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "92308aa4791538411nN92t60",
-      "brandName": "北京联创",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181018/bfc4cf4247501a53c7a6b8b46f7269c6d8e6fbc8016e75aa731ed916c3c58698.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725385774648,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京联创",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京联创",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170613/1e2d0ef7e3b19e92439fb0306fef89f39911d42bd07279d67c6e3d96f66_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725385774648,
+        "brandName": "北京联创",
+        "customerBrandName": "北京联创",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "92308aa4791538411nN92t60",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181018/bfc4cf4247501a53c7a6b8b46f7269c6d8e6fbc8016e75aa731ed916c3c58698.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区瑞普大厦C座",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9e61f98b7df8458f1Xdy3d-8EFQ~",
+        "encryptId": "3fc4125b3d7c0efc1nx62Nq5GVM~",
+        "encryptUserId": "de59ed35b3e8c98a1Xx53tu_FFs~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "系统集成-软件",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.03341,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.4258,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60290ef7410591125202f4695de443c2",
+        "position": 100122,
+        "positionName": "数据采集",
+        "postDescription": "负责公司系统集成项目的顶层软件开发。对多种数据采集板卡具备丰富开发经验的优先。\n1、本科以上学历，计算机、自动化、通信电子、电子电气及软件编程相关专业；\n2、精通VC、Labview等软件编译器，能够独立开发程序；\n3、具备良好的英语水平；\n4、熟悉各种采集卡，安捷伦，泰克等测控设备仪器程序控制者优先；\n5、有系统集成，软件开发等相关工作经验者优先；\n6、具备较强的动手能力，对航空总线，AD、DA、USB等数据采集等系统开发有经验者优先；\n7、具有较强的沟通和谈判能力，良好的团队合作意识；\n8、2年以上系统集成，软件开发经验者优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-16K",
+        "showSkills": [
+            "C++",
+            "LabVIEW"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a47c61e3fe0edcaeee137f73bbb3ba7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FxR9Yc11Pssna-B1Fh1m6CgZpSf2Ef5JmYBSjrcZ7LaYqHnVpJH2QE03LkJp36v3rcH67R-j83UX4OitHScgVlh3jBT8avw-ima7XX1zJZnHB7g~",
+    "selfAccess": false,
+    "sessionId": null
 }

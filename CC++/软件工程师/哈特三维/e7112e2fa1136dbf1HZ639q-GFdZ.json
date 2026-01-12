@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "KcPAlJBgGSOPw-g1mDndfJbjgagfcjPHLba2PeOoHDQWWtT_eQKmjbJ11n1IBqKXLZGCCDUlAnA2QmXJhU86bQYB7EQKLw_ImEHGCIxbrgZk9OfSbpw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e7112e2fa1136dbf1HZ639q-GFdZ",
-      "encryptUserId": "2e63f0dc32a00fd51nV739i-EldQ",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101281700,
-      "locationName": "中山",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-15K",
-      "payTypeDesc": null,
-      "postDescription": "软件工程师（增材制造）/1万-3万\n职位描述\nC++   Python   Oracle   Linux  MySQL CSS\n岗位职责：\n1、负责3D打印中几何模型的处理，切片算法的设计与实现；\n2、负责3D打印中路径规划和人机交互界面设计。\n3、负责3D打印机中，软硬之间进行交互的实现。\n4、负责3D打印设备操作软件的开发和优化\n任职资格：\n1、计算机、数学或工科相关专业（至少2年工作经验），从事过3D打印相关工作者优先；\n2、具备扎实的数学基础，熟悉计算几何，网格处理等算法；\n3、熟练使用CGAL或Open Mesh等计算几何开源库；\n4、熟练使用C++语言编程，熟悉Qt开发更佳；\n5、熟悉3D打印切片算法。",
-      "encryptAddressId": "21b77041fade538c1HJ80t65GQ~~",
-      "address": "中山哈特三维(中山)金属材料有限公司翠亨新区和清路14号",
-      "longitude": 113.60324,
-      "latitude": 22.541839,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b147215c1636594fe45c5bac48c43b10",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1cad08b4274ac03e7987ad0af27fb13b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "CSS",
-        "MySQL",
-        "Oracle",
-        "Linux开发/部署经验",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221227/607f1f3d68754fd08667191ba79066aba165f4bbbfeeb1bf2882e9b496ed89568b12625cad6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "哈特三维",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6ee039c97429fa250nFy2d-0FQ~~",
-      "brandName": "哈特三维",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/f45ac6a4a2dd9956ffb1549d8d93e53a2882e9b496ed89568b12625cad636709_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "哈特三维（中山）金属材料有限公司成立于2018年5月，是一家集3D打印材料、设备及应用研发、生产、销售的高科技公司。\n\n公司核心研发团队来自哈尔滨工业大学先进材料特种凝固加工研究所，掌握多种金属材料制备和成形核心技术，具有多年3D打印行业的从业经验 ；承担三十余项国家973、国防973、国家重点研发计划、总装预研等国家项目，参与多项3D打印材料工艺及应用研发生产，拥有非常扎实的理论基础和多年的实践经验。\n\n公司2018年对模具3D打印市场进行布局，形成由材料-工艺-打印服务为一体的全能型高新企业；2019年以模具3D打印为切入点，致力于提高模具3D打印粉体材料品质和扩展模具3D打印粉体材料的牌号，成为国内领先的模具3D打印粉体材料和解决方案供应商。",
-      "labels": [
-        "加班补助",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1730146728392,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "哈特三维",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "哈特三维",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221227/607f1f3d68754fd08667191ba79066aba165f4bbbfeeb1bf2882e9b496ed89568b12625cad6_b.jpg",
+        "title": "行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730146728392,
+        "brandName": "哈特三维",
+        "customerBrandName": "哈特三维",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "6ee039c97429fa250nFy2d-0FQ~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "哈特三维（中山）金属材料有限公司成立于2018年5月，是一家集3D打印材料、设备及应用研发、生产、销售的高科技公司。\n\n公司核心研发团队来自哈尔滨工业大学先进材料特种凝固加工研究所，掌握多种金属材料制备和成形核心技术，具有多年3D打印行业的从业经验 ；承担三十余项国家973、国防973、国家重点研发计划、总装预研等国家项目，参与多项3D打印材料工艺及应用研发生产，拥有非常扎实的理论基础和多年的实践经验。\n\n公司2018年对模具3D打印市场进行布局，形成由材料-工艺-打印服务为一体的全能型高新企业；2019年以模具3D打印为切入点，致力于提高模具3D打印粉体材料品质和扩展模具3D打印粉体材料的牌号，成为国内领先的模具3D打印粉体材料和解决方案供应商。",
+        "labels": [
+            "加班补助",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/f45ac6a4a2dd9956ffb1549d8d93e53a2882e9b496ed89568b12625cad636709_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "中山哈特三维(中山)金属材料有限公司翠亨新区和清路14号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "21b77041fade538c1HJ80t65GQ~~",
+        "encryptId": "e7112e2fa1136dbf1HZ639q-GFdZ",
+        "encryptUserId": "2e63f0dc32a00fd51nV739i-EldQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.541839,
+        "location": 101281700,
+        "locationName": "中山",
+        "longitude": 113.60324,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1cad08b4274ac03e7987ad0af27fb13b",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "软件工程师（增材制造）/1万-3万\n职位描述\nC++   Python   Oracle   Linux  MySQL CSS\n岗位职责：\n1、负责3D打印中几何模型的处理，切片算法的设计与实现；\n2、负责3D打印中路径规划和人机交互界面设计。\n3、负责3D打印机中，软硬之间进行交互的实现。\n4、负责3D打印设备操作软件的开发和优化\n任职资格：\n1、计算机、数学或工科相关专业（至少2年工作经验），从事过3D打印相关工作者优先；\n2、具备扎实的数学基础，熟悉计算几何，网格处理等算法；\n3、熟练使用CGAL或Open Mesh等计算几何开源库；\n4、熟练使用C++语言编程，熟悉Qt开发更佳；\n5、熟悉3D打印切片算法。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-15K",
+        "showSkills": [
+            "C++",
+            "CSS",
+            "MySQL",
+            "Oracle",
+            "Linux开发/部署经验",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b147215c1636594fe45c5bac48c43b10"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "KcPAlJBgGSOPw-g1mDndfJbjgagfcjPHLba2PeOoHDQWWtT_eQKmjbJ11n1IBqKXLZGCCDUlAnA2QmXJhU86bQYB7EQKLw_ImEHGCIxbrgZk9OfSbpw~",
+    "selfAccess": false,
+    "sessionId": null
 }

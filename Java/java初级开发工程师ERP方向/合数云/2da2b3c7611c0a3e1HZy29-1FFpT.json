@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6qIyd0nZQTJo4-k16C7lmbDZ4XnIiQzODw7vRR_YNiLL87PNipPHKJ0vOYO4wYmxjznNk63z8jbrXLz2i-msbm94m2Md2ecGWJT63cQBKaEIWeOnpE4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2da2b3c7611c0a3e1HZy29-1FFpT",
-      "encryptUserId": "73e5c47001e6fc021HN62NS0FlY~",
-      "invalidStatus": false,
-      "jobName": "java初级开发工程师ERP方向",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n2、能独立进行开发程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n3、能在项目经理指导下处理和解决所负责的工作任务，保质保量完成工作目标；\n4、解决开发过程中的技术问题；\n5、编写系统开发文档；\n6、现有系统的优化和升级；\n7、对现有客户系统使用过程中的技术问题的维护及解决。\n8、\n\n任职要求：\n1、计算机相关专业专科及以上学历，有ERP行业软件开发经验优先，优秀应届生可以考虑；\n2、精通Java相关技术和框架，对相关技术标准有深刻的理解，对软件工程标准具有良好的把握 ，有ERP行业软件开发经验优先，\n3、掌握数据库设计和优化，掌握常用的数据库如PgSQL、MySql、Oracle等；\n4、有较好的分析问题和解决问题的能力，有较好的抗压能力；\n4、熟悉金蝶产品BOS开发；\n5、熟悉某种（或多种）业务领域信息系统的业务流程，如：集团财务管理、人力资源管理、 办公自动化、供应链、生产制造、房地产项目管理等。\n6、按照要求定期上报、汇报项目开发进度及相关情况，编制、填写各种报表报告；",
-      "encryptAddressId": "ec211a0464e3d7150nR_2d20E1M~",
-      "address": "重庆渝北区财富中心·财富汇A274",
-      "longitude": 106.510455,
-      "latitude": 29.610981,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd17e6f217b3e673c60bdada9397e488",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a34ec0df77353638458c221a8c630ed",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "范先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210712/48904e21ff807ad0214a8b50654c49690ed31f8f4af32894e4cab6733c4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "合数云",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c0d095f5225cb1291XR529W4FFU~",
-      "brandName": "合数云",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [
-        "带薪年假",
-        "绩效奖金",
-        "年终奖"
-      ],
-      "activeTime": 1717650769000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "合数云",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "合数云",
+        "certificated": true,
+        "large": null,
+        "name": "范先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210712/48904e21ff807ad0214a8b50654c49690ed31f8f4af32894e4cab6733c4_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1717650769000,
+        "brandName": "合数云",
+        "customerBrandName": "合数云",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "c0d095f5225cb1291XR529W4FFU~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [
+            "带薪年假",
+            "绩效奖金",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆渝北区财富中心·财富汇A274",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ec211a0464e3d7150nR_2d20E1M~",
+        "encryptId": "2da2b3c7611c0a3e1HZy29-1FFpT",
+        "encryptUserId": "73e5c47001e6fc021HN62NS0FlY~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "java初级开发工程师ERP方向",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.610981,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.510455,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a34ec0df77353638458c221a8c630ed",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n2、能独立进行开发程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n3、能在项目经理指导下处理和解决所负责的工作任务，保质保量完成工作目标；\n4、解决开发过程中的技术问题；\n5、编写系统开发文档；\n6、现有系统的优化和升级；\n7、对现有客户系统使用过程中的技术问题的维护及解决。\n8、\n\n任职要求：\n1、计算机相关专业专科及以上学历，有ERP行业软件开发经验优先，优秀应届生可以考虑；\n2、精通Java相关技术和框架，对相关技术标准有深刻的理解，对软件工程标准具有良好的把握 ，有ERP行业软件开发经验优先，\n3、掌握数据库设计和优化，掌握常用的数据库如PgSQL、MySql、Oracle等；\n4、有较好的分析问题和解决问题的能力，有较好的抗压能力；\n4、熟悉金蝶产品BOS开发；\n5、熟悉某种（或多种）业务领域信息系统的业务流程，如：集团财务管理、人力资源管理、 办公自动化、供应链、生产制造、房地产项目管理等。\n6、按照要求定期上报、汇报项目开发进度及相关情况，编制、填写各种报表报告；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K·13薪",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd17e6f217b3e673c60bdada9397e488"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6qIyd0nZQTJo4-k16C7lmbDZ4XnIiQzODw7vRR_YNiLL87PNipPHKJ0vOYO4wYmxjznNk63z8jbrXLz2i-msbm94m2Md2ecGWJT63cQBKaEIWeOnpE4~",
+    "selfAccess": false,
+    "sessionId": null
 }

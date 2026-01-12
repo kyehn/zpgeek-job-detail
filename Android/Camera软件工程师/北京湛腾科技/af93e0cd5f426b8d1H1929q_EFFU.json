@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bSvGDcMcm85zX-w1GZRemMg-AY1hMKFZ8u5eO8onFLaEk-M_l8pCAEodox0oGuefa0WDS7FZo3ccHay6fJn8G8fOGWhhTa79gjEGDADp8U3HJnXnRWBM_UYi5PujOJ1eS1YwJdVRwXQn",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "af93e0cd5f426b8d1H1929q_EFFU",
-      "encryptUserId": "86bd018b31d5fd080XR-3N66GFdQ",
-      "invalidStatus": false,
-      "jobName": "Camera软件工程师",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1. 负责机器人产品Camera的bringup工作；\n2. 负责机器人高性能Camera底层框架开发设计工作；\n3. 负责 Camera问题的定位和解决；\n4. 负责团队分配的其它任务；\n任职要求\n1. 本科以上学历，计算机、电子或自动化等相关专业，有Camera开发经验；\n2. 熟悉Camera底层驱动开发，有丰富的bringup经验；\n3. 熟悉Camera应用层开发，拥有Camera HAL层的设计开发经验；\n4. 了解Camera ISP的常用参数和基本原理，了解V4L2框架；\n5.  对工作积极热情，有较强的责任心。",
-      "encryptAddressId": "b7c80102f710271c1nB829-5E1JZxYi_Uv6Z",
-      "address": "北京通州区小米汽车工厂1",
-      "longitude": 116.540139,
-      "latitude": 39.72299,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231016/48ba41acc9cef1bfac101b11ad767929d6d2b5a639f0748b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231016/48ba41acc9cef1bf12ec640344530d9487fbe128a4701b3d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "bringup"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "武女士",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240407/607f1f3d68754fd04b5b7fb5add94460e3063bd27155835420b9af733129826b329e1428cc70abe_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "北京湛腾科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "830973d7d345e15a1nRy2tu4",
-      "brandName": "北京湛腾科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "湛腾科技作为全方位IT服务及行业解决方案提供商，拥有全球运营能力。除北京总部外，公司已在南京、山东、广州、西安、重庆等及台湾建立了区域分中心。\n湛腾长期与华为、三星、苹果、小米、vivo、oppo、联想、8848、瑞士银行、中国人民银行、恒生电子等行业领先者进行战略合作。在长期的专业经验积累及自我价值提升中，湛腾不仅得到客户的嘉赞，同时也得到了行业及社会的认可，已获得的荣誉及资质有：CMMI3认证、国家级高新技术企业称号等。\n过去的6年中，除原有业务外公司自主app产品（蔚来地图、蔚来一起学）也已上线且全国推广势头强劲。在未来，湛腾将继续秉承 “专注服务赢在细节” 的理念，致力于成为行业翘楚，为员工提供广阔的发展平台,为行业发展及社会创造价值。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1730886040508,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京湛腾科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京湛腾科技",
+        "certificated": true,
+        "large": null,
+        "name": "武女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240407/607f1f3d68754fd04b5b7fb5add94460e3063bd27155835420b9af733129826b329e1428cc70abe_b.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1730886040508,
+        "brandName": "北京湛腾科技",
+        "customerBrandName": "北京湛腾科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "830973d7d345e15a1nRy2tu4",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "湛腾科技作为全方位IT服务及行业解决方案提供商，拥有全球运营能力。除北京总部外，公司已在南京、山东、广州、西安、重庆等及台湾建立了区域分中心。\n湛腾长期与华为、三星、苹果、小米、vivo、oppo、联想、8848、瑞士银行、中国人民银行、恒生电子等行业领先者进行战略合作。在长期的专业经验积累及自我价值提升中，湛腾不仅得到客户的嘉赞，同时也得到了行业及社会的认可，已获得的荣誉及资质有：CMMI3认证、国家级高新技术企业称号等。\n过去的6年中，除原有业务外公司自主app产品（蔚来地图、蔚来一起学）也已上线且全国推广势头强劲。在未来，湛腾将继续秉承 “专注服务赢在细节” 的理念，致力于成为行业翘楚，为员工提供广阔的发展平台,为行业发展及社会创造价值。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京通州区小米汽车工厂1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b7c80102f710271c1nB829-5E1JZxYi_Uv6Z",
+        "encryptId": "af93e0cd5f426b8d1H1929q_EFFU",
+        "encryptUserId": "86bd018b31d5fd080XR-3N66GFdQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Camera软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.72299,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.540139,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231016/48ba41acc9cef1bf12ec640344530d9487fbe128a4701b3d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "工作内容\n1. 负责机器人产品Camera的bringup工作；\n2. 负责机器人高性能Camera底层框架开发设计工作；\n3. 负责 Camera问题的定位和解决；\n4. 负责团队分配的其它任务；\n任职要求\n1. 本科以上学历，计算机、电子或自动化等相关专业，有Camera开发经验；\n2. 熟悉Camera底层驱动开发，有丰富的bringup经验；\n3. 熟悉Camera应用层开发，拥有Camera HAL层的设计开发经验；\n4. 了解Camera ISP的常用参数和基本原理，了解V4L2框架；\n5.  对工作积极热情，有较强的责任心。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "bringup"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231016/48ba41acc9cef1bfac101b11ad767929d6d2b5a639f0748b6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bSvGDcMcm85zX-w1GZRemMg-AY1hMKFZ8u5eO8onFLaEk-M_l8pCAEodox0oGuefa0WDS7FZo3ccHay6fJn8G8fOGWhhTa79gjEGDADp8U3HJnXnRWBM_UYi5PujOJ1eS1YwJdVRwXQn",
+    "selfAccess": false,
+    "sessionId": null
 }

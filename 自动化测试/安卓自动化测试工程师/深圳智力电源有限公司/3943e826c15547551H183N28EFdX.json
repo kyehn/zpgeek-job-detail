@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zkZ6kvnmqBI4a-O1Ssp9GeLrNgGpEXBr_lpuC_OdovMsLS0ycm8OJ-REIVZLaw_S0u6lBlGZMZyTBP0ZWjQzhvUHmD9cWcNeo9sKLD0t74NFKUEdYJMUuSkxkJwyOGfxr27o9wE68jt8iA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3943e826c15547551H183N28EFdX",
-      "encryptUserId": "bc9bcef04308051133Z939m6FFA~",
-      "invalidStatus": false,
-      "jobName": "安卓自动化测试工程师",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、负责Android/Linux自动化测试；\n2、负责文档梳理。\n岗位要求：\n1、大专以上学历，1年及以上功能和app自动化测试经验；\n3、熟练掌握python语言；\n4、熟练掌握Android功能，安全性能等测试方法；\n5、熟练使用测试框架uiautomator，appium；\n6、具备较强的学习能力以及积极主动的工作态度\n7.有车机自动化测试经验优先",
-      "encryptAddressId": "103d858729b003821nB_3d-_FFFQyoq_Ufmb",
-      "address": "武汉汉阳区华中智谷体验中心F3栋",
-      "longitude": 114.199062,
-      "latitude": 30.509238,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf7cd5548e7e932f4315da6eaefdab25956bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4ae0d9e35a1502580f2ee89e857eb51c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "appium",
-        "uiautomator",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "彭女士",
-      "title": "招聘专家",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241022/607f1f3d68754fd0e4f0f70c793974ad049f2c7527c15881bde50920fff7fa855719524de50e72f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "深圳智力电源有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "32caeca2077c62cb1Xd709m1FFE~",
-      "brandName": "深圳智力电源有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730910191021,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳智力电源有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳智力电源有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "彭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241022/607f1f3d68754fd0e4f0f70c793974ad049f2c7527c15881bde50920fff7fa855719524de50e72f_b.jpg",
+        "title": "招聘专家"
+    },
+    "brandComInfo": {
+        "activeTime": 1730910191021,
+        "brandName": "深圳智力电源有限公司",
+        "customerBrandName": "深圳智力电源有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "32caeca2077c62cb1Xd709m1FFE~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉汉阳区华中智谷体验中心F3栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "103d858729b003821nB_3d-_FFFQyoq_Ufmb",
+        "encryptId": "3943e826c15547551H183N28EFdX",
+        "encryptUserId": "bc9bcef04308051133Z939m6FFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "安卓自动化测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.509238,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.199062,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4ae0d9e35a1502580f2ee89e857eb51c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "工作职责：\n1、负责Android/Linux自动化测试；\n2、负责文档梳理。\n岗位要求：\n1、大专以上学历，1年及以上功能和app自动化测试经验；\n3、熟练掌握python语言；\n4、熟练掌握Android功能，安全性能等测试方法；\n5、熟练使用测试框架uiautomator，appium；\n6、具备较强的学习能力以及积极主动的工作态度\n7.有车机自动化测试经验优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "自动化测试经验",
+            "appium",
+            "uiautomator",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf7cd5548e7e932f4315da6eaefdab25956bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zkZ6kvnmqBI4a-O1Ssp9GeLrNgGpEXBr_lpuC_OdovMsLS0ycm8OJ-REIVZLaw_S0u6lBlGZMZyTBP0ZWjQzhvUHmD9cWcNeo9sKLD0t74NFKUEdYJMUuSkxkJwyOGfxr27o9wE68jt8iA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

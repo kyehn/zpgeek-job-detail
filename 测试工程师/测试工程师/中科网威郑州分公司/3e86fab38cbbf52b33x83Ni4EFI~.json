@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8S-SRUuLqPWN_-P1lqn5OU0d1O5CgjChtVPJKryKnboQo9BIUrN4hMNMynNcExSKbgdbfcV1R22J_UDkg3KKl_oR8IgeAX5gPJFjQTDFM0R57azt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3e86fab38cbbf52b33x83Ni4EFI~",
-      "encryptUserId": "f0a3a90d8d3d246d1X172ty9FVY~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101180100,
-      "locationName": "郑州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "\"1.计算机科学、电子信息、通信工程或相关专业本科及以上学历；\n2.2年以上网络安全产品测试工作经验；\n3.熟悉防火墙、入侵防御、入侵检测等网络安全产品；\n4.熟悉TCP/IP协议；熟悉HTTP、HTTPS、FTP、SMTP、POP3、IMAP、DNS等上层应用协议，并能够熟练搭建相应服务器环境、对服务进行配置等。\n5.至少熟练使用BPS、Avalanche、IXIAload、Testcenter其中一种测试仪软件；会使用用发包工具进行流量构造。\n6.对软硬件结构有一定的了解，具有平台测试经验者优先考虑；\n7.良好的团队合作精神、吃苦耐劳精神。\"",
-      "encryptAddressId": "89375a53136032191HZ-3tm_GFs~",
-      "address": "郑州中原区郑州高新技术开发区",
-      "longitude": 113.566962,
-      "latitude": 34.811906,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/208ec829081175e3582d311be0c71f77",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46ec99223ddc9fa08a4db56422d8fb78",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "乔女士",
-      "title": "行政人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中科网威郑州分公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "52c6355bbe05580e3nB_2t25EQ~~",
-      "brandName": "中科网威郑州分公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722140667325,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中科网威郑州分公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中科网威郑州分公司",
+        "certificated": true,
+        "large": null,
+        "name": "乔女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "行政人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1722140667325,
+        "brandName": "中科网威郑州分公司",
+        "customerBrandName": "中科网威郑州分公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "52c6355bbe05580e3nB_2t25EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "郑州中原区郑州高新技术开发区",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "89375a53136032191HZ-3tm_GFs~",
+        "encryptId": "3e86fab38cbbf52b33x83Ni4EFI~",
+        "encryptUserId": "f0a3a90d8d3d246d1X172ty9FVY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.811906,
+        "location": 101180100,
+        "locationName": "郑州",
+        "longitude": 113.566962,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46ec99223ddc9fa08a4db56422d8fb78",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "\"1.计算机科学、电子信息、通信工程或相关专业本科及以上学历；\n2.2年以上网络安全产品测试工作经验；\n3.熟悉防火墙、入侵防御、入侵检测等网络安全产品；\n4.熟悉TCP/IP协议；熟悉HTTP、HTTPS、FTP、SMTP、POP3、IMAP、DNS等上层应用协议，并能够熟练搭建相应服务器环境、对服务进行配置等。\n5.至少熟练使用BPS、Avalanche、IXIAload、Testcenter其中一种测试仪软件；会使用用发包工具进行流量构造。\n6.对软硬件结构有一定的了解，具有平台测试经验者优先考虑；\n7.良好的团队合作精神、吃苦耐劳精神。\"",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K·13薪",
+        "showSkills": [
+            "测试工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/208ec829081175e3582d311be0c71f77"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8S-SRUuLqPWN_-P1lqn5OU0d1O5CgjChtVPJKryKnboQo9BIUrN4hMNMynNcExSKbgdbfcV1R22J_UDkg3KKl_oR8IgeAX5gPJFjQTDFM0R57azt",
+    "selfAccess": false,
+    "sessionId": null
 }

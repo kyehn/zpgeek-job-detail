@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_fbhipJo6T0KM-E1aT7gEgMkZRCp4A2ZVS7WWk6hVeZUBuOyrHhxlSyj85Q7F2Zxnx9GOQm9M3E3OMHZIiHdICiBIZ46YS-MntCWjmWHgG8r_NUUVFWuMiE-bp0nTd_tD9DprDaQjr2zhjQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fca98dafd2c6751d1XF73tS_FFtQ",
-      "encryptUserId": "444ae6f4c3d244780nJ-3t60FlRU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101181200,
-      "locationName": "鹤壁",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、  熟悉JAVA B/S系统开发。\n2、  熟悉springMVC、Springboot、Springcloud、Spring、MyBaits框架\n3、  熟悉vue前端框架\n4、  熟悉数据库SQL语句及redis应用\n5、  开发过JAVA项目优先考虑\n工作内容：\n1.   协助项目需求调研和项目规划\n2.   系统开发、安装、调试、培训\n3.   编写相关项目文档",
-      "encryptAddressId": "41d00974bd0213980HZy2di4FFI~",
-      "address": "鹤壁淇滨区鹤壁·商会大厦101",
-      "longitude": 114.270571,
-      "latitude": 35.703526,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da71510674a06f170a7c9dd4931e6425",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/52c7799797a326c90fa45e5b2507fa33",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "Java",
-        "Java开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "高级技术经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221018/607f1f3d68754fd03032bc564cc2150ee4625557448d6178952bf75020c65c018fc0105d723_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "鹤壁市淇滨区数字...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7f3cca7c5486f2ed1Xd_3d26EVs~",
-      "brandName": "鹤壁市淇滨区数字...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "公司成立于2020年\n主要经营软件开发",
-      "labels": [
-        "节日福利",
-        "员工旅游",
-        "底薪加提成",
-        "保底工资",
-        "意外险"
-      ],
-      "activeTime": 1725467823189,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鹤壁市淇滨区数字...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鹤壁市淇滨区数字...",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221018/607f1f3d68754fd03032bc564cc2150ee4625557448d6178952bf75020c65c018fc0105d723_b.jpg",
+        "title": "高级技术经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725467823189,
+        "brandName": "鹤壁市淇滨区数字...",
+        "customerBrandName": "鹤壁市淇滨区数字...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7f3cca7c5486f2ed1Xd_3d26EVs~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "公司成立于2020年\n主要经营软件开发",
+        "labels": [
+            "节日福利",
+            "员工旅游",
+            "底薪加提成",
+            "保底工资",
+            "意外险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "鹤壁淇滨区鹤壁·商会大厦101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "41d00974bd0213980HZy2di4FFI~",
+        "encryptId": "fca98dafd2c6751d1XF73tS_FFtQ",
+        "encryptUserId": "444ae6f4c3d244780nJ-3t60FlRU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.703526,
+        "location": 101181200,
+        "locationName": "鹤壁",
+        "longitude": 114.270571,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/52c7799797a326c90fa45e5b2507fa33",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、  熟悉JAVA B/S系统开发。\n2、  熟悉springMVC、Springboot、Springcloud、Spring、MyBaits框架\n3、  熟悉vue前端框架\n4、  熟悉数据库SQL语句及redis应用\n5、  开发过JAVA项目优先考虑\n工作内容：\n1.   协助项目需求调研和项目规划\n2.   系统开发、安装、调试、培训\n3.   编写相关项目文档",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "后端工程师",
+            "Java",
+            "Java开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da71510674a06f170a7c9dd4931e6425"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_fbhipJo6T0KM-E1aT7gEgMkZRCp4A2ZVS7WWk6hVeZUBuOyrHhxlSyj85Q7F2Zxnx9GOQm9M3E3OMHZIiHdICiBIZ46YS-MntCWjmWHgG8r_NUUVFWuMiE-bp0nTd_tD9DprDaQjr2zhjQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RSNHCVWet9KHT-T1_SJyXSxzL0C05eNGVGT8ofVBrNzv8g3bqmcLUz0R-WCMxjwW6ks9Rhe-l-xEznfgnDd9M0KrGc9zAxwWv08YjiMRGFIP5loyRA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ba92e9385592f1283nJ_2di7F1c~",
-      "encryptUserId": "031057a04c7a27041nZ50928GFRR",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司相关产品JAVA后台系统的设计与开发",
-      "encryptAddressId": "3cdd241bf82977531HB52d6_E1s~",
-      "address": "苏州张家港市骏马置地广场2501",
-      "longitude": 120.512701,
-      "latitude": 31.867882,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00d517a1091bdc62a1198a88e09a72f9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d6759bbd6ffba22beecc5b068e94185",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "镁氪智能制造",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "080ecd707c2bd5791HB42N2_EQ~~",
-      "brandName": "镁氪智能制造",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "全勤奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "交通补助"
-      ],
-      "activeTime": 1725361442168,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "镁氪智能制造",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "镁氪智能制造",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725361442168,
+        "brandName": "镁氪智能制造",
+        "customerBrandName": "镁氪智能制造",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "080ecd707c2bd5791HB42N2_EQ~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "全勤奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州张家港市骏马置地广场2501",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3cdd241bf82977531HB52d6_E1s~",
+        "encryptId": "ba92e9385592f1283nJ_2di7F1c~",
+        "encryptUserId": "031057a04c7a27041nZ50928GFRR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.867882,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.512701,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d6759bbd6ffba22beecc5b068e94185",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "负责公司相关产品JAVA后台系统的设计与开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "Java",
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00d517a1091bdc62a1198a88e09a72f9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RSNHCVWet9KHT-T1_SJyXSxzL0C05eNGVGT8ofVBrNzv8g3bqmcLUz0R-WCMxjwW6ks9Rhe-l-xEznfgnDd9M0KrGc9zAxwWv08YjiMRGFIP5loyRA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

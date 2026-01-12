@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rcUY3aoW2P6JQ-s1Eg2qI_lEgJrKctOvOR0kOV14eunNfu5bGHvp_orLQFyx196SzZmbVZwWmjtJxyjcDo0oUsYRZih2okTpQdF8rAk1qwQcM8MRtvM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "54cafb493340798c1nR929i8FltV",
-      "encryptUserId": "024d77434588350833Z_2tW9EVE~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.软件功能测试，app测试，web测试\n2.有软件测试经验\n3.计算机相关专业",
-      "encryptAddressId": "84e3f784df4332f31HJ92d-_GFM~",
-      "address": "青岛城阳区青岛高新技术开发区1",
-      "longitude": 120.317547,
-      "latitude": 36.299077,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/96595b86e879b8016c6ef45d4d533576",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a06d8a2efcb248b892c4f275d21ab86c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试",
-        "软件测试",
-        "功能测试",
-        "web端测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "人资",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200306/b6f47f254b1d0042c25aed90efca612cbf745429b3df2202af0f3c4de19_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "大至科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fb97057d809733de1nV93dm7ElQ~",
-      "brandName": "大至科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723034340641,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大至科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "大至科技",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200306/b6f47f254b1d0042c25aed90efca612cbf745429b3df2202af0f3c4de19_b.jpg",
+        "title": "人资"
+    },
+    "brandComInfo": {
+        "activeTime": 1723034340641,
+        "brandName": "大至科技",
+        "customerBrandName": "大至科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fb97057d809733de1nV93dm7ElQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛城阳区青岛高新技术开发区1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "84e3f784df4332f31HJ92d-_GFM~",
+        "encryptId": "54cafb493340798c1nR929i8FltV",
+        "encryptUserId": "024d77434588350833Z_2tW9EVE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.299077,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.317547,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a06d8a2efcb248b892c4f275d21ab86c",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.软件功能测试，app测试，web测试\n2.有软件测试经验\n3.计算机相关专业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "测试",
+            "软件测试",
+            "功能测试",
+            "web端测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/96595b86e879b8016c6ef45d4d533576"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rcUY3aoW2P6JQ-s1Eg2qI_lEgJrKctOvOR0kOV14eunNfu5bGHvp_orLQFyx196SzZmbVZwWmjtJxyjcDo0oUsYRZih2okTpQdF8rAk1qwQcM8MRtvM~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yTC00LIgjub6y-H172AGbt2tpdd3ESPlXQns0qQiu9ZTqlHc2xHG-0MmQrZGSEwDN4CJW1zBwTQjxaBikO2OgiutX6gIO_hRY4RpeaPPba4BYcK1j-8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cb95f1db149b74e51XR42tW4EVFU",
-      "encryptUserId": "2ad0e485391332c00X1639u1GFo~",
-      "invalidStatus": false,
-      "jobName": "机器视觉工程师",
-      "position": 101306,
-      "positionName": "图像算法",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1，进行视觉项目的开发与维护；\n2，富有责任心，有担当，\n3，公司目前处于创业上升期，因业务发展急需视觉工程师，大专学历以上即可，有经验者优先",
-      "encryptAddressId": "6bd7d0867907cd8b03Ny29S7GFU~",
-      "address": "南京江宁区芯动·创客邦213室",
-      "longitude": 118.823605,
-      "latitude": 31.912242,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ba79a4f2a82840f9aebce816c1fd910",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0173e1078ae64f766ebe465570ec66a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "视觉图像算法",
-        "图像处理",
-        "OpenCV",
-        "HALCON"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "钱先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190709/86896f8f25b4a0d7620317947cf64731963de51e523444ad878994cced1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "汇思达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cdf2d222aba476151XR63t28E1Y~",
-      "brandName": "汇思达",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727231450169,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "汇思达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "汇思达",
+        "certificated": true,
+        "large": null,
+        "name": "钱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190709/86896f8f25b4a0d7620317947cf64731963de51e523444ad878994cced1_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727231450169,
+        "brandName": "汇思达",
+        "customerBrandName": "汇思达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cdf2d222aba476151XR63t28E1Y~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区芯动·创客邦213室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6bd7d0867907cd8b03Ny29S7GFU~",
+        "encryptId": "cb95f1db149b74e51XR42tW4EVFU",
+        "encryptUserId": "2ad0e485391332c00X1639u1GFo~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "机器视觉工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.912242,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.823605,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0173e1078ae64f766ebe465570ec66a",
+        "position": 101306,
+        "positionName": "图像算法",
+        "postDescription": "1，进行视觉项目的开发与维护；\n2，富有责任心，有担当，\n3，公司目前处于创业上升期，因业务发展急需视觉工程师，大专学历以上即可，有经验者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "C#",
+            "视觉图像算法",
+            "图像处理",
+            "OpenCV",
+            "HALCON"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ba79a4f2a82840f9aebce816c1fd910"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yTC00LIgjub6y-H172AGbt2tpdd3ESPlXQns0qQiu9ZTqlHc2xHG-0MmQrZGSEwDN4CJW1zBwTQjxaBikO2OgiutX6gIO_hRY4RpeaPPba4BYcK1j-8~",
+    "selfAccess": false,
+    "sessionId": null
 }

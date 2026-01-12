@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "E7XDCBjR5QlJh-11pr2W5uBAvb-v4d3a8Gev_XtTVnko28HOEtHSvRJTK34qS7LYERRQQHxC9GWC4tpvu9dpEWmLLk_NnDosFmflfZHBtA08lBCWb5h5VYtxYnkLhz5nckiWJCEouzyR3RGle6dlXQcvvjna",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7e3d47231a233ce503V42N25GFZX",
-      "encryptUserId": "0a96ebd36dd5a5b00nN83NW4EVQ~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、学信网可查大专及以上学历，1-3年以上Java工作经验；\n2、java基础扎实，熟悉Spring，SpringCloud，MyBatis等；",
-      "encryptAddressId": "56f4d9d3ec2c288e1nN709y8EFFSxYi7VvqZ",
-      "address": "杭州拱墅区杭州拱墅区汇金国际大厦",
-      "longitude": 120.173209,
-      "latitude": 30.273631,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bff79496975dbe2411868e6f60917f0cbf6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bffcf1090d1575d90a1c9ff0a7e8f651606bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241225/48ba41acc9cef1bf64022a813f89046c8f957d757c7170e26bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241225/48ba41acc9cef1bf7add7538536f8654bc28efb79aba9d916bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Redis",
-        "Spring",
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "谢女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd05d97a3ec345c9b5bb6c0808e66c9abde66dacbe4ad59f3ca1b0285b884e0663_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "印象网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "029b952b52776c951nB_0tm4FFY~",
-      "brandName": "印象网络",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210308/0802996a83379ded78738c8956c4f17297cd2ce5e62dd47e3693559db397672e.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "深圳市印象网络有限公司成立于2021年03月01日，注册地位于深圳市福田区沙头街道天安社区泰然四路29号天安创新科技广场一期A座801，法定代表人为胡兴。经营范围包括一般经营项目是：计算机软硬件的研发、销售、技术服务、上门维护；平面设计；从事广告业务；计算机系统技术服务；人工智能软硬件、手机软件、互联网设备的研发；信息化软件、局域网技术的技术维护及技术服务；桌面操作系统、软件的技术维护；企业管理咨询、信息咨询。（法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营），许可经营项目是：互联网信息服务",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1737113397708,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "印象网络",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "印象网络",
+        "certificated": true,
+        "large": null,
+        "name": "谢女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd05d97a3ec345c9b5bb6c0808e66c9abde66dacbe4ad59f3ca1b0285b884e0663_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1737113397708,
+        "brandName": "印象网络",
+        "customerBrandName": "印象网络",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "029b952b52776c951nB_0tm4FFY~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "深圳市印象网络有限公司成立于2021年03月01日，注册地位于深圳市福田区沙头街道天安社区泰然四路29号天安创新科技广场一期A座801，法定代表人为胡兴。经营范围包括一般经营项目是：计算机软硬件的研发、销售、技术服务、上门维护；平面设计；从事广告业务；计算机系统技术服务；人工智能软硬件、手机软件、互联网设备的研发；信息化软件、局域网技术的技术维护及技术服务；桌面操作系统、软件的技术维护；企业管理咨询、信息咨询。（法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营），许可经营项目是：互联网信息服务",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210308/0802996a83379ded78738c8956c4f17297cd2ce5e62dd47e3693559db397672e.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州拱墅区杭州拱墅区汇金国际大厦",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241225/48ba41acc9cef1bf7add7538536f8654bc28efb79aba9d916bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241225/48ba41acc9cef1bf64022a813f89046c8f957d757c7170e26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "56f4d9d3ec2c288e1nN709y8EFFSxYi7VvqZ",
+        "encryptId": "7e3d47231a233ce503V42N25GFZX",
+        "encryptUserId": "0a96ebd36dd5a5b00nN83NW4EVQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.273631,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.173209,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bffcf1090d1575d90a1c9ff0a7e8f651606bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、学信网可查大专及以上学历，1-3年以上Java工作经验；\n2、java基础扎实，熟悉Spring，SpringCloud，MyBatis等；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Redis",
+            "Spring",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bff79496975dbe2411868e6f60917f0cbf6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "E7XDCBjR5QlJh-11pr2W5uBAvb-v4d3a8Gev_XtTVnko28HOEtHSvRJTK34qS7LYERRQQHxC9GWC4tpvu9dpEWmLLk_NnDosFmflfZHBtA08lBCWb5h5VYtxYnkLhz5nckiWJCEouzyR3RGle6dlXQcvvjna",
+    "selfAccess": false,
+    "sessionId": null
 }

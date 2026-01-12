@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ypzJyG8flURIk-j1gp4IZDA2GDQVW-5NyoZs-3Q0NMz-4FgD4waDQTWAX-SBLwj91X2X1gATcXJR2hmFrhOrs1XfldLJ5DNjdpSIL0Ht-mgTYqOB3A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d90f23b9c4a0ca241H1z0t6_F1tT",
-      "encryptUserId": "308b50ccaf8f39e033V70tm7GVc~",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责软件产品的测试工作，确保软件质量符合标准。\n2、参与测试用例的设计与执行，对发现的问题进行记录和跟踪。\n3、与开发团队紧密合作，确保功能需求得到正确实现。\n\n任职要求\n1、具备扎实的软件测试理论知识，能够独立进行测试任务。\n2、熟悉测试工具和框架，能够高效地编写测试代码。\n3、具有良好的问题分析和解决能力，能够快速定位并处理测试中的问题。",
-      "encryptAddressId": "aee9343b6d1b07721nBz0tS8FlNXxI-2UP2b",
-      "address": "长沙雨花区恒大金融广场运营管理中心3栋1116房",
-      "longitude": 113.000339,
-      "latitude": 28.111596,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240424/48ba41acc9cef1bfe05eda946b14a56cab547fc740303b4b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240424/48ba41acc9cef1bf3c9d8c0a8e50f2d3ace2b3bbb5ae3e476bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "渗透测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "客悠网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "41342f2fd2be9a200XF42dS7GQ~~",
-      "brandName": "客悠网络",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230123/7b5b554d84f9729cd9e18365f01a0946782f93f38d160a428223b7a9d66f7e6d329014903fd3187a.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "公安局工信局市场信息化服务工作",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1731758400226,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "客悠网络",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "客悠网络",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1731758400226,
+        "brandName": "客悠网络",
+        "customerBrandName": "客悠网络",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "41342f2fd2be9a200XF42dS7GQ~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "公安局工信局市场信息化服务工作",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230123/7b5b554d84f9729cd9e18365f01a0946782f93f38d160a428223b7a9d66f7e6d329014903fd3187a.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙雨花区恒大金融广场运营管理中心3栋1116房",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "aee9343b6d1b07721nBz0tS8FlNXxI-2UP2b",
+        "encryptId": "d90f23b9c4a0ca241H1z0t6_F1tT",
+        "encryptUserId": "308b50ccaf8f39e033V70tm7GVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.111596,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.000339,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240424/48ba41acc9cef1bf3c9d8c0a8e50f2d3ace2b3bbb5ae3e476bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "工作内容\n1、负责软件产品的测试工作，确保软件质量符合标准。\n2、参与测试用例的设计与执行，对发现的问题进行记录和跟踪。\n3、与开发团队紧密合作，确保功能需求得到正确实现。\n\n任职要求\n1、具备扎实的软件测试理论知识，能够独立进行测试任务。\n2、熟悉测试工具和框架，能够高效地编写测试代码。\n3、具有良好的问题分析和解决能力，能够快速定位并处理测试中的问题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K·13薪",
+        "showSkills": [
+            "性能测试",
+            "渗透测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240424/48ba41acc9cef1bfe05eda946b14a56cab547fc740303b4b6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ypzJyG8flURIk-j1gp4IZDA2GDQVW-5NyoZs-3Q0NMz-4FgD4waDQTWAX-SBLwj91X2X1gATcXJR2hmFrhOrs1XfldLJ5DNjdpSIL0Ht-mgTYqOB3A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

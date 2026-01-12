@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jQOAveLAkFMGH-n1xFCWIBN51XRFf-Sb1lk6wKJx8-5IuZj_psCmTTUxmjr6b43z2C3VNs5JPc6taenbG3S4R-LlpbcJmvN63XRut3pBTYejFdgc",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b473cfedf4fcca111nN-2d60GVY~",
-      "encryptUserId": "1e67d32fd43647991HBy3NS9FVs~",
-      "invalidStatus": false,
-      "jobName": "运维服务工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101260100,
-      "locationName": "贵阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责公司签约厂商和客户服务器与存储设备技术支持与维护；\r\n2、熟悉 windows /LINUX各服务器版本操作系统的安装、应用与维护 ，了解各种数据库及应用软件的服务器版的安装与日常维护；\r\n3、通过 MCSE或者CCNA的相关认证,接触与了解过各种品牌服务器，有服务器现场服务经验者优先；\r\n待遇：基本工资+餐补+绩效+福利+五险一金+双休+一年一次带薪旅游+年终奖。",
-      "encryptAddressId": "6a312776f86bde271nx609i0Eg~~",
-      "address": "贵阳云岩区时代广场(中华中路)8号31楼AB座",
-      "longitude": 106.712919,
-      "latitude": 26.579016,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7a36a06408f3e5816263ae667c29730",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78e0bd76a7c69a22b40ff434960c3f4e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT支持",
-        "系统运维",
-        "机房运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "兰女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180820/ecd3072f1b14b96e9425b12a406775921f0dd0ba1d3a574dfa6dc31b729_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "特维信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2f76549282c03d321nBz09q5Fw~~",
-      "brandName": "特维信",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724024518336,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "特维信",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "特维信",
+        "certificated": true,
+        "large": null,
+        "name": "兰女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180820/ecd3072f1b14b96e9425b12a406775921f0dd0ba1d3a574dfa6dc31b729_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1724024518336,
+        "brandName": "特维信",
+        "customerBrandName": "特维信",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2f76549282c03d321nBz09q5Fw~~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "贵阳云岩区时代广场(中华中路)8号31楼AB座",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6a312776f86bde271nx609i0Eg~~",
+        "encryptId": "b473cfedf4fcca111nN-2d60GVY~",
+        "encryptUserId": "1e67d32fd43647991HBy3NS9FVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维服务工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.579016,
+        "location": 101260100,
+        "locationName": "贵阳",
+        "longitude": 106.712919,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78e0bd76a7c69a22b40ff434960c3f4e",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责公司签约厂商和客户服务器与存储设备技术支持与维护；\r\n2、熟悉 windows /LINUX各服务器版本操作系统的安装、应用与维护 ，了解各种数据库及应用软件的服务器版的安装与日常维护；\r\n3、通过 MCSE或者CCNA的相关认证,接触与了解过各种品牌服务器，有服务器现场服务经验者优先；\r\n待遇：基本工资+餐补+绩效+福利+五险一金+双休+一年一次带薪旅游+年终奖。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "IT支持",
+            "系统运维",
+            "机房运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7a36a06408f3e5816263ae667c29730"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jQOAveLAkFMGH-n1xFCWIBN51XRFf-Sb1lk6wKJx8-5IuZj_psCmTTUxmjr6b43z2C3VNs5JPc6taenbG3S4R-LlpbcJmvN63XRut3pBTYejFdgc",
+    "selfAccess": false,
+    "sessionId": null
 }

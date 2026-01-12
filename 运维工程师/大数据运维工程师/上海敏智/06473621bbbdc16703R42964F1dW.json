@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "LUayroE4EW4Sk-U11FBjem6RKXf8FVZmipXmBjrYuBX8bPPM-cIUUidLsPxRWlUWd4jTgf0qkdO8SMGjfWxlL6jXuft3wmKpCn59mxjHPQPLzhhFMLvJKBVDjvdfGe3JujSk_bGLnKzYKsmo48PbwoABCT0sdkPwkADGk6HePU1xtgm0",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "06473621bbbdc16703R42964F1dW",
-      "encryptUserId": "0b71f4b51899473c0nR4392-GVU~",
-      "invalidStatus": false,
-      "jobName": "大数据运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责大数据平台的日常运维工作，确保系统稳定运行。\n2、参与大数据项目的实施与优化，提升系统性能。\n3、与团队合作，解决运维过程中遇到的技术问题。\n\n任职要求\n欢迎2024年应届毕业生投递\n\n1、python，MySQL，Linux基础扎实，具备良好的SQL知识。\n2、具有较强的团队协作精神和问题解决能力。\n3、对数据有一定敏感度。",
-      "encryptAddressId": "c9f1e901d62b4d6e1nF52NW6F1ZXwYS9UfuY",
-      "address": "上海浦东新区九洲中心B座203",
-      "longitude": 121.623311,
-      "latitude": 31.195158,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230417/48ba41acc9cef1bf909bc839d0fc02c516b8cd79d53f74ea6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5165ae3c4eb1b256bb8d7125d5b0a5fa6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Golang",
-        "MySQL/Oracle",
-        "Python/Shell"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241106/607f1f3d68754fd0cf33f1555df2b9962335ad6d64dedd43be7bbf66065d4b2abb29f0e5283af87_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "上海敏智",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cb25581dfb7bb6d133x92Nu9EQ~~",
-      "brandName": "上海敏智",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200624/172e592d8b25e36827ded65c1ed0da81a74fd6f7c6110044d0441af5de5063ad_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "上海敏智前身为上海潜智，一直致力于DevOps领域的产品研发，主推公司自身研发的“蓝云智能服务平台”。平台内置了CMDB、代码库管理、持续集成、持续部署、制品库、运维自动化中台！经过4年的研发和推广，已经初具规模！并已经在很多大型企业客户进行使用。例如：星巴克、南京银行、浦发银行、交通银行、中国银联、安吉星等。公司一直努力打造一种技术文化，大家能够共同成长、服务好客户是公司的第一遵旨！\n\n公司网址：www.shminzhi.cn",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1732612788125,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海敏智",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "上海敏智",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241106/607f1f3d68754fd0cf33f1555df2b9962335ad6d64dedd43be7bbf66065d4b2abb29f0e5283af87_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732612788125,
+        "brandName": "上海敏智",
+        "customerBrandName": "上海敏智",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "cb25581dfb7bb6d133x92Nu9EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "上海敏智前身为上海潜智，一直致力于DevOps领域的产品研发，主推公司自身研发的“蓝云智能服务平台”。平台内置了CMDB、代码库管理、持续集成、持续部署、制品库、运维自动化中台！经过4年的研发和推广，已经初具规模！并已经在很多大型企业客户进行使用。例如：星巴克、南京银行、浦发银行、交通银行、中国银联、安吉星等。公司一直努力打造一种技术文化，大家能够共同成长、服务好客户是公司的第一遵旨！\n\n公司网址：www.shminzhi.cn",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200624/172e592d8b25e36827ded65c1ed0da81a74fd6f7c6110044d0441af5de5063ad_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区九洲中心B座203",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c9f1e901d62b4d6e1nF52NW6F1ZXwYS9UfuY",
+        "encryptId": "06473621bbbdc16703R42964F1dW",
+        "encryptUserId": "0b71f4b51899473c0nR4392-GVU~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "大数据运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.195158,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.623311,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5165ae3c4eb1b256bb8d7125d5b0a5fa6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容\n1、负责大数据平台的日常运维工作，确保系统稳定运行。\n2、参与大数据项目的实施与优化，提升系统性能。\n3、与团队合作，解决运维过程中遇到的技术问题。\n\n任职要求\n欢迎2024年应届毕业生投递\n\n1、python，MySQL，Linux基础扎实，具备良好的SQL知识。\n2、具有较强的团队协作精神和问题解决能力。\n3、对数据有一定敏感度。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Golang",
+            "MySQL/Oracle",
+            "Python/Shell"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230417/48ba41acc9cef1bf909bc839d0fc02c516b8cd79d53f74ea6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "LUayroE4EW4Sk-U11FBjem6RKXf8FVZmipXmBjrYuBX8bPPM-cIUUidLsPxRWlUWd4jTgf0qkdO8SMGjfWxlL6jXuft3wmKpCn59mxjHPQPLzhhFMLvJKBVDjvdfGe3JujSk_bGLnKzYKsmo48PbwoABCT0sdkPwkADGk6HePU1xtgm0",
+    "selfAccess": false,
+    "sessionId": null
 }

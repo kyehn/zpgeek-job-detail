@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "L36z-W6o1cdFb-c1G1dhccnphBog9G4NmBjoBH9rIm3u3t-mGuIqHuQzTYb250fczBus3NnF1hVy5WXfi5wprzuGimaavwkMkZ-vTbNK7MTV9UIK7tk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f997c0a49de3aea71HR62dq1GFRR",
-      "encryptUserId": "7d64d48a854008f80nJ52di8EFtT",
-      "invalidStatus": false,
-      "jobName": "java网络开发工程师/全栈工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责开发和维护公司项目网络协议相关模块的开发工作；\n2.  熟悉socket或者串口编程，能够解决相关问题；\n3. 参与技术方案的制定和评估，为项目提供技术支持。\n\n任职要求：\n1. java基础和计算机网络基础支持扎实；\n2. 熟悉socket或者串口编程，有相关项目经验者优先；\n3. 具备良好的编程习惯，能够编写高质量的代码；\n4. 具备较强的学习能力和沟通能力，善于团队协作；\n5. 熟悉python者优先；\n6. 对前端有一定了解，熟悉uniapp者优先。\n\n福利待遇：\n1、 五天工作制，周末双休，国家法定节假日；\n2、 五险一金，福利补贴，年终奖金；\n3、 轻松和谐的工作环境，丰富的员工活动。",
-      "encryptAddressId": "fac608d933f591d50HZ42N65E1U~",
-      "address": "长沙岳麓区长沙中电软件园9栋A411",
-      "longitude": 112.883009,
-      "latitude": 28.228608,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9fd313fe2c16d795b9e1f60b95458c69",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08eac5e005d82d430cdd7ccb355d6fe4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "熟悉socket",
-        "串口编程",
-        "java基础"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221011/607f1f3d68754fd07af5c71d2e0300e811c66e2e87bbc0853a9562a4b7de575fbd779e39f43_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "云智迅联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b64b6630c8ff5ceb1XR82t64FQ~~",
-      "brandName": "云智迅联",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190104/68288048db25c8696e2cdc494492e66ccfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "湖南云智迅联科技发展有限公司专注于工业互联网核心技术的研发，是国家高新技术企业，国家工业互联网优秀解决方案供应商，是国家重点研发计划项目“网络智能制造”的承担者。\n拥有专利8项，软著27本，产品线主要有智能工业网关、云智MES、云智设备在线、云智组态在线、云智维保在线、服装/陶瓷行业供产销一站式管理平台等。\n公司员工30余人，90后居多，环境轻松和谐，注重栽培员工，提供良好的发展平台。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "节日福利",
-        "定期团建"
-      ],
-      "activeTime": 1719134874272,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云智迅联",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云智迅联",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221011/607f1f3d68754fd07af5c71d2e0300e811c66e2e87bbc0853a9562a4b7de575fbd779e39f43_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1719134874272,
+        "brandName": "云智迅联",
+        "customerBrandName": "云智迅联",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "b64b6630c8ff5ceb1XR82t64FQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "湖南云智迅联科技发展有限公司专注于工业互联网核心技术的研发，是国家高新技术企业，国家工业互联网优秀解决方案供应商，是国家重点研发计划项目“网络智能制造”的承担者。\n拥有专利8项，软著27本，产品线主要有智能工业网关、云智MES、云智设备在线、云智组态在线、云智维保在线、服装/陶瓷行业供产销一站式管理平台等。\n公司员工30余人，90后居多，环境轻松和谐，注重栽培员工，提供良好的发展平台。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "节日福利",
+            "定期团建"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190104/68288048db25c8696e2cdc494492e66ccfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区长沙中电软件园9栋A411",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "fac608d933f591d50HZ42N65E1U~",
+        "encryptId": "f997c0a49de3aea71HR62dq1GFRR",
+        "encryptUserId": "7d64d48a854008f80nJ52di8EFtT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java网络开发工程师/全栈工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.228608,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.883009,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08eac5e005d82d430cdd7ccb355d6fe4",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1. 负责开发和维护公司项目网络协议相关模块的开发工作；\n2.  熟悉socket或者串口编程，能够解决相关问题；\n3. 参与技术方案的制定和评估，为项目提供技术支持。\n\n任职要求：\n1. java基础和计算机网络基础支持扎实；\n2. 熟悉socket或者串口编程，有相关项目经验者优先；\n3. 具备良好的编程习惯，能够编写高质量的代码；\n4. 具备较强的学习能力和沟通能力，善于团队协作；\n5. 熟悉python者优先；\n6. 对前端有一定了解，熟悉uniapp者优先。\n\n福利待遇：\n1、 五天工作制，周末双休，国家法定节假日；\n2、 五险一金，福利补贴，年终奖金；\n3、 轻松和谐的工作环境，丰富的员工活动。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Python",
+            "熟悉socket",
+            "串口编程",
+            "java基础"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9fd313fe2c16d795b9e1f60b95458c69"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "L36z-W6o1cdFb-c1G1dhccnphBog9G4NmBjoBH9rIm3u3t-mGuIqHuQzTYb250fczBus3NnF1hVy5WXfi5wprzuGimaavwkMkZ-vTbNK7MTV9UIK7tk~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wFscaNx0iRtIs-t1HY9hYUWKspUNVr65En2ugjrLFRT23uGo53-YLj6CzXv4Gk-p--zkFBN0b1coSoI1dqMZIiFzMUYvjzwwXgda8rZi0VmpDgQcmbBn",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3796053c7e885d9a1XB709-4EFNT",
-      "encryptUserId": "4e06c0865f33cbd20nF_09-0GFNU",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101190800,
-      "locationName": "徐州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n\n1、负责公司新产品的底层软件设计，旧产品的优化改良；\n2、根据产品设计任务的总体需求，分解出底层软件需求，编写底层软件设计方案；\n3、根据公司评审后的总体方案，进行项目核心功能和模块的代码编写、单元测试；\n4、快速响应解决测试部门和客户发现的底层软件BUG；\n5、负责编制整机测试和环境测试软件方面的文件，并参与整机联调；\n6、负责编制底层软件需求分析、详细设计文档等。\n\n岗位要求：\n\n1、本科及以上学历，计算机、物联网、通信、电子、自动化控制及相关专业；\n2、精通C,C++编程；\n3、熟悉CAN/485/232/SPI等通信接口；\n4、具有良好的工作态度，较强的沟通、协作和学习能力，良好的团队合作精神；\n5、熟悉各种数据通信技术，了解以太网、无线通信方面的协议知识者优先；\n6、熟悉各种嵌入式操作系统者优先，如Linux、RTOS，VxWorks等；\n7、熟悉Keil、Vim编辑、熟悉串口调试工具、嵌入式系统仿真调试。",
-      "encryptAddressId": "9f2384a02b9cfea60Xx40t-7Els~",
-      "address": "徐州泉山区中国矿业大学国家大学科技园424",
-      "longitude": 117.201407,
-      "latitude": 34.225151,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75328aca265743f5a7258ec5767d25e3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7ecc4268b57cdebaffcd72925be6a07",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "C",
-        "通信相关专业",
-        "计算机相关专业",
-        "电气电气/自动化相关专业",
-        "熟悉CAN/485/232/SPI等通信"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "帝菲思矿山",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e878399c4d7040d91XZ_39W9Els~",
-      "brandName": "帝菲思矿山",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101203,
-      "industryName": "矿产/地质",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728577944048,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "帝菲思矿山",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "帝菲思矿山",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1728577944048,
+        "brandName": "帝菲思矿山",
+        "customerBrandName": "帝菲思矿山",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e878399c4d7040d91XZ_39W9Els~",
+        "focusBrand": false,
+        "industry": 101203,
+        "industryName": "矿产/地质",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "徐州泉山区中国矿业大学国家大学科技园424",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9f2384a02b9cfea60Xx40t-7Els~",
+        "encryptId": "3796053c7e885d9a1XB709-4EFNT",
+        "encryptUserId": "4e06c0865f33cbd20nF_09-0GFNU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.225151,
+        "location": 101190800,
+        "locationName": "徐州",
+        "longitude": 117.201407,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7ecc4268b57cdebaffcd72925be6a07",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "岗位职责：\n\n1、负责公司新产品的底层软件设计，旧产品的优化改良；\n2、根据产品设计任务的总体需求，分解出底层软件需求，编写底层软件设计方案；\n3、根据公司评审后的总体方案，进行项目核心功能和模块的代码编写、单元测试；\n4、快速响应解决测试部门和客户发现的底层软件BUG；\n5、负责编制整机测试和环境测试软件方面的文件，并参与整机联调；\n6、负责编制底层软件需求分析、详细设计文档等。\n\n岗位要求：\n\n1、本科及以上学历，计算机、物联网、通信、电子、自动化控制及相关专业；\n2、精通C,C++编程；\n3、熟悉CAN/485/232/SPI等通信接口；\n4、具有良好的工作态度，较强的沟通、协作和学习能力，良好的团队合作精神；\n5、熟悉各种数据通信技术，了解以太网、无线通信方面的协议知识者优先；\n6、熟悉各种嵌入式操作系统者优先，如Linux、RTOS，VxWorks等；\n7、熟悉Keil、Vim编辑、熟悉串口调试工具、嵌入式系统仿真调试。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "C++",
+            "C",
+            "通信相关专业",
+            "计算机相关专业",
+            "电气电气/自动化相关专业",
+            "熟悉CAN/485/232/SPI等通信"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75328aca265743f5a7258ec5767d25e3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wFscaNx0iRtIs-t1HY9hYUWKspUNVr65En2ugjrLFRT23uGo53-YLj6CzXv4Gk-p--zkFBN0b1coSoI1dqMZIiFzMUYvjzwwXgda8rZi0VmpDgQcmbBn",
+    "selfAccess": false,
+    "sessionId": null
 }

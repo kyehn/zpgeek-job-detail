@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iAuOnSYiMRJUe-r1MXmu1K7DFdkAhqml1zTu8d9ctL8nHlm4ughc-wAdJrinjZdYDqDHK7dz4NrKiV3yoRL8TH4PtnmxaWrvIN8sAocn4ysL8MmAH74uBv5wcOGZdMDw8TEJxruFU5bA",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "11d134502bce1a081H1939-9EFZQ",
-      "encryptUserId": "c1082b14d42717c80Xd52N24ElZQ",
-      "invalidStatus": false,
-      "jobName": "画质测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1. 手机前置相机拍照+录像素材采集测试内容，关注拍摄过程中bug问题\n2. 室内外场景图像采集，户外、夜景等\n3. 配合评测人员时间测试项目效果\n任职要求\n1. 热爱自拍，有摄影、修图经验优先\n2. 有camera评测经验\n3.有过图像测试经验\n图像测试，图像测试，图像测试",
-      "encryptAddressId": "c133496e5e71a7451nB52tm9EVRWw4W8WPia",
-      "address": "北京海淀区小米科技园D栋1",
-      "longitude": 116.316542,
-      "latitude": 40.047348,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f704b9213c7c67b98dff70386ca8e478",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1b3a22cc5d762de1d1cdcf1cd87b910",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240115/607f1f3d68754fd01a4a72a8eefea6b851e68e09e76a330997e309d4993bac66fb1ae6ebe529ffc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "柯莱特集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "879cece58f6a7e7d1XR929W0",
-      "brandName": "柯莱特集团",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
-      "labels": [
-        "五险一金",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1730888841329,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "柯莱特集团",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "柯莱特集团",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240115/607f1f3d68754fd01a4a72a8eefea6b851e68e09e76a330997e309d4993bac66fb1ae6ebe529ffc_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730888841329,
+        "brandName": "柯莱特集团",
+        "customerBrandName": "柯莱特集团",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
+        "labels": [
+            "五险一金",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区小米科技园D栋1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c133496e5e71a7451nB52tm9EVRWw4W8WPia",
+        "encryptId": "11d134502bce1a081H1939-9EFZQ",
+        "encryptUserId": "c1082b14d42717c80Xd52N24ElZQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "画质测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.047348,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.316542,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1b3a22cc5d762de1d1cdcf1cd87b910",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "工作内容\n1. 手机前置相机拍照+录像素材采集测试内容，关注拍摄过程中bug问题\n2. 室内外场景图像采集，户外、夜景等\n3. 配合评测人员时间测试项目效果\n任职要求\n1. 热爱自拍，有摄影、修图经验优先\n2. 有camera评测经验\n3.有过图像测试经验\n图像测试，图像测试，图像测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "测试工作经验",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f704b9213c7c67b98dff70386ca8e478"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iAuOnSYiMRJUe-r1MXmu1K7DFdkAhqml1zTu8d9ctL8nHlm4ughc-wAdJrinjZdYDqDHK7dz4NrKiV3yoRL8TH4PtnmxaWrvIN8sAocn4ysL8MmAH74uBv5wcOGZdMDw8TEJxruFU5bA",
+    "selfAccess": false,
+    "sessionId": null
 }

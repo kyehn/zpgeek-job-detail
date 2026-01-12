@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "XhPOCy-gtovZ8-T1UiWVkwXMq2BhVVJnTKvfAEeT9Fyl5HmWkS3p9e_6Dk6ElInieH3l0HT1yzC30Kl1ruLApHvkA1DPFgjmRwrGpmRs11FvUkSi0dwu",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "42e6ee98aa3597621Hd72tq8F1VT",
-      "encryptUserId": "a6671f631bd94a5c0nR73dW7FFZQ",
-      "invalidStatus": false,
-      "jobName": "java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101230200,
-      "locationName": "厦门",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-15K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "框架设计，业务开发，系统部署和运维",
-      "encryptAddressId": "6048bf00f30240473nV809m9Elo~",
-      "address": "厦门思明区香山海景苑1796",
-      "longitude": 118.181475,
-      "latitude": 24.481183,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230521/48ba41acc9cef1bf3a8d55ff35364ac99a139474d8f18ba36bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230521/48ba41acc9cef1bfd22c3bd007678774332972cb5cf808a36bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "SpringCloud",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邱先生",
-      "title": "架构师",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "稻趣",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5d2536fd428b478f1nVz29S7FlU~",
-      "brandName": "稻趣",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724130285261,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "稻趣",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "稻趣",
+        "certificated": true,
+        "large": null,
+        "name": "邱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "架构师"
+    },
+    "brandComInfo": {
+        "activeTime": 1724130285261,
+        "brandName": "稻趣",
+        "customerBrandName": "稻趣",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5d2536fd428b478f1nVz29S7FlU~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "厦门思明区香山海景苑1796",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6048bf00f30240473nV809m9Elo~",
+        "encryptId": "42e6ee98aa3597621Hd72tq8F1VT",
+        "encryptUserId": "a6671f631bd94a5c0nR73dW7FFZQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.481183,
+        "location": 101230200,
+        "locationName": "厦门",
+        "longitude": 118.181475,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230521/48ba41acc9cef1bfd22c3bd007678774332972cb5cf808a36bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "框架设计，业务开发，系统部署和运维",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-15K·13薪",
+        "showSkills": [
+            "Java",
+            "SpringCloud",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230521/48ba41acc9cef1bf3a8d55ff35364ac99a139474d8f18ba36bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "XhPOCy-gtovZ8-T1UiWVkwXMq2BhVVJnTKvfAEeT9Fyl5HmWkS3p9e_6Dk6ElInieH3l0HT1yzC30Kl1ruLApHvkA1DPFgjmRwrGpmRs11FvUkSi0dwu",
+    "selfAccess": false,
+    "sessionId": null
 }

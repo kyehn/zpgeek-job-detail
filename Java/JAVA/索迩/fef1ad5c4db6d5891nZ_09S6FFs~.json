@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-9eZqnCrkGMP1-j13CMqKS6w9YXO_r-QU81lLL84X-CwZmYxpqQPaE-NDyjQOMVEybVZO1LMnhu4CgsSajqKz25yG-gfb9nSShw5_c_sVuMFRZU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fef1ad5c4db6d5891nZ_09S6FFs~",
-      "encryptUserId": "40f522b8c31e9b6e1X173NS_ElM~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1，熟悉java基础，主要从事后端开发\n2，掌握springboot+mybatis，公司主要框架都基于springboot，要求精通\n3，掌握mysql或者oracle一种数据库语言，基本的查询优化、索引、存错过程等要会\n4，有较强沟通交流能力\n5，有责任心，有团队精神",
-      "encryptAddressId": "576b1f152f80b0660n180ty9FA~~",
-      "address": "南京雨花台区南京天溯科技园5栋15层",
-      "longitude": 118.756208,
-      "latitude": 31.973969,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2957930db096e26d8083c644988f091f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/746aea96a370d0d61dd0fd4958fc34b8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "索迩",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3e5497fd308862c50H1-09-9",
-      "brandName": "索迩",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201026/08a09e73e1d3af56b97aafe6a7636c37e751240265c63af120e0152f31fe0ce7_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "一家服务于消防和税务的定制化软件开发公司",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖"
-      ],
-      "activeTime": 1719128240948,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "索迩",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "索迩",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1719128240948,
+        "brandName": "索迩",
+        "customerBrandName": "索迩",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "3e5497fd308862c50H1-09-9",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "一家服务于消防和税务的定制化软件开发公司",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201026/08a09e73e1d3af56b97aafe6a7636c37e751240265c63af120e0152f31fe0ce7_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区南京天溯科技园5栋15层",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "576b1f152f80b0660n180ty9FA~~",
+        "encryptId": "fef1ad5c4db6d5891nZ_09S6FFs~",
+        "encryptUserId": "40f522b8c31e9b6e1X173NS_ElM~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.973969,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.756208,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/746aea96a370d0d61dd0fd4958fc34b8",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1，熟悉java基础，主要从事后端开发\n2，掌握springboot+mybatis，公司主要框架都基于springboot，要求精通\n3，掌握mysql或者oracle一种数据库语言，基本的查询优化、索引、存错过程等要会\n4，有较强沟通交流能力\n5，有责任心，有团队精神",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Java",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2957930db096e26d8083c644988f091f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-9eZqnCrkGMP1-j13CMqKS6w9YXO_r-QU81lLL84X-CwZmYxpqQPaE-NDyjQOMVEybVZO1LMnhu4CgsSajqKz25yG-gfb9nSShw5_c_sVuMFRZU~",
+    "selfAccess": false,
+    "sessionId": null
 }

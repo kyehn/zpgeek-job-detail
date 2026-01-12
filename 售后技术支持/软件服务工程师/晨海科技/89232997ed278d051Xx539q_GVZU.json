@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pYSHKZHlloHxF-n1WDgoeVu4y0ySMBRaO1cE3k4HmAKixUT46oZRpmGBXebwFoh1ktgfeqH6RiSnKfcKOY2kme50G64oG3NQpONACLoosHK1-w2SuhRR5swLFgxsQu6bfixIG8hTdRy5OQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "89232997ed278d051Xx539q_GVZU",
-      "encryptUserId": "9b6b2b90ae4b40a00nR-3dS9EFtV",
-      "invalidStatus": false,
-      "jobName": "软件服务工程师",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "通过远程工具对金蝶软件进行售后服务，包括使用操作答疑，拓展需求的记录等\r\n\r\n加分项\r\n有以下行业经验：电子商务·企业服务·计算机软件",
-      "encryptAddressId": "b6a9449761f0f42533Z42Nq1GFA~",
-      "address": "武汉洪山区保利天悦中心1208",
-      "longitude": 114.409213,
-      "latitude": 30.489348,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58fe0ee883e8ed2d85850b497e75b88c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/900bf163ede224f5c7e569fe7f6df067",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "云服务",
-        "国内院校优先",
-        "其他类型SaaS/PaaS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "艾女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201019/662cc086306cd3c825ee0b897047f19d7028565af36b712ac999360c70b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "晨海科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "09f29a1f913f2f293nJ42t-5GQ~~",
-      "brandName": "晨海科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230302/7b5b554d84f9729c4261e4f4c4e7d79dc9ac4f08e08a41b17028565af36b712ac999360c70b03d45.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [
-        "零食下午茶",
-        "节日福利",
-        "交通补助",
-        "年终奖",
-        "全勤奖"
-      ],
-      "activeTime": 1725867880000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "晨海科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "晨海科技",
+        "certificated": true,
+        "large": null,
+        "name": "艾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201019/662cc086306cd3c825ee0b897047f19d7028565af36b712ac999360c70b_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725867880000,
+        "brandName": "晨海科技",
+        "customerBrandName": "晨海科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "09f29a1f913f2f293nJ42t-5GQ~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [
+            "零食下午茶",
+            "节日福利",
+            "交通补助",
+            "年终奖",
+            "全勤奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230302/7b5b554d84f9729c4261e4f4c4e7d79dc9ac4f08e08a41b17028565af36b712ac999360c70b03d45.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区保利天悦中心1208",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b6a9449761f0f42533Z42Nq1GFA~",
+        "encryptId": "89232997ed278d051Xx539q_GVZU",
+        "encryptUserId": "9b6b2b90ae4b40a00nR-3dS9EFtV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件服务工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.489348,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.409213,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/900bf163ede224f5c7e569fe7f6df067",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "通过远程工具对金蝶软件进行售后服务，包括使用操作答疑，拓展需求的记录等\r\n\r\n加分项\r\n有以下行业经验：电子商务·企业服务·计算机软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "云服务",
+            "国内院校优先",
+            "其他类型SaaS/PaaS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58fe0ee883e8ed2d85850b497e75b88c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pYSHKZHlloHxF-n1WDgoeVu4y0ySMBRaO1cE3k4HmAKixUT46oZRpmGBXebwFoh1ktgfeqH6RiSnKfcKOY2kme50G64oG3NQpONACLoosHK1-w2SuhRR5swLFgxsQu6bfixIG8hTdRy5OQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

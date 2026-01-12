@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OP7NwrSQsX3lh-l1tcL1s32FmQzbbCCisCJtg9ivXcD5ts9ARvRujMxL24b2wv59FdIiarr_jZ5dj7KYQGtkJGDxiqsclVWWjjql-22by85tg5xBk5lMILawnwrPQySz3z76zcEzUms~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "caa515a76f23d0d61H1y29y_GFRT",
-      "encryptUserId": "6d4426dbe22cd8c23nx72tm_FVo~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：1.参与软件的需求分析、进行系统框架及相关模块的设计工作；2.根据设计文档或需求说明完成代码的编写、测试及调试工作；\n3.分析并解决软件在开发及使用过程中出现的问题，不断完善软件；\n4.完成领导临时交付的相关任务；\n任职资格：\n1.自动化、计算机等相关专业，本科以上学历\n2.具有QT 开发经验，具有C/C++/python开发经验\n3.熟悉相关数据库，如Oracle、SQL等\n4.具备较强的学习能力、团队合作能力、沟通能力",
-      "encryptAddressId": "3674eaa623e0e54b0ndy29y0GFU~",
-      "address": "青岛黄岛区青岛德国企业中心5",
-      "longitude": 120.125441,
-      "latitude": 36.065287,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6849640a162a07170cf3f3249740f17",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/319423f3f216b2e06e55a664670cf90b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "C",
-        "QT",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "管女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "钢铁侠科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "96072eae282f58011nJy3t6-",
-      "brandName": "钢铁侠科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170206/b5b1bbbd8ba0813b3c30a58425743504a4b5d56f76eed1e36daaef04e605a71c.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "北京钢铁侠科技有限公司成立于2015年9月，主要产品为仿人机器人以及机器人运动控制系统。\n     公司创始团队来自中科院和航天院，参与过嫦娥探月卫星、军用无人机等国家尖端科研项目的研发，在自动化和控制领域经验丰富，团队技术实力雄厚。\n     \n     2016年7月，李德毅院士在钢铁侠科技正式成立院士工作站，一起推动并加快机器人运动脑的研发。\n     2017年8月，世界机器人大会期间，刘延东和马凯两位副总理率多位部级领导，先后考察钢铁侠科技，并观看机器人表演，给予肯定和鼓励。\n     作为国内机器人企业的代表，钢铁侠科技在一周内两次上央视，成为本次世界机器人大会的一大亮点和特色。\n     欢迎对机器人感兴趣的各位小伙伴加入钢铁侠科技，一起为中国机器人事业添砖加瓦！",
-      "labels": [
-        "节日福利",
-        "有无线网",
-        "底薪加提成",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1731057490000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "钢铁侠科技",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "钢铁侠科技",
+        "certificated": true,
+        "large": null,
+        "name": "管女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1731057490000,
+        "brandName": "钢铁侠科技",
+        "customerBrandName": "钢铁侠科技",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "96072eae282f58011nJy3t6-",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "北京钢铁侠科技有限公司成立于2015年9月，主要产品为仿人机器人以及机器人运动控制系统。\n     公司创始团队来自中科院和航天院，参与过嫦娥探月卫星、军用无人机等国家尖端科研项目的研发，在自动化和控制领域经验丰富，团队技术实力雄厚。\n     \n     2016年7月，李德毅院士在钢铁侠科技正式成立院士工作站，一起推动并加快机器人运动脑的研发。\n     2017年8月，世界机器人大会期间，刘延东和马凯两位副总理率多位部级领导，先后考察钢铁侠科技，并观看机器人表演，给予肯定和鼓励。\n     作为国内机器人企业的代表，钢铁侠科技在一周内两次上央视，成为本次世界机器人大会的一大亮点和特色。\n     欢迎对机器人感兴趣的各位小伙伴加入钢铁侠科技，一起为中国机器人事业添砖加瓦！",
+        "labels": [
+            "节日福利",
+            "有无线网",
+            "底薪加提成",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170206/b5b1bbbd8ba0813b3c30a58425743504a4b5d56f76eed1e36daaef04e605a71c.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛黄岛区青岛德国企业中心5",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3674eaa623e0e54b0ndy29y0GFU~",
+        "encryptId": "caa515a76f23d0d61H1y29y_GFRT",
+        "encryptUserId": "6d4426dbe22cd8c23nx72tm_FVo~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 36.065287,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.125441,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/319423f3f216b2e06e55a664670cf90b",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "岗位职责：1.参与软件的需求分析、进行系统框架及相关模块的设计工作；2.根据设计文档或需求说明完成代码的编写、测试及调试工作；\n3.分析并解决软件在开发及使用过程中出现的问题，不断完善软件；\n4.完成领导临时交付的相关任务；\n任职资格：\n1.自动化、计算机等相关专业，本科以上学历\n2.具有QT 开发经验，具有C/C++/python开发经验\n3.熟悉相关数据库，如Oracle、SQL等\n4.具备较强的学习能力、团队合作能力、沟通能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "C++",
+            "C",
+            "QT",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6849640a162a07170cf3f3249740f17"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OP7NwrSQsX3lh-l1tcL1s32FmQzbbCCisCJtg9ivXcD5ts9ARvRujMxL24b2wv59FdIiarr_jZ5dj7KYQGtkJGDxiqsclVWWjjql-22by85tg5xBk5lMILawnwrPQySz3z76zcEzUms~",
+    "selfAccess": false,
+    "sessionId": null
 }

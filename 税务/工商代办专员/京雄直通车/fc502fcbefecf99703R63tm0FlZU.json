@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uPQfWDgI_mo6s-j14wkcdDmXzZBo_eWZMipOXgRr7SnMntWp6w0vI4maoXGrP0vB6qPsD3kNhArFwf_y5SQqyYyELrcmGtcW_ZdMQ2eE2qBssnv1AMCO6JwWCebVzN0MXRy6J1XGouoh",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fc502fcbefecf99703R63tm0FlZU",
-      "encryptUserId": "54ade282857a4af01nV80tm-FFRZ",
-      "invalidStatus": false,
-      "jobName": "工商代办专员",
-      "position": 150305,
-      "positionName": "税务",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责落实窗口管理规章制度、业务指导和政策把关\n2、严格执行窗口管理各项规章制度，统一受理窗口业务\n3、规范办事流程，审查受理材料，检查督促办理事项\n4、负责受理申请材料的收件登记、打印回执。\n5、负责通知申请人补交材料并做好记录\n6、定期向组长汇报窗口业务办理情况\n任职要求：\n1、本科学历，有市监局业务经验者优先。\n2、自我提升意识强，学习主动，善于归纳总结，有明确的自我定位及学习目标，\n对日常工作中遇到的业务知识具有钻研精神，乐于分享。\n3、能够处理窗口突发事件，维护好现场秩序。\n4、熟练使用Word、Excel、PPT等常用办公软件，有培训经验者优先。",
-      "encryptAddressId": "b5b90ed2cbea0f640Hx_2dW4GFE~",
-      "address": "北京海淀区海淀区政务服务中心联想桥分中心一层政务大厅",
-      "longitude": 116.332993,
-      "latitude": 39.964727,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f76d1dc5c850bad544c0e686442206ae",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ffc768071f75372a419ffe4b3de5d3cb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "窗口"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "魏女士",
-      "title": "人力资源经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220909/607f1f3d68754fd0f615920d94803e7510c88ecf154bac0ce4dff61f2ccab5f088510792e49_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "京雄直通车",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "486088d98c65b9c533Zz3tS0",
-      "brandName": "京雄直通车",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200728/b1eefdcd33b40f3d463cda727ce3b90bc08f69ed3cd2955d0355278c2b5728c8_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "京雄集团是首家来自北京、与雄安新区同步成长、全球布局的多元化产业集团，致力于成为代表雄安质量的全球创新服务引领者。\n\n集团是政务服务+企业服务的专业提供商，在雄安新区率先投资设立京雄政务服务、京雄孵化器、京雄人力资源、京雄科技、京雄文化传媒等控股子公司，全面助力政府优化营商环境，是雄安新区首批中标服务供应商，开发运营的京雄科技园被河北省科技厅认定为雄安新区首家省级众创空间，并发起成立了雄安新区科技创新企业联合会等社团组织",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "通讯补贴",
-        "节日福利",
-        "住房补贴"
-      ],
-      "activeTime": 1732097547797,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "京雄直通车",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "京雄直通车",
+        "certificated": true,
+        "large": null,
+        "name": "魏女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220909/607f1f3d68754fd0f615920d94803e7510c88ecf154bac0ce4dff61f2ccab5f088510792e49_b.jpg",
+        "title": "人力资源经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732097547797,
+        "brandName": "京雄直通车",
+        "customerBrandName": "京雄直通车",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "486088d98c65b9c533Zz3tS0",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "京雄集团是首家来自北京、与雄安新区同步成长、全球布局的多元化产业集团，致力于成为代表雄安质量的全球创新服务引领者。\n\n集团是政务服务+企业服务的专业提供商，在雄安新区率先投资设立京雄政务服务、京雄孵化器、京雄人力资源、京雄科技、京雄文化传媒等控股子公司，全面助力政府优化营商环境，是雄安新区首批中标服务供应商，开发运营的京雄科技园被河北省科技厅认定为雄安新区首家省级众创空间，并发起成立了雄安新区科技创新企业联合会等社团组织",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "通讯补贴",
+            "节日福利",
+            "住房补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200728/b1eefdcd33b40f3d463cda727ce3b90bc08f69ed3cd2955d0355278c2b5728c8_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区海淀区政务服务中心联想桥分中心一层政务大厅",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b5b90ed2cbea0f640Hx_2dW4GFE~",
+        "encryptId": "fc502fcbefecf99703R63tm0FlZU",
+        "encryptUserId": "54ade282857a4af01nV80tm-FFRZ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "工商代办专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.964727,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.332993,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ffc768071f75372a419ffe4b3de5d3cb",
+        "position": 150305,
+        "positionName": "税务",
+        "postDescription": "岗位职责：\n1、负责落实窗口管理规章制度、业务指导和政策把关\n2、严格执行窗口管理各项规章制度，统一受理窗口业务\n3、规范办事流程，审查受理材料，检查督促办理事项\n4、负责受理申请材料的收件登记、打印回执。\n5、负责通知申请人补交材料并做好记录\n6、定期向组长汇报窗口业务办理情况\n任职要求：\n1、本科学历，有市监局业务经验者优先。\n2、自我提升意识强，学习主动，善于归纳总结，有明确的自我定位及学习目标，\n对日常工作中遇到的业务知识具有钻研精神，乐于分享。\n3、能够处理窗口突发事件，维护好现场秩序。\n4、熟练使用Word、Excel、PPT等常用办公软件，有培训经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "窗口"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f76d1dc5c850bad544c0e686442206ae"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uPQfWDgI_mo6s-j14wkcdDmXzZBo_eWZMipOXgRr7SnMntWp6w0vI4maoXGrP0vB6qPsD3kNhArFwf_y5SQqyYyELrcmGtcW_ZdMQ2eE2qBssnv1AMCO6JwWCebVzN0MXRy6J1XGouoh",
+    "selfAccess": false,
+    "sessionId": null
 }

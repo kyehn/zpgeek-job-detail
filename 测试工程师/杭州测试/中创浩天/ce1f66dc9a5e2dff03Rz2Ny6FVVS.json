@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pcMRkC07iAGRN-01RuPLg_YEKHGOyw7NK4Kkbdgu6sNhQjTGko-A8WBD0wF_QMVsy1cnD2yZRQFDt6mb_dpLOSzh51PmM7KPczjmDT6KXMrLut8dagZhaMUc2yAM42M_tLiFhnOEcVStHexXVAvcxpC6vEVfBUpYgtr0PIBqMW5M7a8UU4rI2iCmHJaRWXUCsBNDhobyDz-gLasixOYRb9Rp",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ce1f66dc9a5e2dff03Rz2Ny6FVVS",
-      "encryptUserId": "18064cdd71692b300nZ53dm7GVdU",
-      "invalidStatus": false,
-      "jobName": "杭州测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "IT互联网类/测试\n负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；\n任职资格\n全日制本科及以上学历\n负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；\n面试信息\n视频面试\n工作时间\n用工12个月 08:30:00-17:30:00 弹性上班",
-      "encryptAddressId": "ac89d7974430bcca1nJ609y-EFBXxIm5Vf6W",
-      "address": "杭州滨江区聚光中心0",
-      "longitude": 120.22132,
-      "latitude": 30.207384,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37e24aa8b8094d08ddb2b4a72d56c0be",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/142b83d41705a2cbf9e020173115c372",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "感知标注",
-        "功能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "汤女士",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241017/607f1f3d68754fd03d7f5d856e315199754844d585224c4acda624d0ed646444cb9709d67792b20_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中创浩天",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a9fd1e8cf41c58331Hx53di6EQ~~",
-      "brandName": "中创浩天",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210414/ade70b07337c0789d334dcb473493d54092d8296a868cc79db2769556c255f8e_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "武汉中创浩天科技有限公司于2019年2月成立于湖北武汉。是一家专业从事技术服务的创新型IT服务公司，致力于互联网、人工智能、汽车智能驾驶、金融保险、零售电商等核心领域，为客户提供全面的项目咨询、软件开发、软件测试、基础数据服务、数据分析等专业的人力及技术服务。\n总部位于湖北武汉，目前业务范围已遍及武汉、上海、北京、南京、扬州、杭州等经济发达地区，具备承接大中型人力、技术项目的综合实力。 \n公司拥有丰富的软件测试、高质量软件开发的项目经验，工作人员从业年限均达三年以上，技术人员分布在武汉、南京、上海等区域，多达500人以上。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1735525157427,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中创浩天",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中创浩天",
+        "certificated": true,
+        "large": null,
+        "name": "汤女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241017/607f1f3d68754fd03d7f5d856e315199754844d585224c4acda624d0ed646444cb9709d67792b20_b.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1735525157427,
+        "brandName": "中创浩天",
+        "customerBrandName": "中创浩天",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "a9fd1e8cf41c58331Hx53di6EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "武汉中创浩天科技有限公司于2019年2月成立于湖北武汉。是一家专业从事技术服务的创新型IT服务公司，致力于互联网、人工智能、汽车智能驾驶、金融保险、零售电商等核心领域，为客户提供全面的项目咨询、软件开发、软件测试、基础数据服务、数据分析等专业的人力及技术服务。\n总部位于湖北武汉，目前业务范围已遍及武汉、上海、北京、南京、扬州、杭州等经济发达地区，具备承接大中型人力、技术项目的综合实力。 \n公司拥有丰富的软件测试、高质量软件开发的项目经验，工作人员从业年限均达三年以上，技术人员分布在武汉、南京、上海等区域，多达500人以上。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210414/ade70b07337c0789d334dcb473493d54092d8296a868cc79db2769556c255f8e_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区聚光中心0",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "ac89d7974430bcca1nJ609y-EFBXxIm5Vf6W",
+        "encryptId": "ce1f66dc9a5e2dff03Rz2Ny6FVVS",
+        "encryptUserId": "18064cdd71692b300nZ53dm7GVdU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "杭州测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.207384,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.22132,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/142b83d41705a2cbf9e020173115c372",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "IT互联网类/测试\n负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；\n任职资格\n全日制本科及以上学历\n负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；\n面试信息\n视频面试\n工作时间\n用工12个月 08:30:00-17:30:00 弹性上班",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "感知标注",
+            "功能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37e24aa8b8094d08ddb2b4a72d56c0be"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pcMRkC07iAGRN-01RuPLg_YEKHGOyw7NK4Kkbdgu6sNhQjTGko-A8WBD0wF_QMVsy1cnD2yZRQFDt6mb_dpLOSzh51PmM7KPczjmDT6KXMrLut8dagZhaMUc2yAM42M_tLiFhnOEcVStHexXVAvcxpC6vEVfBUpYgtr0PIBqMW5M7a8UU4rI2iCmHJaRWXUCsBNDhobyDz-gLasixOYRb9Rp",
+    "selfAccess": false,
+    "sessionId": null
 }

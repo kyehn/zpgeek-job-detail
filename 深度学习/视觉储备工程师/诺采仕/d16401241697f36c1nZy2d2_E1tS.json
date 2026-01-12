@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WfKXfvYOezMvg-j156xZAK1kxGu-tJM9iKy-NliAi3SrxFWQia9LtIx54RkaymiAxJyaDS5B5azANR026Swh6nASLyF4-GQHSlp4PNOUGnpWzGOxlj8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d16401241697f36c1nZy2d2_E1tS",
-      "encryptUserId": "14b04a4f629c402b1nR63di0F1NX",
-      "invalidStatus": false,
-      "jobName": "视觉储备工程师",
-      "position": 101302,
-      "positionName": "深度学习",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "应届毕业生，储备视觉调试工程师，视觉软件工程师",
-      "encryptAddressId": "16020ad6df90b62a03V80tS0FVo~",
-      "address": "苏州吴中区中准瑞创林家潭路269号",
-      "longitude": 120.679734,
-      "latitude": 31.257121,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d93b7fedf8e42868f3ef0ea8853a04ed",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f213107c6f90a52d71d5a44ac58c816",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "视觉图像算法"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "诺采仕",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9293d0f422092a901XJy09m7FA~~",
-      "brandName": "诺采仕",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725360876525,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "诺采仕",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "诺采仕",
+        "certificated": true,
+        "large": null,
+        "name": "朱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725360876525,
+        "brandName": "诺采仕",
+        "customerBrandName": "诺采仕",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "9293d0f422092a901XJy09m7FA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区中准瑞创林家潭路269号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "16020ad6df90b62a03V80tS0FVo~",
+        "encryptId": "d16401241697f36c1nZy2d2_E1tS",
+        "encryptUserId": "14b04a4f629c402b1nR63di0F1NX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "视觉储备工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.257121,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.679734,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f213107c6f90a52d71d5a44ac58c816",
+        "position": 101302,
+        "positionName": "深度学习",
+        "postDescription": "应届毕业生，储备视觉调试工程师，视觉软件工程师",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K·13薪",
+        "showSkills": [
+            "视觉图像算法"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d93b7fedf8e42868f3ef0ea8853a04ed"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WfKXfvYOezMvg-j156xZAK1kxGu-tJM9iKy-NliAi3SrxFWQia9LtIx54RkaymiAxJyaDS5B5azANR026Swh6nASLyF4-GQHSlp4PNOUGnpWzGOxlj8~",
+    "selfAccess": false,
+    "sessionId": null
 }

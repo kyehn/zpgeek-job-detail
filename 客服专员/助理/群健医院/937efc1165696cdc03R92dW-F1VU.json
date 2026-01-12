@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tVzxFDZd4i321-Y1JTHVcn9WrVL0vV0eY_6C2AGtJQ8fjCLoV9E0fZUVEuGXkogABCpNVQndEnl6J1WfrDgwz2c1k4NuamMAhQGBJNM8FkvVDfj83B0J3INckE5cehVKEDdIUVxGvKS0MKXLcv8SBkxZn7Grqnd11tPpyKJYhabcWtLrZoVDHxqZpXspCOaM-pztadkBkyKHGfswQBH7xBCH",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "937efc1165696cdc03R92dW-F1VU",
-      "encryptUserId": "ad6f8f5dbe5bdbd803J52Nu4FFY~",
-      "invalidStatus": false,
-      "jobName": "助理",
-      "position": 130305,
-      "positionName": "客服专员",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责群内客户关系维护工作；\n2、电话/线上咨询解答、问题排查分析和处理；\n3、收集并记录客户反馈信息，及时向相关部门反映并跟进处理情况；\n4、跟进对接-车辆/住宿/餐食/项目的安排协调；\n5、项目前后注意事项传达清晰准确。\n任职要求：\n1、 具有良好的沟通能力及团队合作精神，能够独立处理客户问题；\n2、 熟悉常用办公软件，具备基本的计算机操作能力。",
-      "encryptAddressId": "2ec656cac5e3996d1nF_09q_E1BSwIW7VP-f",
-      "address": "南京建邺区云谷科技海峡城云谷科技5栋401",
-      "longitude": 118.686928,
-      "latitude": 31.98037,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bfbb6c01c2e8d8f66b0664752467b9d0816bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf9c6940f35f8fa6979d07c956f092bec26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "接待处/咨询台客服"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "韩女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200528/b8ce518180d97b65ceffcdd68173e897ba31011ed6b650cd656399ff252_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "群健医院",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c7ed7f19512983031XF43Nm5ElQ~",
-      "brandName": "群健医院",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100402,
-      "industryName": "医疗服务",
-      "introduce": "群健医院隶属林氏永龄医疗集团，创立于2006年，现总部位于江苏南京，是台湾省经济机构外贸协会及数十家医学机构联合辅导成立的两岸医学交流平台，也是南京市建邺区人民政府重点支持的医疗大健康项目。\n集团专注再生医学，致力于创伤与组织器官缺损生理性修复的研究，及进行组织器官再生与功能重建的工作。",
-      "labels": [
-        "交通补助",
-        "节日福利",
-        "住房补贴",
-        "团建聚餐",
-        "餐补",
-        "带薪年假",
-        "全勤奖",
-        "加班补助",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1734576710713,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "群健医院",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "群健医院",
+        "certificated": true,
+        "large": null,
+        "name": "韩女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200528/b8ce518180d97b65ceffcdd68173e897ba31011ed6b650cd656399ff252_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1734576710713,
+        "brandName": "群健医院",
+        "customerBrandName": "群健医院",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c7ed7f19512983031XF43Nm5ElQ~",
+        "focusBrand": false,
+        "industry": 100402,
+        "industryName": "医疗服务",
+        "introduce": "群健医院隶属林氏永龄医疗集团，创立于2006年，现总部位于江苏南京，是台湾省经济机构外贸协会及数十家医学机构联合辅导成立的两岸医学交流平台，也是南京市建邺区人民政府重点支持的医疗大健康项目。\n集团专注再生医学，致力于创伤与组织器官缺损生理性修复的研究，及进行组织器官再生与功能重建的工作。",
+        "labels": [
+            "交通补助",
+            "节日福利",
+            "住房补贴",
+            "团建聚餐",
+            "餐补",
+            "带薪年假",
+            "全勤奖",
+            "加班补助",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京建邺区云谷科技海峡城云谷科技5栋401",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "2ec656cac5e3996d1nF_09q_E1BSwIW7VP-f",
+        "encryptId": "937efc1165696cdc03R92dW-F1VU",
+        "encryptUserId": "ad6f8f5dbe5bdbd803J52Nu4FFY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.98037,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.686928,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf9c6940f35f8fa6979d07c956f092bec26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 130305,
+        "positionName": "客服专员",
+        "postDescription": "岗位职责：\n1、负责群内客户关系维护工作；\n2、电话/线上咨询解答、问题排查分析和处理；\n3、收集并记录客户反馈信息，及时向相关部门反映并跟进处理情况；\n4、跟进对接-车辆/住宿/餐食/项目的安排协调；\n5、项目前后注意事项传达清晰准确。\n任职要求：\n1、 具有良好的沟通能力及团队合作精神，能够独立处理客户问题；\n2、 熟悉常用办公软件，具备基本的计算机操作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "接待处/咨询台客服"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bfbb6c01c2e8d8f66b0664752467b9d0816bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tVzxFDZd4i321-Y1JTHVcn9WrVL0vV0eY_6C2AGtJQ8fjCLoV9E0fZUVEuGXkogABCpNVQndEnl6J1WfrDgwz2c1k4NuamMAhQGBJNM8FkvVDfj83B0J3INckE5cehVKEDdIUVxGvKS0MKXLcv8SBkxZn7Grqnd11tPpyKJYhabcWtLrZoVDHxqZpXspCOaM-pztadkBkyKHGfswQBH7xBCH",
+    "selfAccess": false,
+    "sessionId": null
 }

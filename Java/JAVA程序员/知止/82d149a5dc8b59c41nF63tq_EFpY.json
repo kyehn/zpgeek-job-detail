@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Wd4di8AXZU9NB-U1yHCQFkPQ44pqBda-X1zQ3w7Wdu51ROKBx1EkSysewHd6SUmZqITl3PlDp1Q01H4LJd_IW5Rh847GfeRr5fRb9Sh4eoa4wj9neg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "82d149a5dc8b59c41nF63tq_EFpY",
-      "encryptUserId": "f592ebcec6ce1c9603B63dW9GVc~",
-      "invalidStatus": false,
-      "jobName": "Java程序员",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101230900,
-      "locationName": "南平",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位描述：\n1、协助公司软件工程师进行软件开发\n2、在java工程师的指导下进行项目的开发和维护\n3、服从工作安排\n \n职位要求\n1、计算机、软件等相关专业\n2、熟悉java基础语法\n3、有项目经验者优先\n4、有较强的学习能力",
-      "encryptAddressId": "ca64dd3bc1957f8a03B_3du7ElU~",
-      "address": "南平延平区夏道大窠搬迁安置点大窠一路38号10幢2梯104室",
-      "longitude": 118.280299,
-      "latitude": 26.569492,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7ad85bbad9e2ab737dafb2b70f56b01",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe0476686f5ae1aca513f7a021ed2d63",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件工程师",
-        "java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "产品设计师",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190629/1063e2877db45b583517bd8eee3221c77615e5f03548f42f88b33cc946d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "知止",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f653a2e11ee559751Xd909-4FQ~~",
-      "brandName": "知止",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200304/7d99cd27b6005554e225617fe845381e7615e5f03548f42f88b33cc946d63ff5.png",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "福州知止网络技术有限公司是一家以高精度数字化模型驱动的创新型科技服务公司。公司专注于打造世界经济数据中台，为中国乃至世界经济信息基础建设提供数字化解决方案。\n公司座落于福州市鼓楼区佳盛广场8楼，公司与福州大学、福建师范大学、福建农科院等科研院校建立学术交研合作关系，具有丰富的数据中台、行业SAAS平台等IT前沿科技领域研发建设经验。公司创始团队来自国内行业知名IT、互联网企业高管，累积了大量的传统行业数字化模型驱动技术解决方案。公司核心产品有：资产盘点服务公共信息平台、物流智慧仓公共服务平台、可溯源鲜冻产品行业应用服务平台等。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "年终奖"
-      ],
-      "activeTime": 1722929810188,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "知止",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "知止",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190629/1063e2877db45b583517bd8eee3221c77615e5f03548f42f88b33cc946d_b.jpg",
+        "title": "产品设计师"
+    },
+    "brandComInfo": {
+        "activeTime": 1722929810188,
+        "brandName": "知止",
+        "customerBrandName": "知止",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "f653a2e11ee559751Xd909-4FQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "福州知止网络技术有限公司是一家以高精度数字化模型驱动的创新型科技服务公司。公司专注于打造世界经济数据中台，为中国乃至世界经济信息基础建设提供数字化解决方案。\n公司座落于福州市鼓楼区佳盛广场8楼，公司与福州大学、福建师范大学、福建农科院等科研院校建立学术交研合作关系，具有丰富的数据中台、行业SAAS平台等IT前沿科技领域研发建设经验。公司创始团队来自国内行业知名IT、互联网企业高管，累积了大量的传统行业数字化模型驱动技术解决方案。公司核心产品有：资产盘点服务公共信息平台、物流智慧仓公共服务平台、可溯源鲜冻产品行业应用服务平台等。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200304/7d99cd27b6005554e225617fe845381e7615e5f03548f42f88b33cc946d63ff5.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南平延平区夏道大窠搬迁安置点大窠一路38号10幢2梯104室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ca64dd3bc1957f8a03B_3du7ElU~",
+        "encryptId": "82d149a5dc8b59c41nF63tq_EFpY",
+        "encryptUserId": "f592ebcec6ce1c9603B63dW9GVc~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java程序员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.569492,
+        "location": 101230900,
+        "locationName": "南平",
+        "longitude": 118.280299,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe0476686f5ae1aca513f7a021ed2d63",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位描述：\n1、协助公司软件工程师进行软件开发\n2、在java工程师的指导下进行项目的开发和维护\n3、服从工作安排\n \n职位要求\n1、计算机、软件等相关专业\n2、熟悉java基础语法\n3、有项目经验者优先\n4、有较强的学习能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K",
+        "showSkills": [
+            "软件工程师",
+            "java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7ad85bbad9e2ab737dafb2b70f56b01"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Wd4di8AXZU9NB-U1yHCQFkPQ44pqBda-X1zQ3w7Wdu51ROKBx1EkSysewHd6SUmZqITl3PlDp1Q01H4LJd_IW5Rh847GfeRr5fRb9Sh4eoa4wj9neg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

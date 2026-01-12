@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "w4crxatmKC342-X1ebtNPL7ymqQEAv-u284LoTCEpLfoa2H42TaUDNEZheNM_jd-hUj6UPUfeRiAPK_goyVXZ3J14r2HvrgoTH2idzuo9PsCJLMeybsXxN06bPf3dldvlUWerq6gFbRMvxA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "172251ca51c1abfc1XV93t-5FFJS",
-      "encryptUserId": "e36611e55e428f2d0nZ439i0FVtU",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "具备软件测试技能，计算机相关专业",
-      "encryptAddressId": "ae83da034994089303Ny09u5Fw~~",
-      "address": "济南历城区汉峪金谷高新东",
-      "longitude": 117.148306,
-      "latitude": 36.660308,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8631b07217f1a08ba1be8b3cc92b8f26",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f2368f63ff570ffd2517c29f6c8aabb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "银行测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "潘女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "格电",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b728411ad2962b9d1nBy2N27GVE~",
-      "brandName": "格电",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725466979887,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "格电",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "格电",
+        "certificated": true,
+        "large": null,
+        "name": "潘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725466979887,
+        "brandName": "格电",
+        "customerBrandName": "格电",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b728411ad2962b9d1nBy2N27GVE~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南历城区汉峪金谷高新东",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ae83da034994089303Ny09u5Fw~~",
+        "encryptId": "172251ca51c1abfc1XV93t-5FFJS",
+        "encryptUserId": "e36611e55e428f2d0nZ439i0FVtU",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.660308,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.148306,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f2368f63ff570ffd2517c29f6c8aabb",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "具备软件测试技能，计算机相关专业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "软件测试",
+            "银行测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8631b07217f1a08ba1be8b3cc92b8f26"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "w4crxatmKC342-X1ebtNPL7ymqQEAv-u284LoTCEpLfoa2H42TaUDNEZheNM_jd-hUj6UPUfeRiAPK_goyVXZ3J14r2HvrgoTH2idzuo9PsCJLMeybsXxN06bPf3dldvlUWerq6gFbRMvxA~",
+    "selfAccess": false,
+    "sessionId": null
 }

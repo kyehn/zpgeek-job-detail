@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pvasAlP1Qv7xZ-U1x72mBQ4mu-7nW2_vCu5w8YE-uFja_HrESZbD8_kScwu_XwQlb8mHGa6jz39Ovlthlk5nIR1362fP6WRx_DAsc8Ggei9puYYTbWev",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "47dc10c77d5636bc1Xd509i6EldQ",
-      "encryptUserId": "d61e9c3f706131950nd52dm8EVNV",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、大学本科学历；\n2、熟悉编程C语言；\n3、应届生优先；\n4、工作地点广东东莞",
-      "encryptAddressId": "a563431f30efa1da1Xxz09-5GA~~",
-      "address": "东莞泰库文化创意产业园2号楼206号",
-      "longitude": 113.70925,
-      "latitude": 23.040553,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16645c2d371147a101cdf2c75cbc31ca",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f9a0b86614eb22d805bd28cc965806d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "软件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "余先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210617/be03163845c41e596be045d5040c23f88982c380ba6f98b6fbd2042fbb0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "茂泰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a37229cfc78a85f01nN93d2_EVQ~",
-      "brandName": "茂泰",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725129830991,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "茂泰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "茂泰",
+        "certificated": true,
+        "large": null,
+        "name": "余先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210617/be03163845c41e596be045d5040c23f88982c380ba6f98b6fbd2042fbb0_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725129830991,
+        "brandName": "茂泰",
+        "customerBrandName": "茂泰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a37229cfc78a85f01nN93d2_EVQ~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞泰库文化创意产业园2号楼206号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "a563431f30efa1da1Xxz09-5GA~~",
+        "encryptId": "47dc10c77d5636bc1Xd509i6EldQ",
+        "encryptUserId": "d61e9c3f706131950nd52dm8EVNV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.040553,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 113.70925,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f9a0b86614eb22d805bd28cc965806d",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1、大学本科学历；\n2、熟悉编程C语言；\n3、应届生优先；\n4、工作地点广东东莞",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K·13薪",
+        "showSkills": [
+            "C#",
+            "软件工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16645c2d371147a101cdf2c75cbc31ca"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pvasAlP1Qv7xZ-U1x72mBQ4mu-7nW2_vCu5w8YE-uFja_HrESZbD8_kScwu_XwQlb8mHGa6jz39Ovlthlk5nIR1362fP6WRx_DAsc8Ggei9puYYTbWev",
+    "selfAccess": false,
+    "sessionId": null
 }

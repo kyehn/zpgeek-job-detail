@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-t19XMH3dbM3L-x18G3aS9r5NTSDidAafjDB2P0TnBXzzhJFjqgB3fKEUPwnzW1-Jivb067tTAVSH7JCLSCOKbJje8oGuBcT83TKa9ywzEa8GcG1XFyV",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e2d8284c444d6a771nRz39i7FltR",
-      "encryptUserId": "acfb5f87d1814b8b0nR92926FFdV",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟悉炬力 炬芯 杰理 中科蓝讯等蓝牙方案。\n2.针对客户给出的功能需求，进行软件二次开发。",
-      "encryptAddressId": "94b70b20dbfaafcd1HN43dW1Fls~",
-      "address": "深圳龙华区金园大厦B栋1905",
-      "longitude": 114.000162,
-      "latitude": 22.654598,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da407d90fa3532c14e383dfc5f2177e8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0aae0bee40cb901be9ca7e3cc30ffc1c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "嵌入式Linux",
-        "C语言"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "宝泰威",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2d3056f4fa3fa6da1nZ90tm0FVc~",
-      "brandName": "宝泰威",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725291560379,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宝泰威",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宝泰威",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725291560379,
+        "brandName": "宝泰威",
+        "customerBrandName": "宝泰威",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2d3056f4fa3fa6da1nZ90tm0FVc~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙华区金园大厦B栋1905",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "94b70b20dbfaafcd1HN43dW1Fls~",
+        "encryptId": "e2d8284c444d6a771nRz39i7FltR",
+        "encryptUserId": "acfb5f87d1814b8b0nR92926FFdV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.654598,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.000162,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0aae0bee40cb901be9ca7e3cc30ffc1c",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1.熟悉炬力 炬芯 杰理 中科蓝讯等蓝牙方案。\n2.针对客户给出的功能需求，进行软件二次开发。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "嵌入式Linux",
+            "C语言"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da407d90fa3532c14e383dfc5f2177e8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-t19XMH3dbM3L-x18G3aS9r5NTSDidAafjDB2P0TnBXzzhJFjqgB3fKEUPwnzW1-Jivb067tTAVSH7JCLSCOKbJje8oGuBcT83TKa9ywzEa8GcG1XFyV",
+    "selfAccess": false,
+    "sessionId": null
 }

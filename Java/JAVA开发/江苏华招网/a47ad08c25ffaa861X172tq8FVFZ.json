@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "KDW0seSmHH5iw-n1w91QlLTCk9EcZI3FWT9D1fecyp_iFQD7oB94JsQYeSoY7gXDsGzKu78Q0hrlKVB-2Ox3XJ65h2VmAxbv-wt5jhy-7gut0ATyeVpcSmTpbPmyVOI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a47ad08c25ffaa861X172tq8FVFZ",
-      "encryptUserId": "92a3518ccd8ba90c03172ty-F1c~",
-      "invalidStatus": false,
-      "jobName": "Java开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、 JAVA应用系统项目开发和支持\n2、 按照公司规范编制高质量代码\n3、 按照公司规范对于代码进行测试，保证交付代码质量\n4、 有推荐相关项目经验者优先\n5、第一学历本科及以上\n任职要求：\n1、系统的学习过JAVA 语言，并使用JAVA 语言编写过程序；\n2、对于面向对象具备一定的认识\n3、熟悉Oracle，SQLServer，MySQL中至少一种数据库\n4、掌握JSP/Servlet技术\n5、熟悉maven、git等工具的使用，并掌握至少一种IDE开发环境\n6、掌握Spring、Hibernate等技术框架",
-      "encryptAddressId": "593395c4a9550cdd0HN-09-5GVI~",
-      "address": "南京鼓楼区南京长江国际航运中心D座2楼",
-      "longitude": 118.741194,
-      "latitude": 32.091063,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f1a1376f7614ba29c4a6ab40f78f306",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9bc01b4471794fdb3f154f9fd85aa442",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "章女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "江苏华招网",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "af0e5c37bf88160403d52dS4",
-      "brandName": "江苏华招网",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210413/25b8d1716bcbf584a98e252688b880adb2e271e45e2c7c37c08ee6817fa61892_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "江苏华招网信息技术有限公司是一家成立于2000年4月的高新技术企业，公司依托在招标领域内强大的专业优势，致力于从事招标投标网络信息服务和招标投标系统软件开发，公司运营的中国招投标网（www.infobidding.com）是江苏省计划发展委员会进行江苏全省所有行业招标信息管理的监督管理平台，自主研发的政府采购系统已经在江苏、浙江、广西等省成为综合管理平台；是目前全国最大的金融和医药招标采购系统独立软件及解决方案的提供商之一。公司设有Infobidding、医药系统、政府采购、金融系统4个事业部；主要客户有国家卫生部、中国银行总行、中国农业银行总行、各省市招标代理机构等。\r\n公司主要网站现有：\r\n中国招投标网www.infobidding.com \r\n华招招标网www.emed.cc \r\n华招器械网www.hzqx.cc",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1736147217000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江苏华招网",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江苏华招网",
+        "certificated": true,
+        "large": null,
+        "name": "章女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1736147217000,
+        "brandName": "江苏华招网",
+        "customerBrandName": "江苏华招网",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "af0e5c37bf88160403d52dS4",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "江苏华招网信息技术有限公司是一家成立于2000年4月的高新技术企业，公司依托在招标领域内强大的专业优势，致力于从事招标投标网络信息服务和招标投标系统软件开发，公司运营的中国招投标网（www.infobidding.com）是江苏省计划发展委员会进行江苏全省所有行业招标信息管理的监督管理平台，自主研发的政府采购系统已经在江苏、浙江、广西等省成为综合管理平台；是目前全国最大的金融和医药招标采购系统独立软件及解决方案的提供商之一。公司设有Infobidding、医药系统、政府采购、金融系统4个事业部；主要客户有国家卫生部、中国银行总行、中国农业银行总行、各省市招标代理机构等。\r\n公司主要网站现有：\r\n中国招投标网www.infobidding.com \r\n华招招标网www.emed.cc \r\n华招器械网www.hzqx.cc",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210413/25b8d1716bcbf584a98e252688b880adb2e271e45e2c7c37c08ee6817fa61892_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京鼓楼区南京长江国际航运中心D座2楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "593395c4a9550cdd0HN-09-5GVI~",
+        "encryptId": "a47ad08c25ffaa861X172tq8FVFZ",
+        "encryptUserId": "92a3518ccd8ba90c03172ty-F1c~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.091063,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.741194,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9bc01b4471794fdb3f154f9fd85aa442",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、 JAVA应用系统项目开发和支持\n2、 按照公司规范编制高质量代码\n3、 按照公司规范对于代码进行测试，保证交付代码质量\n4、 有推荐相关项目经验者优先\n5、第一学历本科及以上\n任职要求：\n1、系统的学习过JAVA 语言，并使用JAVA 语言编写过程序；\n2、对于面向对象具备一定的认识\n3、熟悉Oracle，SQLServer，MySQL中至少一种数据库\n4、掌握JSP/Servlet技术\n5、熟悉maven、git等工具的使用，并掌握至少一种IDE开发环境\n6、掌握Spring、Hibernate等技术框架",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f1a1376f7614ba29c4a6ab40f78f306"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "KDW0seSmHH5iw-n1w91QlLTCk9EcZI3FWT9D1fecyp_iFQD7oB94JsQYeSoY7gXDsGzKu78Q0hrlKVB-2Ox3XJ65h2VmAxbv-wt5jhy-7gut0ATyeVpcSmTpbPmyVOI~",
+    "selfAccess": false,
+    "sessionId": null
 }

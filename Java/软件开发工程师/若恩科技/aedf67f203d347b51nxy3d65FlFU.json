@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tTVrAhl6gWiT6-A1b57k1GsmQooQprWCx6HmYDKTP_xt2QghRKWzC1I_TgwGvTsXL_z_UtWaOzstKZAN0ZEkxjulqUO_DwGQbNEXsAdcY4bAGFyfpag~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "aedf67f203d347b51nxy3d65FlFU",
-      "encryptUserId": "b0daa094ef0832df1nRz0t28E1tT",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101100400,
-      "locationName": "晋中",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "计算机相关专业，具有扎实的计算机理论知识\n有较强的英文技术文档阅读能力\n熟悉一种以上编程语言\n了解mysql数据库、linux操作系统、web应用开发、手机应用开发、云平台相关知识\n有较强的学习专研能力",
-      "encryptAddressId": "b016b87f352cee8a1XV429m1FlE~",
-      "address": "晋中榆次区晋中民营经济大厦14405",
-      "longitude": 112.71992,
-      "latitude": 37.699912,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/acf4aacec2f5ff6d66608f2af05fb104",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0164b388df66896510ee1823d30e17db",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全栈开发",
-        "Linux",
-        "IDEA",
-        "MySQL",
-        "软件工程师",
-        "MVC开发",
-        "Windows",
-        "SpringBoot"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "若恩科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "edf7d3e45c7900d63nF43Nq7GA~~",
-      "brandName": "若恩科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "山西若恩科技有限公司成立于2020年1月，致力于AIOT领域，集研发，生产，销售于一体的高科技公司。产品覆盖电力，农业，餐饮，教育等行业。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "股票期权"
-      ],
-      "activeTime": 1725133068644,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "若恩科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "若恩科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725133068644,
+        "brandName": "若恩科技",
+        "customerBrandName": "若恩科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "edf7d3e45c7900d63nF43Nq7GA~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "山西若恩科技有限公司成立于2020年1月，致力于AIOT领域，集研发，生产，销售于一体的高科技公司。产品覆盖电力，农业，餐饮，教育等行业。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "股票期权"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "晋中榆次区晋中民营经济大厦14405",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b016b87f352cee8a1XV429m1FlE~",
+        "encryptId": "aedf67f203d347b51nxy3d65FlFU",
+        "encryptUserId": "b0daa094ef0832df1nRz0t28E1tT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.699912,
+        "location": 101100400,
+        "locationName": "晋中",
+        "longitude": 112.71992,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0164b388df66896510ee1823d30e17db",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "计算机相关专业，具有扎实的计算机理论知识\n有较强的英文技术文档阅读能力\n熟悉一种以上编程语言\n了解mysql数据库、linux操作系统、web应用开发、手机应用开发、云平台相关知识\n有较强的学习专研能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "全栈开发",
+            "Linux",
+            "IDEA",
+            "MySQL",
+            "软件工程师",
+            "MVC开发",
+            "Windows",
+            "SpringBoot"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/acf4aacec2f5ff6d66608f2af05fb104"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tTVrAhl6gWiT6-A1b57k1GsmQooQprWCx6HmYDKTP_xt2QghRKWzC1I_TgwGvTsXL_z_UtWaOzstKZAN0ZEkxjulqUO_DwGQbNEXsAdcY4bAGFyfpag~",
+    "selfAccess": false,
+    "sessionId": null
 }

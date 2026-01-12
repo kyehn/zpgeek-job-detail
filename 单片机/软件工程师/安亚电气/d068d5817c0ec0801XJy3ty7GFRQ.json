@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QxR1xraDY5U5L-f1qSj0UGS-zzS5IWT474NTTAWahVjIW-vc2NnaVeDxJLB9ui8Y88QDpnY1_zBXxOBfKwU-ADaNu1nSlUXQuRVSkwLI4eG6z057sue9N0Z583vpd3N1_v5-w43qsW1t",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d068d5817c0ec0801XJy3ty7GFRQ",
-      "encryptUserId": "a50e03100b7d71bc0Hd62929FlA~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100804,
-      "positionName": "单片机",
-      "location": 101210700,
-      "locationName": "温州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉单片机开发，c语言",
-      "encryptAddressId": "5b8d00d92419cc071Hd_3t6-FA~~",
-      "address": "温州龙湾区浙江安亚电力科技有限公司466号",
-      "longitude": 120.803809,
-      "latitude": 27.838756,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1477d2c87cdedfd624fdf68c7cb20e0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e62c83b34ed968b346bcbf39b5a6e53",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "助理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190817/dd64eeb11ae43d0b074c41d3d8da3adba287d0843bc4aba7ca6be0b63de_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "安亚电气",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "20f5304fa651b27e33d93dy6GA~~",
-      "brandName": "安亚电气",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "有无线网",
-        "全勤奖",
-        "工龄奖",
-        "加班补助",
-        "底薪加提成",
-        "绩效奖金",
-        "年终奖",
-        "意外险",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1730877299000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安亚电气",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安亚电气",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190817/dd64eeb11ae43d0b074c41d3d8da3adba287d0843bc4aba7ca6be0b63de_b.jpg",
+        "title": "助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730877299000,
+        "brandName": "安亚电气",
+        "customerBrandName": "安亚电气",
+        "customerBrandStageName": "",
+        "encryptBrandId": "20f5304fa651b27e33d93dy6GA~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "有无线网",
+            "全勤奖",
+            "工龄奖",
+            "加班补助",
+            "底薪加提成",
+            "绩效奖金",
+            "年终奖",
+            "意外险",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "温州龙湾区浙江安亚电力科技有限公司466号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5b8d00d92419cc071Hd_3t6-FA~~",
+        "encryptId": "d068d5817c0ec0801XJy3ty7GFRQ",
+        "encryptUserId": "a50e03100b7d71bc0Hd62929FlA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 27.838756,
+        "location": 101210700,
+        "locationName": "温州",
+        "longitude": 120.803809,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e62c83b34ed968b346bcbf39b5a6e53",
+        "position": 100804,
+        "positionName": "单片机",
+        "postDescription": "熟悉单片机开发，c语言",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "C"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1477d2c87cdedfd624fdf68c7cb20e0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QxR1xraDY5U5L-f1qSj0UGS-zzS5IWT474NTTAWahVjIW-vc2NnaVeDxJLB9ui8Y88QDpnY1_zBXxOBfKwU-ADaNu1nSlUXQuRVSkwLI4eG6z057sue9N0Z583vpd3N1_v5-w43qsW1t",
+    "selfAccess": false,
+    "sessionId": null
 }

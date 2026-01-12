@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "hTfuaStVaYj0I-_1Sh0yJqByt9PVnC-FfV5euzOF3qnen3xPCO96DqglUM-_78c3aLaB4VHw6rafLJuv-L48-sPdXWW7-CsyyTaLWXtWWtyysY8EjGb9lKm4UnJylQhncu7R7_8aAmBjNtZkD-cOrV-U6TqPnA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "95f7cd7a37b3dec203Z_3t24FVRS",
-      "encryptUserId": "6daed53e642851390XZ52dy9EFRY",
-      "invalidStatus": false,
-      "jobName": "软件运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190600,
-      "locationName": "扬州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责服务器、网络、存储等基础设施的日常运维与管理；\n2、监控系统运行状态，及时发现并解决故障，确保服务可用性；\n3、自动化运维脚本编写，提升运维效率与质量；\n4、参与系统架构设计，提出运维方面的优化建议；\n5、定期进行安全审计，保障系统安全。\n任职要求：\n1、计算机科学或相关专业本科及以上学历；\n2、熟悉Linux系统操作，掌握Shell/Python等脚本语言；\n3、了解Docker、Kubernetes等容器化技术，有实际运维经验者优先；\n4、熟悉Nginx、MySQL、Redis等常用服务配置与优化；\n5、具备良好的团队合作精神，强烈的责任心及快速解决问题的能力。\n面试地点：大王庙商业广场3楼",
-      "encryptAddressId": "ee282027d3d91f701n172N64FlRUx4W6VvuZ",
-      "address": "扬州邗江区大王庙文化创意广场大王庙广场三楼",
-      "longitude": 119.451065,
-      "latitude": 32.416759,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bfad70b906f8e339c59ce35d9e53d08f596bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf20fe52db5c789a33c06e7e05e77c09c96bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250313/48ba41acc9cef1bfc918f795f4a7816298f337ad6408b29c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250313/48ba41acc9cef1bfd1844278113e5924840c4d333b6d03be6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "倪女士",
-      "title": "人事部HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231019/607f1f3d68754fd0a2cd8b7be97672812e15aeeb07b8ff8483633ae9fedf4a04d0bf97301e926f7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "乐合数科",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f0f033a858494ce31HRz0t28FVc~",
-      "brandName": "乐合数科",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [
-        "零食下午茶",
-        "五险一金"
-      ],
-      "activeTime": 1741946676954,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "乐合数科",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "乐合数科",
+        "certificated": true,
+        "large": null,
+        "name": "倪女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231019/607f1f3d68754fd0a2cd8b7be97672812e15aeeb07b8ff8483633ae9fedf4a04d0bf97301e926f7_b.jpg",
+        "title": "人事部HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1741946676954,
+        "brandName": "乐合数科",
+        "customerBrandName": "乐合数科",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f0f033a858494ce31HRz0t28FVc~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [
+            "零食下午茶",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "扬州邗江区大王庙文化创意广场大王庙广场三楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250313/48ba41acc9cef1bfd1844278113e5924840c4d333b6d03be6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250313/48ba41acc9cef1bfc918f795f4a7816298f337ad6408b29c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "ee282027d3d91f701n172N64FlRUx4W6VvuZ",
+        "encryptId": "95f7cd7a37b3dec203Z_3t24FVRS",
+        "encryptUserId": "6daed53e642851390XZ52dy9EFRY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.416759,
+        "location": 101190600,
+        "locationName": "扬州",
+        "longitude": 119.451065,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf20fe52db5c789a33c06e7e05e77c09c96bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责服务器、网络、存储等基础设施的日常运维与管理；\n2、监控系统运行状态，及时发现并解决故障，确保服务可用性；\n3、自动化运维脚本编写，提升运维效率与质量；\n4、参与系统架构设计，提出运维方面的优化建议；\n5、定期进行安全审计，保障系统安全。\n任职要求：\n1、计算机科学或相关专业本科及以上学历；\n2、熟悉Linux系统操作，掌握Shell/Python等脚本语言；\n3、了解Docker、Kubernetes等容器化技术，有实际运维经验者优先；\n4、熟悉Nginx、MySQL、Redis等常用服务配置与优化；\n5、具备良好的团队合作精神，强烈的责任心及快速解决问题的能力。\n面试地点：大王庙商业广场3楼",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bfad70b906f8e339c59ce35d9e53d08f596bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "hTfuaStVaYj0I-_1Sh0yJqByt9PVnC-FfV5euzOF3qnen3xPCO96DqglUM-_78c3aLaB4VHw6rafLJuv-L48-sPdXWW7-CsyyTaLWXtWWtyysY8EjGb9lKm4UnJylQhncu7R7_8aAmBjNtZkD-cOrV-U6TqPnA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

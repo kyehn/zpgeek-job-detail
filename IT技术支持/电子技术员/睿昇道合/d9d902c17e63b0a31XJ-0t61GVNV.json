@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "C5D3-Z7czqx48-t1YTHng9UwXdxabdXL8NoheP0L4nAX_5H6Hm4gLaYUqT8IEzP5oSOLaYkzKyfFetYqlhXv2UUYaKSB7SEhv3GHVXKUPQV5nD56a843",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d9d902c17e63b0a31XJ-0t61GVNV",
-      "encryptUserId": "0667cb0c8baf035b0nN93ti8FlZZ",
-      "invalidStatus": false,
-      "jobName": "电子技术员",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101230200,
-      "locationName": "厦门",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "招聘对象：应届毕业生或者在校实习生；\n能力要求：性格随和，做事踏实仔细；熟悉常规办公软件，具有规定抖音、TikTok等软件视频剪辑编辑能力。",
-      "encryptAddressId": "c2544ae5c0dfc8cf0H140t20FlU~",
-      "address": "厦门湖里区海西金融广场918",
-      "longitude": 118.182621,
-      "latitude": 24.508488,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a7c0f3251d87400c1b6213837ed9daf",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb7a3cccf909a0a080cbf00a1369cbca",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "企业内部IT技术支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230205/607f1f3d68754fd0b1b525952e490cb234818fa9c2da8c4713fe159ad72c6ab99c311e751ad_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "睿昇道合",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "67cfe143b1ed5ce41XBy3t25FFY~",
-      "brandName": "睿昇道合",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100204,
-      "industryName": "基金",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725224441383,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "睿昇道合",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "睿昇道合",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230205/607f1f3d68754fd0b1b525952e490cb234818fa9c2da8c4713fe159ad72c6ab99c311e751ad_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725224441383,
+        "brandName": "睿昇道合",
+        "customerBrandName": "睿昇道合",
+        "customerBrandStageName": "",
+        "encryptBrandId": "67cfe143b1ed5ce41XBy3t25FFY~",
+        "focusBrand": false,
+        "industry": 100204,
+        "industryName": "基金",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "厦门湖里区海西金融广场918",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c2544ae5c0dfc8cf0H140t20FlU~",
+        "encryptId": "d9d902c17e63b0a31XJ-0t61GVNV",
+        "encryptUserId": "0667cb0c8baf035b0nN93ti8FlZZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "电子技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.508488,
+        "location": 101230200,
+        "locationName": "厦门",
+        "longitude": 118.182621,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb7a3cccf909a0a080cbf00a1369cbca",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "招聘对象：应届毕业生或者在校实习生；\n能力要求：性格随和，做事踏实仔细；熟悉常规办公软件，具有规定抖音、TikTok等软件视频剪辑编辑能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "企业内部IT技术支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a7c0f3251d87400c1b6213837ed9daf"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "C5D3-Z7czqx48-t1YTHng9UwXdxabdXL8NoheP0L4nAX_5H6Hm4gLaYUqT8IEzP5oSOLaYkzKyfFetYqlhXv2UUYaKSB7SEhv3GHVXKUPQV5nD56a843",
+    "selfAccess": false,
+    "sessionId": null
 }

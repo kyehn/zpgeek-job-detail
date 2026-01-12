@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "L2BS1L-1BUIZv-a1vALzzd2nx9fLJzQBraZXoqKDV8IO7i54e2elGLNzA_7as7WMIAF_sCDPzv-W70BNx3qDHcP7i_BeQ0KcZ_C7JspVrjeu7sAP",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5c334e6b8f1aa25f1Hdz2di1FVQ~",
-      "encryptUserId": "8e2955ec45c3be8203143NS_FVU~",
-      "invalidStatus": false,
-      "jobName": "软件运维工程师",
-      "position": 100107,
-      "positionName": ".NET",
-      "location": 101160100,
-      "locationName": "兰州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "负责客户项目的日常运行，收集、解决系统中出现的问题；\r\n具有软件开发基础；\r\n熟练.net技术优先。",
-      "encryptAddressId": "c56cfc13dc4b19171XBy3d-0ElU~",
-      "address": "兰州城关区华宇大厦(南昌路)",
-      "longitude": 103.863349,
-      "latitude": 36.052476,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c513b27e4f3db36040a190cd9623202c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad0ba65411bb28a584018c12dcd67ca1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "Java",
-        "数据库"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曹先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "兰州瑞海天地",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "804e4bd11b71cb5d1HRy29m9Fw~~",
-      "brandName": "兰州瑞海天地",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "加班补助",
-        "全勤奖",
-        "年终奖",
-        "节日福利"
-      ],
-      "activeTime": 1725222817013,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "兰州瑞海天地",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "兰州瑞海天地",
+        "certificated": true,
+        "large": null,
+        "name": "曹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725222817013,
+        "brandName": "兰州瑞海天地",
+        "customerBrandName": "兰州瑞海天地",
+        "customerBrandStageName": "",
+        "encryptBrandId": "804e4bd11b71cb5d1HRy29m9Fw~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "加班补助",
+            "全勤奖",
+            "年终奖",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "兰州城关区华宇大厦(南昌路)",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c56cfc13dc4b19171XBy3d-0ElU~",
+        "encryptId": "5c334e6b8f1aa25f1Hdz2di1FVQ~",
+        "encryptUserId": "8e2955ec45c3be8203143NS_FVU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.052476,
+        "location": 101160100,
+        "locationName": "兰州",
+        "longitude": 103.863349,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad0ba65411bb28a584018c12dcd67ca1",
+        "position": 100107,
+        "positionName": ".NET",
+        "postDescription": "负责客户项目的日常运行，收集、解决系统中出现的问题；\r\n具有软件开发基础；\r\n熟练.net技术优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "C#",
+            "Java",
+            "数据库"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c513b27e4f3db36040a190cd9623202c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "L2BS1L-1BUIZv-a1vALzzd2nx9fLJzQBraZXoqKDV8IO7i54e2elGLNzA_7as7WMIAF_sCDPzv-W70BNx3qDHcP7i_BeQ0KcZ_C7JspVrjeu7sAP",
+    "selfAccess": false,
+    "sessionId": null
 }

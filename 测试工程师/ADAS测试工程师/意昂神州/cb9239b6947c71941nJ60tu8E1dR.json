@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RF4KVm1Qa9lBb-u1VVa0geFlOLT_0pYrIUJc4Twk6Hv2nF3KZykO9xxU_0J5S06jZPCnEbOZzPUYbrTqZ_xKb6g0sVLMK2YnZdnjA7g-B3Mos_Kg",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cb9239b6947c71941nJ60tu8E1dR",
-      "encryptUserId": "6a4edd440b6b461803Vz29q6E1A~",
-      "invalidStatus": false,
-      "jobName": "ADAS测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101180100,
-      "locationName": "郑州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责搭建ADAS控制器硬件在环测试系统；\n2、搭建测试场景设计；\n3、设计自动化测试程序、执行测试流程；\n4、负责分析总结测试报告和遇到的问题；\n\n任职要求：\n1、自动化控制、电子信息、机电一体化、内燃机、车辆工程、机械工程等相关专业本科及以上学历；\n2、具有3年以上ADAS/智能驾驶方向开发测试经验；\n3、熟悉ADAS测试法规，控制算法；\n4、熟悉1种道路场景搭建软件；\n5、熟悉雷达、摄像头等传感器的原理及模拟测试方法；",
-      "encryptAddressId": "fdc104a1fec7a5a03nd729y6",
-      "address": "郑州新郑市河南机电职业学院图书馆8楼",
-      "longitude": 113.71627,
-      "latitude": 34.589468,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc507c515af102367933fa10095b5b31",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e446e95c1e4b59a50aa3cff036f8125",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ADAS测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "花女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180704/27f91014709f112e1a8512ce287ff890cfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "意昂神州",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5978d71bfedcc7021HF_3Nm-",
-      "brandName": "意昂神州",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100801,
-      "industryName": "汽车研发/制造",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722954947981,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "意昂神州",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "意昂神州",
+        "certificated": true,
+        "large": null,
+        "name": "花女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180704/27f91014709f112e1a8512ce287ff890cfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722954947981,
+        "brandName": "意昂神州",
+        "customerBrandName": "意昂神州",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5978d71bfedcc7021HF_3Nm-",
+        "focusBrand": false,
+        "industry": 100801,
+        "industryName": "汽车研发/制造",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "郑州新郑市河南机电职业学院图书馆8楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "fdc104a1fec7a5a03nd729y6",
+        "encryptId": "cb9239b6947c71941nJ60tu8E1dR",
+        "encryptUserId": "6a4edd440b6b461803Vz29q6E1A~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "ADAS测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.589468,
+        "location": 101180100,
+        "locationName": "郑州",
+        "longitude": 113.71627,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e446e95c1e4b59a50aa3cff036f8125",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、负责搭建ADAS控制器硬件在环测试系统；\n2、搭建测试场景设计；\n3、设计自动化测试程序、执行测试流程；\n4、负责分析总结测试报告和遇到的问题；\n\n任职要求：\n1、自动化控制、电子信息、机电一体化、内燃机、车辆工程、机械工程等相关专业本科及以上学历；\n2、具有3年以上ADAS/智能驾驶方向开发测试经验；\n3、熟悉ADAS测试法规，控制算法；\n4、熟悉1种道路场景搭建软件；\n5、熟悉雷达、摄像头等传感器的原理及模拟测试方法；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K·13薪",
+        "showSkills": [
+            "ADAS测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc507c515af102367933fa10095b5b31"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RF4KVm1Qa9lBb-u1VVa0geFlOLT_0pYrIUJc4Twk6Hv2nF3KZykO9xxU_0J5S06jZPCnEbOZzPUYbrTqZ_xKb6g0sVLMK2YnZdnjA7g-B3Mos_Kg",
+    "selfAccess": false,
+    "sessionId": null
 }

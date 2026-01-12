@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HPoMoU7I1Iwuu-u1s4iizgqAlwb_vvh8jn-ly_7t2WLy4Y5LFbxCsPRRIDX_yCars8H-cZ8bLJQ1WUPoAfLo1GFUAeErVrfx8AG7x3ArYR7E_EOxusZqxx19lzE_hkgO2VLCPBUZusc0cv5P5pUxDfeK",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d9178514e11d5f521XJ42tm1FFVZ",
-      "encryptUserId": "3f17cc5792469edb0nZ_2tm4GFZT",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100803,
-      "positionName": "自动化",
-      "location": 101091100,
-      "locationName": "秦皇岛",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "自动化系统上位机开发  数据库  报表插件",
-      "encryptAddressId": "1f30e3a7d14e56541nZ609q_F1BXx4S6VPmX",
-      "address": "秦皇岛海港区河北天粮餐饮管理集团4楼",
-      "longitude": 119.54245,
-      "latitude": 39.941023,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a518787a2425d51e51b0a2e58fff40b5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/305890edcf8856149fdff01f929107fe",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C/C++",
-        "C#",
-        "计算机相关专业",
-        "电子电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "何先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210329/91caedf31e96b8029e0eba91a15774b153df98741a16add10e0d0547890_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "宇翔自动化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "446568bac04797951nF43tu5E1Q~",
-      "brandName": "宇翔自动化",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724649162335,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宇翔自动化",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宇翔自动化",
+        "certificated": true,
+        "large": null,
+        "name": "何先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210329/91caedf31e96b8029e0eba91a15774b153df98741a16add10e0d0547890_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724649162335,
+        "brandName": "宇翔自动化",
+        "customerBrandName": "宇翔自动化",
+        "customerBrandStageName": "",
+        "encryptBrandId": "446568bac04797951nF43tu5E1Q~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "秦皇岛海港区河北天粮餐饮管理集团4楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1f30e3a7d14e56541nZ609q_F1BXx4S6VPmX",
+        "encryptId": "d9178514e11d5f521XJ42tm1FFVZ",
+        "encryptUserId": "3f17cc5792469edb0nZ_2tm4GFZT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.941023,
+        "location": 101091100,
+        "locationName": "秦皇岛",
+        "longitude": 119.54245,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/305890edcf8856149fdff01f929107fe",
+        "position": 100803,
+        "positionName": "自动化",
+        "postDescription": "自动化系统上位机开发  数据库  报表插件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K·14薪",
+        "showSkills": [
+            "C/C++",
+            "C#",
+            "计算机相关专业",
+            "电子电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a518787a2425d51e51b0a2e58fff40b5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HPoMoU7I1Iwuu-u1s4iizgqAlwb_vvh8jn-ly_7t2WLy4Y5LFbxCsPRRIDX_yCars8H-cZ8bLJQ1WUPoAfLo1GFUAeErVrfx8AG7x3ArYR7E_EOxusZqxx19lzE_hkgO2VLCPBUZusc0cv5P5pUxDfeK",
+    "selfAccess": false,
+    "sessionId": null
 }

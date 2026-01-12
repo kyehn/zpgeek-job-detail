@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ctlHzO3nU3ok5-M1Jatdiv-KMH6jxvvvfS89X43fMb7FHEFXaGqQZ3HOMeoyL0V1OGP94ZQVnx7UYK_gnMBwM069csjkBbVy9hxSckdhS5hjHoRB70A~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "18c16edbafcc32811XN62dy_FVFU",
-      "encryptUserId": "1739beafb1d4cb251Hx63dy0FVE~",
-      "invalidStatus": false,
-      "jobName": "分析师",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、本科及以上学历，电力系统、经济学、数学、汉语言文学、编辑出版等相关专业优先；\n2、工作经验不限，具有信息化项目管理、电网项目管理、电力电网项目后评价工作经验优先；\n3、具备较强的文字写作能力、数据分析能力和沟通协调表达能力；\n4、工作踏实、严谨细致、责任心强、有良好的团队合作精神；\n5．能够熟练使用Word、Excel、PPT、Visio等常用办公软件。",
-      "encryptAddressId": "0bc1607db9f45aa333Z72tS9GVA~",
-      "address": "北京朝阳区中航华北大厦3031",
-      "longitude": 116.499659,
-      "latitude": 39.897564,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46cae6afd66586fde62642129278ab46",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c506b1d5a0f66323561caf52146caa48",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据分析/挖掘经验",
-        "数学/统计相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "戚女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "德辉睿源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "974264e622fc0e1a1XF_2d-7FVs~",
-      "brandName": "德辉睿源",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100601,
-      "industryName": "咨询",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725322889181,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "德辉睿源",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "德辉睿源",
+        "certificated": true,
+        "large": null,
+        "name": "戚女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725322889181,
+        "brandName": "德辉睿源",
+        "customerBrandName": "德辉睿源",
+        "customerBrandStageName": "",
+        "encryptBrandId": "974264e622fc0e1a1XF_2d-7FVs~",
+        "focusBrand": false,
+        "industry": 100601,
+        "industryName": "咨询",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区中航华北大厦3031",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "0bc1607db9f45aa333Z72tS9GVA~",
+        "encryptId": "18c16edbafcc32811XN62dy_FVFU",
+        "encryptUserId": "1739beafb1d4cb251Hx63dy0FVE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.897564,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.499659,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c506b1d5a0f66323561caf52146caa48",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "1、本科及以上学历，电力系统、经济学、数学、汉语言文学、编辑出版等相关专业优先；\n2、工作经验不限，具有信息化项目管理、电网项目管理、电力电网项目后评价工作经验优先；\n3、具备较强的文字写作能力、数据分析能力和沟通协调表达能力；\n4、工作踏实、严谨细致、责任心强、有良好的团队合作精神；\n5．能够熟练使用Word、Excel、PPT、Visio等常用办公软件。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "数据分析/挖掘经验",
+            "数学/统计相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46cae6afd66586fde62642129278ab46"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ctlHzO3nU3ok5-M1Jatdiv-KMH6jxvvvfS89X43fMb7FHEFXaGqQZ3HOMeoyL0V1OGP94ZQVnx7UYK_gnMBwM069csjkBbVy9hxSckdhS5hjHoRB70A~",
+    "selfAccess": false,
+    "sessionId": null
 }

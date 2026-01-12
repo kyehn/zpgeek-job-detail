@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "N7-sllPFb23GM-I19fHjZmjReenn_oknfSBsV22DekxjaIh8JDC-TqpiqH7H-oz0992WVRlfusECAjvrimMv9UcW4SxdE09sYTOFTtjOvWsDNsVngZu1hJFbT_mjJ7_dc7j4My0fj7Wo",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9daa82214eb8e0db33x42d6-ElM~",
-      "encryptUserId": "bf1252f3bf4fdb271nV40tS0GVtS",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101120300,
-      "locationName": "淄博",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "全日制统招本科，应届毕业生，学信网可查\n1.熟悉软件测试流程和方法，掌握软件工程知识；\n2.掌握测试用例设计，能够有效的编写并执行测试用例，提交测试报告；\n3.熟悉常用的缺陷管理工具、自动化测试工具、性能测试工具、配置管理工具；\n4.主动性、学习能力强、能够独立承担测试工作；\n5.有良好的沟通表达能力和团队协作精神，能够与软件开发团队保持良好的沟通和互动。",
-      "encryptAddressId": "7adc89bed393b8a41HZ-39m6FFM~",
-      "address": "淄博淄川区山东树测信息科技有限公司10号楼三层301室",
-      "longitude": 117.924617,
-      "latitude": 36.668142,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10b735fe3536d19f3501353778888c61",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/130de0d3b67b2dee978b453aa024b080",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机软件",
-        "自动化测试",
-        "测试工程师",
-        "性能测试",
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "运营经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200612/56cd6c2683483a59090cd946535936d586e5763177f0b75900f55ed4376_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "树测科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8e79d45fe24af98333x70920FQ~~",
-      "brandName": "树测科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725464128028,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "树测科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "树测科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200612/56cd6c2683483a59090cd946535936d586e5763177f0b75900f55ed4376_b.jpg",
+        "title": "运营经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725464128028,
+        "brandName": "树测科技",
+        "customerBrandName": "树测科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8e79d45fe24af98333x70920FQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "淄博淄川区山东树测信息科技有限公司10号楼三层301室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7adc89bed393b8a41HZ-39m6FFM~",
+        "encryptId": "9daa82214eb8e0db33x42d6-ElM~",
+        "encryptUserId": "bf1252f3bf4fdb271nV40tS0GVtS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.668142,
+        "location": 101120300,
+        "locationName": "淄博",
+        "longitude": 117.924617,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/130de0d3b67b2dee978b453aa024b080",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "全日制统招本科，应届毕业生，学信网可查\n1.熟悉软件测试流程和方法，掌握软件工程知识；\n2.掌握测试用例设计，能够有效的编写并执行测试用例，提交测试报告；\n3.熟悉常用的缺陷管理工具、自动化测试工具、性能测试工具、配置管理工具；\n4.主动性、学习能力强、能够独立承担测试工作；\n5.有良好的沟通表达能力和团队协作精神，能够与软件开发团队保持良好的沟通和互动。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "计算机软件",
+            "自动化测试",
+            "测试工程师",
+            "性能测试",
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10b735fe3536d19f3501353778888c61"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "N7-sllPFb23GM-I19fHjZmjReenn_oknfSBsV22DekxjaIh8JDC-TqpiqH7H-oz0992WVRlfusECAjvrimMv9UcW4SxdE09sYTOFTtjOvWsDNsVngZu1hJFbT_mjJ7_dc7j4My0fj7Wo",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xMAOlZK5umjLy-91673iB001X1oBYSbaeTTgXzoUe_7ing5TrtfDHFcZqsnaXQHjPFrV_gjut3RRsx_rbzGdqjCnR3n6seXwqibUDRbzoieMBwJyYw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3babc2dd05d98b321nB92dW_EFtR",
-      "encryptUserId": "775e42399a6b456a33d92tu6FlQ~",
-      "invalidStatus": false,
-      "jobName": "后端开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190800,
-      "locationName": "徐州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "①中级要求：3-5年工作经验，参与过大中型项目开发, 了解开发规范，精通Java语言及J2EE体系结构，掌握面向对象、反射、多线程等基础知识，熟悉JVM调优、性能问题分析的方法，掌握Spring、SpringMVC、iBatis等开源框架，熟悉IoC、AOP、事务等核心组件，会使用Git，禅道， Jenkins；\n②高级要求：>5 年工作经验，精通Java语言及J2EE体系结构，掌握面向对象、反射、多线程等基础知识，熟悉JVM调优、性能问题分析的方法，掌握Spring、SpringMVC、iBatis等开源框架，熟悉IoC、AOP、事务等核心组件，熟悉MySQL、Oracle等传统数据库原理，熟悉SQL调优和数据库性能优化方案，了解各种NoSQL的特性和使用场景，熟悉大容量、高并发的分布式系统设计，使用过消息、分布式缓存、分布式事务、分布式锁等技术框架；",
-      "encryptAddressId": "b942017b9e25f0ce3nR63dq5ElQ~",
-      "address": "徐州铜山区徐州国家高新区大学创业园B805室",
-      "longitude": 117.14216,
-      "latitude": 34.20552,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5a791ca52e102f2b81aa0a2a4451c48",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d983295743f09c94ef27021c174d56e6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "分布式技术",
-        "多线程",
-        "MVC开发",
-        "Spring",
-        "Oracle",
-        "NoSQL",
-        "GIT"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "谢先生",
-      "title": "部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "江苏鼎格",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4d68e4755da6ef2e0nN92tm4Eg~~",
-      "brandName": "江苏鼎格",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190905/1a85f580d2f411668e5200e515becc1a35edd0728b6a2037b0e2802e63ea081d_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "公司所营酷客多产品，目前全国入驻商户将突破10000家，其中主营业务在产品规划及研发、移动小程序使用及开发实施、后台程序技术服务、信息推广等方面有强劲实力及优势。\n公司成立起至今稳步发展，不断突破，取得优异的成绩，良好的公司环境，人性化的管理，雄厚的实力是我们高圣公司一贯的宗旨。公司主要做新媒体方面业务，帮助客户实现推广曝光、引流转化、托管运营等方面的服务。 ",
-      "labels": [
-        "五险一金",
-        "全勤奖"
-      ],
-      "activeTime": 1731398625000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江苏鼎格",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江苏鼎格",
+        "certificated": true,
+        "large": null,
+        "name": "谢先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731398625000,
+        "brandName": "江苏鼎格",
+        "customerBrandName": "江苏鼎格",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "4d68e4755da6ef2e0nN92tm4Eg~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "公司所营酷客多产品，目前全国入驻商户将突破10000家，其中主营业务在产品规划及研发、移动小程序使用及开发实施、后台程序技术服务、信息推广等方面有强劲实力及优势。\n公司成立起至今稳步发展，不断突破，取得优异的成绩，良好的公司环境，人性化的管理，雄厚的实力是我们高圣公司一贯的宗旨。公司主要做新媒体方面业务，帮助客户实现推广曝光、引流转化、托管运营等方面的服务。 ",
+        "labels": [
+            "五险一金",
+            "全勤奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190905/1a85f580d2f411668e5200e515becc1a35edd0728b6a2037b0e2802e63ea081d_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "徐州铜山区徐州国家高新区大学创业园B805室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b942017b9e25f0ce3nR63dq5ElQ~",
+        "encryptId": "3babc2dd05d98b321nB92dW_EFtR",
+        "encryptUserId": "775e42399a6b456a33d92tu6FlQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "后端开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.20552,
+        "location": 101190800,
+        "locationName": "徐州",
+        "longitude": 117.14216,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d983295743f09c94ef27021c174d56e6",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "①中级要求：3-5年工作经验，参与过大中型项目开发, 了解开发规范，精通Java语言及J2EE体系结构，掌握面向对象、反射、多线程等基础知识，熟悉JVM调优、性能问题分析的方法，掌握Spring、SpringMVC、iBatis等开源框架，熟悉IoC、AOP、事务等核心组件，会使用Git，禅道， Jenkins；\n②高级要求：>5 年工作经验，精通Java语言及J2EE体系结构，掌握面向对象、反射、多线程等基础知识，熟悉JVM调优、性能问题分析的方法，掌握Spring、SpringMVC、iBatis等开源框架，熟悉IoC、AOP、事务等核心组件，熟悉MySQL、Oracle等传统数据库原理，熟悉SQL调优和数据库性能优化方案，了解各种NoSQL的特性和使用场景，熟悉大容量、高并发的分布式系统设计，使用过消息、分布式缓存、分布式事务、分布式锁等技术框架；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "SQL",
+            "分布式技术",
+            "多线程",
+            "MVC开发",
+            "Spring",
+            "Oracle",
+            "NoSQL",
+            "GIT"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5a791ca52e102f2b81aa0a2a4451c48"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xMAOlZK5umjLy-91673iB001X1oBYSbaeTTgXzoUe_7ing5TrtfDHFcZqsnaXQHjPFrV_gjut3RRsx_rbzGdqjCnR3n6seXwqibUDRbzoieMBwJyYw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

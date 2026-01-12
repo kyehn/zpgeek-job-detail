@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "27x7QaPHGCEg--e11zWv6TMwSfVXmjk-8kM7d5jYlVG4MlcCfiQIRBcF0BQ5fhZWn7FquTlrPPbEEJJWLp0A12ZEPLrYDqBX8puBitEeyUuCUsNRlKiOf9KgKiuGt6IxUeeD9Xydomj71RyaeuL1qQlMn8q6Xb324LVmIgFQi3oPFb1TwncdNG3H9NGMBA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "98b933f5b3d3557203V70tu8F1RW",
-      "encryptUserId": "5a95d297330c693b1nZz2929GVU~",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1.本科1年以上，统招本科，学信网可查\n2.有金融或银行经验优先\n3.沟通表达和学习能力强，人踏实稳定，工作态度积极\n岗位福利：\n1、缴纳六险一金\n2、加班可以调休或加班费",
-      "encryptAddressId": "86e59ba4971ac9d31nR429q-EFtSy4q-Uf-e",
-      "address": "北京海淀区中关村软件园16号楼",
-      "longitude": 116.286164,
-      "latitude": 40.043725,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3980573c127d21d7a24d83c3c825b6cf",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f038b1bbd0022bb532d2d40e7a25fd77",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd08a167fb8e535ffd4c0a36c7e0f4eb0bbfee88d8068578af179bc68ac5540530_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "节日福利"
-      ],
-      "activeTime": 1736934575708,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd08a167fb8e535ffd4c0a36c7e0f4eb0bbfee88d8068578af179bc68ac5540530_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1736934575708,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区中关村软件园16号楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "86e59ba4971ac9d31nR429q-EFtSy4q-Uf-e",
+        "encryptId": "98b933f5b3d3557203V70tu8F1RW",
+        "encryptUserId": "5a95d297330c693b1nZz2929GVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.043725,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.286164,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f038b1bbd0022bb532d2d40e7a25fd77",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职要求：\n1.本科1年以上，统招本科，学信网可查\n2.有金融或银行经验优先\n3.沟通表达和学习能力强，人踏实稳定，工作态度积极\n岗位福利：\n1、缴纳六险一金\n2、加班可以调休或加班费",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3980573c127d21d7a24d83c3c825b6cf"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "27x7QaPHGCEg--e11zWv6TMwSfVXmjk-8kM7d5jYlVG4MlcCfiQIRBcF0BQ5fhZWn7FquTlrPPbEEJJWLp0A12ZEPLrYDqBX8puBitEeyUuCUsNRlKiOf9KgKiuGt6IxUeeD9Xydomj71RyaeuL1qQlMn8q6Xb324LVmIgFQi3oPFb1TwncdNG3H9NGMBA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

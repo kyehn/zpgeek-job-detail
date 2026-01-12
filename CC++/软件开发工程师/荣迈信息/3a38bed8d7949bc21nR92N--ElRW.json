@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "o4o4d75Xeof4_-M178HWlMlkaAThARCs9bTrUe2C9mIcZ1C6_oa61MWUCfz43FcxWs211_URKslBzl9qXtAJx3D2kTQPI4HyvMWG0i5nAji5J18VCR7i",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3a38bed8d7949bc21nR92N--ElRW",
-      "encryptUserId": "9b2ea3d7a4ff4c2e0nR_3NW0GFJW",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "职位职责：\n1. Windows系统软件产品研发。\n2. Windows系统软件产品调试。\n职位要求：\n1. 计算机专业；\n2. 熟悉Windows内核和文件系统；\n3. 熟练C/C++等开发语言和工具；\n4. 具有驱动开发经验优先；\n5. 熟悉计算机存储行业优先；\n6. 熟悉Linux系统优先；\n7. 具备一定的英文读写能力；\n8. 有良好的沟通表达能力，善于观察，有独立分析、思考和解决问题的能力。",
-      "encryptAddressId": "85e1227aed0035dd03143Nq_EFM~",
-      "address": "上海浦东新区郭守敬路498号19号楼204",
-      "longitude": 121.597416,
-      "latitude": 31.209377,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14665033a019830e08c7f6bd87036916",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a81f65e30f67bf9658f97be2d9c1352b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "Windows",
-        "内核驱动",
-        "软件工程师",
-        "计算机软件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "谢先生",
-      "title": "总经理/技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201029/29c559600bab5128dd53fdf569f68121bbcb0d9dbea9eef735aa14dbd13_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "荣迈信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "15e69227c81380681nZ_0t-0F1U~",
-      "brandName": "荣迈信息",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201029/a6b957a5b569722f526794f3dd5945b4bbcb0d9dbea9eef735aa14dbd1319330_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "上海荣迈信息科技有限公司是一家具有丰富软件开发经验的独立软件开发商。公司主要立足于计算机存储行业，致力于各种高性能的存储解决方案和性能优化软件以及相关工具软件的研发，为全球不同行业的服务器用户和普通桌面用户解决存储瓶颈，提升系统性能。\n公司网站 https://www.romexsoftware.com/zh-cn/",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "餐补",
-        "节日福利"
-      ],
-      "activeTime": 1725373524593,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "荣迈信息",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "荣迈信息",
+        "certificated": true,
+        "large": null,
+        "name": "谢先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201029/29c559600bab5128dd53fdf569f68121bbcb0d9dbea9eef735aa14dbd13_b.jpg",
+        "title": "总经理/技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725373524593,
+        "brandName": "荣迈信息",
+        "customerBrandName": "荣迈信息",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "15e69227c81380681nZ_0t-0F1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "上海荣迈信息科技有限公司是一家具有丰富软件开发经验的独立软件开发商。公司主要立足于计算机存储行业，致力于各种高性能的存储解决方案和性能优化软件以及相关工具软件的研发，为全球不同行业的服务器用户和普通桌面用户解决存储瓶颈，提升系统性能。\n公司网站 https://www.romexsoftware.com/zh-cn/",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "餐补",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201029/a6b957a5b569722f526794f3dd5945b4bbcb0d9dbea9eef735aa14dbd1319330_s.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区郭守敬路498号19号楼204",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "85e1227aed0035dd03143Nq_EFM~",
+        "encryptId": "3a38bed8d7949bc21nR92N--ElRW",
+        "encryptUserId": "9b2ea3d7a4ff4c2e0nR_3NW0GFJW",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.209377,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.597416,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a81f65e30f67bf9658f97be2d9c1352b",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "职位职责：\n1. Windows系统软件产品研发。\n2. Windows系统软件产品调试。\n职位要求：\n1. 计算机专业；\n2. 熟悉Windows内核和文件系统；\n3. 熟练C/C++等开发语言和工具；\n4. 具有驱动开发经验优先；\n5. 熟悉计算机存储行业优先；\n6. 熟悉Linux系统优先；\n7. 具备一定的英文读写能力；\n8. 有良好的沟通表达能力，善于观察，有独立分析、思考和解决问题的能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "C++",
+            "Windows",
+            "内核驱动",
+            "软件工程师",
+            "计算机软件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14665033a019830e08c7f6bd87036916"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "o4o4d75Xeof4_-M178HWlMlkaAThARCs9bTrUe2C9mIcZ1C6_oa61MWUCfz43FcxWs211_URKslBzl9qXtAJx3D2kTQPI4HyvMWG0i5nAji5J18VCR7i",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rXvWEvWbsmrqK-b1tKEh-wCj3MAlWX5CZgbEvkh7DC-D2XTXTNj8sPoME2HZ4Np51a0qdMYD-xRROWIC1NZGJtB_ShZIIx0ms04Wl_q5bcaTAHzL",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a760de4fb2f425bf1nxz2dm5GFFV",
-      "encryptUserId": "e17c385a37588de11XV72t65FVo~",
-      "invalidStatus": false,
-      "jobName": "ERP实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "售前技术支持  代理商咨询服务",
-      "encryptAddressId": "bb8fe5ce1458586f1nN93d67GVU~",
-      "address": "北京海淀区牛顿·办公区306",
-      "longitude": 116.292763,
-      "latitude": 39.946002,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5abd705b60b63730bba7ad405d8fd122",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0da78eee0327ace2ea4d404069911fb9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售前支持",
-        "实施工程师/顾问"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "段先生",
-      "title": "北京区域运营总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211017/607f1f3d68754fd084e48924d02e93cf41c006535413e8f8f2eb09e8aff305d996674189748_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "速达软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6ca3c3486d04be331n153di0",
-      "brandName": "速达软件",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171111/e43a96b4df819fa4bc368b888f81515bcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "速达软件技术（广州）有限公司公司成立于1999年3月，总部位于广州市，是国内领先的企业管理软件开发及销售商。 公司始终致力于传播经营管理的智慧，帮助中小企业实现信息化管理。凭借多年来的不断积累，分公司分布在全国26个省市、经销商渠道商遍布全国。 公司在为员工提供有竞争力的薪酬和完善的福利之外，提供有竞争力的额外激励，让员工真正成为事业的合作伙伴。\n\n 公司官网：http://www.superdata.com.cn",
-      "labels": [
-        "交通补助",
-        "节日福利",
-        "通讯补贴",
-        "带薪年假",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1727209990997,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "速达软件",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "速达软件",
+        "certificated": true,
+        "large": null,
+        "name": "段先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211017/607f1f3d68754fd084e48924d02e93cf41c006535413e8f8f2eb09e8aff305d996674189748_b.jpg",
+        "title": "北京区域运营总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727209990997,
+        "brandName": "速达软件",
+        "customerBrandName": "速达软件",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "6ca3c3486d04be331n153di0",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "速达软件技术（广州）有限公司公司成立于1999年3月，总部位于广州市，是国内领先的企业管理软件开发及销售商。 公司始终致力于传播经营管理的智慧，帮助中小企业实现信息化管理。凭借多年来的不断积累，分公司分布在全国26个省市、经销商渠道商遍布全国。 公司在为员工提供有竞争力的薪酬和完善的福利之外，提供有竞争力的额外激励，让员工真正成为事业的合作伙伴。\n\n 公司官网：http://www.superdata.com.cn",
+        "labels": [
+            "交通补助",
+            "节日福利",
+            "通讯补贴",
+            "带薪年假",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171111/e43a96b4df819fa4bc368b888f81515bcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区牛顿·办公区306",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bb8fe5ce1458586f1nN93d67GVU~",
+        "encryptId": "a760de4fb2f425bf1nxz2dm5GFFV",
+        "encryptUserId": "e17c385a37588de11XV72t65FVo~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "ERP实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.946002,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.292763,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0da78eee0327ace2ea4d404069911fb9",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "售前技术支持  代理商咨询服务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "售前支持",
+            "实施工程师/顾问"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5abd705b60b63730bba7ad405d8fd122"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rXvWEvWbsmrqK-b1tKEh-wCj3MAlWX5CZgbEvkh7DC-D2XTXTNj8sPoME2HZ4Np51a0qdMYD-xRROWIC1NZGJtB_ShZIIx0ms04Wl_q5bcaTAHzL",
+    "selfAccess": false,
+    "sessionId": null
 }

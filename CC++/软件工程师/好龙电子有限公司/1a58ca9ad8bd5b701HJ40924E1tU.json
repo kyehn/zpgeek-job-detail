@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CHm8hMeBIXVOM-e1Qp-K_fczsLEzzJI6AanOoCRVRcYvRD5_sZ5b62nYHhpF3Iw9chcD-jtekeapYP-mKu2QfNMVA7qAIxMdSD4jsTlYU7X5x5UbaFw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1a58ca9ad8bd5b701HJ40924E1tU",
-      "encryptUserId": "4c5547f6c4f3303b1Xx82Ni1EVM~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "根据需要不断修改完善软件，进行软件归档整理。\n完成上级领导交办的其它工作任务。\n任职资格：\n男女不限，本科以上学历，工作1年以上，年龄在25-35岁。\n精通LINUX及Windows操作系统下的界面编程，以及驱动程序开发；熟悉QT、C++、C#、Java等编程语言，有良好的编程风格。\n能独立解决技术问题，具有较强的创新意识。\n掌握电子行业专业英语，能够熟练阅读相关英文数据文档1。\n薪资福利：\n双休，每天八小时工作制，五险一金。\n薪资待遇：7000-12000元/月。",
-      "encryptAddressId": "516638790916613b1Hx83d26EA~~",
-      "address": "南京江宁区南京阿福汽车控制系统有限公司虎啸路2号",
-      "longitude": 118.946706,
-      "latitude": 31.922657,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41fb50a430c7585b6cdfd8e3f68c0abe",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/689245963b243029f9cdfea38d541590",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "C"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陶女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210409/70ddb1a93c1ee7633125465396db1fc3137be362e7bb6d4cce1e9b04952_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "好龙电子有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c1f0e1fecfe0f5461nF-3964FlM~",
-      "brandName": "好龙电子有限公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719896691728,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "好龙电子有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "好龙电子有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "陶女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210409/70ddb1a93c1ee7633125465396db1fc3137be362e7bb6d4cce1e9b04952_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1719896691728,
+        "brandName": "好龙电子有限公司",
+        "customerBrandName": "好龙电子有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c1f0e1fecfe0f5461nF-3964FlM~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区南京阿福汽车控制系统有限公司虎啸路2号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "516638790916613b1Hx83d26EA~~",
+        "encryptId": "1a58ca9ad8bd5b701HJ40924E1tU",
+        "encryptUserId": "4c5547f6c4f3303b1Xx82Ni1EVM~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.922657,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.946706,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/689245963b243029f9cdfea38d541590",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "根据需要不断修改完善软件，进行软件归档整理。\n完成上级领导交办的其它工作任务。\n任职资格：\n男女不限，本科以上学历，工作1年以上，年龄在25-35岁。\n精通LINUX及Windows操作系统下的界面编程，以及驱动程序开发；熟悉QT、C++、C#、Java等编程语言，有良好的编程风格。\n能独立解决技术问题，具有较强的创新意识。\n掌握电子行业专业英语，能够熟练阅读相关英文数据文档1。\n薪资福利：\n双休，每天八小时工作制，五险一金。\n薪资待遇：7000-12000元/月。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "C++",
+            "C"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41fb50a430c7585b6cdfd8e3f68c0abe"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CHm8hMeBIXVOM-e1Qp-K_fczsLEzzJI6AanOoCRVRcYvRD5_sZ5b62nYHhpF3Iw9chcD-jtekeapYP-mKu2QfNMVA7qAIxMdSD4jsTlYU7X5x5UbaFw~",
+    "selfAccess": false,
+    "sessionId": null
 }

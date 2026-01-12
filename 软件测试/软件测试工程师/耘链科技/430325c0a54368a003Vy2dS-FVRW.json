@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tLQxdvqKaerz5-L16u9NwPErN_ZicPx4iVveOQpy10mZ4AG3tNs0J5epvMViBVea9fqHLW1BXotfrnIKoyKHiz2qQIfo-zhZLnqPG3Bk1z_gz6kmS6IqXQwTP6wvT1_lNg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "430325c0a54368a003Vy2dS-FVRW",
-      "encryptUserId": "e645e9bd5af0d9a10XB93Nu1E1M~",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101210700,
-      "locationName": "温州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "主要职责：\n\n设计和执行手动和自动化测试用例，确保软件的功能、性能和安全性。\n\n识别、记录和跟踪软件缺陷，并与开发团队合作确保问题得到解决。\n\n参与需求评审，提供测试视角的反馈，确保需求的可测试性。\n\n开发和维护自动化测试脚本，提高测试效率。\n\n编写和维护测试文档，包括测试计划、测试用例和测试报告。\n\n参与持续集成和持续交付（CI/CD）流程，确保软件在每次构建后都能通过自动化测试。\n\n与跨职能团队合作，确保产品质量和交付进度。\n\n任职要求：\n\n计算机科学、信息技术或相关领域的专业。\n\n至少2年软件测试经验，熟悉软件开发生命周期（SDLC）和软件测试生命周期（STLC）。\n\n熟悉至少一种编程语言（如Java、Python、C#，TypeScript等），并具备编写自动化测试脚本的能力。\n\n熟悉常用的测试工具和框架，如Selenium、JUnit、TestNG、Postman等。\n\n熟悉数据库操作和SQL查询。\n\n具备良好的问题分析和解决能力，能够快速定位和复现问题。\n\n具备良好的沟通能力和团队合作精神，能够与开发、产品和管理团队有效协作。\n\n有性能测试、安全测试或移动端测试经验者优先。\n\n熟悉敏捷开发流程者优先",
-      "encryptAddressId": "3090f854a176564c3nx_2tW_FVBYxo-4WPw~",
-      "address": "温州瓯海区数字经济大厦16楼",
-      "longitude": 120.656624,
-      "latitude": 27.96015,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d336419d7a753e242f1d97e26ca09d26",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9b9931a7b7bebb6bce78b01ce8427bb",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "邹女士",
-      "title": "人事行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "耘链科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0596216dd59b71ee1HF80t2_ElI~",
-      "brandName": "耘链科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1739783906987,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "耘链科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "耘链科技",
+        "certificated": true,
+        "large": null,
+        "name": "邹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1739783906987,
+        "brandName": "耘链科技",
+        "customerBrandName": "耘链科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0596216dd59b71ee1HF80t2_ElI~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "温州瓯海区数字经济大厦16楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "3090f854a176564c3nx_2tW_FVBYxo-4WPw~",
+        "encryptId": "430325c0a54368a003Vy2dS-FVRW",
+        "encryptUserId": "e645e9bd5af0d9a10XB93Nu1E1M~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 27.96015,
+        "location": 101210700,
+        "locationName": "温州",
+        "longitude": 120.656624,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9b9931a7b7bebb6bce78b01ce8427bb",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "主要职责：\n\n设计和执行手动和自动化测试用例，确保软件的功能、性能和安全性。\n\n识别、记录和跟踪软件缺陷，并与开发团队合作确保问题得到解决。\n\n参与需求评审，提供测试视角的反馈，确保需求的可测试性。\n\n开发和维护自动化测试脚本，提高测试效率。\n\n编写和维护测试文档，包括测试计划、测试用例和测试报告。\n\n参与持续集成和持续交付（CI/CD）流程，确保软件在每次构建后都能通过自动化测试。\n\n与跨职能团队合作，确保产品质量和交付进度。\n\n任职要求：\n\n计算机科学、信息技术或相关领域的专业。\n\n至少2年软件测试经验，熟悉软件开发生命周期（SDLC）和软件测试生命周期（STLC）。\n\n熟悉至少一种编程语言（如Java、Python、C#，TypeScript等），并具备编写自动化测试脚本的能力。\n\n熟悉常用的测试工具和框架，如Selenium、JUnit、TestNG、Postman等。\n\n熟悉数据库操作和SQL查询。\n\n具备良好的问题分析和解决能力，能够快速定位和复现问题。\n\n具备良好的沟通能力和团队合作精神，能够与开发、产品和管理团队有效协作。\n\n有性能测试、安全测试或移动端测试经验者优先。\n\n熟悉敏捷开发流程者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "性能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d336419d7a753e242f1d97e26ca09d26"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tLQxdvqKaerz5-L16u9NwPErN_ZicPx4iVveOQpy10mZ4AG3tNs0J5epvMViBVea9fqHLW1BXotfrnIKoyKHiz2qQIfo-zhZLnqPG3Bk1z_gz6kmS6IqXQwTP6wvT1_lNg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

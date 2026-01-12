@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4qSSRUtfTMkkx-a1FVvJCWHfkSWK4jkKaW1e05yhFOg6Cx0C7koNAtcx_zruck1cuuF5oB4bX3je9u5Thw5DBQGTBo3eu79xmTU-7WzmyVIdvfvnnVYQWBNlWzlGWq3dxu9KJ0AFhlCnREppvFPK2C1HXUpYDcc2XJ9Gzv1ORr5AYD-F",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "30e79315bd5c43d01H1y2N66ElFY",
-      "encryptUserId": "80997ffd0846dafc1Xx-39i4Els~",
-      "invalidStatus": false,
-      "jobName": "系统运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.驻场系统运维。\n2.负责江汉大学智算中心云平台管理。\n岗位要求：\n1.有相关实习经验的应届毕业生或工作经历在1-3年。\n2.熟悉云计算平台，如AWS、Azure、阿里云等，能够进行云资源的部署和管理。\n3.熟悉Nagios、Zabbix、Prometheus等监控工具，以及Ansible、Puppet等自动化工具。\n4.了解并能应用如VMware、KVM、Docker等虚拟化技术。\n5.具备良好的沟通能力，能够与团队成员和客户有效沟通。",
-      "encryptAddressId": "3652e63822f7fdda1nBy29u_F1NQwoi8VfiZ",
-      "address": "武汉蔡甸区江汉大学101",
-      "longitude": 114.160519,
-      "latitude": 30.515297,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e602801a9bda4ea815e4af0b48ea7467",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a69bc81d4f1e13eac37889d946e80aaf",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "云平台",
-        "VMware"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "神州数码",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5cb0efef7cd4efe03nB609--EA~~",
-      "brandName": "神州数码",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201125/0a45aef1e3231e84a75722c1bfe0ea3d3070cb7d7a06b1ad6944092c8eefc78c_s.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "神州数码集团股份有限公司（简称：神州数码；股票代码：000034.SZ）其名字源于Digital China，数字中国。\n践行“数字中国”之理想，从2000年成立伊始，神州数码始终坚持以自主创新核心技术赋能产业数字化转型和数字经济发展，推动中华民族的伟大复兴。作为中国优秀的云及数字化服务商之一，神州数码以自主创新和生态体系为依托，构建起全栈云服务能力，及全线自有品牌产品及解决方案能力，为处在不同数字化转型阶段的行业客户提供全生命周期的产品、方案和服务，持续赋能产业升级和数字经济发展。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1731315597627,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "神州数码",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "神州数码",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731315597627,
+        "brandName": "神州数码",
+        "customerBrandName": "神州数码",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "5cb0efef7cd4efe03nB609--EA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "神州数码集团股份有限公司（简称：神州数码；股票代码：000034.SZ）其名字源于Digital China，数字中国。\n践行“数字中国”之理想，从2000年成立伊始，神州数码始终坚持以自主创新核心技术赋能产业数字化转型和数字经济发展，推动中华民族的伟大复兴。作为中国优秀的云及数字化服务商之一，神州数码以自主创新和生态体系为依托，构建起全栈云服务能力，及全线自有品牌产品及解决方案能力，为处在不同数字化转型阶段的行业客户提供全生命周期的产品、方案和服务，持续赋能产业升级和数字经济发展。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201125/0a45aef1e3231e84a75722c1bfe0ea3d3070cb7d7a06b1ad6944092c8eefc78c_s.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉蔡甸区江汉大学101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3652e63822f7fdda1nBy29u_F1NQwoi8VfiZ",
+        "encryptId": "30e79315bd5c43d01H1y2N66ElFY",
+        "encryptUserId": "80997ffd0846dafc1Xx-39i4Els~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.515297,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.160519,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a69bc81d4f1e13eac37889d946e80aaf",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.驻场系统运维。\n2.负责江汉大学智算中心云平台管理。\n岗位要求：\n1.有相关实习经验的应届毕业生或工作经历在1-3年。\n2.熟悉云计算平台，如AWS、Azure、阿里云等，能够进行云资源的部署和管理。\n3.熟悉Nagios、Zabbix、Prometheus等监控工具，以及Ansible、Puppet等自动化工具。\n4.了解并能应用如VMware、KVM、Docker等虚拟化技术。\n5.具备良好的沟通能力，能够与团队成员和客户有效沟通。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "云平台",
+            "VMware"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e602801a9bda4ea815e4af0b48ea7467"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4qSSRUtfTMkkx-a1FVvJCWHfkSWK4jkKaW1e05yhFOg6Cx0C7koNAtcx_zruck1cuuF5oB4bX3je9u5Thw5DBQGTBo3eu79xmTU-7WzmyVIdvfvnnVYQWBNlWzlGWq3dxu9KJ0AFhlCnREppvFPK2C1HXUpYDcc2XJ9Gzv1ORr5AYD-F",
+    "selfAccess": false,
+    "sessionId": null
 }

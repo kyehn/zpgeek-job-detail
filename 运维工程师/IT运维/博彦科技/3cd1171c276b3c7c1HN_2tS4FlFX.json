@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "kAaSBdXwDPRq4-A10N58NuwJqskspoAwLgO8ipTYVkwldYbGHrOZhSuTm7SyRTyc37aPIGop6N5ckPmJi8wzA4S4y4X6Ibzeqk0FJ4SzEV35BAT2ez7O",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3cd1171c276b3c7c1HN_2tS4FlFX",
-      "encryptUserId": "49114336e32a29fa0ndz2NS-FFZU",
-      "invalidStatus": false,
-      "jobName": "it运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司电脑终端操作系统和软件安装、故障排除；\n2、负责公司内投影仪，打印机，视频会议等设备技术支持；\n3、负责公司电脑终端归还检测。\n\n任职要求：\n1、具备一定的计算机软、硬件知识。\n2、了解当前主流的桌面操作系统，能进行Windows操作系统安装、配置、基本功能及常见问题故障诊断，对MacOS操作系统有一定的安装配置基础。\n3、了解打印机、投影、视频会议等常见设备的基本操作。\n4、计算机等相关专业应届生优先。\n5、工作认真负责，细致、有耐心，具有较强的服务意识，良好的团队意识和团队合作精神。",
-      "encryptAddressId": "3c9e6bb791c153d23nB729W-F1M~",
-      "address": "南京雨花台区南京天溯科技园5栋",
-      "longitude": 118.756208,
-      "latitude": 31.973969,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2957930db096e26d8083c644988f091f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/746aea96a370d0d61dd0fd4958fc34b8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "桌面运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "田女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220824/607f1f3d68754fd0b29d032006284d72f2107c48d9c6958447d21aa9c95fc2eea0bca19d333_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "博彦科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "423a6ce28f3345a51HJy2dS5FlY~",
-      "brandName": "博彦科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/eb7c416aa1c228b43cbae35dbf1e6990cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "官网：https://www.beyondsoft.com/\n博彦科技（深交所上市公司, 股票代码002649）是亚太领先的全方位IT服务及行业解决方案提供商，具备全球范围内的交付能力。博彦科技创立于1995年，员工20000多人, 是中国IT行业的先行者和领军企业，拥有完善、成熟的管理和开发流程，确保为客户提供高质量的服务。公司全球总部设在北京中关村，在上海、深圳、广州、武汉、天津、西安、大连、成都已经设立研发中心，在美国硅谷、西雅图、洛杉矶，日本东京、新加坡、加拿大、印度、台湾、香港等国家和地区设立了全资子公司。博彦科技依托自身强大的研发与创新能力，广泛采用基于大数据，云计算和移动互联等新兴技术，为高科技、互联网、金融、汽车、能源、制造、医疗、电信、媒体、旅游等行业客户提供丰富的解决方案和产品。我们期待您的加盟，博彦会为您提供广阔的发展空间，提升自身价值的加速动力，热切欢迎有志之士！",
-      "labels": [
-        "节日福利",
-        "免费班车",
-        "带薪年假",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1730973923879,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "博彦科技",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "博彦科技",
+        "certificated": true,
+        "large": null,
+        "name": "田女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220824/607f1f3d68754fd0b29d032006284d72f2107c48d9c6958447d21aa9c95fc2eea0bca19d333_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730973923879,
+        "brandName": "博彦科技",
+        "customerBrandName": "博彦科技",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "423a6ce28f3345a51HJy2dS5FlY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "官网：https://www.beyondsoft.com/\n博彦科技（深交所上市公司, 股票代码002649）是亚太领先的全方位IT服务及行业解决方案提供商，具备全球范围内的交付能力。博彦科技创立于1995年，员工20000多人, 是中国IT行业的先行者和领军企业，拥有完善、成熟的管理和开发流程，确保为客户提供高质量的服务。公司全球总部设在北京中关村，在上海、深圳、广州、武汉、天津、西安、大连、成都已经设立研发中心，在美国硅谷、西雅图、洛杉矶，日本东京、新加坡、加拿大、印度、台湾、香港等国家和地区设立了全资子公司。博彦科技依托自身强大的研发与创新能力，广泛采用基于大数据，云计算和移动互联等新兴技术，为高科技、互联网、金融、汽车、能源、制造、医疗、电信、媒体、旅游等行业客户提供丰富的解决方案和产品。我们期待您的加盟，博彦会为您提供广阔的发展空间，提升自身价值的加速动力，热切欢迎有志之士！",
+        "labels": [
+            "节日福利",
+            "免费班车",
+            "带薪年假",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/eb7c416aa1c228b43cbae35dbf1e6990cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区南京天溯科技园5栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3c9e6bb791c153d23nB729W-F1M~",
+        "encryptId": "3cd1171c276b3c7c1HN_2tS4FlFX",
+        "encryptUserId": "49114336e32a29fa0ndz2NS-FFZU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "it运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.973969,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.756208,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/746aea96a370d0d61dd0fd4958fc34b8",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责公司电脑终端操作系统和软件安装、故障排除；\n2、负责公司内投影仪，打印机，视频会议等设备技术支持；\n3、负责公司电脑终端归还检测。\n\n任职要求：\n1、具备一定的计算机软、硬件知识。\n2、了解当前主流的桌面操作系统，能进行Windows操作系统安装、配置、基本功能及常见问题故障诊断，对MacOS操作系统有一定的安装配置基础。\n3、了解打印机、投影、视频会议等常见设备的基本操作。\n4、计算机等相关专业应届生优先。\n5、工作认真负责，细致、有耐心，具有较强的服务意识，良好的团队意识和团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "系统运维",
+            "桌面运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2957930db096e26d8083c644988f091f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "kAaSBdXwDPRq4-A10N58NuwJqskspoAwLgO8ipTYVkwldYbGHrOZhSuTm7SyRTyc37aPIGop6N5ckPmJi8wzA4S4y4X6Ibzeqk0FJ4SzEV35BAT2ez7O",
+    "selfAccess": false,
+    "sessionId": null
 }

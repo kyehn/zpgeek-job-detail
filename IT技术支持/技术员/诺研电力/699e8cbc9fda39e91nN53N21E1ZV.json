@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pKwTuS9rmj3Eb-I1UM4BlYkLaXGSZHX-YFwekbGnyV8XU3gVUfZoMRfG10oz1JqVRQ-Ovji32fAQxud4pCIX0IRunlI73uyI6vj84wxATW-8ioPOdQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "699e8cbc9fda39e91nN53N21E1ZV",
-      "encryptUserId": "fdb42f8b027b446903xy09-1FVs~",
-      "invalidStatus": false,
-      "jobName": "技术员",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、学习能力强，能适应长期出差；\n2、对弱电知识有基础的了解；\n3、对Linux系统常见命令有所了解；\n4、对安防监控有一定的了解；\n5、动手能力强；\n6、高中以上学历；\n7、前期勘测\n8、施工指导\n9、项目调试 验收\n10、后期维护",
-      "encryptAddressId": "3ecfa7741acb903b1nBy39y5FFY~",
-      "address": "杭州余杭区栅庄桥农贸市场301",
-      "longitude": 120.082869,
-      "latitude": 30.396264,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3db5c42ae0076cf67f05c70a80612a7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5557ad78a4ef35edb0911e0fcb03e3b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux",
-        "网络协议"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "财务",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191023/b839dd0a4ce6eb5cf41d723b4531f6d5d285a1dc7b9a1214193b5909bc6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "诺研电力",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c2919625a97b65d0331-0tu0GQ~~",
-      "brandName": "诺研电力",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [
-        "加班补助",
-        "免费班车",
-        "餐补",
-        "包吃",
-        "包住"
-      ],
-      "activeTime": 1725340820306,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "诺研电力",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "诺研电力",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191023/b839dd0a4ce6eb5cf41d723b4531f6d5d285a1dc7b9a1214193b5909bc6_b.jpg",
+        "title": "财务"
+    },
+    "brandComInfo": {
+        "activeTime": 1725340820306,
+        "brandName": "诺研电力",
+        "customerBrandName": "诺研电力",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c2919625a97b65d0331-0tu0GQ~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [
+            "加班补助",
+            "免费班车",
+            "餐补",
+            "包吃",
+            "包住"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区栅庄桥农贸市场301",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3ecfa7741acb903b1nBy39y5FFY~",
+        "encryptId": "699e8cbc9fda39e91nN53N21E1ZV",
+        "encryptUserId": "fdb42f8b027b446903xy09-1FVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.396264,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.082869,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5557ad78a4ef35edb0911e0fcb03e3b",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "1、学习能力强，能适应长期出差；\n2、对弱电知识有基础的了解；\n3、对Linux系统常见命令有所了解；\n4、对安防监控有一定的了解；\n5、动手能力强；\n6、高中以上学历；\n7、前期勘测\n8、施工指导\n9、项目调试 验收\n10、后期维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "Linux",
+            "网络协议"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3db5c42ae0076cf67f05c70a80612a7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pKwTuS9rmj3Eb-I1UM4BlYkLaXGSZHX-YFwekbGnyV8XU3gVUfZoMRfG10oz1JqVRQ-Ovji32fAQxud4pCIX0IRunlI73uyI6vj84wxATW-8ioPOdQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

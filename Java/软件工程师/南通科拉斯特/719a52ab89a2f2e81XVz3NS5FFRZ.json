@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ohrG15AnxOHWp-o1hFTVwNNbULRaMIkPj88WIjL7NYNgVIwlkQhCKmtIWAIs_lLqY7YBbZEmv16jUWSGsLmf6YqiBJfnOYm2lHCdCZ8bmGt-JSpvwrgR",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "719a52ab89a2f2e81XVz3NS5FFRZ",
-      "encryptUserId": "731cfe9ba135c1210ndz2d68E1ZW",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190500,
-      "locationName": "南通",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、大专及以上学历，计算机相关专业毕业；\n2、熟练使用Java开发工具，设计和开发Java应用程序；\n3、负责Java的开发、架构设计与研发；\n4、具备良好的代码编写规范，依据项目进度与需求，能按时完成所需功能开发；\n5、具备良好逻辑思维能力，善于分析、归纳解决问题，拥有良好的沟通合作能力，具有团队精神及良好的自学能力。",
-      "encryptAddressId": "87e0137eb8ba9c9b0nd53tS4FVs~",
-      "address": "南通崇川区国际青创园6幢",
-      "longitude": 120.907957,
-      "latitude": 31.976827,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f3401e41a0065f9c14a7deed0e62c2b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/232a0bf44b15c081dd14b17e22fc6ed9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "南通科拉斯特",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "14f64acd995da3561XRy0t27FVY~",
-      "brandName": "南通科拉斯特",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724885991894,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南通科拉斯特",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南通科拉斯特",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1724885991894,
+        "brandName": "南通科拉斯特",
+        "customerBrandName": "南通科拉斯特",
+        "customerBrandStageName": "",
+        "encryptBrandId": "14f64acd995da3561XRy0t27FVY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南通崇川区国际青创园6幢",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "87e0137eb8ba9c9b0nd53tS4FVs~",
+        "encryptId": "719a52ab89a2f2e81XVz3NS5FFRZ",
+        "encryptUserId": "731cfe9ba135c1210ndz2d68E1ZW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.976827,
+        "location": 101190500,
+        "locationName": "南通",
+        "longitude": 120.907957,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/232a0bf44b15c081dd14b17e22fc6ed9",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、大专及以上学历，计算机相关专业毕业；\n2、熟练使用Java开发工具，设计和开发Java应用程序；\n3、负责Java的开发、架构设计与研发；\n4、具备良好的代码编写规范，依据项目进度与需求，能按时完成所需功能开发；\n5、具备良好逻辑思维能力，善于分析、归纳解决问题，拥有良好的沟通合作能力，具有团队精神及良好的自学能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "软件工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f3401e41a0065f9c14a7deed0e62c2b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ohrG15AnxOHWp-o1hFTVwNNbULRaMIkPj88WIjL7NYNgVIwlkQhCKmtIWAIs_lLqY7YBbZEmv16jUWSGsLmf6YqiBJfnOYm2lHCdCZ8bmGt-JSpvwrgR",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4n1hP79R93oiz-U1CG3pGmcP7eGHagnEL0Q2T5hHJVhCG8imS9fhy1018qs40ZZSE2JqTs5rk8Yj5hYD1ZhnJ_hF0LESRn-BLh1326TEgiDvJ5IMiInmambnwn44D08q2W7bUpTE4P9Eb_M~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c523735f002ff1e71HJy3tq7EltZ",
-      "encryptUserId": "7f4a4d9f6ecd0d040XF_39y1FlZT",
-      "invalidStatus": false,
-      "jobName": "java初级开发工程师（北京）",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、良好的沟通能力、理解能力、学习能力；\n2、熟悉一门开发语言，有软件开发经验。\n\n任职资格：\n1.本科及以上学历，计算机相关专业毕业；\n2.精通一门或多门开发语言，熟悉设计模式；\n3.熟练使用一种数据库（Oracle、DB2、SQLServer和MySQL）；\n4.良好文档编写能力，具有良好的团队合作精神。",
-      "encryptAddressId": "4771c99327f946331nR73dS0F1JUxIS6Uvuc",
-      "address": "北京通州区运河园路9号院通州区运河园路9号院3号楼11层1105",
-      "longitude": 116.688957,
-      "latitude": 39.910406,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf133e9646ab71948a48dcc7f0bc9300db6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bff01345fd4010806bd933256bf2fb98716bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "C++",
-        "Spring",
-        "SpringCloud",
-        "MySQL",
-        "Oracle",
-        "SQL Server"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "严女士",
-      "title": "综合部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240801/607f1f3d68754fd01a9d128f1e622964f745d159483878ab4888cb209ec38fdd701c08b5bbcfa5f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "易准",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bd637a5b17f55e0e1nx-3Nm8FlM~",
-      "brandName": "易准",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721532468160,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "易准",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "易准",
+        "certificated": true,
+        "large": null,
+        "name": "严女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240801/607f1f3d68754fd01a9d128f1e622964f745d159483878ab4888cb209ec38fdd701c08b5bbcfa5f_b.jpg",
+        "title": "综合部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721532468160,
+        "brandName": "易准",
+        "customerBrandName": "易准",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bd637a5b17f55e0e1nx-3Nm8FlM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京通州区运河园路9号院通州区运河园路9号院3号楼11层1105",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4771c99327f946331nR73dS0F1JUxIS6Uvuc",
+        "encryptId": "c523735f002ff1e71HJy3tq7EltZ",
+        "encryptUserId": "7f4a4d9f6ecd0d040XF_39y1FlZT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java初级开发工程师（北京）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.910406,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.688957,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bff01345fd4010806bd933256bf2fb98716bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1、良好的沟通能力、理解能力、学习能力；\n2、熟悉一门开发语言，有软件开发经验。\n\n任职资格：\n1.本科及以上学历，计算机相关专业毕业；\n2.精通一门或多门开发语言，熟悉设计模式；\n3.熟练使用一种数据库（Oracle、DB2、SQLServer和MySQL）；\n4.良好文档编写能力，具有良好的团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K·13薪",
+        "showSkills": [
+            "Java",
+            "C++",
+            "Spring",
+            "SpringCloud",
+            "MySQL",
+            "Oracle",
+            "SQL Server"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf133e9646ab71948a48dcc7f0bc9300db6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4n1hP79R93oiz-U1CG3pGmcP7eGHagnEL0Q2T5hHJVhCG8imS9fhy1018qs40ZZSE2JqTs5rk8Yj5hYD1ZhnJ_hF0LESRn-BLh1326TEgiDvJ5IMiInmambnwn44D08q2W7bUpTE4P9Eb_M~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BBojPiySg7UvX-h1TXdKS4nKdJUORk0uZm64Anoj0UeVoV_KUoiDTqSn0o-XDEbDbhIUTPLe4oz8LJXzs-clvcbRSZpk0FVWBgMI6Rs0FgYAHTitESXweGvv9R0CEFN47ns~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0e3b81fb5a3cf0821HZ909i4EVRZ",
-      "encryptUserId": "39fc8ece6c5196b61nVz3t-0EFJY",
-      "invalidStatus": false,
-      "jobName": "化妆品打板员",
-      "position": 300405,
-      "positionName": "化妆品研发",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、协助研发工程师完成配方的开发、打样、测试和实验数据整理归档。",
-      "encryptAddressId": "d5155f8853eace911nd53N60E1BV",
-      "address": "广州花都区花都区三东大道217号",
-      "longitude": 113.252483,
-      "latitude": 23.410282,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bf0ebba93427202ec90f6908cf1b410f246bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bf52cee5973f825325937c1e8b973c608b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "洗护",
-        "香氛",
-        "配方开发",
-        "护肤"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240102/607f1f3d68754fd0dec2fbd7a98ea9a6983ef23970248d02df951dd93dab6ef55edd8209cd87e88_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "科韵诗智能制造",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b6501e57021b04801HV43Ny4F1Y~",
-      "brandName": "科韵诗智能制造",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101002,
-      "industryName": "日化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733729274001,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "科韵诗智能制造",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "科韵诗智能制造",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240102/607f1f3d68754fd0dec2fbd7a98ea9a6983ef23970248d02df951dd93dab6ef55edd8209cd87e88_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1733729274001,
+        "brandName": "科韵诗智能制造",
+        "customerBrandName": "科韵诗智能制造",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b6501e57021b04801HV43Ny4F1Y~",
+        "focusBrand": false,
+        "industry": 101002,
+        "industryName": "日化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州花都区花都区三东大道217号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d5155f8853eace911nd53N60E1BV",
+        "encryptId": "0e3b81fb5a3cf0821HZ909i4EVRZ",
+        "encryptUserId": "39fc8ece6c5196b61nVz3t-0EFJY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "化妆品打板员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.410282,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.252483,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bf52cee5973f825325937c1e8b973c608b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 300405,
+        "positionName": "化妆品研发",
+        "postDescription": "1、协助研发工程师完成配方的开发、打样、测试和实验数据整理归档。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "洗护",
+            "香氛",
+            "配方开发",
+            "护肤"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bf0ebba93427202ec90f6908cf1b410f246bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BBojPiySg7UvX-h1TXdKS4nKdJUORk0uZm64Anoj0UeVoV_KUoiDTqSn0o-XDEbDbhIUTPLe4oz8LJXzs-clvcbRSZpk0FVWBgMI6Rs0FgYAHTitESXweGvv9R0CEFN47ns~",
+    "selfAccess": false,
+    "sessionId": null
 }

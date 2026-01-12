@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9XxPnBXqOrNM8-11-OoftgOoQTEyzZ9A-q1ZvL-Y6QNJu-FaMb5M7yjyzQUo4-bpinbGlnh_ZQVCFq8c0IobrBUjkkoi6TgNWw573Drol_FjA15pkA5TlyEBac8Z-mtKNPU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "37ee6c1099a515e003Ry0924F1BU",
-      "encryptUserId": "07c2f6a71e2c66510nR83Ni4EFJR",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、有1年以上小米手表穿戴表盘相关的测试经验\n2、熟悉趣味表盘、表盘试用、息屏表盘、人像表盘、AI表盘相关测试手法\n3、对组件表盘内的部件及各元素相对熟悉\n4、了解市场表盘的大部分表盘，如文字表盘、游戏表盘\n5、熟悉测试流程及各种软件测试方法，能够输出合格的测试报告，对测试结果有一定的判断能力\n6、熟练使用测试缺陷管理工具(JIRA优先）：\n7、思路清晰，有较强的逻辑思维，做事积极主动，责任心强，有良好的沟通能力、自学能力及独立解决问题的能力",
-      "encryptAddressId": "f6dfc369681e12051nB929q_FVdRxoy7UvuX",
-      "address": "南京雨花台区润芯微(南京)智能科技有限公司",
-      "longitude": 118.769616,
-      "latitude": 31.961481,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240819/48ba41acc9cef1bffb0dadecbab0f337ef157d9a2a3ee0256bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240819/48ba41acc9cef1bfaf44e1a3cd180a9707eb5c82aa55dbef6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "硬件测试",
-        "手表穿戴表盘"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241012/607f1f3d68754fd0d0e72e75efd97f8866371a2c2b87afcc7dce7c02e68bf1de902430670eeb32a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广州如是纵横科技服务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5871cec14cb3f97d1Hd82N-1GFI~",
-      "brandName": "广州如是纵横科技服务",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735210047518,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州如是纵横科技服务",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州如是纵横科技服务",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241012/607f1f3d68754fd0d0e72e75efd97f8866371a2c2b87afcc7dce7c02e68bf1de902430670eeb32a_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1735210047518,
+        "brandName": "广州如是纵横科技服务",
+        "customerBrandName": "广州如是纵横科技服务",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5871cec14cb3f97d1Hd82N-1GFI~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区润芯微(南京)智能科技有限公司",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "f6dfc369681e12051nB929q_FVdRxoy7UvuX",
+        "encryptId": "37ee6c1099a515e003Ry0924F1BU",
+        "encryptUserId": "07c2f6a71e2c66510nR83Ni4EFJR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.961481,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.769616,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240819/48ba41acc9cef1bfaf44e1a3cd180a9707eb5c82aa55dbef6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、有1年以上小米手表穿戴表盘相关的测试经验\n2、熟悉趣味表盘、表盘试用、息屏表盘、人像表盘、AI表盘相关测试手法\n3、对组件表盘内的部件及各元素相对熟悉\n4、了解市场表盘的大部分表盘，如文字表盘、游戏表盘\n5、熟悉测试流程及各种软件测试方法，能够输出合格的测试报告，对测试结果有一定的判断能力\n6、熟练使用测试缺陷管理工具(JIRA优先）：\n7、思路清晰，有较强的逻辑思维，做事积极主动，责任心强，有良好的沟通能力、自学能力及独立解决问题的能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "硬件测试",
+            "手表穿戴表盘"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240819/48ba41acc9cef1bffb0dadecbab0f337ef157d9a2a3ee0256bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9XxPnBXqOrNM8-11-OoftgOoQTEyzZ9A-q1ZvL-Y6QNJu-FaMb5M7yjyzQUo4-bpinbGlnh_ZQVCFq8c0IobrBUjkkoi6TgNWw573Drol_FjA15pkA5TlyEBac8Z-mtKNPU~",
+    "selfAccess": false,
+    "sessionId": null
 }

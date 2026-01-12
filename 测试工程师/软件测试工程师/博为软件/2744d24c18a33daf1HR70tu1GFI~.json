@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_wZUQK0uGP2Sj-31xaOsXbWvKXsnO1CFEu6r02sQrdKspl_1J8bukC1QaZCAP2BKo5rsp_fDI35sBV1YO2LuEve9fRNlVAqU78sEWoKYLTOYNpiD",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2744d24c18a33daf1HR70tu1GFI~",
-      "encryptUserId": "8f0187a7f6f17fac03173dW8GVU~",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280500,
-      "locationName": "汕头",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\r1、负责设计测试方案，制定测试计划，设计测试案例，执行测试案例，按照测试流程对软件产品进行全面、规范地测试；\r2、熟悉Bug跟踪系统，独立完成测试报告，推动问题及时解决；\r3、有较强的质量保证意识，对产品生命周期中的质量问题有洞察力；\r4、保障项目进、质量实现；\r5、熟悉window/linux操作系统，MySql、SQLServer等数据库优先；\r6、有一年以上物联网行业经验，有性能测试经验者优先；\r7、热爱软件测试工作,可以胜任重复性工作,工作细致认真,有耐心",
-      "encryptAddressId": "6c40a13c487169120XV82tm9F1I~",
-      "address": "汕头龙湖区中信大厦(金砂东路)1105",
-      "longitude": 116.728016,
-      "latitude": 23.366085,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2129146e11e1e679aee27b558c58341d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35391aa6f4aecad1d92ed283d69a45fc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "自动化测试",
-        "server端测试",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "博为软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a193e4d44c512dc51HR80ti4GQ~~",
-      "brandName": "博为软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725282362858,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "博为软件",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "博为软件",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725282362858,
+        "brandName": "博为软件",
+        "customerBrandName": "博为软件",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "a193e4d44c512dc51HR80ti4GQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "汕头龙湖区中信大厦(金砂东路)1105",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6c40a13c487169120XV82tm9F1I~",
+        "encryptId": "2744d24c18a33daf1HR70tu1GFI~",
+        "encryptUserId": "8f0187a7f6f17fac03173dW8GVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.366085,
+        "location": 101280500,
+        "locationName": "汕头",
+        "longitude": 116.728016,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35391aa6f4aecad1d92ed283d69a45fc",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\r1、负责设计测试方案，制定测试计划，设计测试案例，执行测试案例，按照测试流程对软件产品进行全面、规范地测试；\r2、熟悉Bug跟踪系统，独立完成测试报告，推动问题及时解决；\r3、有较强的质量保证意识，对产品生命周期中的质量问题有洞察力；\r4、保障项目进、质量实现；\r5、熟悉window/linux操作系统，MySql、SQLServer等数据库优先；\r6、有一年以上物联网行业经验，有性能测试经验者优先；\r7、热爱软件测试工作,可以胜任重复性工作,工作细致认真,有耐心",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K·13薪",
+        "showSkills": [
+            "测试工作经验",
+            "自动化测试",
+            "server端测试",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2129146e11e1e679aee27b558c58341d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_wZUQK0uGP2Sj-31xaOsXbWvKXsnO1CFEu6r02sQrdKspl_1J8bukC1QaZCAP2BKo5rsp_fDI35sBV1YO2LuEve9fRNlVAqU78sEWoKYLTOYNpiD",
+    "selfAccess": false,
+    "sessionId": null
 }

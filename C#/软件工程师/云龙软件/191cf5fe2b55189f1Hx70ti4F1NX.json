@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wh-0p5uEZTl0S-O1o08LREx5jjZWz0npDlzbcoCdkvBx79gnDJURCmBKCyDMMLzSaNBIuURGIaKhOjPrbrO0xOj8Mc1_E88Ici9YROn0VkMSZZOy_8jHm35C38oDivCvJUmxZsHI5QDnBj4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "191cf5fe2b55189f1Hx70ti4F1NX",
-      "encryptUserId": "b67d1c11a395c6991nVz29q-EFpY",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1.计算机专业相关，学历大专及以上。\n 2.互联网平台APP开发经验，工作经验3-5年，有互联网营销平台开发经验最佳。 \n3.熟悉C#等编程语言。 \n4.有一定的沟通能力和团队精神。 \n5.薪资面议",
-      "encryptAddressId": "faee350fa2153b551nZ73tm4F1JSy4m4Wf-c",
-      "address": "苏州吴中区中银惠龙大厦1707",
-      "longitude": 120.672727,
-      "latitude": 31.316346,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf50e6e54c200ff3d36b59c3e9a8eaf3b76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bfd7fc7cb6890a7892901d7182d1f7ca8a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机软件",
-        "后端",
-        "互联网平台开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "韩女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/useravatar/20200721/3f6356ce24acb23e6e95439c7336105e4201147f74d64ede4a45288c3b2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "云龙软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "05a1594136c4f0cc1X160964FFs~",
-      "brandName": "云龙软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729847390531,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云龙软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云龙软件",
+        "certificated": true,
+        "large": null,
+        "name": "韩女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/useravatar/20200721/3f6356ce24acb23e6e95439c7336105e4201147f74d64ede4a45288c3b2_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1729847390531,
+        "brandName": "云龙软件",
+        "customerBrandName": "云龙软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "05a1594136c4f0cc1X160964FFs~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区中银惠龙大厦1707",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "faee350fa2153b551nZ73tm4F1JSy4m4Wf-c",
+        "encryptId": "191cf5fe2b55189f1Hx70ti4F1NX",
+        "encryptUserId": "b67d1c11a395c6991nVz29q-EFpY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.316346,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.672727,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bfd7fc7cb6890a7892901d7182d1f7ca8a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "1.计算机专业相关，学历大专及以上。\n 2.互联网平台APP开发经验，工作经验3-5年，有互联网营销平台开发经验最佳。 \n3.熟悉C#等编程语言。 \n4.有一定的沟通能力和团队精神。 \n5.薪资面议",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K·13薪",
+        "showSkills": [
+            "计算机软件",
+            "后端",
+            "互联网平台开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf50e6e54c200ff3d36b59c3e9a8eaf3b76bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wh-0p5uEZTl0S-O1o08LREx5jjZWz0npDlzbcoCdkvBx79gnDJURCmBKCyDMMLzSaNBIuURGIaKhOjPrbrO0xOj8Mc1_E88Ici9YROn0VkMSZZOy_8jHm35C38oDivCvJUmxZsHI5QDnBj4~",
+    "selfAccess": false,
+    "sessionId": null
 }

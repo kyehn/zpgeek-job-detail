@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "A8C4EIMMSI11H-p1nfVkuZ0t95c1j2cOrT8MlCI6vCrej-PuJt9C9R2-O--Mbd-nwsuE19eFi0jPqfxeytEF6xih7tu25gUrIktRoSCDH8ipnpPvqfd1",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e2159327c6e67fd51nZ409-_FVtS",
-      "encryptUserId": "9904eead1339cf7b0nV839m_EFRY",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270500,
-      "locationName": "南充",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "专科及以上学历，环境工程、环境科学、环境科学与工程相关专业，有相关经验者优先。",
-      "encryptAddressId": "dabe3968c4f6100003R539u1Flc~",
-      "address": "南充嘉陵区南湖·凯旋广场22—1",
-      "longitude": 106.050496,
-      "latitude": 30.738558,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3202d2f5ee9458f958ac879431acc684",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ca811d1488e4d01af04b3244dea0543",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "代先生",
-      "title": "部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "四川省袄达丰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5a0b301bddb43dc61nZy39m4FFU~",
-      "brandName": "四川省袄达丰",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725222819160,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "四川省袄达丰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "四川省袄达丰",
+        "certificated": true,
+        "large": null,
+        "name": "代先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725222819160,
+        "brandName": "四川省袄达丰",
+        "customerBrandName": "四川省袄达丰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5a0b301bddb43dc61nZy39m4FFU~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南充嘉陵区南湖·凯旋广场22—1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "dabe3968c4f6100003R539u1Flc~",
+        "encryptId": "e2159327c6e67fd51nZ409-_FVtS",
+        "encryptUserId": "9904eead1339cf7b0nV839m_EFRY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.738558,
+        "location": 101270500,
+        "locationName": "南充",
+        "longitude": 106.050496,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ca811d1488e4d01af04b3244dea0543",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "专科及以上学历，环境工程、环境科学、环境科学与工程相关专业，有相关经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3202d2f5ee9458f958ac879431acc684"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "A8C4EIMMSI11H-p1nfVkuZ0t95c1j2cOrT8MlCI6vCrej-PuJt9C9R2-O--Mbd-nwsuE19eFi0jPqfxeytEF6xih7tu25gUrIktRoSCDH8ipnpPvqfd1",
+    "selfAccess": false,
+    "sessionId": null
 }

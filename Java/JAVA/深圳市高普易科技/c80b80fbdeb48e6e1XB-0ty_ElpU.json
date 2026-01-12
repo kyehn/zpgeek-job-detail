@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Vbr3j4k5rbod_-O1TKvsF6HXcrHdnDYp_bz5l5fYadWaN6myR20qLSN7UVdePEkavo_mV-k0qgaf5nfEk0c00y3jf7_bg2uzSY40wUhjjPedkN1jUvbA",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c80b80fbdeb48e6e1XB-0ty_ElpU",
-      "encryptUserId": "1791f4db26b35ff20nFy2Nq4GFFV",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉springboot 熟悉mysql数据库，能熟练运用sql语言sql优化等",
-      "encryptAddressId": "73e7fda642c11fba0X183d-9FFQ~",
-      "address": "深圳龙华区利金城集团购物广场二楼B099",
-      "longitude": 114.02115,
-      "latitude": 22.652752,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3593242a7a4be9bada82d2d14d5f8f9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a2ec3176c2bf159f1bd32a64a34d5ce",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "Java",
-        "Spring",
-        "JavaScript"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "范先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "深圳市高普易科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "af02019eb97e23571XZy3dq1EFI~",
-      "brandName": "深圳市高普易科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100012,
-      "industryName": "在线教育",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723447096000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市高普易科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳市高普易科技",
+        "certificated": true,
+        "large": null,
+        "name": "范先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723447096000,
+        "brandName": "深圳市高普易科技",
+        "customerBrandName": "深圳市高普易科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "af02019eb97e23571XZy3dq1EFI~",
+        "focusBrand": false,
+        "industry": 100012,
+        "industryName": "在线教育",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙华区利金城集团购物广场二楼B099",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "73e7fda642c11fba0X183d-9FFQ~",
+        "encryptId": "c80b80fbdeb48e6e1XB-0ty_ElpU",
+        "encryptUserId": "1791f4db26b35ff20nFy2Nq4GFFV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.652752,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.02115,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a2ec3176c2bf159f1bd32a64a34d5ce",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "熟悉springboot 熟悉mysql数据库，能熟练运用sql语言sql优化等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "JavaScript"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3593242a7a4be9bada82d2d14d5f8f9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Vbr3j4k5rbod_-O1TKvsF6HXcrHdnDYp_bz5l5fYadWaN6myR20qLSN7UVdePEkavo_mV-k0qgaf5nfEk0c00y3jf7_bg2uzSY40wUhjjPedkN1jUvbA",
+    "selfAccess": false,
+    "sessionId": null
 }

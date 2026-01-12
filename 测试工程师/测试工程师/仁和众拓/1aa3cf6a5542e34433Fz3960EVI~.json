@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uiP8bNFiaMB3f-g15HkBe5F7vLGdh1418o6jTV-JjW-CX8le2ktIw7FKemTohFBiY0Z13o43ZMQ0SGFWjDKAXfW_9kZPc_S_GlQ2Ww36ga26ckfB",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1aa3cf6a5542e34433Fz3960EVI~",
-      "encryptUserId": "e5d6bea03be7dcf71nV_09u1EVBY",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101090100,
-      "locationName": "石家庄",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.完成公司项目的整体测试工作\n2.独立编写用例报告\n3.具有手机、PC测试工作经验\n5.能够进行黑盒、压力测试",
-      "encryptAddressId": "dda884dddcd5c3f11HVz3dm0FFc~",
-      "address": "石家庄桥西区金石工业园一号楼419",
-      "longitude": 114.44082,
-      "latitude": 38.017837,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b91e11ed3c1f1bd2fd73dbece628ab3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75b3b2d88176f904f21c969e4febca57",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工程师",
-        "性能测试",
-        "压力测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "来先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200702/2efa3d7e516b8a563978b913b8ba93bbdb8db14fbd09fb7a9d530802269_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "仁和众拓",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5bd3c862f29d94961nV43d67",
-      "brandName": "仁和众拓",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200905/243de4cbbdbf3151f790eddeda960109db8db14fbd09fb7a9d5308022698bcd4.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "北京仁和众拓科技有限公司隶属国家高新技术企业，是一家专门从事软件开发，系统集成，物联网应用的高科技公司。\n公司下设品牌有拇指哥、信鸽、一码当鲜，五更集、三点水等软件件系统平台和产品，目前主要涉及市场有北京、上海、深圳、山东、河北等地域",
-      "labels": [
-        "五险一金",
-        "员工旅游",
-        "零食下午茶",
-        "周末双休"
-      ],
-      "activeTime": 1722008601879,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "仁和众拓",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "仁和众拓",
+        "certificated": true,
+        "large": null,
+        "name": "来先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200702/2efa3d7e516b8a563978b913b8ba93bbdb8db14fbd09fb7a9d530802269_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722008601879,
+        "brandName": "仁和众拓",
+        "customerBrandName": "仁和众拓",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "5bd3c862f29d94961nV43d67",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "北京仁和众拓科技有限公司隶属国家高新技术企业，是一家专门从事软件开发，系统集成，物联网应用的高科技公司。\n公司下设品牌有拇指哥、信鸽、一码当鲜，五更集、三点水等软件件系统平台和产品，目前主要涉及市场有北京、上海、深圳、山东、河北等地域",
+        "labels": [
+            "五险一金",
+            "员工旅游",
+            "零食下午茶",
+            "周末双休"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200905/243de4cbbdbf3151f790eddeda960109db8db14fbd09fb7a9d5308022698bcd4.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "石家庄桥西区金石工业园一号楼419",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "dda884dddcd5c3f11HVz3dm0FFc~",
+        "encryptId": "1aa3cf6a5542e34433Fz3960EVI~",
+        "encryptUserId": "e5d6bea03be7dcf71nV_09u1EVBY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.017837,
+        "location": 101090100,
+        "locationName": "石家庄",
+        "longitude": 114.44082,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75b3b2d88176f904f21c969e4febca57",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.完成公司项目的整体测试工作\n2.独立编写用例报告\n3.具有手机、PC测试工作经验\n5.能够进行黑盒、压力测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "测试工程师",
+            "性能测试",
+            "压力测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b91e11ed3c1f1bd2fd73dbece628ab3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uiP8bNFiaMB3f-g15HkBe5F7vLGdh1418o6jTV-JjW-CX8le2ktIw7FKemTohFBiY0Z13o43ZMQ0SGFWjDKAXfW_9kZPc_S_GlQ2Ww36ga26ckfB",
+    "selfAccess": false,
+    "sessionId": null
 }

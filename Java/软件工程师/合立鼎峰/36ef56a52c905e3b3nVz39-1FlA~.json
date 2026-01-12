@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vTqYWtdAgIa0W-I1GkeNO9gIcy1xStSzPnO_WfYeuRG4AeN_HSDMq5gvnhieOgkNV55AXzuc9gcdoSx2MRf1UzeoOgMQzq3PYi6OMW1k8DfIikV4uNw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "36ef56a52c905e3b3nVz39-1FlA~",
-      "encryptUserId": "9a73f2b929b017371nZ72d24EVBZ",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 系统前后端设计与开发；\n2. 各种文档、代码的编写；\n3. 产品测试、优化及日常故障处理；\n\n岗位要求：\n1.计算机相关专业，大专以上学历，1年以上ERP软件开发经验；\n2.编程能力：精通Java，MySQL数据库\n3.熟悉SOA架构及实现技术；\n4.熟悉安卓app开发经验者优先",
-      "encryptAddressId": "f844858eb6ca4d601nV509m9FltWyoi2UP-Z",
-      "address": "广州番禺区长晟大厦三楼314单元",
-      "longitude": 113.290609,
-      "latitude": 23.013135,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230409/48ba41acc9cef1bf19d375c668e5c53b2e5932b1fd120ad56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bfdf7dfeab4be6269552969b74ba1de12f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "MySQL",
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "卢先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "合立鼎峰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e6c2e523abb6ab7f1nRz3dq_GFI~",
-      "brandName": "合立鼎峰",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726468362750,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "合立鼎峰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "合立鼎峰",
+        "certificated": true,
+        "large": null,
+        "name": "卢先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726468362750,
+        "brandName": "合立鼎峰",
+        "customerBrandName": "合立鼎峰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e6c2e523abb6ab7f1nRz3dq_GFI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区长晟大厦三楼314单元",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f844858eb6ca4d601nV509m9FltWyoi2UP-Z",
+        "encryptId": "36ef56a52c905e3b3nVz39-1FlA~",
+        "encryptUserId": "9a73f2b929b017371nZ72d24EVBZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.013135,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.290609,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bfdf7dfeab4be6269552969b74ba1de12f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1. 系统前后端设计与开发；\n2. 各种文档、代码的编写；\n3. 产品测试、优化及日常故障处理；\n\n岗位要求：\n1.计算机相关专业，大专以上学历，1年以上ERP软件开发经验；\n2.编程能力：精通Java，MySQL数据库\n3.熟悉SOA架构及实现技术；\n4.熟悉安卓app开发经验者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "MySQL",
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230409/48ba41acc9cef1bf19d375c668e5c53b2e5932b1fd120ad56bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vTqYWtdAgIa0W-I1GkeNO9gIcy1xStSzPnO_WfYeuRG4AeN_HSDMq5gvnhieOgkNV55AXzuc9gcdoSx2MRf1UzeoOgMQzq3PYi6OMW1k8DfIikV4uNw~",
+    "selfAccess": false,
+    "sessionId": null
 }

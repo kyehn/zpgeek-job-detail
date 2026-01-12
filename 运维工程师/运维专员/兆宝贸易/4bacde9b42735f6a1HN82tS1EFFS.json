@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6wIEvMdj_6iNj-214Nm2v1ltk5B3AMvtlqIoW8w-koOCjcWRcUFeuWfSGLpQkgAdACVVsxpce68RLx8mgObjKgbGAaNRJMXhgmeM4VDJtPDnz8mOWza9",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4bacde9b42735f6a1HN82tS1EFFS",
-      "encryptUserId": "cf8a93a27f44f9320nJ83N65ElVT",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210900,
-      "locationName": "金华",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1、学    历：大专及以上学历\n2、年    龄：22-30\n3、性    别：男女不限\n4、工作经验：半年及以上（有相关工作经验或优秀应届生）\n5、业务技能：熟悉ERP各个模块功能，跟进公司提出的需求直至完结，维护过聚水潭系统优先\n6、性格：能吃苦，活泼乐观，责任心强，有较强的团队意识和沟通理解能力\n岗位职责：\n1、熟悉公司所需要的聚水潭板块内容\n2、聚水潭对接问题其对应解决方案文档备份\n3、独立跟进需求直至完结\n4、聚水潭相关板块培训\n5、公司内部问题反馈需高效沟通且及时处理，态度和善且无投诉",
-      "encryptAddressId": "64a9576a54aa29121nB73N2-FlJV",
-      "address": "金华义乌市商城创业园电子商务区B2栋3单元3楼",
-      "longitude": 120.036864,
-      "latitude": 29.323844,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a1552201875418bb05320f0e825c308",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/232e425948557807601749fd0d16a38a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "聚水潭",
-        "软件开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221104/607f1f3d68754fd0f6ace3ee8e8731f63fe27812d09198cfb6d5870ca9606b0558a783ab85b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "兆宝贸易",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0a783dcce8c045ab1n1_0t27FFc~",
-      "brandName": "兆宝贸易",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732113112093,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "兆宝贸易",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "兆宝贸易",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221104/607f1f3d68754fd0f6ace3ee8e8731f63fe27812d09198cfb6d5870ca9606b0558a783ab85b_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732113112093,
+        "brandName": "兆宝贸易",
+        "customerBrandName": "兆宝贸易",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "0a783dcce8c045ab1n1_0t27FFc~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "金华义乌市商城创业园电子商务区B2栋3单元3楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "64a9576a54aa29121nB73N2-FlJV",
+        "encryptId": "4bacde9b42735f6a1HN82tS1EFFS",
+        "encryptUserId": "cf8a93a27f44f9320nJ83N65ElVT",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.323844,
+        "location": 101210900,
+        "locationName": "金华",
+        "longitude": 120.036864,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/232e425948557807601749fd0d16a38a",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "任职要求：\n1、学    历：大专及以上学历\n2、年    龄：22-30\n3、性    别：男女不限\n4、工作经验：半年及以上（有相关工作经验或优秀应届生）\n5、业务技能：熟悉ERP各个模块功能，跟进公司提出的需求直至完结，维护过聚水潭系统优先\n6、性格：能吃苦，活泼乐观，责任心强，有较强的团队意识和沟通理解能力\n岗位职责：\n1、熟悉公司所需要的聚水潭板块内容\n2、聚水潭对接问题其对应解决方案文档备份\n3、独立跟进需求直至完结\n4、聚水潭相关板块培训\n5、公司内部问题反馈需高效沟通且及时处理，态度和善且无投诉",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "聚水潭",
+            "软件开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a1552201875418bb05320f0e825c308"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6wIEvMdj_6iNj-214Nm2v1ltk5B3AMvtlqIoW8w-koOCjcWRcUFeuWfSGLpQkgAdACVVsxpce68RLx8mgObjKgbGAaNRJMXhgmeM4VDJtPDnz8mOWza9",
+    "selfAccess": false,
+    "sessionId": null
 }

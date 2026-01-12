@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DgVR3Jny0W5Mp-O1uE9MW15xOiykBVypgRDxSWPtc6z8HL2vElkBGDWsKVRU4iDIuXMNO7ToFwgDuiagZvFaV6vab1siYrJscPiTA-h6Y5T98Ob35vO63F56BDRmhdUXtU0WED21_oH9m-zCEmTkH0SQvJt1D6Behf3asoyVdGyQc-uwOw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "96fc41c4d3f6915203R42Nu0E1NY",
-      "encryptUserId": "2d1c229cdddb72a83nFz2N6_E1A~",
-      "invalidStatus": false,
-      "jobName": "工装夹具设计工程师",
-      "position": 300313,
-      "positionName": "夹具工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工装夹具设计工程师\n1，熟悉AUTOUCAD,solidworks, 北京精雕，软件\n2，机械设计，数控技术相关专业。\n3，熟悉柔板，等相关工艺的优先考虑。\n4，工作一年以上，大专以上学历\n5，优秀应届生也可以考虑。",
-      "encryptAddressId": "1a4599e8855549fd3nVy2NW0GVdZyom-WPo~",
-      "address": "苏州吴中区尊品电商产业园5幢",
-      "longitude": 120.585749,
-      "latitude": 31.188855,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0306219914646a41fd1620fe612bb2e5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85c04940cd45f5cd5f6c090500440cac",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "非标经验",
-        "AutoCAD",
-        "SolidWorks"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "自动化负责人",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "常盈安",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "386abb6f7ee17fc21XN629i8ElE~",
-      "brandName": "常盈安",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100907,
-      "industryName": "专用设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732686519758,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "常盈安",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "常盈安",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "自动化负责人"
+    },
+    "brandComInfo": {
+        "activeTime": 1732686519758,
+        "brandName": "常盈安",
+        "customerBrandName": "常盈安",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "386abb6f7ee17fc21XN629i8ElE~",
+        "focusBrand": false,
+        "industry": 100907,
+        "industryName": "专用设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区尊品电商产业园5幢",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1a4599e8855549fd3nVy2NW0GVdZyom-WPo~",
+        "encryptId": "96fc41c4d3f6915203R42Nu0E1NY",
+        "encryptUserId": "2d1c229cdddb72a83nFz2N6_E1A~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "工装夹具设计工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.188855,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.585749,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85c04940cd45f5cd5f6c090500440cac",
+        "position": 300313,
+        "positionName": "夹具工程师",
+        "postDescription": "工装夹具设计工程师\n1，熟悉AUTOUCAD,solidworks, 北京精雕，软件\n2，机械设计，数控技术相关专业。\n3，熟悉柔板，等相关工艺的优先考虑。\n4，工作一年以上，大专以上学历\n5，优秀应届生也可以考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "非标经验",
+            "AutoCAD",
+            "SolidWorks"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0306219914646a41fd1620fe612bb2e5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DgVR3Jny0W5Mp-O1uE9MW15xOiykBVypgRDxSWPtc6z8HL2vElkBGDWsKVRU4iDIuXMNO7ToFwgDuiagZvFaV6vab1siYrJscPiTA-h6Y5T98Ob35vO63F56BDRmhdUXtU0WED21_oH9m-zCEmTkH0SQvJt1D6Behf3asoyVdGyQc-uwOw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

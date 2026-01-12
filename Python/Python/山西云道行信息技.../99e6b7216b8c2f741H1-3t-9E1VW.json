@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tjlRUFpGgic28-I1aEc4ySohuwYK6d0ftH4HygnTnkyZVAbpRsqwNEa9UmQksdQ020mzCI8xL3jTZ5LnFPukfMSiTa90x-bDNK6SRzqGyW_WJOy0WzJ1zEE3BMVi9VUUuP77tLQxCcFZ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "99e6b7216b8c2f741H1-3t-9E1VW",
-      "encryptUserId": "f223539fb57f7ec61Hx53tS0FFs~",
-      "invalidStatus": false,
-      "jobName": "Python",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101100100,
-      "locationName": "太原",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、互联网搜集信息，了解业内最新技术并进行研究；\n2、需要时编写python自动化运行脚本；\n3、记录、分析工作日志；\n4、部署、测试公司产品并形成相关技术/测试文档；\n5、负责公司安排的各项软、硬件安装、运行、维护；\n6、及时完成领导安排任务；\n\n\n职位要求\n1、计算机或IT相关专业本科以上学历;\n2、熟悉Linux/macOS/Windows操作系统，熟悉常见办公软件操作；\n3、掌握一门编程语言java/python/c++等，python最佳；\n4、有IT工作经验的优先考虑；",
-      "encryptAddressId": "98cebbafaffc94cb3n1z3N6-EVVXy4q5UfM~",
-      "address": "太原小店区火炬创业大厦B7006",
-      "longitude": 112.562959,
-      "latitude": 37.792895,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfb656b413afd5674df30a5aa36c86912c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bfe4d37c6ce19f756f4d69ccca9fab136a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PyTorch",
-        "分布式经验",
-        "MySQL",
-        "MongoDB",
-        "Python",
-        "TensorFlow"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "杨先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200423/77ef3895a6f27b0ce6e631a180f954e6d678b714627fbcc3db8fdf41574_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "山西云道行信息技...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7d5037bd44b7ca4f33R73tm9Fg~~",
-      "brandName": "山西云道行信息技...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100011,
-      "industryName": "音乐/视频/阅读",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730367698257,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山西云道行信息技...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山西云道行信息技...",
+        "certificated": true,
+        "large": null,
+        "name": "杨先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200423/77ef3895a6f27b0ce6e631a180f954e6d678b714627fbcc3db8fdf41574_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730367698257,
+        "brandName": "山西云道行信息技...",
+        "customerBrandName": "山西云道行信息技...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7d5037bd44b7ca4f33R73tm9Fg~~",
+        "focusBrand": false,
+        "industry": 100011,
+        "industryName": "音乐/视频/阅读",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "太原小店区火炬创业大厦B7006",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "98cebbafaffc94cb3n1z3N6-EVVXy4q5UfM~",
+        "encryptId": "99e6b7216b8c2f741H1-3t-9E1VW",
+        "encryptUserId": "f223539fb57f7ec61Hx53tS0FFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Python",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 37.792895,
+        "location": 101100100,
+        "locationName": "太原",
+        "longitude": 112.562959,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bfe4d37c6ce19f756f4d69ccca9fab136a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "工作内容\n1、互联网搜集信息，了解业内最新技术并进行研究；\n2、需要时编写python自动化运行脚本；\n3、记录、分析工作日志；\n4、部署、测试公司产品并形成相关技术/测试文档；\n5、负责公司安排的各项软、硬件安装、运行、维护；\n6、及时完成领导安排任务；\n\n\n职位要求\n1、计算机或IT相关专业本科以上学历;\n2、熟悉Linux/macOS/Windows操作系统，熟悉常见办公软件操作；\n3、掌握一门编程语言java/python/c++等，python最佳；\n4、有IT工作经验的优先考虑；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "PyTorch",
+            "分布式经验",
+            "MySQL",
+            "MongoDB",
+            "Python",
+            "TensorFlow"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfb656b413afd5674df30a5aa36c86912c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tjlRUFpGgic28-I1aEc4ySohuwYK6d0ftH4HygnTnkyZVAbpRsqwNEa9UmQksdQ020mzCI8xL3jTZ5LnFPukfMSiTa90x-bDNK6SRzqGyW_WJOy0WzJ1zEE3BMVi9VUUuP77tLQxCcFZ",
+    "selfAccess": false,
+    "sessionId": null
 }

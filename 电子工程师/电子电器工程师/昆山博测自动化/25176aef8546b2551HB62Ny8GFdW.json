@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6y9lgTCsvw-Kr-01PIIMZsD9Um0s09XNXqt_ZklpCW3KfPqce5_6fx5-pWw5TSrv_fBYOHhWYoiHlZ4iHSPQAkAmiDsOF-fW_Ojcfe9hjtB9EpLvm7Yt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "25176aef8546b2551HB62Ny8GFdW",
-      "encryptUserId": "62a0dcb88fe797370Xdz092-EFBW",
-      "invalidStatus": false,
-      "jobName": "电子电器工程师",
-      "position": 101401,
-      "positionName": "电子工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "应届毕业生 ，CAD SW 软件",
-      "encryptAddressId": "03333a733388c07d0nxy0tq8ElpWxYi_VPs~",
-      "address": "苏州昆山市天衡冷库98号",
-      "longitude": 120.880467,
-      "latitude": 31.339357,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bfb0458095c27129c07b9bc33928684af46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bfc7898d45febf06ca51c21f3d221bdb996bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CAD",
-        "电子工艺工程师",
-        "SolidWorks"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "谭先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "昆山博测自动化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4c3bfb5ae392f8361Hd43928FFA~",
-      "brandName": "昆山博测自动化",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100906,
-      "industryName": "通用设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725320245564,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆山博测自动化",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆山博测自动化",
+        "certificated": true,
+        "large": null,
+        "name": "谭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725320245564,
+        "brandName": "昆山博测自动化",
+        "customerBrandName": "昆山博测自动化",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4c3bfb5ae392f8361Hd43928FFA~",
+        "focusBrand": false,
+        "industry": 100906,
+        "industryName": "通用设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市天衡冷库98号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "03333a733388c07d0nxy0tq8ElpWxYi_VPs~",
+        "encryptId": "25176aef8546b2551HB62Ny8GFdW",
+        "encryptUserId": "62a0dcb88fe797370Xdz092-EFBW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "电子电器工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.339357,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.880467,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bfc7898d45febf06ca51c21f3d221bdb996bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 101401,
+        "positionName": "电子工程师",
+        "postDescription": "应届毕业生 ，CAD SW 软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "CAD",
+            "电子工艺工程师",
+            "SolidWorks"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bfb0458095c27129c07b9bc33928684af46bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6y9lgTCsvw-Kr-01PIIMZsD9Um0s09XNXqt_ZklpCW3KfPqce5_6fx5-pWw5TSrv_fBYOHhWYoiHlZ4iHSPQAkAmiDsOF-fW_Ojcfe9hjtB9EpLvm7Yt",
+    "selfAccess": false,
+    "sessionId": null
 }

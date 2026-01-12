@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bjfFVtOqeX1p6-u1Ym4wDUQgH5REFaIN5KMMoDikwuTXsL6QO07XfAeY1E_HN728yzR_u_NE9WIPDDOBDV1ytBsSIMMe1PS_O5M46sR664Wc-cLdyPOo3cikfBPYk9zltvTmne94EqBVJ_g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8b5c26eed17a13531Hx83Nu_E1FQ",
-      "encryptUserId": "b22ae5f1e1918f6c0XN_09m8FlpS",
-      "invalidStatus": false,
-      "jobName": "数据标注专员",
-      "position": 130121,
-      "positionName": "数据标注/AI训练师",
-      "location": 101121300,
-      "locationName": "威海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "上手简单，前期有培训，早九晚六，节假日正常休息，办公环境良好，男女不限",
-      "encryptAddressId": "da2cf2b89c840bfe1nZ82dy0FFJTwoi4VviY",
-      "address": "威海环翠区广信百度城A座708",
-      "longitude": 122.146298,
-      "latitude": 37.437033,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4724369dae025b4b054a969150e0423d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53451d746fa21bc06f8ee2ca557fae4b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据标注",
-        "不接受居家办公",
-        "标框标注",
-        "图片标注"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "于女士",
-      "title": "人力",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240910/607f1f3d68754fd015b19dcb4c57c50315984d827e06b52575ca6bb99f304a21d423b4abf22bc18_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "环翠区极客网络科...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e72a679ace9c0f5c1HBy2dm6GVE~",
-      "brandName": "环翠区极客网络科...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728001831247,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "环翠区极客网络科...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "环翠区极客网络科...",
+        "certificated": true,
+        "large": null,
+        "name": "于女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240910/607f1f3d68754fd015b19dcb4c57c50315984d827e06b52575ca6bb99f304a21d423b4abf22bc18_b.jpg",
+        "title": "人力"
+    },
+    "brandComInfo": {
+        "activeTime": 1728001831247,
+        "brandName": "环翠区极客网络科...",
+        "customerBrandName": "环翠区极客网络科...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e72a679ace9c0f5c1HBy2dm6GVE~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "威海环翠区广信百度城A座708",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "da2cf2b89c840bfe1nZ82dy0FFJTwoi4VviY",
+        "encryptId": "8b5c26eed17a13531Hx83Nu_E1FQ",
+        "encryptUserId": "b22ae5f1e1918f6c0XN_09m8FlpS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据标注专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.437033,
+        "location": 101121300,
+        "locationName": "威海",
+        "longitude": 122.146298,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53451d746fa21bc06f8ee2ca557fae4b",
+        "position": 130121,
+        "positionName": "数据标注/AI训练师",
+        "postDescription": "上手简单，前期有培训，早九晚六，节假日正常休息，办公环境良好，男女不限",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "数据标注",
+            "不接受居家办公",
+            "标框标注",
+            "图片标注"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4724369dae025b4b054a969150e0423d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bjfFVtOqeX1p6-u1Ym4wDUQgH5REFaIN5KMMoDikwuTXsL6QO07XfAeY1E_HN728yzR_u_NE9WIPDDOBDV1ytBsSIMMe1PS_O5M46sR664Wc-cLdyPOo3cikfBPYk9zltvTmne94EqBVJ_g~",
+    "selfAccess": false,
+    "sessionId": null
 }

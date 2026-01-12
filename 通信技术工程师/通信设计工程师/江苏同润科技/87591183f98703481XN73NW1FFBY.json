@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GwjFC4lliua7q-p1ovQCFWVA5O5q08oyn5aLRsOWjEjJS7MwTcCFp0y7FrTCfURDaiQ7OOJ08tW3LlXYRsaBd5xtdoVvMHJB4FKrdVMp-B3uohSu_rZu",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "87591183f98703481XN73NW1FFBY",
-      "encryptUserId": "f89fc62c1a94b1810nx82dm7ElRZ",
-      "invalidStatus": false,
-      "jobName": "通信设计工程师",
-      "position": 101001,
-      "positionName": "通信技术工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "电力通信、集成项目设计、实施、运维，产品研发",
-      "encryptAddressId": "3b98c9f54e71658833Zz0ti0F1E~",
-      "address": "南京江宁区名家科技大厦栋楼16楼北侧",
-      "longitude": 118.818854,
-      "latitude": 31.947832,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e27652216669d4af1405549c374a7994",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb14d1bc32aad2e68c9a4b833f70e2d3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "5G",
-        "室分设计",
-        "4G",
-        "无线通信",
-        "传输线路设计",
-        "光缆通信",
-        "天线设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "汪先生",
-      "title": "电力通信设计主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "江苏同润科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "688f3476fdd382081XF92dy7GVI~",
-      "brandName": "江苏同润科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725363289553,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江苏同润科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江苏同润科技",
+        "certificated": true,
+        "large": null,
+        "name": "汪先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "电力通信设计主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725363289553,
+        "brandName": "江苏同润科技",
+        "customerBrandName": "江苏同润科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "688f3476fdd382081XF92dy7GVI~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区名家科技大厦栋楼16楼北侧",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3b98c9f54e71658833Zz0ti0F1E~",
+        "encryptId": "87591183f98703481XN73NW1FFBY",
+        "encryptUserId": "f89fc62c1a94b1810nx82dm7ElRZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "通信设计工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.947832,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.818854,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb14d1bc32aad2e68c9a4b833f70e2d3",
+        "position": 101001,
+        "positionName": "通信技术工程师",
+        "postDescription": "电力通信、集成项目设计、实施、运维，产品研发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K·13薪",
+        "showSkills": [
+            "5G",
+            "室分设计",
+            "4G",
+            "无线通信",
+            "传输线路设计",
+            "光缆通信",
+            "天线设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e27652216669d4af1405549c374a7994"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GwjFC4lliua7q-p1ovQCFWVA5O5q08oyn5aLRsOWjEjJS7MwTcCFp0y7FrTCfURDaiQ7OOJ08tW3LlXYRsaBd5xtdoVvMHJB4FKrdVMp-B3uohSu_rZu",
+    "selfAccess": false,
+    "sessionId": null
 }

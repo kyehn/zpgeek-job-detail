@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0WMJMYXscAxtG-D1H3jLhy8Yxd2Gg8ANpRh5sICwB1cwN5uiQuFZOdApuBE1iAYi89PX6UOUUqx1WK_IDUhRAUzcVyYPjuEIN4mSwId5xRU3ZddB1jY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6bfcd2784eb4f3531XF-39S1GFVV",
-      "encryptUserId": "7abedda053143a9a0nBy2N6_ElY~",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "可兼职或全职\n有ARM内核单片机编程经验;\n会调PID;\n熟悉单片机接口;\n会GUI优先。\n可提供住宿。",
-      "encryptAddressId": "48a2df65a0e5956c0HB43d-7GFs~",
-      "address": "深圳南山区新围村新华大厦",
-      "longitude": 113.952131,
-      "latitude": 22.58267,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19e0ce868e32e15fcf7478f41725ade1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/193239f654fc2e15510a3a40a00b7701",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C",
-        "RTOS",
-        "STM32开发",
-        "计算机相关专业",
-        "嵌入式/单片机开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "白先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200703/22fc41decad9af17c9e89a0ff2d366ac53072c932099201f1a0c4d19877_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "深圳市方时科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "67a4272278ce35d81Xdy2di7Elo~",
-      "brandName": "深圳市方时科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221107/7b5b554d84f9729c466728655c837d6b44f4ee62c7cb909453072c932099201f1a0c4d198772f4ec.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "包住",
-        "零食下午茶"
-      ],
-      "activeTime": 1721573543179,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市方时科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳市方时科技",
+        "certificated": true,
+        "large": null,
+        "name": "白先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200703/22fc41decad9af17c9e89a0ff2d366ac53072c932099201f1a0c4d19877_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1721573543179,
+        "brandName": "深圳市方时科技",
+        "customerBrandName": "深圳市方时科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "67a4272278ce35d81Xdy2di7Elo~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "包住",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221107/7b5b554d84f9729c466728655c837d6b44f4ee62c7cb909453072c932099201f1a0c4d198772f4ec.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区新围村新华大厦",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "48a2df65a0e5956c0HB43d-7GFs~",
+        "encryptId": "6bfcd2784eb4f3531XF-39S1GFVV",
+        "encryptUserId": "7abedda053143a9a0nBy2N6_ElY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.58267,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.952131,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/193239f654fc2e15510a3a40a00b7701",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "可兼职或全职\n有ARM内核单片机编程经验;\n会调PID;\n熟悉单片机接口;\n会GUI优先。\n可提供住宿。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "C",
+            "RTOS",
+            "STM32开发",
+            "计算机相关专业",
+            "嵌入式/单片机开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19e0ce868e32e15fcf7478f41725ade1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0WMJMYXscAxtG-D1H3jLhy8Yxd2Gg8ANpRh5sICwB1cwN5uiQuFZOdApuBE1iAYi89PX6UOUUqx1WK_IDUhRAUzcVyYPjuEIN4mSwId5xRU3ZddB1jY~",
+    "selfAccess": false,
+    "sessionId": null
 }

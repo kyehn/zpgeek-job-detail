@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1M6HA3tYScFZZ-21yBWf_w9_l5TXdYASDyOliIRqg4Yk2WJrn60KoXsx1KY1C6b3ZbqbGYTwfnw_R9GFVx_qBrPYYdm8x_KVirc4Hn1RtwkZs5o2H2tdTH0qtxuLQMV5DF1oSnEDhdD2pg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "84c1a5f92985638e1H1709q4FVRZ",
-      "encryptUserId": "6d60060de83b6f121H1z2dy9FFE~",
-      "invalidStatus": false,
-      "jobName": "测试工程师（游戏）",
-      "position": 100307,
-      "positionName": "游戏测试",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "能力：\n1、具备基础的用例编写能力\n2、根据测试用例进行功能性测试\n3、有大世界游戏经验，关注用户体验，发现游戏中的体验问题\n4、记录bug和体验问题\n5、耐心细致，稳重踏实，良好的沟通能力、学习能力、团队协作精神\n\n工作内容：\n负责执行简单的、人量的内容跑测\n1、覆盖大世界玩法、生态、区域跑测，\n单休    短期项目（3个月）",
-      "encryptAddressId": "324aef4687667c321nZ72tu5ElRWwYu3UfiY",
-      "address": "广州天河区CFC汇金中心11",
-      "longitude": 113.379966,
-      "latitude": 23.117695,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf720c72711c45f4a1021e8e10a18123816bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf89d832b684411295ba484717c83395136bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "丰富的游戏经验",
-        "单休",
-        "游戏测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "曲女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220318/607f1f3d68754fd0d15c520198566520942774c0722a5b390cf0cfa9bcc1591201c712c227a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "辽宁鼎如兴科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "eedcd052a85208c81HJ_2967GFY~",
-      "brandName": "辽宁鼎如兴科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730609640571,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "辽宁鼎如兴科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "辽宁鼎如兴科技",
+        "certificated": true,
+        "large": null,
+        "name": "曲女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220318/607f1f3d68754fd0d15c520198566520942774c0722a5b390cf0cfa9bcc1591201c712c227a_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730609640571,
+        "brandName": "辽宁鼎如兴科技",
+        "customerBrandName": "辽宁鼎如兴科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "eedcd052a85208c81HJ_2967GFY~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区CFC汇金中心11",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "324aef4687667c321nZ72tu5ElRWwYu3UfiY",
+        "encryptId": "84c1a5f92985638e1H1709q4FVRZ",
+        "encryptUserId": "6d60060de83b6f121H1z2dy9FFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师（游戏）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.117695,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.379966,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf89d832b684411295ba484717c83395136bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100307,
+        "positionName": "游戏测试",
+        "postDescription": "能力：\n1、具备基础的用例编写能力\n2、根据测试用例进行功能性测试\n3、有大世界游戏经验，关注用户体验，发现游戏中的体验问题\n4、记录bug和体验问题\n5、耐心细致，稳重踏实，良好的沟通能力、学习能力、团队协作精神\n\n工作内容：\n负责执行简单的、人量的内容跑测\n1、覆盖大世界玩法、生态、区域跑测，\n单休    短期项目（3个月）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "丰富的游戏经验",
+            "单休",
+            "游戏测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf720c72711c45f4a1021e8e10a18123816bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1M6HA3tYScFZZ-21yBWf_w9_l5TXdYASDyOliIRqg4Yk2WJrn60KoXsx1KY1C6b3ZbqbGYTwfnw_R9GFVx_qBrPYYdm8x_KVirc4Hn1RtwkZs5o2H2tdTH0qtxuLQMV5DF1oSnEDhdD2pg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

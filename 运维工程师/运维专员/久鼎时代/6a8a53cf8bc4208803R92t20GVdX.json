@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JLCdt3mvsibc3-71YktDE9kHEkImyI-04Jjq2Zc3VRjUTRrrGW5bqFvZHcegzUJUY_BHyFVgcsuNnty_zMIYymwEQxmsCL7TGNrfgepXcuF577izOVu9L_PnAheNCRKmP4hf49ONVuMisYjMe_d__a3bEp2r_w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6a8a53cf8bc4208803R92t20GVdX",
-      "encryptUserId": "be152217341bf49a0XF42t-4GVVV",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101060200,
-      "locationName": "吉林",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责应用系统的日常运维管理，包含系统监控、日志查看等；\n2.负责数据库的日常维护，包含数据库的故障排查、备份与恢复、容灾等方面；\n3.负责从业务的角度出发，解决企业提出的智慧应急平台使用的问题；\n4.负责智慧应急平台的培训和演示；\n5.负责事件管理、故障排查和解决，并将缺陷反馈给产品研发部门进行解决；\n6.收集变更需求，反馈给产品研发部门；\n7.甲方客户或公司领导安排的其他任务。\n任职要求：\n1.计算机、化工等专业，专科及以上学历。（应届生也可以考虑）\n2.熟悉工业互联网，了解工业互联网领域的相关知识；\n3.熟悉人工智能相关的知识和应用；\n4.熟悉物联网相关的知识和应用；熟悉物联网网关的安装和部署、OPC通讯协议等；\n5.熟悉Linux系统操作和运维，熟悉shell脚本编写；python等编程语言；\n6.熟练使用Windows操作系统及相关软件，具有良好文档编写和文字表达能力；\n7.具有较强的学习能力、沟通及协调能力，做事沉稳细致；\n8.能够独立搭建服务器环境、部署发布程序上线者优先；\n9.有化工专业背景，一年及以上实际系统运维经验者优先。\n岗位福利：\n双休，3班倒。",
-      "encryptAddressId": "65645697e974ea911nJ72dm_EVFWx4-6WfiW",
-      "address": "吉林昌邑区吉林经济技术开发区",
-      "longitude": 126.43443,
-      "latitude": 43.962787,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240220/48ba41acc9cef1bf9eb9b32cf44d6658edf14a67dccc49ac6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240220/48ba41acc9cef1bfc9597926e5fc1c1e50fa89046cbb9dde6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bfd3ba6624f6570215b4b1bce65441b4b76bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf65623548733bef402d7a0a5f3a638e296bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "薛女士",
-      "title": "人事/行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "久鼎时代",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6b349eb8b67060571HB939u1GVc~",
-      "brandName": "久鼎时代",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734508888094,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "久鼎时代",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "久鼎时代",
+        "certificated": true,
+        "large": null,
+        "name": "薛女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事/行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1734508888094,
+        "brandName": "久鼎时代",
+        "customerBrandName": "久鼎时代",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6b349eb8b67060571HB939u1GVc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "吉林昌邑区吉林经济技术开发区",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf65623548733bef402d7a0a5f3a638e296bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bfd3ba6624f6570215b4b1bce65441b4b76bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "65645697e974ea911nJ72dm_EVFWx4-6WfiW",
+        "encryptId": "6a8a53cf8bc4208803R92t20GVdX",
+        "encryptUserId": "be152217341bf49a0XF42t-4GVVV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 43.962787,
+        "location": 101060200,
+        "locationName": "吉林",
+        "longitude": 126.43443,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240220/48ba41acc9cef1bfc9597926e5fc1c1e50fa89046cbb9dde6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.负责应用系统的日常运维管理，包含系统监控、日志查看等；\n2.负责数据库的日常维护，包含数据库的故障排查、备份与恢复、容灾等方面；\n3.负责从业务的角度出发，解决企业提出的智慧应急平台使用的问题；\n4.负责智慧应急平台的培训和演示；\n5.负责事件管理、故障排查和解决，并将缺陷反馈给产品研发部门进行解决；\n6.收集变更需求，反馈给产品研发部门；\n7.甲方客户或公司领导安排的其他任务。\n任职要求：\n1.计算机、化工等专业，专科及以上学历。（应届生也可以考虑）\n2.熟悉工业互联网，了解工业互联网领域的相关知识；\n3.熟悉人工智能相关的知识和应用；\n4.熟悉物联网相关的知识和应用；熟悉物联网网关的安装和部署、OPC通讯协议等；\n5.熟悉Linux系统操作和运维，熟悉shell脚本编写；python等编程语言；\n6.熟练使用Windows操作系统及相关软件，具有良好文档编写和文字表达能力；\n7.具有较强的学习能力、沟通及协调能力，做事沉稳细致；\n8.能够独立搭建服务器环境、部署发布程序上线者优先；\n9.有化工专业背景，一年及以上实际系统运维经验者优先。\n岗位福利：\n双休，3班倒。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "实施交付运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240220/48ba41acc9cef1bf9eb9b32cf44d6658edf14a67dccc49ac6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JLCdt3mvsibc3-71YktDE9kHEkImyI-04Jjq2Zc3VRjUTRrrGW5bqFvZHcegzUJUY_BHyFVgcsuNnty_zMIYymwEQxmsCL7TGNrfgepXcuF577izOVu9L_PnAheNCRKmP4hf49ONVuMisYjMe_d__a3bEp2r_w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

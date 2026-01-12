@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VGDZAES3fIpcI-L1khos-OyiNm3MGSg4ae47FsfUb2ebPzSIljuUGsD60n5lfMAbAyObcAFnSHG7sQcFVpCukiS6CjAgsIFiPFB71TKBadPd9gG-vw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a20be3c02ff2ed3c3nxy09-_F1E~",
-      "encryptUserId": "da79f58c85b14a420nR60925GVpV",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "1、参与项目微服务项目系统架构设计、技术调研和方案制定；\r2、参与微服务项目环境搭建、代码规范；\r3、参与新技术的调研及引进；\r4、分析软件开发过程中的问题，参与技术难题攻关；\r5、根据项目具体要求，承担微服务项目开发任务；\r6、带领并指导团队成员；\r7、完善并遵守团队编码规范，编写高质量、结构清晰、易读、易维护的代码；",
-      "encryptAddressId": "400e36b22ea3a6811HBy0920GFI~",
-      "address": "上海浦东新区浦东新区土地市场14层1405",
-      "longitude": 121.515962,
-      "latitude": 31.235582,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/944281bde97f10472fcbcdbbfcd8c592",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2770724ab7c21822f8f7c7050b4f00d3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "大堂",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1b03f11fc51f72c50XNy39y4Ew~~",
-      "brandName": "大堂",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721483772795,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大堂",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "大堂",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721483772795,
+        "brandName": "大堂",
+        "customerBrandName": "大堂",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1b03f11fc51f72c50XNy39y4Ew~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区浦东新区土地市场14层1405",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "400e36b22ea3a6811HBy0920GFI~",
+        "encryptId": "a20be3c02ff2ed3c3nxy09-_F1E~",
+        "encryptUserId": "da79f58c85b14a420nR60925GVpV",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.235582,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.515962,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2770724ab7c21822f8f7c7050b4f00d3",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、参与项目微服务项目系统架构设计、技术调研和方案制定；\r2、参与微服务项目环境搭建、代码规范；\r3、参与新技术的调研及引进；\r4、分析软件开发过程中的问题，参与技术难题攻关；\r5、根据项目具体要求，承担微服务项目开发任务；\r6、带领并指导团队成员；\r7、完善并遵守团队编码规范，编写高质量、结构清晰、易读、易维护的代码；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/944281bde97f10472fcbcdbbfcd8c592"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VGDZAES3fIpcI-L1khos-OyiNm3MGSg4ae47FsfUb2ebPzSIljuUGsD60n5lfMAbAyObcAFnSHG7sQcFVpCukiS6CjAgsIFiPFB71TKBadPd9gG-vw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

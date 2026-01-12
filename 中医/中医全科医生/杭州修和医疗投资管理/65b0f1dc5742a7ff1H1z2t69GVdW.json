@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bQIm5q-9XOR2r-i142j6qpu0dY7XHzldzTAQTYyfNRa8L2RbNMUJvaIEbtmfPa0wpxuWboJJ3SWe5Thh_8iNV-QzFUJ4xmLTlJHGJJkSAH7DQpT-UI3f4i_itxsTZB1tp_ZpQT5vMU05RDk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "65b0f1dc5742a7ff1H1z2t69GVdW",
-      "encryptUserId": "2251a9e2353be5f10XR929W8FVtS",
-      "invalidStatus": false,
-      "jobName": "中医全科医生",
-      "position": 210302,
-      "positionName": "中医",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1、提供中医全科医疗服务，确保患者接受到专业的中医诊疗；\n2、根据患者病情，制定和执行个性化的中医治疗方案；\n3、积极参与医疗团队合作，提升服务质量和患者满意度；\n\n任职资格：\n具备扎实的中医专业知识，对中医诊疗有深刻理解和实践经验；具有良好的沟通能力和团队合作精神；对工作认真负责，有较强的服务意识。",
-      "encryptAddressId": "63bb1d048e6f31c51nB4092-FFFTx46-WPie",
-      "address": "杭州上城区浙江省中医药学会中医门诊部双菱路104号",
-      "longitude": 120.1957,
-      "latitude": 30.258366,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240831/48ba41acc9cef1bfd8034e2783e0a771e828023b90e619806bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240831/48ba41acc9cef1bfb1857b2a4766acdef8235b86454341296bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "门诊部/诊所",
-        "针灸经验",
-        "有中医科医生经验",
-        "中医科医生",
-        "中医执业医师资格证",
-        "无销售性质"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "沈女士",
-      "title": "人事行政助理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240905/607f1f3d68754fd019a5051eec3a2ddbc8607a0d13554f01922538ea121693a3c6588cec92280b4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "杭州修和医疗投资管理",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "560e74a7b9cfbb971XZz3tu0FFs~",
-      "brandName": "杭州修和医疗投资管理",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100402,
-      "industryName": "医疗服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731572899569,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州修和医疗投资管理",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州修和医疗投资管理",
+        "certificated": true,
+        "large": null,
+        "name": "沈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240905/607f1f3d68754fd019a5051eec3a2ddbc8607a0d13554f01922538ea121693a3c6588cec92280b4_b.jpg",
+        "title": "人事行政助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731572899569,
+        "brandName": "杭州修和医疗投资管理",
+        "customerBrandName": "杭州修和医疗投资管理",
+        "customerBrandStageName": "",
+        "encryptBrandId": "560e74a7b9cfbb971XZz3tu0FFs~",
+        "focusBrand": false,
+        "industry": 100402,
+        "industryName": "医疗服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区浙江省中医药学会中医门诊部双菱路104号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "63bb1d048e6f31c51nB4092-FFFTx46-WPie",
+        "encryptId": "65b0f1dc5742a7ff1H1z2t69GVdW",
+        "encryptUserId": "2251a9e2353be5f10XR929W8FVtS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "中医全科医生",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.258366,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.1957,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240831/48ba41acc9cef1bfb1857b2a4766acdef8235b86454341296bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 210302,
+        "positionName": "中医",
+        "postDescription": "工作内容：\n1、提供中医全科医疗服务，确保患者接受到专业的中医诊疗；\n2、根据患者病情，制定和执行个性化的中医治疗方案；\n3、积极参与医疗团队合作，提升服务质量和患者满意度；\n\n任职资格：\n具备扎实的中医专业知识，对中医诊疗有深刻理解和实践经验；具有良好的沟通能力和团队合作精神；对工作认真负责，有较强的服务意识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "门诊部/诊所",
+            "针灸经验",
+            "有中医科医生经验",
+            "中医科医生",
+            "中医执业医师资格证",
+            "无销售性质"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240831/48ba41acc9cef1bfd8034e2783e0a771e828023b90e619806bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bQIm5q-9XOR2r-i142j6qpu0dY7XHzldzTAQTYyfNRa8L2RbNMUJvaIEbtmfPa0wpxuWboJJ3SWe5Thh_8iNV-QzFUJ4xmLTlJHGJJkSAH7DQpT-UI3f4i_itxsTZB1tp_ZpQT5vMU05RDk~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WpN15oG03qpsX-Y16dCHGecm_lAAbx4MgT5x0x7AY8GJTuiTGKYBa0NUddldYSGRJU5htyDKPkpbFMYir2yh-Yq_tJghvsaXbu-H6tHneg-lJBiqjxkWH02lPVAFKW5mjacX7ZEfIPKs70jMrXo6Uq0BQjtwgpx-xhCFXRvR5ADFplVLRzxZtOGHVYUCcz20QcSLScXeQQ7HH8Ztxe0Elw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ea76498edabc616103R53Nu7EVBY",
-      "encryptUserId": "f82bcc8c25b559691Hd-3Ny0EVI~",
-      "invalidStatus": false,
-      "jobName": "云计算运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "位职责：\n1、负责电子云平台交付规划，运维相关工作\n2、负责平台版本升级、扩容、安全加固相关工作\n3、响应客户需求，解决云计算平台相关技术问题。\n4、完成岗位职责范围内的其它工作。\n\n岗位要求：\n1、二年以上云项目集成经验；\n2、熟练掌握专有云各个模块（如分布式计算、分布式存储、虚拟化、SLB、管控等）的产品结构及主要功能特性与配置方法；熟练掌握主流的虚拟化技术（ECS、KVM）；熟练掌握Linux操作系统的日常操作并对Python语言有一定的了解；\n3、熟练掌握网络中常用的二层协议以及三层路由协议（如vlan,Vxlan,lacp,虚拟化等、OSPF/BGP、MPLS/VPN）等网络技术；技术能力在H3CIE、CCIE同等级别以上。\n4、具备IDC机房规划经验，能完成现场工勘、规划设计等。\n5、具备K8S云平台运维经验优先；\n6、责任心强，良好的沟通、学习及团队合作能力，要有很好的客户服务意识。\n7、熟悉ITLL服务流程。\n8、通过网络工程师认证考试（CCIE/HCIE）等优先。",
-      "encryptAddressId": "aa808e841142b4f21nZ83tu7FVNRy4q_Wf2W",
-      "address": "武汉蔡甸区东风汽车集团股份有限公司1",
-      "longitude": 114.165137,
-      "latitude": 30.503518,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240715/48ba41acc9cef1bfb2ade048442e25aa9d7595adf85ead146bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240715/48ba41acc9cef1bf42cb0e549195831bfccde5f4aea72d246bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "CCIE",
-        "网络",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "计女士",
-      "title": "招聘经理",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=2722e8507551d6e3jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95ZnHt05Np5vYxpS1O0mb01Z-r3KZJStO64Cj4oNVhR8nRbrajxFHIbRrTiWBM7w9hJHwnimKsI_VtNV9m23CR4DHZEpyjaOcf7xZV_Fu0Ni7UL7USOmAJd13E~&radius=15",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中宇华兴",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "02cd93afbfed15441Hxz2NW_",
-      "brandName": "中宇华兴",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733385854208,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中宇华兴",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中宇华兴",
+        "certificated": true,
+        "large": null,
+        "name": "计女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=2722e8507551d6e3jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95ZnHt05Np5vYxpS1O0mb01Z-r3KZJStO64Cj4oNVhR8nRbrajxFHIbRrTiWBM7w9hJHwnimKsI_VtNV9m23CR4DHZEpyjaOcf7xZV_Fu0Ni7UL7USOmAJd13E~&radius=15",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1733385854208,
+        "brandName": "中宇华兴",
+        "customerBrandName": "中宇华兴",
+        "customerBrandStageName": "",
+        "encryptBrandId": "02cd93afbfed15441Hxz2NW_",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉蔡甸区东风汽车集团股份有限公司1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "aa808e841142b4f21nZ83tu7FVNRy4q_Wf2W",
+        "encryptId": "ea76498edabc616103R53Nu7EVBY",
+        "encryptUserId": "f82bcc8c25b559691Hd-3Ny0EVI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "云计算运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.503518,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.165137,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240715/48ba41acc9cef1bf42cb0e549195831bfccde5f4aea72d246bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "位职责：\n1、负责电子云平台交付规划，运维相关工作\n2、负责平台版本升级、扩容、安全加固相关工作\n3、响应客户需求，解决云计算平台相关技术问题。\n4、完成岗位职责范围内的其它工作。\n\n岗位要求：\n1、二年以上云项目集成经验；\n2、熟练掌握专有云各个模块（如分布式计算、分布式存储、虚拟化、SLB、管控等）的产品结构及主要功能特性与配置方法；熟练掌握主流的虚拟化技术（ECS、KVM）；熟练掌握Linux操作系统的日常操作并对Python语言有一定的了解；\n3、熟练掌握网络中常用的二层协议以及三层路由协议（如vlan,Vxlan,lacp,虚拟化等、OSPF/BGP、MPLS/VPN）等网络技术；技术能力在H3CIE、CCIE同等级别以上。\n4、具备IDC机房规划经验，能完成现场工勘、规划设计等。\n5、具备K8S云平台运维经验优先；\n6、责任心强，良好的沟通、学习及团队合作能力，要有很好的客户服务意识。\n7、熟悉ITLL服务流程。\n8、通过网络工程师认证考试（CCIE/HCIE）等优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "网络运维",
+            "CCIE",
+            "网络",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240715/48ba41acc9cef1bfb2ade048442e25aa9d7595adf85ead146bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WpN15oG03qpsX-Y16dCHGecm_lAAbx4MgT5x0x7AY8GJTuiTGKYBa0NUddldYSGRJU5htyDKPkpbFMYir2yh-Yq_tJghvsaXbu-H6tHneg-lJBiqjxkWH02lPVAFKW5mjacX7ZEfIPKs70jMrXo6Uq0BQjtwgpx-xhCFXRvR5ADFplVLRzxZtOGHVYUCcz20QcSLScXeQQ7HH8Ztxe0Elw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

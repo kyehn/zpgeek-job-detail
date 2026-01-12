@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "aSVMhcbJyI9S8-Q1_H4LQxdS4sG8f-Z1KQ6r0IDo-P44l3d8VSvIAVgWAMLGlFui_rUMJRjob7UKm66mKBlfxZNuLWFKFsuWKwjObvb0kCgKqgMIMQfhtU7XneG58T3fhAtwGjmUIK7k",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3a8cca08127154fc1Hx90t60EFtX",
-      "encryptUserId": "18eb7646a369ca7a1HF439i1GFQ~",
-      "invalidStatus": false,
-      "jobName": "音乐节执行（报批+官售）",
-      "position": 140109,
-      "positionName": "活动策划执行",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、协助公司进行音乐节筹备\n2、文化和公安报批\n3、负责官方售卖，从前期设计到把控成本到落地贩售的全过程等\n4、领导安排的其他工作。\n\n岗位要求：\n1、有报批or官售经验优先；\n2、头脑清晰，做事有条理，有极强的责任心，非常靠谱，善于沟通，理解能力强",
-      "encryptAddressId": "b392d1caf28f220e3ndz0tS5F1JTwIq6VPo~",
-      "address": "苏州姑苏区罗森内里(美地PARk广场店)8栋",
-      "longitude": 120.626848,
-      "latitude": 31.28313,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240611/48ba41acc9cef1bf2e416c67d6effd001ef54e806bb879216bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240611/48ba41acc9cef1bfd9bbe0a72a336983873868d9864a02d36bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "报批",
-        "官售"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231101/607f1f3d68754fd0810402f0c05f9b5940fde68897d23e565de6698a085b36c9e70f33872ab2af7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "罗森内里",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ddeb17a5f80f41730Hd72d-7GQ~~",
-      "brandName": "罗森内里",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230128/7b5b554d84f9729c4204de33a1dfa3ac76461d6c546979802c79572bcec6ec018b5b02fbaf8df893.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100104,
-      "industryName": "文化艺术/娱乐",
-      "introduce": "我们是一家提供营销策划、平面及空间设计、媒介推广等其他品牌服务，专注于为营销策划\\创意理念设计\\提供一站式解决方案。\n千变万化的市场竞争和个性定制化需求令我们一直不断超越和改变，只为一个不变的梦想责任，“让品牌更有价值！”是罗森内里人坚定的工作信条，通过多年的工作资源积累跨行业丰富项目经验，罗森内里已成为区域营销策划标杆机构及幕后推动者。\n公司运营：\n体育赛事/音乐节/大型商业演出/创意设计等相关项目。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "有无线网",
-        "团建聚餐",
-        "带薪年假",
-        "全勤奖",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1730970120000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "罗森内里",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "罗森内里",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231101/607f1f3d68754fd0810402f0c05f9b5940fde68897d23e565de6698a085b36c9e70f33872ab2af7_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730970120000,
+        "brandName": "罗森内里",
+        "customerBrandName": "罗森内里",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "ddeb17a5f80f41730Hd72d-7GQ~~",
+        "focusBrand": false,
+        "industry": 100104,
+        "industryName": "文化艺术/娱乐",
+        "introduce": "我们是一家提供营销策划、平面及空间设计、媒介推广等其他品牌服务，专注于为营销策划\\创意理念设计\\提供一站式解决方案。\n千变万化的市场竞争和个性定制化需求令我们一直不断超越和改变，只为一个不变的梦想责任，“让品牌更有价值！”是罗森内里人坚定的工作信条，通过多年的工作资源积累跨行业丰富项目经验，罗森内里已成为区域营销策划标杆机构及幕后推动者。\n公司运营：\n体育赛事/音乐节/大型商业演出/创意设计等相关项目。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "有无线网",
+            "团建聚餐",
+            "带薪年假",
+            "全勤奖",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230128/7b5b554d84f9729c4204de33a1dfa3ac76461d6c546979802c79572bcec6ec018b5b02fbaf8df893.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州姑苏区罗森内里(美地PARk广场店)8栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b392d1caf28f220e3ndz0tS5F1JTwIq6VPo~",
+        "encryptId": "3a8cca08127154fc1Hx90t60EFtX",
+        "encryptUserId": "18eb7646a369ca7a1HF439i1GFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "音乐节执行（报批+官售）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.28313,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.626848,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240611/48ba41acc9cef1bfd9bbe0a72a336983873868d9864a02d36bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 140109,
+        "positionName": "活动策划执行",
+        "postDescription": "岗位职责：\n1、协助公司进行音乐节筹备\n2、文化和公安报批\n3、负责官方售卖，从前期设计到把控成本到落地贩售的全过程等\n4、领导安排的其他工作。\n\n岗位要求：\n1、有报批or官售经验优先；\n2、头脑清晰，做事有条理，有极强的责任心，非常靠谱，善于沟通，理解能力强",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "报批",
+            "官售"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240611/48ba41acc9cef1bf2e416c67d6effd001ef54e806bb879216bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "aSVMhcbJyI9S8-Q1_H4LQxdS4sG8f-Z1KQ6r0IDo-P44l3d8VSvIAVgWAMLGlFui_rUMJRjob7UKm66mKBlfxZNuLWFKFsuWKwjObvb0kCgKqgMIMQfhtU7XneG58T3fhAtwGjmUIK7k",
+    "selfAccess": false,
+    "sessionId": null
 }

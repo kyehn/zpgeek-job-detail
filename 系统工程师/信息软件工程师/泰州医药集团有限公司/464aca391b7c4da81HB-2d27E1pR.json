@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Wfok5cDu3MOiD-q1gxCWpZw9JHOm7ZaeR6AEOQbtaABkhq35sZZGN0F9wKTR4Rt_SPLrWZc0nHoMt8hv2YPBd4OHliWg5tNF_lJfwDY5l2guU54EQJeGUDqeyNJ4tIn8Cz6wuWAyVneJ-A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "464aca391b7c4da81HB-2d27E1pR",
-      "encryptUserId": "bafdfb887bd5afc31HJ73tq9EVA~",
-      "invalidStatus": false,
-      "jobName": "信息软件工程师",
-      "position": 100404,
-      "positionName": "系统工程师",
-      "location": 101191200,
-      "locationName": "泰州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n1、参与公司信息系统的业务需求分析、技术方案制定；\n2、负责系统信息安全的方案设计、开发与维护；\n3、负责信息系统后期的持续升级开发工作及运维工作；\n\n招聘条件：\n1、本科及以上学历，计算机、软件工程相关专业。\n2、精通MSSQL2005/2008或ORACLE数据库。\n3、能熟练完成服务器搭建、分布与配置。\n4、具有相关工作经验者优先。",
-      "encryptAddressId": "f755aa4869c034a71nR_3Nu5F1JZ",
-      "address": "泰州海陵区泰州医药集团66号",
-      "longitude": 119.909014,
-      "latitude": 32.496262,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbd45640d507a68e5a7c610ce3bed56f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d20a802582af2307f57ef6cae23a9a0",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信/工程相关专业",
-        "系统建设/运维经验",
-        "计算机相关专业",
-        "计算机/网络系统工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "冯女士",
-      "title": "人事经理HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230726/607f1f3d68754fd0ae19ababb56ea419e7f26b3befe7b199bb00c0bd09e21fce7237d3f193d225a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "泰州医药集团有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2b922c2632bc28881XV73dm8EFs~",
-      "brandName": "泰州医药集团有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100401,
-      "industryName": "生物/制药",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730162567000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "泰州医药集团有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "泰州医药集团有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "冯女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230726/607f1f3d68754fd0ae19ababb56ea419e7f26b3befe7b199bb00c0bd09e21fce7237d3f193d225a_b.jpg",
+        "title": "人事经理HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1730162567000,
+        "brandName": "泰州医药集团有限公司",
+        "customerBrandName": "泰州医药集团有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2b922c2632bc28881XV73dm8EFs~",
+        "focusBrand": false,
+        "industry": 100401,
+        "industryName": "生物/制药",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "泰州海陵区泰州医药集团66号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f755aa4869c034a71nR_3Nu5F1JZ",
+        "encryptId": "464aca391b7c4da81HB-2d27E1pR",
+        "encryptUserId": "bafdfb887bd5afc31HJ73tq9EVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "信息软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.496262,
+        "location": 101191200,
+        "locationName": "泰州",
+        "longitude": 119.909014,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d20a802582af2307f57ef6cae23a9a0",
+        "position": 100404,
+        "positionName": "系统工程师",
+        "postDescription": "职位描述：\n1、参与公司信息系统的业务需求分析、技术方案制定；\n2、负责系统信息安全的方案设计、开发与维护；\n3、负责信息系统后期的持续升级开发工作及运维工作；\n\n招聘条件：\n1、本科及以上学历，计算机、软件工程相关专业。\n2、精通MSSQL2005/2008或ORACLE数据库。\n3、能熟练完成服务器搭建、分布与配置。\n4、具有相关工作经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "通信/工程相关专业",
+            "系统建设/运维经验",
+            "计算机相关专业",
+            "计算机/网络系统工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbd45640d507a68e5a7c610ce3bed56f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Wfok5cDu3MOiD-q1gxCWpZw9JHOm7ZaeR6AEOQbtaABkhq35sZZGN0F9wKTR4Rt_SPLrWZc0nHoMt8hv2YPBd4OHliWg5tNF_lJfwDY5l2guU54EQJeGUDqeyNJ4tIn8Cz6wuWAyVneJ-A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

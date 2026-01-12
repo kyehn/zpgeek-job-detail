@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GghtN5WHU5x3I-Q18C3AE6QMts9TDBUIXPMjQSa80gWjRb_rcvuGnxSUc0_SwvNb-x-3suCaNOaLFSTG2LWtPn3zX4wHRgPDagvdvYI4m2tFhZThar4X",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3687f4996dd395661Hd53tS-FldV",
-      "encryptUserId": "8c16967bed6db3990XZ92tS_F1ZR",
-      "invalidStatus": false,
-      "jobName": "软件开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "计算机专业，有相关工作经验即可",
-      "encryptAddressId": "69b756cb4b6676ff03F72N21GFJQwIm8Vf4~",
-      "address": "成都武侯区出彩医美138号",
-      "longitude": 104.035033,
-      "latitude": 30.551403,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230506/48ba41acc9cef1bf6e8475d1824c36484a706900d54efcd76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bfabb1233b719bb27e27dfc2bb593d8d0c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Redis",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "成都从游智能科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7ba90b5c9db6ca271HZ_3N24ElI~",
-      "brandName": "成都从游智能科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101404,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725315673005,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "成都从游智能科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "成都从游智能科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1725315673005,
+        "brandName": "成都从游智能科技",
+        "customerBrandName": "成都从游智能科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7ba90b5c9db6ca271HZ_3N24ElI~",
+        "focusBrand": false,
+        "industry": 101404,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区出彩医美138号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "69b756cb4b6676ff03F72N21GFJQwIm8Vf4~",
+        "encryptId": "3687f4996dd395661Hd53tS-FldV",
+        "encryptUserId": "8c16967bed6db3990XZ92tS_F1ZR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.551403,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.035033,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bfabb1233b719bb27e27dfc2bb593d8d0c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "计算机专业，有相关工作经验即可",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "Java",
+            "Redis",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230506/48ba41acc9cef1bf6e8475d1824c36484a706900d54efcd76bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GghtN5WHU5x3I-Q18C3AE6QMts9TDBUIXPMjQSa80gWjRb_rcvuGnxSUc0_SwvNb-x-3suCaNOaLFSTG2LWtPn3zX4wHRgPDagvdvYI4m2tFhZThar4X",
+    "selfAccess": false,
+    "sessionId": null
 }

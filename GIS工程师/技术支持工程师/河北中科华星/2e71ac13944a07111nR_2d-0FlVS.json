@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8gi3ZVJXshz24-Q1KCyDkN3C31XyS1GxVgTV3i2j74zCEzp12beq88WhPcDloRslL7Lwy_70Rq4F4EIJXNSqQ9NOb9FW7Thm31hgwvhMJ6UOMS5bfyJmKp5ay0jW0GSK",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2e71ac13944a07111nR_2d-0FlVS",
-      "encryptUserId": "6bc5ce9b6bdb754a0XV62tS5EFQ~",
-      "invalidStatus": false,
-      "jobName": "技术支持工程师",
-      "position": 100124,
-      "positionName": "GIS工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司取得相关行业资质、政府项目申报等工作。\n2、负责市场需求分析、技术建议、产品设计、方案编写及招投标工作；\n3、协助项目经理完成项目需求分析、方案设计与实施以及相关技术文档编写；\n4、负责项目售前、售后工作，包括项目资料收集、客户对接、软件产品演示等；\n任职要求：\n1、遥感、测绘、地理信息系统、环保等相关专业；\n2、了解ArcGIS、ERDAS、PCI、ENVI、PS、Office等软件；\n3、具备较强的文案编写能力、良好的人际沟通能力或现场演示能力；\n4、具有大气监测、国土监测、生态环境监测或农业监测等相关经验者优先；\n5、研究生优先；",
-      "encryptAddressId": "6f7ed643d10272381HJ52Nu5FVA~",
-      "address": "广州黄埔区丰巢·链谷3层311室",
-      "longitude": 113.436989,
-      "latitude": 23.100158,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ddae8139150d67415292686af66288af",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21adc488e9dc7a3491fbd9e596671055",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "GIS系统",
-        "PCI",
-        "OFFICE",
-        "图形图像处理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "河北中科华星",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a9ece19b5faf35720XN82d-4FA~~",
-      "brandName": "河北中科华星",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "河北中科华星信息技术有限公司是以中国科学院和高分辨率对地观测系统河北数据与应用中心为背景依托， 专业从事空间信息技术服务的产学研转化平台和高新技术企业。公司依托雄厚的科研力量和丰富的高分辨率 卫星数据资源，致力于多源遥感影像集成处理和地理信息综合应用服务的技术研究，具备空间数据加工和信 息服务、行业软件开发和系统集成能力，是河北高分中心的主要技术支撑单位。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "餐补",
-        "节日福利",
-        "员工旅游"
-      ],
-      "activeTime": 1730756367869,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河北中科华星",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "河北中科华星",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730756367869,
+        "brandName": "河北中科华星",
+        "customerBrandName": "河北中科华星",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "a9ece19b5faf35720XN82d-4FA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "河北中科华星信息技术有限公司是以中国科学院和高分辨率对地观测系统河北数据与应用中心为背景依托， 专业从事空间信息技术服务的产学研转化平台和高新技术企业。公司依托雄厚的科研力量和丰富的高分辨率 卫星数据资源，致力于多源遥感影像集成处理和地理信息综合应用服务的技术研究，具备空间数据加工和信 息服务、行业软件开发和系统集成能力，是河北高分中心的主要技术支撑单位。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "餐补",
+            "节日福利",
+            "员工旅游"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州黄埔区丰巢·链谷3层311室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6f7ed643d10272381HJ52Nu5FVA~",
+        "encryptId": "2e71ac13944a07111nR_2d-0FlVS",
+        "encryptUserId": "6bc5ce9b6bdb754a0XV62tS5EFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术支持工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.100158,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.436989,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21adc488e9dc7a3491fbd9e596671055",
+        "position": 100124,
+        "positionName": "GIS工程师",
+        "postDescription": "岗位职责：\n1、负责公司取得相关行业资质、政府项目申报等工作。\n2、负责市场需求分析、技术建议、产品设计、方案编写及招投标工作；\n3、协助项目经理完成项目需求分析、方案设计与实施以及相关技术文档编写；\n4、负责项目售前、售后工作，包括项目资料收集、客户对接、软件产品演示等；\n任职要求：\n1、遥感、测绘、地理信息系统、环保等相关专业；\n2、了解ArcGIS、ERDAS、PCI、ENVI、PS、Office等软件；\n3、具备较强的文案编写能力、良好的人际沟通能力或现场演示能力；\n4、具有大气监测、国土监测、生态环境监测或农业监测等相关经验者优先；\n5、研究生优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "GIS系统",
+            "PCI",
+            "OFFICE",
+            "图形图像处理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ddae8139150d67415292686af66288af"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8gi3ZVJXshz24-Q1KCyDkN3C31XyS1GxVgTV3i2j74zCEzp12beq88WhPcDloRslL7Lwy_70Rq4F4EIJXNSqQ9NOb9FW7Thm31hgwvhMJ6UOMS5bfyJmKp5ay0jW0GSK",
+    "selfAccess": false,
+    "sessionId": null
 }

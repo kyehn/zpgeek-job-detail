@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UIkujLfnWiiJF-c1ng6iJJyP3RKBbF5x0rg-gy6m5UpWD887xogDLUl67tfLYq8piQniN7LxWDEfzRvmDrvd25Abg_W4vOIjOGELqwkU-FmZ8aemkyk9V4vFdbbuU1d1",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ef049a2075df923203R52N69FVZT",
-      "encryptUserId": "4f10ddc4782de6b203R539m6FlI~",
-      "invalidStatus": false,
-      "jobName": "初级开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、参与Java相关项目开发，确保代码质量和模块功能的实现。\n2、与团队合作，完成模块的测试工作，并协助解决测试过程中发现的问题。\n3、理解业务需求，参与系统设计，包括功能设计和数据库设计。\n\n任职要求\n1、本科以上学历，计算机相关专业；\n2、具备扎实的Java编程能力，熟悉Spring等主流框架。熟练使用MySQL或Oracle数据库，具备良好的SQL知识。\n3、具有良好的团队合作精神，能够有效沟通，快速定位并解决技术问题。",
-      "encryptAddressId": "1086e1eda8ef476d1nR42Nq8ElJY",
-      "address": "北京通州区绿地中央广场1期1812",
-      "longitude": 116.65838,
-      "latitude": 39.91559,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf5dde8906fca60b66520eac1d09759e0c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bf29ead4d1221b4fbaf570753c3482006a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "不接受居家办公",
-        "SpringCloud",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "白女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180614/3607da44cd58fbc4a8b27befb71e2652cfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "通联共创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7d0446bb7962e38b1XV629u8EQ~~",
-      "brandName": "通联共创",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200429/d25b67896c942e90f12b4d30ca2223702fd62f5e27be4ac9b14bc73b3d5e9a44_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "北京通联共创科技有限责任公司的核心业务：行业综合软件和系统服务（行业应用软件专业IT服务整体解决方案）重点发展公共服务在线运营。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "包吃",
-        "节日福利"
-      ],
-      "activeTime": 1734420977729,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "通联共创",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "通联共创",
+        "certificated": true,
+        "large": null,
+        "name": "白女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180614/3607da44cd58fbc4a8b27befb71e2652cfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734420977729,
+        "brandName": "通联共创",
+        "customerBrandName": "通联共创",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7d0446bb7962e38b1XV629u8EQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "北京通联共创科技有限责任公司的核心业务：行业综合软件和系统服务（行业应用软件专业IT服务整体解决方案）重点发展公共服务在线运营。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "包吃",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200429/d25b67896c942e90f12b4d30ca2223702fd62f5e27be4ac9b14bc73b3d5e9a44_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京通州区绿地中央广场1期1812",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "1086e1eda8ef476d1nR42Nq8ElJY",
+        "encryptId": "ef049a2075df923203R52N69FVZT",
+        "encryptUserId": "4f10ddc4782de6b203R539m6FlI~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "初级开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.91559,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.65838,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bf29ead4d1221b4fbaf570753c3482006a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作内容\n1、参与Java相关项目开发，确保代码质量和模块功能的实现。\n2、与团队合作，完成模块的测试工作，并协助解决测试过程中发现的问题。\n3、理解业务需求，参与系统设计，包括功能设计和数据库设计。\n\n任职要求\n1、本科以上学历，计算机相关专业；\n2、具备扎实的Java编程能力，熟悉Spring等主流框架。熟练使用MySQL或Oracle数据库，具备良好的SQL知识。\n3、具有良好的团队合作精神，能够有效沟通，快速定位并解决技术问题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "Java",
+            "不接受居家办公",
+            "SpringCloud",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf5dde8906fca60b66520eac1d09759e0c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UIkujLfnWiiJF-c1ng6iJJyP3RKBbF5x0rg-gy6m5UpWD887xogDLUl67tfLYq8piQniN7LxWDEfzRvmDrvd25Abg_W4vOIjOGELqwkU-FmZ8aemkyk9V4vFdbbuU1d1",
+    "selfAccess": false,
+    "sessionId": null
 }

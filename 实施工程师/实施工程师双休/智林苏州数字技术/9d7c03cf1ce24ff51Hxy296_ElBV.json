@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6iBPIZ918RsKQ-B1rdaxKHqfOTWR7bi6Hv6Ej5VpMoIyBfAx2kOclucH013TathCdBWvC6W8CYvJbsHiyuPBW3c8F6LzUzkQDBsmtwKCrAzdTajBQukmQki5VKsLKAHMLf3pbHhZNS7syA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9d7c03cf1ce24ff51Hxy296_ElBV",
-      "encryptUserId": "cf3ff98c7f0759621HJ529-8FFE~",
-      "invalidStatus": false,
-      "jobName": "实施工程师双休",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.与客户保持密切沟通，建立良好的客户合作关系，保障良好的客户满意度；\n2.可执行简单的需求调查、需求分析工作；\n3.负责进行现场问题的解决，并且进行记录；\n4.可承担系统软件、硬件平台的安装搭建与实施工作；\n5.辅助客户实施系统，进行良好的客户培训服务工作，以及及时的响应服务；\n6.提供系统的后期实施及技术服务支持；\n7.协助部分已完成软件项目的售后技术支持工作；\n8.完成项目经理安排的其他临时性工作任务。\n\n任职要求：\n1.计算机、软件工程、信息工程等相关专业专科及以上学历；\n2.有组织性、纪律性，性格开朗，沟通能力好；有学生会、班干部或假期实习经历者优先；\n3.基本掌握SQLServer/MySQL/Oracle等主流数据库技术，熟悉面向对象的程序设计方法；\n4.需要现场出差工作，必须具备项目管理经验。",
-      "encryptAddressId": "05ae61e437545d9c1nd729S_E1RZx4S_Wfia",
-      "address": "长沙芙蓉区凯通朝庭湖南省长沙市芙蓉区朝阳街道凯通朝庭7栋1单元605室",
-      "longitude": 113.007718,
-      "latitude": 28.186383,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bf5cd45ec890021804b9ec9c7b95fe729c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf329ab398f80e270c1893f6d9326c43386bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "席女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221010/607f1f3d68754fd0a4b0379a20466b813e9445c4e1985dab8726bddaa0eba802122357e659f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "智林苏州数字技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8709d6f33855fd801Xd43tm0GVs~",
-      "brandName": "智林苏州数字技术",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220926/7b5b554d84f9729cce061be0675977d28fbba255b2648cf04208e42a8a2e4d5c12203fd9a30d7d38.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "智林致力于创新研发实力，不断加速教育信息化产业裂变和产品的迭代，具有成长性高、创新型强、专业领域新、未来产值大的竞争优势。",
-      "labels": [
-        "交通补助",
-        "生日福利",
-        "节日福利",
-        "通讯补贴",
-        "住房补贴",
-        "团建聚餐",
-        "零食下午茶",
-        "员工旅游",
-        "带薪年假",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1729843483961,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智林苏州数字技术",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智林苏州数字技术",
+        "certificated": true,
+        "large": null,
+        "name": "席女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221010/607f1f3d68754fd0a4b0379a20466b813e9445c4e1985dab8726bddaa0eba802122357e659f_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1729843483961,
+        "brandName": "智林苏州数字技术",
+        "customerBrandName": "智林苏州数字技术",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "8709d6f33855fd801Xd43tm0GVs~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "智林致力于创新研发实力，不断加速教育信息化产业裂变和产品的迭代，具有成长性高、创新型强、专业领域新、未来产值大的竞争优势。",
+        "labels": [
+            "交通补助",
+            "生日福利",
+            "节日福利",
+            "通讯补贴",
+            "住房补贴",
+            "团建聚餐",
+            "零食下午茶",
+            "员工旅游",
+            "带薪年假",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220926/7b5b554d84f9729cce061be0675977d28fbba255b2648cf04208e42a8a2e4d5c12203fd9a30d7d38.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙芙蓉区凯通朝庭湖南省长沙市芙蓉区朝阳街道凯通朝庭7栋1单元605室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "05ae61e437545d9c1nd729S_E1RZx4S_Wfia",
+        "encryptId": "9d7c03cf1ce24ff51Hxy296_ElBV",
+        "encryptUserId": "cf3ff98c7f0759621HJ529-8FFE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师双休",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.186383,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.007718,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf329ab398f80e270c1893f6d9326c43386bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1.与客户保持密切沟通，建立良好的客户合作关系，保障良好的客户满意度；\n2.可执行简单的需求调查、需求分析工作；\n3.负责进行现场问题的解决，并且进行记录；\n4.可承担系统软件、硬件平台的安装搭建与实施工作；\n5.辅助客户实施系统，进行良好的客户培训服务工作，以及及时的响应服务；\n6.提供系统的后期实施及技术服务支持；\n7.协助部分已完成软件项目的售后技术支持工作；\n8.完成项目经理安排的其他临时性工作任务。\n\n任职要求：\n1.计算机、软件工程、信息工程等相关专业专科及以上学历；\n2.有组织性、纪律性，性格开朗，沟通能力好；有学生会、班干部或假期实习经历者优先；\n3.基本掌握SQLServer/MySQL/Oracle等主流数据库技术，熟悉面向对象的程序设计方法；\n4.需要现场出差工作，必须具备项目管理经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bf5cd45ec890021804b9ec9c7b95fe729c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6iBPIZ918RsKQ-B1rdaxKHqfOTWR7bi6Hv6Ej5VpMoIyBfAx2kOclucH013TathCdBWvC6W8CYvJbsHiyuPBW3c8F6LzUzkQDBsmtwKCrAzdTajBQukmQki5VKsLKAHMLf3pbHhZNS7syA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

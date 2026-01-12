@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YJZ0lIY613pGP-91vII5M-WOuhHUxNq0r3pFWzsK6EK3Zl1pxCdAR21TOcDa-c_ktPAIscF98c-K9P5OEEI4PXk6TnYDQ2QL-aB5P_ttlw5EE0U5JNqq",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5697cc8c43ef6ed51HB-3Ni_GFBT",
-      "encryptUserId": "b755e16603364c7c1nZ409m0E1pV",
-      "invalidStatus": false,
-      "jobName": "自动化工程师",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101210300,
-      "locationName": "嘉兴",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "负责维护调试自动化设备，提供售后技术支持，售后技术服务",
-      "encryptAddressId": "5df862691134d4ae0XF62dS4ElJZx4i-UPk~",
-      "address": "嘉兴嘉善县培润大厦b栋302",
-      "longitude": 120.937623,
-      "latitude": 30.834639,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230720/48ba41acc9cef1bf3d3e3a561b6638d9a674f0b9be9c098a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230720/48ba41acc9cef1bfc44ad93167f729654dd7ec330478107a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机械/电子工程相关专业",
-        "机械/机电设备技术支持经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231202/607f1f3d68754fd095ee824569e613c9043ecae55033cb2ffc81f987ffae57b1af3f6ce71cb4938_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "山西众豪自动化设备",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ea416669c5476ba61HZ62N24GFI~",
-      "brandName": "山西众豪自动化设备",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100907,
-      "industryName": "专用设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725225107730,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山西众豪自动化设备",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山西众豪自动化设备",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231202/607f1f3d68754fd095ee824569e613c9043ecae55033cb2ffc81f987ffae57b1af3f6ce71cb4938_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725225107730,
+        "brandName": "山西众豪自动化设备",
+        "customerBrandName": "山西众豪自动化设备",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "ea416669c5476ba61HZ62N24GFI~",
+        "focusBrand": false,
+        "industry": 100907,
+        "industryName": "专用设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "嘉兴嘉善县培润大厦b栋302",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5df862691134d4ae0XF62dS4ElJZx4i-UPk~",
+        "encryptId": "5697cc8c43ef6ed51HB-3Ni_GFBT",
+        "encryptUserId": "b755e16603364c7c1nZ409m0E1pV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "自动化工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.834639,
+        "location": 101210300,
+        "locationName": "嘉兴",
+        "longitude": 120.937623,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230720/48ba41acc9cef1bfc44ad93167f729654dd7ec330478107a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "负责维护调试自动化设备，提供售后技术支持，售后技术服务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "机械/电子工程相关专业",
+            "机械/机电设备技术支持经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230720/48ba41acc9cef1bf3d3e3a561b6638d9a674f0b9be9c098a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YJZ0lIY613pGP-91vII5M-WOuhHUxNq0r3pFWzsK6EK3Zl1pxCdAR21TOcDa-c_ktPAIscF98c-K9P5OEEI4PXk6TnYDQ2QL-aB5P_ttlw5EE0U5JNqq",
+    "selfAccess": false,
+    "sessionId": null
 }

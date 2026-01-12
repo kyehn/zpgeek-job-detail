@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "osEmfLGHWxGH7-81Yv7Ak4EJWClFREEC-EbjHOXOzJBo-xrij8dPEEgbAYh4ajgBtsstN_gwH1HIDFEoyQluxJfiU0UP88f0Mp0csfHHR_BvIPTjy60zyyDVYnK2H5ItbI2S2hkSOm2t3y0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2e8f889ec2fc537b1H1-2NS9F1VZ",
-      "encryptUserId": "bac9d577204bae5a0XZ_2ty6GVNQ",
-      "invalidStatus": false,
-      "jobName": "运维（上海）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、要求熟悉Linux技术，了解tomcat、mysql等软件基本操作\n2、了解基本的网络相关知识 \n3、熟悉简单shell编程\n4、能够在现场与用户进行沟通，有一定的文档编写能力\n5、熟悉消息队列、Docker、k8s、git等软件，有相关经验优先\n6、细心、负责、有上进心、协作，良好自我提升学习驱动意识态度。\n任职要求：\n1.熟悉liunx及常用的数据库操作\n2.本科，两年及以上工作经验\n3.能接受出差",
-      "encryptAddressId": "de7458c7d7ff26aa1nB70921F1ZVw46_VPmc",
-      "address": "上海静安区上海电力变压器修造厂有限公司1",
-      "longitude": 121.439811,
-      "latitude": 31.297881,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dd1b8efddbc9701952359a3855a73f0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fe331e5d2e3a54795f4143f9924be69",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "程先生",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240305/607f1f3d68754fd0db58ea514ddc1c20b68090937a9f67f5cf7eb8c8b0818d18b0fd00ea5559663_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "江苏晟辰信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "dd09153d160de7fd1Hd90ti6ElA~",
-      "brandName": "江苏晟辰信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729848687473,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江苏晟辰信息科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江苏晟辰信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "程先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240305/607f1f3d68754fd0db58ea514ddc1c20b68090937a9f67f5cf7eb8c8b0818d18b0fd00ea5559663_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1729848687473,
+        "brandName": "江苏晟辰信息科技",
+        "customerBrandName": "江苏晟辰信息科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "dd09153d160de7fd1Hd90ti6ElA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海静安区上海电力变压器修造厂有限公司1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "de7458c7d7ff26aa1nB70921F1ZVw46_VPmc",
+        "encryptId": "2e8f889ec2fc537b1H1-2NS9F1VZ",
+        "encryptUserId": "bac9d577204bae5a0XZ_2ty6GVNQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维（上海）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.297881,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.439811,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fe331e5d2e3a54795f4143f9924be69",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、要求熟悉Linux技术，了解tomcat、mysql等软件基本操作\n2、了解基本的网络相关知识 \n3、熟悉简单shell编程\n4、能够在现场与用户进行沟通，有一定的文档编写能力\n5、熟悉消息队列、Docker、k8s、git等软件，有相关经验优先\n6、细心、负责、有上进心、协作，良好自我提升学习驱动意识态度。\n任职要求：\n1.熟悉liunx及常用的数据库操作\n2.本科，两年及以上工作经验\n3.能接受出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dd1b8efddbc9701952359a3855a73f0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "osEmfLGHWxGH7-81Yv7Ak4EJWClFREEC-EbjHOXOzJBo-xrij8dPEEgbAYh4ajgBtsstN_gwH1HIDFEoyQluxJfiU0UP88f0Mp0csfHHR_BvIPTjy60zyyDVYnK2H5ItbI2S2hkSOm2t3y0~",
+    "selfAccess": false,
+    "sessionId": null
 }

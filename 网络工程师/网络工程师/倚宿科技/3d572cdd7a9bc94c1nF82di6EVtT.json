@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6ZCqwxulOIkiC-p1c5PV5qH6XBV2QbWhhOzi_JBtLghPF66VbP1G4_hJqO9zFljz2JVH6p56ETW0Q0yZ4aXERjD4C-OhMCHOjU4V3fKfpi9B6m9ORS0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3d572cdd7a9bc94c1nF82di6EVtT",
-      "encryptUserId": "4d912acd0cc2b6ab1XJy3Nm9EVc~",
-      "invalidStatus": false,
-      "jobName": "网络工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "办公室日常维护，对接工作",
-      "encryptAddressId": "73b96b6a00760eca03B_09u1",
-      "address": "杭州富阳区富阳大数据产业创新研究院11层",
-      "longitude": 119.989759,
-      "latitude": 30.139612,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41bc687693c2b9fcef13bfa9ff8bccc8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2830d13fb8128c2e55e031e1b989732e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陆女士",
-      "title": "人力",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210521/1525e3fc0f3fba48c1299cdccfa0514a352d2e1e5eba30956a6233bf733_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "倚宿科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "df92386c94e5927b1nJ809i7EVA~",
-      "brandName": "倚宿科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725371332093,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "倚宿科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "倚宿科技",
+        "certificated": true,
+        "large": null,
+        "name": "陆女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210521/1525e3fc0f3fba48c1299cdccfa0514a352d2e1e5eba30956a6233bf733_b.jpg",
+        "title": "人力"
+    },
+    "brandComInfo": {
+        "activeTime": 1725371332093,
+        "brandName": "倚宿科技",
+        "customerBrandName": "倚宿科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "df92386c94e5927b1nJ809i7EVA~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州富阳区富阳大数据产业创新研究院11层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "73b96b6a00760eca03B_09u1",
+        "encryptId": "3d572cdd7a9bc94c1nF82di6EVtT",
+        "encryptUserId": "4d912acd0cc2b6ab1XJy3Nm9EVc~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.139612,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.989759,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2830d13fb8128c2e55e031e1b989732e",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "办公室日常维护，对接工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41bc687693c2b9fcef13bfa9ff8bccc8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6ZCqwxulOIkiC-p1c5PV5qH6XBV2QbWhhOzi_JBtLghPF66VbP1G4_hJqO9zFljz2JVH6p56ETW0Q0yZ4aXERjD4C-OhMCHOjU4V3fKfpi9B6m9ORS0~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wdfb1Yi1_add1-S1zfN2XU7JTD22sqD0laBCq6LDF1Q0loPM3CIZm6Hm1082duVlQEjczxVjHAVWlN7PJrVnnzyvsUglZxyfiPTjktgDV0vvIdw1fmk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "01efc34f198172411XV-3du9EVVT",
-      "encryptUserId": "9ec7fc1e1572138e0nZ80tm6ElM~",
-      "invalidStatus": false,
-      "jobName": "运维助理",
-      "position": 100406,
-      "positionName": "系统管理员",
-      "location": 101140200,
-      "locationName": "日喀则",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "（1）计算机专业（硬件软件）（2）熟悉IT网络，PC服务器，操作系统，OA软件等产品，及其在数据中心内部的架构设计，熟悉主流操作系统，数据库和中间件等软件产品的特性与应用。（3）具备良好的表达能力和沟通协作能力，有一定的计算机英语能力；具备良好的团队协作精神，责任心强，能够承受较大的工作压力；福利：社保五险、包住、节日福利、周末双休、项目奖金、年终绩效奖金、交通补贴。",
-      "encryptAddressId": "6419b5e4999d4db10nV-39i4FlY~",
-      "address": "日喀则桑珠孜区达热瓦小区后藏庄园A区",
-      "longitude": 88.896438,
-      "latitude": 29.260214,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a81e5c107bae1016533b7ed83b0de860",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d535da1c78ee0e7b199b9aca52d3362",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机软件",
-        "网络设备"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "行政人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "财如智",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f488979f0c22eb311n1z3ty9EVs~",
-      "brandName": "财如智",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727271425534,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "财如智",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "财如智",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "行政人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727271425534,
+        "brandName": "财如智",
+        "customerBrandName": "财如智",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f488979f0c22eb311n1z3ty9EVs~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "日喀则桑珠孜区达热瓦小区后藏庄园A区",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6419b5e4999d4db10nV-39i4FlY~",
+        "encryptId": "01efc34f198172411XV-3du9EVVT",
+        "encryptUserId": "9ec7fc1e1572138e0nZ80tm6ElM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.260214,
+        "location": 101140200,
+        "locationName": "日喀则",
+        "longitude": 88.896438,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d535da1c78ee0e7b199b9aca52d3362",
+        "position": 100406,
+        "positionName": "系统管理员",
+        "postDescription": "（1）计算机专业（硬件软件）（2）熟悉IT网络，PC服务器，操作系统，OA软件等产品，及其在数据中心内部的架构设计，熟悉主流操作系统，数据库和中间件等软件产品的特性与应用。（3）具备良好的表达能力和沟通协作能力，有一定的计算机英语能力；具备良好的团队协作精神，责任心强，能够承受较大的工作压力；福利：社保五险、包住、节日福利、周末双休、项目奖金、年终绩效奖金、交通补贴。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "计算机软件",
+            "网络设备"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a81e5c107bae1016533b7ed83b0de860"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wdfb1Yi1_add1-S1zfN2XU7JTD22sqD0laBCq6LDF1Q0loPM3CIZm6Hm1082duVlQEjczxVjHAVWlN7PJrVnnzyvsUglZxyfiPTjktgDV0vvIdw1fmk~",
+    "selfAccess": false,
+    "sessionId": null
 }

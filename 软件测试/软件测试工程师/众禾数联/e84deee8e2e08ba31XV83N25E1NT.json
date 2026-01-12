@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "cHDngSVEiT42b-N1yNHiVtnb6oB0_5B9OTKOrH1oClYBXpE4eJ6pD6aU-cUFm7r0mgjQVrtfzRBU7J6MfAhf0wUC5dC8KBE-xr9YA_GDSCvQar2qDoMU9CFp0aKn6d9Z0-qBRPltkbslKME~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e84deee8e2e08ba31XV83N25E1NT",
-      "encryptUserId": "23eaeed75e73e0ce0nR83N-6GVtT",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1.参与软件项目的需求分析，关注项目需求的合理性，可测性。\n2.参与产品需求与架构设计评审，保证产品设计和架构的合理性。\n3.设计合理简洁的测试用例，并能参与具体的测试执行中，跟进缺陷的修复，质量复核的通过；能引入比较好的思想和方法，以保证产品的质量。\n4.参与自动化用例编写，设计并参与产品的性能测试，安全测试，解决测试过程中复杂的技术问题。\n5.根据产品研发的实际情况，改进设计软件质量保证体系，并推动落地实施6.通过测试相关流程、策略、方法和工具等创新，提升测试的质量和效率。\n岗位要求：\n 1.计算机相关专业，本科以上学历。\n 2.有软件测试相关工作经验优先。\n 3.能够独立编写测试文档，包括测试计划、测试方案、测试用例和测试报告，进行缺陷跟踪和软件质量分析等。 \n4.熟悉SQL Server、MySQL数据库，能熟练编写SQL语句进行数据库操作，能独立编写视图、存储过程、函数，对数据库编程有较强的调试、优化能力；\n5.熟悉ERP系统，有系统对接经验者优先；\n6.熟悉网络交换机、网络安全及相关设备产品的安装与维护工作（包括软、硬件），具有独立工作能力，具有CCIE 、CCIA、CISP或相关原厂工程师认证者优先。\n7.具有良好的团队意识、合作精神和沟通协调能力。",
-      "encryptAddressId": "4054682318b2ee050nR72Nu-GVI~",
-      "address": "西安雁塔区高新NEWORLDT309904",
-      "longitude": 108.882607,
-      "latitude": 34.22111,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/431458ce0f6ec3f1c6c5e04204c20ba7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12db354e1107d15b429f5305440910dd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "安全测试",
-        "自动化测试",
-        "MySQL",
-        "性能测试",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "高女士",
-      "title": "HR",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=1c5ac164ceac7e3djzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95en3l05Np5vYxpS1O0mb01Z-r3KZUAsu66WT4sZFdR9nAL_fOlESRLE-flC04xxNFLSAm2mKkKqFIXXti313IlBHJIoiLdbpWklMshF7pe3-ZZ7BSOmAJd13E~&radius=15",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "众禾数联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "276d90bb13b18d681XR-2t69ElM~",
-      "brandName": "众禾数联",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220301/7bf6f160950405e9750ca6f427674fc390b4620b5eff63ffd67e9888c249108f20c793ff5ec0717b.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "西安众禾数联科技有限公司，位于西安市高新区高新NEWORLD，是一家以自研工业互联网平台为核心的数字化生态建设综合服务商。提供遵从GMP和cGMP标准的医药、食品等领域的MES软件系统，帮助企业实现数字化转型。希望软件、电子信息专业技能能力突出，并有志于工业互联网建设的的优秀人才/学生加入，共同构建融合大数据、AI、工业互联网、云平台技术，具有自感知、自决策、自执行、自适应能力的云化MES软件系统，引领并加速制造产业升级。",
-      "labels": [
-        "节日福利",
-        "带薪年假",
-        "五险一金"
-      ],
-      "activeTime": 1731924348154,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "众禾数联",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "众禾数联",
+        "certificated": true,
+        "large": null,
+        "name": "高女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=1c5ac164ceac7e3djzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95en3l05Np5vYxpS1O0mb01Z-r3KZUAsu66WT4sZFdR9nAL_fOlESRLE-flC04xxNFLSAm2mKkKqFIXXti313IlBHJIoiLdbpWklMshF7pe3-ZZ7BSOmAJd13E~&radius=15",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731924348154,
+        "brandName": "众禾数联",
+        "customerBrandName": "众禾数联",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "276d90bb13b18d681XR-2t69ElM~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "西安众禾数联科技有限公司，位于西安市高新区高新NEWORLD，是一家以自研工业互联网平台为核心的数字化生态建设综合服务商。提供遵从GMP和cGMP标准的医药、食品等领域的MES软件系统，帮助企业实现数字化转型。希望软件、电子信息专业技能能力突出，并有志于工业互联网建设的的优秀人才/学生加入，共同构建融合大数据、AI、工业互联网、云平台技术，具有自感知、自决策、自执行、自适应能力的云化MES软件系统，引领并加速制造产业升级。",
+        "labels": [
+            "节日福利",
+            "带薪年假",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220301/7bf6f160950405e9750ca6f427674fc390b4620b5eff63ffd67e9888c249108f20c793ff5ec0717b.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区高新NEWORLDT309904",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4054682318b2ee050nR72Nu-GVI~",
+        "encryptId": "e84deee8e2e08ba31XV83N25E1NT",
+        "encryptUserId": "23eaeed75e73e0ce0nR83N-6GVtT",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.22111,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.882607,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12db354e1107d15b429f5305440910dd",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "工作内容：\n1.参与软件项目的需求分析，关注项目需求的合理性，可测性。\n2.参与产品需求与架构设计评审，保证产品设计和架构的合理性。\n3.设计合理简洁的测试用例，并能参与具体的测试执行中，跟进缺陷的修复，质量复核的通过；能引入比较好的思想和方法，以保证产品的质量。\n4.参与自动化用例编写，设计并参与产品的性能测试，安全测试，解决测试过程中复杂的技术问题。\n5.根据产品研发的实际情况，改进设计软件质量保证体系，并推动落地实施6.通过测试相关流程、策略、方法和工具等创新，提升测试的质量和效率。\n岗位要求：\n 1.计算机相关专业，本科以上学历。\n 2.有软件测试相关工作经验优先。\n 3.能够独立编写测试文档，包括测试计划、测试方案、测试用例和测试报告，进行缺陷跟踪和软件质量分析等。 \n4.熟悉SQL Server、MySQL数据库，能熟练编写SQL语句进行数据库操作，能独立编写视图、存储过程、函数，对数据库编程有较强的调试、优化能力；\n5.熟悉ERP系统，有系统对接经验者优先；\n6.熟悉网络交换机、网络安全及相关设备产品的安装与维护工作（包括软、硬件），具有独立工作能力，具有CCIE 、CCIA、CISP或相关原厂工程师认证者优先。\n7.具有良好的团队意识、合作精神和沟通协调能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "安全测试",
+            "自动化测试",
+            "MySQL",
+            "性能测试",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/431458ce0f6ec3f1c6c5e04204c20ba7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "cHDngSVEiT42b-N1yNHiVtnb6oB0_5B9OTKOrH1oClYBXpE4eJ6pD6aU-cUFm7r0mgjQVrtfzRBU7J6MfAhf0wUC5dC8KBE-xr9YA_GDSCvQar2qDoMU9CFp0aKn6d9Z0-qBRPltkbslKME~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1of5J6cxm5yNP-q1tr3jtEGvKueikpa98sZJBRTWzdc1Ww3YXKf9Fb9zgWwBe-JChcFkEyn9l7_UlyIVZzsMjmgqwOj5SMfqIyNdsvSLjcKTVk0rANGuvmboRx8aEzadjA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7b19774510c7370f1Hxy29i7F1tT",
-      "encryptUserId": "b6703aee029ab5f233d609m6FlQ~",
-      "invalidStatus": false,
-      "jobName": "招生助理",
-      "position": 190601,
-      "positionName": "课程顾问",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "招聘一个助理老师\n1.会用基础的办公软件\n2.有管理学生的能力（管理大学生）\n3.接受偶尔出差（出差地点成都，包住）\n4.基础工资3000元，每月发放。基础工作达标，一年稳定奖金1.2万元，工作完成度越高，还有额外的奖励，全年最高一年奖励5万，最低奖励1万\n5.工资体系=基础工资+奖金+业绩奖励\n感兴趣者联系我哟\n6.招聘截止时间：2025.1.27",
-      "encryptAddressId": "b0feff2008a6b42b1nJ62dm7ElNTxoS-U_6Y",
-      "address": "成都金堂县金堂县技工学校附近",
-      "longitude": 104.544173,
-      "latitude": 30.710482,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bfc000bbb38404035417ea32273a9babab6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bf9dd0bfa69705536f6373f54554639f596bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "大学/大专生",
-        "有销售经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241021/607f1f3d68754fd0b7c019cd9f159ecc146628a3244a88b99740bba12f14376854b1c16de6a64e5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "享升本",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "24484a14a01bc7731HV409-1GFo~",
-      "brandName": "享升本",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100302,
-      "industryName": "学校/学历教育",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1737198005962,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "享升本",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "享升本",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241021/607f1f3d68754fd0b7c019cd9f159ecc146628a3244a88b99740bba12f14376854b1c16de6a64e5_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1737198005962,
+        "brandName": "享升本",
+        "customerBrandName": "享升本",
+        "customerBrandStageName": "",
+        "encryptBrandId": "24484a14a01bc7731HV409-1GFo~",
+        "focusBrand": false,
+        "industry": 100302,
+        "industryName": "学校/学历教育",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都金堂县金堂县技工学校附近",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "b0feff2008a6b42b1nJ62dm7ElNTxoS-U_6Y",
+        "encryptId": "7b19774510c7370f1Hxy29i7F1tT",
+        "encryptUserId": "b6703aee029ab5f233d609m6FlQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "招生助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.710482,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.544173,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bf9dd0bfa69705536f6373f54554639f596bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 190601,
+        "positionName": "课程顾问",
+        "postDescription": "招聘一个助理老师\n1.会用基础的办公软件\n2.有管理学生的能力（管理大学生）\n3.接受偶尔出差（出差地点成都，包住）\n4.基础工资3000元，每月发放。基础工作达标，一年稳定奖金1.2万元，工作完成度越高，还有额外的奖励，全年最高一年奖励5万，最低奖励1万\n5.工资体系=基础工资+奖金+业绩奖励\n感兴趣者联系我哟\n6.招聘截止时间：2025.1.27",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "大学/大专生",
+            "有销售经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bfc000bbb38404035417ea32273a9babab6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1of5J6cxm5yNP-q1tr3jtEGvKueikpa98sZJBRTWzdc1Ww3YXKf9Fb9zgWwBe-JChcFkEyn9l7_UlyIVZzsMjmgqwOj5SMfqIyNdsvSLjcKTVk0rANGuvmboRx8aEzadjA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Vn4z6IrQCUZLH-Z1cSbcN13CjUbjpy_yVRVjCJ7HVGXdLj5Rjebfye1hXV_EO4hXEdWFyIazEVYdE_3RFV9aesCT9CIHRlXG20_eg4AeVEutywshDtQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d5be255c6aae13001Xx63Ny_EFpQ",
-      "encryptUserId": "acdb39dbcf05987c1n193dy9FVU~",
-      "invalidStatus": false,
-      "jobName": "软件测试助理",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "1，负责对应的嵌入式设备软件测试\n2，上手后负责常规软件的维护\n2，处理公司安排的其它事情\n3，嵌入式、电子、物联网等相关专业\n4，上班时间，6天制，早9点到晚8点，不提供食宿\n5，要求，逻辑思维动手能力强，能坚持并喜爱电子相关行业，应届生优先\n\n请务必仔细看招聘要求，谢谢",
-      "encryptAddressId": "01b4fb548d3f42be0XZ609m9ElU~",
-      "address": "深圳宝安区华丰智谷A2栋",
-      "longitude": 113.8337,
-      "latitude": 22.604358,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac2bc7e8c0b7e888cf1dfd308aac8c4c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb6ad6ff7d87d979f011666f6c457bee",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "压力测试",
-        "计算机相关专业",
-        "通信相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "佘先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220719/607f1f3d68754fd07b6ed581ef866940f48d6e176af86c14586654b03c10c28ec98f03ff098_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "创视",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f54695a44c898e0f1nx52NW4GVc~",
-      "brandName": "创视",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721719003031,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "创视",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "创视",
+        "certificated": true,
+        "large": null,
+        "name": "佘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220719/607f1f3d68754fd07b6ed581ef866940f48d6e176af86c14586654b03c10c28ec98f03ff098_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721719003031,
+        "brandName": "创视",
+        "customerBrandName": "创视",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f54695a44c898e0f1nx52NW4GVc~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区华丰智谷A2栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "01b4fb548d3f42be0XZ609m9ElU~",
+        "encryptId": "d5be255c6aae13001Xx63Ny_EFpQ",
+        "encryptUserId": "acdb39dbcf05987c1n193dy9FVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.604358,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.8337,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb6ad6ff7d87d979f011666f6c457bee",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "1，负责对应的嵌入式设备软件测试\n2，上手后负责常规软件的维护\n2，处理公司安排的其它事情\n3，嵌入式、电子、物联网等相关专业\n4，上班时间，6天制，早9点到晚8点，不提供食宿\n5，要求，逻辑思维动手能力强，能坚持并喜爱电子相关行业，应届生优先\n\n请务必仔细看招聘要求，谢谢",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "压力测试",
+            "计算机相关专业",
+            "通信相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac2bc7e8c0b7e888cf1dfd308aac8c4c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Vn4z6IrQCUZLH-Z1cSbcN13CjUbjpy_yVRVjCJ7HVGXdLj5Rjebfye1hXV_EO4hXEdWFyIazEVYdE_3RFV9aesCT9CIHRlXG20_eg4AeVEutywshDtQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

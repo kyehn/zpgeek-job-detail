@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7rQEW0ceh37tu-M1x0vyKP5nDP_B5QocHBTMKfhbPEA0hyLpRVEx2X5ginSRePnu7s5wv8dd1ZdtTD9r8FCGHZIT6NWcZ5IbQiJWcZoAZjhVdIklnTZERWOVcsXMbwFswA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b0430ea155eef7ce03V93t65F1JR",
-      "encryptUserId": "4f81c3313cc11b4c03N72d25F1o~",
-      "invalidStatus": false,
-      "jobName": "共享充电宝运维员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1. 负责共享充电宝的日常运维工作，确保设备正常运行\n2. 监控充电宝使用情况，及时处理故障和异常\n3. 与团队合作，提升用户体验和服务质量\n\n任职要求：\n1. 具备良好的沟通能力和团队协作精神\n2. 能够独立处理和解决运维中的问题\n3. 对工作细致认真，有较强的责任心和执行力",
-      "encryptAddressId": "557de91abf8d9f171nx73N-9FFFQw466WfKc",
-      "address": "长沙天心区华菱蓝调国际818",
-      "longitude": 112.985031,
-      "latitude": 28.147478,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230416/48ba41acc9cef1bf9de3b791fe2ede79bf000146eded68286bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5320a0028b841c4f98f4368be028bb406bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "部门主管",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181012/319ce32114cd98f4998eb19cd238d5146472e093938c3c33a2908d6bc44_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "迈鲸科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3c818c7f4338f1cc1Hx40tq1F1A~",
-      "brandName": "迈鲸科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250205/7b5b554d84f9729cf8b1d30c7faf05301f0eb72c530fe6afac57c855a14ea8ba038b3afd332b5103.jpg.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "长沙迈鲸科技有限公司成立于2023年，总部扎根长沙，辐射全国，是专注于**共享充电宝精细化运营**与**本地生活数字化服务**的科技型先锋企业。依托美团生态资源与技术赋能，我们以“用科技守护中小企业的生命力”为使命，聚焦中小企业生存发展痛点，以数字化工具与生态化服务构建护城河，让每一份商业梦想活得更久、活得更好。为中小商户提供全生命周期的智能解决方案。目前业务覆盖全国50+城市，合作商户超10万家，设备日均服务用户突破30万人次。",
-      "labels": [
-        "岗前带薪培训",
-        "大牛带队",
-        "人脉积累",
-        "导师一对一",
-        "生日福利",
-        "节日福利",
-        "有无线网",
-        "团建聚餐",
-        "零食下午茶",
-        "员工旅游",
-        "年终奖"
-      ],
-      "activeTime": 1740401531261,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迈鲸科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "迈鲸科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181012/319ce32114cd98f4998eb19cd238d5146472e093938c3c33a2908d6bc44_b.jpg",
+        "title": "部门主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1740401531261,
+        "brandName": "迈鲸科技",
+        "customerBrandName": "迈鲸科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "3c818c7f4338f1cc1Hx40tq1F1A~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "长沙迈鲸科技有限公司成立于2023年，总部扎根长沙，辐射全国，是专注于**共享充电宝精细化运营**与**本地生活数字化服务**的科技型先锋企业。依托美团生态资源与技术赋能，我们以“用科技守护中小企业的生命力”为使命，聚焦中小企业生存发展痛点，以数字化工具与生态化服务构建护城河，让每一份商业梦想活得更久、活得更好。为中小商户提供全生命周期的智能解决方案。目前业务覆盖全国50+城市，合作商户超10万家，设备日均服务用户突破30万人次。",
+        "labels": [
+            "岗前带薪培训",
+            "大牛带队",
+            "人脉积累",
+            "导师一对一",
+            "生日福利",
+            "节日福利",
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "员工旅游",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250205/7b5b554d84f9729cf8b1d30c7faf05301f0eb72c530fe6afac57c855a14ea8ba038b3afd332b5103.jpg.webp",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙天心区华菱蓝调国际818",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "557de91abf8d9f171nx73N-9FFFQw466WfKc",
+        "encryptId": "b0430ea155eef7ce03V93t65F1JR",
+        "encryptUserId": "4f81c3313cc11b4c03N72d25F1o~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "共享充电宝运维员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.147478,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.985031,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5320a0028b841c4f98f4368be028bb406bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责:\n1. 负责共享充电宝的日常运维工作，确保设备正常运行\n2. 监控充电宝使用情况，及时处理故障和异常\n3. 与团队合作，提升用户体验和服务质量\n\n任职要求：\n1. 具备良好的沟通能力和团队协作精神\n2. 能够独立处理和解决运维中的问题\n3. 对工作细致认真，有较强的责任心和执行力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施交付运维",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230416/48ba41acc9cef1bf9de3b791fe2ede79bf000146eded68286bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7rQEW0ceh37tu-M1x0vyKP5nDP_B5QocHBTMKfhbPEA0hyLpRVEx2X5ginSRePnu7s5wv8dd1ZdtTD9r8FCGHZIT6NWcZ5IbQiJWcZoAZjhVdIklnTZERWOVcsXMbwFswA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

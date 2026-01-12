@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DiMLYxzBWt1Nt--1JqC9fn2koZvRfDbMZj6k16YsW2xOmPBUIHI6pA-qZG-RTx8bHEPioC5lzGn-YngY-wRf_yjZWNqs5cDdHN_SWAxsmmz79H-O-dwMo5op__fOHqTfxo8KWJb6_mVhgbsBaDc4fmxg1HOek6iHVOWWTVDSXrqta9dybyS0LGU52fnkNy5hWmdegremm8DXt7X4cnc837le",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "47cdb16ec74c7bc903R-39S4EVdU",
-      "encryptUserId": "1c6fffb032ee38951XR62ty-GFU~",
-      "invalidStatus": false,
-      "jobName": "app测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "1-3年 学历：专科及以上，计算机软件相关专业 工作经验：有App软件测试经验，能独立开展测试工作\n 职位要求： \n1.了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等 2.根据需求文档，设计测试用例，熟练使用常用测试用例的设计方法， 比如等价类，边界值等 \n3.执行测试用例，跟踪和定位系统中的缺陷或问题并跟踪和验证缺陷 \n4.熟练使用抓包工具进行抓包和断点等操作 5.具备良好的口头和书面沟通能力，能够清晰地记录缺陷",
-      "encryptAddressId": "3869b16b7620876d1nF82dS6FlFQyoq7UPmf",
-      "address": "北京朝阳区阿里中心·望京A座1",
-      "longitude": 116.486784,
-      "latitude": 39.999944,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dee8a49f6bfbb58c35e5bce7cd1610c3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e07438e819ae9dfe8778dedfd6e4c7df",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "iOS/Android测试经验",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "倪女士",
-      "title": "HRBP专家",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241204/607f1f3d68754fd0ba05c2b12f15824a62f2e2cb36dc4ccb2484c810dcefb3afa07935be249fdf4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "愿为科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1513ea41c671523a1Hx40967EFY~",
-      "brandName": "愿为科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241204/7b5b554d84f9729c3d3697294e516f08ceda9d00c939e97e2484c810dcefb3afa07935be249fdf43.jpg.webp",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖"
-      ],
-      "activeTime": 1733472850760,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "愿为科技",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "愿为科技",
+        "certificated": true,
+        "large": null,
+        "name": "倪女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241204/607f1f3d68754fd0ba05c2b12f15824a62f2e2cb36dc4ccb2484c810dcefb3afa07935be249fdf4_b.jpg",
+        "title": "HRBP专家"
+    },
+    "brandComInfo": {
+        "activeTime": 1733472850760,
+        "brandName": "愿为科技",
+        "customerBrandName": "愿为科技",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "1513ea41c671523a1Hx40967EFY~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241204/7b5b554d84f9729c3d3697294e516f08ceda9d00c939e97e2484c810dcefb3afa07935be249fdf43.jpg.webp",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区阿里中心·望京A座1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3869b16b7620876d1nF82dS6FlFQyoq7UPmf",
+        "encryptId": "47cdb16ec74c7bc903R-39S4EVdU",
+        "encryptUserId": "1c6fffb032ee38951XR62ty-GFU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "app测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.999944,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.486784,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e07438e819ae9dfe8778dedfd6e4c7df",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "1-3年 学历：专科及以上，计算机软件相关专业 工作经验：有App软件测试经验，能独立开展测试工作\n 职位要求： \n1.了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等 2.根据需求文档，设计测试用例，熟练使用常用测试用例的设计方法， 比如等价类，边界值等 \n3.执行测试用例，跟踪和定位系统中的缺陷或问题并跟踪和验证缺陷 \n4.熟练使用抓包工具进行抓包和断点等操作 5.具备良好的口头和书面沟通能力，能够清晰地记录缺陷",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Java",
+            "iOS/Android测试经验",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dee8a49f6bfbb58c35e5bce7cd1610c3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DiMLYxzBWt1Nt--1JqC9fn2koZvRfDbMZj6k16YsW2xOmPBUIHI6pA-qZG-RTx8bHEPioC5lzGn-YngY-wRf_yjZWNqs5cDdHN_SWAxsmmz79H-O-dwMo5op__fOHqTfxo8KWJb6_mVhgbsBaDc4fmxg1HOek6iHVOWWTVDSXrqta9dybyS0LGU52fnkNy5hWmdegremm8DXt7X4cnc837le",
+    "selfAccess": false,
+    "sessionId": null
 }

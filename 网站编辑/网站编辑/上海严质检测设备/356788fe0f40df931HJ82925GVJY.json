@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0dnS7zvTWjAMy-k1OxuLcz2CzMnthnM8eXF9VLy6t6JSOqunigA9qd6VpknukSnRdD_bqjMg6jFM0nKD_6tx4BrI4SPar3sy3sXYodo5c8923YfHSwPi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "356788fe0f40df931HJ82925GVJY",
-      "encryptUserId": "40586ee12de1951e0XZ73t-9FFJR",
-      "invalidStatus": false,
-      "jobName": "网站编辑",
-      "position": 130204,
-      "positionName": "网站编辑",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "1,熟练使用Photoshop、Xmind等剪辑、产品软件。PPT的完善制作;方案美化，基础英语水平\n2.负责XX平台的运营，并提出有建设性的改进方案\n3.公众号网站独立运营，内容策划，擅长撰写多种风格的文案，逻辑思维清晰。具备较强的文字原创能力，对文字工作热情度高\n4.擅长内容运营、文案策划工作负责网站相关栏目和频道的信息搜集、编辑、审校等工作；5.完成信息内容的策划和日常更新与维护；\n6有标书经验优先考虑录",
-      "encryptAddressId": "177322bafdb1d5a23nJ93dS-GVpUwYq5V_M~",
-      "address": "苏州吴中区香山工坊文化产业园3幢",
-      "longitude": 120.498334,
-      "latitude": 31.238319,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76e8836bf47086319cc03f7cc244c584",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/526ea03e5a63bb75977f5792ac2cb7d7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "图片编辑",
-        "营销编辑",
-        "网站",
-        "科技类",
-        "网络编辑资格",
-        "网络编辑员",
-        "网络编辑师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "助理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240621/607f1f3d68754fd0b2d28acf0cc74e917d930dadc67b9fbd60cc1e270599fa7caada2fa68594b0f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "上海严质检测设备",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "86ae0c22b5ae2b581XJ62Ny0ElI~",
-      "brandName": "上海严质检测设备",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [
-        "团建聚餐",
-        "绩效奖金",
-        "年终奖"
-      ],
-      "activeTime": 1719973320944,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海严质检测设备",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海严质检测设备",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240621/607f1f3d68754fd0b2d28acf0cc74e917d930dadc67b9fbd60cc1e270599fa7caada2fa68594b0f_b.jpg",
+        "title": "助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719973320944,
+        "brandName": "上海严质检测设备",
+        "customerBrandName": "上海严质检测设备",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "86ae0c22b5ae2b581XJ62Ny0ElI~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [
+            "团建聚餐",
+            "绩效奖金",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区香山工坊文化产业园3幢",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "177322bafdb1d5a23nJ93dS-GVpUwYq5V_M~",
+        "encryptId": "356788fe0f40df931HJ82925GVJY",
+        "encryptUserId": "40586ee12de1951e0XZ73t-9FFJR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "网站编辑",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.238319,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.498334,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/526ea03e5a63bb75977f5792ac2cb7d7",
+        "position": 130204,
+        "positionName": "网站编辑",
+        "postDescription": "1,熟练使用Photoshop、Xmind等剪辑、产品软件。PPT的完善制作;方案美化，基础英语水平\n2.负责XX平台的运营，并提出有建设性的改进方案\n3.公众号网站独立运营，内容策划，擅长撰写多种风格的文案，逻辑思维清晰。具备较强的文字原创能力，对文字工作热情度高\n4.擅长内容运营、文案策划工作负责网站相关栏目和频道的信息搜集、编辑、审校等工作；5.完成信息内容的策划和日常更新与维护；\n6有标书经验优先考虑录",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "图片编辑",
+            "营销编辑",
+            "网站",
+            "科技类",
+            "网络编辑资格",
+            "网络编辑员",
+            "网络编辑师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76e8836bf47086319cc03f7cc244c584"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0dnS7zvTWjAMy-k1OxuLcz2CzMnthnM8eXF9VLy6t6JSOqunigA9qd6VpknukSnRdD_bqjMg6jFM0nKD_6tx4BrI4SPar3sy3sXYodo5c8923YfHSwPi",
+    "selfAccess": false,
+    "sessionId": null
 }

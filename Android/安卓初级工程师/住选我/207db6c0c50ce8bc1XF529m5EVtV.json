@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ukuCj3GRzvhYR-E1uTqmUR10hzTK_hS5w4AzejGMba7xx3Y3tK3BcK2No3IuFkZUhWp4wkLZ1APMkSf6nJfyeaefP815SqsrZL7Yyue4vi03wAYk8DM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "207db6c0c50ce8bc1XF529m5EVtV",
-      "encryptUserId": "5493e5352ed9d9360nR_0965EFJQ",
-      "invalidStatus": false,
-      "jobName": "安卓初级工程师",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、根据产品需求文档的要求开发、调试、维护高性能App产品；\n2、原有App的维护和迭代开发，解决产品在使用过程中遇到的各种问题；\n3、积极研究和创新Android开发流程，规范。\n任职要求：\n1、计算机相关专业优先，有Android相关经验优先；\n2、熟悉Android手机端开发，熟悉AndroidSDK及Jetpack Compose，精通各种UI控件，能够实现复杂的界面交互；\n3、熟练掌握Android平台下的高性能编程及性能调优，App性能优化（如网络、内存）有深入了解者；\n4、熟悉常用的开源框架，如Rtrofit+RxJava+OkHttp+Gson+Glide等\n5、对Android安全和逆向技术有一定的了解，具备Android APK防护的知识",
-      "encryptAddressId": "df96e32ab920bd1b33V52t28EA~~",
-      "address": "深圳南山区深圳湾创业投资大厦626",
-      "longitude": 113.937843,
-      "latitude": 22.522507,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2246ab462e31bf2a98ec8cc5df0ef7dc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/630c62f809a44069c718e3f0624da5c2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Android开发经验",
-        "通信相关专业",
-        "Android客户端产品研发",
-        "计算机/软件工程相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "技术部",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220511/607f1f3d68754fd01f08c84a399a73f5f4b5753f9d813e2b03697e3782747432831c4f554c8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "住选我",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c24c692fcea9e5563nZ83dm0Fw~~",
-      "brandName": "住选我",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200711/40786fff173cda9c29383d2a78831a026b8f3908ee0494dbc85b49879ec1c771_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "住选我（深圳）网络科技有限公司致力于打造安全可信的不动产数字化平台，坚持以人才为本、诚信立业的经营原则，将引进先进管理方法及企业经验相结合，提供平台设计与技术输出、数字运营、平台咨询等服务，产品以智慧社区系统为圆点，覆盖智慧城市管理系统、智慧园区综合管理系统、政府公建系统等，为其提供全方位数字化解决方案，实现人、房、软件、硬件的互联互通平台，建立人、房、物等动态大数据，推动向科学化、精细化、智能化管理等方面的应用。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "加班补助",
-        "年终奖",
-        "员工旅游",
-        "通讯补贴",
-        "交通补助",
-        "节日福利",
-        "住房补贴",
-        "零食下午茶"
-      ],
-      "activeTime": 1730872812203,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "住选我",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "住选我",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220511/607f1f3d68754fd01f08c84a399a73f5f4b5753f9d813e2b03697e3782747432831c4f554c8_b.jpg",
+        "title": "技术部"
+    },
+    "brandComInfo": {
+        "activeTime": 1730872812203,
+        "brandName": "住选我",
+        "customerBrandName": "住选我",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "c24c692fcea9e5563nZ83dm0Fw~~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "住选我（深圳）网络科技有限公司致力于打造安全可信的不动产数字化平台，坚持以人才为本、诚信立业的经营原则，将引进先进管理方法及企业经验相结合，提供平台设计与技术输出、数字运营、平台咨询等服务，产品以智慧社区系统为圆点，覆盖智慧城市管理系统、智慧园区综合管理系统、政府公建系统等，为其提供全方位数字化解决方案，实现人、房、软件、硬件的互联互通平台，建立人、房、物等动态大数据，推动向科学化、精细化、智能化管理等方面的应用。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "加班补助",
+            "年终奖",
+            "员工旅游",
+            "通讯补贴",
+            "交通补助",
+            "节日福利",
+            "住房补贴",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200711/40786fff173cda9c29383d2a78831a026b8f3908ee0494dbc85b49879ec1c771_s.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区深圳湾创业投资大厦626",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "df96e32ab920bd1b33V52t28EA~~",
+        "encryptId": "207db6c0c50ce8bc1XF529m5EVtV",
+        "encryptUserId": "5493e5352ed9d9360nR_0965EFJQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "安卓初级工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.522507,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.937843,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/630c62f809a44069c718e3f0624da5c2",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "岗位职责：\n1、根据产品需求文档的要求开发、调试、维护高性能App产品；\n2、原有App的维护和迭代开发，解决产品在使用过程中遇到的各种问题；\n3、积极研究和创新Android开发流程，规范。\n任职要求：\n1、计算机相关专业优先，有Android相关经验优先；\n2、熟悉Android手机端开发，熟悉AndroidSDK及Jetpack Compose，精通各种UI控件，能够实现复杂的界面交互；\n3、熟练掌握Android平台下的高性能编程及性能调优，App性能优化（如网络、内存）有深入了解者；\n4、熟悉常用的开源框架，如Rtrofit+RxJava+OkHttp+Gson+Glide等\n5、对Android安全和逆向技术有一定的了解，具备Android APK防护的知识",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "Java",
+            "Android开发经验",
+            "通信相关专业",
+            "Android客户端产品研发",
+            "计算机/软件工程相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2246ab462e31bf2a98ec8cc5df0ef7dc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ukuCj3GRzvhYR-E1uTqmUR10hzTK_hS5w4AzejGMba7xx3Y3tK3BcK2No3IuFkZUhWp4wkLZ1APMkSf6nJfyeaefP815SqsrZL7Yyue4vi03wAYk8DM~",
+    "selfAccess": false,
+    "sessionId": null
 }

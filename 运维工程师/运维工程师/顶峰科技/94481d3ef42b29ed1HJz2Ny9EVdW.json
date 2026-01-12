@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eIuWga9ZrUJw2-R1YAAHU1gzv4OGN7jy7PYUi04qDEB3XhfEOV4FGeFYNzKAOw81AM7aIMCb9c5YO-MBUwsPeuufPPUuhCOSN662T_2Rw0EU-NTtUQ2R",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "94481d3ef42b29ed1HJz2Ny9EVdW",
-      "encryptUserId": "65e057113f5f117a0nd50ti0ElBX",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101140300,
-      "locationName": "昌都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n1、相关软件日常问题线上处理、记录等；\n2、现场程序的安装调试；\n3、负责软件项目实施以及售后服务工作；\n4、数据库存储过程的编写，以及各数据库间数据的转换；\n5、参与编制安装手册、用户操作手册；\n6、对客户产品应用的培训和产品使用辅导；\n7、执行项目计划，分解执行各阶段工作；\n8、收集整理项目的关键文档和关键信息，并进行维护。\n\n任职要求：\n1、大专及以上学历，计算机相关专业；\n2、掌握oracle、mysql等主流数据库的安装及使用，掌握复杂的sql语句，并能分析调试存储和逻辑处理；\n3、有软件项目实施工作经验和客户服务相关工作经验者优先；\n4、有良好的表达、沟通能力，学习能力强，积极上进有责任心，与人交流时有耐心、有亲和力；\n5、掌握tomcat、weblogic等主流中间件的部署、配置，能解决一般故障\n6、具备基础网络知识，可进行简单的网络规划；\n7、掌握一定的相关服务器、pc、打印机、网络设备等硬件设备的操作；\n8、有一定的财务基础知识及财务相关工作经验者优先。",
-      "encryptAddressId": "a50faed938205af31nR43t69FFtVwoW-VP-f",
-      "address": "昌都卡若区昌都大厦昌都大厦驻场",
-      "longitude": 97.172319,
-      "latitude": 31.140904,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfeab06ed56171fdec6f6d687e6d5066546bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfe6c27ebddd7b6ded44d5e7752f4906106bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "MySQL/Oracle",
-        "系统运维",
-        "桌面运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "员工",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "顶峰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "995c0d8e4e8dfe4d1nd52d61ElA~",
-      "brandName": "顶峰科技",
-      "logo": "https://c-res.zhipin.com/jrs/a8b477b0f29db7fbc38d2891b829293e.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "公司业务涉及财政、医保电子政务领域，西藏高新技术企业。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "员工旅游"
-      ],
-      "activeTime": 1732167331046,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "顶峰科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "顶峰科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "员工"
+    },
+    "brandComInfo": {
+        "activeTime": 1732167331046,
+        "brandName": "顶峰科技",
+        "customerBrandName": "顶峰科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "995c0d8e4e8dfe4d1nd52d61ElA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "公司业务涉及财政、医保电子政务领域，西藏高新技术企业。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "员工旅游"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/a8b477b0f29db7fbc38d2891b829293e.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "昌都卡若区昌都大厦昌都大厦驻场",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a50faed938205af31nR43t69FFtVwoW-VP-f",
+        "encryptId": "94481d3ef42b29ed1HJz2Ny9EVdW",
+        "encryptUserId": "65e057113f5f117a0nd50ti0ElBX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.140904,
+        "location": 101140300,
+        "locationName": "昌都",
+        "longitude": 97.172319,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfe6c27ebddd7b6ded44d5e7752f4906106bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "职位描述\n1、相关软件日常问题线上处理、记录等；\n2、现场程序的安装调试；\n3、负责软件项目实施以及售后服务工作；\n4、数据库存储过程的编写，以及各数据库间数据的转换；\n5、参与编制安装手册、用户操作手册；\n6、对客户产品应用的培训和产品使用辅导；\n7、执行项目计划，分解执行各阶段工作；\n8、收集整理项目的关键文档和关键信息，并进行维护。\n\n任职要求：\n1、大专及以上学历，计算机相关专业；\n2、掌握oracle、mysql等主流数据库的安装及使用，掌握复杂的sql语句，并能分析调试存储和逻辑处理；\n3、有软件项目实施工作经验和客户服务相关工作经验者优先；\n4、有良好的表达、沟通能力，学习能力强，积极上进有责任心，与人交流时有耐心、有亲和力；\n5、掌握tomcat、weblogic等主流中间件的部署、配置，能解决一般故障\n6、具备基础网络知识，可进行简单的网络规划；\n7、掌握一定的相关服务器、pc、打印机、网络设备等硬件设备的操作；\n8、有一定的财务基础知识及财务相关工作经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "MySQL/Oracle",
+            "系统运维",
+            "桌面运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfeab06ed56171fdec6f6d687e6d5066546bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eIuWga9ZrUJw2-R1YAAHU1gzv4OGN7jy7PYUi04qDEB3XhfEOV4FGeFYNzKAOw81AM7aIMCb9c5YO-MBUwsPeuufPPUuhCOSN662T_2Rw0EU-NTtUQ2R",
+    "selfAccess": false,
+    "sessionId": null
 }

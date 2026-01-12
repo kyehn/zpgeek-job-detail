@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "b2gs3ZVkC4LLg-I1K0L9HMTdc1zh5WQXpZ5VnSizYigxx4coxnQvFW4OhMZ_54VLLT2rL4rTW5r9-cGsq_NkUsHhu4E3PMZMj4LUZgqMt7RRsKP92uBMOSN0N67W7rJEGySpl9CyUODL2I4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "888110893d4b8dcb1H1-3dW8F1pZ",
-      "encryptUserId": "98dc30ffe90da1d10nVz09u1GVdV",
-      "invalidStatus": false,
-      "jobName": "自动化软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "会写自动化设备程序\n有独立想法和思维\n有团队精神\n服从管理",
-      "encryptAddressId": "bccb745f82a9e5813nNy3t-9F1RQy4i9UPs~",
-      "address": "深圳宝安区深圳市鑫万禾自动化设备有限公司101",
-      "longitude": 113.839344,
-      "latitude": 22.779624,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240622/48ba41acc9cef1bfda535bd57ad49c6230040a4a23a499a96bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240622/48ba41acc9cef1bf68de5d1608604067af967d6cbf8a1b0d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "C",
-        "机械设计制造相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "蒋先生",
-      "title": "总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240603/607f1f3d68754fd07895233f8442f1d8724051e0599a01cc30e5e35d805db5958f9cf946888b41c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "深圳市鑫万禾自动化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "94bd1a8dac866de01HF83dy-E1A~",
-      "brandName": "深圳市鑫万禾自动化",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100914,
-      "industryName": "自动化设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729862780684,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市鑫万禾自动化",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳市鑫万禾自动化",
+        "certificated": true,
+        "large": null,
+        "name": "蒋先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240603/607f1f3d68754fd07895233f8442f1d8724051e0599a01cc30e5e35d805db5958f9cf946888b41c_b.jpg",
+        "title": "总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1729862780684,
+        "brandName": "深圳市鑫万禾自动化",
+        "customerBrandName": "深圳市鑫万禾自动化",
+        "customerBrandStageName": "",
+        "encryptBrandId": "94bd1a8dac866de01HF83dy-E1A~",
+        "focusBrand": false,
+        "industry": 100914,
+        "industryName": "自动化设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区深圳市鑫万禾自动化设备有限公司101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bccb745f82a9e5813nNy3t-9F1RQy4i9UPs~",
+        "encryptId": "888110893d4b8dcb1H1-3dW8F1pZ",
+        "encryptUserId": "98dc30ffe90da1d10nVz09u1GVdV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.779624,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.839344,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240622/48ba41acc9cef1bf68de5d1608604067af967d6cbf8a1b0d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "会写自动化设备程序\n有独立想法和思维\n有团队精神\n服从管理",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "C++",
+            "C",
+            "机械设计制造相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240622/48ba41acc9cef1bfda535bd57ad49c6230040a4a23a499a96bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "b2gs3ZVkC4LLg-I1K0L9HMTdc1zh5WQXpZ5VnSizYigxx4coxnQvFW4OhMZ_54VLLT2rL4rTW5r9-cGsq_NkUsHhu4E3PMZMj4LUZgqMt7RRsKP92uBMOSN0N67W7rJEGySpl9CyUODL2I4~",
+    "selfAccess": false,
+    "sessionId": null
 }

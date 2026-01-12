@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "79FDSfWAenJU1-t1mjdG2hqqxjLP5lEKUG6I6-mL5VL-h-g7Pp4qFsGCEastoH7HfpWtV-AfBJ8mJwcNvAIUurp_Xw6mHzR_AFVjICnj4Fzb0AGyiUwSg6ufA9DjbL2jx4kfUKlKaMUp0E4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9e9dbc637a6ca8c41HZ809m_EVJU",
-      "encryptUserId": "9486d99723b822c00nJ-2d-5E1tX",
-      "invalidStatus": false,
-      "jobName": "助理",
-      "position": 260306,
-      "positionName": "俄语翻译",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1、 负责财务资料的整理；\n2、 负责日常基础财务数据的录入（熟悉银行汇款流程者，优先考虑）\n3、 协助进行报销单中发票验真、上传付款数据、整理并黏贴银行回单；\n4、 完成领导安排的其他财务相关工作。\n职位要求:\n1、大专以上学历，财务、会计相关专业优先考虑；\n2. 具备良好的英语书写能力（俄语口语优秀者，优先考虑）。\n3、 能熟练操作相关的财务软件，熟练使用 Excel等办公软件；对财务流程有一定的了解\n4、 工作严谨细致，性格开朗，诚实守信，团队合作精神强，具有良好的职业操守.\n薪资范围：4.5-6K\n福利待遇：\n1、上班时间:早9:00晚18:00，双休，享受国家法定节假日、春节带薪假。\n2、我们重视员工的职业发展，提供个人发展平台和培训机会，帮助员工不断提升专业能力和职业技能。\n3、社保：养老保险、基本医疗保险、失业保险、工伤保险和生育保险。",
-      "encryptAddressId": "08486681608f0fcd1nB83Ni1GVNZ",
-      "address": "苏州昆山市和润大厦8楼",
-      "longitude": 121.110177,
-      "latitude": 31.291552,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf144c8b65ff2152f9a78ec39b0e9dc9946bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf7d74ba09655af56ac52d4de785bce80e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "坐班",
-        "全职"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "物流经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231018/607f1f3d68754fd00e09f4d521f910e11ea771821413b595d335a2e3559e752fb273ce79776d5ea_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "金佳国际物流",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8c50b13131a722a81Xd_2du6EFM~",
-      "brandName": "金佳国际物流",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230823/7b5b554d84f9729cf799d511d9789f3b46f870464895ac87d335a2e3559e752fb273ce79776d5eac.jpg.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100501,
-      "industryName": "交通/运输",
-      "introduce": "",
-      "labels": [
-        "零食下午茶",
-        "绩效奖金"
-      ],
-      "activeTime": 1730454791692,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金佳国际物流",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金佳国际物流",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231018/607f1f3d68754fd00e09f4d521f910e11ea771821413b595d335a2e3559e752fb273ce79776d5ea_b.jpg",
+        "title": "物流经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730454791692,
+        "brandName": "金佳国际物流",
+        "customerBrandName": "金佳国际物流",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "8c50b13131a722a81Xd_2du6EFM~",
+        "focusBrand": false,
+        "industry": 100501,
+        "industryName": "交通/运输",
+        "introduce": "",
+        "labels": [
+            "零食下午茶",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230823/7b5b554d84f9729cf799d511d9789f3b46f870464895ac87d335a2e3559e752fb273ce79776d5eac.jpg.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市和润大厦8楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "08486681608f0fcd1nB83Ni1GVNZ",
+        "encryptId": "9e9dbc637a6ca8c41HZ809m_EVJU",
+        "encryptUserId": "9486d99723b822c00nJ-2d-5E1tX",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.291552,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.110177,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf7d74ba09655af56ac52d4de785bce80e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 260306,
+        "positionName": "俄语翻译",
+        "postDescription": "工作内容：\n1、 负责财务资料的整理；\n2、 负责日常基础财务数据的录入（熟悉银行汇款流程者，优先考虑）\n3、 协助进行报销单中发票验真、上传付款数据、整理并黏贴银行回单；\n4、 完成领导安排的其他财务相关工作。\n职位要求:\n1、大专以上学历，财务、会计相关专业优先考虑；\n2. 具备良好的英语书写能力（俄语口语优秀者，优先考虑）。\n3、 能熟练操作相关的财务软件，熟练使用 Excel等办公软件；对财务流程有一定的了解\n4、 工作严谨细致，性格开朗，诚实守信，团队合作精神强，具有良好的职业操守.\n薪资范围：4.5-6K\n福利待遇：\n1、上班时间:早9:00晚18:00，双休，享受国家法定节假日、春节带薪假。\n2、我们重视员工的职业发展，提供个人发展平台和培训机会，帮助员工不断提升专业能力和职业技能。\n3、社保：养老保险、基本医疗保险、失业保险、工伤保险和生育保险。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "坐班",
+            "全职"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf144c8b65ff2152f9a78ec39b0e9dc9946bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "79FDSfWAenJU1-t1mjdG2hqqxjLP5lEKUG6I6-mL5VL-h-g7Pp4qFsGCEastoH7HfpWtV-AfBJ8mJwcNvAIUurp_Xw6mHzR_AFVjICnj4Fzb0AGyiUwSg6ufA9DjbL2jx4kfUKlKaMUp0E4~",
+    "selfAccess": false,
+    "sessionId": null
 }

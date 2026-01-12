@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8znAkp4br2oVV-X1P6YutRIDEk7ckuuFh8OWS28qw2EvyIYdWiXQjKZEuJovltF8x6ZQS-ypskWYtNvZpPsq2bGiLDI57qp4oxvf8cjJoxQVp4obKT_gjUrEojqnQmulVrBxYlikW7vY5OJlHyMEcKYnvZS1tyj45uApqZ10rUaM4WQ5kP8GwNEkcpDwx7WZfLoPj4jfUnaiSfjj84yOOQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c3817a10a18ee70f03V63Nu5FlNQ",
-      "encryptUserId": "7f08d95e88afbdcc1XJz3Ni6FVc~",
-      "invalidStatus": false,
-      "jobName": "域控制器测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责域控制器车身和热管理、底盘功能测试用例执行\n2.负责问题提交及修复验证\n3.负责问题复现\n4.负责实车静态测试和道路测试\n技能需求：\n1.熟悉车载产品基本测试方法\n2.熟悉实车动态及静态测试方法\n3.有车身域测试经验，熟悉车窗、座椅、灯光、门锁、后视镜等等车身功能测试\n4.了解常用的CAN/CANFD设备如CANOE, VSPLY, PCAN, 周立功USBCAN等",
-      "encryptAddressId": "9d7f64fb535bff301nJy2N-6EFZSxI65Uvqb",
-      "address": "广州天河区小鹏汽车广州总部体验中心1",
-      "longitude": 113.384582,
-      "latitude": 23.159375,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11f9c2cb3aac2a8b2a2b19fda3042127",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4b7353a5c4f7eea5cb9b9812f6b7d3f0",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "车身域",
-        "MySQL",
-        "实车动态及静态测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240318/607f1f3d68754fd07ad97c3984407e8123dd5eac0b5eeeb425c9c2108b0672b7cebdcb37161718f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "微创软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "391e29eb0ce304cb1Xd63tW5",
-      "brandName": "微创软件",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210422/cc7c3877732130f7c5d1c238da0e0df65177a0ce9056aae91081a5b97ab14c45_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "上海微创软件股份有限公司2002年由微软与上海市政府共同创办，是微软在华投资的第一家合资公司。微创始终秉承高标准的服务品质与“成就客户”的服务理念，在全球设有20余处交付中心，分布在中国、美国、日本、澳大利亚，凭借在汽车、保险、高科技、金融、互联网等行业的深厚积累和丰富经验，与2500余家企业与政府客户达成了长期、稳定、友好的合作。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "免费班车",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1736236842284,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "微创软件",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "微创软件",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240318/607f1f3d68754fd07ad97c3984407e8123dd5eac0b5eeeb425c9c2108b0672b7cebdcb37161718f_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1736236842284,
+        "brandName": "微创软件",
+        "customerBrandName": "微创软件",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "391e29eb0ce304cb1Xd63tW5",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "上海微创软件股份有限公司2002年由微软与上海市政府共同创办，是微软在华投资的第一家合资公司。微创始终秉承高标准的服务品质与“成就客户”的服务理念，在全球设有20余处交付中心，分布在中国、美国、日本、澳大利亚，凭借在汽车、保险、高科技、金融、互联网等行业的深厚积累和丰富经验，与2500余家企业与政府客户达成了长期、稳定、友好的合作。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "免费班车",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210422/cc7c3877732130f7c5d1c238da0e0df65177a0ce9056aae91081a5b97ab14c45_s.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区小鹏汽车广州总部体验中心1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "9d7f64fb535bff301nJy2N-6EFZSxI65Uvqb",
+        "encryptId": "c3817a10a18ee70f03V63Nu5FlNQ",
+        "encryptUserId": "7f08d95e88afbdcc1XJz3Ni6FVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "域控制器测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.159375,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.384582,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4b7353a5c4f7eea5cb9b9812f6b7d3f0",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.负责域控制器车身和热管理、底盘功能测试用例执行\n2.负责问题提交及修复验证\n3.负责问题复现\n4.负责实车静态测试和道路测试\n技能需求：\n1.熟悉车载产品基本测试方法\n2.熟悉实车动态及静态测试方法\n3.有车身域测试经验，熟悉车窗、座椅、灯光、门锁、后视镜等等车身功能测试\n4.了解常用的CAN/CANFD设备如CANOE, VSPLY, PCAN, 周立功USBCAN等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "车身域",
+            "MySQL",
+            "实车动态及静态测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11f9c2cb3aac2a8b2a2b19fda3042127"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8znAkp4br2oVV-X1P6YutRIDEk7ckuuFh8OWS28qw2EvyIYdWiXQjKZEuJovltF8x6ZQS-ypskWYtNvZpPsq2bGiLDI57qp4oxvf8cjJoxQVp4obKT_gjUrEojqnQmulVrBxYlikW7vY5OJlHyMEcKYnvZS1tyj45uApqZ10rUaM4WQ5kP8GwNEkcpDwx7WZfLoPj4jfUnaiSfjj84yOOQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

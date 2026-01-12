@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CxuypvkU9sSQJ-V1iUZrf26Fr3cZed7zf_W14bAL9FUnpMistcy7fk00HCvVW9kZ5MUbqUaD29krxrBuu0XSEyzXLu0AVU1vt6CXLXlTtQUMFQ0THmxANuRnRCaIRqYu7kF-FtQRWp29MYmbVJRcujHRhXkrs8prsX83MxIrycju6WkVnDs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d219e85fb523b1003R72dq8FFRV",
-      "encryptUserId": "d499d3c89431e8c80nZ639--FVZQ",
-      "invalidStatus": false,
-      "jobName": "超图软件JAVA开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "一、熟练使用超图软件。\n 二、精通JAVA语言，能独立或者熟练用JAVA做软件开发。",
-      "encryptAddressId": "253112bfe43efd3e1nF63ti1EVVQwoS7UPuf",
-      "address": "北京昌平区华北电力大学回龙观",
-      "longitude": 116.310446,
-      "latitude": 40.089821,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf90205a01a8ccc584c84427e4493dd3da6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230611/48ba41acc9cef1bf638fa451143309cda8f3dd9b620979e26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "不接受居家办公",
-        "SpringCloud",
-        "SQL Server",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "木森林信息技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "21240171947909c61Hx63N67GFE~",
-      "brandName": "木森林信息技术",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732258287875,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "木森林信息技术",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "木森林信息技术",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1732258287875,
+        "brandName": "木森林信息技术",
+        "customerBrandName": "木森林信息技术",
+        "customerBrandStageName": "",
+        "encryptBrandId": "21240171947909c61Hx63N67GFE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京昌平区华北电力大学回龙观",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "253112bfe43efd3e1nF63ti1EVVQwoS7UPuf",
+        "encryptId": "1d219e85fb523b1003R72dq8FFRV",
+        "encryptUserId": "d499d3c89431e8c80nZ639--FVZQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "超图软件JAVA开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.089821,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.310446,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230611/48ba41acc9cef1bf638fa451143309cda8f3dd9b620979e26bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "一、熟练使用超图软件。\n 二、精通JAVA语言，能独立或者熟练用JAVA做软件开发。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K·13薪",
+        "showSkills": [
+            "Java",
+            "不接受居家办公",
+            "SpringCloud",
+            "SQL Server",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf90205a01a8ccc584c84427e4493dd3da6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CxuypvkU9sSQJ-V1iUZrf26Fr3cZed7zf_W14bAL9FUnpMistcy7fk00HCvVW9kZ5MUbqUaD29krxrBuu0XSEyzXLu0AVU1vt6CXLXlTtQUMFQ0THmxANuRnRCaIRqYu7kF-FtQRWp29MYmbVJRcujHRhXkrs8prsX83MxIrycju6WkVnDs~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HDXgCPdcgG0OV-i1aPP-lAct9li-uUFFeRU8__9yKtVeOJJxj-yL89LIILFFfOHHlAHdtu7lrdSMxYkkwCyiwUV_V7mAHCTqIovZGBCVTiuW3Di_Sog~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1602019d5dca796f1HJ52du8FFdX",
-      "encryptUserId": "2317f012d6be87c50HN909m1F1c~",
-      "invalidStatus": false,
-      "jobName": "手机测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位1-------------------------------------------------------------------------------------\n【工作内容】：\n1. 负责手机整机/平板/可穿戴项目的功能，稳定性、性能、功耗及相关测试；\n2. 发现整机测试过程存在的bug，并对提交bug管理及跟踪；\n3. 用户反馈跟踪，提升产品质量；\n4. 输出测试报告，对项目专项测试结果进行跟踪，推动问题及时解决。\n【岗位职责】：\n1. 有至少1年以上软件测试经验,熟悉手机音频/modem/Display/器件等模块的优先考虑;有过带组的经验优先;\n2. 熟悉测试流程及各种软件测试方法；\n3. 熟练使用测试缺陷管理工具(JIRA优先)；\n4. 熟悉adb调试工具的搭建及常用指令；\n5. 熟练掌握安卓软件测试的基本要求，有小米手机测试经验者优先，有善于发现问题能力的优先；\n6. 思路清晰，有较强的逻辑思维，做事积极主动，责任心强，有良好的沟通能力、自学能力。\nPS:上班地点浦口科技创新总部大厦2楼,有班车,免费停车,上下班时间9点到6点,岗位有时会有加班安排,薪资可谈;",
-      "encryptAddressId": "16c738cebefc51503nd82dm5GFBYwIW_WfI~",
-      "address": "南京浦口区科技创新总部大厦2楼",
-      "longitude": 118.601636,
-      "latitude": 31.994182,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bff28008e51a523ee03ea9a9352a6410c46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf347200a2b32a7b4505b129d1330e2f0e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "手环测试",
-        "功能测试",
-        "军工软件",
-        "Jira",
-        "软件开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "人事部招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "江苏启檬科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b31878a135f8b2631Hd93NW_E1E~",
-      "brandName": "江苏启檬科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240514/7bf6f160950405e9738093e9d7ccfcc288cbb8a85b18b8f1cc7c2c897b2cdda931e66011494e1dcd.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "免费班车",
-        "带薪年假",
-        "节假日加班费",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1726571680302,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江苏启檬科技有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江苏启檬科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "人事部招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726571680302,
+        "brandName": "江苏启檬科技有限公司",
+        "customerBrandName": "江苏启檬科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "b31878a135f8b2631Hd93NW_E1E~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "免费班车",
+            "带薪年假",
+            "节假日加班费",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240514/7bf6f160950405e9738093e9d7ccfcc288cbb8a85b18b8f1cc7c2c897b2cdda931e66011494e1dcd.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区科技创新总部大厦2楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "16c738cebefc51503nd82dm5GFBYwIW_WfI~",
+        "encryptId": "1602019d5dca796f1HJ52du8FFdX",
+        "encryptUserId": "2317f012d6be87c50HN909m1F1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "手机测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.994182,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.601636,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf347200a2b32a7b4505b129d1330e2f0e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位1-------------------------------------------------------------------------------------\n【工作内容】：\n1. 负责手机整机/平板/可穿戴项目的功能，稳定性、性能、功耗及相关测试；\n2. 发现整机测试过程存在的bug，并对提交bug管理及跟踪；\n3. 用户反馈跟踪，提升产品质量；\n4. 输出测试报告，对项目专项测试结果进行跟踪，推动问题及时解决。\n【岗位职责】：\n1. 有至少1年以上软件测试经验,熟悉手机音频/modem/Display/器件等模块的优先考虑;有过带组的经验优先;\n2. 熟悉测试流程及各种软件测试方法；\n3. 熟练使用测试缺陷管理工具(JIRA优先)；\n4. 熟悉adb调试工具的搭建及常用指令；\n5. 熟练掌握安卓软件测试的基本要求，有小米手机测试经验者优先，有善于发现问题能力的优先；\n6. 思路清晰，有较强的逻辑思维，做事积极主动，责任心强，有良好的沟通能力、自学能力。\nPS:上班地点浦口科技创新总部大厦2楼,有班车,免费停车,上下班时间9点到6点,岗位有时会有加班安排,薪资可谈;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "手环测试",
+            "功能测试",
+            "军工软件",
+            "Jira",
+            "软件开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bff28008e51a523ee03ea9a9352a6410c46bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HDXgCPdcgG0OV-i1aPP-lAct9li-uUFFeRU8__9yKtVeOJJxj-yL89LIILFFfOHHlAHdtu7lrdSMxYkkwCyiwUV_V7mAHCTqIovZGBCVTiuW3Di_Sog~",
+    "selfAccess": false,
+    "sessionId": null
 }

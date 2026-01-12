@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vDZgPszHY9WIY-I1pclCIZG1euW2oEbe1fzlrLMptN8LeMo26U8_n2nufWg5uwl6FPLwaOLWGeKZ69FTCcvvjjveD02Xvnsls4T6zgEBj_aFeOzSfpg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e11e1d5f036527ed1nN-3dq0EFpX",
-      "encryptUserId": "43d7ac7e8373d0fd1nV63Nu5EVBT",
-      "invalidStatus": false,
-      "jobName": "硬件工程师",
-      "position": 100801,
-      "positionName": "硬件工程师",
-      "location": 101121500,
-      "locationName": "日照",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、办公软件使用熟练。\n2、有基本的电脑基础知识。",
-      "encryptAddressId": "a99a9b3eaa35673a1nJ839y-FFI~",
-      "address": "日照东港区海纳现代城1期888",
-      "longitude": 119.521803,
-      "latitude": 35.400203,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08c1b07006c2ad8c5fd36201f126277f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/468dae12753013099a3a95450ba40aa1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杜女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "日照艳阳",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a98e74eae7d582c933F53Nu6FA~~",
-      "brandName": "日照艳阳",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725220550442,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "日照艳阳",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "日照艳阳",
+        "certificated": true,
+        "large": null,
+        "name": "杜女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725220550442,
+        "brandName": "日照艳阳",
+        "customerBrandName": "日照艳阳",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a98e74eae7d582c933F53Nu6FA~~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "日照东港区海纳现代城1期888",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a99a9b3eaa35673a1nJ839y-FFI~",
+        "encryptId": "e11e1d5f036527ed1nN-3dq0EFpX",
+        "encryptUserId": "43d7ac7e8373d0fd1nV63Nu5EVBT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "硬件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.400203,
+        "location": 101121500,
+        "locationName": "日照",
+        "longitude": 119.521803,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/468dae12753013099a3a95450ba40aa1",
+        "position": 100801,
+        "positionName": "硬件工程师",
+        "postDescription": "1、办公软件使用熟练。\n2、有基本的电脑基础知识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08c1b07006c2ad8c5fd36201f126277f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vDZgPszHY9WIY-I1pclCIZG1euW2oEbe1fzlrLMptN8LeMo26U8_n2nufWg5uwl6FPLwaOLWGeKZ69FTCcvvjjveD02Xvnsls4T6zgEBj_aFeOzSfpg~",
+    "selfAccess": false,
+    "sessionId": null
 }

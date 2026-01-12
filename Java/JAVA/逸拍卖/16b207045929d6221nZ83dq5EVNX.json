@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "lcxbnVnOtx7tO-I1jNtfHHzoEnppk-pBBgXKauWWqvBQ-xgbglPEvaxtMmffM8z4JPVy2UMyNG6zO-TwveGdJUsGNF91pxTgh_uh3U9ubiozhbt9B8A~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "16b207045929d6221nZ83dq5EVNX",
-      "encryptUserId": "7d636666eb5ecb921nRz2dW8FlRX",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101170100,
-      "locationName": "银川",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-15K",
-      "payTypeDesc": null,
-      "postDescription": "会H5,小程序，fultter设计",
-      "encryptAddressId": "b007e580aa8a1b681XV-09-_FFc~",
-      "address": "银川永宁县北方国际建材物流城石材城11",
-      "longitude": 106.270756,
-      "latitude": 38.351118,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3e97b91374dc5a1f94f586e66914081",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eeab2e4440723bc3d860a2a3c49c90b9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "HTML",
-        "SQL",
-        "Python",
-        "Shell",
-        "PHP",
-        "CSS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "岳先生",
-      "title": "行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200607/f7753d86f07bd49ef7a9cf60726962c4421bb4856f1394728ad4df336df_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "逸拍卖",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7eaf2a7f7948c80533N73tu1GA~~",
-      "brandName": "逸拍卖",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200607/f7753d86f07bd49ef7a9cf60726962c4421bb4856f1394728ad4df336df4aa18.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "电商平台，艺术品，奢侈品，红酒茶叶，文玩杂项，瓷器",
-      "labels": [
-        "五险一金",
-        "餐补",
-        "交通补助"
-      ],
-      "activeTime": 1724234602956,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "逸拍卖",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "逸拍卖",
+        "certificated": true,
+        "large": null,
+        "name": "岳先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200607/f7753d86f07bd49ef7a9cf60726962c4421bb4856f1394728ad4df336df_b.jpg",
+        "title": "行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724234602956,
+        "brandName": "逸拍卖",
+        "customerBrandName": "逸拍卖",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7eaf2a7f7948c80533N73tu1GA~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "电商平台，艺术品，奢侈品，红酒茶叶，文玩杂项，瓷器",
+        "labels": [
+            "五险一金",
+            "餐补",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200607/f7753d86f07bd49ef7a9cf60726962c4421bb4856f1394728ad4df336df4aa18.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "银川永宁县北方国际建材物流城石材城11",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b007e580aa8a1b681XV-09-_FFc~",
+        "encryptId": "16b207045929d6221nZ83dq5EVNX",
+        "encryptUserId": "7d636666eb5ecb921nRz2dW8FlRX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.351118,
+        "location": 101170100,
+        "locationName": "银川",
+        "longitude": 106.270756,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eeab2e4440723bc3d860a2a3c49c90b9",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "会H5,小程序，fultter设计",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-15K",
+        "showSkills": [
+            "HTML",
+            "SQL",
+            "Python",
+            "Shell",
+            "PHP",
+            "CSS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3e97b91374dc5a1f94f586e66914081"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "lcxbnVnOtx7tO-I1jNtfHHzoEnppk-pBBgXKauWWqvBQ-xgbglPEvaxtMmffM8z4JPVy2UMyNG6zO-TwveGdJUsGNF91pxTgh_uh3U9ubiozhbt9B8A~",
+    "selfAccess": false,
+    "sessionId": null
 }

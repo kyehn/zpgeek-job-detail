@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "sV_6TaLypkzcV-Q1fUvdH5xPlkcMyecsCQAf1eqoPVdXaXxlUpZr4BtgklFlBzh0Ry-WAGN4gdHbWCjpUj5oHgyGn8jNlfr6qSmUp5mLwVaLDSgUDhS_0oXo_RAGZSrXkxtYAYwenURNxY4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "df1e527eaaa584861H1-2N-_F1FW",
-      "encryptUserId": "0ce1a9d97f72a1b50Xx72966EFFU",
-      "invalidStatus": false,
-      "jobName": "自动化测试",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101280300,
-      "locationName": "惠州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求: 年龄20-30左右 有耐心和互联网相关工作经验的优先\n底薪3k+提成  自行调休，灵活变通\n岗位职责: 负责公司广告软件测试\n岗位福利: 弹性工作时间 能者多劳\n新手小白可以来 有导师教学 \n晋升：上手后可晋升为导师，外派给子公司可额外拥有导师费200-上千元不等！！！导师薪资4k以上+提成，带组员",
-      "encryptAddressId": "0938e76f4783dcb91nB73Nu7EVpYx463UvKa",
-      "address": "惠州惠城区惠城区东湖西路166-10",
-      "longitude": 114.432222,
-      "latitude": 23.087542,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241024/48ba41acc9cef1bf5c7750c1721d0cdcf4b2fdbb502af7ba6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241024/48ba41acc9cef1bfb41a01f7988867a74fe04d76a90a06c76bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "软件开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "丘先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241023/607f1f3d68754fd09124f5b90a004a677dc6e7d58791b4ff20bcd1591a900c7925dc929061f7c30_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "云域科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b22342393baa44661Hx639-0FVI~",
-      "brandName": "云域科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241028/7bf6f160950405e99165e5524a11b250b18a5883f5bd3b0f20bcd1591a900c7925dc929061f7c307.png.webp",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730544921247,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云域科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云域科技",
+        "certificated": true,
+        "large": null,
+        "name": "丘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241023/607f1f3d68754fd09124f5b90a004a677dc6e7d58791b4ff20bcd1591a900c7925dc929061f7c30_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730544921247,
+        "brandName": "云域科技",
+        "customerBrandName": "云域科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b22342393baa44661Hx639-0FVI~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241028/7bf6f160950405e99165e5524a11b250b18a5883f5bd3b0f20bcd1591a900c7925dc929061f7c307.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "惠州惠城区惠城区东湖西路166-10",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0938e76f4783dcb91nB73Nu7EVpYx463UvKa",
+        "encryptId": "df1e527eaaa584861H1-2N-_F1FW",
+        "encryptUserId": "0ce1a9d97f72a1b50Xx72966EFFU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.087542,
+        "location": 101280300,
+        "locationName": "惠州",
+        "longitude": 114.432222,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241024/48ba41acc9cef1bfb41a01f7988867a74fe04d76a90a06c76bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "任职要求: 年龄20-30左右 有耐心和互联网相关工作经验的优先\n底薪3k+提成  自行调休，灵活变通\n岗位职责: 负责公司广告软件测试\n岗位福利: 弹性工作时间 能者多劳\n新手小白可以来 有导师教学 \n晋升：上手后可晋升为导师，外派给子公司可额外拥有导师费200-上千元不等！！！导师薪资4k以上+提成，带组员",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "自动化测试经验",
+            "软件开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241024/48ba41acc9cef1bf5c7750c1721d0cdcf4b2fdbb502af7ba6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "sV_6TaLypkzcV-Q1fUvdH5xPlkcMyecsCQAf1eqoPVdXaXxlUpZr4BtgklFlBzh0Ry-WAGN4gdHbWCjpUj5oHgyGn8jNlfr6qSmUp5mLwVaLDSgUDhS_0oXo_RAGZSrXkxtYAYwenURNxY4~",
+    "selfAccess": false,
+    "sessionId": null
 }

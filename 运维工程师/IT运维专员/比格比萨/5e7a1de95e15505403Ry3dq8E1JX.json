@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "F73zHrqEFXmBe-01hR7J9vXTLCKvlzdqzjBY8oy_2ibD0c-hR0r5RndHu3kt6FptMZ_39NDpCbkBVOLYWUEOX4AwpTEKeYlsgZxqXS8bX9wV76TPr8Ft0EsVBSaqgyHwyigpPdgzJyUnGSrxNY1-Ee9YgA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5e7a1de95e15505403Ry3dq8E1JX",
-      "encryptUserId": "1ab139f1588ae4491HN82tW-GVQ~",
-      "invalidStatus": false,
-      "jobName": "it运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、计算机、信息相关专业，大学专科以上学历\n2、熟悉计算机硬件、办公设备硬件的原理，能对硬件问题进行故障分析定位及处理\n3、了解服务器、云服务、防火墙、交换机等设备配置管理，能对服务器问题进行故障分析定位及处理，有机房运维建设能力\n4、熟练运用windows7/10/11、macOS、wps、OFFICE等办公软件系统，能对操作系统问题进行故障分析定位及处理\n5、熟悉局域网的维护及网络安全知识，熟练的进行局域网搭建，能对监控系统问题进行故障分析定位及处理\n7、熟悉监控系统原理、有海康监控安装调试经验，能对监控系统问题进行故障分析定位处理\n6、有连锁行业经验者优先",
-      "encryptAddressId": "69612c4e15c5503c1nJ709u1FFZZyoy6Uf-W",
-      "address": "北京朝阳区望承公园一层比格",
-      "longitude": 116.451921,
-      "latitude": 39.995087,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf91782b674ba5cb9ea36b20b9cd9ddc766bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf1ead52106cbae94bb67fcf7d5b7b0b3b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241220/48ba41acc9cef1bf395a8d77110fd1ef4df35f3e2b729b8d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241220/48ba41acc9cef1bf841b212ee94c826a786f0550752e625e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240406/607f1f3d68754fd0f431ea8c2a6eaaf55b046f63a13677de1c6c05e9d5cf11b2c4895d414575150_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "比格比萨",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6d394129a167aad10n1_2du5",
-      "brandName": "比格比萨",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170410/e042544b6f38f9d29de0c810b8305dcfc097d24a81c808780ebdbff64c04bede.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 101101,
-      "industryName": "餐饮",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735296589275,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "比格比萨",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "比格比萨",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240406/607f1f3d68754fd0f431ea8c2a6eaaf55b046f63a13677de1c6c05e9d5cf11b2c4895d414575150_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1735296589275,
+        "brandName": "比格比萨",
+        "customerBrandName": "比格比萨",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "6d394129a167aad10n1_2du5",
+        "focusBrand": false,
+        "industry": 101101,
+        "industryName": "餐饮",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170410/e042544b6f38f9d29de0c810b8305dcfc097d24a81c808780ebdbff64c04bede.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区望承公园一层比格",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241220/48ba41acc9cef1bf841b212ee94c826a786f0550752e625e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241220/48ba41acc9cef1bf395a8d77110fd1ef4df35f3e2b729b8d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "69612c4e15c5503c1nJ709u1FFZZyoy6Uf-W",
+        "encryptId": "5e7a1de95e15505403Ry3dq8E1JX",
+        "encryptUserId": "1ab139f1588ae4491HN82tW-GVQ~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "it运维专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.995087,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.451921,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf1ead52106cbae94bb67fcf7d5b7b0b3b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、计算机、信息相关专业，大学专科以上学历\n2、熟悉计算机硬件、办公设备硬件的原理，能对硬件问题进行故障分析定位及处理\n3、了解服务器、云服务、防火墙、交换机等设备配置管理，能对服务器问题进行故障分析定位及处理，有机房运维建设能力\n4、熟练运用windows7/10/11、macOS、wps、OFFICE等办公软件系统，能对操作系统问题进行故障分析定位及处理\n5、熟悉局域网的维护及网络安全知识，熟练的进行局域网搭建，能对监控系统问题进行故障分析定位及处理\n7、熟悉监控系统原理、有海康监控安装调试经验，能对监控系统问题进行故障分析定位处理\n6、有连锁行业经验者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "网络运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf91782b674ba5cb9ea36b20b9cd9ddc766bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "F73zHrqEFXmBe-01hR7J9vXTLCKvlzdqzjBY8oy_2ibD0c-hR0r5RndHu3kt6FptMZ_39NDpCbkBVOLYWUEOX4AwpTEKeYlsgZxqXS8bX9wV76TPr8Ft0EsVBSaqgyHwyigpPdgzJyUnGSrxNY1-Ee9YgA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

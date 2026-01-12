@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "znbY96FxoXKDH-61daFT3KimdsPZNj4xjUgtrgqckFF1BUJ12jrI5qcastJWCmGUoSC4KN9ujkxRJUSPFeSnzS4om__nl-V5F0V10_s6tu7Od4npA9mWs9Jm_RGc-f2BBS2y6yyA29Wkcf8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b2419d07f10689d01nB-0t61FldY",
-      "encryptUserId": "d3fd84501be2a26f0nR72d20FVpS",
-      "invalidStatus": false,
-      "jobName": "初级实施顾问",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101030100,
-      "locationName": "天津",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1、负责客户化实施工作，保质保量按时完成实施任务;\n2、负责项目的业务需求调研、需求分析、实施方案制定，完成项目实施工作;\n3、负责与实施项目客户单位全方位沟通，解决客户提出的有关软件系统使用的疑难问题;\n4、协助进行项目验收工作\n\n任职要求:\n1、计算机相关专业，专科以上学历，年龄22-30岁;\n2、熟悉网络和互联网技术，熟悉SQL Server、 Oracle等至少一种大型数据库;\n3、较强的沟通能力，良好的书面表达能力、项目管理能力、项目控制和推动能力;\n4良好的团队合作意识，强烈的责任感，工作积极主动，学习能力强\n5 能够承受较大的工作压力，具备一年以上管理软件实施经验，实施过人力资源系统项目的优先考虑;",
-      "encryptAddressId": "289b2765053eb99d03d72d26GFo~",
-      "address": "天津河东区天津远洋国际中心B区11",
-      "longitude": 117.225557,
-      "latitude": 39.138415,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9de99b260c4322909483bbc1cf63cf9c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39d93aea3606db2a64ee084a04c83d15",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Oracle",
-        "实施工程师/顾问",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "侯女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200914/2e49c1b91c4aa11a4a660f6e76231685b10034a7d74293afc86990b32bb_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "佳软兴业",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d6faf667684489221nB709q5GVU~",
-      "brandName": "佳软兴业",
-      "logo": "https://c-res.zhipin.com/jrs/5c92f5a32df8c8eb7ad008f545a90d0a.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "天津佳软兴业科技有限公司简称天津佳软（网址： https://www.jiaruan.net.cn/），成立于2001年，专注于数字化管理领域综合解决方案产品设计研发、实施交付及系统运维服务，提供贴合政府机关、事业单位、国有企业等不同类型组织管理特点、适合不同行业、不同规模客户的综合服务解决方案，业务范围覆盖天津市、河北省、甘肃省等地区，公司现有近200人团队，其中3年以上从业人员超过80%，公司服务超5年以上员工超50%。企业坚持持续创新，充分发挥区域服务优势，以创造价值为导向，成为用户可信赖的合作伙伴。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "员工旅游",
-        "带薪年假",
-        "绩效奖金",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1728696575117,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "佳软兴业",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "佳软兴业",
+        "certificated": true,
+        "large": null,
+        "name": "侯女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200914/2e49c1b91c4aa11a4a660f6e76231685b10034a7d74293afc86990b32bb_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1728696575117,
+        "brandName": "佳软兴业",
+        "customerBrandName": "佳软兴业",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d6faf667684489221nB709q5GVU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "天津佳软兴业科技有限公司简称天津佳软（网址： https://www.jiaruan.net.cn/），成立于2001年，专注于数字化管理领域综合解决方案产品设计研发、实施交付及系统运维服务，提供贴合政府机关、事业单位、国有企业等不同类型组织管理特点、适合不同行业、不同规模客户的综合服务解决方案，业务范围覆盖天津市、河北省、甘肃省等地区，公司现有近200人团队，其中3年以上从业人员超过80%，公司服务超5年以上员工超50%。企业坚持持续创新，充分发挥区域服务优势，以创造价值为导向，成为用户可信赖的合作伙伴。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "员工旅游",
+            "带薪年假",
+            "绩效奖金",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/5c92f5a32df8c8eb7ad008f545a90d0a.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "天津河东区天津远洋国际中心B区11",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "289b2765053eb99d03d72d26GFo~",
+        "encryptId": "b2419d07f10689d01nB-0t61FldY",
+        "encryptUserId": "d3fd84501be2a26f0nR72d20FVpS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.138415,
+        "location": 101030100,
+        "locationName": "天津",
+        "longitude": 117.225557,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39d93aea3606db2a64ee084a04c83d15",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责:\n1、负责客户化实施工作，保质保量按时完成实施任务;\n2、负责项目的业务需求调研、需求分析、实施方案制定，完成项目实施工作;\n3、负责与实施项目客户单位全方位沟通，解决客户提出的有关软件系统使用的疑难问题;\n4、协助进行项目验收工作\n\n任职要求:\n1、计算机相关专业，专科以上学历，年龄22-30岁;\n2、熟悉网络和互联网技术，熟悉SQL Server、 Oracle等至少一种大型数据库;\n3、较强的沟通能力，良好的书面表达能力、项目管理能力、项目控制和推动能力;\n4良好的团队合作意识，强烈的责任感，工作积极主动，学习能力强\n5 能够承受较大的工作压力，具备一年以上管理软件实施经验，实施过人力资源系统项目的优先考虑;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "Oracle",
+            "实施工程师/顾问",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9de99b260c4322909483bbc1cf63cf9c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "znbY96FxoXKDH-61daFT3KimdsPZNj4xjUgtrgqckFF1BUJ12jrI5qcastJWCmGUoSC4KN9ujkxRJUSPFeSnzS4om__nl-V5F0V10_s6tu7Od4npA9mWs9Jm_RGc-f2BBS2y6yyA29Wkcf8~",
+    "selfAccess": false,
+    "sessionId": null
 }

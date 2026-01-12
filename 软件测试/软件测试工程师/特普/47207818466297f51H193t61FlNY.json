@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0j0kymabOocKo-o1y6pZJVjw2l-TIvtwRDXk-XOrbSomrMKog_P6yA50frwflgwszEs4QJcCrCAgix_dj7a2BqLGJiuhflLtlGDbr4iTh20DyGPx6WDSc0g9SYuV8-Mjoj7FsB-h-f6uRQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "47207818466297f51H193t61FlNY",
-      "encryptUserId": "065a17aeb8e9c3621nVz3t28EFVU",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101120600,
-      "locationName": "潍坊",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责并参与web或app产品的全流程测试，包括需求分析、设计评审、测试设计与执行；\n2.独立完成项目测试工作，构建测试环境、维护测试数据，进行测试设计，并执行测试用例；\n3.与项目组成员进行积极有效的沟通，推动问题解决；\n4.研究解决测试解决方案，优化测试方法，改进测试流程；\n5.设计、编写、执行自动化测试，在必要的时候进行性能、安全等专项测试。\n职位要求：\n1.两年以上的软件测试经验（后端服务、web或者APP等均可），有安全、性能等专项测试经验者优先\n2.熟练掌握需求分析、测试设计等测试流程，能够熟练编写测试用例，分析测试结果，有一定的定位bug的能力\n3.熟练使用主流自动化测试工具和框架，如LoadRunner、JMeter、Selenium、Appium、JUnit等，有测试工具、平台的开发、维护经验者优先\n4.对Java、Python等语言至少有一种较为熟悉\n5.对数据库（如Mysql以及nosql类型数据库）、缓存、任务队列等第三方服务有一定的了解\n6.积极进取、善于思考，具备较强的协调与沟通、分析与表达能力",
-      "encryptAddressId": "7a4df0212c01a8000HB-3dm-EVY~",
-      "address": "潍坊寒亭区中微光电3号楼325",
-      "longitude": 119.168801,
-      "latitude": 36.742021,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98f25d405f5267df4b322747429157b7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/669fa5e7624cb3c40a766b0239e51267",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "测试工作经验",
-        "性能测试",
-        "渗透测试",
-        "压力测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "特普",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "15cf46e68a1a173f3nFy2tm7Fw~~",
-      "brandName": "特普",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201214/ae6b0267f53642d644db3b60e6008d99eb9242a9c690e823eeca8590f696de38_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "潍坊特普软件开发有限公司成立于2012年6月，是一家专业从事信息化建设咨询、软件研发服务的软件企业和高新技术企业。团队核心成员具备多年的软件开发经验，同时在微服务生态体系、移动开发技术体系、大数据存储技术、工作流技术、大数据分析技术、数据挖掘技术、人工智能和地理信息技术方面具有深入的理论和技术研发背景。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "员工旅游",
-        "节日福利"
-      ],
-      "activeTime": 1731124176025,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "特普",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "特普",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731124176025,
+        "brandName": "特普",
+        "customerBrandName": "特普",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "15cf46e68a1a173f3nFy2tm7Fw~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "潍坊特普软件开发有限公司成立于2012年6月，是一家专业从事信息化建设咨询、软件研发服务的软件企业和高新技术企业。团队核心成员具备多年的软件开发经验，同时在微服务生态体系、移动开发技术体系、大数据存储技术、工作流技术、大数据分析技术、数据挖掘技术、人工智能和地理信息技术方面具有深入的理论和技术研发背景。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "员工旅游",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201214/ae6b0267f53642d644db3b60e6008d99eb9242a9c690e823eeca8590f696de38_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "潍坊寒亭区中微光电3号楼325",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7a4df0212c01a8000HB-3dm-EVY~",
+        "encryptId": "47207818466297f51H193t61FlNY",
+        "encryptUserId": "065a17aeb8e9c3621nVz3t28EFVU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 36.742021,
+        "location": 101120600,
+        "locationName": "潍坊",
+        "longitude": 119.168801,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/669fa5e7624cb3c40a766b0239e51267",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责：\n1.负责并参与web或app产品的全流程测试，包括需求分析、设计评审、测试设计与执行；\n2.独立完成项目测试工作，构建测试环境、维护测试数据，进行测试设计，并执行测试用例；\n3.与项目组成员进行积极有效的沟通，推动问题解决；\n4.研究解决测试解决方案，优化测试方法，改进测试流程；\n5.设计、编写、执行自动化测试，在必要的时候进行性能、安全等专项测试。\n职位要求：\n1.两年以上的软件测试经验（后端服务、web或者APP等均可），有安全、性能等专项测试经验者优先\n2.熟练掌握需求分析、测试设计等测试流程，能够熟练编写测试用例，分析测试结果，有一定的定位bug的能力\n3.熟练使用主流自动化测试工具和框架，如LoadRunner、JMeter、Selenium、Appium、JUnit等，有测试工具、平台的开发、维护经验者优先\n4.对Java、Python等语言至少有一种较为熟悉\n5.对数据库（如Mysql以及nosql类型数据库）、缓存、任务队列等第三方服务有一定的了解\n6.积极进取、善于思考，具备较强的协调与沟通、分析与表达能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Java",
+            "测试工作经验",
+            "性能测试",
+            "渗透测试",
+            "压力测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98f25d405f5267df4b322747429157b7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0j0kymabOocKo-o1y6pZJVjw2l-TIvtwRDXk-XOrbSomrMKog_P6yA50frwflgwszEs4QJcCrCAgix_dj7a2BqLGJiuhflLtlGDbr4iTh20DyGPx6WDSc0g9SYuV8-Mjoj7FsB-h-f6uRQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

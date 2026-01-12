@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "64hUWh5U99Nn4-x1HVqy9R_T4hjSYPerjrGFqF3TtefmGwqMh7DU_4fJOfqBgJil3C16m2LLVwl5kwmOx2nn1_p7vppM28Iy_XM6u91x0vJTwSnrPrQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "82ee77b3ebe36ff51nJ43ti1E1JU",
-      "encryptUserId": "367b7f45b362eb271nV73dW7EFJR",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "12-17K·15薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n\n1、负责嵌入式平台下的船用导航雷达软件以及相关软件产品开发；\n\n2、负责软件模块的调试、维护、更新等工作；\n\n3、协助系统工程师、硬件工程师完成整机产品开发、调试、测试等工作；\n\n\n\n任职要求\n\n熟练使用C/C++编程语言，以及嵌入式平台的集成开发工具；\n\n熟悉嵌入式裸机应用开发、嵌入式操作系统下应用开发、Qt设计开发；\n\n熟悉嵌入式平台下各种硬件数据接口以及通信协议；\n\n熟悉雷达目标处理、跟踪算法者优先，熟悉Matlab者优先；\n\n熟悉嵌入式Linux操作系统设备驱动者优先；\n\n善于沟通，头脑灵活，具有一定的分析问题解决问题的能力；\n\n有较强的自主开发能力和学习能力；\n\n2至3年软件开发经验；\n\n薪资福利：\n\n1、薪资待遇1.3-1.7w，13-15薪，全额五险一金，提供餐补；\n\n2、双休，按国定假期休假；各种生日、节日福利、团建、体检等；\n\n3、定期调薪，提供专业培训机会，晋升空间大",
-      "encryptAddressId": "646a5306af8a68f31X190967Ew~~",
-      "address": "无锡滨湖区530大厦2号楼",
-      "longitude": 120.24691,
-      "latitude": 31.54667,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3c6e82f8f73f9f9e9c73b71d6bb5279",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/697b79e503f9258f5261ca78712e5ddb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "嵌入式技术",
-        "C++",
-        "Linux"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "浦女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "格跃科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4b164aff78073beb33J-3t25Fw~~",
-      "brandName": "格跃科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730146728412,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "格跃科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "格跃科技",
+        "certificated": true,
+        "large": null,
+        "name": "浦女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1730146728412,
+        "brandName": "格跃科技",
+        "customerBrandName": "格跃科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4b164aff78073beb33J-3t25Fw~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡滨湖区530大厦2号楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "646a5306af8a68f31X190967Ew~~",
+        "encryptId": "82ee77b3ebe36ff51nJ43ti1E1JU",
+        "encryptUserId": "367b7f45b362eb271nV73dW7EFJR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.54667,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.24691,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/697b79e503f9258f5261ca78712e5ddb",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "岗位职责\n\n1、负责嵌入式平台下的船用导航雷达软件以及相关软件产品开发；\n\n2、负责软件模块的调试、维护、更新等工作；\n\n3、协助系统工程师、硬件工程师完成整机产品开发、调试、测试等工作；\n\n\n\n任职要求\n\n熟练使用C/C++编程语言，以及嵌入式平台的集成开发工具；\n\n熟悉嵌入式裸机应用开发、嵌入式操作系统下应用开发、Qt设计开发；\n\n熟悉嵌入式平台下各种硬件数据接口以及通信协议；\n\n熟悉雷达目标处理、跟踪算法者优先，熟悉Matlab者优先；\n\n熟悉嵌入式Linux操作系统设备驱动者优先；\n\n善于沟通，头脑灵活，具有一定的分析问题解决问题的能力；\n\n有较强的自主开发能力和学习能力；\n\n2至3年软件开发经验；\n\n薪资福利：\n\n1、薪资待遇1.3-1.7w，13-15薪，全额五险一金，提供餐补；\n\n2、双休，按国定假期休假；各种生日、节日福利、团建、体检等；\n\n3、定期调薪，提供专业培训机会，晋升空间大",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "12-17K·15薪",
+        "showSkills": [
+            "嵌入式技术",
+            "C++",
+            "Linux"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3c6e82f8f73f9f9e9c73b71d6bb5279"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "64hUWh5U99Nn4-x1HVqy9R_T4hjSYPerjrGFqF3TtefmGwqMh7DU_4fJOfqBgJil3C16m2LLVwl5kwmOx2nn1_p7vppM28Iy_XM6u91x0vJTwSnrPrQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

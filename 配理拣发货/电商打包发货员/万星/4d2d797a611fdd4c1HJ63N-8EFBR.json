@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ba6QkX2CLQopV-Q1C-ODLwLDE03n_R_XMYCQWkW-rtAKcyVhPJZdN1FqZG96txQRYtQxSW9JlPo1K0ZT-AvojGGGE36X5-oLUygCn3QcYyIWlckjjsqdzrd7hOp3Dnssgq_pOTFcu3GR8Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4d2d797a611fdd4c1HJ63N-8EFBR",
-      "encryptUserId": "14cc58a99958db570Xd72ty5EVY~",
-      "invalidStatus": false,
-      "jobName": "电商打包发货员",
-      "position": 240206,
-      "positionName": "配/理/拣/发货",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作时间：早上10点～晚上7点（周日休）\n品牌主营欧美辣妹饰品和女装，仓库在写字楼里，办公环境非常好～\n日常老板会带小狗狗来公司，都是年轻人，整体氛围比较轻松\n\n岗位要求：\n1、根据每天淘宝、抖音、小红书订单用打单软件打单、核单、配货、打包发货。\n2、对仓库滞销品、高库存商品、缺货产品的定期反馈，定期仓库产品进行出入库和盘点；\n3、退货拆包、整理到货产品验收摆放和整理，与客服部门及时沟通\n4、日常打理衣服（熨烫、剪线头）\n\n任职要求：\n1、有电商行业仓库管理工作经验；\n2、需具备良好的体力和耐力，工作认真，细心，有责任心，手脚麻利\n3、有淘宝仓库配货发货管理经验优先",
-      "encryptAddressId": "d2618f82731a3e2b1HF93N2-F1M~",
-      "address": "杭州上城区赞成大厦1楼",
-      "longitude": 120.178222,
-      "latitude": 30.215067,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59280ab151b717279457043f25b8ee3d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/871d42c31215ca42674023c2b51bb773",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "熟练使用ERP系统",
-        "电商行业经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200917/b4374ec41cee9de170c52d5b82ef6634b1ab7f639d5a992595054551725_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "万星",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f1b4f81e3bb6d5821nZ73tu9GFY~",
-      "brandName": "万星",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101003,
-      "industryName": "服装/纺织",
-      "introduce": "欧美小众饰品管理公司",
-      "labels": [],
-      "activeTime": 1730806727000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万星",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万星",
+        "certificated": true,
+        "large": null,
+        "name": "孟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200917/b4374ec41cee9de170c52d5b82ef6634b1ab7f639d5a992595054551725_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1730806727000,
+        "brandName": "万星",
+        "customerBrandName": "万星",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f1b4f81e3bb6d5821nZ73tu9GFY~",
+        "focusBrand": false,
+        "industry": 101003,
+        "industryName": "服装/纺织",
+        "introduce": "欧美小众饰品管理公司",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区赞成大厦1楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d2618f82731a3e2b1HF93N2-F1M~",
+        "encryptId": "4d2d797a611fdd4c1HJ63N-8EFBR",
+        "encryptUserId": "14cc58a99958db570Xd72ty5EVY~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "电商打包发货员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.215067,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.178222,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/871d42c31215ca42674023c2b51bb773",
+        "position": 240206,
+        "positionName": "配/理/拣/发货",
+        "postDescription": "工作时间：早上10点～晚上7点（周日休）\n品牌主营欧美辣妹饰品和女装，仓库在写字楼里，办公环境非常好～\n日常老板会带小狗狗来公司，都是年轻人，整体氛围比较轻松\n\n岗位要求：\n1、根据每天淘宝、抖音、小红书订单用打单软件打单、核单、配货、打包发货。\n2、对仓库滞销品、高库存商品、缺货产品的定期反馈，定期仓库产品进行出入库和盘点；\n3、退货拆包、整理到货产品验收摆放和整理，与客服部门及时沟通\n4、日常打理衣服（熨烫、剪线头）\n\n任职要求：\n1、有电商行业仓库管理工作经验；\n2、需具备良好的体力和耐力，工作认真，细心，有责任心，手脚麻利\n3、有淘宝仓库配货发货管理经验优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "熟练使用ERP系统",
+            "电商行业经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59280ab151b717279457043f25b8ee3d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ba6QkX2CLQopV-Q1C-ODLwLDE03n_R_XMYCQWkW-rtAKcyVhPJZdN1FqZG96txQRYtQxSW9JlPo1K0ZT-AvojGGGE36X5-oLUygCn3QcYyIWlckjjsqdzrd7hOp3Dnssgq_pOTFcu3GR8Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

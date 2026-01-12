@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BnvS3rggp5u8f-91S5AnyqxLjqZD5IJQkvzvVQnt1GwXUxmcC4clnbM-o3OoNPM9uOdZXZSfHYb4n_dJzs3V6gATUpaT74Df4lTlFOcHrRp4p0FmCzk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e96468f1b87b3cb61nR_3tq5EVRQ",
-      "encryptUserId": "7c9bbd1191b3eebd1H1-09W1GFc~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "基于Java相关技术的软件设计与开发",
-      "encryptAddressId": "b81ec6caafac93841HJ-29W6Flo~",
-      "address": "上海长宁区上海消防博物馆(南门)长宁路1328号",
-      "longitude": 121.411741,
-      "latitude": 31.217607,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c49d53e3be330419573c4c46c2a0d53",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/caeb7e4a3b62f97a04d71f59fb4e6b02",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT项目管理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210219/3cdbdac741efccb587088f407623074e0ff14268e685805a4dfb2fa9b00_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "上海融芯",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ea417e947b5f638a1nV_0ti4GFY~",
-      "brandName": "上海融芯",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723023329920,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海融芯",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海融芯",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210219/3cdbdac741efccb587088f407623074e0ff14268e685805a4dfb2fa9b00_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1723023329920,
+        "brandName": "上海融芯",
+        "customerBrandName": "上海融芯",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ea417e947b5f638a1nV_0ti4GFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海长宁区上海消防博物馆(南门)长宁路1328号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b81ec6caafac93841HJ-29W6Flo~",
+        "encryptId": "e96468f1b87b3cb61nR_3tq5EVRQ",
+        "encryptUserId": "7c9bbd1191b3eebd1H1-09W1GFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.217607,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.411741,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/caeb7e4a3b62f97a04d71f59fb4e6b02",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "基于Java相关技术的软件设计与开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "IT项目管理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c49d53e3be330419573c4c46c2a0d53"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BnvS3rggp5u8f-91S5AnyqxLjqZD5IJQkvzvVQnt1GwXUxmcC4clnbM-o3OoNPM9uOdZXZSfHYb4n_dJzs3V6gATUpaT74Df4lTlFOcHrRp4p0FmCzk~",
+    "selfAccess": false,
+    "sessionId": null
 }

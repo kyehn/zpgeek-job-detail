@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mBNvVsfWnBhNy-51edVEZ_k-4qRG6AexZYK78Z0qLimAc03WiS3h7_7KE0Qr4dzSJ0J0bTu29Ybrr_o5-pbtu8N_Ve7-fZeIp95Pq35gZHi2fEGeebSiroq11hD8mO3SVFbVG_TPEROOvYs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "47538359687dca031nV629S6GVBY",
-      "encryptUserId": "6e28e2d3107ba6aa0nR92dS4EFdR",
-      "invalidStatus": false,
-      "jobName": "系统集成工程师",
-      "position": 100807,
-      "positionName": "系统集成",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、 负责系统集成项目的方案设计和部署、熟练掌握音视频系统、安防监控系统、楼宇自控、综合布线、网络机房、视频会议系统等系统；\n2、 负责各系统实施过程中的主要设备测试、安装、调试、网络与综合布线、故障排除等工作；\n3、 熟悉主流路由交换、视频会议、服务器等主流产品的设备安装调试工作，熟悉设备原理、特性及相关的技术指标；\n4、 熟练使用wrod、ppt、Excel、CAD、Visio等常用办公设计软件；精通PPT和CAD者优先；\n5、 完成上级领导临时交办的工作任务。",
-      "encryptAddressId": "8081adc1ea8d29051HN-29m9ElA~",
-      "address": "北京海淀区主语国际3号楼中讯设计院",
-      "longitude": 116.324819,
-      "latitude": 39.933785,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3680cf61e0fe27f4de090dbce36328e1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/513976ff0e994373d7ca03158c501672",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统集成技术",
-        "系统集成",
-        "网络设备",
-        "安防监控",
-        "CAD"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "芯瑞通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f586beaca24470f61nZy39-6ElE~",
-      "brandName": "芯瑞通",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "物联网——信息时代的基础设施",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1725604710816,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "芯瑞通",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "芯瑞通",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725604710816,
+        "brandName": "芯瑞通",
+        "customerBrandName": "芯瑞通",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f586beaca24470f61nZy39-6ElE~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "物联网——信息时代的基础设施",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区主语国际3号楼中讯设计院",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8081adc1ea8d29051HN-29m9ElA~",
+        "encryptId": "47538359687dca031nV629S6GVBY",
+        "encryptUserId": "6e28e2d3107ba6aa0nR92dS4EFdR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统集成工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.933785,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.324819,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/513976ff0e994373d7ca03158c501672",
+        "position": 100807,
+        "positionName": "系统集成",
+        "postDescription": "岗位职责：\n1、 负责系统集成项目的方案设计和部署、熟练掌握音视频系统、安防监控系统、楼宇自控、综合布线、网络机房、视频会议系统等系统；\n2、 负责各系统实施过程中的主要设备测试、安装、调试、网络与综合布线、故障排除等工作；\n3、 熟悉主流路由交换、视频会议、服务器等主流产品的设备安装调试工作，熟悉设备原理、特性及相关的技术指标；\n4、 熟练使用wrod、ppt、Excel、CAD、Visio等常用办公设计软件；精通PPT和CAD者优先；\n5、 完成上级领导临时交办的工作任务。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "系统集成技术",
+            "系统集成",
+            "网络设备",
+            "安防监控",
+            "CAD"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3680cf61e0fe27f4de090dbce36328e1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mBNvVsfWnBhNy-51edVEZ_k-4qRG6AexZYK78Z0qLimAc03WiS3h7_7KE0Qr4dzSJ0J0bTu29Ybrr_o5-pbtu8N_Ve7-fZeIp95Pq35gZHi2fEGeebSiroq11hD8mO3SVFbVG_TPEROOvYs~",
+    "selfAccess": false,
+    "sessionId": null
 }

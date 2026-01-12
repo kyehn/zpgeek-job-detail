@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Vn5VN6qMVhKmn-u1uaCde2xURC7by1nZ894ch35A4dfS1fgH1TiviYN36whp14i11il596evK9Dtuiv0p5usA8wd8YdtbIwwp0PDQG3L9Os3Vdua0iIiqjiL6bQUry5S_CDZ4yxan3M~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "42fa9de924fc80081nF42Ny1F1Y~",
-      "encryptUserId": "9f0f779c2dc5c6481HR839-9F1c~",
-      "invalidStatus": false,
-      "jobName": "Java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-15K",
-      "payTypeDesc": null,
-      "postDescription": "1.2年以上JAVA工作经验（基本要求），良好的Java基础知识，负责移动端（金融交易、社交类）后台接口开发。 \r\n\r\n2.熟悉spring-boot 、mybatis、mysql 多线程基础等。\r\n\r\n3.能独立完成相应模块软件编程任务并优化系统。 \r\n\r\n4.熟悉Tomcat；熟悉Eclipse，MyEclipse能够熟练的应用集成开发环境进行开发与调试以及熟悉SVN； \r\n\r\n5.能够熟练进行基于Oracle、Sql server数据库的开发，能够熟练编写存储过程； \r\n\r\n6.良好的编码风格、文档编写能力和口头表达能力，能够承受一定的工作压力；\r\n\r\n欢迎有责任心并有专研精神、人品俱佳的小伙伴加入我们创业团队！氛围轻松 工作灵活。",
-      "encryptAddressId": "b9eeeed6b9b17d200XF_3tW0GQ~~",
-      "address": "杭州萧山区博地中心A座1603室",
-      "longitude": 120.2522,
-      "latitude": 30.23556,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9a6f2bcd366898327af1ee91526bc11",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/790377772b74c8b8e0e1fd129eeee9fd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "java爬虫",
-        "Java",
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邵先生",
-      "title": "CEO",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170913/213d40c6b4138612396a29702fd47e08b7152a3e2afefb33a3c1d511155_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "富莱科仕软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3044ab3a4dd0151f1nR_092_Eg~~",
-      "brandName": "富莱科仕软件",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "富莱科仕软件公司是一家金融交易系统软件供应商，主要领域是外汇交易系统、智能交易系统的研发，为金融机构客户提供最佳交易软件。",
-      "labels": [],
-      "activeTime": 1722172479371,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "富莱科仕软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "富莱科仕软件",
+        "certificated": true,
+        "large": null,
+        "name": "邵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170913/213d40c6b4138612396a29702fd47e08b7152a3e2afefb33a3c1d511155_b.jpg",
+        "title": "CEO"
+    },
+    "brandComInfo": {
+        "activeTime": 1722172479371,
+        "brandName": "富莱科仕软件",
+        "customerBrandName": "富莱科仕软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3044ab3a4dd0151f1nR_092_Eg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "富莱科仕软件公司是一家金融交易系统软件供应商，主要领域是外汇交易系统、智能交易系统的研发，为金融机构客户提供最佳交易软件。",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区博地中心A座1603室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b9eeeed6b9b17d200XF_3tW0GQ~~",
+        "encryptId": "42fa9de924fc80081nF42Ny1F1Y~",
+        "encryptUserId": "9f0f779c2dc5c6481HR839-9F1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.23556,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.2522,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/790377772b74c8b8e0e1fd129eeee9fd",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.2年以上JAVA工作经验（基本要求），良好的Java基础知识，负责移动端（金融交易、社交类）后台接口开发。 \r\n\r\n2.熟悉spring-boot 、mybatis、mysql 多线程基础等。\r\n\r\n3.能独立完成相应模块软件编程任务并优化系统。 \r\n\r\n4.熟悉Tomcat；熟悉Eclipse，MyEclipse能够熟练的应用集成开发环境进行开发与调试以及熟悉SVN； \r\n\r\n5.能够熟练进行基于Oracle、Sql server数据库的开发，能够熟练编写存储过程； \r\n\r\n6.良好的编码风格、文档编写能力和口头表达能力，能够承受一定的工作压力；\r\n\r\n欢迎有责任心并有专研精神、人品俱佳的小伙伴加入我们创业团队！氛围轻松 工作灵活。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-15K",
+        "showSkills": [
+            "java爬虫",
+            "Java",
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9a6f2bcd366898327af1ee91526bc11"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Vn5VN6qMVhKmn-u1uaCde2xURC7by1nZ894ch35A4dfS1fgH1TiviYN36whp14i11il596evK9Dtuiv0p5usA8wd8YdtbIwwp0PDQG3L9Os3Vdua0iIiqjiL6bQUry5S_CDZ4yxan3M~",
+    "selfAccess": false,
+    "sessionId": null
 }

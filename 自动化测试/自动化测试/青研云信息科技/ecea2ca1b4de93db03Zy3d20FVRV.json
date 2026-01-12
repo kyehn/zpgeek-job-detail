@@ -1,92 +1,92 @@
 {
-  "appendixInfo": {
-    "canFeedback": false,
-    "chatBubble": null
-  },
-  "atsOnlineApplyInfo": {
-    "inviteType": 0,
-    "alreadyApply": false
-  },
-  "bossInfo": {
-    "name": "魏先生",
-    "title": "招聘者",
-    "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190523/231e521d1baf079c155c2d531f875e948f5926d5577c0f9965af734cf2a_b.jpg",
-    "large": null,
-    "activeTimeDesc": "刚刚活跃",
-    "bossOnline": true,
-    "brandName": "青研云信息科技",
-    "bossSource": 0,
-    "certificated": true,
-    "tagIconUrl": null,
-    "avatarStickerUrl": null
-  },
-  "brandComInfo": {
-    "encryptBrandId": "7e12259c637e07e81XR90926FVs~",
-    "brandName": "青研云信息科技",
-    "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-    "stage": 0,
-    "stageName": "",
-    "scale": 303,
-    "scaleName": "100-499人",
-    "industry": 100021,
-    "industryName": "计算机软件",
-    "introduce": "青研云，一家年轻人的超跑平台。",
-    "labels": [],
-    "activeTime": 1742978756223,
-    "visibleBrandInfo": true,
-    "focusBrand": false,
-    "customerBrandName": "青研云信息科技",
-    "customerBrandStageName": ""
-  },
-  "handicappedInfo": null,
-  "jobInfo": {
-    "encryptId": "ecea2ca1b4de93db03Zy3d20FVRV",
-    "encryptUserId": "98165081fea15b590Xd_2NS5EFE~",
-    "invalidStatus": false,
-    "jobName": "自动化测试",
-    "position": 100302,
-    "positionName": "自动化测试",
-    "location": 101110100,
-    "locationName": "西安",
-    "experienceName": "经验不限",
-    "degreeName": "大专",
-    "jobType": 0,
-    "proxyJob": 0,
-    "proxyType": 0,
-    "salaryDesc": "3-4K",
-    "payTypeDesc": null,
-    "postDescription": "工作内容\n1、负责公司的自动化测试工作，确保测试流程的高效和准确性。\n2、参与测试用例的设计与执行，对发现的问题进行记录和跟踪。\n3、与开发团队紧密合作，确保自动化测试覆盖所有功能需求。\n\n任职要求\n1、具备扎实的自动化测试知识，能够独立完成测试脚本的编写。\n2、熟悉各类自动化测试工具和框架，能够高效地进行测试任务。\n3、具有良好的问题分析和解决能力，能够快速定位并处理测试中的问题。",
-    "encryptAddressId": "e9c08a29a2a724381n1_39W6FltXy4u3UPua",
-    "address": "西安雁塔区西安天诚二楼",
-    "longitude": 108.900911,
-    "latitude": 34.234341,
-    "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e087577cdb1e50da57b39323420093c1",
-    "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/296f29c10884b0b10e9ef0070c3c7c6d",
-    "baiduStaticMapUrl": "",
-    "baiduPcStaticMapUrl": "",
-    "overseasAddressList": [],
-    "overseasInfo": null,
-    "showSkills": [
-      "自动化测试经验",
-      "C++"
-    ],
-    "anonymous": 0,
-    "jobStatusDesc": "最新"
-  },
-  "lid": "",
-  "oneKeyResumeInfo": {
-    "inviteType": 0,
-    "alreadySend": false,
-    "canSendResume": false,
-    "canSendPhone": false,
-    "canSendWechat": false
-  },
-  "pageType": 0,
-  "relationInfo": {
-    "interestJob": false,
-    "beFriend": false
-  },
-  "securityId": "Ym0L7mrvZOQQs-q1Ah6wdFY43vVlrNQohb6DsCzN4nBl1Ek34MHsZ-DWU4Okqpy5BxOLJ5SuGXCRPX365JkSftzFRi7ibodtGN61wgNgHzYUtY2WtFxFx-JZNaFgWEojkcb2Nup73rhLwJSt_6d3fMARejWFhMBI3ryHIWxinneB0_xuatJSn4vXjkTCNx282kTZrJQXxhFV4fa6d1-jOG8K",
-  "selfAccess": false,
-  "sessionId": null
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "青研云信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "魏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190523/231e521d1baf079c155c2d531f875e948f5926d5577c0f9965af734cf2a_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1742978756223,
+        "brandName": "青研云信息科技",
+        "customerBrandName": "青研云信息科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7e12259c637e07e81XR90926FVs~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "青研云，一家年轻人的超跑平台。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区西安天诚二楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "e9c08a29a2a724381n1_39W6FltXy4u3UPua",
+        "encryptId": "ecea2ca1b4de93db03Zy3d20FVRV",
+        "encryptUserId": "98165081fea15b590Xd_2NS5EFE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "自动化测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 34.234341,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.900911,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/296f29c10884b0b10e9ef0070c3c7c6d",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "工作内容\n1、负责公司的自动化测试工作，确保测试流程的高效和准确性。\n2、参与测试用例的设计与执行，对发现的问题进行记录和跟踪。\n3、与开发团队紧密合作，确保自动化测试覆盖所有功能需求。\n\n任职要求\n1、具备扎实的自动化测试知识，能够独立完成测试脚本的编写。\n2、熟悉各类自动化测试工具和框架，能够高效地进行测试任务。\n3、具有良好的问题分析和解决能力，能够快速定位并处理测试中的问题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "自动化测试经验",
+            "C++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e087577cdb1e50da57b39323420093c1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Ym0L7mrvZOQQs-q1Ah6wdFY43vVlrNQohb6DsCzN4nBl1Ek34MHsZ-DWU4Okqpy5BxOLJ5SuGXCRPX365JkSftzFRi7ibodtGN61wgNgHzYUtY2WtFxFx-JZNaFgWEojkcb2Nup73rhLwJSt_6d3fMARejWFhMBI3ryHIWxinneB0_xuatJSn4vXjkTCNx282kTZrJQXxhFV4fa6d1-jOG8K",
+    "selfAccess": false,
+    "sessionId": null
 }

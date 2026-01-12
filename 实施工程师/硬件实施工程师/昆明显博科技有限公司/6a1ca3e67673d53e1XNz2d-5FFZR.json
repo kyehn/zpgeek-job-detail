@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RedML5CnAu7n2-t1NOoiXO-hnYB8Thd6Bu-S9jAbcg57RsPBIn4ejClstf0xW-RLsxIfA6zNmw9t7t5eKMoW7oPB_gORXQlDAKCpaCFbrsc9viykMA8R9DpVnCKMTKg3O4qwCUF81QYKiA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6a1ca3e67673d53e1XNz2d-5FFZR",
-      "encryptUserId": "4ee6cbebb3cc3ea803d-2t27GFQ~",
-      "invalidStatus": false,
-      "jobName": "硬件实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101290100,
-      "locationName": "昆明",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-7K",
-      "payTypeDesc": null,
-      "postDescription": "招聘弱电及智能化技术专员 5名 待遇优厚\n职位要求：1、相关建筑、网络及智能化等专业专科及以上学历，学信网可查；2、具有良好的语言表达和沟通能力，积极乐观、勇于挑战；3、熟悉电脑基本操作, 必须会使用CAD制图软件，具备良好的学习能力；4、踏实进取，能够承担一定的工作强度及压力；5、年龄35岁以下，有经验者优先，新入行可统一参加培训。\n岗位职责：1、学习了解专业知识，为之后工作做好基本功。2、工程项目前期设计沟通、技术支持、现场施工协调、后期售后维修等。",
-      "encryptAddressId": "7c21aa0ceb9ee5bd1HF42dy8EFs~",
-      "address": "昆明西山区大商汇D区31栋3楼",
-      "longitude": 102.709121,
-      "latitude": 24.984048,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b636dd8672964e856a7c6fc7d7654071",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9e7e28fdbd3cc7916fe0ecdeec07235",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "PMP",
-        "计算机相关专业",
-        "PMI-ACP",
-        "可适应出差",
-        "CSM/PSM"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杜先生",
-      "title": "执行总监",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180726/7e85611dca1fd1cdfbff69bfe9b4c9a034866cc624dbf22a9a9523ad288_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "昆明显博科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9a36d65543d4598c1nVz2ty_F1o~",
-      "brandName": "昆明显博科技有限公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725468543773,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆明显博科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆明显博科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "杜先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180726/7e85611dca1fd1cdfbff69bfe9b4c9a034866cc624dbf22a9a9523ad288_b.jpg",
+        "title": "执行总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725468543773,
+        "brandName": "昆明显博科技有限公司",
+        "customerBrandName": "昆明显博科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9a36d65543d4598c1nVz2ty_F1o~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "昆明西山区大商汇D区31栋3楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7c21aa0ceb9ee5bd1HF42dy8EFs~",
+        "encryptId": "6a1ca3e67673d53e1XNz2d-5FFZR",
+        "encryptUserId": "4ee6cbebb3cc3ea803d-2t27GFQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "硬件实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.984048,
+        "location": 101290100,
+        "locationName": "昆明",
+        "longitude": 102.709121,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9e7e28fdbd3cc7916fe0ecdeec07235",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "招聘弱电及智能化技术专员 5名 待遇优厚\n职位要求：1、相关建筑、网络及智能化等专业专科及以上学历，学信网可查；2、具有良好的语言表达和沟通能力，积极乐观、勇于挑战；3、熟悉电脑基本操作, 必须会使用CAD制图软件，具备良好的学习能力；4、踏实进取，能够承担一定的工作强度及压力；5、年龄35岁以下，有经验者优先，新入行可统一参加培训。\n岗位职责：1、学习了解专业知识，为之后工作做好基本功。2、工程项目前期设计沟通、技术支持、现场施工协调、后期售后维修等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-7K",
+        "showSkills": [
+            "软件实施经验",
+            "PMP",
+            "计算机相关专业",
+            "PMI-ACP",
+            "可适应出差",
+            "CSM/PSM"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b636dd8672964e856a7c6fc7d7654071"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RedML5CnAu7n2-t1NOoiXO-hnYB8Thd6Bu-S9jAbcg57RsPBIn4ejClstf0xW-RLsxIfA6zNmw9t7t5eKMoW7oPB_gORXQlDAKCpaCFbrsc9viykMA8R9DpVnCKMTKg3O4qwCUF81QYKiA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Sp1gRV3L-LQN3-t1ZEiOf5CHQJjCcbKfX_wAEMJaXYo6aAzM4dGMM5ix_oHrp1Vl7Plz-MVuOsOhkNPXL0LNASzuoY8qQ_gFOYaQZnT9pZn13IrGLG0N36ErSGZC-ue3mOD4vN8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "26f847dc7a3512eb3nB42tu7FFo~",
-      "encryptUserId": "b76815dadbe0e0970XN-3du6Fw~~",
-      "invalidStatus": false,
-      "jobName": "技术支持工程师 Technical Support",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1.熟悉相关产品和系统，向客户提供产品的技术支持；\n2.根据项目/业务确定客户需求，进行软件安装部署&升级&测试；\n3.对客户进行操作培训；\n4.根据公司要求定期完成工作汇报与总结。\n\n\n任职要求：\n1.全日制统招本科,计算机相关专业优先；\n2.工作中会涉及到英语文档，CET-4、6优先\n3.了解Java 或者Python 一种后台语言优先。\n4.了解企业级软件的定制化流程，熟悉AD， ADFS 等Windows 服务组件；熟悉Linux 服务器基本命令，可以进行troubleshoot；\n5.优秀的沟通能力，能够流畅表达，维护良好的客户关系；\n6.具备Oracle、Linux数据库经验，有一定SQL基础；\n7. 有企业级软件、邮件归档经验者优先；\n8. 微软认证工程师优先",
-      "encryptAddressId": "cdc0d7901226efda1XJ929W4Eg~~",
-      "address": "上海闵行区新意城宜山路1618号I栋605",
-      "longitude": 121.392848,
-      "latitude": 31.170517,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8357c58717a83d3bbf26ae40b7cb5c4b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73a0a6d355b11834bd018080c9e66f42",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "sql",
-        "数据库"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘者",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=fe4ee03adc5b4273jzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6RwoHtxYgihit9p86N1nTQ-5y-FhNe-lfMBcs77sXWx6Z10CoXRd9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "思满科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "84255f7f1f683ece1Hx62d8~",
-      "brandName": "思满科技",
-      "logo": "https://img2.bosszhipin.com/mcs/chatphoto/20160325/21626752f0b39b422a67b467c45ba54c8eb2d1962037aa8e75824e12d5c02713.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "Smart Team Global (STG) 为专业从事全球先进企业解决方案的软件咨询公司，专注于涵盖所有产品线的信息监管垂直解决方案，以及针对资本市场的前沿内容发布平台。STG 与客户合作, 通过利用先进的技术, 应对其关键的业务挑战并取得更大的成功。详见官网： ********************",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "交通补助"
-      ],
-      "activeTime": 1730131033196,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "思满科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "思满科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=fe4ee03adc5b4273jzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6RwoHtxYgihit9p86N1nTQ-5y-FhNe-lfMBcs77sXWx6Z10CoXRd9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730131033196,
+        "brandName": "思满科技",
+        "customerBrandName": "思满科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "84255f7f1f683ece1Hx62d8~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "Smart Team Global (STG) 为专业从事全球先进企业解决方案的软件咨询公司，专注于涵盖所有产品线的信息监管垂直解决方案，以及针对资本市场的前沿内容发布平台。STG 与客户合作, 通过利用先进的技术, 应对其关键的业务挑战并取得更大的成功。详见官网： ********************",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "交通补助"
+        ],
+        "logo": "https://img2.bosszhipin.com/mcs/chatphoto/20160325/21626752f0b39b422a67b467c45ba54c8eb2d1962037aa8e75824e12d5c02713.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海闵行区新意城宜山路1618号I栋605",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cdc0d7901226efda1XJ929W4Eg~~",
+        "encryptId": "26f847dc7a3512eb3nB42tu7FFo~",
+        "encryptUserId": "b76815dadbe0e0970XN-3du6Fw~~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术支持工程师 Technical Support",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.170517,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.392848,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73a0a6d355b11834bd018080c9e66f42",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "工作职责：\n1.熟悉相关产品和系统，向客户提供产品的技术支持；\n2.根据项目/业务确定客户需求，进行软件安装部署&升级&测试；\n3.对客户进行操作培训；\n4.根据公司要求定期完成工作汇报与总结。\n\n\n任职要求：\n1.全日制统招本科,计算机相关专业优先；\n2.工作中会涉及到英语文档，CET-4、6优先\n3.了解Java 或者Python 一种后台语言优先。\n4.了解企业级软件的定制化流程，熟悉AD， ADFS 等Windows 服务组件；熟悉Linux 服务器基本命令，可以进行troubleshoot；\n5.优秀的沟通能力，能够流畅表达，维护良好的客户关系；\n6.具备Oracle、Linux数据库经验，有一定SQL基础；\n7. 有企业级软件、邮件归档经验者优先；\n8. 微软认证工程师优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "sql",
+            "数据库"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8357c58717a83d3bbf26ae40b7cb5c4b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Sp1gRV3L-LQN3-t1ZEiOf5CHQJjCcbKfX_wAEMJaXYo6aAzM4dGMM5ix_oHrp1Vl7Plz-MVuOsOhkNPXL0LNASzuoY8qQ_gFOYaQZnT9pZn13IrGLG0N36ErSGZC-ue3mOD4vN8~",
+    "selfAccess": false,
+    "sessionId": null
 }

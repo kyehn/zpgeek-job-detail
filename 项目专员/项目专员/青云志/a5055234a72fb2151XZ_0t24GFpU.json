@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0QWk8goZ0YwC_-J1tsU1XkzkG1HMK4tLeZIhk2T6gxT2yejgKUQ7YYoIQv-3byflV9FDxOtZZE6yH2b7tMt_ItWb-84rELnE3oWyxDRBi3ymzn-btUKg",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a5055234a72fb2151XZ_0t24GFpU",
-      "encryptUserId": "5cf47b4d12fa5fe10nV939y1ElRZ",
-      "invalidStatus": false,
-      "jobName": "项目专员",
-      "position": 100604,
-      "positionName": "项目专员",
-      "location": 101100500,
-      "locationName": "长治",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-6K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司网络工程\n负责公司信息化建设等项目技术",
-      "encryptAddressId": "2014e479054e0a3503R929q8EFc~",
-      "address": "长治沁芳苑沁芳汇生活广场508",
-      "longitude": 113.115237,
-      "latitude": 36.221171,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bbc83dde5da953376efe46bea85c6fa",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/895a32d08625cf44b32276e27735b3fb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭女士",
-      "title": "人事",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=14fbc053c5ac6a99jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Yn390s98mvI1qTwa1yeRnNO2ieZlQ4O_pC257aAoF83db9_KhRiYWErbiXhQxwYxLGA3kmPpYqVIZUobsgXctAHYS9U-eI8jtwA~~&radius=15",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "青云志",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f4949af9d12e77fb1nB72di5GVU~",
-      "brandName": "青云志",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231117/7bf6f160950405e9f1c5e2a2543050385ea57c4d76a3e5931ec95017b95e7e47deed964f8d1154b1.png.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100006,
-      "industryName": "医疗健康",
-      "introduce": "",
-      "labels": [
-        "有无线网",
-        "团建聚餐",
-        "包吃",
-        "带薪年假",
-        "工龄奖",
-        "法定节假日三薪",
-        "保底工资",
-        "年终奖",
-        "意外险"
-      ],
-      "activeTime": 1725377459671,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青云志",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青云志",
+        "certificated": true,
+        "large": null,
+        "name": "郭女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=14fbc053c5ac6a99jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Yn390s98mvI1qTwa1yeRnNO2ieZlQ4O_pC257aAoF83db9_KhRiYWErbiXhQxwYxLGA3kmPpYqVIZUobsgXctAHYS9U-eI8jtwA~~&radius=15",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725377459671,
+        "brandName": "青云志",
+        "customerBrandName": "青云志",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "f4949af9d12e77fb1nB72di5GVU~",
+        "focusBrand": false,
+        "industry": 100006,
+        "industryName": "医疗健康",
+        "introduce": "",
+        "labels": [
+            "有无线网",
+            "团建聚餐",
+            "包吃",
+            "带薪年假",
+            "工龄奖",
+            "法定节假日三薪",
+            "保底工资",
+            "年终奖",
+            "意外险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231117/7bf6f160950405e9f1c5e2a2543050385ea57c4d76a3e5931ec95017b95e7e47deed964f8d1154b1.png.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长治沁芳苑沁芳汇生活广场508",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "2014e479054e0a3503R929q8EFc~",
+        "encryptId": "a5055234a72fb2151XZ_0t24GFpU",
+        "encryptUserId": "5cf47b4d12fa5fe10nV939y1ElRZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "项目专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.221171,
+        "location": 101100500,
+        "locationName": "长治",
+        "longitude": 113.115237,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/895a32d08625cf44b32276e27735b3fb",
+        "position": 100604,
+        "positionName": "项目专员",
+        "postDescription": "负责公司网络工程\n负责公司信息化建设等项目技术",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-6K",
+        "showSkills": [
+            "软件实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bbc83dde5da953376efe46bea85c6fa"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0QWk8goZ0YwC_-J1tsU1XkzkG1HMK4tLeZIhk2T6gxT2yejgKUQ7YYoIQv-3byflV9FDxOtZZE6yH2b7tMt_ItWb-84rELnE3oWyxDRBi3ymzn-btUKg",
+    "selfAccess": false,
+    "sessionId": null
 }

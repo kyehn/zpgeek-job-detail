@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "x8Pi8Xp0enWgB-m1mhDofT9xiIr-0N3HUZ47EUIXqqZ74nswHWp-96MPWs9BnN21RKfZVhDMiF4mg-JXau27pqUZa0WJWvMYbXRa0aEoGKzuElTvkHZE4YUAuOyaWeB1FfN-My7Bklez0zBdi06I6kLK0skOCyfQ2a4LgSnjH_bC0Tnxf7qePUtwHX1ey_tuIj6spZU66ukIeZUJR6eYM_NZ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cca7a2a26fdd94bb03R_0tu_EFJV",
-      "encryptUserId": "178b5e51ff73cbc40XR-3t2_Flo~",
-      "invalidStatus": false,
-      "jobName": "安全服务工程师",
-      "position": 100407,
-      "positionName": "网络安全",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "实习安全服务工程师\n岗位要求：\n1、计算机或信息安全相关专业，有志从事信息安全相关工作；\n2、主动性强，有较强的自学能力，良好的沟通能力和团队协作能力；\n3、熟悉网络及网络安全基础知识，了解网络基础知识及常见安全漏洞原理和加固方法；\n4、有网络、安全相关认证者或参加过安全的比赛取得成绩者优先考虑；\n\n岗位职责：\n1、负责现场基础安全服务工作，如安全漏洞扫描、基线检查、加固指导支持等；\n2、负责防火墙、WAF、IPS、态势感知、流量监测等主流安全防护设备日志告警分析、安全事件监测、网络行为分析等；\n3、协助编写安全相关汇报PPT、报告文档、统计表格等；\n4、完成领导安排的临时性工作；\n\n公司情况\n1、提供转正机会；\n2、为学习安服、渗透以及CTF等提供良好的交流与学习环境。",
-      "encryptAddressId": "b966542d28c433a51nB_3dq4EFdYy4W5Ufud",
-      "address": "广州天河区CFC汇金中心1710",
-      "longitude": 113.379966,
-      "latitude": 23.117695,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2d13e5b56fb7d80f6d1b5b383ae1e38",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bcc49161befaaff26187043c708e8383",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机/信息安全相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "胡女士",
-      "title": "人事部HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241104/607f1f3d68754fd005950b68022fd4a5f8237a78846f7f175a043fb5a10455556575808c8a4d28c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "广州安海信息安全技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8481964f90a569da1Hx43tm9Elo~",
-      "brandName": "广州安海信息安全技术",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241104/7b5b554d84f9729c2e1aa29ee59ac3552e56b440881e025a5a043fb5a10455556575808c8a4d28c1.jpg.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "安海信息是一家富有朝气的网络安全公司。主营业务包括信息系统安全等级保护建设，信息系统集成、网络安全培训、网络设备和网络安全设备销售，以及渗透测试、漏洞扫描，风险评估、网络加固等安全服务。",
-      "labels": [
-        "五险一金",
-        "年终奖"
-      ],
-      "activeTime": 1734311447446,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州安海信息安全技术",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "广州安海信息安全技术",
+        "certificated": true,
+        "large": null,
+        "name": "胡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241104/607f1f3d68754fd005950b68022fd4a5f8237a78846f7f175a043fb5a10455556575808c8a4d28c_b.jpg",
+        "title": "人事部HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734311447446,
+        "brandName": "广州安海信息安全技术",
+        "customerBrandName": "广州安海信息安全技术",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "8481964f90a569da1Hx43tm9Elo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "安海信息是一家富有朝气的网络安全公司。主营业务包括信息系统安全等级保护建设，信息系统集成、网络安全培训、网络设备和网络安全设备销售，以及渗透测试、漏洞扫描，风险评估、网络加固等安全服务。",
+        "labels": [
+            "五险一金",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241104/7b5b554d84f9729c2e1aa29ee59ac3552e56b440881e025a5a043fb5a10455556575808c8a4d28c1.jpg.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区CFC汇金中心1710",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "b966542d28c433a51nB_3dq4EFdYy4W5Ufud",
+        "encryptId": "cca7a2a26fdd94bb03R_0tu_EFJV",
+        "encryptUserId": "178b5e51ff73cbc40XR-3t2_Flo~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "安全服务工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.117695,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.379966,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bcc49161befaaff26187043c708e8383",
+        "position": 100407,
+        "positionName": "网络安全",
+        "postDescription": "实习安全服务工程师\n岗位要求：\n1、计算机或信息安全相关专业，有志从事信息安全相关工作；\n2、主动性强，有较强的自学能力，良好的沟通能力和团队协作能力；\n3、熟悉网络及网络安全基础知识，了解网络基础知识及常见安全漏洞原理和加固方法；\n4、有网络、安全相关认证者或参加过安全的比赛取得成绩者优先考虑；\n\n岗位职责：\n1、负责现场基础安全服务工作，如安全漏洞扫描、基线检查、加固指导支持等；\n2、负责防火墙、WAF、IPS、态势感知、流量监测等主流安全防护设备日志告警分析、安全事件监测、网络行为分析等；\n3、协助编写安全相关汇报PPT、报告文档、统计表格等；\n4、完成领导安排的临时性工作；\n\n公司情况\n1、提供转正机会；\n2、为学习安服、渗透以及CTF等提供良好的交流与学习环境。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "计算机/信息安全相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2d13e5b56fb7d80f6d1b5b383ae1e38"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "x8Pi8Xp0enWgB-m1mhDofT9xiIr-0N3HUZ47EUIXqqZ74nswHWp-96MPWs9BnN21RKfZVhDMiF4mg-JXau27pqUZa0WJWvMYbXRa0aEoGKzuElTvkHZE4YUAuOyaWeB1FfN-My7Bklez0zBdi06I6kLK0skOCyfQ2a4LgSnjH_bC0Tnxf7qePUtwHX1ey_tuIj6spZU66ukIeZUJR6eYM_NZ",
+    "selfAccess": false,
+    "sessionId": null
 }

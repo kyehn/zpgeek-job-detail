@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "61unLfv0hP2iS-q1jbC0qrabmvFxLsMMuGsr2lxjqYGMxRdt77A1F-8vZQyW-KqPSVh1VxAVfqYfW5OJT0p-RgrF4anM99LeZBULNpjIEPoGNg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "02b6c5f188ef408d1n193Ni8F1JX",
-      "encryptUserId": "8f678c058c69c3f43n162d61",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责对软件产品进行测试，根据产品和测试需求，编写测试方案、指导并带领团队成员编写测试用例、执行测试脚本；\n2. 执行测试用例，提交BUG，并进行BUG跟踪和回归测试，直到BUG解决；\n3. 根据产品测试情况编写测试报告以及其他文档、整理项目资料及技术文档；\n4.负责与部门及项目相关负责人进行沟通协作，推动测试及质量问题的解决。\n\n\n岗位要求：\n1.大专及以上学历，计算机及相关专业，至少3年以上测试工作经验；\n2.熟悉软件测试理论和CMM测试流程，有制定测试计划、编写测试用例和测试文档的经验；\n3.做过自动化（selenium-webderver）优先；\n4.熟悉常用的测试工具和项目管理工具（如jira、禅道等）优先。\n5.有团队管理的能力与经验。",
-      "encryptAddressId": "f2b27f028e2627731HB_2928Flo~",
-      "address": "合肥蜀山区品恩科技园5号楼203",
-      "longitude": 117.136637,
-      "latitude": 31.82683,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad479151ed306dc2d96f72368244eed7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/620adc99c90f368789a750d44ca83af5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "功能测试",
-        "移动端测试",
-        "web端测试",
-        "APP测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "人力总监",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170814/f732947a181eac874871d75005488f4e8c7dd922ad47494fc02c388e12c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "畅发科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "073bc620ea41edcf3nd_3N6_",
-      "brandName": "畅发科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/81791d0a07de002a0998bf4ed6900aaca965f29e9fc22476464cfec83ff9761b_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729847787191,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "畅发科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "畅发科技",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170814/f732947a181eac874871d75005488f4e8c7dd922ad47494fc02c388e12c_b.jpg",
+        "title": "人力总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1729847787191,
+        "brandName": "畅发科技",
+        "customerBrandName": "畅发科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "073bc620ea41edcf3nd_3N6_",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/81791d0a07de002a0998bf4ed6900aaca965f29e9fc22476464cfec83ff9761b_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区品恩科技园5号楼203",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f2b27f028e2627731HB_2928Flo~",
+        "encryptId": "02b6c5f188ef408d1n193Ni8F1JX",
+        "encryptUserId": "8f678c058c69c3f43n162d61",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.82683,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.136637,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/620adc99c90f368789a750d44ca83af5",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1. 负责对软件产品进行测试，根据产品和测试需求，编写测试方案、指导并带领团队成员编写测试用例、执行测试脚本；\n2. 执行测试用例，提交BUG，并进行BUG跟踪和回归测试，直到BUG解决；\n3. 根据产品测试情况编写测试报告以及其他文档、整理项目资料及技术文档；\n4.负责与部门及项目相关负责人进行沟通协作，推动测试及质量问题的解决。\n\n\n岗位要求：\n1.大专及以上学历，计算机及相关专业，至少3年以上测试工作经验；\n2.熟悉软件测试理论和CMM测试流程，有制定测试计划、编写测试用例和测试文档的经验；\n3.做过自动化（selenium-webderver）优先；\n4.熟悉常用的测试工具和项目管理工具（如jira、禅道等）优先。\n5.有团队管理的能力与经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "软件测试",
+            "功能测试",
+            "移动端测试",
+            "web端测试",
+            "APP测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad479151ed306dc2d96f72368244eed7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "61unLfv0hP2iS-q1jbC0qrabmvFxLsMMuGsr2lxjqYGMxRdt77A1F-8vZQyW-KqPSVh1VxAVfqYfW5OJT0p-RgrF4anM99LeZBULNpjIEPoGNg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

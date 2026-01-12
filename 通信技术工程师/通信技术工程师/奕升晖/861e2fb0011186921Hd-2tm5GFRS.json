@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TCUDGZu4AroxU-j1dEr_h9CjtGu0ERZ_netzUr4JGAFbOpvN3FNeIC3CbPl0Fxea-FhQq2o-etsTTG_4bGI7Cxe5ZC475D3mPF-I4Fp4ZL4DpFM8kMar",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "861e2fb0011186921Hd-2tm5GFRS",
-      "encryptUserId": "ae7390d4f6b964450nV-2dS1FlRY",
-      "invalidStatus": false,
-      "jobName": "通信技术工程师",
-      "position": 101001,
-      "positionName": "通信技术工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "日常传输故障处理 看工单  巡检 \n执行领导安排的每个任务\n岗位福利：每月4天休息  包住",
-      "encryptAddressId": "61a283468fa3cad503Jz09u6E1FWxIu_Vvk~",
-      "address": "武汉江夏区东湖高新区关东街南湖社区16-1-302",
-      "longitude": 114.373885,
-      "latitude": 30.462858,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230419/48ba41acc9cef1bf2109f43847b3c932271099060114fafd6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf78c643de44004dccb79cf1005a84df6c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络维护",
-        "光缆通信"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "奕升晖",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "35bbc78782a920e61nd93tu5FFM~",
-      "brandName": "奕升晖",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "公司正在努力发展继续人才，目前基本工作是维护中国移动东湖高新区内所有线路维护和工程，另外还与市政项目合作，完成光谷大道高架桥，地铁2号线，泗水工程，中芯城管廊工程，高新大道市政光缆迁改",
-      "labels": [
-        "节日福利",
-        "餐补",
-        "全勤奖",
-        "加班补助",
-        "社保"
-      ],
-      "activeTime": 1725378217405,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "奕升晖",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "奕升晖",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725378217405,
+        "brandName": "奕升晖",
+        "customerBrandName": "奕升晖",
+        "customerBrandStageName": "",
+        "encryptBrandId": "35bbc78782a920e61nd93tu5FFM~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "公司正在努力发展继续人才，目前基本工作是维护中国移动东湖高新区内所有线路维护和工程，另外还与市政项目合作，完成光谷大道高架桥，地铁2号线，泗水工程，中芯城管廊工程，高新大道市政光缆迁改",
+        "labels": [
+            "节日福利",
+            "餐补",
+            "全勤奖",
+            "加班补助",
+            "社保"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区东湖高新区关东街南湖社区16-1-302",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "61a283468fa3cad503Jz09u6E1FWxIu_Vvk~",
+        "encryptId": "861e2fb0011186921Hd-2tm5GFRS",
+        "encryptUserId": "ae7390d4f6b964450nV-2dS1FlRY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "通信技术工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.462858,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.373885,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf78c643de44004dccb79cf1005a84df6c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 101001,
+        "positionName": "通信技术工程师",
+        "postDescription": "日常传输故障处理 看工单  巡检 \n执行领导安排的每个任务\n岗位福利：每月4天休息  包住",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "网络维护",
+            "光缆通信"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230419/48ba41acc9cef1bf2109f43847b3c932271099060114fafd6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TCUDGZu4AroxU-j1dEr_h9CjtGu0ERZ_netzUr4JGAFbOpvN3FNeIC3CbPl0Fxea-FhQq2o-etsTTG_4bGI7Cxe5ZC475D3mPF-I4Fp4ZL4DpFM8kMar",
+    "selfAccess": false,
+    "sessionId": null
 }

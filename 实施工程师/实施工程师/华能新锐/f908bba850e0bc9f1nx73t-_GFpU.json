@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EHnhGwdBxDBvq-w1CcBPTwVMPg4yAVU1egNu76EKZSo53Fe3znwHhCoVovu4GNcqwGpl2plHWGwcYm0RlRm2hs8rAW_QlkKS6vzQAl44mSqsEkKJ4w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f908bba850e0bc9f1nx73t-_GFpU",
-      "encryptUserId": "7b2cca7ce861b5021XV_3NS9GVU~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责集团新能源智慧运维中心、新能源公司运维中心、区域集控中心系统的部署实施。\n2、负责实施文档资料归类整理备案。\n3、协助运维文档的编制。\n4、协助验收材料的整理，办理验收手续。\r\n\r\n加分项\r\n有以下行业经验：计算机服务·计算机软件·通信/网络设备",
-      "encryptAddressId": "31296d38cba8982a1nB-2t2-E1E~",
-      "address": "北京昌平区中国华能集团人才创新创业基地实验楼B栋3层",
-      "longitude": 116.45738,
-      "latitude": 40.102877,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1eec6ac61bc2b312c87f3e6ce64f5665",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/227825ee1a329bcd80da81a94ce8507c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统集成工程师",
-        "网络工程师",
-        "实施工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘组经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210113/a71c6aff409cdd823304332ea97d3246cb3e0520495f8a0ef22bdc894ce_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "华能新锐",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bbde26eb76c8af0a0HNz0ti1Eg~~",
-      "brandName": "华能新锐",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210729/d17e9f7c16f822aeafa38f760640350ecb3e0520495f8a0ef22bdc894ce1227e.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101205,
-      "industryName": "电力/热力/燃气/水利",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "免费班车",
-        "餐补",
-        "节日福利"
-      ],
-      "activeTime": 1727209991299,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华能新锐",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华能新锐",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210113/a71c6aff409cdd823304332ea97d3246cb3e0520495f8a0ef22bdc894ce_b.jpg",
+        "title": "招聘组经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727209991299,
+        "brandName": "华能新锐",
+        "customerBrandName": "华能新锐",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "bbde26eb76c8af0a0HNz0ti1Eg~~",
+        "focusBrand": false,
+        "industry": 101205,
+        "industryName": "电力/热力/燃气/水利",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "免费班车",
+            "餐补",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210729/d17e9f7c16f822aeafa38f760640350ecb3e0520495f8a0ef22bdc894ce1227e.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京昌平区中国华能集团人才创新创业基地实验楼B栋3层",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "31296d38cba8982a1nB-2t2-E1E~",
+        "encryptId": "f908bba850e0bc9f1nx73t-_GFpU",
+        "encryptUserId": "7b2cca7ce861b5021XV_3NS9GVU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.102877,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.45738,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/227825ee1a329bcd80da81a94ce8507c",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1、负责集团新能源智慧运维中心、新能源公司运维中心、区域集控中心系统的部署实施。\n2、负责实施文档资料归类整理备案。\n3、协助运维文档的编制。\n4、协助验收材料的整理，办理验收手续。\r\n\r\n加分项\r\n有以下行业经验：计算机服务·计算机软件·通信/网络设备",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "系统集成工程师",
+            "网络工程师",
+            "实施工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1eec6ac61bc2b312c87f3e6ce64f5665"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EHnhGwdBxDBvq-w1CcBPTwVMPg4yAVU1egNu76EKZSo53Fe3znwHhCoVovu4GNcqwGpl2plHWGwcYm0RlRm2hs8rAW_QlkKS6vzQAl44mSqsEkKJ4w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

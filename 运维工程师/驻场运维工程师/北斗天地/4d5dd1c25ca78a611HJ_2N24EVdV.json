@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "5zWN8BzH80OMV-c1uqYNg3q21THn5mPzPVA58g6UibV8QvIDrGqUqXxfhT5HIWmSCgKoy7QZ7ggBXMQPHz9GIJyY44PgkNhCoPDwUsExCZDdPEe5fdB1qtRr6cBA4IbmEnY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4d5dd1c25ca78a611HJ_2N24EVdV",
-      "encryptUserId": "31cc5bd6f49997880XZ-2dm_FFtR",
-      "invalidStatus": false,
-      "jobName": "驻场运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101110400,
-      "locationName": "榆林",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责陕蒙区域煤矿驻矿信息化（网络、通信、井下人员定位、广播通信、视频监控等子系统）运维工作；\n2、负责驻场运维分部人员日常工作安排、调度、汇报等工作；\n3、负责所驻煤矿客户关系协调；\n4、负责所在煤矿的销售线索收集、上报、技术支撑工作。\n5、吃苦耐劳，谦虚爱学，能接受下井和驻矿工作。",
-      "encryptAddressId": "c43ddf7ea46efa5e33180929GFNRwo26V_I~",
-      "address": "榆林榆阳区兖矿集团未来能源金鸡滩煤矿金鸡滩镇",
-      "longitude": 109.822387,
-      "latitude": 38.506049,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240530/48ba41acc9cef1bf3e9a1d9917fb8b64ba23e692a68201c16bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240530/48ba41acc9cef1bfaf384c839e7978f0193ca5431103e26f6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "实施交付运维",
-        "系统运维",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "pmo",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240220/607f1f3d68754fd03f9d301a21e18697bfa6fa142bc8f35fcbb3aeae1d749438243c3f43817c8d7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "北斗天地",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf967d8540da37f21nd-2di-FlY~",
-      "brandName": "北斗天地",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732851728646,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北斗天地",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北斗天地",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240220/607f1f3d68754fd03f9d301a21e18697bfa6fa142bc8f35fcbb3aeae1d749438243c3f43817c8d7_b.jpg",
+        "title": "pmo"
+    },
+    "brandComInfo": {
+        "activeTime": 1732851728646,
+        "brandName": "北斗天地",
+        "customerBrandName": "北斗天地",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cf967d8540da37f21nd-2di-FlY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "榆林榆阳区兖矿集团未来能源金鸡滩煤矿金鸡滩镇",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c43ddf7ea46efa5e33180929GFNRwo26V_I~",
+        "encryptId": "4d5dd1c25ca78a611HJ_2N24EVdV",
+        "encryptUserId": "31cc5bd6f49997880XZ-2dm_FFtR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "驻场运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.506049,
+        "location": 101110400,
+        "locationName": "榆林",
+        "longitude": 109.822387,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240530/48ba41acc9cef1bfaf384c839e7978f0193ca5431103e26f6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责陕蒙区域煤矿驻矿信息化（网络、通信、井下人员定位、广播通信、视频监控等子系统）运维工作；\n2、负责驻场运维分部人员日常工作安排、调度、汇报等工作；\n3、负责所驻煤矿客户关系协调；\n4、负责所在煤矿的销售线索收集、上报、技术支撑工作。\n5、吃苦耐劳，谦虚爱学，能接受下井和驻矿工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K",
+        "showSkills": [
+            "网络运维",
+            "实施交付运维",
+            "系统运维",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240530/48ba41acc9cef1bf3e9a1d9917fb8b64ba23e692a68201c16bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "5zWN8BzH80OMV-c1uqYNg3q21THn5mPzPVA58g6UibV8QvIDrGqUqXxfhT5HIWmSCgKoy7QZ7ggBXMQPHz9GIJyY44PgkNhCoPDwUsExCZDdPEe5fdB1qtRr6cBA4IbmEnY~",
+    "selfAccess": false,
+    "sessionId": null
 }

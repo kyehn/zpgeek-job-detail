@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CHT7nPI9_jnLO-Q1AUozgy_5gIUBXuvnBVZPO80JZBoi4IKEzoCzIdqDZ0itvvefRildcff3P9StVOKVDxvrnfh2Lo0x3zSwa90rVT1gbrARMzO3Mw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2843a3de2df57a371HV439m4ElJY",
-      "encryptUserId": "3e00c679aa60544b33d52d-6GVI~",
-      "invalidStatus": false,
-      "jobName": "硬件工程师（实习生）",
-      "position": 100801,
-      "positionName": "硬件工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n1、负责公司产品中硬件部分的开发设计工作；\n2、依据项目需求完成硬件方案评估，设计原理图，绘制PCB，器件选型，样机制作及调试等；\n3、设计和编制产品硬件测试方案，测试工具、测试流程，并生成测试报告，\n4、编写设计说明文档，输出生产交付文件；\n5、协助生产和现场问题排查。\n任职要求：\n1、自动化、电子、通信、机电一体化等相关专业，大专及以上学历；\n2、具有较强的学习能力、分析能力、沟通能力和较好的团队合作精神。",
-      "encryptAddressId": "85eaf3a300ee6fcb0XR92Nq6GVs~",
-      "address": "南京江宁区南京飞腾电子科技有限公司蓝霞路6号",
-      "longitude": 118.831922,
-      "latitude": 31.838629,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58578bffc774f9e2424f0aee604b5702",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d6a343fa1e4a165ac7a4952a3c7687f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "硬件开发经验",
-        "硬件项目管理经验",
-        "电子电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230625/607f1f3d68754fd0f4817253eab5b98e993530256e90d0e563e64196e27b81b5645b96e9207_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "南京飞腾电子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0a38ba3ca99c1e7c0XF62dy0FQ~~",
-      "brandName": "南京飞腾电子科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100915,
-      "industryName": "计算机/通信/其他电子设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721718816989,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京飞腾电子科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京飞腾电子科技",
+        "certificated": true,
+        "large": null,
+        "name": "孙先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230625/607f1f3d68754fd0f4817253eab5b98e993530256e90d0e563e64196e27b81b5645b96e9207_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721718816989,
+        "brandName": "南京飞腾电子科技",
+        "customerBrandName": "南京飞腾电子科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0a38ba3ca99c1e7c0XF62dy0FQ~~",
+        "focusBrand": false,
+        "industry": 100915,
+        "industryName": "计算机/通信/其他电子设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区南京飞腾电子科技有限公司蓝霞路6号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "85eaf3a300ee6fcb0XR92Nq6GVs~",
+        "encryptId": "2843a3de2df57a371HV439m4ElJY",
+        "encryptUserId": "3e00c679aa60544b33d52d-6GVI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "硬件工程师（实习生）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.838629,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.831922,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d6a343fa1e4a165ac7a4952a3c7687f",
+        "position": 100801,
+        "positionName": "硬件工程师",
+        "postDescription": "职位描述\n1、负责公司产品中硬件部分的开发设计工作；\n2、依据项目需求完成硬件方案评估，设计原理图，绘制PCB，器件选型，样机制作及调试等；\n3、设计和编制产品硬件测试方案，测试工具、测试流程，并生成测试报告，\n4、编写设计说明文档，输出生产交付文件；\n5、协助生产和现场问题排查。\n任职要求：\n1、自动化、电子、通信、机电一体化等相关专业，大专及以上学历；\n2、具有较强的学习能力、分析能力、沟通能力和较好的团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K·13薪",
+        "showSkills": [
+            "硬件开发经验",
+            "硬件项目管理经验",
+            "电子电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58578bffc774f9e2424f0aee604b5702"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CHT7nPI9_jnLO-Q1AUozgy_5gIUBXuvnBVZPO80JZBoi4IKEzoCzIdqDZ0itvvefRildcff3P9StVOKVDxvrnfh2Lo0x3zSwa90rVT1gbrARMzO3Mw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

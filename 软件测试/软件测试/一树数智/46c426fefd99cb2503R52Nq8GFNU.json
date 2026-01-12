@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UoOVWmN23MUob-71Z5nJWkb-EmiIZPGT8yA_AhNctS3k3CvqO2StFi1nB5X5cmKdMZ445FpFSUcjJ4A2_Ah2Q-3-RrqfXntQvLkp_ee4octHJw3Mr66ZtoGVOu76CCCDfdVofi_O3Cw9VgLdzgFUF6ikHuSlTFlJgfF1-yJa5gkfp_oDnyV9ASHvI1rnvw_ui45C6p8FN6N_u-jzsLRsJ6-s",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "46c426fefd99cb2503R52Nq8GFNU",
-      "encryptUserId": "d124890add92254a03V92Nm4EVQ~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.2年以上的测试工作经验，1年以上手机APP测试经验，大专及以上学历，计算机科学与技术，软件工程或相关专业；\n2.了解软件测试相关理论知识，熟悉软件测试流程及规范，熟悉各种测试方法；\n3.拥有物联网相关项目的测试经验者优先。\n\n深圳益邦物联    短期3-6个月",
-      "encryptAddressId": "b2f3e9a44ba31b911nF_3ti6F1FVw4-3Uf-b",
-      "address": "深圳南山区嘉信便利店深圳市南山区南头街道安乐社区关口二路15号智恒产业园10栋",
-      "longitude": 113.90865,
-      "latitude": 22.550582,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241029/48ba41acc9cef1bfbf21128be147139e68b06127f0eabd8e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241029/48ba41acc9cef1bfd5fa1d7bbd5146a7903a882a413775606bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "石女士",
-      "title": "招聘顾问",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230912/607f1f3d68754fd0acacc404278a8d179a4f6ae6d69432d24ae50bdb0c6d5c8bed397e2bfe0cab7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "一树数智",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8117be73828b2ca51HZ_3dW8ElM~",
-      "brandName": "一树数智",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733120612675,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "一树数智",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "一树数智",
+        "certificated": true,
+        "large": null,
+        "name": "石女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230912/607f1f3d68754fd0acacc404278a8d179a4f6ae6d69432d24ae50bdb0c6d5c8bed397e2bfe0cab7_b.jpg",
+        "title": "招聘顾问"
+    },
+    "brandComInfo": {
+        "activeTime": 1733120612675,
+        "brandName": "一树数智",
+        "customerBrandName": "一树数智",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8117be73828b2ca51HZ_3dW8ElM~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区嘉信便利店深圳市南山区南头街道安乐社区关口二路15号智恒产业园10栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b2f3e9a44ba31b911nF_3ti6F1FVw4-3Uf-b",
+        "encryptId": "46c426fefd99cb2503R52Nq8GFNU",
+        "encryptUserId": "d124890add92254a03V92Nm4EVQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.550582,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.90865,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241029/48ba41acc9cef1bfd5fa1d7bbd5146a7903a882a413775606bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "1.2年以上的测试工作经验，1年以上手机APP测试经验，大专及以上学历，计算机科学与技术，软件工程或相关专业；\n2.了解软件测试相关理论知识，熟悉软件测试流程及规范，熟悉各种测试方法；\n3.拥有物联网相关项目的测试经验者优先。\n\n深圳益邦物联    短期3-6个月",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241029/48ba41acc9cef1bfbf21128be147139e68b06127f0eabd8e6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UoOVWmN23MUob-71Z5nJWkb-EmiIZPGT8yA_AhNctS3k3CvqO2StFi1nB5X5cmKdMZ445FpFSUcjJ4A2_Ah2Q-3-RrqfXntQvLkp_ee4octHJw3Mr66ZtoGVOu76CCCDfdVofi_O3Cw9VgLdzgFUF6ikHuSlTFlJgfF1-yJa5gkfp_oDnyV9ASHvI1rnvw_ui45C6p8FN6N_u-jzsLRsJ6-s",
+    "selfAccess": false,
+    "sessionId": null
 }

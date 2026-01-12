@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0GnbiSG4u5t3N-L1tMFt9Al6ggutd5iUGfua43JzdEF_g05YJZX55BitvckBMiqmCGAyAgrARDWrKQQx-rICpamGS3BvItBErkx4yQbAPVoOqFP2atxtu8tDkDn6TVfXkokG8F_tmApTXec~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "787b1ebc4a39ed9703R62dy8GVpY",
-      "encryptUserId": "2d29d1c64e4f62070XF63961EFZY",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位说明\n1.设计和执行测试用例，包括功能测试、性能测试、兼容性测试等。 \n2.编写和维护测试计划和测试报告，详细记录测试结果和问题。 \n3.与开发团队紧密合作，提供有效的反馈和建议，协助修复软件中的缺陷。 \n4.参与软件需求评审和设计评审，确保测试工作的全面性和有效性。 \n5.跟踪和评估测试进度，及时报告问题和风险。\n\n任职要求\n1.计算机科学、软件工程或相关专业专科或以上学历。 \n2.至少2年以上软件测试工作经验，熟悉软件测试流程和测试方法。 \n3.具备良好的问题分析和解决能力，能独立编写测试计划和测试用例。 \n4.具有良好的团队合作精神和沟通能力，能与开发团队有效协作。\n5.会使用SQL进行简单的数据库查询者优先。",
-      "encryptAddressId": "3c98fb9ef24c5d281nBz2tW1F1dQwou_VPiW",
-      "address": "杭州余杭区国立西溪双创园b座309",
-      "longitude": 120.038728,
-      "latitude": 30.251474,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240713/48ba41acc9cef1bfcbeda79c557f77143d825872810ea0736bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240713/48ba41acc9cef1bf47dfe7a641cc0e1d298abc2bb0d64c136bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "姚先生",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "圈内时代",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "91d40f62af253dc01Hx52di6FlA~",
-      "brandName": "圈内时代",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100806,
-      "industryName": "汽车经销商",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731935815685,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "圈内时代",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "圈内时代",
+        "certificated": true,
+        "large": null,
+        "name": "姚先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1731935815685,
+        "brandName": "圈内时代",
+        "customerBrandName": "圈内时代",
+        "customerBrandStageName": "",
+        "encryptBrandId": "91d40f62af253dc01Hx52di6FlA~",
+        "focusBrand": false,
+        "industry": 100806,
+        "industryName": "汽车经销商",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区国立西溪双创园b座309",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3c98fb9ef24c5d281nBz2tW1F1dQwou_VPiW",
+        "encryptId": "787b1ebc4a39ed9703R62dy8GVpY",
+        "encryptUserId": "2d29d1c64e4f62070XF63961EFZY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.251474,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.038728,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240713/48ba41acc9cef1bf47dfe7a641cc0e1d298abc2bb0d64c136bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位说明\n1.设计和执行测试用例，包括功能测试、性能测试、兼容性测试等。 \n2.编写和维护测试计划和测试报告，详细记录测试结果和问题。 \n3.与开发团队紧密合作，提供有效的反馈和建议，协助修复软件中的缺陷。 \n4.参与软件需求评审和设计评审，确保测试工作的全面性和有效性。 \n5.跟踪和评估测试进度，及时报告问题和风险。\n\n任职要求\n1.计算机科学、软件工程或相关专业专科或以上学历。 \n2.至少2年以上软件测试工作经验，熟悉软件测试流程和测试方法。 \n3.具备良好的问题分析和解决能力，能独立编写测试计划和测试用例。 \n4.具有良好的团队合作精神和沟通能力，能与开发团队有效协作。\n5.会使用SQL进行简单的数据库查询者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240713/48ba41acc9cef1bfcbeda79c557f77143d825872810ea0736bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0GnbiSG4u5t3N-L1tMFt9Al6ggutd5iUGfua43JzdEF_g05YJZX55BitvckBMiqmCGAyAgrARDWrKQQx-rICpamGS3BvItBErkx4yQbAPVoOqFP2atxtu8tDkDn6TVfXkokG8F_tmApTXec~",
+    "selfAccess": false,
+    "sessionId": null
 }

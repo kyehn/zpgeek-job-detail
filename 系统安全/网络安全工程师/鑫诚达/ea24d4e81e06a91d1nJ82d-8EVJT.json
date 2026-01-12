@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "nqyddq96rpaFt-y103b-H49TkdSa9lI5PLxkFK5Bx00YRkN1WhUelFNRD6Iyc5IbtbNoKC4ayEsGcuoyQw55qc_lDa8R_3jN7QpSVaQyRJv7LGk8sKfW",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ea24d4e81e06a91d1nJ82d-8EVJT",
-      "encryptUserId": "154d47cb215e87a01nZ629y6F1tQ",
-      "invalidStatus": false,
-      "jobName": "网络安全工程师",
-      "position": 100408,
-      "positionName": "系统安全",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "精通华为、锐捷、H3C全系列设备调试部署，路由器、核心三层交换机、二层交换机、防火墙命令调试部署以及华为设备命令调试部署，能独立完成配置和架构图总结；有一定的实战经验；",
-      "encryptAddressId": "0ffbc18ecd32a6030nx-2tu0EA~~",
-      "address": "苏州吴中区和泰都市生活广场1幢737室",
-      "longitude": 120.715155,
-      "latitude": 31.363038,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04624f3ae9382c90aab3423feef27828",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd50150d5db3b35325c6070007122c6f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维通信资格证书",
-        "网络工程师证",
-        "SQL Server",
-        "数据安全",
-        "信息安全",
-        "网络安全",
-        "RHCA",
-        "CCNA证书"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "程序员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd05bfcd856413beccec7b5e22ac41410c9bcf685024cfeb9e46e4002f56202ec1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "鑫诚达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "19e7ca984f71ea921nR92dq0GFc~",
-      "brandName": "鑫诚达",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "软件开发企业",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "员工旅游",
-        "餐补"
-      ],
-      "activeTime": 1725320246471,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鑫诚达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鑫诚达",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd05bfcd856413beccec7b5e22ac41410c9bcf685024cfeb9e46e4002f56202ec1_b.jpg",
+        "title": "程序员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725320246471,
+        "brandName": "鑫诚达",
+        "customerBrandName": "鑫诚达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "19e7ca984f71ea921nR92dq0GFc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "软件开发企业",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "员工旅游",
+            "餐补"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区和泰都市生活广场1幢737室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "0ffbc18ecd32a6030nx-2tu0EA~~",
+        "encryptId": "ea24d4e81e06a91d1nJ82d-8EVJT",
+        "encryptUserId": "154d47cb215e87a01nZ629y6F1tQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "网络安全工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.363038,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.715155,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd50150d5db3b35325c6070007122c6f",
+        "position": 100408,
+        "positionName": "系统安全",
+        "postDescription": "精通华为、锐捷、H3C全系列设备调试部署，路由器、核心三层交换机、二层交换机、防火墙命令调试部署以及华为设备命令调试部署，能独立完成配置和架构图总结；有一定的实战经验；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "运维通信资格证书",
+            "网络工程师证",
+            "SQL Server",
+            "数据安全",
+            "信息安全",
+            "网络安全",
+            "RHCA",
+            "CCNA证书"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04624f3ae9382c90aab3423feef27828"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "nqyddq96rpaFt-y103b-H49TkdSa9lI5PLxkFK5Bx00YRkN1WhUelFNRD6Iyc5IbtbNoKC4ayEsGcuoyQw55qc_lDa8R_3jN7QpSVaQyRJv7LGk8sKfW",
+    "selfAccess": false,
+    "sessionId": null
 }

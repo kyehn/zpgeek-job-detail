@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VoIUml3mES6gK-o1cQhUAeo77yVno5WPRnwwVsSIuQpNRm3MSgrqjhE8yhOuWKpPUxAeQGkELoj3M1AFTD1lUsqQww4KItwwTIXNcjQ8f_HW-cH3jjZT",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c49a9f4c147542e71nJ_2t27GFZR",
-      "encryptUserId": "85f52bb5be9205370nd90tW9EVRS",
-      "invalidStatus": false,
-      "jobName": "通信技术工程师",
-      "position": 101001,
-      "positionName": "通信技术工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "单片机软件专业、电子通讯专业、机电一体化专业。从事射频器件的研发与设计。工作经验不限，可从零基础培养应届毕业生。",
-      "encryptAddressId": "1c7c9e16eeea849a03x72N-4GQ~~",
-      "address": "武汉江夏区长城创新科技园8号知源楼A座302",
-      "longitude": 114.392123,
-      "latitude": 30.451402,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cda8d38eeeb505bf064ec5a1f8a94a4e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89083d7cc4c92e3b9c0fc5297e43735a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络维护",
-        "无线通信",
-        "传输线路设计",
-        "C++",
-        "C语言"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "夏女士",
-      "title": "人力资源",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "力海",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "daa07c48bd8769931nNz2di0E1Q~",
-      "brandName": "力海",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725373833071,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "力海",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "力海",
+        "certificated": true,
+        "large": null,
+        "name": "夏女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人力资源"
+    },
+    "brandComInfo": {
+        "activeTime": 1725373833071,
+        "brandName": "力海",
+        "customerBrandName": "力海",
+        "customerBrandStageName": "",
+        "encryptBrandId": "daa07c48bd8769931nNz2di0E1Q~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区长城创新科技园8号知源楼A座302",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1c7c9e16eeea849a03x72N-4GQ~~",
+        "encryptId": "c49a9f4c147542e71nJ_2t27GFZR",
+        "encryptUserId": "85f52bb5be9205370nd90tW9EVRS",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "通信技术工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.451402,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.392123,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89083d7cc4c92e3b9c0fc5297e43735a",
+        "position": 101001,
+        "positionName": "通信技术工程师",
+        "postDescription": "单片机软件专业、电子通讯专业、机电一体化专业。从事射频器件的研发与设计。工作经验不限，可从零基础培养应届毕业生。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "网络维护",
+            "无线通信",
+            "传输线路设计",
+            "C++",
+            "C语言"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cda8d38eeeb505bf064ec5a1f8a94a4e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VoIUml3mES6gK-o1cQhUAeo77yVno5WPRnwwVsSIuQpNRm3MSgrqjhE8yhOuWKpPUxAeQGkELoj3M1AFTD1lUsqQww4KItwwTIXNcjQ8f_HW-cH3jjZT",
+    "selfAccess": false,
+    "sessionId": null
 }

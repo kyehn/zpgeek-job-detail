@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BzlcxHi7tKMaG-i15aQQAnjGOrov5nV0r2KEpYN9oWwQrk5ZmoQLrOIRTd92zXiVH3QAAKeJNP0cFxLh5Aa4orfbqGaKiL-DrIfsvKHEJYoVnk0anby8-GLeBDDKUsgC1s7AsFEGQkK9W4YSx5uASLnxGfeA0ihZcIOaY80MfJm93dDZ-F2e30S7cxyK5gesaKLLWEN3Ad8wKDIDtYGookMOdA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d9321b04a5db788203Ry2tq7EFtY",
-      "encryptUserId": "c555df83451841ce1nZ62dy1FFVW",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责公司在线监测平台测试，服务器组件安装; \n2.负责公司监测设备升级版测试，硬件测试;\n3.编写测试报告;\n4.协助研发与售后协调.\n\n任职要求：\n1.熟悉linux基本命令;\n2.会一门开发语言基础知识;\n3.熟练使用windows操作系统;\n4.了解基本的安防领域知识;\n5.文档撰写能力，熟练word  ppt;\n6.性格开朗，较好的语言表达及沟通能力。",
-      "encryptAddressId": "67de7721d3a14a8533Z53t61GFI~",
-      "address": "深圳光明区宝新科技园4号楼B座915",
-      "longitude": 113.938839,
-      "latitude": 22.740057,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/900f0e963cb435a70443d6af819e55b2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a8baf24abf3a82a8b7af40b98760e8d",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "功能测试",
-        "计算机相关专业",
-        "掌握软件测试理论和流程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "研迪数字",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cd29b999154fa9411XR73dW7GFQ~",
-      "brandName": "研迪数字",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220106/7b5b554d84f9729c14d7965dd01f654afc185b88bb970d9a3e5f07e610339a152ac7113152dbf73d.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "欢迎加入我们这个团队！\n    深圳市研迪数字技术有限公司（以下简称：研迪数字）成立于2015年，是一家专业从事研发生产智能电网变电、输电、配电领域相关产品的高科技企业。公司自主研发生产的行业产品系列主要包括：输变电线路视频与图像在线监测装置，“三跨”视频在线监测装置，4G无线视频监控主机等。\n\n    公司坚持科学发展观，走可持续发展的道路。自主研发了多款型号的智能电网监测系统产品，其中视频与图像在线监测设备，以低功耗，具备灾备系统，高可靠性的强大优势，颠覆了以往系统有效在线率低，维修成本极高的痛点问题，并成功应用于国家电网，南方电网。\n\n    秉承“同心同力 共赢未来”的企业经营理念，研迪数字组建了一只极富开拓精神的创新团队，吸引了一批高校的人才，致力于智能电网产品事业，不断创新，向着远大的目标扬帆起航，共创共赢美好未来。",
-      "labels": [
-        "零食下午茶",
-        "全勤奖",
-        "加班补助",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1735182807864,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "研迪数字",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "研迪数字",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1735182807864,
+        "brandName": "研迪数字",
+        "customerBrandName": "研迪数字",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "cd29b999154fa9411XR73dW7GFQ~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "欢迎加入我们这个团队！\n    深圳市研迪数字技术有限公司（以下简称：研迪数字）成立于2015年，是一家专业从事研发生产智能电网变电、输电、配电领域相关产品的高科技企业。公司自主研发生产的行业产品系列主要包括：输变电线路视频与图像在线监测装置，“三跨”视频在线监测装置，4G无线视频监控主机等。\n\n    公司坚持科学发展观，走可持续发展的道路。自主研发了多款型号的智能电网监测系统产品，其中视频与图像在线监测设备，以低功耗，具备灾备系统，高可靠性的强大优势，颠覆了以往系统有效在线率低，维修成本极高的痛点问题，并成功应用于国家电网，南方电网。\n\n    秉承“同心同力 共赢未来”的企业经营理念，研迪数字组建了一只极富开拓精神的创新团队，吸引了一批高校的人才，致力于智能电网产品事业，不断创新，向着远大的目标扬帆起航，共创共赢美好未来。",
+        "labels": [
+            "零食下午茶",
+            "全勤奖",
+            "加班补助",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220106/7b5b554d84f9729c14d7965dd01f654afc185b88bb970d9a3e5f07e610339a152ac7113152dbf73d.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳光明区宝新科技园4号楼B座915",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "67de7721d3a14a8533Z53t61GFI~",
+        "encryptId": "d9321b04a5db788203Ry2tq7EFtY",
+        "encryptUserId": "c555df83451841ce1nZ62dy1FFVW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.740057,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.938839,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a8baf24abf3a82a8b7af40b98760e8d",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1.负责公司在线监测平台测试，服务器组件安装; \n2.负责公司监测设备升级版测试，硬件测试;\n3.编写测试报告;\n4.协助研发与售后协调.\n\n任职要求：\n1.熟悉linux基本命令;\n2.会一门开发语言基础知识;\n3.熟练使用windows操作系统;\n4.了解基本的安防领域知识;\n5.文档撰写能力，熟练word  ppt;\n6.性格开朗，较好的语言表达及沟通能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K",
+        "showSkills": [
+            "测试工作经验",
+            "功能测试",
+            "计算机相关专业",
+            "掌握软件测试理论和流程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/900f0e963cb435a70443d6af819e55b2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BzlcxHi7tKMaG-i15aQQAnjGOrov5nV0r2KEpYN9oWwQrk5ZmoQLrOIRTd92zXiVH3QAAKeJNP0cFxLh5Aa4orfbqGaKiL-DrIfsvKHEJYoVnk0anby8-GLeBDDKUsgC1s7AsFEGQkK9W4YSx5uASLnxGfeA0ihZcIOaY80MfJm93dDZ-F2e30S7cxyK5gesaKLLWEN3Ad8wKDIDtYGookMOdA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

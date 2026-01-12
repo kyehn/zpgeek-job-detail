@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Ns8ym3t1KxZd3-Q1Xh21ihX6Ug8Sw0zpdm9lbk7xGpV-y-wjLWGkI9sCzTOCb2Iv3q94fdxrPEJXJC1Y2ofj4syf5Uwtjjc5f-aNvjgzInXCA4V9LPRB",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d5a76a8bf6fb1c721HN60tm6GFJW",
-      "encryptUserId": "12b3b0e4aafd183a0n1_2t25ElRW",
-      "invalidStatus": false,
-      "jobName": "java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "mes开发，出差做项目。",
-      "encryptAddressId": "afa5eab1ad7e9f571nZ629q8GVZS",
-      "address": "青岛黄岛区和昌海云曦岸9",
-      "longitude": 120.052882,
-      "latitude": 35.866794,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230811/48ba41acc9cef1bf52db006233d6afe51d65fedf2776f9c06bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230811/48ba41acc9cef1bf8904ad0a7ae2911ee07f0c6c9bb481c16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "SpringCloud",
-        "MySQL",
-        "SQL Server"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "部门主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "泽彬",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c291299bc2c550f81XJz09q_E1Y~",
-      "brandName": "泽彬",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722509788253,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "泽彬",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "泽彬",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "部门主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1722509788253,
+        "brandName": "泽彬",
+        "customerBrandName": "泽彬",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c291299bc2c550f81XJz09q_E1Y~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛黄岛区和昌海云曦岸9",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "afa5eab1ad7e9f571nZ629q8GVZS",
+        "encryptId": "d5a76a8bf6fb1c721HN60tm6GFJW",
+        "encryptUserId": "12b3b0e4aafd183a0n1_2t25ElRW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.866794,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.052882,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230811/48ba41acc9cef1bf8904ad0a7ae2911ee07f0c6c9bb481c16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "mes开发，出差做项目。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "SpringCloud",
+            "MySQL",
+            "SQL Server"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230811/48ba41acc9cef1bf52db006233d6afe51d65fedf2776f9c06bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Ns8ym3t1KxZd3-Q1Xh21ihX6Ug8Sw0zpdm9lbk7xGpV-y-wjLWGkI9sCzTOCb2Iv3q94fdxrPEJXJC1Y2ofj4syf5Uwtjjc5f-aNvjgzInXCA4V9LPRB",
+    "selfAccess": false,
+    "sessionId": null
 }

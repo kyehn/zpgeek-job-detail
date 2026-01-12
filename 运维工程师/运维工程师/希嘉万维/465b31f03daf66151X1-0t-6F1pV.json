@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "meHWMKOGvRwDZ-J1hSjVPBqJBHstWZC-SBm4EdBIXZYS-LcwW4Ge1FdGU4Y7csXntywapBr3qtYBoXFiGW_oGZZh-dTDv6x0EPpTeSA-pCj6nqoP3PA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "465b31f03daf66151X1-0t-6F1pV",
-      "encryptUserId": "0e63f0934df688fe0nZ73d-8GVpU",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "LINUX工程师，有数据库基础能力",
-      "encryptAddressId": "8150d8fb44238c7503N609i8GVs~",
-      "address": "武汉洪山区中南民族大学国家级科技企业孵化器208",
-      "longitude": 114.396928,
-      "latitude": 30.495178,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d17befd3506ebbde09a4e55d6b74eaf9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5cac4900abc4add2c2b2cdc0e54f1e1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "MySQL/Oracle",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "副总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "希嘉万维",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6689e4777ea32d6d0XN83Nm-Eg~~",
-      "brandName": "希嘉万维",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200511/4d6c86eb66afbf1802cc368b61379e8e4d3cfd2dd24ab8a3e1a3a8057b396104.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "武汉希嘉万维科技有限公司，位于中南民族大学国家级孵化器的一家专注高教行业信息化解决方案供应商，自2009年成立，致力于武汉高校IT建设的咨询、解决方案、设备供应、工程实施。目前主要服务于武汉部委属高校（武汉大学、华中科技大学、武汉理工大学、华中师范大学、中国地质大学、华中农业大学、中南民族大学、中南财经政法大学），目前在武汉大学、武汉理工、华师、华农、地大、民大、财大均有3-7人的驻场服务团队，提供网络、数据中心、高性能、云平台、信息安全等方面的即时服务。\n\n目前与国内多个一流IT厂家深度合作，并获取了相关资质，包括华为教育行业优选合作伙伴、HP教育行业金牌代理、绿盟金牌代理、网域星云金牌代理、阿里云优选伙伴、浪潮等，在武汉大学、华农、华师、民大均有高性能、超算、云计算等合作案例落地，并取得用户一致好评。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "带薪年假",
-        "实习生租房"
-      ],
-      "activeTime": 1723751083602,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "希嘉万维",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "希嘉万维",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "副总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723751083602,
+        "brandName": "希嘉万维",
+        "customerBrandName": "希嘉万维",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "6689e4777ea32d6d0XN83Nm-Eg~~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "武汉希嘉万维科技有限公司，位于中南民族大学国家级孵化器的一家专注高教行业信息化解决方案供应商，自2009年成立，致力于武汉高校IT建设的咨询、解决方案、设备供应、工程实施。目前主要服务于武汉部委属高校（武汉大学、华中科技大学、武汉理工大学、华中师范大学、中国地质大学、华中农业大学、中南民族大学、中南财经政法大学），目前在武汉大学、武汉理工、华师、华农、地大、民大、财大均有3-7人的驻场服务团队，提供网络、数据中心、高性能、云平台、信息安全等方面的即时服务。\n\n目前与国内多个一流IT厂家深度合作，并获取了相关资质，包括华为教育行业优选合作伙伴、HP教育行业金牌代理、绿盟金牌代理、网域星云金牌代理、阿里云优选伙伴、浪潮等，在武汉大学、华农、华师、民大均有高性能、超算、云计算等合作案例落地，并取得用户一致好评。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "带薪年假",
+            "实习生租房"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200511/4d6c86eb66afbf1802cc368b61379e8e4d3cfd2dd24ab8a3e1a3a8057b396104.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区中南民族大学国家级科技企业孵化器208",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8150d8fb44238c7503N609i8GVs~",
+        "encryptId": "465b31f03daf66151X1-0t-6F1pV",
+        "encryptUserId": "0e63f0934df688fe0nZ73d-8GVpU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.495178,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.396928,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5cac4900abc4add2c2b2cdc0e54f1e1",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "LINUX工程师，有数据库基础能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "网络运维",
+            "MySQL/Oracle",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d17befd3506ebbde09a4e55d6b74eaf9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "meHWMKOGvRwDZ-J1hSjVPBqJBHstWZC-SBm4EdBIXZYS-LcwW4Ge1FdGU4Y7csXntywapBr3qtYBoXFiGW_oGZZh-dTDv6x0EPpTeSA-pCj6nqoP3PA~",
+    "selfAccess": false,
+    "sessionId": null
 }

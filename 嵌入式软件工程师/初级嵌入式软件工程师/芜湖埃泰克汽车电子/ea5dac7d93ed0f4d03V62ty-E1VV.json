@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mGOSkgYHmL4iy-o1SpgsX4qttkP0673jKKBYv6mYUbrAyIPS3OX-q6VSAkB5AWwVVMLC_8kehvX_6OUPXvuHLHHjSgZbwq6zqku2wwMOZVWWtFl5QgzF_d3aIw-EAcaBiScmWbkeUXoxRPWyZyUsJqfE0DUEMw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ea5dac7d93ed0f4d03V62ty-E1VV",
-      "encryptUserId": "23ba3ddf121548d30nR72NW7E1FY",
-      "invalidStatus": false,
-      "jobName": "初级嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.参与客户讨论，确定相关需求，解决客户提出的开发问题\n2.负责Autosar模块配置、开发、测试与维护\n\n任职要求：\n1. 熟练掌握嵌入式C语言编程，熟悉V型开发流程\n2. 具有一年以上汽车行业经验，从事过AUTOSAR相关项目，能熟练使用嵌入式相关编译器、调试器、CANoe等工具\n3. 有Vector、Etas、EB、恒润、普华、Nuesar等工具链配置经验\n4. 熟悉Infineon/Renesas/NXP/ST等一种车用单片机\n5. 接触过至少一种实时操作系统（如Autosar OS、FreeRtos、RT-Thread等）\n6. 具备团队协作以及良好的沟通能力\n7. 能满足如下要求中的一项，满足多项则更佳：\n7.1 熟悉CAN诊断，熟悉autosar dcm 、dem模块，有UDS诊断服务配置、开发经验\n7.2 熟悉CAN通信，熟悉autosar com协议栈，有com协议栈的配置、开发经验 \n7.3 熟悉模式管理模块，有NM、BswM、ComM、EcuM等配置、开发经验",
-      "encryptAddressId": "8d3611a672dc35f21nJ80t20FlRWwoS8VPKa",
-      "address": "武汉江夏区光谷科技港13栋",
-      "longitude": 114.399774,
-      "latitude": 30.456156,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf8b3ea5cff3db5f31403f27094e3064136bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bffe3ad87e210bfecab260fb869b450b316bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "autosar"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "专家",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "芜湖埃泰克汽车电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "108d1e6a541f41341XF42t20FFs~",
-      "brandName": "芜湖埃泰克汽车电子",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735888888333,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "芜湖埃泰克汽车电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "芜湖埃泰克汽车电子",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "专家"
+    },
+    "brandComInfo": {
+        "activeTime": 1735888888333,
+        "brandName": "芜湖埃泰克汽车电子",
+        "customerBrandName": "芜湖埃泰克汽车电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "108d1e6a541f41341XF42t20FFs~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区光谷科技港13栋",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "8d3611a672dc35f21nJ80t20FlRWwoS8VPKa",
+        "encryptId": "ea5dac7d93ed0f4d03V62ty-E1VV",
+        "encryptUserId": "23ba3ddf121548d30nR72NW7E1FY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级嵌入式软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.456156,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.399774,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bffe3ad87e210bfecab260fb869b450b316bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "岗位职责：\n1.参与客户讨论，确定相关需求，解决客户提出的开发问题\n2.负责Autosar模块配置、开发、测试与维护\n\n任职要求：\n1. 熟练掌握嵌入式C语言编程，熟悉V型开发流程\n2. 具有一年以上汽车行业经验，从事过AUTOSAR相关项目，能熟练使用嵌入式相关编译器、调试器、CANoe等工具\n3. 有Vector、Etas、EB、恒润、普华、Nuesar等工具链配置经验\n4. 熟悉Infineon/Renesas/NXP/ST等一种车用单片机\n5. 接触过至少一种实时操作系统（如Autosar OS、FreeRtos、RT-Thread等）\n6. 具备团队协作以及良好的沟通能力\n7. 能满足如下要求中的一项，满足多项则更佳：\n7.1 熟悉CAN诊断，熟悉autosar dcm 、dem模块，有UDS诊断服务配置、开发经验\n7.2 熟悉CAN通信，熟悉autosar com协议栈，有com协议栈的配置、开发经验 \n7.3 熟悉模式管理模块，有NM、BswM、ComM、EcuM等配置、开发经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·14薪",
+        "showSkills": [
+            "autosar"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf8b3ea5cff3db5f31403f27094e3064136bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mGOSkgYHmL4iy-o1SpgsX4qttkP0673jKKBYv6mYUbrAyIPS3OX-q6VSAkB5AWwVVMLC_8kehvX_6OUPXvuHLHHjSgZbwq6zqku2wwMOZVWWtFl5QgzF_d3aIw-EAcaBiScmWbkeUXoxRPWyZyUsJqfE0DUEMw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

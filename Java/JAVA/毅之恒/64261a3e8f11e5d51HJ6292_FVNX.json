@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8k3R9LA6VICCw-41zAZgg1XARl9Ez_SloAUi-t0oJg4eYL6vGwL9NfuWZ_mTEBfSYbRQZuttQ-nhK0A_Ebjh8Oc8_ZE-z40GeVdn5sOHTLwfHQFEfGjs",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "64261a3e8f11e5d51HJ6292_FVNX",
-      "encryptUserId": "4d03e3be212183410nN_39i5EFpV",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101180100,
-      "locationName": "郑州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "Java开发\n一、岗位优势：\n1.薪酬组成：基本薪资+绩效奖金+五险一金+项目奖。其中基本薪资6-10k,年综合收入15W以上。\n2.职业规划：公司理念“能者居之”，发展方向为开发经理、部门经理及业务线总经理。\n3.资源优势：公司为有志之士提供客户资源。\n二、岗位职责：\n1、参加基于Java技术的项目开发； \n2、参与系统分析与设计，并负责完成项目模块核心代码开发； \n3、根据开发规范与流程在产品框架基础上独立完成模块的设计、编码、测试以及相关文档； \n4、能独立解决开发中遇到的难点问题； \n5、负责开发过程中相关新技术的研究和验证。 \n三、任职要求： \n1、计算机相关专业，本科以上学历（学信网可查）硬性要求，2年及以上Java开发经验；\n2、Java基础扎实，对java语言规范有深刻理解 ；\n3、熟悉软件技术文档的编写，具备良好的文档编制习惯和代码书写规范； \n4、熟悉javascript、html/xhtml、xml、CSS、AJAX等技术； \n5、熟悉Spring boot,Spring Cloud, hibernate、SpringMvc等主流的开发框架； \n6、熟悉MySQL、 Oracle、sqlServer等数据库，有mysql优化经验者优先； \n7、熟悉SpringCloudAlibaba、filnk、tidb、dbswitch、neo4j 等开发，有大数据经验着优先；\n7、掌握常用的开发工具，如idea，eclipse，maven，git，svn等； \n8、熟练Linux操作系统基本操作命令，熟悉dubbo,redis、MQ、 等常用中间件; \n9、具有较强的学习、分析问题解决问题的能力，具有良好的团队合作精神及灵活的沟通的能力。",
-      "encryptAddressId": "7ea662c11620c24e0Hd93di7GFZUx4i-Wf0~",
-      "address": "郑州中原区联东U谷智测产业园一号楼北侧10楼",
-      "longitude": 113.501817,
-      "latitude": 34.836953,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf405b3af1fbad7db5fb7c0b929a47463c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf9e61caac6f2e12593b291b0e779b2d8b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "物联网经验",
-        "大数据经验",
-        "Hibernate",
-        "不接受居家办公",
-        "SpringCloud",
-        "MySQL",
-        "SQL Server",
-        "Spring",
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "毅之恒",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1cf739b5a6c97a631Xd839u8F1c~",
-      "brandName": "毅之恒",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "郑州毅之恒电子科技有限公司，成立于2018年，总部位于河南省郑州市高新区莲花街与健杨路联东Ｕ谷.高新国际企业港一期1＃10-1。作为一个需求驱动型企业，主要业务涉及计算装备、物联网、大数据、人工智能、辅助决策、信息系统及若干应用场景。致力于为客户提供高品质、创新性和可靠性的软硬件解决方案。",
-      "labels": [
-        "交通补助",
-        "全勤奖",
-        "底薪加提成",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1725618551283,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "毅之恒",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "毅之恒",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725618551283,
+        "brandName": "毅之恒",
+        "customerBrandName": "毅之恒",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "1cf739b5a6c97a631Xd839u8F1c~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "郑州毅之恒电子科技有限公司，成立于2018年，总部位于河南省郑州市高新区莲花街与健杨路联东Ｕ谷.高新国际企业港一期1＃10-1。作为一个需求驱动型企业，主要业务涉及计算装备、物联网、大数据、人工智能、辅助决策、信息系统及若干应用场景。致力于为客户提供高品质、创新性和可靠性的软硬件解决方案。",
+        "labels": [
+            "交通补助",
+            "全勤奖",
+            "底薪加提成",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "郑州中原区联东U谷智测产业园一号楼北侧10楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7ea662c11620c24e0Hd93di7GFZUx4i-Wf0~",
+        "encryptId": "64261a3e8f11e5d51HJ6292_FVNX",
+        "encryptUserId": "4d03e3be212183410nN_39i5EFpV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.836953,
+        "location": 101180100,
+        "locationName": "郑州",
+        "longitude": 113.501817,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf9e61caac6f2e12593b291b0e779b2d8b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "Java开发\n一、岗位优势：\n1.薪酬组成：基本薪资+绩效奖金+五险一金+项目奖。其中基本薪资6-10k,年综合收入15W以上。\n2.职业规划：公司理念“能者居之”，发展方向为开发经理、部门经理及业务线总经理。\n3.资源优势：公司为有志之士提供客户资源。\n二、岗位职责：\n1、参加基于Java技术的项目开发； \n2、参与系统分析与设计，并负责完成项目模块核心代码开发； \n3、根据开发规范与流程在产品框架基础上独立完成模块的设计、编码、测试以及相关文档； \n4、能独立解决开发中遇到的难点问题； \n5、负责开发过程中相关新技术的研究和验证。 \n三、任职要求： \n1、计算机相关专业，本科以上学历（学信网可查）硬性要求，2年及以上Java开发经验；\n2、Java基础扎实，对java语言规范有深刻理解 ；\n3、熟悉软件技术文档的编写，具备良好的文档编制习惯和代码书写规范； \n4、熟悉javascript、html/xhtml、xml、CSS、AJAX等技术； \n5、熟悉Spring boot,Spring Cloud, hibernate、SpringMvc等主流的开发框架； \n6、熟悉MySQL、 Oracle、sqlServer等数据库，有mysql优化经验者优先； \n7、熟悉SpringCloudAlibaba、filnk、tidb、dbswitch、neo4j 等开发，有大数据经验着优先；\n7、掌握常用的开发工具，如idea，eclipse，maven，git，svn等； \n8、熟练Linux操作系统基本操作命令，熟悉dubbo,redis、MQ、 等常用中间件; \n9、具有较强的学习、分析问题解决问题的能力，具有良好的团队合作精神及灵活的沟通的能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Java",
+            "物联网经验",
+            "大数据经验",
+            "Hibernate",
+            "不接受居家办公",
+            "SpringCloud",
+            "MySQL",
+            "SQL Server",
+            "Spring",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf405b3af1fbad7db5fb7c0b929a47463c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8k3R9LA6VICCw-41zAZgg1XARl9Ez_SloAUi-t0oJg4eYL6vGwL9NfuWZ_mTEBfSYbRQZuttQ-nhK0A_Ebjh8Oc8_ZE-z40GeVdn5sOHTLwfHQFEfGjs",
+    "selfAccess": false,
+    "sessionId": null
 }

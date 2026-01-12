@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "r5xEumzNMlTBV-q1WvPqtxFvT-mM5EHgaL9Ugyktj1JxWw2zx7k4WXnd3kPo6wRm1pZ_JngNvRx97_Z-N7oqghnxOPz0Z6xbr_woAjnbOZ2vjxU1ufB7Q_xIthphX0IH8oOjoHfnlxY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "305fcce4a43f11e303d-39m5EFE~",
-      "encryptUserId": "aa56ce422ee663d70nZ53tm6FFM~",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-7K",
-      "payTypeDesc": null,
-      "postDescription": "进行相关数据的统计分析工作",
-      "encryptAddressId": "2ebfed8679feb8cb1XBy2tS6F1s~",
-      "address": "南京鼓楼区鼓楼区",
-      "longitude": 118.7698,
-      "latitude": 32.06634,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab83f647e2aa2a51ea316020f5cfcccb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccd7f68e3b8eeb2237dedb22c8134e67",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "金心阳",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8243b44bb701bc481Hd93N6_GQ~~",
-      "brandName": "金心阳",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100012,
-      "industryName": "在线教育",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725461298822,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金心阳",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金心阳",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725461298822,
+        "brandName": "金心阳",
+        "customerBrandName": "金心阳",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8243b44bb701bc481Hd93N6_GQ~~",
+        "focusBrand": false,
+        "industry": 100012,
+        "industryName": "在线教育",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京鼓楼区鼓楼区",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2ebfed8679feb8cb1XBy2tS6F1s~",
+        "encryptId": "305fcce4a43f11e303d-39m5EFE~",
+        "encryptUserId": "aa56ce422ee663d70nZ53tm6FFM~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.06634,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.7698,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccd7f68e3b8eeb2237dedb22c8134e67",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "进行相关数据的统计分析工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-7K",
+        "showSkills": [
+            "数据分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab83f647e2aa2a51ea316020f5cfcccb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "r5xEumzNMlTBV-q1WvPqtxFvT-mM5EHgaL9Ugyktj1JxWw2zx7k4WXnd3kPo6wRm1pZ_JngNvRx97_Z-N7oqghnxOPz0Z6xbr_woAjnbOZ2vjxU1ufB7Q_xIthphX0IH8oOjoHfnlxY~",
+    "selfAccess": false,
+    "sessionId": null
 }

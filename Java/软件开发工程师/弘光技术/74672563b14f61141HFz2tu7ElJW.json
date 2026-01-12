@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zdlmRfl4iPoyK-61ED4u8hVZIHtx7DAN7mGzIUfM2jKlBOluC2TvCNoyLoUg6lBntNcaWbBwGdayz29eG4r0X9Yu8ibtLrAGLKFGFaVHm0BvBJKh7tXW_X7E2cBR-h3uPBGaBugsAzx0",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "74672563b14f61141HFz2tu7ElJW",
-      "encryptUserId": "84e72df4097bbfe303J829-_FlI~",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "开发pc端界面软件。基本人机交互功能。",
-      "encryptAddressId": "7d0d2abbfccccf3e0nBz09q6GVNUwom3U_0~",
-      "address": "武汉江夏区隆越大厦6楼",
-      "longitude": 114.436764,
-      "latitude": 30.482156,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf2a3fddca3ce77d24b79e7b05786413946bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf6723a79f43293b2fa32cf223971a22ef6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "物联网经验",
-        "MySQL",
-        "其他",
-        "接受居家办公",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "耿先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "弘光技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f092563e50f954011Xx639u8Ew~~",
-      "brandName": "弘光技术",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "从事激光气体传感器，气体分析仪，环保监控系统，工业过程控制等设备的研发，生产，销售。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1725567441180,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "弘光技术",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "弘光技术",
+        "certificated": true,
+        "large": null,
+        "name": "耿先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725567441180,
+        "brandName": "弘光技术",
+        "customerBrandName": "弘光技术",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f092563e50f954011Xx639u8Ew~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "从事激光气体传感器，气体分析仪，环保监控系统，工业过程控制等设备的研发，生产，销售。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区隆越大厦6楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7d0d2abbfccccf3e0nBz09q6GVNUwom3U_0~",
+        "encryptId": "74672563b14f61141HFz2tu7ElJW",
+        "encryptUserId": "84e72df4097bbfe303J829-_FlI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.482156,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.436764,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf6723a79f43293b2fa32cf223971a22ef6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "开发pc端界面软件。基本人机交互功能。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K·13薪",
+        "showSkills": [
+            "Java",
+            "物联网经验",
+            "MySQL",
+            "其他",
+            "接受居家办公",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf2a3fddca3ce77d24b79e7b05786413946bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zdlmRfl4iPoyK-61ED4u8hVZIHtx7DAN7mGzIUfM2jKlBOluC2TvCNoyLoUg6lBntNcaWbBwGdayz29eG4r0X9Yu8ibtLrAGLKFGFaVHm0BvBJKh7tXW_X7E2cBR-h3uPBGaBugsAzx0",
+    "selfAccess": false,
+    "sessionId": null
 }

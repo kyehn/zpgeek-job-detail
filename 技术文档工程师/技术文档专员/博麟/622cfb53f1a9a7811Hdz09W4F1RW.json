@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "G6SuRn74cDwvo-z1OPyAcLTpUFxIjFY-O0C7sGw4DLd2CuNq7rr6GpRWTc4Sp1c_rlAwDrf8k0yv0RGjvJmlWBWWRJgQ2Mliy8-tuENII-9dfkCdXtKiI8iaQPU4isGWM--25zSOt2I7n6w~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "622cfb53f1a9a7811Hdz09W4F1RW",
-      "encryptUserId": "c4bab0e0ffba93560nd529q8GFVZ",
-      "invalidStatus": false,
-      "jobName": "技术文档专员",
-      "position": 100410,
-      "positionName": "技术文档工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责公司项目各类技术文档的输出，包括但不限于售前技术支持文档、投标相关文档、项目各类交付文档、验收文档等；\n2、负责公司各项目文档的归档与整理；\n3、负责公司各项目进度的管控、协助项目经理跟进各类日报、周报等工作；",
-      "encryptAddressId": "c82d55c69d2327541nB92NW_ElFY",
-      "address": "北京海淀区京仪科技大厦D座-2012",
-      "longitude": 116.337687,
-      "latitude": 39.971673,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfa33bef1490b01244e2042ec1ee4026656bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf85bd5ae182b7cac4e2f7275f1deb15f46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "技术文档",
-        "管理助理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "博麟",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e95d3bf1434649491nN42dm0EVE~",
-      "brandName": "博麟",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725604974105,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "博麟",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "博麟",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725604974105,
+        "brandName": "博麟",
+        "customerBrandName": "博麟",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e95d3bf1434649491nN42dm0EVE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区京仪科技大厦D座-2012",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c82d55c69d2327541nB92NW_ElFY",
+        "encryptId": "622cfb53f1a9a7811Hdz09W4F1RW",
+        "encryptUserId": "c4bab0e0ffba93560nd529q8GFVZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "技术文档专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.971673,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.337687,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf85bd5ae182b7cac4e2f7275f1deb15f46bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100410,
+        "positionName": "技术文档工程师",
+        "postDescription": "1、负责公司项目各类技术文档的输出，包括但不限于售前技术支持文档、投标相关文档、项目各类交付文档、验收文档等；\n2、负责公司各项目文档的归档与整理；\n3、负责公司各项目进度的管控、协助项目经理跟进各类日报、周报等工作；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "技术文档",
+            "管理助理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfa33bef1490b01244e2042ec1ee4026656bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "G6SuRn74cDwvo-z1OPyAcLTpUFxIjFY-O0C7sGw4DLd2CuNq7rr6GpRWTc4Sp1c_rlAwDrf8k0yv0RGjvJmlWBWWRJgQ2Mliy8-tuENII-9dfkCdXtKiI8iaQPU4isGWM--25zSOt2I7n6w~",
+    "selfAccess": false,
+    "sessionId": null
 }

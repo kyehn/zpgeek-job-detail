@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wk9iejIuLGopE-Y1EQ2MCA25xRq7pu9gXZEXXTBd7WOiWybFwbEcFE7cMH4_NnSrnmFXy9SOxuR5yemRlMpbK9g7zpPImawTE3eJNIwHX65zVbTF0cZlJFVbEjOQdxDMlZgdQ8thMOsgJhU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "85b52b44bcf1a7061Hdz3d64E1NY",
-      "encryptUserId": "a6baf30b38cd56790Xd92dy8F1FX",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "13-14K",
-      "payTypeDesc": null,
-      "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解",
-      "encryptAddressId": "3d1356032db49c3f0nNz2dS5FlJTxo-5U_4~",
-      "address": "上海虹口区上海白玉兰广场1",
-      "longitude": 121.497798,
-      "latitude": 31.249051,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46835fec4a9f9c1491aa338262f4992f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7d9a5499321061d267836a1d35d98fb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "嘻码科技(北京)",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f7a188e795817d051Hd709m9EVE~",
-      "brandName": "嘻码科技(北京)",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240511/7bf6f160950405e9b2aaa7b4dc5121246c52ced6c359d58de7045fdde66f85901e016ca9092b1aad.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1724383756848,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "嘻码科技(北京)",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "嘻码科技(北京)",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1724383756848,
+        "brandName": "嘻码科技(北京)",
+        "customerBrandName": "嘻码科技(北京)",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f7a188e795817d051Hd709m9EVE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240511/7bf6f160950405e9b2aaa7b4dc5121246c52ced6c359d58de7045fdde66f85901e016ca9092b1aad.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海虹口区上海白玉兰广场1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3d1356032db49c3f0nNz2dS5FlJTxo-5U_4~",
+        "encryptId": "85b52b44bcf1a7061Hdz3d64E1NY",
+        "encryptUserId": "a6baf30b38cd56790Xd92dy8F1FX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.249051,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.497798,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7d9a5499321061d267836a1d35d98fb",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "13-14K",
+        "showSkills": [],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46835fec4a9f9c1491aa338262f4992f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wk9iejIuLGopE-Y1EQ2MCA25xRq7pu9gXZEXXTBd7WOiWybFwbEcFE7cMH4_NnSrnmFXy9SOxuR5yemRlMpbK9g7zpPImawTE3eJNIwHX65zVbTF0cZlJFVbEjOQdxDMlZgdQ8thMOsgJhU~",
+    "selfAccess": false,
+    "sessionId": null
 }

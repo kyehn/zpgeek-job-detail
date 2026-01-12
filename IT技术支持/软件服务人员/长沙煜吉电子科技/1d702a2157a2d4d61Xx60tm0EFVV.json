@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tmaQbXM5iWg2V-K1AksZkTGbklvGmJY3u3cQfnDjEsJ18p1ai2u5eJ8ZmK43rmtzUcwBL9Vg6ZjyX-J2_iswBJEJJZtOgqWISG_T9jZBewDlAkKI4Eg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d702a2157a2d4d61Xx60tm0EFVV",
-      "encryptUserId": "6e24b8b402a9554e0HJz2tm1FVc~",
-      "invalidStatus": false,
-      "jobName": "软件服务人员",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.测试公司软件系统，完善用户操作手册，解答用户使用过程的疑问。\n2.现场培训用户使用系统，收集用户反馈问题。\n3.根据业务编写及修改PPT进行演讲。\n4.有较强的沟通能力。\n\n福利待遇:\n\n本岗位缴纳五险，8小时工作制，国家法定节假日正常休息，及重大节假日的福利等;\n\n公司目前处于高速发展阶段，有良好的职业发展空间，业绩优秀且具备管理能力者，公司给予晋升机会学习带领团队经验，向管理层迈进。",
-      "encryptAddressId": "8c50488bbd931d9a0Hx739S_GFs~",
-      "address": "长沙开福区昊天大厦303",
-      "longitude": 112.992076,
-      "latitude": 28.198277,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c43d245a67254e2811cf997a3d273064",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c36ce87c050df796c73c71e09a22290",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售前/售后技术支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "罗先生",
-      "title": "人事部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "长沙煜吉电子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0703b062ee69139c1Xd42NW4E1s~",
-      "brandName": "长沙煜吉电子科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240219/7b5b554d84f9729caa93862185137d6c65b9ea6009d9fe84a64b70d8808345ff4fbcec5967d518be.png.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [
-        "包吃",
-        "社保"
-      ],
-      "activeTime": 1727593035520,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "长沙煜吉电子科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "长沙煜吉电子科技",
+        "certificated": true,
+        "large": null,
+        "name": "罗先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "人事部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727593035520,
+        "brandName": "长沙煜吉电子科技",
+        "customerBrandName": "长沙煜吉电子科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "0703b062ee69139c1Xd42NW4E1s~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [
+            "包吃",
+            "社保"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240219/7b5b554d84f9729caa93862185137d6c65b9ea6009d9fe84a64b70d8808345ff4fbcec5967d518be.png.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙开福区昊天大厦303",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8c50488bbd931d9a0Hx739S_GFs~",
+        "encryptId": "1d702a2157a2d4d61Xx60tm0EFVV",
+        "encryptUserId": "6e24b8b402a9554e0HJz2tm1FVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件服务人员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.198277,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.992076,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c36ce87c050df796c73c71e09a22290",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "1.测试公司软件系统，完善用户操作手册，解答用户使用过程的疑问。\n2.现场培训用户使用系统，收集用户反馈问题。\n3.根据业务编写及修改PPT进行演讲。\n4.有较强的沟通能力。\n\n福利待遇:\n\n本岗位缴纳五险，8小时工作制，国家法定节假日正常休息，及重大节假日的福利等;\n\n公司目前处于高速发展阶段，有良好的职业发展空间，业绩优秀且具备管理能力者，公司给予晋升机会学习带领团队经验，向管理层迈进。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "售前/售后技术支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c43d245a67254e2811cf997a3d273064"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tmaQbXM5iWg2V-K1AksZkTGbklvGmJY3u3cQfnDjEsJ18p1ai2u5eJ8ZmK43rmtzUcwBL9Vg6ZjyX-J2_iswBJEJJZtOgqWISG_T9jZBewDlAkKI4Eg~",
+    "selfAccess": false,
+    "sessionId": null
 }

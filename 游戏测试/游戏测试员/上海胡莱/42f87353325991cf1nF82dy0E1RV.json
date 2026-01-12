@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zN0wVFA5Gto9c-B1cQ_2cYduv09EDPXT3UTAz49uCJz5f72lTlLw6YiBgLrMeRQ6puK3NJlsMI1BgTv3pxxTnhyC4hzGHj7YpR80sWipTWbHsAfGD2ENsTAzNKt7KhPDz3OWjo8L3hOHcrG5c0BQ5Qksd7QMKz3X9tuzziz8JFZWXdIzUQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "42f87353325991cf1nF82dy0E1RV",
-      "encryptUserId": "da0514a5b473558a0nd439i0GVFS",
-      "invalidStatus": false,
-      "jobName": "游戏测试员",
-      "position": 100307,
-      "positionName": "游戏测试",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责手游产品的各阶段版本管理制作工作，保证版本安全性和稳定性；\n2.负责日常游戏服务器的维护工作；\n3.负责对外网版本自测工作；\n4.负责外网更新过程中遇到问题的跟踪和解答工作。",
-      "encryptAddressId": "332a88a8d1f126800Hdy29W0F1RRy4q8V_o~",
-      "address": "上海浦东新区由由世纪广场2号楼1809",
-      "longitude": 121.533995,
-      "latitude": 31.217263,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf1761985b95ebfdaab0417c7cdce7288f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230713/48ba41acc9cef1bf0f4c58eddb8c896fe7cca3f7778fe0916bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "移动端测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "程先生",
-      "title": "制作人",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "上海胡莱",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "372d9e2654a9df630HZ73d69Fw~~",
-      "brandName": "上海胡莱",
-      "logo": "https://c-res.zhipin.com/jrs/118f5f685d858c873d4c37469f050590.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "北京互爱科技上海研发部",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
-        "带薪年假"
-      ],
-      "activeTime": 1724227625589,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海胡莱",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "上海胡莱",
+        "certificated": true,
+        "large": null,
+        "name": "程先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "制作人"
+    },
+    "brandComInfo": {
+        "activeTime": 1724227625589,
+        "brandName": "上海胡莱",
+        "customerBrandName": "上海胡莱",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "372d9e2654a9df630HZ73d69Fw~~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "北京互爱科技上海研发部",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "带薪年假"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/118f5f685d858c873d4c37469f050590.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区由由世纪广场2号楼1809",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "332a88a8d1f126800Hdy29W0F1RRy4q8V_o~",
+        "encryptId": "42f87353325991cf1nF82dy0E1RV",
+        "encryptUserId": "da0514a5b473558a0nd439i0GVFS",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "游戏测试员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.217263,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.533995,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230713/48ba41acc9cef1bf0f4c58eddb8c896fe7cca3f7778fe0916bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100307,
+        "positionName": "游戏测试",
+        "postDescription": "1.负责手游产品的各阶段版本管理制作工作，保证版本安全性和稳定性；\n2.负责日常游戏服务器的维护工作；\n3.负责对外网版本自测工作；\n4.负责外网更新过程中遇到问题的跟踪和解答工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "功能测试",
+            "移动端测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf1761985b95ebfdaab0417c7cdce7288f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zN0wVFA5Gto9c-B1cQ_2cYduv09EDPXT3UTAz49uCJz5f72lTlLw6YiBgLrMeRQ6puK3NJlsMI1BgTv3pxxTnhyC4hzGHj7YpR80sWipTWbHsAfGD2ENsTAzNKt7KhPDz3OWjo8L3hOHcrG5c0BQ5Qksd7QMKz3X9tuzziz8JFZWXdIzUQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

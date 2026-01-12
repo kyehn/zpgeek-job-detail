@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "envm6uS9gf8MF-r1uhZ3KStDEapRkMoUaOnXaIKIJmMs26uiHsaA1ii5Q5GB-nWmuG0WJhiHrf2bqxcnI76bublRqnVE564GFs-bAZGPz0kJN6vREuEYHw119SyZmLcamdg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8b93e073822b1d5103V83Ny5FVBV",
-      "encryptUserId": "eb95217e76a2e1990nR82di-FFJV",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "职位要求：\n\n1.学信网可查的计算机相关专业本科及以上学历\n\n2.一年以上软件测试工作经验（接收2024年毕业生），熟悉软件测试流程和常用测试方法\n\n3.具备良好的文档编写能力和问题分析能力\n\n4.具备良好的沟通能力和团队合作精神，工作态度认真负责，有较强的学习能力与适应能力\n\n5.能够接受因项目需求安排的出差任务，适应不同工作环境。",
-      "encryptAddressId": "60a8bec4ad8ab4e403B83Ni-E1M~",
-      "address": "北京海淀区京鹤大厦三里河39号京鹤大厦10号楼二层206号",
-      "longitude": 116.333434,
-      "latitude": 39.925113,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bac5712903d7e3cc266ec85c2cf70658",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5cfdd956493c60abe24f47ce9199e106",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "功能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "华荣信宁科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7edd1cd654f252fd1nZ83dq0GFc~",
-      "brandName": "华荣信宁科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201113/95d4f39d20f71d9b22cf91db7292e188b2b7485788952a05102be0094333965a_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "北京华荣信宁科技有限公司成立于2016年，自成立以来，以其先进、独到的服务理念，吸引了多名银行各领域的资深专家和大量有着丰富实施经验的有识之士。公司有着丰富的大、中、小型银行或金融机构的咨询、管理、测试、开发经验。通过各方向知识的融合与研究，打造出一套优质的服务产品。架构咨询服务、管理咨询服务、质量咨询服务、功能测试服务、非功能测试服务以及培训服务。自主研发软件综合服务平台，用以辅助、支撑项目实施，并提供定制化研发服务。\n       公司共设有五个专业部门：业务研究部、咨询管理部、项目交付部、技术研发部、产品支持部，旨在培养专业人才、提高专业交付能力。组成了具有大、中、小型银行及其他金融机构咨询、管理、开发、测试经验的精英团队。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1739851351127,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华荣信宁科技有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华荣信宁科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1739851351127,
+        "brandName": "华荣信宁科技有限公司",
+        "customerBrandName": "华荣信宁科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "7edd1cd654f252fd1nZ83dq0GFc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "北京华荣信宁科技有限公司成立于2016年，自成立以来，以其先进、独到的服务理念，吸引了多名银行各领域的资深专家和大量有着丰富实施经验的有识之士。公司有着丰富的大、中、小型银行或金融机构的咨询、管理、测试、开发经验。通过各方向知识的融合与研究，打造出一套优质的服务产品。架构咨询服务、管理咨询服务、质量咨询服务、功能测试服务、非功能测试服务以及培训服务。自主研发软件综合服务平台，用以辅助、支撑项目实施，并提供定制化研发服务。\n       公司共设有五个专业部门：业务研究部、咨询管理部、项目交付部、技术研发部、产品支持部，旨在培养专业人才、提高专业交付能力。组成了具有大、中、小型银行及其他金融机构咨询、管理、开发、测试经验的精英团队。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201113/95d4f39d20f71d9b22cf91db7292e188b2b7485788952a05102be0094333965a_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区京鹤大厦三里河39号京鹤大厦10号楼二层206号",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "60a8bec4ad8ab4e403B83Ni-E1M~",
+        "encryptId": "8b93e073822b1d5103V83Ny5FVBV",
+        "encryptUserId": "eb95217e76a2e1990nR82di-FFJV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.925113,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.333434,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5cfdd956493c60abe24f47ce9199e106",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "职位要求：\n\n1.学信网可查的计算机相关专业本科及以上学历\n\n2.一年以上软件测试工作经验（接收2024年毕业生），熟悉软件测试流程和常用测试方法\n\n3.具备良好的文档编写能力和问题分析能力\n\n4.具备良好的沟通能力和团队合作精神，工作态度认真负责，有较强的学习能力与适应能力\n\n5.能够接受因项目需求安排的出差任务，适应不同工作环境。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "测试工作经验",
+            "功能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bac5712903d7e3cc266ec85c2cf70658"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "envm6uS9gf8MF-r1uhZ3KStDEapRkMoUaOnXaIKIJmMs26uiHsaA1ii5Q5GB-nWmuG0WJhiHrf2bqxcnI76bublRqnVE564GFs-bAZGPz0kJN6vREuEYHw119SyZmLcamdg~",
+    "selfAccess": false,
+    "sessionId": null
 }

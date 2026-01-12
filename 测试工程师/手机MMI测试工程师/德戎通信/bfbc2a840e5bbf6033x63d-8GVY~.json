@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "z8VJSoS5J9cMs-X1-MX_XHV_vssoE3zX4xJo8PV7utzQ1Dz5RrYtygB-7Nh2gAX7_gXuMIPzf0AAETFYZD4wjAwS2QQyAuYzhFsC8qr7kmbvKJOO2sCd_93hgV1KQ1dR3yKgXOBn-XK9",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bfbc2a840e5bbf6033x63d-8GVY~",
-      "encryptUserId": "f941cdf8646c5edf1nVy2N6_FlBV",
-      "invalidStatus": false,
-      "jobName": "手机MMI测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、执行测试用例并整理测试报告；\n2、发现，提交，验证以及跟进软件BUG；\n3、与客户就软件BUG以及不明确的需求沟通交流\n4、客户软件版本的测试以及发布；\n5、编写一些必要的脚本进行自动化测试\n6、协助MTK以及软件同事就个别BUG进行专项测试以及抓取非常规的Log。",
-      "encryptAddressId": "f87b6e7bcb7176851HZ-2ty6GVA~",
-      "address": "上海闵行区宝虹中心",
-      "longitude": 121.34122,
-      "latitude": 31.146194,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9fb9ecefad658e4cd634d53ebcaf7ae",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93a9af1ce8cd5f88cf7cbd82471d8390",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "测试工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "德戎通信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "92a0d9ca0392a4b43nB529--FA~~",
-      "brandName": "德戎通信",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725525182447,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "德戎通信",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "德戎通信",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725525182447,
+        "brandName": "德戎通信",
+        "customerBrandName": "德戎通信",
+        "customerBrandStageName": "",
+        "encryptBrandId": "92a0d9ca0392a4b43nB529--FA~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海闵行区宝虹中心",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f87b6e7bcb7176851HZ-2ty6GVA~",
+        "encryptId": "bfbc2a840e5bbf6033x63d-8GVY~",
+        "encryptUserId": "f941cdf8646c5edf1nVy2N6_FlBV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "手机MMI测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.146194,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.34122,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93a9af1ce8cd5f88cf7cbd82471d8390",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、执行测试用例并整理测试报告；\n2、发现，提交，验证以及跟进软件BUG；\n3、与客户就软件BUG以及不明确的需求沟通交流\n4、客户软件版本的测试以及发布；\n5、编写一些必要的脚本进行自动化测试\n6、协助MTK以及软件同事就个别BUG进行专项测试以及抓取非常规的Log。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "自动化测试",
+            "测试工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9fb9ecefad658e4cd634d53ebcaf7ae"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "z8VJSoS5J9cMs-X1-MX_XHV_vssoE3zX4xJo8PV7utzQ1Dz5RrYtygB-7Nh2gAX7_gXuMIPzf0AAETFYZD4wjAwS2QQyAuYzhFsC8qr7kmbvKJOO2sCd_93hgV1KQ1dR3yKgXOBn-XK9",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Hkfm6saiLIacR-J1GmBE4MAoMdHQnXIZz8U1ZhRd_WuJ4BYLqeOOg4NNQb4JV6I4IPXJ9i4PFtmN8IXKC6dsQoDldjd5R7-lgrFw8UYByvxPiK-PGq5e",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9093f5f8861ac7821nV_29m6E1pZ",
-      "encryptUserId": "871c6fd73000999b0nRz2ty0EVRT",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101160100,
-      "locationName": "兰州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1:对工作认真负责。\n2:要有经验。\n3:要有上进心。\n4:遵守法律法规。\n5:遵守公司制度，严格按公司制度执行。",
-      "encryptAddressId": "43b59c482020dbcf1Hx-3dy6GFE~",
-      "address": "兰州皋兰县甘光光学有限责任公司十楼东A区028号区域",
-      "longitude": 103.884726,
-      "latitude": 36.047381,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a09307a629694fb099b38a693e496e1f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02e257823978ee9e5af69a48a1344bfd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "C语言",
-        "汇编语言",
-        "TCL",
-        "JavaScript",
-        "架构师",
-        "软件工程师",
-        "计算机软件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "石先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "智雅",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e003bad8bde263d71nZz39i7ElE~",
-      "brandName": "智雅",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "甘肃智雅网络科技有限公司",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "加班补助",
-        "全勤奖",
-        "通讯补贴",
-        "住房补贴"
-      ],
-      "activeTime": 1722061838158,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智雅",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智雅",
+        "certificated": true,
+        "large": null,
+        "name": "石先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722061838158,
+        "brandName": "智雅",
+        "customerBrandName": "智雅",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e003bad8bde263d71nZz39i7ElE~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "甘肃智雅网络科技有限公司",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "加班补助",
+            "全勤奖",
+            "通讯补贴",
+            "住房补贴"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "兰州皋兰县甘光光学有限责任公司十楼东A区028号区域",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "43b59c482020dbcf1Hx-3dy6GFE~",
+        "encryptId": "9093f5f8861ac7821nV_29m6E1pZ",
+        "encryptUserId": "871c6fd73000999b0nRz2ty0EVRT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.047381,
+        "location": 101160100,
+        "locationName": "兰州",
+        "longitude": 103.884726,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02e257823978ee9e5af69a48a1344bfd",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1:对工作认真负责。\n2:要有经验。\n3:要有上进心。\n4:遵守法律法规。\n5:遵守公司制度，严格按公司制度执行。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Java",
+            "C语言",
+            "汇编语言",
+            "TCL",
+            "JavaScript",
+            "架构师",
+            "软件工程师",
+            "计算机软件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a09307a629694fb099b38a693e496e1f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Hkfm6saiLIacR-J1GmBE4MAoMdHQnXIZz8U1ZhRd_WuJ4BYLqeOOg4NNQb4JV6I4IPXJ9i4PFtmN8IXKC6dsQoDldjd5R7-lgrFw8UYByvxPiK-PGq5e",
+    "selfAccess": false,
+    "sessionId": null
 }

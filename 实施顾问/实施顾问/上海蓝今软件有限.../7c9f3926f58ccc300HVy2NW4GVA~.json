@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "a04fC1lYK4djY-E1bbh2Sg6zUpnpvER0G2zOmSdcJxz2Q3WxNQbvrByN2Jmg_IEFnoUAj6gd2t2xBJv3I4cCzsDNdsDh_J3pMqz7YPcyd_IqiFQPYg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7c9f3926f58ccc300HVy2NW4GVA~",
-      "encryptUserId": "1324c15a64e3473d1nR62dS9FFdU",
-      "invalidStatus": false,
-      "jobName": "实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "自律能力强\n自学能力强\n能吃苦能抗压\n有团队精神",
-      "encryptAddressId": "270290da91b6c09d1Xxz2N27GFY~",
-      "address": "苏州昆山市绿地国际家园C区",
-      "longitude": 121.114782,
-      "latitude": 31.286562,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8632994406f2ae0c377c5c409c34e29d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ca3aee85c9ae67d20c72337270ba9c3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问",
-        "SQL",
-        "Java",
-        "全栈开发",
-        "Node.js",
-        "ERP",
-        "SaaS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "霍先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200324/1877b74420028b673323c366516c0530e5ccdc3a62b6e301f85ee7db009_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "上海蓝今软件有限...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9408d01113840d3d0HF52du6Eg~~",
-      "brandName": "上海蓝今软件有限...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "致力于智能制造",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "住房补贴"
-      ],
-      "activeTime": 1725318150550,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海蓝今软件有限...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海蓝今软件有限...",
+        "certificated": true,
+        "large": null,
+        "name": "霍先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200324/1877b74420028b673323c366516c0530e5ccdc3a62b6e301f85ee7db009_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725318150550,
+        "brandName": "上海蓝今软件有限...",
+        "customerBrandName": "上海蓝今软件有限...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9408d01113840d3d0HF52du6Eg~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "致力于智能制造",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "住房补贴"
+        ],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市绿地国际家园C区",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "270290da91b6c09d1Xxz2N27GFY~",
+        "encryptId": "7c9f3926f58ccc300HVy2NW4GVA~",
+        "encryptUserId": "1324c15a64e3473d1nR62dS9FFdU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.286562,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.114782,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ca3aee85c9ae67d20c72337270ba9c3",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "自律能力强\n自学能力强\n能吃苦能抗压\n有团队精神",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施工程师/顾问",
+            "SQL",
+            "Java",
+            "全栈开发",
+            "Node.js",
+            "ERP",
+            "SaaS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8632994406f2ae0c377c5c409c34e29d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "a04fC1lYK4djY-E1bbh2Sg6zUpnpvER0G2zOmSdcJxz2Q3WxNQbvrByN2Jmg_IEFnoUAj6gd2t2xBJv3I4cCzsDNdsDh_J3pMqz7YPcyd_IqiFQPYg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

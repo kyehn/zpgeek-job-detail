@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UKFDpMibeQIiT-h1cMAXZyLJXQ8-6kaDmf4ZDvFOff_SndUpSXN8UTo7nPVg-giG-5LdIcje2BIxXih2n2GfHf6w4CaqcXmMXMUQb0nugTpaYHV-MJkDhBiV1AYkW_Pl1drILJGhX00~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "645643fcba737b6e1Hx-39-0FldZ",
-      "encryptUserId": "b6e8d184834707cc03V83d-0EVY~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责项目对接以及系统交付、部署、调试等工作。\n2、负责项目系统运行过程中错误排查以及修复工作。\n3、维护公司的本地服务器和云服务器、保证公司业务系统的正常运作。\n4、负责公司信息化设备和存储设备管理、建立台账，进行日常运行维护，包括涉密计算机和内网计算机审计等。\n5、完成领导交办的其他工作。\n\n岗位要求：\n1.两年或者两年以上Linux/Unix系统维护经验，熟悉docker容器，对系统安全、性能有一定的认识。\n2.良好的Shell编程能力，熟悉至少一种Shell之外的编程语言，Python或JAVA优先考虑。\n3.熟悉网络协议如TCP/IP\\HTTP\\DNS等，具备网络拓扑设计、IP地址规划、VLAN配置、防火墙设置等能力，能排查常见的网络问题。\n4.熟悉MySQL、Oracle、Pgsql、人大金仓、达梦等关系型数据库服务器的安装部署维护和其安全配置。\n5.熟悉Mongodb、elasticsearch，redis、Neo4j等Nosql数据库服务器的安装部署维护和其安全配置\n6.熟悉VM集群部署包括安装和配置‌VMware vSphere软件、‌ESXi虚拟机节点、网络配置等应用的部署安装和调试。\n7.熟悉K8S集群安装部署和优化，了解K8S运行原理及各项组件。\n8.熟悉云类型产品及环境部署。",
-      "encryptAddressId": "f96d2f1fad89c096031y3di8E1Q~",
-      "address": "成都武侯区天府新谷9号楼-2单元2单元2110",
-      "longitude": 104.05554,
-      "latitude": 30.585939,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a9277c3520f9965ac96ea336452de35",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adae9860277f489b8cb8bdec7446a689",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux/Unix系统维护",
-        "Shell编程能力"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220317/607f1f3d68754fd06ab7c2bc347dcf68ce200daefaf1962c3a024763b6ebdf046866370a846_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "睿呈时代",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d4d54585aaebd5c70Xdz09-1",
-      "brandName": "睿呈时代",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201225/98e4c30198c817483c1c869dba975f6d2a29a378a7afc9e33db35bdf20024352_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "北京睿呈时代信息科技有限公司成立于2008年，一家基于完全自主知识产权的全息大数据整体解决方案提供商。经过十多年持续研发的大数据可视化平台RAY_BDV，融合行业全量全要素数据，将繁杂、专业的业务以“业务孪生可视”的方式呈现，提升人脑理解效率。\n目前平台已成功应用于城市、园区、能源、气象等诸多领域数百个客户，针对大区域、大场景、跨地域、复杂场景、复杂地质、连续作业流的业务过程，提供大数据承载和业务运营支撑，服务于行业态势感知、监测预警、决策分析、联动指挥等业务应用，基于数字孪生平台的行业智慧化应用是变革性的提升。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "通讯补贴",
-        "节日福利"
-      ],
-      "activeTime": 1729325270000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "睿呈时代",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "睿呈时代",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220317/607f1f3d68754fd06ab7c2bc347dcf68ce200daefaf1962c3a024763b6ebdf046866370a846_b.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1729325270000,
+        "brandName": "睿呈时代",
+        "customerBrandName": "睿呈时代",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d4d54585aaebd5c70Xdz09-1",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "北京睿呈时代信息科技有限公司成立于2008年，一家基于完全自主知识产权的全息大数据整体解决方案提供商。经过十多年持续研发的大数据可视化平台RAY_BDV，融合行业全量全要素数据，将繁杂、专业的业务以“业务孪生可视”的方式呈现，提升人脑理解效率。\n目前平台已成功应用于城市、园区、能源、气象等诸多领域数百个客户，针对大区域、大场景、跨地域、复杂场景、复杂地质、连续作业流的业务过程，提供大数据承载和业务运营支撑，服务于行业态势感知、监测预警、决策分析、联动指挥等业务应用，基于数字孪生平台的行业智慧化应用是变革性的提升。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "通讯补贴",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201225/98e4c30198c817483c1c869dba975f6d2a29a378a7afc9e33db35bdf20024352_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区天府新谷9号楼-2单元2单元2110",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f96d2f1fad89c096031y3di8E1Q~",
+        "encryptId": "645643fcba737b6e1Hx-39-0FldZ",
+        "encryptUserId": "b6e8d184834707cc03V83d-0EVY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.585939,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.05554,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adae9860277f489b8cb8bdec7446a689",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责项目对接以及系统交付、部署、调试等工作。\n2、负责项目系统运行过程中错误排查以及修复工作。\n3、维护公司的本地服务器和云服务器、保证公司业务系统的正常运作。\n4、负责公司信息化设备和存储设备管理、建立台账，进行日常运行维护，包括涉密计算机和内网计算机审计等。\n5、完成领导交办的其他工作。\n\n岗位要求：\n1.两年或者两年以上Linux/Unix系统维护经验，熟悉docker容器，对系统安全、性能有一定的认识。\n2.良好的Shell编程能力，熟悉至少一种Shell之外的编程语言，Python或JAVA优先考虑。\n3.熟悉网络协议如TCP/IP\\HTTP\\DNS等，具备网络拓扑设计、IP地址规划、VLAN配置、防火墙设置等能力，能排查常见的网络问题。\n4.熟悉MySQL、Oracle、Pgsql、人大金仓、达梦等关系型数据库服务器的安装部署维护和其安全配置。\n5.熟悉Mongodb、elasticsearch，redis、Neo4j等Nosql数据库服务器的安装部署维护和其安全配置\n6.熟悉VM集群部署包括安装和配置VMware vSphere软件、ESXi虚拟机节点、网络配置等应用的部署安装和调试。\n7.熟悉K8S集群安装部署和优化，了解K8S运行原理及各项组件。\n8.熟悉云类型产品及环境部署。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·14薪",
+        "showSkills": [
+            "Linux/Unix系统维护",
+            "Shell编程能力"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a9277c3520f9965ac96ea336452de35"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UKFDpMibeQIiT-h1cMAXZyLJXQ8-6kaDmf4ZDvFOff_SndUpSXN8UTo7nPVg-giG-5LdIcje2BIxXih2n2GfHf6w4CaqcXmMXMUQb0nugTpaYHV-MJkDhBiV1AYkW_Pl1drILJGhX00~",
+    "selfAccess": false,
+    "sessionId": null
 }

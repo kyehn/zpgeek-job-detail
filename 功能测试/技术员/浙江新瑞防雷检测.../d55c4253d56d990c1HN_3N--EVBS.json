@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IrmCAT4aa8Xgl-i1RD-ZCzrh1_5w-6y9LZ0UZVwK4QAIkvTHdOLIx6xwTb-Kt_ek2mRxSJarYiaVnYw81XG1cOxGXL8G22t2VCSM7zrDi8YAzP0799CopivmHGu9XrXKaahx8k0kDgGGnA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d55c4253d56d990c1HN_3N--EVBS",
-      "encryptUserId": "a51f9d10a83f0a001Hd43929E1E~",
-      "invalidStatus": false,
-      "jobName": "技术员",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101210700,
-      "locationName": "温州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "报警器校准人员需熟练掌握开车技能，具备低压电工证，熟练使用电脑办公软件\n岗位福利：社保，工作餐，绩效奖，年终奖",
-      "encryptAddressId": "d2569713dedfe69c03F70964EFc~",
-      "address": "温州鹿城区诚信商厦2幢1楼",
-      "longitude": 120.685829,
-      "latitude": 27.984152,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b07f71e66fbd658e0f10a333f68f2af6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f16fb6b504f50efaf618f3d9ef0c818a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "计算机相关专业",
-        "功能测试经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "浙江新瑞防雷检测...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1d1754bcafecd7491nJ-3t20FFA~",
-      "brandName": "浙江新瑞防雷检测...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727875078017,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江新瑞防雷检测...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江新瑞防雷检测...",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727875078017,
+        "brandName": "浙江新瑞防雷检测...",
+        "customerBrandName": "浙江新瑞防雷检测...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1d1754bcafecd7491nJ-3t20FFA~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "温州鹿城区诚信商厦2幢1楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d2569713dedfe69c03F70964EFc~",
+        "encryptId": "d55c4253d56d990c1HN_3N--EVBS",
+        "encryptUserId": "a51f9d10a83f0a001Hd43929E1E~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 27.984152,
+        "location": 101210700,
+        "locationName": "温州",
+        "longitude": 120.685829,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f16fb6b504f50efaf618f3d9ef0c818a",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "报警器校准人员需熟练掌握开车技能，具备低压电工证，熟练使用电脑办公软件\n岗位福利：社保，工作餐，绩效奖，年终奖",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "通信相关专业",
+            "计算机相关专业",
+            "功能测试经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b07f71e66fbd658e0f10a333f68f2af6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IrmCAT4aa8Xgl-i1RD-ZCzrh1_5w-6y9LZ0UZVwK4QAIkvTHdOLIx6xwTb-Kt_ek2mRxSJarYiaVnYw81XG1cOxGXL8G22t2VCSM7zrDi8YAzP0799CopivmHGu9XrXKaahx8k0kDgGGnA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "M9ftT3638kjNX-q14QHRSEE53lG86dNOktnG4c56L-OAKDiwh5UN5R1hKZ9cSTvC_AUQnSybi0c-T4bAz_RA3NHAlBA2CpVtS_EEkX4B33IT8iQSAlPH6IJAVe9bbzHRdeXi7hR-RFsrpNY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cfef83677d2a8bd71H1-2ty7F1VX",
-      "encryptUserId": "c033e0cd7baa7bbb0nJ73Nm5FFBV",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1. 负责设备的软件调试和功能开发，现场软件支持和维护。\n2. 机台的软件功能开发和验证。协助核心开人人员按架构实现相关功能。\n3. 对接客户需求，内部优化需求。",
-      "encryptAddressId": "78964db74e550d2803By29y_FFNUwIy6Vf4~",
-      "address": "无锡新吴区中国传感网国际创新园G2",
-      "longitude": 120.368214,
-      "latitude": 31.502723,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51e67b82a521011f185a85b0032d2f99",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2211e542d3bc133e40f1952ef9345534",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "人事行政专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "无锡菲光科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0725c9fccc1d5d341XZy3t6-FlQ~",
-      "brandName": "无锡菲光科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "",
-      "labels": [
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1730962502000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "无锡菲光科技有限公司",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "无锡菲光科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事行政专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730962502000,
+        "brandName": "无锡菲光科技有限公司",
+        "customerBrandName": "无锡菲光科技有限公司",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "0725c9fccc1d5d341XZy3t6-FlQ~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "",
+        "labels": [
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡新吴区中国传感网国际创新园G2",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "78964db74e550d2803By29y_FFNUwIy6Vf4~",
+        "encryptId": "cfef83677d2a8bd71H1-2ty7F1VX",
+        "encryptUserId": "c033e0cd7baa7bbb0nJ73Nm5FFBV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.502723,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.368214,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2211e542d3bc133e40f1952ef9345534",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1. 负责设备的软件调试和功能开发，现场软件支持和维护。\n2. 机台的软件功能开发和验证。协助核心开人人员按架构实现相关功能。\n3. 对接客户需求，内部优化需求。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K·13薪",
+        "showSkills": [
+            "通信相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51e67b82a521011f185a85b0032d2f99"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "M9ftT3638kjNX-q14QHRSEE53lG86dNOktnG4c56L-OAKDiwh5UN5R1hKZ9cSTvC_AUQnSybi0c-T4bAz_RA3NHAlBA2CpVtS_EEkX4B33IT8iQSAlPH6IJAVe9bbzHRdeXi7hR-RFsrpNY~",
+    "selfAccess": false,
+    "sessionId": null
 }

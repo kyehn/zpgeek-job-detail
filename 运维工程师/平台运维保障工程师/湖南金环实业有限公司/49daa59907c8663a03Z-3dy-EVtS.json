@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xNN42mYNPEQdo-91lgUevPKkpK7QdMKakWxIZlXHoTnE_eJ2lXSlxJMnf92RcUzsX4YRPztHizrUjxs-tJ7zoR-gWbwzHiSlLB1fdyhPKbIKoO-Ryag_tWCcEUnWu33zv_oRE-_1ORHxTKq5RmZSLulqMDqP",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "49daa59907c8663a03Z-3dy-EVtS",
-      "encryptUserId": "ecdefbd406b825e433d60ty7F1s~",
-      "invalidStatus": false,
-      "jobName": "平台运维保障工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、 负责交通管理综合应用平台、安全监管平台、12123互联网平台、适安监管云平台等系统的7×24小时稳定运行，确保业务连续性；\n2、每日执行平台运行状态巡检，监控服务器、网络、数据库等关键资源性能，形成巡检报告；\n3、根据上级建设部门需求，调整平台功能配置，完成系统参数优化及功能测试；\n4、定期执行平台数据备份，制定数据恢复方案，确保数据完整性与安全性；\n5、与上级部门保持沟通，协调资源解决跨部门问题。  \n任职要求：\n1、本科及以上学历，计算机科学、网络工程、信息安全等相关专业优先；\n2、3年以上系统运维或IT基础设施管理经验，有政务、交通或监管类平台运维经验者优先；\n3、熟悉Linux/Windows系统操作及Shell/Python脚本编写，具备自动化运维能力；\n4、掌握网络基础知识（TCP/IP、VPN、防火墙配置），熟悉主流数据库（MySQL/Oracle）管理；\n5、责任心强，能适应7×24小时轮班及紧急故障响应；\n6、持有CCNA、RHCE、PMP或同类认证者优先。",
-      "encryptAddressId": "774b1d591d1d8d561nx829y0GFFSxoW5WPmc",
-      "address": "长沙岳麓区交警大楼(枫林一路)长沙市岳麓区交警支队",
-      "longitude": 112.956105,
-      "latitude": 28.196781,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230915/48ba41acc9cef1bf281e2164813e70e18e155e17686edabf6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230915/48ba41acc9cef1bf62ee46870d564e1cd354d1ff7ab2b9b66bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250226/48ba41acc9cef1bfb7a8df496e8090506c2abbaa86f2ba066bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250226/48ba41acc9cef1bf3d439ae1c84b7a77216bc8bcf7f896196bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "湖南金环实业有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "dd6ee722c39d86b61nd52t-0ElU~",
-      "brandName": "湖南金环实业有限公司",
-      "logo": null,
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100703,
-      "industryName": "建筑设计",
-      "introduce": "",
-      "labels": [
-        "包吃",
-        "包住",
-        "五险"
-      ],
-      "activeTime": 1741951453342,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖南金环实业有限公司",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖南金环实业有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1741951453342,
+        "brandName": "湖南金环实业有限公司",
+        "customerBrandName": "湖南金环实业有限公司",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "dd6ee722c39d86b61nd52t-0ElU~",
+        "focusBrand": false,
+        "industry": 100703,
+        "industryName": "建筑设计",
+        "introduce": "",
+        "labels": [
+            "包吃",
+            "包住",
+            "五险"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区交警大楼(枫林一路)长沙市岳麓区交警支队",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250226/48ba41acc9cef1bf3d439ae1c84b7a77216bc8bcf7f896196bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250226/48ba41acc9cef1bfb7a8df496e8090506c2abbaa86f2ba066bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "774b1d591d1d8d561nx829y0GFFSxoW5WPmc",
+        "encryptId": "49daa59907c8663a03Z-3dy-EVtS",
+        "encryptUserId": "ecdefbd406b825e433d60ty7F1s~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "平台运维保障工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.196781,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.956105,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230915/48ba41acc9cef1bf62ee46870d564e1cd354d1ff7ab2b9b66bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、 负责交通管理综合应用平台、安全监管平台、12123互联网平台、适安监管云平台等系统的7×24小时稳定运行，确保业务连续性；\n2、每日执行平台运行状态巡检，监控服务器、网络、数据库等关键资源性能，形成巡检报告；\n3、根据上级建设部门需求，调整平台功能配置，完成系统参数优化及功能测试；\n4、定期执行平台数据备份，制定数据恢复方案，确保数据完整性与安全性；\n5、与上级部门保持沟通，协调资源解决跨部门问题。  \n任职要求：\n1、本科及以上学历，计算机科学、网络工程、信息安全等相关专业优先；\n2、3年以上系统运维或IT基础设施管理经验，有政务、交通或监管类平台运维经验者优先；\n3、熟悉Linux/Windows系统操作及Shell/Python脚本编写，具备自动化运维能力；\n4、掌握网络基础知识（TCP/IP、VPN、防火墙配置），熟悉主流数据库（MySQL/Oracle）管理；\n5、责任心强，能适应7×24小时轮班及紧急故障响应；\n6、持有CCNA、RHCE、PMP或同类认证者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230915/48ba41acc9cef1bf281e2164813e70e18e155e17686edabf6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xNN42mYNPEQdo-91lgUevPKkpK7QdMKakWxIZlXHoTnE_eJ2lXSlxJMnf92RcUzsX4YRPztHizrUjxs-tJ7zoR-gWbwzHiSlLB1fdyhPKbIKoO-Ryag_tWCcEUnWu33zv_oRE-_1ORHxTKq5RmZSLulqMDqP",
+    "selfAccess": false,
+    "sessionId": null
 }

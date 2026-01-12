@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ShmxXkcKot7H2-s191eaoU_H5IXFOhp0-0WYX4av315OTfRGEJ_aY1wcxtPoUWkJXDKuq42rs7N34kFrvvSRyffbFgN2dI83de46hC6IF4nGAR-_SueDv7zlz6kn0eI47eQosPu9CrV_nlPWtA9VWTnhEjw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f42b29f297c4a52c03Z63dS7GFZU",
-      "encryptUserId": "ee29881ff8c77b401Hd_3NS5EFU~",
-      "invalidStatus": false,
-      "jobName": "java开发工程师(初级)",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "Java语言，负责客户端和服务器端程序的设计及编程，\n根据项目需要，撰写及修改相应的技术文档\n需要有日语基础，能看懂日文式样书\n日语二级以上",
-      "encryptAddressId": "bab484159270e99e1nx_3d24FlRWxIm9WP-a",
-      "address": "苏州虎丘区中国苏州创业园1号楼B3026室",
-      "longitude": 120.538852,
-      "latitude": 31.27634,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf61d597b39b9e9dc9d167983274af2b0b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8f22e3402704dcfee462887c168f7a246bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241217/48ba41acc9cef1bf9de41ebd14c1179d14af808cdc90d7da6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241217/48ba41acc9cef1bf391c1e6d867b8602bf24e393834e06a06bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "erp",
-        "日语"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吕先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd01ddb6ec92d97c1202977bb65a7aca7946122054e4296022162c9317722e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "苏州隆泰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "58f92c12c7e33e8e1nx50tW8Fw~~",
-      "brandName": "苏州隆泰",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
-        "员工旅游",
-        "节日福利"
-      ],
-      "activeTime": 1741674258859,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州隆泰",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州隆泰",
+        "certificated": true,
+        "large": null,
+        "name": "吕先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd01ddb6ec92d97c1202977bb65a7aca7946122054e4296022162c9317722e_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1741674258859,
+        "brandName": "苏州隆泰",
+        "customerBrandName": "苏州隆泰",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "58f92c12c7e33e8e1nx50tW8Fw~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "员工旅游",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州虎丘区中国苏州创业园1号楼B3026室",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241217/48ba41acc9cef1bf391c1e6d867b8602bf24e393834e06a06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241217/48ba41acc9cef1bf9de41ebd14c1179d14af808cdc90d7da6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "bab484159270e99e1nx_3d24FlRWxIm9WP-a",
+        "encryptId": "f42b29f297c4a52c03Z63dS7GFZU",
+        "encryptUserId": "ee29881ff8c77b401Hd_3NS5EFU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java开发工程师(初级)",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.27634,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.538852,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8f22e3402704dcfee462887c168f7a246bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "Java语言，负责客户端和服务器端程序的设计及编程，\n根据项目需要，撰写及修改相应的技术文档\n需要有日语基础，能看懂日文式样书\n日语二级以上",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K·14薪",
+        "showSkills": [
+            "erp",
+            "日语"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf61d597b39b9e9dc9d167983274af2b0b6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ShmxXkcKot7H2-s191eaoU_H5IXFOhp0-0WYX4av315OTfRGEJ_aY1wcxtPoUWkJXDKuq42rs7N34kFrvvSRyffbFgN2dI83de46hC6IF4nGAR-_SueDv7zlz6kn0eI47eQosPu9CrV_nlPWtA9VWTnhEjw~",
+    "selfAccess": false,
+    "sessionId": null
 }

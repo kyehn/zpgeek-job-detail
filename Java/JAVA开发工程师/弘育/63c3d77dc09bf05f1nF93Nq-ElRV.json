@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "lRW7UtnzGK2Rp-A1eGlG4_4T9m11nrOh5D9Y_m9QsRY_KOQDAq28n58NR32yXY7BY7jLNhxPBXpMG2kTWVYiABxa2JVcBCbbjC8U52rGMNVZCSLtCPo7nGt0mMXmFvN0VElmFfGKby3b",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "63c3d77dc09bf05f1nF93Nq-ElRV",
-      "encryptUserId": "4e3f205f65ee897a0Hd43Nq9ElU~",
-      "invalidStatus": false,
-      "jobName": "java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "任职要求:\n1、计算机相关专业本科以上学历；\n3、扎实的Java基本功，精通面向对象思想，熟悉JAVA常用设计模式，具备较强的编码能力和问题解决能力；\n4、精通SSH框架，熟悉Spring源码和原理，了解Mybatis；\n5、熟悉Maven依赖版本管理，熟悉SVN/CVS/Git等代码版本管理工具；\n6、熟悉MySQL/Oracle数据库，了解常见的数据库性能优化方案；\n7、熟悉Tomcat/Jetty/WebLogic等中间件，了解Linux命令行与shell脚本，能根据日志分析和定位问题；\n8、能编写优雅/规范的代码，有写单元测试的习惯，熟悉junit/jtest等测试工具；\n9、能承担一定的工作压力,具备良好的沟通能力和优秀的团队协作能力。",
-      "encryptAddressId": "3fc67a2c7f3ed0df1Hx_39W1FVY~",
-      "address": "上海静安区上海大学延长校区(北门)广中路788号",
-      "longitude": 121.457489,
-      "latitude": 31.279239,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/74567cb86fa720857df6b2ea09c31de0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f88ccb96a9eff705fba10e682dde152d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络编程",
-        "后端开发",
-        "WEB开发",
-        "Linux",
-        "Android",
-        "Unix"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "助理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190820/690a6c27c05b6ad5822c70485b718212cfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "弘育",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "44014d9ebb79e6c20nF_2t-7EQ~~",
-      "brandName": "弘育",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723910135313,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "弘育",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "弘育",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190820/690a6c27c05b6ad5822c70485b718212cfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723910135313,
+        "brandName": "弘育",
+        "customerBrandName": "弘育",
+        "customerBrandStageName": "",
+        "encryptBrandId": "44014d9ebb79e6c20nF_2t-7EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海静安区上海大学延长校区(北门)广中路788号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3fc67a2c7f3ed0df1Hx_39W1FVY~",
+        "encryptId": "63c3d77dc09bf05f1nF93Nq-ElRV",
+        "encryptUserId": "4e3f205f65ee897a0Hd43Nq9ElU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.279239,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.457489,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f88ccb96a9eff705fba10e682dde152d",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "任职要求:\n1、计算机相关专业本科以上学历；\n3、扎实的Java基本功，精通面向对象思想，熟悉JAVA常用设计模式，具备较强的编码能力和问题解决能力；\n4、精通SSH框架，熟悉Spring源码和原理，了解Mybatis；\n5、熟悉Maven依赖版本管理，熟悉SVN/CVS/Git等代码版本管理工具；\n6、熟悉MySQL/Oracle数据库，了解常见的数据库性能优化方案；\n7、熟悉Tomcat/Jetty/WebLogic等中间件，了解Linux命令行与shell脚本，能根据日志分析和定位问题；\n8、能编写优雅/规范的代码，有写单元测试的习惯，熟悉junit/jtest等测试工具；\n9、能承担一定的工作压力,具备良好的沟通能力和优秀的团队协作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K·13薪",
+        "showSkills": [
+            "网络编程",
+            "后端开发",
+            "WEB开发",
+            "Linux",
+            "Android",
+            "Unix"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/74567cb86fa720857df6b2ea09c31de0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "lRW7UtnzGK2Rp-A1eGlG4_4T9m11nrOh5D9Y_m9QsRY_KOQDAq28n58NR32yXY7BY7jLNhxPBXpMG2kTWVYiABxa2JVcBCbbjC8U52rGMNVZCSLtCPo7nGt0mMXmFvN0VElmFfGKby3b",
+    "selfAccess": false,
+    "sessionId": null
 }

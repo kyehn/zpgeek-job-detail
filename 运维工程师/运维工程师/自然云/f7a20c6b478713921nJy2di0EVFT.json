@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YtOTeJquCkFYM-r1rT8r1t06qfYmRgAk67oZR13vCv9yH1xnBpRl87u2fdV5d0H4jxPqcg5-GlsKlVhRXqsdYU_rBLwxSW0zVq0MT1dXoWOwtvyJtbgi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f7a20c6b478713921nJy2di0EVFT",
-      "encryptUserId": "f49429ba35071aba0ndy2dW0FVdR",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1.熟练掌握Windows服务器部署和运维，熟悉数据库、具备安装、配置和维护能力\n2.按照维护计划安排，做好现场维护保障工作，及时提供维护项目材料使用计划，确保维护项目能够正常运行。\n3.严格遵守操作规程，落实维保质量、安全保证措施，对于各系统设备的维保质量、安全、成本负责。\n4.负责系统设备日常检查、维护、并及时填写巡检、维修保养、维护日志记录，办理与甲方的申报签认手续，为项目维护计量提供准确的原始资料\n5.协助技术负责人完成维护过程中资料收集、整理、填报、归档。\n6.能适应出差，对场地的设备进行维修和更换工作\n7.大专及以上学历\n8.开朗乐观，善于沟通交流\n9.有系统运维经验的优先\n10.能力优秀者优先",
-      "encryptAddressId": "5472e311336fc80403By3Nu9Eg~~",
-      "address": "重庆渝北区中渝·都会首站2栋2206",
-      "longitude": 106.524214,
-      "latitude": 29.598387,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41942c813de123610c7cef909b34adfd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/def448aaf5d1d63cc1dbed6f7fc5bced",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "Windows"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蒋女士",
-      "title": "策划总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210625/66ed74d540f1fdc56d87a0cf7deb393a82ba262bb15a30e6dfe930b063a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "自然云",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e0e0e597d79551921nNz3d-6GVA~",
-      "brandName": "自然云",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210628/51d30d7ce739c729a34b7698527a8182034ced82ac188d6f85b733db592ef442.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "重庆自然云文化科技有限公司成立于2020年，公司以林业发展为核心，专注于森林防火、森林防虫、林业生态资源等软件系统的建设和自然教育的推广。并以统一规划原则、先进可靠原则、节约共享原则为核心理念，先后构建了\"汉丰湖国家湿地公园综合监测管理系统\"、\"缙云山国家级保护区森林防火预警监测指挥平台\"、\"重庆市林业有害生物防控信息系统\"、\"重庆市林木种质资源普查系统\"、\"渝苗宝\"、\"智慧一体化办公系统\"等智能化系统，为林业信息化奠定了夯实基础。\n 公司以专业技术和专业服务为核心理念，以基础用户数据、资源数据、检测设备数据为底层数据支撑，衍生出\"林业一张图\"、\"可视化大屏\"、\"智能预警\"、\"轨迹查询\"、\"AI算法\"等一系列智能化服务，从而达到防火、防虫、资源一体化管理",
-      "labels": [
-        "交通补助",
-        "团建聚餐",
-        "餐补",
-        "员工旅游",
-        "年终奖",
-        "五险"
-      ],
-      "activeTime": 1729800179226,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "自然云",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "自然云",
+        "certificated": true,
+        "large": null,
+        "name": "蒋女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210625/66ed74d540f1fdc56d87a0cf7deb393a82ba262bb15a30e6dfe930b063a_b.jpg",
+        "title": "策划总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1729800179226,
+        "brandName": "自然云",
+        "customerBrandName": "自然云",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "e0e0e597d79551921nNz3d-6GVA~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "重庆自然云文化科技有限公司成立于2020年，公司以林业发展为核心，专注于森林防火、森林防虫、林业生态资源等软件系统的建设和自然教育的推广。并以统一规划原则、先进可靠原则、节约共享原则为核心理念，先后构建了\"汉丰湖国家湿地公园综合监测管理系统\"、\"缙云山国家级保护区森林防火预警监测指挥平台\"、\"重庆市林业有害生物防控信息系统\"、\"重庆市林木种质资源普查系统\"、\"渝苗宝\"、\"智慧一体化办公系统\"等智能化系统，为林业信息化奠定了夯实基础。\n 公司以专业技术和专业服务为核心理念，以基础用户数据、资源数据、检测设备数据为底层数据支撑，衍生出\"林业一张图\"、\"可视化大屏\"、\"智能预警\"、\"轨迹查询\"、\"AI算法\"等一系列智能化服务，从而达到防火、防虫、资源一体化管理",
+        "labels": [
+            "交通补助",
+            "团建聚餐",
+            "餐补",
+            "员工旅游",
+            "年终奖",
+            "五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210628/51d30d7ce739c729a34b7698527a8182034ced82ac188d6f85b733db592ef442.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆渝北区中渝·都会首站2栋2206",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5472e311336fc80403By3Nu9Eg~~",
+        "encryptId": "f7a20c6b478713921nJy2di0EVFT",
+        "encryptUserId": "f49429ba35071aba0ndy2dW0FVdR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.598387,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.524214,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/def448aaf5d1d63cc1dbed6f7fc5bced",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.熟练掌握Windows服务器部署和运维，熟悉数据库、具备安装、配置和维护能力\n2.按照维护计划安排，做好现场维护保障工作，及时提供维护项目材料使用计划，确保维护项目能够正常运行。\n3.严格遵守操作规程，落实维保质量、安全保证措施，对于各系统设备的维保质量、安全、成本负责。\n4.负责系统设备日常检查、维护、并及时填写巡检、维修保养、维护日志记录，办理与甲方的申报签认手续，为项目维护计量提供准确的原始资料\n5.协助技术负责人完成维护过程中资料收集、整理、填报、归档。\n6.能适应出差，对场地的设备进行维修和更换工作\n7.大专及以上学历\n8.开朗乐观，善于沟通交流\n9.有系统运维经验的优先\n10.能力优秀者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K·13薪",
+        "showSkills": [
+            "系统运维",
+            "Windows"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41942c813de123610c7cef909b34adfd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YtOTeJquCkFYM-r1rT8r1t06qfYmRgAk67oZR13vCv9yH1xnBpRl87u2fdV5d0H4jxPqcg5-GlsKlVhRXqsdYU_rBLwxSW0zVq0MT1dXoWOwtvyJtbgi",
+    "selfAccess": false,
+    "sessionId": null
 }

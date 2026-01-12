@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4qfJMM0szHbQf-G1bc1-gmyG_c9IQ5jNvVboryrgwZtM3Xxnd5bsgYKJCksvTgAh05C3xnUici99y5KMlgyCp9n3vm9lAGdnwoJByGjwf2J-Y0aEx4JO-k_YUjzz6w4r_m_bnl-7svYKV5qcYFpvDx-wfrFDpzVF4ZuyGq-yHdICf-Q-WblmgWfOhoJQGqv5vmvWspsmmTZ2O9CeoGYfdGI9",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b01d89c4c47943ef03Z-2dq9EVBR",
-      "encryptUserId": "1e00ef71382e69ec1Hdz2t61GFM~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "职位要求\n1、3年以上软件测试相关工作经验。\n2、了解一门编程语言：Go/Shell/JS 等。\n3、熟悉软件测试流程，熟悉功能测试，接口测试，能根据测试用例完成测试执行。\n4、熟悉docker、kubernetes、云原生等云计算相关技术和产品优先。\n5、工作认真负责、耐心细致、积极肯干、具有良好的团队意识和沟通能力。\n岗位职责：\n1、完成相关产品产品版本测试中存量测试用例的测试执行、缺陷上报和回归。包括公有云版本、私有云版本以及开源版本。\n2、根据用例规范和要求，完成相关产品产品的测试用例整改和优化。\n3、完成相关产品测试用例的自动化，包括API自动化和UI自动化，以及自动化测试的日常运维。\n4、根据升级指导书以及升级测试用例，完成多套测试环境的日常升级、回退和运维。",
-      "encryptAddressId": "c3cf9aac3475266f1n162tS-FVRQwoS2Uv-f",
-      "address": "杭州西湖区杭州市西湖区转塘街道山景路7号润丰1号楼",
-      "longitude": 120.082313,
-      "latitude": 30.128346,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bf11bafdb6e6a61477a397a915c37d5ad86bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bfbc481864fdfff65c4d20733be27622df6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250310/48ba41acc9cef1bfe9674a13b1f341368a5fe85c13954a986bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250310/48ba41acc9cef1bf663c5e7d335c915bc0e8cdea5fce19136bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "乔女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210607/e57a49ac373576b952bcda37b37b9656b24106beb8b59b809d76cc5782f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1741692491245,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "乔女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210607/e57a49ac373576b952bcda37b37b9656b24106beb8b59b809d76cc5782f_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1741692491245,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州西湖区杭州市西湖区转塘街道山景路7号润丰1号楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250310/48ba41acc9cef1bf663c5e7d335c915bc0e8cdea5fce19136bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250310/48ba41acc9cef1bfe9674a13b1f341368a5fe85c13954a986bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "c3cf9aac3475266f1n162tS-FVRQwoS2Uv-f",
+        "encryptId": "b01d89c4c47943ef03Z-2dq9EVBR",
+        "encryptUserId": "1e00ef71382e69ec1Hdz2t61GFM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.128346,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.082313,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bfbc481864fdfff65c4d20733be27622df6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "职位要求\n1、3年以上软件测试相关工作经验。\n2、了解一门编程语言：Go/Shell/JS 等。\n3、熟悉软件测试流程，熟悉功能测试，接口测试，能根据测试用例完成测试执行。\n4、熟悉docker、kubernetes、云原生等云计算相关技术和产品优先。\n5、工作认真负责、耐心细致、积极肯干、具有良好的团队意识和沟通能力。\n岗位职责：\n1、完成相关产品产品版本测试中存量测试用例的测试执行、缺陷上报和回归。包括公有云版本、私有云版本以及开源版本。\n2、根据用例规范和要求，完成相关产品产品的测试用例整改和优化。\n3、完成相关产品测试用例的自动化，包括API自动化和UI自动化，以及自动化测试的日常运维。\n4、根据升级指导书以及升级测试用例，完成多套测试环境的日常升级、回退和运维。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bf11bafdb6e6a61477a397a915c37d5ad86bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4qfJMM0szHbQf-G1bc1-gmyG_c9IQ5jNvVboryrgwZtM3Xxnd5bsgYKJCksvTgAh05C3xnUici99y5KMlgyCp9n3vm9lAGdnwoJByGjwf2J-Y0aEx4JO-k_YUjzz6w4r_m_bnl-7svYKV5qcYFpvDx-wfrFDpzVF4ZuyGq-yHdICf-Q-WblmgWfOhoJQGqv5vmvWspsmmTZ2O9CeoGYfdGI9",
+    "selfAccess": false,
+    "sessionId": null
 }

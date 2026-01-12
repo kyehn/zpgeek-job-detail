@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0CvIxlw9yaWwN-X1rSPhSPCFGzKE8fv9wLdpvqeT0yER9-h1_1TGZWggh4upYWgk1m3L2hIO_nTSpk2o2HB0V2bWkVIzQa7zMxhYa6jJ09srmNAqMwRtfOYBlS4G6qkvCw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8c6982ca0f5931821HV_3Nq7F1JQ",
-      "encryptUserId": "a1ff1171189f97f103V82Ny_GVI~",
-      "invalidStatus": false,
-      "jobName": "流程助理",
-      "position": 150201,
-      "positionName": "行政专员/助理",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "流程助理\n【岗位职责】\n1、准备、审核及提交各类专利文件；\n2、统筹和协调对国内专利流程涉及的各种文件、费用及时限等日常流程管理工作；\n3、对各种流程信函进行审核及辅导;\n4、根据专利流程相关规定对递交官方的各种文件进行核查;\n5、协助代理人处理专利流程中涉及的各种申请手续;\n6、使用系统软件完成相关录入及客户监控工作;\n7、负责收发、处理官方和客户往来文件，并对文件进行录入、分发\n8、协助部门完成其他事务性工作。\n【任职资格】\n愿意从事专利流程工作，良好的沟通能力、工作认真细心，责任心强，具有较强的团队协作意识。",
-      "encryptAddressId": "5e4c126d1e337a231nZy3ti4F1pR",
-      "address": "苏州吴中区共创集团苏州共创众合知识产权有限公司16楼",
-      "longitude": 120.629244,
-      "latitude": 31.265697,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bf39500d582078e689aa2615a5dde791946bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bfeb39f548143098a39ea2f92e53fd6c266bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "助理",
-        "文员",
-        "文书起草"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蒋女士",
-      "title": "HRBP人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241025/607f1f3d68754fd0c506049be4b54e0337e7b5eca9c0265328ebab43d17de4b0a2a62f0d626ae0a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "绍兴共创知识产权",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d4abea4bca0ab1541XV639u_F1M~",
-      "brandName": "绍兴共创知识产权",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100607,
-      "industryName": "专利/商标/知识产权",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733927375320,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绍兴共创知识产权",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绍兴共创知识产权",
+        "certificated": true,
+        "large": null,
+        "name": "蒋女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241025/607f1f3d68754fd0c506049be4b54e0337e7b5eca9c0265328ebab43d17de4b0a2a62f0d626ae0a_b.jpg",
+        "title": "HRBP人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1733927375320,
+        "brandName": "绍兴共创知识产权",
+        "customerBrandName": "绍兴共创知识产权",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d4abea4bca0ab1541XV639u_F1M~",
+        "focusBrand": false,
+        "industry": 100607,
+        "industryName": "专利/商标/知识产权",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区共创集团苏州共创众合知识产权有限公司16楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5e4c126d1e337a231nZy3ti4F1pR",
+        "encryptId": "8c6982ca0f5931821HV_3Nq7F1JQ",
+        "encryptUserId": "a1ff1171189f97f103V82Ny_GVI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "流程助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.265697,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.629244,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bfeb39f548143098a39ea2f92e53fd6c266bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 150201,
+        "positionName": "行政专员/助理",
+        "postDescription": "流程助理\n【岗位职责】\n1、准备、审核及提交各类专利文件；\n2、统筹和协调对国内专利流程涉及的各种文件、费用及时限等日常流程管理工作；\n3、对各种流程信函进行审核及辅导;\n4、根据专利流程相关规定对递交官方的各种文件进行核查;\n5、协助代理人处理专利流程中涉及的各种申请手续;\n6、使用系统软件完成相关录入及客户监控工作;\n7、负责收发、处理官方和客户往来文件，并对文件进行录入、分发\n8、协助部门完成其他事务性工作。\n【任职资格】\n愿意从事专利流程工作，良好的沟通能力、工作认真细心，责任心强，具有较强的团队协作意识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "助理",
+            "文员",
+            "文书起草"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bf39500d582078e689aa2615a5dde791946bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0CvIxlw9yaWwN-X1rSPhSPCFGzKE8fv9wLdpvqeT0yER9-h1_1TGZWggh4upYWgk1m3L2hIO_nTSpk2o2HB0V2bWkVIzQa7zMxhYa6jJ09srmNAqMwRtfOYBlS4G6qkvCw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

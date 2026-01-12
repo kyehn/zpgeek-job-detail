@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uj-xy1SMxzXk1-K18lfBMrAHD4l42DkwaQFbvgxaU_ZK2Lo_14mnAA-LSSn6buaN_bAHvU9Mt6A8-rWnfFuRfw0JDBdiKZatKXz0gbOR_4A3f4yNSA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "727067057f7a35eb1nB53N-8GFJU",
-      "encryptUserId": "476a4750ff85ba661nZ73NW7FVU~",
-      "invalidStatus": false,
-      "jobName": "QT工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容： 汽车仪表盘HMI设计和逻辑实现。\n1、熟悉QT应用编程开发环境，代码编写规范； \n2、熟练掌握QT，对信号和槽有较深的了解； \n3、负责对现有产品的开发、维护； \n4、熟悉图形视图框架的特点及使用方法； \n5、有对图形元素缩放、移动等图形界面操作项目经验的优先。 熟悉openGL者更佳。\n任职资格： \n1、数学计算机自动化机器人等相关专业本科以上学历，一年以上相关工作经验； \n2、 精通C，C++，有QT开发相关经验； \n3、 熟悉kanzi或MFC者更佳\n4、 多平台开发经验的优先。",
-      "encryptAddressId": "93c2614c6246b1141X172tS7EVQ~",
-      "address": "上海松江区上海掌安大厦1606",
-      "longitude": 121.276147,
-      "latitude": 31.120838,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ea580a70f1ee85993dd5313de548812",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/07bbed3ec25b1140bc1731ea6f0901fe",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "QT",
-        "多线程",
-        "软件工程师",
-        "高级软件工程师",
-        "中级软件工程师",
-        "初级软件工程师",
-        "MFC",
-        "OpenGL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "雨冉实业",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "82c55cd12dc3d1531XN93Ni_EA~~",
-      "brandName": "雨冉实业",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190517/19a5c3d070daa21eeb89545ac337c590dd1f5bc34c53e1427d5db1a6c8c22604.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "汽车坐舱系统开发与设计。\n高新技术企业，双软企业，人员在持续增加！福利待遇：五险一金。双休！一年外地团建一次（最少）。入职前两年为13薪。自身条件符合的可申请人才住房补助。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "员工旅游",
-        "节日福利"
-      ],
-      "activeTime": 1729825571018,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "雨冉实业",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "雨冉实业",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1729825571018,
+        "brandName": "雨冉实业",
+        "customerBrandName": "雨冉实业",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "82c55cd12dc3d1531XN93Ni_EA~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "汽车坐舱系统开发与设计。\n高新技术企业，双软企业，人员在持续增加！福利待遇：五险一金。双休！一年外地团建一次（最少）。入职前两年为13薪。自身条件符合的可申请人才住房补助。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "员工旅游",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190517/19a5c3d070daa21eeb89545ac337c590dd1f5bc34c53e1427d5db1a6c8c22604.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海松江区上海掌安大厦1606",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "93c2614c6246b1141X172tS7EVQ~",
+        "encryptId": "727067057f7a35eb1nB53N-8GFJU",
+        "encryptUserId": "476a4750ff85ba661nZ73NW7FVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "QT工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.120838,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.276147,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/07bbed3ec25b1140bc1731ea6f0901fe",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "工作内容： 汽车仪表盘HMI设计和逻辑实现。\n1、熟悉QT应用编程开发环境，代码编写规范； \n2、熟练掌握QT，对信号和槽有较深的了解； \n3、负责对现有产品的开发、维护； \n4、熟悉图形视图框架的特点及使用方法； \n5、有对图形元素缩放、移动等图形界面操作项目经验的优先。 熟悉openGL者更佳。\n任职资格： \n1、数学计算机自动化机器人等相关专业本科以上学历，一年以上相关工作经验； \n2、 精通C，C++，有QT开发相关经验； \n3、 熟悉kanzi或MFC者更佳\n4、 多平台开发经验的优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "QT",
+            "多线程",
+            "软件工程师",
+            "高级软件工程师",
+            "中级软件工程师",
+            "初级软件工程师",
+            "MFC",
+            "OpenGL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ea580a70f1ee85993dd5313de548812"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uj-xy1SMxzXk1-K18lfBMrAHD4l42DkwaQFbvgxaU_ZK2Lo_14mnAA-LSSn6buaN_bAHvU9Mt6A8-rWnfFuRfw0JDBdiKZatKXz0gbOR_4A3f4yNSA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

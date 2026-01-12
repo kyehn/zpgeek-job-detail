@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zMYZk9kc1LEi1-j1RlOLqyaRZfgbeKrXAWjeXc3eTJP4NZco0PiBfODhz4lzDzfTqq7wC7NL6JsUZxBgj_49atB7bzSNYQ6t75t0NEcJk8RomVKDzA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "61bd5e78dfe0cffe0Hd60tW8EFU~",
-      "encryptUserId": "848d5422e0aa9fb01nR42dq_E1RU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "经验不限",
-      "degreeName": "初中及以下",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "工作认真人品很好完善好了",
-      "encryptAddressId": "c52d233eb3966f231X170ti4GFM~",
-      "address": "西安未央区广运潭大道世园之家小区M楼",
-      "longitude": 109.015377,
-      "latitude": 34.311691,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/711068baabadd54b061c0508ae67bd22",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e3e3ad09e9a6e811a5fccebb9659e60c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "容器技术",
-        "网络协议",
-        "服务器配置",
-        "MVC开发",
-        "流媒体技术",
-        "音视频编解码"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "马女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "耀诺",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9ab51f37f23a1dd40nx52d-8EA~~",
-      "brandName": "耀诺",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721454508875,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "耀诺",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "耀诺",
+        "certificated": true,
+        "large": null,
+        "name": "马女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1721454508875,
+        "brandName": "耀诺",
+        "customerBrandName": "耀诺",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9ab51f37f23a1dd40nx52d-8EA~~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安未央区广运潭大道世园之家小区M楼",
+        "anonymous": 0,
+        "degreeName": "初中及以下",
+        "encryptAddressId": "c52d233eb3966f231X170ti4GFM~",
+        "encryptId": "61bd5e78dfe0cffe0Hd60tW8EFU~",
+        "encryptUserId": "848d5422e0aa9fb01nR42dq_E1RU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.311691,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 109.015377,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e3e3ad09e9a6e811a5fccebb9659e60c",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作认真人品很好完善好了",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "容器技术",
+            "网络协议",
+            "服务器配置",
+            "MVC开发",
+            "流媒体技术",
+            "音视频编解码"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/711068baabadd54b061c0508ae67bd22"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zMYZk9kc1LEi1-j1RlOLqyaRZfgbeKrXAWjeXc3eTJP4NZco0PiBfODhz4lzDzfTqq7wC7NL6JsUZxBgj_49atB7bzSNYQ6t75t0NEcJk8RomVKDzA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

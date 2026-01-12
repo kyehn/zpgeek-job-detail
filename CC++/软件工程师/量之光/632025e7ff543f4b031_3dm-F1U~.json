@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jr9BGibKLtHd8-q1ovK4A5p_lv7-M-syNVvAyh2-gKVC-ysG8lqAVGFFkNaRf9vJlG_iXUqoRCHVyu76kIOcJAV50CWmwAX0ecLLBqw6ox8BtxUHedhdcywQB5RI9kA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "632025e7ff543f4b031_3dm-F1U~",
-      "encryptUserId": "de2581c3f6b19d840X1-3tm0E1E~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101280700,
-      "locationName": "珠海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "15-20K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责： 岗位职责：\r\n1、根据项目开发计划，进行各模块软件代码的开发、调试、维护和整改。\r\n2、跟进软件测试及整机实验，分析并解决实验过程中出现的问题；\r\n3、编制和完善各阶段技术、生产图文资料，参与控制器评审，解决评审问题。\r\n任职要求 任职要求:\r\n1、本科及以上学历，计算机、软件工程、电子信息、通信及自动化等相关专业；\r\n2、嵌入式软件开发经验，熟悉 C、C++，熟悉软件开发流程；\r\n3、有较强的逻辑思维能力，注重团队协作；\r\n4、满足以下经验者优先：\r\n(1)熟悉 Linux 系统编程，有 Linux 操作系统开发应用经验者优先；\r\n(2)熟练掌握 uboot、系统移植和驱动开发，能独立完成 linux 相关开发工作优先；\r\n(3)熟悉 ucos，或其他实时操作系统开发经验优先；\r\n(4)熟悉硬件设计，电路原理图等。",
-      "encryptAddressId": "7213501d4987a5911nd63Ni7E1A~",
-      "address": "珠海香洲区新奥林科技园5栋508",
-      "longitude": 113.562278,
-      "latitude": 22.373523,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18a744fc38af521ca0719998d2926d16",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8edcdd1e8ee761baafafa4f2a080be2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C/C++",
-        "机器学习",
-        "Linux"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "量之光",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "22a35eabd0c6e3e20nR92Nm0FA~~",
-      "brandName": "量之光",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190725/3a17a43dbf2a1275bca96644a49c4e9389be09e05f0d547f262cc82bc6f5ca25_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [
-        "补充医疗保险"
-      ],
-      "activeTime": 1730926470480,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "量之光",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "量之光",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730926470480,
+        "brandName": "量之光",
+        "customerBrandName": "量之光",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "22a35eabd0c6e3e20nR92Nm0FA~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [
+            "补充医疗保险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190725/3a17a43dbf2a1275bca96644a49c4e9389be09e05f0d547f262cc82bc6f5ca25_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "珠海香洲区新奥林科技园5栋508",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7213501d4987a5911nd63Ni7E1A~",
+        "encryptId": "632025e7ff543f4b031_3dm-F1U~",
+        "encryptUserId": "de2581c3f6b19d840X1-3tm0E1E~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.373523,
+        "location": 101280700,
+        "locationName": "珠海",
+        "longitude": 113.562278,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8edcdd1e8ee761baafafa4f2a080be2",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "岗位职责： 岗位职责：\r\n1、根据项目开发计划，进行各模块软件代码的开发、调试、维护和整改。\r\n2、跟进软件测试及整机实验，分析并解决实验过程中出现的问题；\r\n3、编制和完善各阶段技术、生产图文资料，参与控制器评审，解决评审问题。\r\n任职要求 任职要求:\r\n1、本科及以上学历，计算机、软件工程、电子信息、通信及自动化等相关专业；\r\n2、嵌入式软件开发经验，熟悉 C、C++，熟悉软件开发流程；\r\n3、有较强的逻辑思维能力，注重团队协作；\r\n4、满足以下经验者优先：\r\n(1)熟悉 Linux 系统编程，有 Linux 操作系统开发应用经验者优先；\r\n(2)熟练掌握 uboot、系统移植和驱动开发，能独立完成 linux 相关开发工作优先；\r\n(3)熟悉 ucos，或其他实时操作系统开发经验优先；\r\n(4)熟悉硬件设计，电路原理图等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "15-20K",
+        "showSkills": [
+            "C/C++",
+            "机器学习",
+            "Linux"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18a744fc38af521ca0719998d2926d16"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jr9BGibKLtHd8-q1ovK4A5p_lv7-M-syNVvAyh2-gKVC-ysG8lqAVGFFkNaRf9vJlG_iXUqoRCHVyu76kIOcJAV50CWmwAX0ecLLBqw6ox8BtxUHedhdcywQB5RI9kA~",
+    "selfAccess": false,
+    "sessionId": null
 }

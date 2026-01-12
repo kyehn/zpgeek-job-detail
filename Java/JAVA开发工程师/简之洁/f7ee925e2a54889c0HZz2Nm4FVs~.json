@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fGb7GDXXDGCe_-q1v66mNi2_kYHYjuWYgTyvbt72PTVTqxbTbkuLmoxIptPJ2sqvFPzOA3jmCtV4gADFLG7zL3_tfz_usaagE0RbK3-GBRgGnOrN4hQAUJYn2Bs5q4nzdKADf4iHsm4k",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f7ee925e2a54889c0HZz2Nm4FVs~",
-      "encryptUserId": "b463478f3f0444b61nR73tq4FVdX",
-      "invalidStatus": false,
-      "jobName": "JAVA开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟练掌握Java语言；\n2.使用Spring,SpringMVC,MyBatis,Springboot等；\n工作职责:\n1.根据设计文档或需求说明完成代码编写，调试，测试和维护；\n2.分析并解决软件开发过程中的问题，现场分析和解决客户遇到的问题；\n配合项目组完成日常任务目标。",
-      "encryptAddressId": "e00ace213d42323e1X173tS1GFU~",
-      "address": "上海静安区宝丰大厦(共和新路)",
-      "longitude": 121.462743,
-      "latitude": 31.249003,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65896e607f767cdc72f5c4c18d080ae7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6406ee6e3a20568d1a4dc8a10ecd4118",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "简之洁",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0ec3c01cc216c37c0HJy3ty0Fw~~",
-      "brandName": "简之洁",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721727130669,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "简之洁",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "简之洁",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721727130669,
+        "brandName": "简之洁",
+        "customerBrandName": "简之洁",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0ec3c01cc216c37c0HJy3ty0Fw~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海静安区宝丰大厦(共和新路)",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e00ace213d42323e1X173tS1GFU~",
+        "encryptId": "f7ee925e2a54889c0HZz2Nm4FVs~",
+        "encryptUserId": "b463478f3f0444b61nR73tq4FVdX",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "JAVA开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.249003,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.462743,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6406ee6e3a20568d1a4dc8a10ecd4118",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.熟练掌握Java语言；\n2.使用Spring,SpringMVC,MyBatis,Springboot等；\n工作职责:\n1.根据设计文档或需求说明完成代码编写，调试，测试和维护；\n2.分析并解决软件开发过程中的问题，现场分析和解决客户遇到的问题；\n配合项目组完成日常任务目标。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65896e607f767cdc72f5c4c18d080ae7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fGb7GDXXDGCe_-q1v66mNi2_kYHYjuWYgTyvbt72PTVTqxbTbkuLmoxIptPJ2sqvFPzOA3jmCtV4gADFLG7zL3_tfz_usaagE0RbK3-GBRgGnOrN4hQAUJYn2Bs5q4nzdKADf4iHsm4k",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rBa7pvAA5kxLh-i1ROmoNn-5EuaFbAcEDHDY5lJoYN26WcjZ4lLtRLtc_8EiEHBk4hQkAurT2NQwtZF8m08FNZ7MYF-6JASXzro_QyhZt9Ac5urkUh1blvDIx6jnAmQzKvCbf4HS6MKP0MUCzKF321rwTxuMIFs9SOnhtrzWn00cWZSHDa8RJCr3HAAudnM7GsxKtuc93ugmo0OsFbowISEbCA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a40b655a3d36b5ad03R_29W5EVFU",
-      "encryptUserId": "904b700f809b8bbe0nF-0968FlFY",
-      "invalidStatus": false,
-      "jobName": "it技术专员",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "用人周期：2024年12月6日-2025年1月25日\n人员要求：具备基本的计算机操作能力，专科以上学历，计算机相关专业，能够接受加班，品德良好，有责任心，主动性强，能吃苦。\n薪资：180元/天",
-      "encryptAddressId": "13fec026dfc6b1341nF80t61ElpSyou4Vvud",
-      "address": "北京顺义区吉大正元科研生产基地1",
-      "longitude": 116.546157,
-      "latitude": 40.099319,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240320/48ba41acc9cef1bf7ac97e91af942005bef8cdec7441be3b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240320/48ba41acc9cef1bfa4fc4994ed6520b895c609436a2ad34d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施",
-        "测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "孙女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "大连新致",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "791b692e950b8b601nB80ty1EFc~",
-      "brandName": "大连新致",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733902179422,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大连新致",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "大连新致",
+        "certificated": true,
+        "large": null,
+        "name": "孙女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1733902179422,
+        "brandName": "大连新致",
+        "customerBrandName": "大连新致",
+        "customerBrandStageName": "",
+        "encryptBrandId": "791b692e950b8b601nB80ty1EFc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京顺义区吉大正元科研生产基地1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "13fec026dfc6b1341nF80t61ElpSyou4Vvud",
+        "encryptId": "a40b655a3d36b5ad03R_29W5EVFU",
+        "encryptUserId": "904b700f809b8bbe0nF-0968FlFY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "it技术专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.099319,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.546157,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240320/48ba41acc9cef1bfa4fc4994ed6520b895c609436a2ad34d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "用人周期：2024年12月6日-2025年1月25日\n人员要求：具备基本的计算机操作能力，专科以上学历，计算机相关专业，能够接受加班，品德良好，有责任心，主动性强，能吃苦。\n薪资：180元/天",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "实施",
+            "测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240320/48ba41acc9cef1bf7ac97e91af942005bef8cdec7441be3b6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rBa7pvAA5kxLh-i1ROmoNn-5EuaFbAcEDHDY5lJoYN26WcjZ4lLtRLtc_8EiEHBk4hQkAurT2NQwtZF8m08FNZ7MYF-6JASXzro_QyhZt9Ac5urkUh1blvDIx6jnAmQzKvCbf4HS6MKP0MUCzKF321rwTxuMIFs9SOnhtrzWn00cWZSHDa8RJCr3HAAudnM7GsxKtuc93ugmo0OsFbowISEbCA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

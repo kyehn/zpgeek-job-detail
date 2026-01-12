@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZLE0l5jBzL7z_-m1RQ6OCoJ8sXo_4AfXs4NCp12a6JpN4SKM585ZgESUo07agJWUDoG2GjZFwier6CNAlrPVVai7SXDL8hw_6Dz6Hsw1_WYzx4bJajlvpnaMrlEeyPHl84-bw_GuvxlKFKg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4d155502a567c7991nF73d-7FVNS",
-      "encryptUserId": "cc4c7e3b2bc293130nZ83tW8E1NZ",
-      "invalidStatus": false,
-      "jobName": "软件测评工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求：\n1.负责嵌入式软件测试，包含文档审查，静态分析，代码审查，单元测试和动态黑盒测试等。\n2.熟练掌握Test bed,C++Test等软件测试工具进行静态分析或单元测试。\n3.具有良好的C++和C语言编程能力或阅读代码能力。\n4.协助编写测试大纲，测试报告，编写测试工作相关输出文档。\n5.搭建测试环境，编写测试用例，并执行测试用例，提交软件问题报告单。\n6.跟踪bug状态，执行回归测试。\n任职要求：\n1.计算机、软件工程、自动化，电子通信，数学及相关专业，本科及以上学历。\n2.具备良好的文档编写能力。\n3.具有嵌入式软件测试经验者或从事军工软件测评经验者优先考虑。",
-      "encryptAddressId": "21be9884778a531d1XJ_3tS5Fg~~",
-      "address": "北京顺义区华安中泰检测顺义林河南大街33号",
-      "longitude": 116.657622,
-      "latitude": 40.087035,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b76c67bc01de11b7f5d41a8243c91a71",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/937504bcc718264d311adca4609baa67",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "黑盒测试",
-        "C/C++",
-        "嵌入式软件，testbed"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220113/607f1f3d68754fd0f8c335383a2ae67ffcd36d5f6287c86c451201a7a9e19982a2878e70067_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "HAZT",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "625be1bf63a8c3411nF83dS_EVU~",
-      "brandName": "HAZT",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100606,
-      "industryName": "检测/认证",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725600361627,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "HAZT",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "HAZT",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220113/607f1f3d68754fd0f8c335383a2ae67ffcd36d5f6287c86c451201a7a9e19982a2878e70067_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725600361627,
+        "brandName": "HAZT",
+        "customerBrandName": "HAZT",
+        "customerBrandStageName": "",
+        "encryptBrandId": "625be1bf63a8c3411nF83dS_EVU~",
+        "focusBrand": false,
+        "industry": 100606,
+        "industryName": "检测/认证",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京顺义区华安中泰检测顺义林河南大街33号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "21be9884778a531d1XJ_3tS5Fg~~",
+        "encryptId": "4d155502a567c7991nF73d-7FVNS",
+        "encryptUserId": "cc4c7e3b2bc293130nZ83tW8E1NZ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件测评工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.087035,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.657622,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/937504bcc718264d311adca4609baa67",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位要求：\n1.负责嵌入式软件测试，包含文档审查，静态分析，代码审查，单元测试和动态黑盒测试等。\n2.熟练掌握Test bed,C++Test等软件测试工具进行静态分析或单元测试。\n3.具有良好的C++和C语言编程能力或阅读代码能力。\n4.协助编写测试大纲，测试报告，编写测试工作相关输出文档。\n5.搭建测试环境，编写测试用例，并执行测试用例，提交软件问题报告单。\n6.跟踪bug状态，执行回归测试。\n任职要求：\n1.计算机、软件工程、自动化，电子通信，数学及相关专业，本科及以上学历。\n2.具备良好的文档编写能力。\n3.具有嵌入式软件测试经验者或从事军工软件测评经验者优先考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K·13薪",
+        "showSkills": [
+            "黑盒测试",
+            "C/C++",
+            "嵌入式软件，testbed"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b76c67bc01de11b7f5d41a8243c91a71"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZLE0l5jBzL7z_-m1RQ6OCoJ8sXo_4AfXs4NCp12a6JpN4SKM585ZgESUo07agJWUDoG2GjZFwier6CNAlrPVVai7SXDL8hw_6Dz6Hsw1_WYzx4bJajlvpnaMrlEeyPHl84-bw_GuvxlKFKg~",
+    "selfAccess": false,
+    "sessionId": null
 }

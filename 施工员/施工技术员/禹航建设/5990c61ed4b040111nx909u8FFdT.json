@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "NDQ9n6lPqemLj-T1pCMJ6EmqJrUHDikWbk9vzvkT9y0ZraDMacRBAfwIm8SpS8snFr29FnekBTptXukwctLZW7RpIc2JUbIznCP-JEordfx5TIiD024~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5990c61ed4b040111nx909u8FFdT",
-      "encryptUserId": "72422085b4632ca91nV709W7EFRY",
-      "invalidStatus": false,
-      "jobName": "施工技术员",
-      "position": 220218,
-      "positionName": "施工员",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-6K",
-      "payTypeDesc": null,
-      "postDescription": "招应届毕业生、实习生\n1、土木工程、市政、给排水、道桥、交建或造价工程等或相关专业，薪资面议。\n2协助项目经理及上级领导对工程施工、工程质量和现场文明施工的控制，解决施工项目现场技术、管理等问题；\n3、熟悉施工图纸，操作和使用CAD、OFFICE等办公软件；\n4、吃苦耐劳，善于沟通，有较高的团队合作精神和责任感。",
-      "encryptAddressId": "aef4d2836c30384e1nV_39q1GVc~",
-      "address": "杭州余杭区杭州禹航建设工程有限公司城东路8号",
-      "longitude": 119.955027,
-      "latitude": 30.254293,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f7709dfe94d36e104a33218059086ef",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e9d9c584606cbaaee76867132a03245",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "市政工程",
-        "总包施工员",
-        "道路工程经验",
-        "助力技术员",
-        "市政工程经验",
-        "施工技术员"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "范女士",
-      "title": "综合办公室主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "禹航建设",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "223624d2213dfbef33J929u1EA~~",
-      "brandName": "禹航建设",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725532308845,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "禹航建设",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "禹航建设",
+        "certificated": true,
+        "large": null,
+        "name": "范女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "综合办公室主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725532308845,
+        "brandName": "禹航建设",
+        "customerBrandName": "禹航建设",
+        "customerBrandStageName": "",
+        "encryptBrandId": "223624d2213dfbef33J929u1EA~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区杭州禹航建设工程有限公司城东路8号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "aef4d2836c30384e1nV_39q1GVc~",
+        "encryptId": "5990c61ed4b040111nx909u8FFdT",
+        "encryptUserId": "72422085b4632ca91nV709W7EFRY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "施工技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.254293,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.955027,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e9d9c584606cbaaee76867132a03245",
+        "position": 220218,
+        "positionName": "施工员",
+        "postDescription": "招应届毕业生、实习生\n1、土木工程、市政、给排水、道桥、交建或造价工程等或相关专业，薪资面议。\n2协助项目经理及上级领导对工程施工、工程质量和现场文明施工的控制，解决施工项目现场技术、管理等问题；\n3、熟悉施工图纸，操作和使用CAD、OFFICE等办公软件；\n4、吃苦耐劳，善于沟通，有较高的团队合作精神和责任感。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-6K",
+        "showSkills": [
+            "市政工程",
+            "总包施工员",
+            "道路工程经验",
+            "助力技术员",
+            "市政工程经验",
+            "施工技术员"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f7709dfe94d36e104a33218059086ef"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "NDQ9n6lPqemLj-T1pCMJ6EmqJrUHDikWbk9vzvkT9y0ZraDMacRBAfwIm8SpS8snFr29FnekBTptXukwctLZW7RpIc2JUbIznCP-JEordfx5TIiD024~",
+    "selfAccess": false,
+    "sessionId": null
 }

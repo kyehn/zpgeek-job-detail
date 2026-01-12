@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IqwyvhjnhLobT-E1R2aksNoRid211I0fzLJegknIdkxBszGU_cOsQausNXd_voB0PEez8t_o7-Rhdlahe4c7DUp5psdN_uzvyskX0KyLwfUB0MwJhh8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0e87f4b6228a54de1nZz3N-4GVpX",
-      "encryptUserId": "e751ed6e0cdd8c1a0HV-39u-EFY~",
-      "invalidStatus": false,
-      "jobName": "网络专员",
-      "position": 100507,
-      "positionName": "数据仓库",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责按时按量完成上级安排的项目任务进度\n2.主要工作内容为用计算机完成道路信息采集项目",
-      "encryptAddressId": "cdd4068512786ab503Z63Nm0EVo~",
-      "address": "武汉江夏区网野(武汉)高科技有限公司滨湖路32号",
-      "longitude": 114.39721,
-      "latitude": 30.437686,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8edc40c9dd4b592f23498c0aebb694cc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e41fadda8d7237d01ae40c6e821627f5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "地图导航"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "席先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190731/721cd730d5f384bf99ed056153ff08644c4430e3738ab5584339e418148_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "焜康",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8f0f8ef7a7965c661nBy2d-0E1o~",
-      "brandName": "焜康",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101109,
-      "industryName": "家政服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1718277529723,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "焜康",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "焜康",
+        "certificated": true,
+        "large": null,
+        "name": "席先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190731/721cd730d5f384bf99ed056153ff08644c4430e3738ab5584339e418148_b.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1718277529723,
+        "brandName": "焜康",
+        "customerBrandName": "焜康",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8f0f8ef7a7965c661nBy2d-0E1o~",
+        "focusBrand": false,
+        "industry": 101109,
+        "industryName": "家政服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区网野(武汉)高科技有限公司滨湖路32号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "cdd4068512786ab503Z63Nm0EVo~",
+        "encryptId": "0e87f4b6228a54de1nZz3N-4GVpX",
+        "encryptUserId": "e751ed6e0cdd8c1a0HV-39u-EFY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "网络专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.437686,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.39721,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e41fadda8d7237d01ae40c6e821627f5",
+        "position": 100507,
+        "positionName": "数据仓库",
+        "postDescription": "1.负责按时按量完成上级安排的项目任务进度\n2.主要工作内容为用计算机完成道路信息采集项目",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "地图导航"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8edc40c9dd4b592f23498c0aebb694cc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IqwyvhjnhLobT-E1R2aksNoRid211I0fzLJegknIdkxBszGU_cOsQausNXd_voB0PEez8t_o7-Rhdlahe4c7DUp5psdN_uzvyskX0KyLwfUB0MwJhh8~",
+    "selfAccess": false,
+    "sessionId": null
 }

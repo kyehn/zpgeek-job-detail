@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "nRB8GIPzSTo9l-u1N94fy9wXs1ftx8ZXAFttPwiMynrDCkF1gqcvM_lKUrqRFclGe6unaYQFNwE29gagyCnoQf1ioJ4HaUQhEAXZ1ebI9HctBgfSxG6qqqFTYPwm8dK4kzRASvYve_k~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4c244e3e855736c21HJ92d2_GFE~",
-      "encryptUserId": "77477f02ddd989eb0nF73dS8ElU~",
-      "invalidStatus": false,
-      "jobName": "JAVA后端工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责： \r\n1、负责后台系统的研发，及时解决项目涉及到的技术问题。 \r\n2、参与系统需求分析与设计，负责完成核心代码编写，接口规范制定\r\n3、参与后台服务性能效率优化\r\n\r\n岗位要求： \r\n1、计算机相关专业毕业，有大数据高并发的处理经验，精通spring框架，阅读过spring源码，熟悉其事务机制 \r\n2、熟练应用Linux操作系统，熟悉GIT等版本管理软件\r\n3、掌握网站访问速度的各种优化方案,并提出优化方案更佳\r\n4、掌握Spring、SpringMVC、mybatis、Redis、JavaScript、CSS3、XML、AJAX等知识，能够灵活运用\r\n5、熟悉软件设计流程和软件工程规范，具备编写良好而规范的设计和技术文档的能力\r\n6、熟悉Oracle、sql server、mysql等大型数据库一种或多种，熟练编写SQL语句及sql优化\r\n7、对技术有激情，喜欢钻研，能快速接受和掌握新技术，有较强的独立、主动的学习能力，良好的沟通表达能力和团队协作能力。",
-      "encryptAddressId": "595c3a54621ebcda1XBz2d-4E1E~",
-      "address": "杭州余杭区华元欢乐城",
-      "longitude": 120.3004,
-      "latitude": 30.39586,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fd906035e04bee287d71f42818f8f6b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9601465d0d48994bcd31caf7503c83dd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "韩先生",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190226/8cbbac7f60108967e08c17b550e1ac3b991fd10e939626f383d3c389ef5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "亿航科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "049e33c4d01d51661HJ509-9Eg~~",
-      "brandName": "亿航科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725469000418,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "亿航科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "亿航科技",
+        "certificated": true,
+        "large": null,
+        "name": "韩先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190226/8cbbac7f60108967e08c17b550e1ac3b991fd10e939626f383d3c389ef5_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725469000418,
+        "brandName": "亿航科技",
+        "customerBrandName": "亿航科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "049e33c4d01d51661HJ509-9Eg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区华元欢乐城",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "595c3a54621ebcda1XBz2d-4E1E~",
+        "encryptId": "4c244e3e855736c21HJ92d2_GFE~",
+        "encryptUserId": "77477f02ddd989eb0nF73dS8ElU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "JAVA后端工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.39586,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.3004,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9601465d0d48994bcd31caf7503c83dd",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作职责： \r\n1、负责后台系统的研发，及时解决项目涉及到的技术问题。 \r\n2、参与系统需求分析与设计，负责完成核心代码编写，接口规范制定\r\n3、参与后台服务性能效率优化\r\n\r\n岗位要求： \r\n1、计算机相关专业毕业，有大数据高并发的处理经验，精通spring框架，阅读过spring源码，熟悉其事务机制 \r\n2、熟练应用Linux操作系统，熟悉GIT等版本管理软件\r\n3、掌握网站访问速度的各种优化方案,并提出优化方案更佳\r\n4、掌握Spring、SpringMVC、mybatis、Redis、JavaScript、CSS3、XML、AJAX等知识，能够灵活运用\r\n5、熟悉软件设计流程和软件工程规范，具备编写良好而规范的设计和技术文档的能力\r\n6、熟悉Oracle、sql server、mysql等大型数据库一种或多种，熟练编写SQL语句及sql优化\r\n7、对技术有激情，喜欢钻研，能快速接受和掌握新技术，有较强的独立、主动的学习能力，良好的沟通表达能力和团队协作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fd906035e04bee287d71f42818f8f6b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "nRB8GIPzSTo9l-u1N94fy9wXs1ftx8ZXAFttPwiMynrDCkF1gqcvM_lKUrqRFclGe6unaYQFNwE29gagyCnoQf1ioJ4HaUQhEAXZ1ebI9HctBgfSxG6qqqFTYPwm8dK4kzRASvYve_k~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "w92x33EbYaeLK-t152EqDlDiURdQJl0Kc9iDIIQL_ZrG_e7cq6bu1iMBu9xycRCX6R5UZdXo81h3dkWZmJ036djAJm0gnHUz2uEh8On9cz2rfx5JyixGb5OTB4Bu7dNoyEQT64xKjBkY",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bc609cfc4d1fc1ca1nF93di_EFNZ",
-      "encryptUserId": "9b35337cb59e327f0Hd609u1Eg~~",
-      "invalidStatus": false,
-      "jobName": "软件实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、对客户的软件问题予以支持；\n2、现场解决客户软件应用及系统问题；\n\n3、ERP实施、应用培训；\n\n4、持续创新的服务，客户第一的心态，时刻为提高客户满意度而存在。\n\n\n岗位要求：\n1、思维敏捷、应变能力强\n\n2、有良好的服务意识，工作责任心强，有敬业精神；热情大方；细心、耐心\n\n3、本科以上学历，计算机或相关专业；熟悉SQLSERVER数据库优先考虑。",
-      "encryptAddressId": "e8664339672684410nN73964",
-      "address": "北京大兴区北京经开·北工大软件园3",
-      "longitude": 116.496655,
-      "latitude": 39.783649,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24cdea245c04ab75511b94a6264489ab",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/247764a99d395e636da6319c1d6d4365",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问",
-        "软件实施",
-        "项目管理",
-        "项目经理",
-        "包住"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160420/c956b2e95996bc6202dc7b2918d062988c7dd922ad47494fc02c388e12c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "潮声科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "35508d92d94416311nN409-1GVY~",
-      "brandName": "潮声科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725605219026,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "潮声科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "潮声科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160420/c956b2e95996bc6202dc7b2918d062988c7dd922ad47494fc02c388e12c_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725605219026,
+        "brandName": "潮声科技",
+        "customerBrandName": "潮声科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "35508d92d94416311nN409-1GVY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京大兴区北京经开·北工大软件园3",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e8664339672684410nN73964",
+        "encryptId": "bc609cfc4d1fc1ca1nF93di_EFNZ",
+        "encryptUserId": "9b35337cb59e327f0Hd609u1Eg~~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.783649,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.496655,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/247764a99d395e636da6319c1d6d4365",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1、对客户的软件问题予以支持；\n2、现场解决客户软件应用及系统问题；\n\n3、ERP实施、应用培训；\n\n4、持续创新的服务，客户第一的心态，时刻为提高客户满意度而存在。\n\n\n岗位要求：\n1、思维敏捷、应变能力强\n\n2、有良好的服务意识，工作责任心强，有敬业精神；热情大方；细心、耐心\n\n3、本科以上学历，计算机或相关专业；熟悉SQLSERVER数据库优先考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "实施工程师/顾问",
+            "软件实施",
+            "项目管理",
+            "项目经理",
+            "包住"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24cdea245c04ab75511b94a6264489ab"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "w92x33EbYaeLK-t152EqDlDiURdQJl0Kc9iDIIQL_ZrG_e7cq6bu1iMBu9xycRCX6R5UZdXo81h3dkWZmJ036djAJm0gnHUz2uEh8On9cz2rfx5JyixGb5OTB4Bu7dNoyEQT64xKjBkY",
+    "selfAccess": false,
+    "sessionId": null
 }

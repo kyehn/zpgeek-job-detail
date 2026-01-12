@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GeOT01-n4WkJe-c1lzqbh96rJd6YGgKeuwDkkZ97ZaoV_ZUmFl5LdZUuHZXRvvfBw0-_duWannmwsRqjmfyIfh4p5SJRPoEI00E92qnqOJThLLED8_0q",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "83f1cea6a8fab9fc1nV72Nm8EFtU",
-      "encryptUserId": "e2979cf1d0c6d4650nR93927FVdR",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "1、根据项目要求，编写代码实现产品功能，完成项目开发，撰写相关文档，参与需求分析；\n\n2、负责核心技术问题的攻关，系统优化，协助解决项目开发过程中的技术难题；\n\n3、配合项目的整体计划和安排，参与相关技术培训和指导；\n\n4、参与项目实施，做好沟通协调工作。",
-      "encryptAddressId": "07b5df7e131fbe2e1w~~",
-      "address": null,
-      "longitude": 0.0,
-      "latitude": 0.0,
-      "staticMapUrl": "",
-      "pcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "JavaScript"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201114/632e71acf81b324f42922ff9d66bbaef3f270f3b75d2fc588ccda1015d2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "云间烟火",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "22ba6a843caf3c751nZy3d-8FVE~",
-      "brandName": "云间烟火",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211213/7b5b554d84f9729c40ea95ff357ce36a41ece4ed8e083e2d0a074f7a11afc70e83a6871b7e7227a9.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "http://www.dmsmaike.com/",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "包吃",
-        "节日福利",
-        "住房补贴"
-      ],
-      "activeTime": 1719115676820,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云间烟火",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云间烟火",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201114/632e71acf81b324f42922ff9d66bbaef3f270f3b75d2fc588ccda1015d2_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1719115676820,
+        "brandName": "云间烟火",
+        "customerBrandName": "云间烟火",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "22ba6a843caf3c751nZy3d-8FVE~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "http://www.dmsmaike.com/",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "包吃",
+            "节日福利",
+            "住房补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211213/7b5b554d84f9729c40ea95ff357ce36a41ece4ed8e083e2d0a074f7a11afc70e83a6871b7e7227a9.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": null,
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "07b5df7e131fbe2e1w~~",
+        "encryptId": "83f1cea6a8fab9fc1nV72Nm8EFtU",
+        "encryptUserId": "e2979cf1d0c6d4650nR93927FVdR",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 0.0,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 0.0,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、根据项目要求，编写代码实现产品功能，完成项目开发，撰写相关文档，参与需求分析；\n\n2、负责核心技术问题的攻关，系统优化，协助解决项目开发过程中的技术难题；\n\n3、配合项目的整体计划和安排，参与相关技术培训和指导；\n\n4、参与项目实施，做好沟通协调工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "Java",
+            "JavaScript"
+        ],
+        "staticMapUrl": ""
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GeOT01-n4WkJe-c1lzqbh96rJd6YGgKeuwDkkZ97ZaoV_ZUmFl5LdZUuHZXRvvfBw0-_duWannmwsRqjmfyIfh4p5SJRPoEI00E92qnqOJThLLED8_0q",
+    "selfAccess": false,
+    "sessionId": null
 }

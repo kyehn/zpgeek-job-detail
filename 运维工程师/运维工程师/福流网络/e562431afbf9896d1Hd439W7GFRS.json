@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WsAFuJGdvbO4X-p1q5-4WS3LiKlR7D3m6h6NXRl5DL48QTlOBZomBer1C1gPSqJjVXhZxrsk-AYdEs1UzRE6hetVUwcqHxsT9pjfGAw9b-xgo4Xz1WGN",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e562431afbf9896d1Hd439W7GFRS",
-      "encryptUserId": "86ebd041ccd2c2321nV639i9ElZX",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "1.能熟练使用linux常用操作命令；\n2.负责Linux服务器系统日常维护（数据备份、日志管理、系统升级等），保障业务基础系统安全、稳定；\n3.负责系统线上发布、升级、故障分析，保障业务系统的正常运营；\n4.服务器集群的系统运维、监控分析；\n5.熟悉网络架构，能够排除基本的网络故障排错，有较强的网络安全意识，熟悉Iptables者；\n6.能够操作Linux系统的Nginx互联网反向代理、Memcached、Redis等缓存配置；\n7.Tomcat、FastDFS、Zookeeper等服务各种操作使用。\n8.软件安装、系统优化及安全、环境搭建、系统集群等。\n9.熟悉防火墙、路由器、交换机的运行机制和配置；\n10.具备较好的学习能力、沟通表达能力、抗压能力；\n11.能适应出差；",
-      "encryptAddressId": "f9ac3ec850fb7a2f1HZ92tq8GFRXxoi6Vvw~",
-      "address": "深圳宝安区广兴源互联网产业基地A区(宝安互联网产业基地A区)8栋727",
-      "longitude": 113.871131,
-      "latitude": 22.561837,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf8333a649a1f58d1fc3f5adc5214b728c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfdb28069328fa78233dd4beec8baf24c76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "运维开发/DevOps"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "副总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210305/450bdf390d3e86ae811458cf5ec1724ada6ae984978213b2cd471acf157_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "福流网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7148d156322584b01nF72Nm_E1s~",
-      "brandName": "福流网络",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719132495678,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "福流网络",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "福流网络",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210305/450bdf390d3e86ae811458cf5ec1724ada6ae984978213b2cd471acf157_b.jpg",
+        "title": "副总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719132495678,
+        "brandName": "福流网络",
+        "customerBrandName": "福流网络",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7148d156322584b01nF72Nm_E1s~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区广兴源互联网产业基地A区(宝安互联网产业基地A区)8栋727",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f9ac3ec850fb7a2f1HZ92tq8GFRXxoi6Vvw~",
+        "encryptId": "e562431afbf9896d1Hd439W7GFRS",
+        "encryptUserId": "86ebd041ccd2c2321nV639i9ElZX",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.561837,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.871131,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfdb28069328fa78233dd4beec8baf24c76bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.能熟练使用linux常用操作命令；\n2.负责Linux服务器系统日常维护（数据备份、日志管理、系统升级等），保障业务基础系统安全、稳定；\n3.负责系统线上发布、升级、故障分析，保障业务系统的正常运营；\n4.服务器集群的系统运维、监控分析；\n5.熟悉网络架构，能够排除基本的网络故障排错，有较强的网络安全意识，熟悉Iptables者；\n6.能够操作Linux系统的Nginx互联网反向代理、Memcached、Redis等缓存配置；\n7.Tomcat、FastDFS、Zookeeper等服务各种操作使用。\n8.软件安装、系统优化及安全、环境搭建、系统集群等。\n9.熟悉防火墙、路由器、交换机的运行机制和配置；\n10.具备较好的学习能力、沟通表达能力、抗压能力；\n11.能适应出差；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "系统运维",
+            "运维开发/DevOps"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf8333a649a1f58d1fc3f5adc5214b728c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WsAFuJGdvbO4X-p1q5-4WS3LiKlR7D3m6h6NXRl5DL48QTlOBZomBer1C1gPSqJjVXhZxrsk-AYdEs1UzRE6hetVUwcqHxsT9pjfGAw9b-xgo4Xz1WGN",
+    "selfAccess": false,
+    "sessionId": null
 }

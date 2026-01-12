@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZSDKqqfj6VYBg-v1pJTSdkuxYoL_joXBHGdpLrjCZrm-ib722x6bnn2wM4KO2nFr6S50DmvB4TFXUYPnl-xKSpKanTHQcGj-pg5lSsa2rZ2zQ5hWxkU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "eddfd88633f5d3aa1H1-39S8FlZQ",
-      "encryptUserId": "9945dec3b01af08103J93926GVU~",
-      "invalidStatus": false,
-      "jobName": "java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n1、根据开发进度和任务分配，完成相应软件模块的设计、开发、单元测试和文档编写；\n2、参与产品项目规划工作，设计架构相关技术方案，制定具体项目实施规则；\n3、调整、部署系统平台的搭建，调优等；\n4、参与部门的产品升级迭代工作，为架构调整和重构提供意见；\n5、参与项目代码评审。\n\n岗位要求：\n1、专科及以上学历，有医疗行业研发经验优先，编程基础扎实，2年以上JAVA开发经验；\n2、扎实的java编程基础、熟练使用开源技术架构，如spring，springmvc，MyBatis或springboot等；熟悉rpc相关框架，如dubbo，springcloud等；\n3、熟悉缓存服务框架，如redis或memcache；熟练使用mysql，oracle等，熟悉nosql数据库，如：mongodb等；\n4、熟悉linux环境部署及常用命令,了解docker，kubernetes等服务部署及监控技术的优先；熟练使用svn、git等版本管理工具；\n5、了解使用vue框架、HTML、javascript 、css等相关知识。",
-      "encryptAddressId": "2e2eb442b820af9933B929m4GFQ~",
-      "address": "南京江宁区秣陵中心C座8楼",
-      "longitude": 118.82053,
-      "latitude": 31.916414,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c13f06e3358350f5808b55a13cf2283c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc1c07302c6a2ac1868cedb2cd6f393f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "Java开发经验",
-        "计算机/软件工程相关经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "贾女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd043b75e3272bb12b99eeb45c33e9ac66f796f85d8a0a88490073a698d658679c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "守正耘创大数据",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "22c3cb10b093d8101Xdz39i5FFM~",
-      "brandName": "守正耘创大数据",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221116/7b5b554d84f9729c760cd5819e476f1d16277c603f4fbdc16cd823b1ce430cd7c046e5f7a16228a0.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100006,
-      "industryName": "医疗健康",
-      "introduce": "江苏守正耘创大数据科技有限公司一家专注于“数据经济”与“科技创新应用”，并提供数据智能化服务及数据运营的创新技术企业。公司从信息化、大数据、人工智能、临床研究、健康管理5个维度做顶层设计，积极参与国家医疗行业大数据的标准化、专科化、体系化和产业化建设。通过统一技术框架和应用平台，推动从医院到区域，从数据到产业的体系建设，为卫健委、医疗机构、专科医联体、地区专科大数据质控中心、药企等机构提供高质量和高效率的数据服务。",
-      "labels": [
-        "交通补助",
-        "零食下午茶",
-        "餐补",
-        "带薪年假",
-        "全勤奖",
-        "股票期权",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1731661636759,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "守正耘创大数据",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "守正耘创大数据",
+        "certificated": true,
+        "large": null,
+        "name": "贾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd043b75e3272bb12b99eeb45c33e9ac66f796f85d8a0a88490073a698d658679c_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1731661636759,
+        "brandName": "守正耘创大数据",
+        "customerBrandName": "守正耘创大数据",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "22c3cb10b093d8101Xdz39i5FFM~",
+        "focusBrand": false,
+        "industry": 100006,
+        "industryName": "医疗健康",
+        "introduce": "江苏守正耘创大数据科技有限公司一家专注于“数据经济”与“科技创新应用”，并提供数据智能化服务及数据运营的创新技术企业。公司从信息化、大数据、人工智能、临床研究、健康管理5个维度做顶层设计，积极参与国家医疗行业大数据的标准化、专科化、体系化和产业化建设。通过统一技术框架和应用平台，推动从医院到区域，从数据到产业的体系建设，为卫健委、医疗机构、专科医联体、地区专科大数据质控中心、药企等机构提供高质量和高效率的数据服务。",
+        "labels": [
+            "交通补助",
+            "零食下午茶",
+            "餐补",
+            "带薪年假",
+            "全勤奖",
+            "股票期权",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221116/7b5b554d84f9729c760cd5819e476f1d16277c603f4fbdc16cd823b1ce430cd7c046e5f7a16228a0.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区秣陵中心C座8楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2e2eb442b820af9933B929m4GFQ~",
+        "encryptId": "eddfd88633f5d3aa1H1-39S8FlZQ",
+        "encryptUserId": "9945dec3b01af08103J93926GVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.916414,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.82053,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc1c07302c6a2ac1868cedb2cd6f393f",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "职位描述：\n1、根据开发进度和任务分配，完成相应软件模块的设计、开发、单元测试和文档编写；\n2、参与产品项目规划工作，设计架构相关技术方案，制定具体项目实施规则；\n3、调整、部署系统平台的搭建，调优等；\n4、参与部门的产品升级迭代工作，为架构调整和重构提供意见；\n5、参与项目代码评审。\n\n岗位要求：\n1、专科及以上学历，有医疗行业研发经验优先，编程基础扎实，2年以上JAVA开发经验；\n2、扎实的java编程基础、熟练使用开源技术架构，如spring，springmvc，MyBatis或springboot等；熟悉rpc相关框架，如dubbo，springcloud等；\n3、熟悉缓存服务框架，如redis或memcache；熟练使用mysql，oracle等，熟悉nosql数据库，如：mongodb等；\n4、熟悉linux环境部署及常用命令,了解docker，kubernetes等服务部署及监控技术的优先；熟练使用svn、git等版本管理工具；\n5、了解使用vue框架、HTML、javascript 、css等相关知识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "后端工程师",
+            "Java开发经验",
+            "计算机/软件工程相关经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c13f06e3358350f5808b55a13cf2283c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZSDKqqfj6VYBg-v1pJTSdkuxYoL_joXBHGdpLrjCZrm-ib722x6bnn2wM4KO2nFr6S50DmvB4TFXUYPnl-xKSpKanTHQcGj-pg5lSsa2rZ2zQ5hWxkU~",
+    "selfAccess": false,
+    "sessionId": null
 }

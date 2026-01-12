@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mdKHcM3AGKNPr-c1csT6Q1U9sZFL7vVu-XIZ5_UjnkWvjtJy2r98NbaPAidLALpYGOaY-L3Glp_COCWqZd2UfXa6x2u7CjwtewAVFBRQQzcxylyc3olz",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "695989d3c59db88f1n1829u4GVpZ",
-      "encryptUserId": "5a3c670701df7b310nZ-09y5EVZT",
-      "invalidStatus": false,
-      "jobName": "研发测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、根据需求完成新品开发或产品优化过程中的测试工作，确保产品质量指标；\n2、编写测试计划，协助完成测试方案的建立、测试样品\\环境的准备；\n3、执行测试工作，记录测试结果，编写测试报告等相关技术文档；\n4、对测试中发现的问题如实反馈和进行初步分析，与开发工程师讨论缺陷解决方案；\n5、提出产品的进一步改进建议，并评估改进方案合理性；\n6、完成领导交办的其他任务。\n\n任职要求\n1、大专及以上学历，电子、机电类相关专业，1年以上电子产品测试经验；\n2、熟练使用相关测试工具，如万用表、示波器、信号发生器等；掌握产品测试流程与方法；\n3、熟练使用常规办公室软件；\n4、工作积极主动、踏实认真，学习能力强，动手能力强，具备一定的规划与统筹能力。",
-      "encryptAddressId": "b3d492cf57685d6b33V72dy0GFI~",
-      "address": "苏州虎丘区苏州太湖光子科技园11号楼",
-      "longitude": 120.432411,
-      "latitude": 31.357726,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7804ca6866b829ed5494b2d9aa1b1eb7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59e1e90d41d8b94cafc19ba7edd35fc8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "系统测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "凌先生",
-      "title": "部长",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "星联智创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8f820cb4eacad1c31nF52dW-ElA~",
-      "brandName": "星联智创",
-      "logo": "https://c-res.zhipin.com/jrs/1_27489ae6b55398b0e17fdfd6cccf0721.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100913,
-      "industryName": "仪器仪表",
-      "introduce": "上海星联智创智能科技股份有限公司主营业务是车辆电子系统集成产品的研发推广以及基于北斗导航定位的精准农业方案提供。主要产品和服务为仪表类产品、控制类产品及传感器。",
-      "labels": [
-        "带薪年假",
-        "底薪加提成",
-        "保底工资",
-        "年终奖",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1727856728596,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "星联智创",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "星联智创",
+        "certificated": true,
+        "large": null,
+        "name": "凌先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "部长"
+    },
+    "brandComInfo": {
+        "activeTime": 1727856728596,
+        "brandName": "星联智创",
+        "customerBrandName": "星联智创",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8f820cb4eacad1c31nF52dW-ElA~",
+        "focusBrand": false,
+        "industry": 100913,
+        "industryName": "仪器仪表",
+        "introduce": "上海星联智创智能科技股份有限公司主营业务是车辆电子系统集成产品的研发推广以及基于北斗导航定位的精准农业方案提供。主要产品和服务为仪表类产品、控制类产品及传感器。",
+        "labels": [
+            "带薪年假",
+            "底薪加提成",
+            "保底工资",
+            "年终奖",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/1_27489ae6b55398b0e17fdfd6cccf0721.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州虎丘区苏州太湖光子科技园11号楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b3d492cf57685d6b33V72dy0GFI~",
+        "encryptId": "695989d3c59db88f1n1829u4GVpZ",
+        "encryptUserId": "5a3c670701df7b310nZ-09y5EVZT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "研发测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.357726,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.432411,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59e1e90d41d8b94cafc19ba7edd35fc8",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责\n1、根据需求完成新品开发或产品优化过程中的测试工作，确保产品质量指标；\n2、编写测试计划，协助完成测试方案的建立、测试样品\\环境的准备；\n3、执行测试工作，记录测试结果，编写测试报告等相关技术文档；\n4、对测试中发现的问题如实反馈和进行初步分析，与开发工程师讨论缺陷解决方案；\n5、提出产品的进一步改进建议，并评估改进方案合理性；\n6、完成领导交办的其他任务。\n\n任职要求\n1、大专及以上学历，电子、机电类相关专业，1年以上电子产品测试经验；\n2、熟练使用相关测试工具，如万用表、示波器、信号发生器等；掌握产品测试流程与方法；\n3、熟练使用常规办公室软件；\n4、工作积极主动、踏实认真，学习能力强，动手能力强，具备一定的规划与统筹能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K·13薪",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "系统测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7804ca6866b829ed5494b2d9aa1b1eb7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mdKHcM3AGKNPr-c1csT6Q1U9sZFL7vVu-XIZ5_UjnkWvjtJy2r98NbaPAidLALpYGOaY-L3Glp_COCWqZd2UfXa6x2u7CjwtewAVFBRQQzcxylyc3olz",
+    "selfAccess": false,
+    "sessionId": null
 }

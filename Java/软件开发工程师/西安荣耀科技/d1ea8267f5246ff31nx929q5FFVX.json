@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pXT95OuPq7fk8-d1C0AGAogNdyxUimv2n0mbPRcPXMSvAIIbC3PB6_a35LrnS_57luIRKhCRR6fu7f31dcLmwxCgd-VFkBLMOO3S42EzhmndhxkOlw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d1ea8267f5246ff31nx929q5FFVX",
-      "encryptUserId": "9d5d40e97087b1bd03R409--EVc~",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n1. Linux驱动、平台层软件的开发，调试；\n2. Linux环境下移植以及优化开源软件项目；\n3. 根据产品需要，完成平台相关的技术预研工作；\n4. 具备良好的编程风格和较强的文档编写能力，能根据公司的要求提供完整规范的研发和测试文档。\n【任职资格】\n1. 本科及以上学历， 计算机、通信工程、电子工程、自动化及其他相关专业；\n2. 具备C/C++开发经验且有软件调试经验；\n3. 具备良好的编程风格和较强的文档编写能力。\n具有以下任意一项者优先：\n1. 熟悉ARM/MIPS/DSP体系架构之一；\n2. 具备Linux程序开发、移植和调试开发经验；\n3. 具备多进程、多线程软件开发、调测和维护经验；\n4. 熟悉uboot的开发移植，linux内核裁剪移植，内存管理；\n5. 熟练使用gcc编译器的常用选项和gdb调试技术。",
-      "encryptAddressId": "ec23ce92bae44f271XR_39u-GFY~",
-      "address": "西安碑林区西安理工大学金花校区(北1门)向西20米",
-      "longitude": 108.992836,
-      "latitude": 34.256164,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/669e51ea77769e554b56a5becc131999",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9507c6ef12fc4a6843abcbd3c72cd8a6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "多进程",
-        "多线程",
-        "Linux",
-        "GCC"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨先生",
-      "title": "人力资源经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "西安荣耀科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "12ba466afecfe01d1XV609y7EQ~~",
-      "brandName": "西安荣耀科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200302/a54537ea792de0a3ee75e195cde415ad9c29b093e70f40e97811cf45a4c2b9c1.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "网站开发，系统开发，小程序，区块链，人工，大数据，集成电路",
-      "labels": [],
-      "activeTime": 1729947259163,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "西安荣耀科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "西安荣耀科技",
+        "certificated": true,
+        "large": null,
+        "name": "杨先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "人力资源经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729947259163,
+        "brandName": "西安荣耀科技",
+        "customerBrandName": "西安荣耀科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "12ba466afecfe01d1XV609y7EQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "网站开发，系统开发，小程序，区块链，人工，大数据，集成电路",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200302/a54537ea792de0a3ee75e195cde415ad9c29b093e70f40e97811cf45a4c2b9c1.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安碑林区西安理工大学金花校区(北1门)向西20米",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ec23ce92bae44f271XR_39u-GFY~",
+        "encryptId": "d1ea8267f5246ff31nx929q5FFVX",
+        "encryptUserId": "9d5d40e97087b1bd03R409--EVc~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.256164,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.992836,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9507c6ef12fc4a6843abcbd3c72cd8a6",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "职位描述\n1. Linux驱动、平台层软件的开发，调试；\n2. Linux环境下移植以及优化开源软件项目；\n3. 根据产品需要，完成平台相关的技术预研工作；\n4. 具备良好的编程风格和较强的文档编写能力，能根据公司的要求提供完整规范的研发和测试文档。\n【任职资格】\n1. 本科及以上学历， 计算机、通信工程、电子工程、自动化及其他相关专业；\n2. 具备C/C++开发经验且有软件调试经验；\n3. 具备良好的编程风格和较强的文档编写能力。\n具有以下任意一项者优先：\n1. 熟悉ARM/MIPS/DSP体系架构之一；\n2. 具备Linux程序开发、移植和调试开发经验；\n3. 具备多进程、多线程软件开发、调测和维护经验；\n4. 熟悉uboot的开发移植，linux内核裁剪移植，内存管理；\n5. 熟练使用gcc编译器的常用选项和gdb调试技术。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "多进程",
+            "多线程",
+            "Linux",
+            "GCC"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/669e51ea77769e554b56a5becc131999"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pXT95OuPq7fk8-d1C0AGAogNdyxUimv2n0mbPRcPXMSvAIIbC3PB6_a35LrnS_57luIRKhCRR6fu7f31dcLmwxCgd-VFkBLMOO3S42EzhmndhxkOlw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

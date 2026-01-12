@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yGkYHwXuGgcLU-w1_IRajsyOkIrFAyupfQpwzzSHRaKnaGFqBAjTikYfNAS5-mWCPynyHlEAdlcVFxHWUIj9bxz4NvhK115STaveLU08VepuEUHF0mg3",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "005c5da99390b8781HJ73d60E1ZT",
-      "encryptUserId": "58373912facb53f10n1-2N26GFtY",
-      "invalidStatus": false,
-      "jobName": "自动化",
-      "position": 100803,
-      "positionName": "自动化",
-      "location": 101210900,
-      "locationName": "金华",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "会画图设计，沟通能力佳，爱学习。硬件方面也懂一点就最好",
-      "encryptAddressId": "e85363f777e98b263nR70t-4FVBSyoi2Uvo~",
-      "address": "金华婺城区菁英电子商务产业园c-02",
-      "longitude": 119.619372,
-      "latitude": 29.057224,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf15aebb7f705ebdbd22995945f0429a116bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230611/48ba41acc9cef1bfd71f533f3640416fc67392a4937021ec6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机械设计制造相关专业",
-        "CAD",
-        "电子电气/自动化相关专业",
-        "Pro-E",
-        "自动化开发经验",
-        "SolidWorks"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吕先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "金华铂腾科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4d53b15ab05d3e171XJ93929EFU~",
-      "brandName": "金华铂腾科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "国家高新技术企业，承接国家电网，送变电公司等重大科技科研项目",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "加班补助",
-        "餐补",
-        "团建聚餐",
-        "高温补贴"
-      ],
-      "activeTime": 1726427694000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金华铂腾科技有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金华铂腾科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "吕先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726427694000,
+        "brandName": "金华铂腾科技有限公司",
+        "customerBrandName": "金华铂腾科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "4d53b15ab05d3e171XJ93929EFU~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "国家高新技术企业，承接国家电网，送变电公司等重大科技科研项目",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "加班补助",
+            "餐补",
+            "团建聚餐",
+            "高温补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "金华婺城区菁英电子商务产业园c-02",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e85363f777e98b263nR70t-4FVBSyoi2Uvo~",
+        "encryptId": "005c5da99390b8781HJ73d60E1ZT",
+        "encryptUserId": "58373912facb53f10n1-2N26GFtY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "自动化",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.057224,
+        "location": 101210900,
+        "locationName": "金华",
+        "longitude": 119.619372,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230611/48ba41acc9cef1bfd71f533f3640416fc67392a4937021ec6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100803,
+        "positionName": "自动化",
+        "postDescription": "会画图设计，沟通能力佳，爱学习。硬件方面也懂一点就最好",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "机械设计制造相关专业",
+            "CAD",
+            "电子电气/自动化相关专业",
+            "Pro-E",
+            "自动化开发经验",
+            "SolidWorks"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf15aebb7f705ebdbd22995945f0429a116bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yGkYHwXuGgcLU-w1_IRajsyOkIrFAyupfQpwzzSHRaKnaGFqBAjTikYfNAS5-mWCPynyHlEAdlcVFxHWUIj9bxz4NvhK115STaveLU08VepuEUHF0mg3",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "O2SYeinQxELFD-o1yeFlvPMAoyjeduJ6p5HRSr95yb3fH_BOQ9nduXZMudbeiz8kpgVaboOiBOm3GnvhHZ60hGe-jCxp57ZV69MR1ZxpWEpIQLlUYTCN",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "58f3b33eb50e9b0d1HJz3d-9FVtV",
-      "encryptUserId": "a40a2c74f84fe0931nR-29u9ElVY",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101131800,
-      "locationName": "图木舒克",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.大专以上学历，计算机相关专业优先。\n2.具备华三，华为等网络设备进行日常维护，故障处理能力。\n3.维护设备包括交换机，防火墙，路由器等\n4.薪资待遇5K-8K。\n5.工作地点图木舒克市。",
-      "encryptAddressId": "3f6c8884e69443111nR539W_GVBXy468WPOa",
-      "address": "图木舒克中国电信新疆兵团第三师图木舒克市分公司前海西街营业厅劳动者港湾6号",
-      "longitude": 79.070142,
-      "latitude": 39.862422,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231124/48ba41acc9cef1bfe5966c7d73a9ba0e2862b5fffdd9a8cb6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231124/48ba41acc9cef1bf90660e8a59e16f74a02edb29a2c445106bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐女士",
-      "title": "综合部人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230126/607f1f3d68754fd0b3c50303b9a5b6ef5fb8d7900a1c19bc0b7db63021ae6bf2ee11b995620_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "众禾网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cbf33265e63190ea1XR53t-4GFI~",
-      "brandName": "众禾网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732251213798,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "众禾网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "众禾网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "唐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230126/607f1f3d68754fd0b3c50303b9a5b6ef5fb8d7900a1c19bc0b7db63021ae6bf2ee11b995620_b.jpg",
+        "title": "综合部人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1732251213798,
+        "brandName": "众禾网络科技",
+        "customerBrandName": "众禾网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cbf33265e63190ea1XR53t-4GFI~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "图木舒克中国电信新疆兵团第三师图木舒克市分公司前海西街营业厅劳动者港湾6号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3f6c8884e69443111nR539W_GVBXy468WPOa",
+        "encryptId": "58f3b33eb50e9b0d1HJz3d-9FVtV",
+        "encryptUserId": "a40a2c74f84fe0931nR-29u9ElVY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.862422,
+        "location": 101131800,
+        "locationName": "图木舒克",
+        "longitude": 79.070142,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231124/48ba41acc9cef1bf90660e8a59e16f74a02edb29a2c445106bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.大专以上学历，计算机相关专业优先。\n2.具备华三，华为等网络设备进行日常维护，故障处理能力。\n3.维护设备包括交换机，防火墙，路由器等\n4.薪资待遇5K-8K。\n5.工作地点图木舒克市。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "网络运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231124/48ba41acc9cef1bfe5966c7d73a9ba0e2862b5fffdd9a8cb6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "O2SYeinQxELFD-o1yeFlvPMAoyjeduJ6p5HRSr95yb3fH_BOQ9nduXZMudbeiz8kpgVaboOiBOm3GnvhHZ60hGe-jCxp57ZV69MR1ZxpWEpIQLlUYTCN",
+    "selfAccess": false,
+    "sessionId": null
 }

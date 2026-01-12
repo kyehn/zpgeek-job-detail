@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SoTqAzSurPDhf-g13wMQ8gV4riaEPeUTVy_zy35FyDiTNpkPmCzF_eAhQAt55R-ndvkaGeYSZiXeECiT3mLe0z6ba0YEojglCHudW_BNB4xl4ioctHuYuFAWGYBMiJfZtUXCFCdR8b3oxA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5424091149d387381nJ-2Nq8GFBQ",
-      "encryptUserId": "2ed7abda36cb58640ndy29u_FFpW",
-      "invalidStatus": false,
-      "jobName": "电子电器测试助理工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210400,
-      "locationName": "宁波",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "电子电器新产品组装、测试。",
-      "encryptAddressId": "713b1830252d68a803Zz2dS5GA~~",
-      "address": "宁波余姚市宁波舜洁卫生器具有限公司东湖路10号",
-      "longitude": 120.971155,
-      "latitude": 30.130117,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b353d85899a0933fd9bc26e9c3e5efae",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9098689150ea5864a29c57a8dab468b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "功能测试",
-        "硬件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "司马先生",
-      "title": "总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "舜洁卫生器具",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "589daeacee796ab60nF52N-9EQ~~",
-      "brandName": "舜洁卫生器具",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725464127484,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "舜洁卫生器具",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "舜洁卫生器具",
+        "certificated": true,
+        "large": null,
+        "name": "司马先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725464127484,
+        "brandName": "舜洁卫生器具",
+        "customerBrandName": "舜洁卫生器具",
+        "customerBrandStageName": "",
+        "encryptBrandId": "589daeacee796ab60nF52N-9EQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宁波余姚市宁波舜洁卫生器具有限公司东湖路10号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "713b1830252d68a803Zz2dS5GA~~",
+        "encryptId": "5424091149d387381nJ-2Nq8GFBQ",
+        "encryptUserId": "2ed7abda36cb58640ndy29u_FFpW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "电子电器测试助理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.130117,
+        "location": 101210400,
+        "locationName": "宁波",
+        "longitude": 120.971155,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9098689150ea5864a29c57a8dab468b",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "电子电器新产品组装、测试。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "软件测试",
+            "功能测试",
+            "硬件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b353d85899a0933fd9bc26e9c3e5efae"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SoTqAzSurPDhf-g13wMQ8gV4riaEPeUTVy_zy35FyDiTNpkPmCzF_eAhQAt55R-ndvkaGeYSZiXeECiT3mLe0z6ba0YEojglCHudW_BNB4xl4ioctHuYuFAWGYBMiJfZtUXCFCdR8b3oxA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

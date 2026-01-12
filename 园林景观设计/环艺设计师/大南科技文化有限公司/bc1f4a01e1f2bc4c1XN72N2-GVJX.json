@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3k31piouPNuHd-7149N7LanZK8dQcDmlWl87WAVFp39g_y4787pMYbDkysbtA7tr9PlUIJOpemfr0K-Vb1iNw44hEPW8aAnXdOJfOZneFlC4pM8StQ16CkxtxrYizNujEsI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bc1f4a01e1f2bc4c1XN72N2-GVJX",
-      "encryptUserId": "3694af772b8d885b0nd70t69ElpS",
-      "invalidStatus": false,
-      "jobName": "环艺设计师",
-      "position": 220206,
-      "positionName": "园林/景观设计",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "环艺设计师\n\n职位要求：\n1、有较好的景观设计、展位设计、空间设计能力，建筑学、风景园林、环境艺术设计等相关专业本科及以上学历；最好有实际工作经验与落地项目作品；\n\n2、专业基础扎实，具备较好的审美与设计能力，擅长空间形态设计，创意佳，善于方案的可视化表达；熟练使用CAD、天正、SU、rhino、Photoshop、lumion等相关设计辅助软件。（有其他技能可作为加分项）；\n\n5、有一定的沟通协调、商务谈判能力，敬业踏实，认真负责，具有团队协作精神；",
-      "encryptAddressId": "46149445260f777e33Z42ti6ElY~",
-      "address": "南京雨花台区汇智大厦A区207",
-      "longitude": 118.753043,
-      "latitude": 31.972529,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f10790e41a2caad2fc4b07a6c6c8a87",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b50477b6986bbf6892b095bf7b59de2e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SketchUp",
-        "Vary渲染器",
-        "方案设计",
-        "施工图出图",
-        "建筑与景观设计",
-        "主题公园",
-        "文化旅游景区",
-        "公共建筑/空间"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "韩先生",
-      "title": "人事总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210516/3c89284e99988d78172473a49f0e125d83d94d778fe3d287b39204eef8f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "大南科技文化有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b67b5dd82c921ff51XF_39m0F1o~",
-      "brandName": "大南科技文化有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100704,
-      "industryName": "装修装饰",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1731397919135,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大南科技文化有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "大南科技文化有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "韩先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210516/3c89284e99988d78172473a49f0e125d83d94d778fe3d287b39204eef8f_b.jpg",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1731397919135,
+        "brandName": "大南科技文化有限公司",
+        "customerBrandName": "大南科技文化有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b67b5dd82c921ff51XF_39m0F1o~",
+        "focusBrand": false,
+        "industry": 100704,
+        "industryName": "装修装饰",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区汇智大厦A区207",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "46149445260f777e33Z42ti6ElY~",
+        "encryptId": "bc1f4a01e1f2bc4c1XN72N2-GVJX",
+        "encryptUserId": "3694af772b8d885b0nd70t69ElpS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "环艺设计师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.972529,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.753043,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b50477b6986bbf6892b095bf7b59de2e",
+        "position": 220206,
+        "positionName": "园林/景观设计",
+        "postDescription": "环艺设计师\n\n职位要求：\n1、有较好的景观设计、展位设计、空间设计能力，建筑学、风景园林、环境艺术设计等相关专业本科及以上学历；最好有实际工作经验与落地项目作品；\n\n2、专业基础扎实，具备较好的审美与设计能力，擅长空间形态设计，创意佳，善于方案的可视化表达；熟练使用CAD、天正、SU、rhino、Photoshop、lumion等相关设计辅助软件。（有其他技能可作为加分项）；\n\n5、有一定的沟通协调、商务谈判能力，敬业踏实，认真负责，具有团队协作精神；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "SketchUp",
+            "Vary渲染器",
+            "方案设计",
+            "施工图出图",
+            "建筑与景观设计",
+            "主题公园",
+            "文化旅游景区",
+            "公共建筑/空间"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f10790e41a2caad2fc4b07a6c6c8a87"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3k31piouPNuHd-7149N7LanZK8dQcDmlWl87WAVFp39g_y4787pMYbDkysbtA7tr9PlUIJOpemfr0K-Vb1iNw44hEPW8aAnXdOJfOZneFlC4pM8StQ16CkxtxrYizNujEsI~",
+    "selfAccess": false,
+    "sessionId": null
 }

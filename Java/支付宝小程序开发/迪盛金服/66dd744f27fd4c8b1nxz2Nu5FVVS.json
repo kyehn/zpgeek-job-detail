@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6OATsQY2RnufQ-y1SKDM_TupE48iUhoj6m2OdG_wRypP4EjTKOZ--SB2R-jrE44GS1wq4JmzEn73dvoVYwl7eNM-HhPYHEtIZnlL3T9bnkGLx20dHUl42o0wRdWwRTSfmlM-59xPDZSQ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "66dd744f27fd4c8b1nxz2Nu5FVVS",
-      "encryptUserId": "cbfec55103b2c9150HF639m0GVc~",
-      "invalidStatus": false,
-      "jobName": "支付宝小程序开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "支付宝小程序开发，微信小程序开发",
-      "encryptAddressId": "9a4ef2c2dcd0befc1XV_2t61FlA~",
-      "address": "杭州萧山区雷迪森财富中心2幢4805室",
-      "longitude": 120.268602,
-      "latitude": 30.202359,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53e78ecb20b66d6940f7c630c4779bb7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d9baeaef73a1c1b8327fa8a4ea9e854",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "PHP",
-        "HTML",
-        "SQL",
-        "CSS",
-        "Shell"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邬先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190906/e060273e268b5914133e5bd6f6ea8df2438b6e702d5281a301101c84084_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "迪盛金服",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fbad2453f1ec9d290nNz29-_GA~~",
-      "brandName": "迪盛金服",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190906/421ef6ec8ecbf9d325bfe2cd362dc72d438b6e702d5281a301101c8408461716.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "全勤奖",
-        "年终奖",
-        "员工旅游",
-        "通讯补贴"
-      ],
-      "activeTime": 1723824978815,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迪盛金服",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "迪盛金服",
+        "certificated": true,
+        "large": null,
+        "name": "邬先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190906/e060273e268b5914133e5bd6f6ea8df2438b6e702d5281a301101c84084_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723824978815,
+        "brandName": "迪盛金服",
+        "customerBrandName": "迪盛金服",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "fbad2453f1ec9d290nNz29-_GA~~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "全勤奖",
+            "年终奖",
+            "员工旅游",
+            "通讯补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190906/421ef6ec8ecbf9d325bfe2cd362dc72d438b6e702d5281a301101c8408461716.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区雷迪森财富中心2幢4805室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9a4ef2c2dcd0befc1XV_2t61FlA~",
+        "encryptId": "66dd744f27fd4c8b1nxz2Nu5FVVS",
+        "encryptUserId": "cbfec55103b2c9150HF639m0GVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "支付宝小程序开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.202359,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.268602,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d9baeaef73a1c1b8327fa8a4ea9e854",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "支付宝小程序开发，微信小程序开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "Python",
+            "PHP",
+            "HTML",
+            "SQL",
+            "CSS",
+            "Shell"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53e78ecb20b66d6940f7c630c4779bb7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6OATsQY2RnufQ-y1SKDM_TupE48iUhoj6m2OdG_wRypP4EjTKOZ--SB2R-jrE44GS1wq4JmzEn73dvoVYwl7eNM-HhPYHEtIZnlL3T9bnkGLx20dHUl42o0wRdWwRTSfmlM-59xPDZSQ",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YRWY-PnlNcq7o-x1RF6y80m7av7CfKqD_Cg63gbM13mA0i-kgkGHl_gisBWT-7uj_GHzRPQA5rizMHTkOUbckjOjrWfAU5P3PM-0S0fGd-B700sOsE7pjqote0IF50TArlA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4dff9d20ca8310221HB52tm0FldR",
-      "encryptUserId": "7a62ea85445cfccd0Xd-09m4GVNV",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101100500,
-      "locationName": "长治",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "负责客户ERP软件的安装\n客户业务流程梳理\n编制客户业务流程图\n对客户进行软件培训，并交付完成\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
-      "encryptAddressId": "bfc4d431b046fd0e0XZy2tm0F1RQwY-6Vvg~",
-      "address": "长治潞州区世纪嘉年华A座1310",
-      "longitude": 113.092142,
-      "latitude": 36.215728,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf28949a0f153ceedd2a9c2214c3998b346bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf6c26eb1bf96c952fb10e409915989a886bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "财务相关专业",
-        "计算机相关专业",
-        "WMS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "尹先生",
-      "title": "部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "山西新霖数智云科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "afb67c8ab7d1a1261HZ839i0ElM~",
-      "brandName": "山西新霖数智云科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240202/7bf6f160950405e9ca6d15284d6af26fa7f50f64e1703e47c3b385106a501557e43c787ef1c36cfc.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "企业微信、华为云、金蝶软件、管家婆软件山西服务商(企业财务 ERP 管理软件供应链数字管理,资产、预算、人力资源管理、智能数据报表开发、智能车间管理智能仓库配送管理、微商城零售、线上订货系统、智慧经营一体化管理、云链电商平台 .)软件定制开发、网络系统集成服务、山西数字食安定制开发服务、山西健康证平台开发服务",
-      "labels": [
-        "交通补助",
-        "节日福利",
-        "团建聚餐",
-        "底薪加提成",
-        "五险一金"
-      ],
-      "activeTime": 1732087873000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山西新霖数智云科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山西新霖数智云科技",
+        "certificated": true,
+        "large": null,
+        "name": "尹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732087873000,
+        "brandName": "山西新霖数智云科技",
+        "customerBrandName": "山西新霖数智云科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "afb67c8ab7d1a1261HZ839i0ElM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "企业微信、华为云、金蝶软件、管家婆软件山西服务商(企业财务 ERP 管理软件供应链数字管理,资产、预算、人力资源管理、智能数据报表开发、智能车间管理智能仓库配送管理、微商城零售、线上订货系统、智慧经营一体化管理、云链电商平台 .)软件定制开发、网络系统集成服务、山西数字食安定制开发服务、山西健康证平台开发服务",
+        "labels": [
+            "交通补助",
+            "节日福利",
+            "团建聚餐",
+            "底薪加提成",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240202/7bf6f160950405e9ca6d15284d6af26fa7f50f64e1703e47c3b385106a501557e43c787ef1c36cfc.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长治潞州区世纪嘉年华A座1310",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bfc4d431b046fd0e0XZy2tm0F1RQwY-6Vvg~",
+        "encryptId": "4dff9d20ca8310221HB52tm0FldR",
+        "encryptUserId": "7a62ea85445cfccd0Xd-09m4GVNV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.215728,
+        "location": 101100500,
+        "locationName": "长治",
+        "longitude": 113.092142,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf6c26eb1bf96c952fb10e409915989a886bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "负责客户ERP软件的安装\n客户业务流程梳理\n编制客户业务流程图\n对客户进行软件培训，并交付完成\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "ERP",
+            "财务相关专业",
+            "计算机相关专业",
+            "WMS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf28949a0f153ceedd2a9c2214c3998b346bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YRWY-PnlNcq7o-x1RF6y80m7av7CfKqD_Cg63gbM13mA0i-kgkGHl_gisBWT-7uj_GHzRPQA5rizMHTkOUbckjOjrWfAU5P3PM-0S0fGd-B700sOsE7pjqote0IF50TArlA~",
+    "selfAccess": false,
+    "sessionId": null
 }

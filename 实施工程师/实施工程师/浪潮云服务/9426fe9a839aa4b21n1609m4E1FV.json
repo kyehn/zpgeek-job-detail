@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0ow4tOUvJzZ8b-P1vYbWrSy5Kuo18Zc9fi429K51C7Q5OyJv2_xilRFGd49TT3xPsMpFS_COfsZnL9mso1DZiIVw8US-eF8Cnso1_cW5oTa7F4YXRysliw1UDGkOnqZVvMGAgnNhtoA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9426fe9a839aa4b21n1609m4E1FV",
-      "encryptUserId": "a3c06f0a9356a6e51X173d-6FVQ~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101200500,
-      "locationName": "黄冈",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.配合项目经理做好软件交付工作。\n2.现场服从指挥，培训客户使用软件并反馈客户的需求和升级软件。\n3.做好项目过程记录，整理文档，推进项目顺利验收。\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
-      "encryptAddressId": "ff81e48670d0882d1XZ729W8FVM~",
-      "address": "黄冈黄州区便民书房319室",
-      "longitude": 114.9356,
-      "latitude": 30.477002,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0868503b86bd60b5a6c43ce08685bc1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3103c5bd4e1f8c8f59e1568c57a383b9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问",
-        "Oracle",
-        "MySQL",
-        "软件实施",
-        "服务器配置",
-        "项目验收",
-        "软件应用培训",
-        "交接现场培训"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "向先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211015/607f1f3d68754fd0d52fc2136c69f347509928f75622eb5808385fa766f3b1ae758126dad0e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "浪潮云服务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "feeb0c7bb1b823831XB92Nq5",
-      "brandName": "浪潮云服务",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160427/3891358737426689598bb63680456e57a1c78ed81c2bc524ef2899aaca66d181.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "浪潮是中国领先的云计算、大数据服务商，已经形成涵盖IaaS、PaaS、SaaS三个层面的整体解决方案服务能力，凭借浪潮高端服务器、海量存储、云操作系统、信息安全技术为客户打造领先的云计算基础架构平台，基于浪潮政务、企业、行业信息化软件、终端产品和解决方案，全面支撑智慧政府、企业云、垂直行业云建设。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "免费班车"
-      ],
-      "activeTime": 1727317644389,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浪潮云服务",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浪潮云服务",
+        "certificated": true,
+        "large": null,
+        "name": "向先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211015/607f1f3d68754fd0d52fc2136c69f347509928f75622eb5808385fa766f3b1ae758126dad0e_b.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727317644389,
+        "brandName": "浪潮云服务",
+        "customerBrandName": "浪潮云服务",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "feeb0c7bb1b823831XB92Nq5",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "浪潮是中国领先的云计算、大数据服务商，已经形成涵盖IaaS、PaaS、SaaS三个层面的整体解决方案服务能力，凭借浪潮高端服务器、海量存储、云操作系统、信息安全技术为客户打造领先的云计算基础架构平台，基于浪潮政务、企业、行业信息化软件、终端产品和解决方案，全面支撑智慧政府、企业云、垂直行业云建设。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "免费班车"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160427/3891358737426689598bb63680456e57a1c78ed81c2bc524ef2899aaca66d181.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "黄冈黄州区便民书房319室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ff81e48670d0882d1XZ729W8FVM~",
+        "encryptId": "9426fe9a839aa4b21n1609m4E1FV",
+        "encryptUserId": "a3c06f0a9356a6e51X173d-6FVQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.477002,
+        "location": 101200500,
+        "locationName": "黄冈",
+        "longitude": 114.9356,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3103c5bd4e1f8c8f59e1568c57a383b9",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1.配合项目经理做好软件交付工作。\n2.现场服从指挥，培训客户使用软件并反馈客户的需求和升级软件。\n3.做好项目过程记录，整理文档，推进项目顺利验收。\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施工程师/顾问",
+            "Oracle",
+            "MySQL",
+            "软件实施",
+            "服务器配置",
+            "项目验收",
+            "软件应用培训",
+            "交接现场培训"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0868503b86bd60b5a6c43ce08685bc1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0ow4tOUvJzZ8b-P1vYbWrSy5Kuo18Zc9fi429K51C7Q5OyJv2_xilRFGd49TT3xPsMpFS_COfsZnL9mso1DZiIVw8US-eF8Cnso1_cW5oTa7F4YXRysliw1UDGkOnqZVvMGAgnNhtoA~",
+    "selfAccess": false,
+    "sessionId": null
 }

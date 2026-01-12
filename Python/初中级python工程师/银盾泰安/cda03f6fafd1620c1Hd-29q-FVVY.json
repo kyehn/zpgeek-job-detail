@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IItq0BSMD5_kU-61V3Wn-T6YurNRGct_jUqijXKBhnWxOrmqil1zDNSiNBwIMQL7xZBGmMhXFj9UVE69L0b02dE5RmzKeT1VbAza20yEs04w3tq5Obt3Nn_gRW3qgJt4ZJXZGE89d5qZ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cda03f6fafd1620c1Hd-29q-FVVY",
-      "encryptUserId": "7548e3dc8e8a350b1X162ti_Fls~",
-      "invalidStatus": false,
-      "jobName": "初中级python工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101090600,
-      "locationName": "廊坊",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、参与人工智能平台的建设与优化工作\n2、负责软件相关文档编制工作 \n3、研发方向包括但不限于：图像/视频分类、自监督学习、多模态图像/视频理解等\n4、根据项目计划从事需求分析、设计、开发、测试工作 \n5、对AI技术的发展趋势有深刻认知，有良好的创新意识和创新能力\n任职要求：\n1. 计算机、电子信息、人工智能、数学或统计学相关专业\n2. 熟悉linux系统基本操作，能够在centos或ubuntu系统部署深度学习环境\n3. 熟练使用docker 、git基本命令，拥有封装镜像经验\n4. 熟悉opencv 基础操作，了解图片编解码相关知识\n5. 熟悉常用深度学习框架（例如：Caffe, Pytorch, TensorFlow, Paddle）\n6. 有对接、迁移模型（如yolo)到不同gpu加速卡经验优先\n7. 有深度学习相关经验及比赛获奖者优先\n8. 对前沿技术研究保持敏感度，具备良好的技术视野和深度，良好的团队合作意识和沟通表达能力；",
-      "encryptAddressId": "273d88100103311f03x60tu_GFQ~",
-      "address": "廊坊广阳区京津冀大数据创新应用中心8层",
-      "longitude": 116.728656,
-      "latitude": 39.598921,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c9b815bb10e067c6a1b4418c2261d38",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/047d52effccfd7b44a95725b986a733b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Docker",
-        "MySQL",
-        "深度学习",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "银盾泰安",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "56befd5a008ce88d1nJ-2d28Fg~~",
-      "brandName": "银盾泰安",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180320/536796a37f23b38f6a63155b4ef2ff47dcf52a3ea346adf0e959135d7c0a5d2c.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "带薪年假",
-        "包吃",
-        "节日福利"
-      ],
-      "activeTime": 1727682032615,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "银盾泰安",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "银盾泰安",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727682032615,
+        "brandName": "银盾泰安",
+        "customerBrandName": "银盾泰安",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "56befd5a008ce88d1nJ-2d28Fg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "带薪年假",
+            "包吃",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180320/536796a37f23b38f6a63155b4ef2ff47dcf52a3ea346adf0e959135d7c0a5d2c.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "廊坊广阳区京津冀大数据创新应用中心8层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "273d88100103311f03x60tu_GFQ~",
+        "encryptId": "cda03f6fafd1620c1Hd-29q-FVVY",
+        "encryptUserId": "7548e3dc8e8a350b1X162ti_Fls~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初中级python工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.598921,
+        "location": 101090600,
+        "locationName": "廊坊",
+        "longitude": 116.728656,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/047d52effccfd7b44a95725b986a733b",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "岗位职责：\n1、参与人工智能平台的建设与优化工作\n2、负责软件相关文档编制工作 \n3、研发方向包括但不限于：图像/视频分类、自监督学习、多模态图像/视频理解等\n4、根据项目计划从事需求分析、设计、开发、测试工作 \n5、对AI技术的发展趋势有深刻认知，有良好的创新意识和创新能力\n任职要求：\n1. 计算机、电子信息、人工智能、数学或统计学相关专业\n2. 熟悉linux系统基本操作，能够在centos或ubuntu系统部署深度学习环境\n3. 熟练使用docker 、git基本命令，拥有封装镜像经验\n4. 熟悉opencv 基础操作，了解图片编解码相关知识\n5. 熟悉常用深度学习框架（例如：Caffe, Pytorch, TensorFlow, Paddle）\n6. 有对接、迁移模型（如yolo)到不同gpu加速卡经验优先\n7. 有深度学习相关经验及比赛获奖者优先\n8. 对前沿技术研究保持敏感度，具备良好的技术视野和深度，良好的团队合作意识和沟通表达能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "Docker",
+            "MySQL",
+            "深度学习",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c9b815bb10e067c6a1b4418c2261d38"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IItq0BSMD5_kU-61V3Wn-T6YurNRGct_jUqijXKBhnWxOrmqil1zDNSiNBwIMQL7xZBGmMhXFj9UVE69L0b02dE5RmzKeT1VbAza20yEs04w3tq5Obt3Nn_gRW3qgJt4ZJXZGE89d5qZ",
+    "selfAccess": false,
+    "sessionId": null
 }

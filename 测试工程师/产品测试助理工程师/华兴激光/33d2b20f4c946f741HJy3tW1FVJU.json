@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JxIjTymi1y7jZ-81urRsAZVRDHJTT0lhVWp_IrKA2ifcHfhDpdcKcEDpcKGcFNmjKLDvERANz83G97sNH8JGRN3e6W3OHvT7qOkD6cCJvfUIRr_2hRNLxbQbt2r6WtHByEmZGjxOPmG8IOLyodBOmmI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "33d2b20f4c946f741HJy3tW1FVJU",
-      "encryptUserId": "f948113996192ff21nZ63dm5FlVW",
-      "invalidStatus": false,
-      "jobName": "产品测试助理工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190800,
-      "locationName": "徐州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责外延片日常取放片操作，设备点检记录；\n2、负责外延片日常生长过程数据记录整理；\n3、负责产成品的外观检测及光电性能测试；\n4、负责测试数据的记录整理。\n任职要求：\n1、大专及以上学历，专业不限；\n2、会使用显微镜等检验检测类机台，熟练使用办公软件；\n3、有相关化工厂、半导体、电子工厂检验检测工作经验者优先考虑;\n4、接受三班倒，无尘室工作环境",
-      "encryptAddressId": "b5bbb93bdae734871nR73dS0FFpVyo2-Vf-W",
-      "address": "徐州邳州市华兴激光A2",
-      "longitude": 117.954912,
-      "latitude": 34.357223,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ec62573a141673985b8cabc255a69205",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59098dff78c0dc74cee68d1dc45b380a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "芯片测试",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210412/8bd6666ca96017d92ba36a135c2d6946b1f66e6c00e2a0325fb1505d6ca_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "华兴激光",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "094bf5bf64c0749a03F-09i5GA~~",
-      "brandName": "华兴激光",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210909/7bf6f160950405e9326d0de80da282300a228e2bc43213083bdebe6f9c8bc52899bd06805d653dd3.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "江苏华兴激光科技有限公司是一家专注于化合物半导体外延材料研发和生产的国家高新技术企业，注册资本6000余万元，总部位于江苏省徐州市邳州经济开发区，并在江苏省无锡市滨湖区设有研发中心。\n公司建有包括金属有机物化学气相沉积系统（MOCVD）、电子束光刻系统（EBL）、等离子体刻蚀系统（ICP）等在内的先进化合物半导体生产线，研发和生产以磷化铟（InP）、砷化镓（GaAs）为基底的不同结构和功能的半导体外延片，广泛应用于光纤通信、激光雷达、激光加工等领域。\n公司技术团队包括中国科学院院士、国家高层次人才支持计划获得者、海归博士、资深专家等专业人才，已获批江苏省院士工作站、江苏省小巨人企业、江苏省双创团队、江苏省双创人才等多项荣誉，目前累计申请或授权国家专利60余项，并承担多项国家级和江苏省重点研发计划课题。\n公司具有浓厚的工程师文化和技术创新氛围，与国内外高水平企业和高校科研院所建立了长期稳定合作关系，致力成为世界一流化合物半导体材料供应商。",
-      "labels": [
-        "生日福利",
-        "团建聚餐",
-        "包吃",
-        "员工旅游",
-        "带薪年假",
-        "工龄奖",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1731371617449,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华兴激光",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "华兴激光",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210412/8bd6666ca96017d92ba36a135c2d6946b1f66e6c00e2a0325fb1505d6ca_b.jpg",
+        "title": "人事招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731371617449,
+        "brandName": "华兴激光",
+        "customerBrandName": "华兴激光",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "094bf5bf64c0749a03F-09i5GA~~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "江苏华兴激光科技有限公司是一家专注于化合物半导体外延材料研发和生产的国家高新技术企业，注册资本6000余万元，总部位于江苏省徐州市邳州经济开发区，并在江苏省无锡市滨湖区设有研发中心。\n公司建有包括金属有机物化学气相沉积系统（MOCVD）、电子束光刻系统（EBL）、等离子体刻蚀系统（ICP）等在内的先进化合物半导体生产线，研发和生产以磷化铟（InP）、砷化镓（GaAs）为基底的不同结构和功能的半导体外延片，广泛应用于光纤通信、激光雷达、激光加工等领域。\n公司技术团队包括中国科学院院士、国家高层次人才支持计划获得者、海归博士、资深专家等专业人才，已获批江苏省院士工作站、江苏省小巨人企业、江苏省双创团队、江苏省双创人才等多项荣誉，目前累计申请或授权国家专利60余项，并承担多项国家级和江苏省重点研发计划课题。\n公司具有浓厚的工程师文化和技术创新氛围，与国内外高水平企业和高校科研院所建立了长期稳定合作关系，致力成为世界一流化合物半导体材料供应商。",
+        "labels": [
+            "生日福利",
+            "团建聚餐",
+            "包吃",
+            "员工旅游",
+            "带薪年假",
+            "工龄奖",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210909/7bf6f160950405e9326d0de80da282300a228e2bc43213083bdebe6f9c8bc52899bd06805d653dd3.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "徐州邳州市华兴激光A2",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b5bbb93bdae734871nR73dS0FFpVyo2-Vf-W",
+        "encryptId": "33d2b20f4c946f741HJy3tW1FVJU",
+        "encryptUserId": "f948113996192ff21nZ63dm5FlVW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "产品测试助理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.357223,
+        "location": 101190800,
+        "locationName": "徐州",
+        "longitude": 117.954912,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59098dff78c0dc74cee68d1dc45b380a",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、负责外延片日常取放片操作，设备点检记录；\n2、负责外延片日常生长过程数据记录整理；\n3、负责产成品的外观检测及光电性能测试；\n4、负责测试数据的记录整理。\n任职要求：\n1、大专及以上学历，专业不限；\n2、会使用显微镜等检验检测类机台，熟练使用办公软件；\n3、有相关化工厂、半导体、电子工厂检验检测工作经验者优先考虑;\n4、接受三班倒，无尘室工作环境",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K·13薪",
+        "showSkills": [
+            "芯片测试",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ec62573a141673985b8cabc255a69205"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JxIjTymi1y7jZ-81urRsAZVRDHJTT0lhVWp_IrKA2ifcHfhDpdcKcEDpcKGcFNmjKLDvERANz83G97sNH8JGRN3e6W3OHvT7qOkD6cCJvfUIRr_2hRNLxbQbt2r6WtHByEmZGjxOPmG8IOLyodBOmmI~",
+    "selfAccess": false,
+    "sessionId": null
 }

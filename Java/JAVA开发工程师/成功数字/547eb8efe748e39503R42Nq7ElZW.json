@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "X3UN345uVWBg0-C1k3dzDPMISnRgmOkgYaY6uikE8g8tDLuqShYFXGsa2mrZ01q_0hV966q1pEA0IzziUWiVHIQeC2m5vHSQ-cEy74f70-N56JXptWzoh47TkBZ3hLLuYHbseoUoWpHQXQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "547eb8efe748e39503R42Nq7ElZW",
-      "encryptUserId": "b9da352803c6d6831nV90961E1c~",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责编写行业应用软件的后端服务，包括数据访问、业务逻辑实现、性能优化、前端对接、接口文档编写等；\n2.完成高质量的代码交付，参与代码评审，编写单元测试，能及时修正代码缺陷；\n任职要求：\n1.统招全日制本科及以上学历（学信网可查），计算机相关专业；\n2.二年左右Java后端开发经验，有扎实的编程能力和良好的编程习惯；\n3.掌握Java基础知识和面向对象思想，熟悉多线程、负载均衡、缓存、消息队列等技术;\n4.掌握JavaEE技术，熟悉Spring、SpringMVC、SpringBoot、Mybatis-Plus等开源框架；\n5.熟悉Postgresql、Mysql、Mongodb、Cassandra等主流的关系型和非关系型数据库；\n6.了解常见的设计模式，如单例、责任链等\n7.了解常见的架构风格和模式，如调用/返回、事件驱动、微服务等\n8.有Kotlin、Python等编程经验的优先；\n9.要求工作态度严谨，责任心强，具有良好的团队合作能力。",
-      "encryptAddressId": "804c61fc2301841e1nd82ti7E1RQxY24Uf2X",
-      "address": "杭州西湖区西湖广告大厦7楼",
-      "longitude": 120.063793,
-      "latitude": 30.306842,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00b220568d6c39e3ed6751c5a8e2c987",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/758ce297470cb515e16d130b296944dc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd077da71c4ac1c7ae9adfe0e86c710bad637354fb21d6fe7a8557b7c16cf7284e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "成功数字",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4c43fa4fabc9fa731Xdy3d6-F1Y~",
-      "brandName": "成功数字",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240327/7bf6f160950405e9808e1f2bd260c6f55ffcaa6812a20676e6deae7829fa69a7ccbf953a7796a88e.png.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "成功数字技术（杭州）有限责任公司（简称“成功数字”）面向生态环境领域，是一家提供数字咨询设计、系统开发运维、智能分析服务的大数据运营供应商，致力于用数字化赋能行业，推进生态文明和可持续发展。公司依托浙江大学计算机学院、环境与资源学院、管理学院，积极倡导共创共赢的产学研用行业生态圈，积极加入生态环境部环境信息化学会，并同国内外数字化公司、高校、环科院和全国各地政府部门建立合作伙伴关系，广泛开展技术合作，夯实自身技术基础，持续强化业务和数字化双向匹配、推进产学研结合。\n成功数字拥有水、气、土、无废、辐射和污染源等全覆盖一体化生态环境领域数字化解决方案，在减污降碳协同背景下，以提升环境质量状况和提高环境管理水平为目的，运用数字化（运营）贯通监管（政策）、企业（施策对象）、公众（监督）、参与方（监测、环评、监理、治理），基于引领行业的深度设计、产品研发、项目实施、数字运营的一体化服务能力，成功数字为全国100多个地区或城市提供了300多个项目或服务。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "餐补",
-        "带薪年假",
-        "法定节假日三薪",
-        "年终奖",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1732718973088,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "成功数字",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "成功数字",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd077da71c4ac1c7ae9adfe0e86c710bad637354fb21d6fe7a8557b7c16cf7284e_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732718973088,
+        "brandName": "成功数字",
+        "customerBrandName": "成功数字",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "4c43fa4fabc9fa731Xdy3d6-F1Y~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "成功数字技术（杭州）有限责任公司（简称“成功数字”）面向生态环境领域，是一家提供数字咨询设计、系统开发运维、智能分析服务的大数据运营供应商，致力于用数字化赋能行业，推进生态文明和可持续发展。公司依托浙江大学计算机学院、环境与资源学院、管理学院，积极倡导共创共赢的产学研用行业生态圈，积极加入生态环境部环境信息化学会，并同国内外数字化公司、高校、环科院和全国各地政府部门建立合作伙伴关系，广泛开展技术合作，夯实自身技术基础，持续强化业务和数字化双向匹配、推进产学研结合。\n成功数字拥有水、气、土、无废、辐射和污染源等全覆盖一体化生态环境领域数字化解决方案，在减污降碳协同背景下，以提升环境质量状况和提高环境管理水平为目的，运用数字化（运营）贯通监管（政策）、企业（施策对象）、公众（监督）、参与方（监测、环评、监理、治理），基于引领行业的深度设计、产品研发、项目实施、数字运营的一体化服务能力，成功数字为全国100多个地区或城市提供了300多个项目或服务。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "餐补",
+            "带薪年假",
+            "法定节假日三薪",
+            "年终奖",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240327/7bf6f160950405e9808e1f2bd260c6f55ffcaa6812a20676e6deae7829fa69a7ccbf953a7796a88e.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州西湖区西湖广告大厦7楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "804c61fc2301841e1nd82ti7E1RQxY24Uf2X",
+        "encryptId": "547eb8efe748e39503R42Nq7ElZW",
+        "encryptUserId": "b9da352803c6d6831nV90961E1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.306842,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.063793,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/758ce297470cb515e16d130b296944dc",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1.负责编写行业应用软件的后端服务，包括数据访问、业务逻辑实现、性能优化、前端对接、接口文档编写等；\n2.完成高质量的代码交付，参与代码评审，编写单元测试，能及时修正代码缺陷；\n任职要求：\n1.统招全日制本科及以上学历（学信网可查），计算机相关专业；\n2.二年左右Java后端开发经验，有扎实的编程能力和良好的编程习惯；\n3.掌握Java基础知识和面向对象思想，熟悉多线程、负载均衡、缓存、消息队列等技术;\n4.掌握JavaEE技术，熟悉Spring、SpringMVC、SpringBoot、Mybatis-Plus等开源框架；\n5.熟悉Postgresql、Mysql、Mongodb、Cassandra等主流的关系型和非关系型数据库；\n6.了解常见的设计模式，如单例、责任链等\n7.了解常见的架构风格和模式，如调用/返回、事件驱动、微服务等\n8.有Kotlin、Python等编程经验的优先；\n9.要求工作态度严谨，责任心强，具有良好的团队合作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00b220568d6c39e3ed6751c5a8e2c987"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "X3UN345uVWBg0-C1k3dzDPMISnRgmOkgYaY6uikE8g8tDLuqShYFXGsa2mrZ01q_0hV966q1pEA0IzziUWiVHIQeC2m5vHSQ-cEy74f70-N56JXptWzoh47TkBZ3hLLuYHbseoUoWpHQXQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

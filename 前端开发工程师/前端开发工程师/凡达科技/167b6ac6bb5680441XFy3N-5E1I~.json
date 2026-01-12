@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "AGSjBUpuwKTih-W1CXZCBii7e3Yiy99tOmeJaF0i7bIgC0xy_w6JTxbsAtsIdtnUJ8InOHGA8xhOGOJ8VIkxbsAa5u34muMVPbzdhxm-Ntb4FxuC",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "167b6ac6bb5680441XFy3N-5E1I~",
-      "encryptUserId": "9d531d70618c9f2e1Hd-29S6FFo~",
-      "invalidStatus": false,
-      "jobName": "前端开发工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\r\n   1、在项目负责人、高级工程师的带领下定期完成量化的工作；\r\n    2、能独立处理和解决所负责的任务；\r\n    3、根据开发进度和任务分配，完成相应模块的开发、编程任务；\r\n    4、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\r\n    5、进行编制项目文档和质量记录的工作；\r\n岗位技能要求：\r\n    1、能够使用html5、css3，熟练应对各种布局，包括自适应，pc端和手机端\r\n    2、能够熟练使用javaScript\r\n    3、了解angular框架，对页面交互和数据绑定有一定的经验\r\n    4、了解ionic，对hybridApp开发有过学习了解\r\n    5、对es6，typeScript，angular4有过学习5、学习能力强，热爱前端工作；对最新的前端技术有浓厚的兴趣；",
-      "encryptAddressId": "5e5cc0be693c42560HN52d61EQ~~",
-      "address": "成都武侯区天府软件园G5(东门)404",
-      "longitude": 104.056227,
-      "latitude": 30.537303,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed21ad8b8a718e2ef0edf4a4ea3a04e4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe2d1c7f75498471212d6cb2a6d0ebdf",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "javascript",
-        "angularjs",
-        "jquery"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "凡达科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "13f45fe6135640f31nd-3ti4Ew~~",
-      "brandName": "凡达科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719136018253,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "凡达科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "凡达科技",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719136018253,
+        "brandName": "凡达科技",
+        "customerBrandName": "凡达科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "13f45fe6135640f31nd-3ti4Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区天府软件园G5(东门)404",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5e5cc0be693c42560HN52d61EQ~~",
+        "encryptId": "167b6ac6bb5680441XFy3N-5E1I~",
+        "encryptUserId": "9d531d70618c9f2e1Hd-29S6FFo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "前端开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.537303,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.056227,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe2d1c7f75498471212d6cb2a6d0ebdf",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "职位描述：\r\n   1、在项目负责人、高级工程师的带领下定期完成量化的工作；\r\n    2、能独立处理和解决所负责的任务；\r\n    3、根据开发进度和任务分配，完成相应模块的开发、编程任务；\r\n    4、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\r\n    5、进行编制项目文档和质量记录的工作；\r\n岗位技能要求：\r\n    1、能够使用html5、css3，熟练应对各种布局，包括自适应，pc端和手机端\r\n    2、能够熟练使用javaScript\r\n    3、了解angular框架，对页面交互和数据绑定有一定的经验\r\n    4、了解ionic，对hybridApp开发有过学习了解\r\n    5、对es6，typeScript，angular4有过学习5、学习能力强，热爱前端工作；对最新的前端技术有浓厚的兴趣；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "javascript",
+            "angularjs",
+            "jquery"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed21ad8b8a718e2ef0edf4a4ea3a04e4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "AGSjBUpuwKTih-W1CXZCBii7e3Yiy99tOmeJaF0i7bIgC0xy_w6JTxbsAtsIdtnUJ8InOHGA8xhOGOJ8VIkxbsAa5u34muMVPbzdhxm-Ntb4FxuC",
+    "selfAccess": false,
+    "sessionId": null
 }

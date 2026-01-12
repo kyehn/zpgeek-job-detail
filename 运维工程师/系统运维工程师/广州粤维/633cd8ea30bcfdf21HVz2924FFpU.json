@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3Q7l7GOfz2ery-C1voNNr-J9WVHFqLJmulfAaUeDjFoC6tn0ZuePupUYcYXRao1_84canuDQCJpNeGdaQdKl4d6Oqz4KjHAjRR1K-EDkzwGN-MQrDc3qERp2qX0n4VgL8k-Cy-2YgMh7T6nPtO2CKRCspXnT9Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "633cd8ea30bcfdf21HVz2924FFpU",
-      "encryptUserId": "0904cd90d41315ab0XZ50ti9E1FT",
-      "invalidStatus": false,
-      "jobName": "系统运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责公司自研软件系统运维工作和现场服务，包括系统部署、实施、培训、更新、远程维护、客户咨询，以及系统定期例行巡检、现场指导等工作；\n2. 负责相关运维文档、系统操作手册的编写、整理；\n3. 负责收集、整理客户需求变更内容；\n4. 负责提供日常的简单技术支持，做好问题、故障的记录、跟进、处理；\n职位要求：\n1. 计算机及相关专业，本科及以上学历，1年以上软件开发或实施、运维工作经验；\n2. 熟悉Windows、Linux，包括国产操作系统（如统信、银河麒麟、龙蜥等）的使用、维护、更新；\n3. 熟悉MySQL、Oracle、SQL Server、达梦、人大金仓等常见关系型数据库的安装、升级、迁移、备份、还原等日常操作，了解SQL语句，会写简单的增、删、查、改。具有索引优化、查询优化、存储优化、备份还原等数据库调优经验者优先；\n4. 熟悉Linux、Shell脚本，能用Shell开发在Linux上的系统部署和测试脚本。有银河麒麟、统信等国产化操作系统适配经验更佳；\n5. 熟悉计算机、网络、安全、智能设备日常安装和维护，了解基本网络知识；\n6. 熟悉IIS、TOMCAT、NGINX、东方通等Web应用服务的安装、部署、调优及故障处理操作；\n7. 能够承担较强的工作压力；\n8. 有C#、Java、Vue开发经验者优先，优秀的应届生亦可考虑；",
-      "encryptAddressId": "02e1090db7534e951nd72d-0F1VU",
-      "address": "广州荔湾区市荔湾区沙面北街67号M02",
-      "longitude": 113.243997,
-      "latitude": 23.107893,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231025/48ba41acc9cef1bf564685b79b169e493e1c52302627d2536bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231025/48ba41acc9cef1bfc5af2266458d156d2f8cd075284311ee6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231025/607f1f3d68754fd08a49748a21be5c0ea85c6e7b004261227c57506a58e34e9f6a9dca9e5b81b55_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "广州粤维",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a84882525afbd0871HV729i4FFU~",
-      "brandName": "广州粤维",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "政务类管理系统的研发",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1741371862540,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州粤维",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州粤维",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231025/607f1f3d68754fd08a49748a21be5c0ea85c6e7b004261227c57506a58e34e9f6a9dca9e5b81b55_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1741371862540,
+        "brandName": "广州粤维",
+        "customerBrandName": "广州粤维",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a84882525afbd0871HV729i4FFU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "政务类管理系统的研发",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州荔湾区市荔湾区沙面北街67号M02",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "02e1090db7534e951nd72d-0F1VU",
+        "encryptId": "633cd8ea30bcfdf21HVz2924FFpU",
+        "encryptUserId": "0904cd90d41315ab0XZ50ti9E1FT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "系统运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.107893,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.243997,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231025/48ba41acc9cef1bfc5af2266458d156d2f8cd075284311ee6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1. 负责公司自研软件系统运维工作和现场服务，包括系统部署、实施、培训、更新、远程维护、客户咨询，以及系统定期例行巡检、现场指导等工作；\n2. 负责相关运维文档、系统操作手册的编写、整理；\n3. 负责收集、整理客户需求变更内容；\n4. 负责提供日常的简单技术支持，做好问题、故障的记录、跟进、处理；\n职位要求：\n1. 计算机及相关专业，本科及以上学历，1年以上软件开发或实施、运维工作经验；\n2. 熟悉Windows、Linux，包括国产操作系统（如统信、银河麒麟、龙蜥等）的使用、维护、更新；\n3. 熟悉MySQL、Oracle、SQL Server、达梦、人大金仓等常见关系型数据库的安装、升级、迁移、备份、还原等日常操作，了解SQL语句，会写简单的增、删、查、改。具有索引优化、查询优化、存储优化、备份还原等数据库调优经验者优先；\n4. 熟悉Linux、Shell脚本，能用Shell开发在Linux上的系统部署和测试脚本。有银河麒麟、统信等国产化操作系统适配经验更佳；\n5. 熟悉计算机、网络、安全、智能设备日常安装和维护，了解基本网络知识；\n6. 熟悉IIS、TOMCAT、NGINX、东方通等Web应用服务的安装、部署、调优及故障处理操作；\n7. 能够承担较强的工作压力；\n8. 有C#、Java、Vue开发经验者优先，优秀的应届生亦可考虑；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231025/48ba41acc9cef1bf564685b79b169e493e1c52302627d2536bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3Q7l7GOfz2ery-C1voNNr-J9WVHFqLJmulfAaUeDjFoC6tn0ZuePupUYcYXRao1_84canuDQCJpNeGdaQdKl4d6Oqz4KjHAjRR1K-EDkzwGN-MQrDc3qERp2qX0n4VgL8k-Cy-2YgMh7T6nPtO2CKRCspXnT9Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

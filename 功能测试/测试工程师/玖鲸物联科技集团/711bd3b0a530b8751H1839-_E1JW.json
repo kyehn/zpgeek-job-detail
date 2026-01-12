@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0FzbGsWMvju6D-u1zd-TByIWPbgivnISaGJdon8McZfc1_7HGO821y6bS_9VlKpwge2X36JiN6GCUOfXLp4o-O1CiFDRRjA7nPmIar-eWCBYjBgSrwaPOwKB1sQDVf0eKhlZU2Vmp_hDUuc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "711bd3b0a530b8751H1839-_E1JW",
-      "encryptUserId": "77c7584e560002c10nd409i4FlJZ",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.有测试经验，最好是软件测试和硬件测试，懂焊接技术，动手能力一定要强！工作经验不限！\n2.懂简单的电路连接，主动发现问题解决问题！\n3.需要配合软硬件工程师进行测试联调！\n4.会开车，接受偶尔出差，反应灵活 年轻有活力的年轻人！\n5.其他的具体面议！",
-      "encryptAddressId": "0ea9d06d9b75b62e1nRz39S-E1ZZw4-2U_mf",
-      "address": "苏州昆山市中创商业中心1号楼20层",
-      "longitude": 120.958202,
-      "latitude": 31.351187,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53efc6b2c0202b2f8cea6d4681d8903e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/604057f11cfdb48d71c2d043e80ca82f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "通信相关专业",
-        "功能测试经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "宋先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240912/607f1f3d68754fd0bc1ddd3e947d0f740694fb68dcc3b240c71a101826e28c2cc9128c60d237957_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "玖鲸物联科技集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d20cd96c6f51aeed1HJ43du7FFU~",
-      "brandName": "玖鲸物联科技集团",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240725/7bf6f160950405e9ded687c25dc204d0b9a9b2d7b39b8819c71a101826e28c2cc9128c60d2379572.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100030,
-      "industryName": "物联网",
-      "introduce": "玖鲸物联科技，一家专注于移动互联网的创新科技企业，融合云平台与智能控制芯片，拥有独立研发上游技术及终端产品的能力。公司汇聚技术精英，拥有丰富行业经验和软件著作版权。公司战略布局临沂、昆山、南京、上海、深圳等地，构建了完善的服务网络，提供一站式全产业链的互联网+物联网解决方案。\n核心能力包括：互联网+物联网系统定制开发、物联网主板研发生产、嵌入式软件开发及全产业链解决方案。公司打造智慧充电、饮水、大健康、数字名片四大产业体系。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "员工旅游",
-        "餐补",
-        "团建聚餐",
-        "免费工装",
-        "节日福利",
-        "生日福利"
-      ],
-      "activeTime": 1730536494643,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "玖鲸物联科技集团",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "玖鲸物联科技集团",
+        "certificated": true,
+        "large": null,
+        "name": "宋先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240912/607f1f3d68754fd0bc1ddd3e947d0f740694fb68dcc3b240c71a101826e28c2cc9128c60d237957_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1730536494643,
+        "brandName": "玖鲸物联科技集团",
+        "customerBrandName": "玖鲸物联科技集团",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d20cd96c6f51aeed1HJ43du7FFU~",
+        "focusBrand": false,
+        "industry": 100030,
+        "industryName": "物联网",
+        "introduce": "玖鲸物联科技，一家专注于移动互联网的创新科技企业，融合云平台与智能控制芯片，拥有独立研发上游技术及终端产品的能力。公司汇聚技术精英，拥有丰富行业经验和软件著作版权。公司战略布局临沂、昆山、南京、上海、深圳等地，构建了完善的服务网络，提供一站式全产业链的互联网+物联网解决方案。\n核心能力包括：互联网+物联网系统定制开发、物联网主板研发生产、嵌入式软件开发及全产业链解决方案。公司打造智慧充电、饮水、大健康、数字名片四大产业体系。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "员工旅游",
+            "餐补",
+            "团建聚餐",
+            "免费工装",
+            "节日福利",
+            "生日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240725/7bf6f160950405e9ded687c25dc204d0b9a9b2d7b39b8819c71a101826e28c2cc9128c60d2379572.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市中创商业中心1号楼20层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0ea9d06d9b75b62e1nRz39S-E1ZZw4-2U_mf",
+        "encryptId": "711bd3b0a530b8751H1839-_E1JW",
+        "encryptUserId": "77c7584e560002c10nd409i4FlJZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.351187,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.958202,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/604057f11cfdb48d71c2d043e80ca82f",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "1.有测试经验，最好是软件测试和硬件测试，懂焊接技术，动手能力一定要强！工作经验不限！\n2.懂简单的电路连接，主动发现问题解决问题！\n3.需要配合软硬件工程师进行测试联调！\n4.会开车，接受偶尔出差，反应灵活 年轻有活力的年轻人！\n5.其他的具体面议！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "测试工作经验",
+            "通信相关专业",
+            "功能测试经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53efc6b2c0202b2f8cea6d4681d8903e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0FzbGsWMvju6D-u1zd-TByIWPbgivnISaGJdon8McZfc1_7HGO821y6bS_9VlKpwge2X36JiN6GCUOfXLp4o-O1CiFDRRjA7nPmIar-eWCBYjBgSrwaPOwKB1sQDVf0eKhlZU2Vmp_hDUuc~",
+    "selfAccess": false,
+    "sessionId": null
 }

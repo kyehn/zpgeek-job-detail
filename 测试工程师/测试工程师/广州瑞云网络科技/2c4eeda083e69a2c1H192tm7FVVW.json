@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Ib1zv95IVggLH-P1WZ9MMkE4GYLTiLrilK5YVsg-Sr8Aqwwtt-Iqyt6A_fdcXZNzli1d1_2hwfakL17cV1VxOkyn_rMlz9mvoAkzo0_gel02P8KLraFaa9FPR6ExyDlR7zJAhvMmP9geIUw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2c4eeda083e69a2c1H192tm7FVVW",
-      "encryptUserId": "9ce721fb7be226d81nR4292-FVBV",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位职责和工作内容\n1、构建发布测试环境，构建发布生产环境；\n2、制定测试计划和测试方案，设计测试用例和脚本；\n3、执行测试计划和测试方案，撰写测试文档和测试报告；\n4、发现、验证、定位和跟进产品的问题；\n\n二、任职要求\n1、有较强的责任心，有良好的沟通协调能力；\n2、精通测试的相关理论和方法；\n3、熟练掌握常用的测试工具和测试脚本；\n4、大学本科以上学历，计算机或网络相关专业；\n5、掌握运维及施工作经验者优先。",
-      "encryptAddressId": "cbb75959d46a874d33x-09y-FFo~",
-      "address": "广州天河区金鹏大厦5层/526",
-      "longitude": 113.372304,
-      "latitude": 23.123164,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc07ae7ca376bcd4de0e8d9f7fc70d2a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1ce6db3d899d9bb5c1d4ef57526c72b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "通信相关专业",
-        "功能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "俞先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200402/07406dd60fc92ef790e45b49fbd401474d508e2ed318334b130de3d6d04_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "广州瑞云网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "488c48e6a69afcf71XJz29-9GFM~",
-      "brandName": "广州瑞云网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "【瑞云网络科技有限公司】2012年5月在广州成立，2016年获得广东省高新技术企业称号，是全国领先的电商软件服务供应商。我们以客户体验为服务之本，精益求精的打造高质量的产品和服务，目前【瑞云】的产品已拥有超过100万的用户，公司连续十年被淘宝网评选为优质服务商，获得阿里巴巴服务市场官方认证为“战略 (SI) 系统集成商”。\n\n公司地址：广州市天河区中山大道建工路11号五楼526、530号\n深圳分公司地址：深圳市 南山区 粤海街道 高新区社区高新南一道006号TCL大厦A508",
-      "labels": [
-        "带薪年假",
-        "定期体检",
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1730875197990,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州瑞云网络科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州瑞云网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "俞先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200402/07406dd60fc92ef790e45b49fbd401474d508e2ed318334b130de3d6d04_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730875197990,
+        "brandName": "广州瑞云网络科技",
+        "customerBrandName": "广州瑞云网络科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "488c48e6a69afcf71XJz29-9GFM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "【瑞云网络科技有限公司】2012年5月在广州成立，2016年获得广东省高新技术企业称号，是全国领先的电商软件服务供应商。我们以客户体验为服务之本，精益求精的打造高质量的产品和服务，目前【瑞云】的产品已拥有超过100万的用户，公司连续十年被淘宝网评选为优质服务商，获得阿里巴巴服务市场官方认证为“战略 (SI) 系统集成商”。\n\n公司地址：广州市天河区中山大道建工路11号五楼526、530号\n深圳分公司地址：深圳市 南山区 粤海街道 高新区社区高新南一道006号TCL大厦A508",
+        "labels": [
+            "带薪年假",
+            "定期体检",
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区金鹏大厦5层/526",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cbb75959d46a874d33x-09y-FFo~",
+        "encryptId": "2c4eeda083e69a2c1H192tm7FVVW",
+        "encryptUserId": "9ce721fb7be226d81nR4292-FVBV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.123164,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.372304,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1ce6db3d899d9bb5c1d4ef57526c72b",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "一、岗位职责和工作内容\n1、构建发布测试环境，构建发布生产环境；\n2、制定测试计划和测试方案，设计测试用例和脚本；\n3、执行测试计划和测试方案，撰写测试文档和测试报告；\n4、发现、验证、定位和跟进产品的问题；\n\n二、任职要求\n1、有较强的责任心，有良好的沟通协调能力；\n2、精通测试的相关理论和方法；\n3、熟练掌握常用的测试工具和测试脚本；\n4、大学本科以上学历，计算机或网络相关专业；\n5、掌握运维及施工作经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "测试工作经验",
+            "通信相关专业",
+            "功能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc07ae7ca376bcd4de0e8d9f7fc70d2a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Ib1zv95IVggLH-P1WZ9MMkE4GYLTiLrilK5YVsg-Sr8Aqwwtt-Iqyt6A_fdcXZNzli1d1_2hwfakL17cV1VxOkyn_rMlz9mvoAkzo0_gel02P8KLraFaa9FPR6ExyDlR7zJAhvMmP9geIUw~",
+    "selfAccess": false,
+    "sessionId": null
 }

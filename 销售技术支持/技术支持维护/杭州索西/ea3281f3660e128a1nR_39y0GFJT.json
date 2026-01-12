@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "i1WV9BiMxrmXg-c1Ozo6u9DJLwj3e1DjSUV5XXKu4WUmgq3NWaT7Us2LBkEhfY8NA7zW9cBKww8PllYS6O_XHrXff60dzu7MiqQdeOmUvyGXfNbiJYKd",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ea3281f3660e128a1nR_39y0GFJT",
-      "encryptUserId": "5fb03d1c76f190830nR-3NW6FldW",
-      "invalidStatus": false,
-      "jobName": "技术支持维护",
-      "position": 101299,
-      "positionName": "销售技术支持",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责公司智能屏的技术讲解，维护\n2.帮助公司样机的拆装\n3.有无工作经验均可，好学吃苦耐劳。\n4.公司交五险一金，有双休，工作时间9点至5点半",
-      "encryptAddressId": "7112b90d4abe82551HJ53Nq6F1Q~",
-      "address": "杭州滨江区杭州人工智能产业园A505",
-      "longitude": 120.201828,
-      "latitude": 30.183586,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fcd82ce38e55b59009143f8340aa973",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89653e60a5151be83b95c3038203ff0b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售前支持",
-        "售后支持",
-        "人工智能"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "汤女士",
-      "title": "行政专员/助理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "杭州索西",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bb711acd4bffa1871nZ-2di8GFM~",
-      "brandName": "杭州索西",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725352069703,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州索西",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州索西",
+        "certificated": true,
+        "large": null,
+        "name": "汤女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "行政专员/助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725352069703,
+        "brandName": "杭州索西",
+        "customerBrandName": "杭州索西",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bb711acd4bffa1871nZ-2di8GFM~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区杭州人工智能产业园A505",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7112b90d4abe82551HJ53Nq6F1Q~",
+        "encryptId": "ea3281f3660e128a1nR_39y0GFJT",
+        "encryptUserId": "5fb03d1c76f190830nR-3NW6FldW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "技术支持维护",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.183586,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.201828,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89653e60a5151be83b95c3038203ff0b",
+        "position": 101299,
+        "positionName": "销售技术支持",
+        "postDescription": "1.负责公司智能屏的技术讲解，维护\n2.帮助公司样机的拆装\n3.有无工作经验均可，好学吃苦耐劳。\n4.公司交五险一金，有双休，工作时间9点至5点半",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "售前支持",
+            "售后支持",
+            "人工智能"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fcd82ce38e55b59009143f8340aa973"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "i1WV9BiMxrmXg-c1Ozo6u9DJLwj3e1DjSUV5XXKu4WUmgq3NWaT7Us2LBkEhfY8NA7zW9cBKww8PllYS6O_XHrXff60dzu7MiqQdeOmUvyGXfNbiJYKd",
+    "selfAccess": false,
+    "sessionId": null
 }

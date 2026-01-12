@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EZIB5rqKTo6LT-P1Pavv2VPU_JFxckI8kkYfzIQlAeTrYvsW_stG2E8a68Y7oqV56E6pbmbWlRvPO7RChNHUuGQWtODw09ONUbwJzc_GV62Q9VNHUzPuKVW7j15J6fzP0AyftvRG7jk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2a0d8ecab90041af1HZ90ti8EVNY",
-      "encryptUserId": "f617841fb2b1abb103d409-1F1Y~",
-      "invalidStatus": false,
-      "jobName": "运维工程师（西安）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1. 负责数据中心集中监控，服务台相关运维工作。对监控平台执行日常巡检，处理报警信息，完成告警通知、记录、跟踪。\n2. 确保日常批处理、监控告警、工作交接有序进行。\n3. 认真做好值班工作日志、值班任务记录。\n4. 负责跟踪变更、发布、事件进展情况，推动流程高效运转。\n5. 应急事件通知、跟踪、协调，确保应用系统稳定运行。 \n学历要求：\n1. 本科及以上学历，计算机相关专业\n2. 可适应7*24小时值班工作（白休夜休休）。\n3. 熟悉zabbix等主流监控工具。 \n4. 了解操作系统、数据库、中间件等基础知识。\n5. 具备良好的责任心，善于表达沟通，有基础的办公软件、技术文档能力。",
-      "encryptAddressId": "428ce079fff584dd1nBz3Nm9E1FV",
-      "address": "西安灞桥区国家开发银行西安数据中心大厅",
-      "longitude": 109.055509,
-      "latitude": 34.311128,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231201/48ba41acc9cef1bffcd3a0f654317979d9046324fed9fe116bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231201/48ba41acc9cef1bf6c0d4924867c46567e1411c2005a37e06bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "zabbix"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220921/607f1f3d68754fd0bd8ea09a7d78a2bd23a7e89dece3c079979e45a47d5740a53f016b13fa7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "天宇正清",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "02c4e781c58bea581nZ_2d-0",
-      "brandName": "天宇正清",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e962a7aa8f6ad10022cd271ab5d9954dcf3d80a3d3c6911158103044e6da059e7a.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "天宇正清科技有限公司，成立于2006年，是国家级高新技术企业及北京市专精特新小巨人企业，全国领先的IT软件技术服务和解决方案提供商。\n       我司以研发、销售自主软件产品及为用户提供IT技术服务为主营业务，包含软件开发、测试、运维、运营、软件评估及智慧化解决方案。客户群体主要面向能源、地产、金融、广电、通信等领域，帮助客户打造信息化IT体系，全面助力企业实现数字化转型升级，现已获得超过40家集团公司的信赖与合作。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "节日福利",
-        "员工旅游",
-        "全勤奖"
-      ],
-      "activeTime": 1732011212174,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "天宇正清",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "天宇正清",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220921/607f1f3d68754fd0bd8ea09a7d78a2bd23a7e89dece3c079979e45a47d5740a53f016b13fa7_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732011212174,
+        "brandName": "天宇正清",
+        "customerBrandName": "天宇正清",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "02c4e781c58bea581nZ_2d-0",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "天宇正清科技有限公司，成立于2006年，是国家级高新技术企业及北京市专精特新小巨人企业，全国领先的IT软件技术服务和解决方案提供商。\n       我司以研发、销售自主软件产品及为用户提供IT技术服务为主营业务，包含软件开发、测试、运维、运营、软件评估及智慧化解决方案。客户群体主要面向能源、地产、金融、广电、通信等领域，帮助客户打造信息化IT体系，全面助力企业实现数字化转型升级，现已获得超过40家集团公司的信赖与合作。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "节日福利",
+            "员工旅游",
+            "全勤奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e962a7aa8f6ad10022cd271ab5d9954dcf3d80a3d3c6911158103044e6da059e7a.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安灞桥区国家开发银行西安数据中心大厅",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "428ce079fff584dd1nBz3Nm9E1FV",
+        "encryptId": "2a0d8ecab90041af1HZ90ti8EVNY",
+        "encryptUserId": "f617841fb2b1abb103d409-1F1Y~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师（西安）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.311128,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 109.055509,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231201/48ba41acc9cef1bf6c0d4924867c46567e1411c2005a37e06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容：\n1. 负责数据中心集中监控，服务台相关运维工作。对监控平台执行日常巡检，处理报警信息，完成告警通知、记录、跟踪。\n2. 确保日常批处理、监控告警、工作交接有序进行。\n3. 认真做好值班工作日志、值班任务记录。\n4. 负责跟踪变更、发布、事件进展情况，推动流程高效运转。\n5. 应急事件通知、跟踪、协调，确保应用系统稳定运行。 \n学历要求：\n1. 本科及以上学历，计算机相关专业\n2. 可适应7*24小时值班工作（白休夜休休）。\n3. 熟悉zabbix等主流监控工具。 \n4. 了解操作系统、数据库、中间件等基础知识。\n5. 具备良好的责任心，善于表达沟通，有基础的办公软件、技术文档能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "zabbix"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231201/48ba41acc9cef1bffcd3a0f654317979d9046324fed9fe116bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EZIB5rqKTo6LT-P1Pavv2VPU_JFxckI8kkYfzIQlAeTrYvsW_stG2E8a68Y7oqV56E6pbmbWlRvPO7RChNHUuGQWtODw09ONUbwJzc_GV62Q9VNHUzPuKVW7j15J6fzP0AyftvRG7jk~",
+    "selfAccess": false,
+    "sessionId": null
 }

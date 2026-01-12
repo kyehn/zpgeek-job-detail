@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0VSO-tZleTJKe-j1rHu5zKZGFMWzOKS4NkWwDO8NnAmH1DcwB8dP7NyCxhQ2HkAuj19nxo2fCTt39t2HU2HjEhlFeiEHiPPPLMoR0xbvbm-SWli9",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "be23024b4fed2ff11nx_2N-5FVBS",
-      "encryptUserId": "007259655fe722841HR73Ni4FFU~",
-      "invalidStatus": false,
-      "jobName": "修图师助理",
-      "position": 120123,
-      "positionName": "修图师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "高中",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责平时模特图 服装静物图的后期处理\n2.会调色 色彩敏感度高 \n3.具备良好审美\n4.能吃苦耐劳\n5.会ps等软件基础技能\r\n\r\n加分项\r\n有以下行业经验：广播/影视·婚庆/摄影",
-      "encryptAddressId": "886e42f4fbd041fb1n1y2960FlU~",
-      "address": "杭州滨江区川山甲众创园(南门)2-410",
-      "longitude": 120.215843,
-      "latitude": 30.172699,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4472e8af42af1d48c01c913d578df220",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6065cdfbb5ab4d3c3ef00d28ff7a43a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PhotoShop",
-        "人像修图"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "汪先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200611/6a1c4e930c303c1057acfb97fa185d12ea52ea6cdeaef5f2785323fb70b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "青葱影像",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e77140f35c30c36f3nR_0tW-",
-      "brandName": "青葱影像",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170807/48d619f823e923e989f44530e0c65b4e8c7dd922ad47494fc02c388e12c00eac.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "初创于2015年的创业型公司，致力于服务广大电商企业客户，提供摄影摄像等服务项目。",
-      "labels": [],
-      "activeTime": 1723287868000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青葱影像",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青葱影像",
+        "certificated": true,
+        "large": null,
+        "name": "汪先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200611/6a1c4e930c303c1057acfb97fa185d12ea52ea6cdeaef5f2785323fb70b_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723287868000,
+        "brandName": "青葱影像",
+        "customerBrandName": "青葱影像",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "e77140f35c30c36f3nR_0tW-",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "初创于2015年的创业型公司，致力于服务广大电商企业客户，提供摄影摄像等服务项目。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170807/48d619f823e923e989f44530e0c65b4e8c7dd922ad47494fc02c388e12c00eac.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区川山甲众创园(南门)2-410",
+        "anonymous": 0,
+        "degreeName": "高中",
+        "encryptAddressId": "886e42f4fbd041fb1n1y2960FlU~",
+        "encryptId": "be23024b4fed2ff11nx_2N-5FVBS",
+        "encryptUserId": "007259655fe722841HR73Ni4FFU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "修图师助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.172699,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.215843,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6065cdfbb5ab4d3c3ef00d28ff7a43a",
+        "position": 120123,
+        "positionName": "修图师",
+        "postDescription": "1.负责平时模特图 服装静物图的后期处理\n2.会调色 色彩敏感度高 \n3.具备良好审美\n4.能吃苦耐劳\n5.会ps等软件基础技能\r\n\r\n加分项\r\n有以下行业经验：广播/影视·婚庆/摄影",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "PhotoShop",
+            "人像修图"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4472e8af42af1d48c01c913d578df220"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0VSO-tZleTJKe-j1rHu5zKZGFMWzOKS4NkWwDO8NnAmH1DcwB8dP7NyCxhQ2HkAuj19nxo2fCTt39t2HU2HjEhlFeiEHiPPPLMoR0xbvbm-SWli9",
+    "selfAccess": false,
+    "sessionId": null
 }

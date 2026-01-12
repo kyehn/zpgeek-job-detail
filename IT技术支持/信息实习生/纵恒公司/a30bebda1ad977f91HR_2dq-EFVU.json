@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IhmqVU2z9Oi9u-41kQ7yXfFJydJ1_6RQ7_UCk54ajKqSAXtenp9JugYGGp4qH0ntunekjmMh2YvCzR8sJxnRjUH4LOhTTTUz77lI1Vjh4MJTtLf780nS",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a30bebda1ad977f91HR_2dq-EFVU",
-      "encryptUserId": "97758c8661ad06a10nJ_09S9F1tS",
-      "invalidStatus": false,
-      "jobName": "信息实习生",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "协助支持办公室PC电脑系统安装、网络设置、软件配置等工作。\n提供IT技术支持，协助员工解决日常IT问题，包括电脑故障，网络中断，软件问题等。\n日常IT设备和资产管理、包括软硬件的库存管理。\n日常机房的巡检工作。\n协助信息部经理完成各驻点医院项目管理，包括项目文档整理，项目进度跟踪等。\n完成领导交办的其他工作任务。",
-      "encryptAddressId": "340ee56dc3747a7a1nR93dy6EFFT",
-      "address": "上海宝山区新杨湾科创园A5",
-      "longitude": 121.466759,
-      "latitude": 31.32283,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b362d9e94dafc4a53ec5b0ce1c20c984",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfb0403ac1822fd060ab47f0f176f990",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "企业内部IT技术支持",
-        "IT资产管理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "汤女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "纵恒公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d502f039c3a3bf631n1-0tq-GFo~",
-      "brandName": "纵恒公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722875133406,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "纵恒公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "纵恒公司",
+        "certificated": true,
+        "large": null,
+        "name": "汤女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1722875133406,
+        "brandName": "纵恒公司",
+        "customerBrandName": "纵恒公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d502f039c3a3bf631n1-0tq-GFo~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海宝山区新杨湾科创园A5",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "340ee56dc3747a7a1nR93dy6EFFT",
+        "encryptId": "a30bebda1ad977f91HR_2dq-EFVU",
+        "encryptUserId": "97758c8661ad06a10nJ_09S9F1tS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "信息实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.32283,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.466759,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfb0403ac1822fd060ab47f0f176f990",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "协助支持办公室PC电脑系统安装、网络设置、软件配置等工作。\n提供IT技术支持，协助员工解决日常IT问题，包括电脑故障，网络中断，软件问题等。\n日常IT设备和资产管理、包括软硬件的库存管理。\n日常机房的巡检工作。\n协助信息部经理完成各驻点医院项目管理，包括项目文档整理，项目进度跟踪等。\n完成领导交办的其他工作任务。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "企业内部IT技术支持",
+            "IT资产管理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b362d9e94dafc4a53ec5b0ce1c20c984"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IhmqVU2z9Oi9u-41kQ7yXfFJydJ1_6RQ7_UCk54ajKqSAXtenp9JugYGGp4qH0ntunekjmMh2YvCzR8sJxnRjUH4LOhTTTUz77lI1Vjh4MJTtLf780nS",
+    "selfAccess": false,
+    "sessionId": null
 }

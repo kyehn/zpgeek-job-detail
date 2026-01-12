@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6aBVf9rcmYDFI-T1jI9FY_IPcYv3JlV6GEgUFExHw5u0eURv8vcfYqfCwtmXJW26mwz3STgFqXxLUqY_gfYL6Qm8BGGlRDutUZmlqRosiQeZ0RjYPwo6q5a6yxjO4j-b380EFJxfnc4s",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "26f63130b8b3ff5c1XRz09u1FldQ",
-      "encryptUserId": "df25d4db1e31a9943nVz0927FVQ~",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "智能垃圾箱产品软件开发",
-      "encryptAddressId": "90762e1c446c279003Zy2d6-ElI~",
-      "address": "杭州上城区红街天城10楼",
-      "longitude": 120.20805,
-      "latitude": 30.292266,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca1e99338fc03548da5b1fc06f91339d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb259cc1b7b7b0931cbcbc8f2c3257c3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C语言",
-        "C++",
-        "嵌入式技术",
-        "RTOS",
-        "Linux",
-        "嵌入式软件开发",
-        "嵌入式硬件开发",
-        "Altium Designer"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "左先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "金保桶业",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3931fc2308ac70ec1nZz39y6Ew~~",
-      "brandName": "金保桶业",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210728/5ffb3341269e2cf2b1a57af1df3eb108daa91409f356614c7b53ff4534500b4d.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "我公司是一家研发、生产、设计、销售和品牌运营于一体的综合性环境保护专用设备、环卫设备服务供应商，国家高新技术企业。公司创建于2000年10月自创立至今敢于改革、发展迅速，公司总投资5000万元、占地面积有30000平方米、生产能力达到6000万只/年塑料垃圾桶、智能垃圾箱、不锈钢及钢木系列果皮箱、太阳能果皮箱、多功能除菌环保垃圾桶、远程控制垃圾箱、智能设备生活垃圾分类驿站、智能投放亭、自动降解垃圾箱等产品，公司先后荣获中国十大塑料垃圾桶行业杰出发展贡献奖第四名，中国节能环保产品、有专利20项，金华市企业研究开发项目26项，计算机软件著作权16项，是国家高新技术企业，浙江省科技型中小企业等金华市人才开发先进企业，",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "全勤奖",
-        "餐补",
-        "通讯补贴",
-        "节日福利",
-        "住房补贴"
-      ],
-      "activeTime": 1725444998857,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金保桶业",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金保桶业",
+        "certificated": true,
+        "large": null,
+        "name": "左先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725444998857,
+        "brandName": "金保桶业",
+        "customerBrandName": "金保桶业",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "3931fc2308ac70ec1nZz39y6Ew~~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "我公司是一家研发、生产、设计、销售和品牌运营于一体的综合性环境保护专用设备、环卫设备服务供应商，国家高新技术企业。公司创建于2000年10月自创立至今敢于改革、发展迅速，公司总投资5000万元、占地面积有30000平方米、生产能力达到6000万只/年塑料垃圾桶、智能垃圾箱、不锈钢及钢木系列果皮箱、太阳能果皮箱、多功能除菌环保垃圾桶、远程控制垃圾箱、智能设备生活垃圾分类驿站、智能投放亭、自动降解垃圾箱等产品，公司先后荣获中国十大塑料垃圾桶行业杰出发展贡献奖第四名，中国节能环保产品、有专利20项，金华市企业研究开发项目26项，计算机软件著作权16项，是国家高新技术企业，浙江省科技型中小企业等金华市人才开发先进企业，",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "全勤奖",
+            "餐补",
+            "通讯补贴",
+            "节日福利",
+            "住房补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210728/5ffb3341269e2cf2b1a57af1df3eb108daa91409f356614c7b53ff4534500b4d.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区红街天城10楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "90762e1c446c279003Zy2d6-ElI~",
+        "encryptId": "26f63130b8b3ff5c1XRz09u1FldQ",
+        "encryptUserId": "df25d4db1e31a9943nVz0927FVQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.292266,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.20805,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb259cc1b7b7b0931cbcbc8f2c3257c3",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "智能垃圾箱产品软件开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "C语言",
+            "C++",
+            "嵌入式技术",
+            "RTOS",
+            "Linux",
+            "嵌入式软件开发",
+            "嵌入式硬件开发",
+            "Altium Designer"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca1e99338fc03548da5b1fc06f91339d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6aBVf9rcmYDFI-T1jI9FY_IPcYv3JlV6GEgUFExHw5u0eURv8vcfYqfCwtmXJW26mwz3STgFqXxLUqY_gfYL6Qm8BGGlRDutUZmlqRosiQeZ0RjYPwo6q5a6yxjO4j-b380EFJxfnc4s",
+    "selfAccess": false,
+    "sessionId": null
 }

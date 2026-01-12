@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TSAzcQBgb5NvB-81uUscz9yzsWgl7Od5umJOaKkZTwFi4BfxXG6aXEFmKQtnUSqwL--BYdqzMy6-R5nCrw61XMKjgKu48x0gbFioeq_SK0bHuLWSJVgQhnYtuYVlalVOkT2IwEArhQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d0e51132ce9fa2ae0nN63t-0E1o~",
-      "encryptUserId": "7abf4f72b0400f701X1_2t-4ElY~",
-      "invalidStatus": false,
-      "jobName": "技术工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.完成项目的售中技术支持和售后实施工作；\n2.负责系统硬件设备、物联网设备的安装调试、软件系统的安装调试；\n3. 负责项目实施过程中协调公司与客户的关系；\n4. 负责售后项目的客户培训/远程支持以及故障排查等工作；\n5. 参与项目的设备远程安装指导及平台软件操作指导；\n6.负责编制相关售后技术文档、客户技术交流、技术培训和售后维护等工作。\n任职要求：\n1. 计算机、通信及相关专业大专以上学历，有消防物联网行业经验者优先；\n2. 要求1年以上系统集成及工程施工经验，有弱电基础；\n3. 熟悉安防设备、消防设备、网络通信设备、现场布线、计算机网络；\n4. 能够熟练完成各类网络设备和安防设备的安装调试工作，能够熟练操作windows 、linux和安卓等操作系统。\n5. 具备团队合作精神，强烈的责任心和工作热情，积极进取、诚实敬业，能承受一定的工作压力与临时性加班；\n6. 适应经常性出差。",
-      "encryptAddressId": "bc36e2971f9a2f3133d_39u5ElY~",
-      "address": "杭州余杭区华滋科欣·设计创意园1幢1206",
-      "longitude": 120.113187,
-      "latitude": 30.339203,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e74693acc503e38c3c9348029070029",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da84d12df07ca313aff407f2d871460d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施",
-        "弱电",
-        "智慧消防"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "景先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "展业消防",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f6d1c58d5f903e0733Z42t-5",
-      "brandName": "展业消防",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170831/1f384fe9c4fba405d1e386e65929032f24899f7ed8ba4e25b64677efaf6e8955.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "浙江展业消防技术有限公司成立于2017年7月，总部位于“天堂硅谷”和“电子商务之都”的美丽杭州，是国内较早参与智慧消防建设的高新技术企业，定位智慧消防及城镇安全运营服务商。公司利用物联网、人工智能、大数据、云计算、BIM、GIS等信息技术，并结合深耕多年的智能视频AI技术，为智慧消防及相关行业提供安全运营服务和软硬一体化解决方案。并在此基础上，公司研发了iCity系列的安全运维平台，为城市、乡镇、园区的安全护航提供预警服务和决策依据。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1726792147445,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "展业消防",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "展业消防",
+        "certificated": true,
+        "large": null,
+        "name": "景先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726792147445,
+        "brandName": "展业消防",
+        "customerBrandName": "展业消防",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "f6d1c58d5f903e0733Z42t-5",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "浙江展业消防技术有限公司成立于2017年7月，总部位于“天堂硅谷”和“电子商务之都”的美丽杭州，是国内较早参与智慧消防建设的高新技术企业，定位智慧消防及城镇安全运营服务商。公司利用物联网、人工智能、大数据、云计算、BIM、GIS等信息技术，并结合深耕多年的智能视频AI技术，为智慧消防及相关行业提供安全运营服务和软硬一体化解决方案。并在此基础上，公司研发了iCity系列的安全运维平台，为城市、乡镇、园区的安全护航提供预警服务和决策依据。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170831/1f384fe9c4fba405d1e386e65929032f24899f7ed8ba4e25b64677efaf6e8955.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区华滋科欣·设计创意园1幢1206",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bc36e2971f9a2f3133d_39u5ElY~",
+        "encryptId": "d0e51132ce9fa2ae0nN63t-0E1o~",
+        "encryptUserId": "7abf4f72b0400f701X1_2t-4ElY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.339203,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.113187,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da84d12df07ca313aff407f2d871460d",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1.完成项目的售中技术支持和售后实施工作；\n2.负责系统硬件设备、物联网设备的安装调试、软件系统的安装调试；\n3. 负责项目实施过程中协调公司与客户的关系；\n4. 负责售后项目的客户培训/远程支持以及故障排查等工作；\n5. 参与项目的设备远程安装指导及平台软件操作指导；\n6.负责编制相关售后技术文档、客户技术交流、技术培训和售后维护等工作。\n任职要求：\n1. 计算机、通信及相关专业大专以上学历，有消防物联网行业经验者优先；\n2. 要求1年以上系统集成及工程施工经验，有弱电基础；\n3. 熟悉安防设备、消防设备、网络通信设备、现场布线、计算机网络；\n4. 能够熟练完成各类网络设备和安防设备的安装调试工作，能够熟练操作windows 、linux和安卓等操作系统。\n5. 具备团队合作精神，强烈的责任心和工作热情，积极进取、诚实敬业，能承受一定的工作压力与临时性加班；\n6. 适应经常性出差。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "实施",
+            "弱电",
+            "智慧消防"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e74693acc503e38c3c9348029070029"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TSAzcQBgb5NvB-81uUscz9yzsWgl7Od5umJOaKkZTwFi4BfxXG6aXEFmKQtnUSqwL--BYdqzMy6-R5nCrw61XMKjgKu48x0gbFioeq_SK0bHuLWSJVgQhnYtuYVlalVOkT2IwEArhQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

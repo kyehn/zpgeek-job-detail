@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YMtLqDtebRZx8-g1gkN5m1jdP2dnaDlRqQhHUXOgSnDHyUGw9-QdKPZIJ7bfUP2p8Uc4PXSG36WLONE5ZnGlseRi_lVNJ8hw9f1QHCZ-dnUUmP-Sb9CK",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "88b1bf31fc7901801Xxy3tm-GFdX",
-      "encryptUserId": "3c317def5fce455a0nd-3tu4FVNR",
-      "invalidStatus": false,
-      "jobName": "软件工程师（校招）",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、参与公司RCS系统,WCS系统,WMS系统的开发、维护；\n2、独立负责指定系统功能模块开发，测试；\n3、优化系统性能，提升系统用户体验；\n4、不断学习当前最新的开发技术。\n任职要求：\n1、本科及以上，计算机相关专业的优先；\n2、熟练SQL Server、Oracle，Redis,Kafka,MQTT精通优先 ；\n3、熟悉JAVA或GO编程语言，熟悉spring,kratos等相关框架；\n4、熟悉软件开发流程、体系结构；\n5、具备团队合作精神，责任心强，能承受一定工作压力",
-      "encryptAddressId": "46c7c6d86542aaa60HNz092_FVU~",
-      "address": "苏州吴中区苏州2.5产业园D1幢1层B13",
-      "longitude": 120.777025,
-      "latitude": 31.306883,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/364dea5d8cc483e9cad5fd35b003238f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f123a14dd1229b9e23a1fa2fb1fa2ec2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "仲先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230726/607f1f3d68754fd06cf009d617d8ff6ee17519b2f69ceac7871ef1dd3765c0058a96cf7935a17a8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "魔仓机器人",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5adbf96ec1ac79501XB_2dy-EVs~",
-      "brandName": "魔仓机器人",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230309/7bf6f160950405e9e6f804144d45c82833faec93ffb4dbec871ef1dd3765c0058a96cf7935a17a8c.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100907,
-      "industryName": "专用设备",
-      "introduce": "魔仓机器人致力于立体仓储智能物流领域的研发，公司种子轮融资由源码资本、险峰资本、HongkongX等创投基金领投。",
-      "labels": [
-        "节日福利",
-        "团建聚餐",
-        "带薪年假",
-        "股票期权",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1725361453986,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "魔仓机器人",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "魔仓机器人",
+        "certificated": true,
+        "large": null,
+        "name": "仲先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230726/607f1f3d68754fd06cf009d617d8ff6ee17519b2f69ceac7871ef1dd3765c0058a96cf7935a17a8_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725361453986,
+        "brandName": "魔仓机器人",
+        "customerBrandName": "魔仓机器人",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "5adbf96ec1ac79501XB_2dy-EVs~",
+        "focusBrand": false,
+        "industry": 100907,
+        "industryName": "专用设备",
+        "introduce": "魔仓机器人致力于立体仓储智能物流领域的研发，公司种子轮融资由源码资本、险峰资本、HongkongX等创投基金领投。",
+        "labels": [
+            "节日福利",
+            "团建聚餐",
+            "带薪年假",
+            "股票期权",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230309/7bf6f160950405e9e6f804144d45c82833faec93ffb4dbec871ef1dd3765c0058a96cf7935a17a8c.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区苏州2.5产业园D1幢1层B13",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "46c7c6d86542aaa60HNz092_FVU~",
+        "encryptId": "88b1bf31fc7901801Xxy3tm-GFdX",
+        "encryptUserId": "3c317def5fce455a0nd-3tu4FVNR",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "软件工程师（校招）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.306883,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.777025,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f123a14dd1229b9e23a1fa2fb1fa2ec2",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、参与公司RCS系统,WCS系统,WMS系统的开发、维护；\n2、独立负责指定系统功能模块开发，测试；\n3、优化系统性能，提升系统用户体验；\n4、不断学习当前最新的开发技术。\n任职要求：\n1、本科及以上，计算机相关专业的优先；\n2、熟练SQL Server、Oracle，Redis,Kafka,MQTT精通优先 ；\n3、熟悉JAVA或GO编程语言，熟悉spring,kratos等相关框架；\n4、熟悉软件开发流程、体系结构；\n5、具备团队合作精神，责任心强，能承受一定工作压力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K·13薪",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/364dea5d8cc483e9cad5fd35b003238f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YMtLqDtebRZx8-g1gkN5m1jdP2dnaDlRqQhHUXOgSnDHyUGw9-QdKPZIJ7bfUP2p8Uc4PXSG36WLONE5ZnGlseRi_lVNJ8hw9f1QHCZ-dnUUmP-Sb9CK",
+    "selfAccess": false,
+    "sessionId": null
 }

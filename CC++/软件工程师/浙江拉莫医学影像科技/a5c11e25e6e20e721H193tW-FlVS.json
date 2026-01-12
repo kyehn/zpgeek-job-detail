@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JEPho5AOmwyeM-41vTHSvanroFwk2Jp2dQLF8cNgDeFKBP95DZZNUSyQN_hjLVDQuaUcztW-WTV0LEzLq2hGDgJp0reBoYMQkDucz1bqVSUNvja5t94zj44vdpLK4OBEHMz1a90H4jkbtXY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a5c11e25e6e20e721H193tW-FlVS",
-      "encryptUserId": "c8775b20b2d62f100nF809S5GVBX",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1 计算机、电子信息相关专业，具备扎实的计算机理论基础\n2 熟悉Linux操作，熟练掌握Git基本操作\n3 熟悉TCP/IP协议，HTTP协议\n4 熟悉Web开发\n5 拥有良好的英文读写能力，通过大学英语四级\n面试前请准备好个人项目代码、IDE、Linux环境。",
-      "encryptAddressId": "420edff7767331d31nRy39S0FVNWw4y2VP2f",
-      "address": "杭州西湖区西投万科·开物创新大厦B幢1402室",
-      "longitude": 120.095686,
-      "latitude": 30.307104,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf750ef6d4ca23d1e788bddb3bd8f432376bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bf3559c27b54ce59669fd31a015681fb296bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "徐女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "浙江拉莫医学影像科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e9339246503706151HJ42t64FFo~",
-      "brandName": "浙江拉莫医学影像科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240722/7bf6f160950405e954589d4c897cbbcbe0a53bd6047aa1b95f10a90a9199fe6099b9f70b9e0eb283.png.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "浙江拉莫医学影像科技有限公司致力于打造智能精准医学影像技术平台, 公司聚焦先进磁共振成像技术包括分子影像CEST技术、高级血流灌注功能4D ASL技术、弥散微结构成像tdDWI技术等, 在成像功能、图像质量和扫描速度上达到了世界领先水平，相关产品陆续进入全球50多家顶尖医院和学术机构落地合作。公司自主研发了多种高级成像模态的数据采集、数据重建和图像处理软件产品组合可应用于多模态磁共振图像扫描和医学影像临床科研领域。拉莫医学影像在磁共振成像领域持续耕耘，秉承“来自于临床、应用于临床”理念在前沿磁共振成像技术研发上砥砺前行，努力为中国磁共振影像事业的崛起贡献一份力量。",
-      "labels": [
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1730959977719,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江拉莫医学影像科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江拉莫医学影像科技",
+        "certificated": true,
+        "large": null,
+        "name": "徐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730959977719,
+        "brandName": "浙江拉莫医学影像科技",
+        "customerBrandName": "浙江拉莫医学影像科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "e9339246503706151HJ42t64FFo~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "浙江拉莫医学影像科技有限公司致力于打造智能精准医学影像技术平台, 公司聚焦先进磁共振成像技术包括分子影像CEST技术、高级血流灌注功能4D ASL技术、弥散微结构成像tdDWI技术等, 在成像功能、图像质量和扫描速度上达到了世界领先水平，相关产品陆续进入全球50多家顶尖医院和学术机构落地合作。公司自主研发了多种高级成像模态的数据采集、数据重建和图像处理软件产品组合可应用于多模态磁共振图像扫描和医学影像临床科研领域。拉莫医学影像在磁共振成像领域持续耕耘，秉承“来自于临床、应用于临床”理念在前沿磁共振成像技术研发上砥砺前行，努力为中国磁共振影像事业的崛起贡献一份力量。",
+        "labels": [
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240722/7bf6f160950405e954589d4c897cbbcbe0a53bd6047aa1b95f10a90a9199fe6099b9f70b9e0eb283.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州西湖区西投万科·开物创新大厦B幢1402室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "420edff7767331d31nRy39S0FVNWw4y2VP2f",
+        "encryptId": "a5c11e25e6e20e721H193tW-FlVS",
+        "encryptUserId": "c8775b20b2d62f100nF809S5GVBX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.307104,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.095686,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bf3559c27b54ce59669fd31a015681fb296bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1 计算机、电子信息相关专业，具备扎实的计算机理论基础\n2 熟悉Linux操作，熟练掌握Git基本操作\n3 熟悉TCP/IP协议，HTTP协议\n4 熟悉Web开发\n5 拥有良好的英文读写能力，通过大学英语四级\n面试前请准备好个人项目代码、IDE、Linux环境。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "C++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf750ef6d4ca23d1e788bddb3bd8f432376bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JEPho5AOmwyeM-41vTHSvanroFwk2Jp2dQLF8cNgDeFKBP95DZZNUSyQN_hjLVDQuaUcztW-WTV0LEzLq2hGDgJp0reBoYMQkDucz1bqVSUNvja5t94zj44vdpLK4OBEHMz1a90H4jkbtXY~",
+    "selfAccess": false,
+    "sessionId": null
 }

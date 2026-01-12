@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vVlDjlIYjhMnY-g1TlRZqL80zj25m81K9ok2cEuqSHPHkzVlVoBXSs1SiTw_pk8iVN4-KiDM4Dl_FvaMWXyaaRHMUyXBASczSfkpJNMjCUovPd4zavhF",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4b7d8a953d6c3eb51XJ63dq0EldY",
-      "encryptUserId": "506a4ebcb878d1481nV42tu7FFBY",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190900,
-      "locationName": "淮安",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责： \n1.机房设备的日常维护\n2.设备网络通信日常维护\n3.机柜内弱点实施、线路整理等\n4.上级安排的相关的工作\n\n任职要求：\n1.一年以上工作经验  大专以上学历\n2.了解计算机原理，具有网络交换的基础知识\n3.熟悉windows\\linux\\VMware等系统\n4.熟悉传统的数据库，熟悉硬件方面的知识\n5.具有抗压能力强、高度责任心、对工作有认同感、良好的服务意思，学习能力强、团队协助精神及良好的沟通交流能力",
-      "encryptAddressId": "a70c5c575a8fc54c33143di9GFo~",
-      "address": "淮安淮阴区江淮科技园15A5楼",
-      "longitude": 119.078641,
-      "latitude": 33.640128,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16f9b0b6e8babec0c5bdfd1ad2dcf3a1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/655f6c026a0e85a1cedac6d08e9c1357",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "马女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240510/607f1f3d68754fd0f86c48133cb770a85cb75a61c06fde32fe589b34db050ac5ae151e9aa0ae747_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "耀途盛世",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3994c1805c31c4521nFz2dq6EVo~",
-      "brandName": "耀途盛世",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730289791176,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "耀途盛世",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "耀途盛世",
+        "certificated": true,
+        "large": null,
+        "name": "马女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240510/607f1f3d68754fd0f86c48133cb770a85cb75a61c06fde32fe589b34db050ac5ae151e9aa0ae747_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730289791176,
+        "brandName": "耀途盛世",
+        "customerBrandName": "耀途盛世",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3994c1805c31c4521nFz2dq6EVo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "淮安淮阴区江淮科技园15A5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a70c5c575a8fc54c33143di9GFo~",
+        "encryptId": "4b7d8a953d6c3eb51XJ63dq0EldY",
+        "encryptUserId": "506a4ebcb878d1481nV42tu7FFBY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 33.640128,
+        "location": 101190900,
+        "locationName": "淮安",
+        "longitude": 119.078641,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/655f6c026a0e85a1cedac6d08e9c1357",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责： \n1.机房设备的日常维护\n2.设备网络通信日常维护\n3.机柜内弱点实施、线路整理等\n4.上级安排的相关的工作\n\n任职要求：\n1.一年以上工作经验  大专以上学历\n2.了解计算机原理，具有网络交换的基础知识\n3.熟悉windows\\linux\\VMware等系统\n4.熟悉传统的数据库，熟悉硬件方面的知识\n5.具有抗压能力强、高度责任心、对工作有认同感、良好的服务意思，学习能力强、团队协助精神及良好的沟通交流能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "网络运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16f9b0b6e8babec0c5bdfd1ad2dcf3a1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vVlDjlIYjhMnY-g1TlRZqL80zj25m81K9ok2cEuqSHPHkzVlVoBXSs1SiTw_pk8iVN4-KiDM4Dl_FvaMWXyaaRHMUyXBASczSfkpJNMjCUovPd4zavhF",
+    "selfAccess": false,
+    "sessionId": null
 }

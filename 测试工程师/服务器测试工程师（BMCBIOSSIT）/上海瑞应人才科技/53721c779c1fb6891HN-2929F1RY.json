@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UtfTT2jb8v8QH-j1oBBXZ58rz9qUWlSvseWqj0pT_dS1Ts77Y-RiB9P8VOFN0EiC5zNQ2KUOdZVbykFvoHzWa7Apjq2k4kwvDSU30I0DqkvH-30dbvZM",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "53721c779c1fb6891HN-2929F1RY",
-      "encryptUserId": "2b670e081a6d10930nZy09u0FVJY",
-      "invalidStatus": false,
-      "jobName": "服务器测试工程师（BMC/BIOS/SIT）",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1、电子、通信、自动化或计算机类的学士学位，或相关领域的实际工作经验。\n2、有1-3年的服务器或硬件测试经验，熟悉服务器硬件架构和操作系统。\n3、具备扎实的电子技术基础，熟悉数字电路和模拟电路设计。\n4、熟练掌握Linux操作系统及系统下基本操作\n5、了解各服务器常见性能测试工具（SPECCPU、Unixbench、stream等）",
-      "encryptAddressId": "a30fc38f420ce8e10HN52tW8FltXwo--WPs~",
-      "address": "济南历城区港盛大厦1",
-      "longitude": 117.223818,
-      "latitude": 36.651628,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6077d2ebd4fbb71fe1890892c8db1a44",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f66c31b20d2a3550604646470f5fe26",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SSD",
-        "bios",
-        "性能测试",
-        "功能测试",
-        "服务器"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240914/607f1f3d68754fd03485f1d0084746a430ee46f57a86e84e03ebf98b2a20182814f01b1f37d048d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "上海瑞应人才科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "62518f9a3d79dd931XV_09y4FFo~",
-      "brandName": "上海瑞应人才科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "带薪年假",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1729852277998,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海瑞应人才科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海瑞应人才科技",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240914/607f1f3d68754fd03485f1d0084746a430ee46f57a86e84e03ebf98b2a20182814f01b1f37d048d_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729852277998,
+        "brandName": "上海瑞应人才科技",
+        "customerBrandName": "上海瑞应人才科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "62518f9a3d79dd931XV_09y4FFo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "带薪年假",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南历城区港盛大厦1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a30fc38f420ce8e10HN52tW8FltXwo--WPs~",
+        "encryptId": "53721c779c1fb6891HN-2929F1RY",
+        "encryptUserId": "2b670e081a6d10930nZy09u0FVJY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "服务器测试工程师（BMC/BIOS/SIT）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.651628,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.223818,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f66c31b20d2a3550604646470f5fe26",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职要求：\n1、电子、通信、自动化或计算机类的学士学位，或相关领域的实际工作经验。\n2、有1-3年的服务器或硬件测试经验，熟悉服务器硬件架构和操作系统。\n3、具备扎实的电子技术基础，熟悉数字电路和模拟电路设计。\n4、熟练掌握Linux操作系统及系统下基本操作\n5、了解各服务器常见性能测试工具（SPECCPU、Unixbench、stream等）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "SSD",
+            "bios",
+            "性能测试",
+            "功能测试",
+            "服务器"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6077d2ebd4fbb71fe1890892c8db1a44"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UtfTT2jb8v8QH-j1oBBXZ58rz9qUWlSvseWqj0pT_dS1Ts77Y-RiB9P8VOFN0EiC5zNQ2KUOdZVbykFvoHzWa7Apjq2k4kwvDSU30I0DqkvH-30dbvZM",
+    "selfAccess": false,
+    "sessionId": null
 }

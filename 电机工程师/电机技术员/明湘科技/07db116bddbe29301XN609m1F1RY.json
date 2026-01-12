@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1z2ds469VPykI-X1F5_IuexHZtaaD0IBXVAZD5q15PP60YWhqwDgKj-TWcDbgu8s7fKAbUPKkVKZ-WtMdGAKo2oAcdmV-t1DJ5pxNVexROmxGyHSp5AX",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "07db116bddbe29301XN609m1F1RY",
-      "encryptUserId": "93733ca54b5778c50nd829i8F1dY",
-      "invalidStatus": false,
-      "jobName": "电机技术员",
-      "position": 300802,
-      "positionName": "电机工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "了解电机原理，能接受生产安排，动手能力强。",
-      "encryptAddressId": "b8f245452fe186391XZz2d-4FQ~~",
-      "address": "深圳龙岗区深圳市兴锋诚金属制品有限公司201",
-      "longitude": 114.270024,
-      "latitude": 22.745656,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2062e79da63b1b5e1b2c3a37ee214803",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15f5d529fa260c14dbd440b8602d8dc3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "AutoCAD",
-        "结构工程师",
-        "设计工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "文先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210614/05ee6fb3b4c8f3785c249aa13aebcea439955854ab9e9b24f54ef387d5e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "明湘科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "01f84a18a62c5a1f1nN9296_F1E~",
-      "brandName": "明湘科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724963047518,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "明湘科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "明湘科技",
+        "certificated": true,
+        "large": null,
+        "name": "文先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210614/05ee6fb3b4c8f3785c249aa13aebcea439955854ab9e9b24f54ef387d5e_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724963047518,
+        "brandName": "明湘科技",
+        "customerBrandName": "明湘科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "01f84a18a62c5a1f1nN9296_F1E~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区深圳市兴锋诚金属制品有限公司201",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b8f245452fe186391XZz2d-4FQ~~",
+        "encryptId": "07db116bddbe29301XN609m1F1RY",
+        "encryptUserId": "93733ca54b5778c50nd829i8F1dY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "电机技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.745656,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.270024,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15f5d529fa260c14dbd440b8602d8dc3",
+        "position": 300802,
+        "positionName": "电机工程师",
+        "postDescription": "了解电机原理，能接受生产安排，动手能力强。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "AutoCAD",
+            "结构工程师",
+            "设计工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2062e79da63b1b5e1b2c3a37ee214803"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1z2ds469VPykI-X1F5_IuexHZtaaD0IBXVAZD5q15PP60YWhqwDgKj-TWcDbgu8s7fKAbUPKkVKZ-WtMdGAKo2oAcdmV-t1DJ5pxNVexROmxGyHSp5AX",
+    "selfAccess": false,
+    "sessionId": null
 }

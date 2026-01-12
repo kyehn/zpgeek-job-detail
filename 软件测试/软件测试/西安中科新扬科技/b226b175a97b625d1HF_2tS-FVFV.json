@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "l9dSzSkpCX624-N1C1GY7tP4jm76Q66IMmitlFFUlAuiKYJWrKxdbqPdsnvOxPjgdB8zZgF9BpTOIvbLZ6rrf_3Zn02RghBoPj-DdFUC4uZOB5AxMZWxyDGH4JFeyXI0SCLZlJQrSqhY4Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b226b175a97b625d1HF_2tS-FVFV",
-      "encryptUserId": "c232f48bbe82fab10H142Nm7FVY~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "性能测试 功能测试 接口测试",
-      "encryptAddressId": "b34c4a9f8a6ea1361HZy3t-5FVtWw4S8Uf4~",
-      "address": "西安未央区凤城一号(南门)1623",
-      "longitude": 108.938889,
-      "latitude": 34.313932,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bf421b3edef9b46b8d55fff0d074b2c6816bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bfa91168aa4393ae065cf8b226c4fa524e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "项目总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "西安中科新扬科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e099df88c04ff7db1X1_09u7FlQ~",
-      "brandName": "西安中科新扬科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "工龄奖",
-        "带薪年假",
-        "团建聚餐",
-        "有无线网",
-        "节日福利",
-        "生日福利",
-        "交通补助"
-      ],
-      "activeTime": 1723609440000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "西安中科新扬科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "西安中科新扬科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "项目总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1723609440000,
+        "brandName": "西安中科新扬科技",
+        "customerBrandName": "西安中科新扬科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "e099df88c04ff7db1X1_09u7FlQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "工龄奖",
+            "带薪年假",
+            "团建聚餐",
+            "有无线网",
+            "节日福利",
+            "生日福利",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安未央区凤城一号(南门)1623",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b34c4a9f8a6ea1361HZy3t-5FVtWw4S8Uf4~",
+        "encryptId": "b226b175a97b625d1HF_2tS-FVFV",
+        "encryptUserId": "c232f48bbe82fab10H142Nm7FVY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.313932,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.938889,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bfa91168aa4393ae065cf8b226c4fa524e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "性能测试 功能测试 接口测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "性能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bf421b3edef9b46b8d55fff0d074b2c6816bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "l9dSzSkpCX624-N1C1GY7tP4jm76Q66IMmitlFFUlAuiKYJWrKxdbqPdsnvOxPjgdB8zZgF9BpTOIvbLZ6rrf_3Zn02RghBoPj-DdFUC4uZOB5AxMZWxyDGH4JFeyXI0SCLZlJQrSqhY4Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

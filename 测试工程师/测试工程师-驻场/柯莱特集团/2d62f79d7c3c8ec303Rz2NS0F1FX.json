@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CftYvX2zjVxTa-N1F54m7KQAjnYNNvlm5wEZ-iEPjSnuqCHqBpKuNztsZHTFnTZUDCb6K-_oxc5GlEwX5UyxhZ-au4j-vCEs_ZxF_cHkYvQ708sfquQRDU84N-gWeaqaLibM_9Qta_7QEocFwkQn5Vz_D3YlC12e1WTp_GWmTBlA6JEOSqip2wZAWPfPBlrje_N3rEBHbyRXPeqR2WpBSQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2d62f79d7c3c8ec303Rz2NS0F1FX",
-      "encryptUserId": "03ce7df6188b136a3nF62t66GVs~",
-      "invalidStatus": false,
-      "jobName": "测试工程师-驻场",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-10K",
-      "payTypeDesc": null,
-      "postDescription": "任职条件:\n1、全日制本科及以上学历，计算机相关专业，二年以上经验者优先；\n2.能够独立完成版本测试用例编写，缺陷跟踪，测试报告输出等能力；\n3.熟悉linux操作系统，掌握常用linux命令，熟悉HTTP、DNS等协议；\n4.熟悉性能测试常见指标与测试方法，能独立负责分配项目的性能测试工作；\n5.熟悉常用的软件测试工具如jmeter、postman等；\n6.性格开朗，有良好的沟通能力，善于沟通和项目推进，具有较强的责任心和自驱力；\n7.有自动化测试、大数据相关测试经验优先；\n\n岗位职责:\n1、参与定制项目需求评审、讨论在需求评审中能够提出有效的建议。\n2、完成产品测试用例设计，缺陷跟踪，推动问题及时合理解决，完成测试报告输出。",
-      "encryptAddressId": "6e15dca10e82e90833R82Ni8EA~~",
-      "address": "武汉江夏区东湖网谷东湖网谷6栋2-5楼",
-      "longitude": 114.403404,
-      "latitude": 30.464039,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37b0ba8dd2876a2f92ffaf7be1ddd4e8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b47e03b460d233d543931937ec9c6804",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "测试工作经验",
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "宣女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240612/607f1f3d68754fd042eafc7bcd101674167561696cc845509d6b8ba477069f0bde4c6ffb8ccb058_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "柯莱特集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "879cece58f6a7e7d1XR929W0",
-      "brandName": "柯莱特集团",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
-      "labels": [
-        "五险一金",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1735542464768,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "柯莱特集团",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "柯莱特集团",
+        "certificated": true,
+        "large": null,
+        "name": "宣女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240612/607f1f3d68754fd042eafc7bcd101674167561696cc845509d6b8ba477069f0bde4c6ffb8ccb058_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1735542464768,
+        "brandName": "柯莱特集团",
+        "customerBrandName": "柯莱特集团",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
+        "labels": [
+            "五险一金",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区东湖网谷东湖网谷6栋2-5楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "6e15dca10e82e90833R82Ni8EA~~",
+        "encryptId": "2d62f79d7c3c8ec303Rz2NS0F1FX",
+        "encryptUserId": "03ce7df6188b136a3nF62t66GVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师-驻场",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.464039,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.403404,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b47e03b460d233d543931937ec9c6804",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职条件:\n1、全日制本科及以上学历，计算机相关专业，二年以上经验者优先；\n2.能够独立完成版本测试用例编写，缺陷跟踪，测试报告输出等能力；\n3.熟悉linux操作系统，掌握常用linux命令，熟悉HTTP、DNS等协议；\n4.熟悉性能测试常见指标与测试方法，能独立负责分配项目的性能测试工作；\n5.熟悉常用的软件测试工具如jmeter、postman等；\n6.性格开朗，有良好的沟通能力，善于沟通和项目推进，具有较强的责任心和自驱力；\n7.有自动化测试、大数据相关测试经验优先；\n\n岗位职责:\n1、参与定制项目需求评审、讨论在需求评审中能够提出有效的建议。\n2、完成产品测试用例设计，缺陷跟踪，推动问题及时合理解决，完成测试报告输出。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-10K",
+        "showSkills": [
+            "Java",
+            "测试工作经验",
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37b0ba8dd2876a2f92ffaf7be1ddd4e8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CftYvX2zjVxTa-N1F54m7KQAjnYNNvlm5wEZ-iEPjSnuqCHqBpKuNztsZHTFnTZUDCb6K-_oxc5GlEwX5UyxhZ-au4j-vCEs_ZxF_cHkYvQ708sfquQRDU84N-gWeaqaLibM_9Qta_7QEocFwkQn5Vz_D3YlC12e1WTp_GWmTBlA6JEOSqip2wZAWPfPBlrje_N3rEBHbyRXPeqR2WpBSQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wUuGdjBd8r7dj-v1SUBKpy_1IdfAyLEU5gOsW9aSANeDKgqNs_iMwyQG895s2KhSZnDwmCUY0OJqq1MUIbyUketYRCMKVwBNQ8FW5g9YWsqTnYKYLt-h",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6b248ece678107331XZy3t2-GVtR",
-      "encryptUserId": "9863fbc371cdaa2d0nRz29u7GVNW",
-      "invalidStatus": false,
-      "jobName": "银行科技项目运维专员",
-      "position": 100406,
-      "positionName": "系统管理员",
-      "location": 101290200,
-      "locationName": "曲靖",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1 该职位为银行驻场系统运维服务职位（工作地点曲靖市）；\n2 工作职责包括：为客户提供系统运行状态监控、配置及数据修改、接收及反馈客户对产品要求；编写产品文档及与客户的沟通报告；维护客户关系。\n3 职位要求：熟练掌握日常办公软件（word、excel、ppt）；有软件项目管理相关知识；有管理软件操作经验为佳。",
-      "encryptAddressId": "5b155973b6a410670XZ-0965E1M~",
-      "address": "曲靖麒麟区曲靖市商业银行(城关支行)城关支行",
-      "longitude": 103.79819,
-      "latitude": 25.487813,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dc766e5b43c7d2db1df9c0f0902b938a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e68d058904b944d8d79d765f8d8dd6c9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "信息系统管理",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210330/b0fbb19f28acda2665d5ce85b248a12cb61dea3864ff66affd04aa96077_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "大连翰莫森信息技...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "89182c6d4e61f8bc1nF43dW6FVE~",
-      "brandName": "大连翰莫森信息技...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727368256170,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大连翰莫森信息技...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "大连翰莫森信息技...",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210330/b0fbb19f28acda2665d5ce85b248a12cb61dea3864ff66affd04aa96077_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727368256170,
+        "brandName": "大连翰莫森信息技...",
+        "customerBrandName": "大连翰莫森信息技...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "89182c6d4e61f8bc1nF43dW6FVE~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "曲靖麒麟区曲靖市商业银行(城关支行)城关支行",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5b155973b6a410670XZ-0965E1M~",
+        "encryptId": "6b248ece678107331XZy3t2-GVtR",
+        "encryptUserId": "9863fbc371cdaa2d0nRz29u7GVNW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "银行科技项目运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 25.487813,
+        "location": 101290200,
+        "locationName": "曲靖",
+        "longitude": 103.79819,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e68d058904b944d8d79d765f8d8dd6c9",
+        "position": 100406,
+        "positionName": "系统管理员",
+        "postDescription": "1 该职位为银行驻场系统运维服务职位（工作地点曲靖市）；\n2 工作职责包括：为客户提供系统运行状态监控、配置及数据修改、接收及反馈客户对产品要求；编写产品文档及与客户的沟通报告；维护客户关系。\n3 职位要求：熟练掌握日常办公软件（word、excel、ppt）；有软件项目管理相关知识；有管理软件操作经验为佳。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "信息系统管理",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dc766e5b43c7d2db1df9c0f0902b938a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wUuGdjBd8r7dj-v1SUBKpy_1IdfAyLEU5gOsW9aSANeDKgqNs_iMwyQG895s2KhSZnDwmCUY0OJqq1MUIbyUketYRCMKVwBNQ8FW5g9YWsqTnYKYLt-h",
+    "selfAccess": false,
+    "sessionId": null
 }

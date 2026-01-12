@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RKFJ1cb9DKB90-u1YIQlVYBK35FMC_2Q1O0bvq8r8YryejLQ9KQD2Q4KrlHFJMl6Nlrb6jR96Xvg5aH2OwysGY1XN2UCSjK3DYEkx2qtHYSii3siXRBUyh75pjPVPCFO-LQWfRHeX8WDsrD1c58Fx9PpGvmG9w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "974809593ffd878c03Rz0tm6FVNU",
-      "encryptUserId": "506ca2426e6e057b0nV63NW-EldU",
-      "invalidStatus": false,
-      "jobName": "手机测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1. 熟悉Android平台. 熟悉软件测试流程. 有华为/荣耀手机平板测试经验\n2. 了解通信协议. 熟悉短距测试场景. 具备短距log抓取. 空口包数据抓取以及熟练使用对应软件工具能力\n3. 熟悉蓝牙/WI-FI功能. 性能. GPS测试\n4. 工作积极主动. 具备较强的学习能力和良好的沟通能力. 能承担工作压力",
-      "encryptAddressId": "954e3393bf5f55ed1nJ83d28ElRVwI-7Vvqf",
-      "address": "武汉江夏区华为武汉研究所武汉市江夏区九峰三路207号华为研究所A区",
-      "longitude": 114.535074,
-      "latitude": 30.49298,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfb3c7d93f7568ec6a2735a8e77486f3ff6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfbe1fb9e5160e05048f14c5760d8869c16bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241228/48ba41acc9cef1bfae699e53c6fea07d069d6641ffbf5c966bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241228/48ba41acc9cef1bf0fb57c0789bbff90e007a84a017a941b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "iOS/Android测试经验",
-        "测试工作经验",
-        "短距"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220707/607f1f3d68754fd09dba8a06eac0770fc091faea7cfae17568707b1c3b037a5a0c965ff010f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "万氪睿速",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "720490be82b6b9b81XR52tu0Flo~",
-      "brandName": "万氪睿速",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220607/7bf6f160950405e9401858e3df76aa61c5e5e4b9602a4e4ce6810ccab0556e405a9d32335caf61d9.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "五险一金"
-      ],
-      "activeTime": 1735814872004,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万氪睿速",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万氪睿速",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220707/607f1f3d68754fd09dba8a06eac0770fc091faea7cfae17568707b1c3b037a5a0c965ff010f_b.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1735814872004,
+        "brandName": "万氪睿速",
+        "customerBrandName": "万氪睿速",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "720490be82b6b9b81XR52tu0Flo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220607/7bf6f160950405e9401858e3df76aa61c5e5e4b9602a4e4ce6810ccab0556e405a9d32335caf61d9.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区华为武汉研究所武汉市江夏区九峰三路207号华为研究所A区",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241228/48ba41acc9cef1bf0fb57c0789bbff90e007a84a017a941b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241228/48ba41acc9cef1bfae699e53c6fea07d069d6641ffbf5c966bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "954e3393bf5f55ed1nJ83d28ElRVwI-7Vvqf",
+        "encryptId": "974809593ffd878c03Rz0tm6FVNU",
+        "encryptUserId": "506ca2426e6e057b0nV63NW-EldU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "手机测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.49298,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.535074,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfbe1fb9e5160e05048f14c5760d8869c16bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1. 熟悉Android平台. 熟悉软件测试流程. 有华为/荣耀手机平板测试经验\n2. 了解通信协议. 熟悉短距测试场景. 具备短距log抓取. 空口包数据抓取以及熟练使用对应软件工具能力\n3. 熟悉蓝牙/WI-FI功能. 性能. GPS测试\n4. 工作积极主动. 具备较强的学习能力和良好的沟通能力. 能承担工作压力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "iOS/Android测试经验",
+            "测试工作经验",
+            "短距"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfb3c7d93f7568ec6a2735a8e77486f3ff6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RKFJ1cb9DKB90-u1YIQlVYBK35FMC_2Q1O0bvq8r8YryejLQ9KQD2Q4KrlHFJMl6Nlrb6jR96Xvg5aH2OwysGY1XN2UCSjK3DYEkx2qtHYSii3siXRBUyh75pjPVPCFO-LQWfRHeX8WDsrD1c58Fx9PpGvmG9w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

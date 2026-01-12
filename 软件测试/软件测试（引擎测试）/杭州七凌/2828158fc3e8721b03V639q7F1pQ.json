@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0IYhzfj2p4HTp-I1-Ms9rTdIcPpeDVcjwLwU9ImRxt0mGT07A07R5ZZF8Qtqhp3l2Dq83LQgm0PhKuOhr2mt-lcUJf5QMxNxHSOenZbRha3wJJYHVpXoZbzxYILjutCQ3m04yQOC_d4bMjkpmfPEtxNlZPtxTMdCfLrEIX6O59_cH_0Uj897M7B1bcpF6_-VPs1tKzSnwjl5kDioGnb70MtW",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2828158fc3e8721b03V639q7F1pQ",
-      "encryptUserId": "03d8f6a47dc65d1b031z3t65F1A~",
-      "invalidStatus": false,
-      "jobName": "软件测试（引擎测试）",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n1.根据软件设计需求设计测试数据和测试用例； \n2.参与项目的测试分析、测试执行； \n3.发现产品缺陷，跟踪定位Bug，协助开发工程师解决问题； \n4.完成对产品的集成测试与系统测试。 \n职位要求\n1.专科及以上学历，计算机相关专业； \n2.熟悉各种流行的游戏引擎，如Unity3D、Unreal Engine、Cocos2d等； \n3.熟悉gitlab使用和常用的调试技巧； \n4.熟悉测试自动化相关技术，如Selenium、Appium、Robot Framework等； \n5.有独立完成测试工作的能力，沟通能力较强； \n6.工作态度积极主动，自我学习能力强，乐于尝试并能迅速学习最新技术，善于不断完善测试工具。",
-      "encryptAddressId": "e16f930bead9a5a81nJ90t20GVFVxoi3WfmZ",
-      "address": "杭州不鸣科技(杭州)有限公司1",
-      "longitude": 120.076325,
-      "latitude": 30.291519,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230624/48ba41acc9cef1bf02c89d91962f6df1e21e19d37bb0ee496bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230624/48ba41acc9cef1bf3e82e267b53cb7cc5eb6d007c1b2b8906bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "引擎测试",
-        "性能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230720/607f1f3d68754fd0d590f075999812e21e684bf340937cd5eb74e210729bb78564dc92e454eb047_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "杭州七凌",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "aa23359c2fa1edbf1nFy2Ny0EVo~",
-      "brandName": "杭州七凌",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210803/46d39d412614f3688fcd1da74696605dc572b45e47fc5613c59c5a5de380bf2a.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1736141804565,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州七凌",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "杭州七凌",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230720/607f1f3d68754fd0d590f075999812e21e684bf340937cd5eb74e210729bb78564dc92e454eb047_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1736141804565,
+        "brandName": "杭州七凌",
+        "customerBrandName": "杭州七凌",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "aa23359c2fa1edbf1nFy2Ny0EVo~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210803/46d39d412614f3688fcd1da74696605dc572b45e47fc5613c59c5a5de380bf2a.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州不鸣科技(杭州)有限公司1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "e16f930bead9a5a81nJ90t20GVFVxoi3WfmZ",
+        "encryptId": "2828158fc3e8721b03V639q7F1pQ",
+        "encryptUserId": "03d8f6a47dc65d1b031z3t65F1A~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试（引擎测试）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.291519,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.076325,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230624/48ba41acc9cef1bf3e82e267b53cb7cc5eb6d007c1b2b8906bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "职位描述\n1.根据软件设计需求设计测试数据和测试用例； \n2.参与项目的测试分析、测试执行； \n3.发现产品缺陷，跟踪定位Bug，协助开发工程师解决问题； \n4.完成对产品的集成测试与系统测试。 \n职位要求\n1.专科及以上学历，计算机相关专业； \n2.熟悉各种流行的游戏引擎，如Unity3D、Unreal Engine、Cocos2d等； \n3.熟悉gitlab使用和常用的调试技巧； \n4.熟悉测试自动化相关技术，如Selenium、Appium、Robot Framework等； \n5.有独立完成测试工作的能力，沟通能力较强； \n6.工作态度积极主动，自我学习能力强，乐于尝试并能迅速学习最新技术，善于不断完善测试工具。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K",
+        "showSkills": [
+            "自动化测试",
+            "引擎测试",
+            "性能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230624/48ba41acc9cef1bf02c89d91962f6df1e21e19d37bb0ee496bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0IYhzfj2p4HTp-I1-Ms9rTdIcPpeDVcjwLwU9ImRxt0mGT07A07R5ZZF8Qtqhp3l2Dq83LQgm0PhKuOhr2mt-lcUJf5QMxNxHSOenZbRha3wJJYHVpXoZbzxYILjutCQ3m04yQOC_d4bMjkpmfPEtxNlZPtxTMdCfLrEIX6O59_cH_0Uj897M7B1bcpF6_-VPs1tKzSnwjl5kDioGnb70MtW",
+    "selfAccess": false,
+    "sessionId": null
 }

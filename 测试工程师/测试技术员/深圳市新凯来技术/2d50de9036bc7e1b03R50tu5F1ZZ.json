@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jv6dEmr2YXaKi-S16SFOzwqJ9GKejOSgErzmI8hEt-ZgRj337aoGQOEssK7IlSr9JRb43P2LIo071MUylbwfMkHRHL1YvIubNFdxYRQO0ZsNqzghTSthycuFWFR1gt20X8h_A-X3EXKOvpQJUABMqL1YxdXQ4A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2d50de9036bc7e1b03R50tu5F1ZZ",
-      "encryptUserId": "3aa99a2203cba3450XBz39u0GFVW",
-      "invalidStatus": false,
-      "jobName": "测试技术员",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责流控部件产品的测试环境搭建；\n2、负责相关产品的功能测试、性能测试、环境测试及可靠性测试等；\n3、负责测试数据汇总及初步整理，负责实验测试报告整理输出。\n岗位要求：\n1、具备电控类产品的功能测试、可靠性测试、气候环境测试等相关经验，具备流量计、阀类产品测试经验优先；\n2、具备测试环境搭建能力，通用仪器仪表使用能力，建议测试工装设计能力；\n3、具备测试数据处理，测试报告撰写能力；\n4、大专及以上学历。",
-      "encryptAddressId": "b05cdeb4d3c752370HJ43dy9GVBWy4q3VPo~",
-      "address": "深圳龙岗区平湖智造园项目经理部平湖制造园",
-      "longitude": 114.095722,
-      "latitude": 22.698657,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf8b8768072702fedc2c8813e9998d050d6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bffec76a2f665b039eaea3f12960a41ff86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "深圳市新凯来技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "986215d68907dfaa1XZ63929E1I~",
-      "brandName": "深圳市新凯来技术",
-      "logo": "https://c-res.zhipin.com/jrs/5a2adcb6a712d02e4186a4d4eda8e4ed.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "公司简介：\n深圳市新凯来技术有限公司隶属于深圳市重大产业投资集团，于2021年8月成立，是深圳国资全资子公司。坚持“专业、创新、开放”，以技术为底、集众家之力，攻坚克难，保障国内半导体及电子制造产业供应链安全，为国内半导体设备厂、FAB厂、电子电器设备厂、研究机构提供先进的解决方案，相关产品广泛应用于国内顶级制造企业和研究。",
-      "labels": [
-        "免费班车",
-        "团建聚餐",
-        "零食下午茶",
-        "带薪年假",
-        "法定节假日三薪",
-        "节假日加班费",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
-        "意外险",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1733458473049,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市新凯来技术",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳市新凯来技术",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1733458473049,
+        "brandName": "深圳市新凯来技术",
+        "customerBrandName": "深圳市新凯来技术",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "986215d68907dfaa1XZ63929E1I~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "公司简介：\n深圳市新凯来技术有限公司隶属于深圳市重大产业投资集团，于2021年8月成立，是深圳国资全资子公司。坚持“专业、创新、开放”，以技术为底、集众家之力，攻坚克难，保障国内半导体及电子制造产业供应链安全，为国内半导体设备厂、FAB厂、电子电器设备厂、研究机构提供先进的解决方案，相关产品广泛应用于国内顶级制造企业和研究。",
+        "labels": [
+            "免费班车",
+            "团建聚餐",
+            "零食下午茶",
+            "带薪年假",
+            "法定节假日三薪",
+            "节假日加班费",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "意外险",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/5a2adcb6a712d02e4186a4d4eda8e4ed.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区平湖智造园项目经理部平湖制造园",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b05cdeb4d3c752370HJ43dy9GVBWy4q3VPo~",
+        "encryptId": "2d50de9036bc7e1b03R50tu5F1ZZ",
+        "encryptUserId": "3aa99a2203cba3450XBz39u0GFVW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试技术员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.698657,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.095722,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bffec76a2f665b039eaea3f12960a41ff86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、负责流控部件产品的测试环境搭建；\n2、负责相关产品的功能测试、性能测试、环境测试及可靠性测试等；\n3、负责测试数据汇总及初步整理，负责实验测试报告整理输出。\n岗位要求：\n1、具备电控类产品的功能测试、可靠性测试、气候环境测试等相关经验，具备流量计、阀类产品测试经验优先；\n2、具备测试环境搭建能力，通用仪器仪表使用能力，建议测试工装设计能力；\n3、具备测试数据处理，测试报告撰写能力；\n4、大专及以上学历。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf8b8768072702fedc2c8813e9998d050d6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jv6dEmr2YXaKi-S16SFOzwqJ9GKejOSgErzmI8hEt-ZgRj337aoGQOEssK7IlSr9JRb43P2LIo071MUylbwfMkHRHL1YvIubNFdxYRQO0ZsNqzghTSthycuFWFR1gt20X8h_A-X3EXKOvpQJUABMqL1YxdXQ4A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

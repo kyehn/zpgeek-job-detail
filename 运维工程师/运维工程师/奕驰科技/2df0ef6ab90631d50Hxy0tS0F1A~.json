@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YaMnYId9drLHM-s1nLm_0uJ_eoSQGx7ghrsoYyt2yXNPdr_2GcE2sJKo98w4ls22K_d6sqbiHho3ngl-kTaYH7z7nbwgJhhU9QuoL4SniiLsIW9O9DSmB0mTgwdHU3S1B48IS3He3D71",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2df0ef6ab90631d50Hxy0tS0F1A~",
-      "encryptUserId": "60996221213f74351nR93dW0EFtS",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "计算机软件调试，系统设备的安装，硬件维修维护。",
-      "encryptAddressId": "587beb8b3bfc417e1HR-3dW4E1I~",
-      "address": "北京海淀区中鑫嘉园1期中鑫家园一期西座1102号",
-      "longitude": 116.377727,
-      "latitude": 39.979988,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6406898c43195276268f31512d154711",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00721691a6d70898eacf005df71c367f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维工程师",
-        "项目实施",
-        "硬件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "沈先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "奕驰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "891200ce579f604033Vz3Nm_Fg~~",
-      "brandName": "奕驰科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200520/54d97ed8956ce98c564abe160deb02577b1e6351ca4ccf6256f0e34cf37bd5cd.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "专业经营排队管理系统、机房及网络周边、流媒体、共享及自助终端设备等。公司是中国最早涉足排队系统的系统集成商之一, 公司决策层致力于将最新潮的外观造型和先进信息技术有效集合,打造出最完美的结合主要服务客户遍及海关、劳动局、车管所、电信、银行、证券、保险、房产、医疗及公用事业等单位。",
-      "labels": [
-        "交通补助",
-        "通讯补贴",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1725603995808,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "奕驰科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "奕驰科技",
+        "certificated": true,
+        "large": null,
+        "name": "沈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725603995808,
+        "brandName": "奕驰科技",
+        "customerBrandName": "奕驰科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "891200ce579f604033Vz3Nm_Fg~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "专业经营排队管理系统、机房及网络周边、流媒体、共享及自助终端设备等。公司是中国最早涉足排队系统的系统集成商之一, 公司决策层致力于将最新潮的外观造型和先进信息技术有效集合,打造出最完美的结合主要服务客户遍及海关、劳动局、车管所、电信、银行、证券、保险、房产、医疗及公用事业等单位。",
+        "labels": [
+            "交通补助",
+            "通讯补贴",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200520/54d97ed8956ce98c564abe160deb02577b1e6351ca4ccf6256f0e34cf37bd5cd.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区中鑫嘉园1期中鑫家园一期西座1102号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "587beb8b3bfc417e1HR-3dW4E1I~",
+        "encryptId": "2df0ef6ab90631d50Hxy0tS0F1A~",
+        "encryptUserId": "60996221213f74351nR93dW0EFtS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.979988,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.377727,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00721691a6d70898eacf005df71c367f",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "计算机软件调试，系统设备的安装，硬件维修维护。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "运维工程师",
+            "项目实施",
+            "硬件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6406898c43195276268f31512d154711"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YaMnYId9drLHM-s1nLm_0uJ_eoSQGx7ghrsoYyt2yXNPdr_2GcE2sJKo98w4ls22K_d6sqbiHho3ngl-kTaYH7z7nbwgJhhU9QuoL4SniiLsIW9O9DSmB0mTgwdHU3S1B48IS3He3D71",
+    "selfAccess": false,
+    "sessionId": null
 }

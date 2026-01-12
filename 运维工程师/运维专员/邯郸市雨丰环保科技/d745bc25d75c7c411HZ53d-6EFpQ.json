@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9S8pxX_sU26S5-g1gT4TPM1tw8njrEyjWXiv-3Zs8PcAf4gBCqkAbq3jUym03h7vmqX2SAHsBCvSO8V9nLLp4mTuhcUVrW_QJoJiC8qGtMavURdFsfuEq_PvjMnSrQr5R3TQfewGk0yMS_E~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d745bc25d75c7c411HZ53d-6EFpQ",
-      "encryptUserId": "bb98cf82841419240XV_39u0FFJT",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101091000,
-      "locationName": "邯郸",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-4K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：负责大气数据分析、揭示污染过程成因、针对大气污染进行数据处理和分析、结合现场巡查、整理数据并形成日、周、月专项报告！需要到顶层维护设备！不恐高着、详情面谈",
-      "encryptAddressId": "b696eda488b616ac1nB60tS0ElFZ",
-      "address": "邯郸复兴区复兴区生态环境分局",
-      "longitude": 114.462581,
-      "latitude": 36.638879,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230818/48ba41acc9cef1bfb0f1497fafc027fc840c2d1fa817cdfd6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230818/48ba41acc9cef1bf7a1d5868271570d20a1c5f96ed45f5a66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维开发/DevOps"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "人事部",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd01e7b43321d007caff6df73fd71459362fbd2238b882f544ca0c553ce4b21d16_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "邯郸市雨丰环保科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fd8c26c0343abcbb1X192929FFA~",
-      "brandName": "邯郸市雨丰环保科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100608,
-      "industryName": "其他专业服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727471264704,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "邯郸市雨丰环保科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "邯郸市雨丰环保科技",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd01e7b43321d007caff6df73fd71459362fbd2238b882f544ca0c553ce4b21d16_b.jpg",
+        "title": "人事部"
+    },
+    "brandComInfo": {
+        "activeTime": 1727471264704,
+        "brandName": "邯郸市雨丰环保科技",
+        "customerBrandName": "邯郸市雨丰环保科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fd8c26c0343abcbb1X192929FFA~",
+        "focusBrand": false,
+        "industry": 100608,
+        "industryName": "其他专业服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "邯郸复兴区复兴区生态环境分局",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b696eda488b616ac1nB60tS0ElFZ",
+        "encryptId": "d745bc25d75c7c411HZ53d-6EFpQ",
+        "encryptUserId": "bb98cf82841419240XV_39u0FFJT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.638879,
+        "location": 101091000,
+        "locationName": "邯郸",
+        "longitude": 114.462581,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230818/48ba41acc9cef1bf7a1d5868271570d20a1c5f96ed45f5a66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：负责大气数据分析、揭示污染过程成因、针对大气污染进行数据处理和分析、结合现场巡查、整理数据并形成日、周、月专项报告！需要到顶层维护设备！不恐高着、详情面谈",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-4K",
+        "showSkills": [
+            "运维开发/DevOps"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230818/48ba41acc9cef1bfb0f1497fafc027fc840c2d1fa817cdfd6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9S8pxX_sU26S5-g1gT4TPM1tw8njrEyjWXiv-3Zs8PcAf4gBCqkAbq3jUym03h7vmqX2SAHsBCvSO8V9nLLp4mTuhcUVrW_QJoJiC8qGtMavURdFsfuEq_PvjMnSrQr5R3TQfewGk0yMS_E~",
+    "selfAccess": false,
+    "sessionId": null
 }

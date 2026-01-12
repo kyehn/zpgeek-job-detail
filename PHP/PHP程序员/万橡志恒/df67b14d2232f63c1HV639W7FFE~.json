@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "erm4d2hovAq79-_1D5LHl2UlQhndpc_wntREO8lL45hRTJ6d-SoRHVYCQkIxdg8Koll1hRsu5RgNwPfW2vyv7zvznbrKZNM9unTMYr-3WmyaOKcx",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "df67b14d2232f63c1HV639W7FFE~",
-      "encryptUserId": "7072c5d5083700ff1nVz3929FFQ~",
-      "invalidStatus": false,
-      "jobName": "PHP程序员",
-      "position": 100103,
-      "positionName": "PHP",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n\n熟练HTML、CSS、JavaScript、XML等语言；\n熟练PHP、Python、JS等语言；\n熟练MySQL、或MongoDB数据库，熟悉SQL编程；\n熟练Ajax、jQuery、thinkphp等开源框架；\n熟悉Nginx、Apache等开源服务器。\n\n从事过:OA、CRM、ERP或管理系统开发实战经验者优先录取。\n\n\n任职要求：\n1、1-3年的PHP/JAVA 开发经验，有过专业PHP/JAVA开发项目工作经验者更佳;\n2、熟悉一种以上的主流PHP/JAVA thinkphp/RuoYi框架，精通MVC开发模式，拥有良好的代码习惯，要求结构清晰，命名规范，逻辑性强，代码冗余率低;\n3、精通MySQL数据库，熟练使用MySQL数据库进行应用开发，了解MySQL的数据库配置管理、性能优化等基本操作技能\n4、熟悉W3C标准；熟悉HTML、CSS+DIV、JavaScript、JQuery、VUE等技术;\n5、熟悉高负载大型网站构架和高负载读写性能优化，对 Web 安全有丰富的认识和经验;\n6、有andior 和 app store 移动开发应用程序优先 ;\n7、熟悉前后端分离快速开发经验者优先;",
-      "encryptAddressId": "e05ffb3d62886d2b33V_29i7Eg~~",
-      "address": "苏州虎丘区华福大厦11楼A室",
-      "longitude": 120.56596,
-      "latitude": 31.294391,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f0a5b5c7d7565c58f233b5e5e73a261",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a2c022f2dd98a9fd2161bee51f641f5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PHP",
-        "MySQL/Redis/MongoDB",
-        "Python",
-        "PHP开发经验",
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "程先生",
-      "title": "CEO",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171115/30309f0adadd3ee559cc4ee41a0a961cd18a82a45761a0cc9bf27efa8f1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "万橡志恒",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "745d7e69056901e81n173dq4Ew~~",
-      "brandName": "万橡志恒",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180524/faa87c42d829403a68fcfb6c182889d6cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "苏州万橡志恒网络科技有限公司（简称:万橡科技）是一家服务于中国中小企业的领先网络营销及电子商务服务提供商，万橡科技已经从网站建设第一品牌发展到整合网络营销第一品牌。旗下产品：三网合一营销建站，WXOA协同办公系统，媒体360新闻软文发布系统，飞象营销系统，企业家格局（企格会），企业指数等众多产品。公司成立5年来，服务32个行业，近500家企业案例。最近几年蝉联苏州最有价值品牌互联网企业。",
-      "labels": [],
-      "activeTime": 1721705626340,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万橡志恒",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万橡志恒",
+        "certificated": true,
+        "large": null,
+        "name": "程先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171115/30309f0adadd3ee559cc4ee41a0a961cd18a82a45761a0cc9bf27efa8f1_b.jpg",
+        "title": "CEO"
+    },
+    "brandComInfo": {
+        "activeTime": 1721705626340,
+        "brandName": "万橡志恒",
+        "customerBrandName": "万橡志恒",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "745d7e69056901e81n173dq4Ew~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "苏州万橡志恒网络科技有限公司（简称:万橡科技）是一家服务于中国中小企业的领先网络营销及电子商务服务提供商，万橡科技已经从网站建设第一品牌发展到整合网络营销第一品牌。旗下产品：三网合一营销建站，WXOA协同办公系统，媒体360新闻软文发布系统，飞象营销系统，企业家格局（企格会），企业指数等众多产品。公司成立5年来，服务32个行业，近500家企业案例。最近几年蝉联苏州最有价值品牌互联网企业。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180524/faa87c42d829403a68fcfb6c182889d6cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州虎丘区华福大厦11楼A室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e05ffb3d62886d2b33V_29i7Eg~~",
+        "encryptId": "df67b14d2232f63c1HV639W7FFE~",
+        "encryptUserId": "7072c5d5083700ff1nVz3929FFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "PHP程序员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.294391,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.56596,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a2c022f2dd98a9fd2161bee51f641f5",
+        "position": 100103,
+        "positionName": "PHP",
+        "postDescription": "岗位职责:\n\n熟练HTML、CSS、JavaScript、XML等语言；\n熟练PHP、Python、JS等语言；\n熟练MySQL、或MongoDB数据库，熟悉SQL编程；\n熟练Ajax、jQuery、thinkphp等开源框架；\n熟悉Nginx、Apache等开源服务器。\n\n从事过:OA、CRM、ERP或管理系统开发实战经验者优先录取。\n\n\n任职要求：\n1、1-3年的PHP/JAVA 开发经验，有过专业PHP/JAVA开发项目工作经验者更佳;\n2、熟悉一种以上的主流PHP/JAVA thinkphp/RuoYi框架，精通MVC开发模式，拥有良好的代码习惯，要求结构清晰，命名规范，逻辑性强，代码冗余率低;\n3、精通MySQL数据库，熟练使用MySQL数据库进行应用开发，了解MySQL的数据库配置管理、性能优化等基本操作技能\n4、熟悉W3C标准；熟悉HTML、CSS+DIV、JavaScript、JQuery、VUE等技术;\n5、熟悉高负载大型网站构架和高负载读写性能优化，对 Web 安全有丰富的认识和经验;\n6、有andior 和 app store 移动开发应用程序优先 ;\n7、熟悉前后端分离快速开发经验者优先;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "PHP",
+            "MySQL/Redis/MongoDB",
+            "Python",
+            "PHP开发经验",
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f0a5b5c7d7565c58f233b5e5e73a261"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "erm4d2hovAq79-_1D5LHl2UlQhndpc_wntREO8lL45hRTJ6d-SoRHVYCQkIxdg8Koll1hRsu5RgNwPfW2vyv7zvznbrKZNM9unTMYr-3WmyaOKcx",
+    "selfAccess": false,
+    "sessionId": null
 }

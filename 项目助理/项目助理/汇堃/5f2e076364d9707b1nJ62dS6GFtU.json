@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "oB3WAmnMRFxym-T1z_6TNKaPXzW1VdnPhd10r4_bpMj-50yPn4dLtToemQ3kPB_iS-QMGPibypr-IgIK_BR27ZWUkGZFKzyD8FIYv5TbzBhm",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5f2e076364d9707b1nJ62dS6GFtU",
-      "encryptUserId": "bd029e79d58c9cfd1nR829U~",
-      "invalidStatus": false,
-      "jobName": "项目助理",
-      "position": 100603,
-      "positionName": "项目助理",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作职责\n1、一年以上相关工作经验；（可接受大学生实习岗位）\n2、工作细致、认真、有责任心，较强的沟通协调以及语言表达能力；\n3、熟练使用office办公软件及自动化设备，具备基本的网络知识；最好能操作的图片编辑软件；\n4、有较强的文字语言表达能力。\n5、根据需要编写项目方案（医疗软件方面）\n\n有医疗信息化软件行业工作经验优先",
-      "encryptAddressId": "b4adbbe081086e231nV60t28FFY~",
-      "address": "上海黄浦区卢湾科技工业楼506",
-      "longitude": 121.483075,
-      "latitude": 31.202095,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9738d5085517cac48eaed43dd252e7b3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/135657ad25af0e561119b93b6a17cbf3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售前支持经验",
-        "软件/信息技术项目"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "方先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "汇堃",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d3770e8c2795ca381XN-2t-4",
-      "brandName": "汇堃",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161206/9f870f6bddb95db3bcee10d5fdf77508daf9b0b2c30ec43b1f0c15fd85a3813c.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "上海汇堃信息科技有限公司是一家现代医疗信息产业化服务为核心经营策略的医疗信息服务公司。\n团队精神：“三新两点”：新机遇，新挑战，新市场；服务只有起点，满意没有终点。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "交通补助"
-      ],
-      "activeTime": 1724968469434,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "汇堃",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "汇堃",
+        "certificated": true,
+        "large": null,
+        "name": "方先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724968469434,
+        "brandName": "汇堃",
+        "customerBrandName": "汇堃",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d3770e8c2795ca381XN-2t-4",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "上海汇堃信息科技有限公司是一家现代医疗信息产业化服务为核心经营策略的医疗信息服务公司。\n团队精神：“三新两点”：新机遇，新挑战，新市场；服务只有起点，满意没有终点。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161206/9f870f6bddb95db3bcee10d5fdf77508daf9b0b2c30ec43b1f0c15fd85a3813c.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海黄浦区卢湾科技工业楼506",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b4adbbe081086e231nV60t28FFY~",
+        "encryptId": "5f2e076364d9707b1nJ62dS6GFtU",
+        "encryptUserId": "bd029e79d58c9cfd1nR829U~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "项目助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.202095,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.483075,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/135657ad25af0e561119b93b6a17cbf3",
+        "position": 100603,
+        "positionName": "项目助理",
+        "postDescription": "工作职责\n1、一年以上相关工作经验；（可接受大学生实习岗位）\n2、工作细致、认真、有责任心，较强的沟通协调以及语言表达能力；\n3、熟练使用office办公软件及自动化设备，具备基本的网络知识；最好能操作的图片编辑软件；\n4、有较强的文字语言表达能力。\n5、根据需要编写项目方案（医疗软件方面）\n\n有医疗信息化软件行业工作经验优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K·13薪",
+        "showSkills": [
+            "售前支持经验",
+            "软件/信息技术项目"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9738d5085517cac48eaed43dd252e7b3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "oB3WAmnMRFxym-T1z_6TNKaPXzW1VdnPhd10r4_bpMj-50yPn4dLtToemQ3kPB_iS-QMGPibypr-IgIK_BR27ZWUkGZFKzyD8FIYv5TbzBhm",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "V4p7IrGrNaMRw-a1XWeE-DKG6WVTplPba_9A_dgY3cBAgngzkL-M9MSw5fZNRZ8fz7Qfns9TlDrxYDhciRnJ3zO1XGalK0lJqwmDr8ri95WeLH7RTBzJIiYtQNzkx1_P",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "756883b6d5cc89a21H1y09S4EFZR",
-      "encryptUserId": "2a611f956ecfe5c903x52dW_E1I~",
-      "invalidStatus": false,
-      "jobName": "库房配货员",
-      "position": 240206,
-      "positionName": "配/理/拣/发货",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "1.懂电脑，熟悉办公软件\n2.工作勤奋认真\n工作内容：\n负责日常库房配货工作，确保货品整齐发出。\n\n任职要求：\n具备良好的工作态度，能够按时完成任务；\n对工作细节有较强的把控能力，保证工作质量；\n能够适应团队合作，与同事协作完成工作。",
-      "encryptAddressId": "574e07eeacb9de753nx72dy-FQ~~",
-      "address": "成都新都区金虎家居烈维士路358号",
-      "longitude": 104.0138,
-      "latitude": 30.85762,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/303947cd2efdd4682e2da5019ca59cec",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf7a0cc5bdbbbf2c0d253f203638d191",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "货物出库",
-        "库存控制/盘点",
-        "高位货架仓库工作经验",
-        "货物验收/入库"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邹先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190326/3e088c1e229802dcb760658bd7f4e3eb5b6f4931c5c935396e4a5028fed_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "福木森衣柜",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1fca176213a4e9051X1y2t65Eg~~",
-      "brandName": "福木森衣柜",
-      "logo": "",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "福木森衣柜是金虎集团旗下定制事业部，现依托定制端口，带动金虎全系列所有产品销售！现目前已有一千多家专卖店，在全国范围内服务各家各户",
-      "labels": [
-        "五险一金",
-        "补充医疗保险"
-      ],
-      "activeTime": 1734620550327,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "福木森衣柜",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "福木森衣柜",
+        "certificated": true,
+        "large": null,
+        "name": "邹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190326/3e088c1e229802dcb760658bd7f4e3eb5b6f4931c5c935396e4a5028fed_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734620550327,
+        "brandName": "福木森衣柜",
+        "customerBrandName": "福木森衣柜",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "1fca176213a4e9051X1y2t65Eg~~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "福木森衣柜是金虎集团旗下定制事业部，现依托定制端口，带动金虎全系列所有产品销售！现目前已有一千多家专卖店，在全国范围内服务各家各户",
+        "labels": [
+            "五险一金",
+            "补充医疗保险"
+        ],
+        "logo": "",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都新都区金虎家居烈维士路358号",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "574e07eeacb9de753nx72dy-FQ~~",
+        "encryptId": "756883b6d5cc89a21H1y09S4EFZR",
+        "encryptUserId": "2a611f956ecfe5c903x52dW_E1I~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "库房配货员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.85762,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.0138,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf7a0cc5bdbbbf2c0d253f203638d191",
+        "position": 240206,
+        "positionName": "配/理/拣/发货",
+        "postDescription": "1.懂电脑，熟悉办公软件\n2.工作勤奋认真\n工作内容：\n负责日常库房配货工作，确保货品整齐发出。\n\n任职要求：\n具备良好的工作态度，能够按时完成任务；\n对工作细节有较强的把控能力，保证工作质量；\n能够适应团队合作，与同事协作完成工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "货物出库",
+            "库存控制/盘点",
+            "高位货架仓库工作经验",
+            "货物验收/入库"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/303947cd2efdd4682e2da5019ca59cec"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "V4p7IrGrNaMRw-a1XWeE-DKG6WVTplPba_9A_dgY3cBAgngzkL-M9MSw5fZNRZ8fz7Qfns9TlDrxYDhciRnJ3zO1XGalK0lJqwmDr8ri95WeLH7RTBzJIiYtQNzkx1_P",
+    "selfAccess": false,
+    "sessionId": null
 }

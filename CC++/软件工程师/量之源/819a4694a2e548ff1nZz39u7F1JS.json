@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ePY5dhJxe2UgN-B1V1TwIlukctzmltzejVnUHfuIXgWkwzJktFHxuJK7weZdPitT2EAdat-NPzR7qnTRX5pEvATOTIfpgRe6E8m-LtL3Iu3G94CX0xY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "819a4694a2e548ff1nZz39u7F1JS",
-      "encryptUserId": "f3038f34b15937180X193d20E1Y~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉嵌入式软件，熟悉C语言和C#，熟练运用MATLSB、simulink、Python,熟悉前端和后端，包括上位机软件的编写。",
-      "encryptAddressId": "90444f8435d466e103Z629-6EVM~",
-      "address": "南京江宁区南京量之源动力科技有限公司江宁区滨江经济开发区地秀路757号",
-      "longitude": 118.59088,
-      "latitude": 31.839111,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73953129281c82c014549de44c0be684",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/80ce0aaf3fbc26d6c18fd5a4c6f088b7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "嵌入式技术",
-        "软件工程师",
-        "驱动开发",
-        "Linux",
-        "物联网",
-        "智能硬件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "量之源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6bcae9f27933298c1nB909y8F1A~",
-      "brandName": "量之源",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725365512751,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "量之源",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "量之源",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725365512751,
+        "brandName": "量之源",
+        "customerBrandName": "量之源",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6bcae9f27933298c1nB909y8F1A~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区南京量之源动力科技有限公司江宁区滨江经济开发区地秀路757号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "90444f8435d466e103Z629-6EVM~",
+        "encryptId": "819a4694a2e548ff1nZz39u7F1JS",
+        "encryptUserId": "f3038f34b15937180X193d20E1Y~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.839111,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.59088,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/80ce0aaf3fbc26d6c18fd5a4c6f088b7",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "熟悉嵌入式软件，熟悉C语言和C#，熟练运用MATLSB、simulink、Python,熟悉前端和后端，包括上位机软件的编写。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "嵌入式技术",
+            "软件工程师",
+            "驱动开发",
+            "Linux",
+            "物联网",
+            "智能硬件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73953129281c82c014549de44c0be684"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ePY5dhJxe2UgN-B1V1TwIlukctzmltzejVnUHfuIXgWkwzJktFHxuJK7weZdPitT2EAdat-NPzR7qnTRX5pEvATOTIfpgRe6E8m-LtL3Iu3G94CX0xY~",
+    "selfAccess": false,
+    "sessionId": null
 }

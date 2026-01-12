@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TaEFAQnTMYsSb-d1yppZYjgzHNywWA0MfPEOgQQQDpCFYG0RG_wXikYOSgQG3qABAZUK-4YtHiyqCzzLHirFWcmgU4dlsbrask0hd9ChWxJBddnp__cWAa8U6ldgyzMGX5LcnumviSOrftU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ae4c22ca04512eed1H1z2t25FlBU",
-      "encryptUserId": "8d5d1773dfe3c61f0Xx429W6EFtY",
-      "invalidStatus": false,
-      "jobName": "安规/EMC 技术员",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1. 大专及以上学历，电子类相关专业，有安规类测试经验优先\n2. 熟悉家电类产品相关标准，GB4706系列、EN/IEC 60335系列、IEC/EN 61558、UL1017/UL2595/UL1310/UL499等家电标准\n3. 熟悉电源/功率计/示波器/耐压仪等安规类测试设备\n4. 具备良好的团队精神，沟通意识，责任心强，工作认真细致，有良好的抗压能力.\n5. 英语读写能力良好，能够阅读和撰写技术文档和报告。 \n\n岗位职责：\n1. 负责对产品进行安规测试，确保所有产品符合国家和国际安全标准与法规要求，如IEC/EN/UL/CCC等。 \n2. 撰写和维护测试流程文档，包括测试计划、操作手册和报告模板。 \n3. 实施测试计划，收集数据，运用工程分析技术定位产品潜在的安全风险。\n4. 与研发团队紧密合作，提供设计建议，以确保产品从设计阶段开始就符合相关的安规要求。  \n5. 监控和评估新的安规标准和变更，确保公司产品时刻保持最新的法规合规性。\n6. 整理测试报告，为产品认证提供详细支持。  \n7. 管理和维护测试设备，确保测试结果的准确性和可靠性。",
-      "encryptAddressId": "e2a715d6a00bf5261nB83du8ElFRxYy9VvKY",
-      "address": "苏州吴中区吴越广场1",
-      "longitude": 120.592906,
-      "latitude": 31.215797,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bff8d5b78ed8c68aa95c96ef4cc8fff9396bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bf0cfb9aa46420948eda0671401d777bd56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241107/607f1f3d68754fd0a30bf9c782045474dd7aaa26d923c034a1ed402428107bf2f9bf5366f34d5e7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "厦门智珵德风科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4d3d4610aad11eee1Hx739q-E1I~",
-      "brandName": "厦门智珵德风科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732245356823,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "厦门智珵德风科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "厦门智珵德风科技",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241107/607f1f3d68754fd0a30bf9c782045474dd7aaa26d923c034a1ed402428107bf2f9bf5366f34d5e7_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732245356823,
+        "brandName": "厦门智珵德风科技",
+        "customerBrandName": "厦门智珵德风科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4d3d4610aad11eee1Hx739q-E1I~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区吴越广场1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e2a715d6a00bf5261nB83du8ElFRxYy9VvKY",
+        "encryptId": "ae4c22ca04512eed1H1z2t25FlBU",
+        "encryptUserId": "8d5d1773dfe3c61f0Xx429W6EFtY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "安规/EMC 技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.215797,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.592906,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bf0cfb9aa46420948eda0671401d777bd56bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职要求：\n1. 大专及以上学历，电子类相关专业，有安规类测试经验优先\n2. 熟悉家电类产品相关标准，GB4706系列、EN/IEC 60335系列、IEC/EN 61558、UL1017/UL2595/UL1310/UL499等家电标准\n3. 熟悉电源/功率计/示波器/耐压仪等安规类测试设备\n4. 具备良好的团队精神，沟通意识，责任心强，工作认真细致，有良好的抗压能力.\n5. 英语读写能力良好，能够阅读和撰写技术文档和报告。 \n\n岗位职责：\n1. 负责对产品进行安规测试，确保所有产品符合国家和国际安全标准与法规要求，如IEC/EN/UL/CCC等。 \n2. 撰写和维护测试流程文档，包括测试计划、操作手册和报告模板。 \n3. 实施测试计划，收集数据，运用工程分析技术定位产品潜在的安全风险。\n4. 与研发团队紧密合作，提供设计建议，以确保产品从设计阶段开始就符合相关的安规要求。  \n5. 监控和评估新的安规标准和变更，确保公司产品时刻保持最新的法规合规性。\n6. 整理测试报告，为产品认证提供详细支持。  \n7. 管理和维护测试设备，确保测试结果的准确性和可靠性。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K",
+        "showSkills": [
+            "自动化测试",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bff8d5b78ed8c68aa95c96ef4cc8fff9396bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TaEFAQnTMYsSb-d1yppZYjgzHNywWA0MfPEOgQQQDpCFYG0RG_wXikYOSgQG3qABAZUK-4YtHiyqCzzLHirFWcmgU4dlsbrask0hd9ChWxJBddnp__cWAa8U6ldgyzMGX5LcnumviSOrftU~",
+    "selfAccess": false,
+    "sessionId": null
 }

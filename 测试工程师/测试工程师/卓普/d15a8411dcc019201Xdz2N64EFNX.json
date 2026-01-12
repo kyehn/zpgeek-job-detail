@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Q4MwKPd6WpaS9-O1pWTyFYsG9h5uoZUMcOZC0JbZrEXiRmOkYGw0bDbWhulzpbGOVTuQv15cuerd5yi4eKE9EY53ab0SAc2UMzEwtm9cIDnfBDf_IW9FmlfiKmyjNHGGm68dKJCnn0gj1w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d15a8411dcc019201Xdz2N64EFNX",
-      "encryptUserId": "c708bf3e3b67c4100nZ6296-F1ZR",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "高中",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司电力产品测试，要求认真仔细。公司提供食宿。",
-      "encryptAddressId": "3db480bd9d0fd8400Hx82du1GFE~",
-      "address": "南京江宁区粤浦科技·南京云创中心29栋",
-      "longitude": 118.768201,
-      "latitude": 31.904738,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12e447b0fcda42658ec8b1cbcc79306f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40cb8d45e5320ae2f9049be57a74392f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "卓普",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ac9d8ce7d5c96e583nR93969EQ~~",
-      "brandName": "卓普",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723800171683,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "卓普",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "卓普",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1723800171683,
+        "brandName": "卓普",
+        "customerBrandName": "卓普",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ac9d8ce7d5c96e583nR93969EQ~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区粤浦科技·南京云创中心29栋",
+        "anonymous": 0,
+        "degreeName": "高中",
+        "encryptAddressId": "3db480bd9d0fd8400Hx82du1GFE~",
+        "encryptId": "d15a8411dcc019201Xdz2N64EFNX",
+        "encryptUserId": "c708bf3e3b67c4100nZ6296-F1ZR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.904738,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.768201,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40cb8d45e5320ae2f9049be57a74392f",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "负责公司电力产品测试，要求认真仔细。公司提供食宿。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K",
+        "showSkills": [
+            "性能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12e447b0fcda42658ec8b1cbcc79306f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Q4MwKPd6WpaS9-O1pWTyFYsG9h5uoZUMcOZC0JbZrEXiRmOkYGw0bDbWhulzpbGOVTuQv15cuerd5yi4eKE9EY53ab0SAc2UMzEwtm9cIDnfBDf_IW9FmlfiKmyjNHGGm68dKJCnn0gj1w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

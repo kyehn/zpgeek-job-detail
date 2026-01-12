@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "P9X2ltg4Anjo2-z1AWKgU05lkOdlHNqTAsqmkAPhEYogWx1Opmg7VQmc9cVBNMh9badQMsjZr6SNYWmPW7JhBvR3zHuXdq7UyiQP1mVb1T3IL2NyqqM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c9a2601cc8e312381Xd539i0FlJT",
-      "encryptUserId": "7b5f52c93736b6073nJ92tS_GFM~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解",
-      "encryptAddressId": "f28a49324def0ab50XB_29u7Elc~",
-      "address": "南京雨花台区南京软件谷科创城4-401",
-      "longitude": 118.742418,
-      "latitude": 31.93781,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18cccaec12194b519b86e78961c90ac8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/272dcf8c0f359b5805c1aab4c2a10273",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "多线程",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210313/4dda6e8e926e99c027f79f4db927b0cafe58ef72f29883a8136269a96f4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "星空漫步",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1ed84ecf41081e5f1XR93965Flc~",
-      "brandName": "星空漫步",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725466427581,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "星空漫步",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "星空漫步",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210313/4dda6e8e926e99c027f79f4db927b0cafe58ef72f29883a8136269a96f4_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725466427581,
+        "brandName": "星空漫步",
+        "customerBrandName": "星空漫步",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1ed84ecf41081e5f1XR93965Flc~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区南京软件谷科创城4-401",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f28a49324def0ab50XB_29u7Elc~",
+        "encryptId": "c9a2601cc8e312381Xd539i0FlJT",
+        "encryptUserId": "7b5f52c93736b6073nJ92tS_GFM~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.93781,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.742418,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/272dcf8c0f359b5805c1aab4c2a10273",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "多线程",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18cccaec12194b519b86e78961c90ac8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "P9X2ltg4Anjo2-z1AWKgU05lkOdlHNqTAsqmkAPhEYogWx1Opmg7VQmc9cVBNMh9badQMsjZr6SNYWmPW7JhBvR3zHuXdq7UyiQP1mVb1T3IL2NyqqM~",
+    "selfAccess": false,
+    "sessionId": null
 }

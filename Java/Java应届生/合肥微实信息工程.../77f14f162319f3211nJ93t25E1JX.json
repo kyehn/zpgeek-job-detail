@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "MA2D_aXObXHrx-e1VnMplv1yQtUoZgqn7Vm-u_Ti5EpRmL6x5dcMNm1x9GAyWE41VBgneG5RM7Xi6LKukexEAA7jjvX1L0xd7BFcW-DQ8lVRKYmYHBY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "77f14f162319f3211nJ93t25E1JX",
-      "encryptUserId": "e0ec0efb0fc3f9f61HF63d29FVQ~",
-      "invalidStatus": false,
-      "jobName": "Java应届生",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、系统软件开发\n2、诚实守信，敬业\n3、计算机专业",
-      "encryptAddressId": "a924b435717f5cdb03Vz3dS6EFZTwYS-VvI~",
-      "address": "合肥蜀山区水安大厦21楼2102",
-      "longitude": 117.209051,
-      "latitude": 31.744184,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfd1d139a638ff8ec196c0a8a58291cbb86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf302e19cba7efdcda8c792460ed4e9c2b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "分布式技术",
-        "微服务架构",
-        "HTML",
-        "SpringBoot"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210415/53f94e0950a83867d471c11dd360d4f15b30d2f35c10a6a33ff1031adf0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "合肥微实信息工程...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "85d9ba61884f68b01nF92926ElI~",
-      "brandName": "合肥微实信息工程...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1725625280142,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "合肥微实信息工程...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "合肥微实信息工程...",
+        "certificated": true,
+        "large": null,
+        "name": "孟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210415/53f94e0950a83867d471c11dd360d4f15b30d2f35c10a6a33ff1031adf0_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725625280142,
+        "brandName": "合肥微实信息工程...",
+        "customerBrandName": "合肥微实信息工程...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "85d9ba61884f68b01nF92926ElI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区水安大厦21楼2102",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "a924b435717f5cdb03Vz3dS6EFZTwYS-VvI~",
+        "encryptId": "77f14f162319f3211nJ93t25E1JX",
+        "encryptUserId": "e0ec0efb0fc3f9f61HF63d29FVQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java应届生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.744184,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.209051,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf302e19cba7efdcda8c792460ed4e9c2b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、系统软件开发\n2、诚实守信，敬业\n3、计算机专业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "分布式技术",
+            "微服务架构",
+            "HTML",
+            "SpringBoot"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfd1d139a638ff8ec196c0a8a58291cbb86bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "MA2D_aXObXHrx-e1VnMplv1yQtUoZgqn7Vm-u_Ti5EpRmL6x5dcMNm1x9GAyWE41VBgneG5RM7Xi6LKukexEAA7jjvX1L0xd7BFcW-DQ8lVRKYmYHBY~",
+    "selfAccess": false,
+    "sessionId": null
 }

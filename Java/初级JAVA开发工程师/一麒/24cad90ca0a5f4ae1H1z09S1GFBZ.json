@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qZz7eIBIev6mp-Z1dWXAMhRG_p2JmdDFv3vA9zOWXIb8c7JCfPtKoydmV7w8FvAQld-GDT4lKXXfjaBa6uhCV2FeoheELamTDWCUn6_o1XacSVsjJxM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "24cad90ca0a5f4ae1H1z09S1GFBZ",
-      "encryptUserId": "54cdc4ebc076419c0HB439S4ElI~",
-      "invalidStatus": false,
-      "jobName": "初级java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: \n负责公司研发软件的开发，配合技术主管的工作，按照项目进度分工完成工作任务\n任职要求: \n计算机相关专业，本科学历\n岗位福利: \n底薪3500-6000可以面试后根据能力决定\n包住，有项目奖金，双休",
-      "encryptAddressId": "450ea6e9601c9dab3ndz3929GFBYx4q4UfM~",
-      "address": "广州天河区越秀金融大厦318",
-      "longitude": 113.326316,
-      "latitude": 23.123981,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf42dc54ca89472fa1c420254b18c1bb1f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf80e8cf6ac3460a0b0772bf3eb231fd9c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "SQL Server",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "叶女士",
-      "title": "人事助理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200326/6dda3a09a6b97272a5fead2486e040f00dc1ec00b6d410e7f803152f067_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "一麒",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f373b766aa71f0961HF-2d60EVs~",
-      "brandName": "一麒",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100507,
-      "industryName": "公路物流",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731762540378,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "一麒",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "一麒",
+        "certificated": true,
+        "large": null,
+        "name": "叶女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200326/6dda3a09a6b97272a5fead2486e040f00dc1ec00b6d410e7f803152f067_b.jpg",
+        "title": "人事助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731762540378,
+        "brandName": "一麒",
+        "customerBrandName": "一麒",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f373b766aa71f0961HF-2d60EVs~",
+        "focusBrand": false,
+        "industry": 100507,
+        "industryName": "公路物流",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区越秀金融大厦318",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "450ea6e9601c9dab3ndz3929GFBYx4q4UfM~",
+        "encryptId": "24cad90ca0a5f4ae1H1z09S1GFBZ",
+        "encryptUserId": "54cdc4ebc076419c0HB439S4ElI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "初级java开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.123981,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.326316,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf80e8cf6ac3460a0b0772bf3eb231fd9c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责: \n负责公司研发软件的开发，配合技术主管的工作，按照项目进度分工完成工作任务\n任职要求: \n计算机相关专业，本科学历\n岗位福利: \n底薪3500-6000可以面试后根据能力决定\n包住，有项目奖金，双休",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "Java",
+            "SQL Server",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf42dc54ca89472fa1c420254b18c1bb1f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qZz7eIBIev6mp-Z1dWXAMhRG_p2JmdDFv3vA9zOWXIb8c7JCfPtKoydmV7w8FvAQld-GDT4lKXXfjaBa6uhCV2FeoheELamTDWCUn6_o1XacSVsjJxM~",
+    "selfAccess": false,
+    "sessionId": null
 }

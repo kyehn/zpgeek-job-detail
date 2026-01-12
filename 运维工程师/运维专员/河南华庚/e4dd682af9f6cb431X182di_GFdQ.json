@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "l3Eabq-cliXgE-u12qs5xmHF0njip8gqI8N9zp1ET2WpuB_sEqIE5oLjGT382R869mgof__e51HKgigVJzXEildub9sc2QnORMbMUtD7OAW4-Um9PxU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e4dd682af9f6cb431X182di_GFdQ",
-      "encryptUserId": "7a51748d4b1c46190n1z2Nm4E1pU",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101181400,
-      "locationName": "周口",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作要求：负者供电公司电力系统数据支撑技术服务工作。\n职位要求：年龄20-30周岁。对电力行业有一定的基础知识，持C1驾驶证，熟练操作办公软件，能接受出差、外派工作者优先。",
-      "encryptAddressId": "fb7588612f2f82fb0XF-3dy-ElpTxIi9WPw~",
-      "address": "周口郸城县周口郸城县电业局205",
-      "longitude": 115.200958,
-      "latitude": 33.640165,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240322/48ba41acc9cef1bf28fcccf39b0fba657959ae26806de2a06bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240322/48ba41acc9cef1bfd6f520371cb63e4fd2ff710ab247fb386bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "副总",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "河南华庚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d5a5c8f36bf67a731nd82tm-GQ~~",
-      "brandName": "河南华庚",
-      "logo": null,
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [
-        "节假日加班费"
-      ],
-      "activeTime": 1725543500000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河南华庚",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "河南华庚",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "副总"
+    },
+    "brandComInfo": {
+        "activeTime": 1725543500000,
+        "brandName": "河南华庚",
+        "customerBrandName": "河南华庚",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "d5a5c8f36bf67a731nd82tm-GQ~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [
+            "节假日加班费"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "周口郸城县周口郸城县电业局205",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fb7588612f2f82fb0XF-3dy-ElpTxIi9WPw~",
+        "encryptId": "e4dd682af9f6cb431X182di_GFdQ",
+        "encryptUserId": "7a51748d4b1c46190n1z2Nm4E1pU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 33.640165,
+        "location": 101181400,
+        "locationName": "周口",
+        "longitude": 115.200958,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240322/48ba41acc9cef1bfd6f520371cb63e4fd2ff710ab247fb386bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作要求：负者供电公司电力系统数据支撑技术服务工作。\n职位要求：年龄20-30周岁。对电力行业有一定的基础知识，持C1驾驶证，熟练操作办公软件，能接受出差、外派工作者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240322/48ba41acc9cef1bf28fcccf39b0fba657959ae26806de2a06bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "l3Eabq-cliXgE-u12qs5xmHF0njip8gqI8N9zp1ET2WpuB_sEqIE5oLjGT382R869mgof__e51HKgigVJzXEildub9sc2QnORMbMUtD7OAW4-Um9PxU~",
+    "selfAccess": false,
+    "sessionId": null
 }

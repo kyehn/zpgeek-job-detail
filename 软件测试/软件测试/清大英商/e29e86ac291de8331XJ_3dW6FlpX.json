@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ceSOnHkBO75FK-c1eGNsfQ3j8MBAKSWMmfLN9xemIyP3jRzXLlqkFRRH8u3CNs1oAUcCqGnK7q9WWaCGUiqTagxbkH4Xfr7JMQOqkYy3Jh5zvHdWj3N2KhtEwRo4pcj3",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e29e86ac291de8331XJ_3dW6FlpX",
-      "encryptUserId": "8540703e75f3e7e90nJ93d68GVY~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101230200,
-      "locationName": "厦门",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "职位描述:\n1、根据项目需要编写测试计划、测试方案、测试报告;\n2、按照质量标准进行文档的编写、修订和标准化工作;\n3、根据项目需要独立进行需求分析、测试用例设计工作;\n4、按照测试计划完成各类测试(功能、性能、安全、稳定性等)的执行与测试结果的记录; \n5、使用工具进行缺陷追踪与管理;\n6、负责测试日志的编写与汇总;\n\n任职要求:\n1.学历要求:\n-本科及以上学历。\n2.工作经验:\n-熟悉windows、安卓，ios平 台测试\n-掌握软件 测试理论，能编写专业的测试用例\n-熟练使用各种测试工具者优先。\n3.能力要求:\n-有较强的观察能力，具备- -定的系统分析能力;\n-具有强烈的学习意愿，具备较好的学习能力、问题分\n析能力、以及问题解决能力;\n-良好的沟通协调能力和团队合作意识，能够主动总结和分享自己的测试经验;\n4.素质要求:\n-热爱软件测试工作，工作细致认真，有耐心;\n-工作踏实，态度积极，能够承受工作压力，能适应严格项目管理;\n-责任心强，正直诚实，值得信赖。\n5.薪资标准\n-试用期3.6k-4k\n-转正4.5-7k",
-      "encryptAddressId": "74571df3759b26cd0XN-3dW9E1Q~",
-      "address": "厦门湖里区清华海峡研究院A栋6层",
-      "longitude": 118.150979,
-      "latitude": 24.531956,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c9e8d69e0ce25458aaeb426ce842647",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/938e1efecf39bd059aa48167bc09381c",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "iOS/Android测试经验",
-        "MySQL",
-        "功能测试",
-        "掌握软件测试理论和流程",
-        "JMeter",
-        "Postman"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220808/607f1f3d68754fd0c57c899c52479608e75eb609eafbb2c771b285d6e07a3336da53d753f5f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "清大英商",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b0c5b96f2fde9dfc33Ny2N-4FQ~~",
-      "brandName": "清大英商",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [
-        "加班补助",
-        "带薪年假",
-        "餐补",
-        "零食下午茶"
-      ],
-      "activeTime": 1736844107997,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "清大英商",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "清大英商",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220808/607f1f3d68754fd0c57c899c52479608e75eb609eafbb2c771b285d6e07a3336da53d753f5f_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1736844107997,
+        "brandName": "清大英商",
+        "customerBrandName": "清大英商",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "b0c5b96f2fde9dfc33Ny2N-4FQ~~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [
+            "加班补助",
+            "带薪年假",
+            "餐补",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "厦门湖里区清华海峡研究院A栋6层",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "74571df3759b26cd0XN-3dW9E1Q~",
+        "encryptId": "e29e86ac291de8331XJ_3dW6FlpX",
+        "encryptUserId": "8540703e75f3e7e90nJ93d68GVY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 24.531956,
+        "location": 101230200,
+        "locationName": "厦门",
+        "longitude": 118.150979,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/938e1efecf39bd059aa48167bc09381c",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "职位描述:\n1、根据项目需要编写测试计划、测试方案、测试报告;\n2、按照质量标准进行文档的编写、修订和标准化工作;\n3、根据项目需要独立进行需求分析、测试用例设计工作;\n4、按照测试计划完成各类测试(功能、性能、安全、稳定性等)的执行与测试结果的记录; \n5、使用工具进行缺陷追踪与管理;\n6、负责测试日志的编写与汇总;\n\n任职要求:\n1.学历要求:\n-本科及以上学历。\n2.工作经验:\n-熟悉windows、安卓，ios平 台测试\n-掌握软件 测试理论，能编写专业的测试用例\n-熟练使用各种测试工具者优先。\n3.能力要求:\n-有较强的观察能力，具备- -定的系统分析能力;\n-具有强烈的学习意愿，具备较好的学习能力、问题分\n析能力、以及问题解决能力;\n-良好的沟通协调能力和团队合作意识，能够主动总结和分享自己的测试经验;\n4.素质要求:\n-热爱软件测试工作，工作细致认真，有耐心;\n-工作踏实，态度积极，能够承受工作压力，能适应严格项目管理;\n-责任心强，正直诚实，值得信赖。\n5.薪资标准\n-试用期3.6k-4k\n-转正4.5-7k",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K·13薪",
+        "showSkills": [
+            "测试工作经验",
+            "iOS/Android测试经验",
+            "MySQL",
+            "功能测试",
+            "掌握软件测试理论和流程",
+            "JMeter",
+            "Postman"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c9e8d69e0ce25458aaeb426ce842647"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ceSOnHkBO75FK-c1eGNsfQ3j8MBAKSWMmfLN9xemIyP3jRzXLlqkFRRH8u3CNs1oAUcCqGnK7q9WWaCGUiqTagxbkH4Xfr7JMQOqkYy3Jh5zvHdWj3N2KhtEwRo4pcj3",
+    "selfAccess": false,
+    "sessionId": null
 }

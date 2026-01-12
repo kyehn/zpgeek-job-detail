@@ -1,29 +1,32 @@
 {
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
     "atsOnlineApplyInfo": {
-        "inviteType": 0,
-        "alreadyApply": false
+        "alreadyApply": false,
+        "inviteType": 0
     },
     "bossInfo": {
-        "name": "帅先生",
-        "title": "Talent Acquisition",
-        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231123/607f1f3d68754fd0ae9d5dc5f8c1cbdcd87545c502d0215f6bc28eb2de4c71662a2a16d39ba3139_b.jpg",
-        "large": null,
         "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
         "bossOnline": false,
-        "brandName": "上海欢动",
         "bossSource": 0,
+        "brandName": "上海欢动",
         "certificated": true,
+        "large": null,
+        "name": "帅先生",
         "tagIconUrl": null,
-        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231123/607f1f3d68754fd0ae9d5dc5f8c1cbdcd87545c502d0215f6bc28eb2de4c71662a2a16d39ba3139_b.jpg",
+        "title": "Talent Acquisition"
     },
     "brandComInfo": {
-        "encryptBrandId": "56a2f536336c16271nZ909q0Eg~~",
+        "activeTime": 1744270905243,
         "brandName": "上海欢动",
-        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210924/7bf6f160950405e964bb95630be0b625a364911a23730af02cf2cd2c6dead0f1ef7365d1bf91b453.jpg",
-        "stage": 808,
-        "stageName": "不需要融资",
-        "scale": 303,
-        "scaleName": "100-499人",
+        "customerBrandName": "上海欢动",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "56a2f536336c16271nZ909q0Eg~~",
+        "focusBrand": false,
         "industry": 100002,
         "industryName": "游戏",
         "introduce": "上海欢动科技有限公司（简称欢动），成立于2013年，欢动是一家深耕于横版街机动作游戏细分市场，专注于竞技类游戏的文创企业。欢动秉持着“欢乐互动，快乐感动”的工作理念，努力打造为用户提供快乐的精品游戏。\n\n公司总部位于上海，是一家集研发与运营为一体的专业游戏企业。核心团队成员多数来自于国内外知名985/211大学，拥有丰富的游戏制作经验，是一群充满梦想、朝气和实力的年轻精英。\n\n欢动拥有极其深厚的技术底蕴和市场运营积累。在进一步深耕横版街机动作游戏的同时，致力于电子体育竞技的开拓以及专业电竞赛事的打造。其“极限竞技”专业品牌赛事已经连续举办了16届，开创了国内三国、横版动作品类的全新局面，为广大玩家提供了热血的电竞体验。\n\n核心产品之一《三国战纪2》以街机三国战纪系列为战斗原型，战斗体验表现为操作连击简单、打斗效果爽快华丽。游戏以三国背景和偏写实的漫画风格以及街机怀旧风来贴合核心用户群，得到市场和玩家的高度认可，曾获2018中国移动游戏风向“最具成长力移动游戏奖”、“2019年持续耕耘奖”、年度最受欢迎动作游戏“2020年第六届硬核联盟黑石奖”等多个奖项。\n\n欢动持续运用多年从事手机游戏产品研发和市场运营的基础经验，不仅面对国内，同时为海外玩家开发了“三国”、“西游”文化系列游戏产品。当然，我们的脚步还不止于此，我们当前正在努力探索多个技术开发领域，目标是做更富有沉浸感的、动作感的娱乐体验带进我们的游戏产品中，实现为用户提供快乐的精品竞技类游戏战略目标。",
@@ -47,39 +50,43 @@
             "员工旅游",
             "新婚红包"
         ],
-        "activeTime": 1744270905243,
-        "visibleBrandInfo": true,
-        "focusBrand": false,
-        "customerBrandName": "上海欢动",
-        "customerBrandStageName": "不需要融资"
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210924/7bf6f160950405e964bb95630be0b625a364911a23730af02cf2cd2c6dead0f1ef7365d1bf91b453.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
     },
+    "certMaterials": [],
+    "handicappedInfo": null,
     "jobInfo": {
+        "address": "上海浦东新区浦东软件园祖冲之园C座4层",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "c272648645476eb13nV62Ny_ElQ~",
         "encryptId": "6236c042ecde5c2d1H140t2-GFBQ",
         "encryptUserId": "52f4b2dd6b96ff0a0nRz2dm5EFE~",
+        "experienceName": "经验不限",
         "invalidStatus": false,
         "jobName": "CI/CD工程师(A22048)",
-        "position": 100402,
-        "positionName": "运维开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.203283,
         "location": 101020100,
         "locationName": "上海",
-        "experienceName": "经验不限",
-        "degreeName": "本科",
-        "jobType": 0,
+        "longitude": 121.605969,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bfdc87e7dfb326bd48300f3f894e33c35e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100402,
+        "positionName": "运维开发工程师",
+        "postDescription": "职位描述：\n1.负责优化、维护、迭代公司的CICD系统，包括自动化构建、自动化发布、自动化部署和自动化测试等流程；\n2.负责排查、解决版本编译、发布过程中的问题；\n3.负责游戏的渠道SDK和功能性SDK的接入、更新和技术支持；\n4.负责CICD系统相关的知识积累，输入知识库；监控系统的运行状态、运行效率，及时发现和解决问题，输出数据化周报。\n\n职位要求：\n1.本科及以上学历，计算机相关专业；\n2.熟练掌握至少一种编程语言，如Python、shell等；\n3.熟悉Linux和windows系统，熟悉devops流程；\n4.熟悉CICD相关工具，具有丰富的实践经验，如Jenkins、Gitlab、Docker、Kubernetes等；\n5.具有优秀的分析、解决问题的能力，能够快速识别和解决CICD流程中的问题，并善于整理文档，积累知识；\n6.具有良好的团队合作精神和沟通能力，富有责任心，有服务意识，能够与研发团队紧密合作，推动CICD流程的优化和升级；\n7.有U3D和SDK相关开发经验优先。",
         "proxyJob": 0,
         "proxyType": 0,
         "salaryDesc": "7-12K",
-        "payTypeDesc": null,
-        "postDescription": "职位描述：\n1.负责优化、维护、迭代公司的CICD系统，包括自动化构建、自动化发布、自动化部署和自动化测试等流程；\n2.负责排查、解决版本编译、发布过程中的问题；\n3.负责游戏的渠道SDK和功能性SDK的接入、更新和技术支持；\n4.负责CICD系统相关的知识积累，输入知识库；监控系统的运行状态、运行效率，及时发现和解决问题，输出数据化周报。\n\n职位要求：\n1.本科及以上学历，计算机相关专业；\n2.熟练掌握至少一种编程语言，如Python、shell等；\n3.熟悉Linux和windows系统，熟悉devops流程；\n4.熟悉CICD相关工具，具有丰富的实践经验，如Jenkins、Gitlab、Docker、Kubernetes等；\n5.具有优秀的分析、解决问题的能力，能够快速识别和解决CICD流程中的问题，并善于整理文档，积累知识；\n6.具有良好的团队合作精神和沟通能力，富有责任心，有服务意识，能够与研发团队紧密合作，推动CICD流程的优化和升级；\n7.有U3D和SDK相关开发经验优先。",
-        "encryptAddressId": "c272648645476eb13nV62Ny_ElQ~",
-        "address": "上海浦东新区浦东软件园祖冲之园C座4层",
-        "longitude": 121.605969,
-        "latitude": 31.203283,
-        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf89108314a84e8e3523a1d02ab92ea4146bb61e3b7bce0931da574d19d1d82c88.jpg",
-        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bfdc87e7dfb326bd48300f3f894e33c35e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-        "baiduStaticMapUrl": "",
-        "baiduPcStaticMapUrl": "",
-        "overseasAddressList": [],
-        "overseasInfo": null,
         "showSkills": [
             "Jenkins",
             "Docker",
@@ -88,29 +95,22 @@
             "计算机相关专业",
             "Kubernetes"
         ],
-        "anonymous": 0,
-        "jobStatusDesc": "招聘中"
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf89108314a84e8e3523a1d02ab92ea4146bb61e3b7bce0931da574d19d1d82c88.jpg"
     },
     "lid": "",
-    "securityId": "ojdnNNe98RZub-o1_opuvfjCSJJk3YuIXqrbAaaYZkubNr-GkrFf-RX4-E7YYDPNffBqfskCtYxfdt6pPTcU0EQLvgN3YqvDHquuMd7qd4FSGRfY5ITyoSXx9ach9Z-CdKYCousN3_9hVmRmHKgNbjr_6hQ~",
-    "appendixInfo": {
-        "canFeedback": false,
-        "chatBubble": null
-    },
-    "certMaterials": [],
-    "handicappedInfo": null,
     "oneKeyResumeInfo": {
-        "inviteType": 0,
         "alreadySend": false,
-        "canSendResume": false,
         "canSendPhone": false,
-        "canSendWechat": false
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
     },
     "pageType": 0,
     "relationInfo": {
-        "interestJob": false,
-        "beFriend": false
+        "beFriend": false,
+        "interestJob": false
     },
+    "securityId": "ojdnNNe98RZub-o1_opuvfjCSJJk3YuIXqrbAaaYZkubNr-GkrFf-RX4-E7YYDPNffBqfskCtYxfdt6pPTcU0EQLvgN3YqvDHquuMd7qd4FSGRfY5ITyoSXx9ach9Z-CdKYCousN3_9hVmRmHKgNbjr_6hQ~",
     "selfAccess": false,
     "sessionId": null
 }

@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mDJYyA4j-Oio1-A1jnuEIVKQnFcNvMj-yWIM2gPti9fJ82E2g2n88PD9NRgjzJqt9QogDCAtPrrMXrTNsc5s-TAgZiQ4YkemzvlDlf4qJt5wmJ3SgGDoNa0dGflG4etaDrmgmkCoiSwTWyjB8yLCdJxeCOVSq76KftTQ_PFzHKX3QZ6F3g~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fa3d36f31e2f5b0f03R72Nq9EFVZ",
-      "encryptUserId": "04b16be0e84d31601nZ90t69EVI~",
-      "invalidStatus": false,
-      "jobName": "帮办专员",
-      "position": 150201,
-      "positionName": "行政专员/助理",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "一、知识与技能\n1. 公文写作方面\n（1）熟练掌握各类公文格式，如请示、报告、函、通知等。能够准确运用公文语言，做到表达清晰、逻辑严谨、用词规范。\n（2）有一定的文字功底，能够撰写高质量的工作汇报、项目总结等材料，字数要求根据具体任务而定，一般工作汇报可能在1000 - 3000字左右。\n2. 数据统计分析方面\n（1）熟练使用至少一种数据统计软件，如Excel（掌握函数计算、数据透视表、图表制作等功能）。能够对大量数据进行快速整理、分类和初步分析。\n（2）了解基本的统计学概念，如平均数、中位数、标准差等，能进行简单的数据分析，并从数据中提炼出有价值的信息，为决策提供依据。\n二、其他要求\n1. 沟通能力\n良好的口头沟通能力，能够与不同部门、不同层级的人员进行有效的沟通协调，解答疑问并传达信息准确。\n2. 服务意识\n具有较强的服务意识，能够积极主动地为企业或群众提供帮代办服务，耐心细致地处理各类事务。\n3. 学习能力\n由于帮代办工作可能涉及不同领域的业务知识，需要具备较强的学习能力，能够快速掌握新政策、新流程等相关知识。",
-      "encryptAddressId": "3f513a05539f4d801nF429i9F1NRw427VPqc",
-      "address": "武汉江岸区武汉市民之家1-1",
-      "longitude": 114.295124,
-      "latitude": 30.659876,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35ac62ea6f966f39b17abf0945170eb9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59c382b7f8e4461b1baa2712b883e3ee",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "文书起草"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "金先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221008/607f1f3d68754fd00a120022dbb677ead063ca44f8eb2dccec48dc29ddb90cb591347a84562_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "万鹏信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "252ce050db25a3e41nB43t--E1U~",
-      "brandName": "万鹏信息",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211011/7b5b554d84f9729c281b695ddf3eefc71c95f1bcbc0b3bf6c4f4453d6f125208bb14d41cc2decf8d.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "广州万鹏信息系统有限公司从事软件研发的技术型创业公司",
-      "labels": [
-        "餐补",
-        "带薪年假",
-        "加班补助",
-        "定期体检",
-        "补充医疗保险"
-      ],
-      "activeTime": 1732613851176,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万鹏信息",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万鹏信息",
+        "certificated": true,
+        "large": null,
+        "name": "金先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221008/607f1f3d68754fd00a120022dbb677ead063ca44f8eb2dccec48dc29ddb90cb591347a84562_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732613851176,
+        "brandName": "万鹏信息",
+        "customerBrandName": "万鹏信息",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "252ce050db25a3e41nB43t--E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "广州万鹏信息系统有限公司从事软件研发的技术型创业公司",
+        "labels": [
+            "餐补",
+            "带薪年假",
+            "加班补助",
+            "定期体检",
+            "补充医疗保险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211011/7b5b554d84f9729c281b695ddf3eefc71c95f1bcbc0b3bf6c4f4453d6f125208bb14d41cc2decf8d.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江岸区武汉市民之家1-1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3f513a05539f4d801nF429i9F1NRw427VPqc",
+        "encryptId": "fa3d36f31e2f5b0f03R72Nq9EFVZ",
+        "encryptUserId": "04b16be0e84d31601nZ90t69EVI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "帮办专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.659876,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.295124,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59c382b7f8e4461b1baa2712b883e3ee",
+        "position": 150201,
+        "positionName": "行政专员/助理",
+        "postDescription": "一、知识与技能\n1. 公文写作方面\n（1）熟练掌握各类公文格式，如请示、报告、函、通知等。能够准确运用公文语言，做到表达清晰、逻辑严谨、用词规范。\n（2）有一定的文字功底，能够撰写高质量的工作汇报、项目总结等材料，字数要求根据具体任务而定，一般工作汇报可能在1000 - 3000字左右。\n2. 数据统计分析方面\n（1）熟练使用至少一种数据统计软件，如Excel（掌握函数计算、数据透视表、图表制作等功能）。能够对大量数据进行快速整理、分类和初步分析。\n（2）了解基本的统计学概念，如平均数、中位数、标准差等，能进行简单的数据分析，并从数据中提炼出有价值的信息，为决策提供依据。\n二、其他要求\n1. 沟通能力\n良好的口头沟通能力，能够与不同部门、不同层级的人员进行有效的沟通协调，解答疑问并传达信息准确。\n2. 服务意识\n具有较强的服务意识，能够积极主动地为企业或群众提供帮代办服务，耐心细致地处理各类事务。\n3. 学习能力\n由于帮代办工作可能涉及不同领域的业务知识，需要具备较强的学习能力，能够快速掌握新政策、新流程等相关知识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "文书起草"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35ac62ea6f966f39b17abf0945170eb9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mDJYyA4j-Oio1-A1jnuEIVKQnFcNvMj-yWIM2gPti9fJ82E2g2n88PD9NRgjzJqt9QogDCAtPrrMXrTNsc5s-TAgZiQ4YkemzvlDlf4qJt5wmJ3SgGDoNa0dGflG4etaDrmgmkCoiSwTWyjB8yLCdJxeCOVSq76KftTQ_PFzHKX3QZ6F3g~~",
+    "selfAccess": false,
+    "sessionId": null
 }

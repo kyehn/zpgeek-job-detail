@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "StVg5C1EjbQ2n-D1WGDVmj6wid7Bhfb04P69NIEKWLOQJbvLF9AP5e0yod9K1WZ5CRg5hFf-st-n9xqAK2KTEcZuyozYzv7ocukiIJ4j0FgHHXf1WBw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bb415ff2debc9d0d1HZ63t-8FFVQ",
-      "encryptUserId": "a7835fbea7d809ec0Xdy39-8EVo~",
-      "invalidStatus": false,
-      "jobName": "web前段开发工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.计算机或相关专业大专以上学历，1~3年或以上互联网前端开发经验\n2.熟悉JavaScript、CSS3，SCSS和HTML5等技术\n3.熟悉ES6,ES7语法，有React、Vue、Angular、至少其中一种UI框架的开发经验\n4.熟悉Git/GitHub，通信协议TCP/HTTP及RESTful标准\n5.工作踏实、积极、责任心强，有较强的问题解决、学习和逻辑思维能力，较强的沟通与团队协调工作能力\n6.了解TypeScript，有数据可视化方面经验\n加分项：\n1、有uni-app，小程序开发经验者优先；2、熟悉了解JAVA，Spring boot项目优先；",
-      "encryptAddressId": "08fc89b43a0ef7531nR82N68FVtYxYy6Vfmf",
-      "address": "北京大兴区北京城建·北京密码21301",
-      "longitude": 116.398809,
-      "latitude": 39.682395,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230527/48ba41acc9cef1bfe4c12b7ed0c7797580aa59522a528a216bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf9f2b4e5d3073deca155425ba8765e37b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "JavaScript",
-        "HTML5",
-        "Vue"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "穆先生",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "北京小羊驼科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b19e13aa4c635ef31X143Nu8EVo~",
-      "brandName": "北京小羊驼科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1721649420132,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京小羊驼科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京小羊驼科技",
+        "certificated": true,
+        "large": null,
+        "name": "穆先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1721649420132,
+        "brandName": "北京小羊驼科技",
+        "customerBrandName": "北京小羊驼科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "b19e13aa4c635ef31X143Nu8EVo~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京大兴区北京城建·北京密码21301",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "08fc89b43a0ef7531nR82N68FVtYxYy6Vfmf",
+        "encryptId": "bb415ff2debc9d0d1HZ63t-8FFVQ",
+        "encryptUserId": "a7835fbea7d809ec0Xdy39-8EVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "web前段开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.682395,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.398809,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf9f2b4e5d3073deca155425ba8765e37b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "1.计算机或相关专业大专以上学历，1~3年或以上互联网前端开发经验\n2.熟悉JavaScript、CSS3，SCSS和HTML5等技术\n3.熟悉ES6,ES7语法，有React、Vue、Angular、至少其中一种UI框架的开发经验\n4.熟悉Git/GitHub，通信协议TCP/HTTP及RESTful标准\n5.工作踏实、积极、责任心强，有较强的问题解决、学习和逻辑思维能力，较强的沟通与团队协调工作能力\n6.了解TypeScript，有数据可视化方面经验\n加分项：\n1、有uni-app，小程序开发经验者优先；2、熟悉了解JAVA，Spring boot项目优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "JavaScript",
+            "HTML5",
+            "Vue"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230527/48ba41acc9cef1bfe4c12b7ed0c7797580aa59522a528a216bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "StVg5C1EjbQ2n-D1WGDVmj6wid7Bhfb04P69NIEKWLOQJbvLF9AP5e0yod9K1WZ5CRg5hFf-st-n9xqAK2KTEcZuyozYzv7ocukiIJ4j0FgHHXf1WBw~",
+    "selfAccess": false,
+    "sessionId": null
 }

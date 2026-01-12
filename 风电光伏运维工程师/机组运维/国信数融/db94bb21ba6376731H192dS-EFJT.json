@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JgErukF0LIHjI-W1v--xFye-Uw4I92UmLe1v4jpWJ3oBBmBYnnmUqbsSaUis9xCUxddtKuJDqe8xWXSnTIrwC_bzRKp-6n_qlF7YOzkasHmabblK_Vdr4DajnWbGB8QAWq2Iky8xu6kVc2M~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "db94bb21ba6376731H192dS-EFJT",
-      "encryptUserId": "d4a1aee634aa787d0XR72dm4EFBW",
-      "invalidStatus": false,
-      "jobName": "机组运维",
-      "position": 301003,
-      "positionName": "风电/光伏运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1.负责风力发电机组的调试和运行维护；\n2.负责风力发电机组运行过程中消缺和故障分析处理；\n3.负责风力发电机组的定检、日常检修、维护等工作；\n4.对现场风电机组运行状况进行分析研究，制定合理改进方案，优化风机运行性能。\n岗位要求：\n1 .属地：蒙西为主—可以接受蒙西项目地点分配；\n2.学历：大专及以上-工科专业；\n3.证书：双证齐全（低压和登高）；\n4.经验:18-35岁，有半年以上风电运维经验；\n5.吃苦耐劳、勤奋好学、态度端正、具有较好的沟通协同能力；\n6.不恐高，能适应驻外工作；项目制工作，每两个月休假10-14天（含在途)。\n7.含住宿。\n福利：六险一金",
-      "encryptAddressId": "58a5f3fdf84f8a951nB82Ny8GFNTwo27U_2X",
-      "address": "北京朝阳区天元港中心B座2309",
-      "longitude": 116.459812,
-      "latitude": 39.955578,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf6ef659c3dc735c5d404450b36a4bddce6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bfaeac3bd321394ec17c1e954866e937356bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "风电机组运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "国信数融",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6eb2e9107ea7b5d11HZz296-F1Y~",
-      "brandName": "国信数融",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730864424969,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "国信数融",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "国信数融",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730864424969,
+        "brandName": "国信数融",
+        "customerBrandName": "国信数融",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6eb2e9107ea7b5d11HZz296-F1Y~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区天元港中心B座2309",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "58a5f3fdf84f8a951nB82Ny8GFNTwo27U_2X",
+        "encryptId": "db94bb21ba6376731H192dS-EFJT",
+        "encryptUserId": "d4a1aee634aa787d0XR72dm4EFBW",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "机组运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.955578,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.459812,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bfaeac3bd321394ec17c1e954866e937356bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 301003,
+        "positionName": "风电/光伏运维工程师",
+        "postDescription": "岗位职责\n1.负责风力发电机组的调试和运行维护；\n2.负责风力发电机组运行过程中消缺和故障分析处理；\n3.负责风力发电机组的定检、日常检修、维护等工作；\n4.对现场风电机组运行状况进行分析研究，制定合理改进方案，优化风机运行性能。\n岗位要求：\n1 .属地：蒙西为主—可以接受蒙西项目地点分配；\n2.学历：大专及以上-工科专业；\n3.证书：双证齐全（低压和登高）；\n4.经验:18-35岁，有半年以上风电运维经验；\n5.吃苦耐劳、勤奋好学、态度端正、具有较好的沟通协同能力；\n6.不恐高，能适应驻外工作；项目制工作，每两个月休假10-14天（含在途)。\n7.含住宿。\n福利：六险一金",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "风电机组运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf6ef659c3dc735c5d404450b36a4bddce6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JgErukF0LIHjI-W1v--xFye-Uw4I92UmLe1v4jpWJ3oBBmBYnnmUqbsSaUis9xCUxddtKuJDqe8xWXSnTIrwC_bzRKp-6n_qlF7YOzkasHmabblK_Vdr4DajnWbGB8QAWq2Iky8xu6kVc2M~",
+    "selfAccess": false,
+    "sessionId": null
 }

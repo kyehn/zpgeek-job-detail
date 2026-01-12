@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fOiNcWIA6BEl8-f1NRCfSAJ2lXPcv9ucvbwzHIdn74kUSuM52sXtEXg2l4qww8iGsJGMdJYRDo353dE_sKt2wIUFKNO8Mbx0sl79NOtRVknBZAsW5Ew~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "93c78f16836ba1951Hx709--GVpR",
-      "encryptUserId": "0cd3e47c4b95dd9a1HJ83dq_GFc~",
-      "invalidStatus": false,
-      "jobName": "红人助理",
-      "position": 170617,
-      "positionName": "艺人助理",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.操作过抖音，小红薯，微博等\n2.会使用剪映等视频剪辑软件\n3.网感好，能吃苦，可以接受弹性工作时间",
-      "encryptAddressId": "b7ae38b061518f5f3nx42N-_E1tXwoq3Wfg~",
-      "address": "苏州常熟市常熟世茂商务广场A幢2301",
-      "longitude": 120.7743,
-      "latitude": 31.666873,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230528/48ba41acc9cef1bf0305b55d86ffd36527605f1831437b866bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfb239ea67eec3d0d92fc20a7899b35d626bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全职兼职均可",
-        "模特助理",
-        "红人助理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "招聘组总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231109/607f1f3d68754fd0de6d0723f51ee5ca088ae79af814d101dadd301248dc475871acb549791e342_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "苏州市亿升姐妹花商贸",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b0d06ded7bce2a191HV63NW6F1I~",
-      "brandName": "苏州市亿升姐妹花商贸",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100017,
-      "industryName": "新零售",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729746463310,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州市亿升姐妹花商贸",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州市亿升姐妹花商贸",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231109/607f1f3d68754fd0de6d0723f51ee5ca088ae79af814d101dadd301248dc475871acb549791e342_b.jpg",
+        "title": "招聘组总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1729746463310,
+        "brandName": "苏州市亿升姐妹花商贸",
+        "customerBrandName": "苏州市亿升姐妹花商贸",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b0d06ded7bce2a191HV63NW6F1I~",
+        "focusBrand": false,
+        "industry": 100017,
+        "industryName": "新零售",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州常熟市常熟世茂商务广场A幢2301",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b7ae38b061518f5f3nx42N-_E1tXwoq3Wfg~",
+        "encryptId": "93c78f16836ba1951Hx709--GVpR",
+        "encryptUserId": "0cd3e47c4b95dd9a1HJ83dq_GFc~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "红人助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.666873,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.7743,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfb239ea67eec3d0d92fc20a7899b35d626bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 170617,
+        "positionName": "艺人助理",
+        "postDescription": "1.操作过抖音，小红薯，微博等\n2.会使用剪映等视频剪辑软件\n3.网感好，能吃苦，可以接受弹性工作时间",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "全职兼职均可",
+            "模特助理",
+            "红人助理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230528/48ba41acc9cef1bf0305b55d86ffd36527605f1831437b866bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fOiNcWIA6BEl8-f1NRCfSAJ2lXPcv9ucvbwzHIdn74kUSuM52sXtEXg2l4qww8iGsJGMdJYRDo353dE_sKt2wIUFKNO8Mbx0sl79NOtRVknBZAsW5Ew~",
+    "selfAccess": false,
+    "sessionId": null
 }

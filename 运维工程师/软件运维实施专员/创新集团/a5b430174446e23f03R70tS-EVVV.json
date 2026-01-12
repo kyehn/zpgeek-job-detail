@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TofKziimUnjI3-i1Mm3RVZ9Sk_Uc0unGl0N-whQb-Z56jvTEN9iq2tg3wQcX3MTKHl7zg__Lds4gNymJpVW2kgHjE6WmZmjvSw_oUIlC5pS6cSfgbWWgG-OVEhDVPCbDPKr85GHC3PAMXG4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a5b430174446e23f03R70tS-EVVV",
-      "encryptUserId": "2ddaac3f9cdaa4030XR72Nq-E1RU",
-      "invalidStatus": false,
-      "jobName": "软件运维/实施专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101121100,
-      "locationName": "滨州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1.负责公司内部常用软件，如OA/NC/SAP/MES等系统的二次开发和维护；\n2.负责与业务部门对接，如营销、物流、生产、采购等，完成流程开发和实施；\n3.负责公司内部软件系统的维护和用户培训。\n任职要求\n1.大学本科及以上学历，计算机、软件开发、大数据开发等相关专业；\n2.熟练使用Java/C#等常用开发软件，熟悉开发底层框架和逻辑语言；\n3.一年以上SAP/MES开发、运维、实施相关工作经验者优先。",
-      "encryptAddressId": "b810c6732c6bac620HZ53dm4ElpZwou_U_s~",
-      "address": "滨州邹平市创新金属102",
-      "longitude": 117.818807,
-      "latitude": 36.899908,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf52e9627cafa14b6397f238c9f44dffd76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf0c230b864cb8de0305b4beaa7648c6bf6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "商先生",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241111/607f1f3d68754fd0e914766575694740264c179ef06a79b03f0a0ba9057f8901687ff917f792ba1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "创新集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "88f2d235d76ead6d1Xd92d20FlI~",
-      "brandName": "创新集团",
-      "logo": "https://c-res.zhipin.com/jrs/7_bf464e08a374a5d935f460cca1d4dd9a.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100903,
-      "industryName": "原材料及加工/模具",
-      "introduce": "全球最大的铝合金生产基地，中国五百强上市企业。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1732608872388,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "创新集团",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "创新集团",
+        "certificated": true,
+        "large": null,
+        "name": "商先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241111/607f1f3d68754fd0e914766575694740264c179ef06a79b03f0a0ba9057f8901687ff917f792ba1_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732608872388,
+        "brandName": "创新集团",
+        "customerBrandName": "创新集团",
+        "customerBrandStageName": "",
+        "encryptBrandId": "88f2d235d76ead6d1Xd92d20FlI~",
+        "focusBrand": false,
+        "industry": 100903,
+        "industryName": "原材料及加工/模具",
+        "introduce": "全球最大的铝合金生产基地，中国五百强上市企业。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/7_bf464e08a374a5d935f460cca1d4dd9a.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "滨州邹平市创新金属102",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b810c6732c6bac620HZ53dm4ElpZwou_U_s~",
+        "encryptId": "a5b430174446e23f03R70tS-EVVV",
+        "encryptUserId": "2ddaac3f9cdaa4030XR72Nq-E1RU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件运维/实施专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 36.899908,
+        "location": 101121100,
+        "locationName": "滨州",
+        "longitude": 117.818807,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf0c230b864cb8de0305b4beaa7648c6bf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责\n1.负责公司内部常用软件，如OA/NC/SAP/MES等系统的二次开发和维护；\n2.负责与业务部门对接，如营销、物流、生产、采购等，完成流程开发和实施；\n3.负责公司内部软件系统的维护和用户培训。\n任职要求\n1.大学本科及以上学历，计算机、软件开发、大数据开发等相关专业；\n2.熟练使用Java/C#等常用开发软件，熟悉开发底层框架和逻辑语言；\n3.一年以上SAP/MES开发、运维、实施相关工作经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf52e9627cafa14b6397f238c9f44dffd76bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TofKziimUnjI3-i1Mm3RVZ9Sk_Uc0unGl0N-whQb-Z56jvTEN9iq2tg3wQcX3MTKHl7zg__Lds4gNymJpVW2kgHjE6WmZmjvSw_oUIlC5pS6cSfgbWWgG-OVEhDVPCbDPKr85GHC3PAMXG4~",
+    "selfAccess": false,
+    "sessionId": null
 }

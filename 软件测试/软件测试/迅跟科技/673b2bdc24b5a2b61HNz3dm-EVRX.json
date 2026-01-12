@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "z0MfsbL5ijYF1-x1dJJzmWEZ-1Auqy-LrC62K8r6-2pBWWRyW9IRf2GnlgsXoRUESmV_0O9IAXVecU63bivhHBGwQFomHEWroGqVCp_XuDr6TUa3jvRzL2MKfy-5TBzh0ca09PBKWIFZZFkZycHcIg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "673b2bdc24b5a2b61HNz3dm-EVRX",
-      "encryptUserId": "c0abe8e22475f5fc0HZ63Nq9EA~~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: 负责公司软件产品的测试工作",
-      "encryptAddressId": "4e226c3ccbbc140c0nd82du0E1Y~",
-      "address": "南京江宁区百家湖·诚基大厦1栋3楼307-2",
-      "longitude": 118.824517,
-      "latitude": 31.928674,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/072c85b80c8425b231f162765ae1dd67",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a28dd1e6f93a5280860598598b8c38c3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试",
-        "计算机相关专业",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "迅跟科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f7f03e947f7abc631n1y3tW9EVs~",
-      "brandName": "迅跟科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1729911322545,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迅跟科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "迅跟科技",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729911322545,
+        "brandName": "迅跟科技",
+        "customerBrandName": "迅跟科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f7f03e947f7abc631n1y3tW9EVs~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区百家湖·诚基大厦1栋3楼307-2",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4e226c3ccbbc140c0nd82du0E1Y~",
+        "encryptId": "673b2bdc24b5a2b61HNz3dm-EVRX",
+        "encryptUserId": "c0abe8e22475f5fc0HZ63Nq9EA~~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.928674,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.824517,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a28dd1e6f93a5280860598598b8c38c3",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责: 负责公司软件产品的测试工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "性能测试",
+            "功能测试",
+            "计算机相关专业",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/072c85b80c8425b231f162765ae1dd67"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "z0MfsbL5ijYF1-x1dJJzmWEZ-1Auqy-LrC62K8r6-2pBWWRyW9IRf2GnlgsXoRUESmV_0O9IAXVecU63bivhHBGwQFomHEWroGqVCp_XuDr6TUa3jvRzL2MKfy-5TBzh0ca09PBKWIFZZFkZycHcIg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

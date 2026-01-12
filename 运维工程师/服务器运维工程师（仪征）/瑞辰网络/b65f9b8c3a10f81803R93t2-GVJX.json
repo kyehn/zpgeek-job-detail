@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GUpAm7FV7TCDo-P1oneNkvVD0i76AmT-eHM4gC9r7LB-j7sG5rgnx4nrFi7yA7HM4fCvEWBIs83LiJMfWIyAESZ9wTL8aajruy0zhwJTOMRVTJKi_9xH6oxyLXnixuo4mlQiNs-wN1yjY8h76VAMv2S8cyJ0nCAozDyIPEygweryy_1dhWwWJri-YwcF",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b65f9b8c3a10f81803R93t2-GVJX",
-      "encryptUserId": "31bf08fce10517361HF50tW1Ew~~",
-      "invalidStatus": false,
-      "jobName": "服务器运维工程师（仪征）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190600,
-      "locationName": "扬州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1负责数据中心服务器、交换机、动力环境等日常维护巡检\n2.对数据中心服务器设备上下架，进行安装、硬件维护、硬件故障处理等工作:\n3.负责数据中心设备迁移，服务器系统安装调试，如Windows/Linux系统等:\n4.协助对Linux系统排错，定位解决故障，有问题及时反馈:\n5.对数据中心网络设备、交换机故障排查及解决，如交换机替换、链路故障等:\n6.日常问题及突发事件的及时响应反馈并解决跟进故障处理:\n7.负责数据中心物理链路的调整及布置，例如光纤、网线、电源线:\n8.对数据中心机房所有服务器及备件坏件定期检查、检修、替换和报修:\n任职要求:\n1、大专及以上、计算机相关专业。\n2、熟悉业界主流厂家服务器、存储的原理、操\n3、具有扎实的专业经验特别是动手操作能力\n具备独立解决服务器、系统故障的能力。\n4、熟悉Windows、Linux系统。\n5、熟悉掌握OFFICE等办公软件\n6、具备较强的责任心，关注细节，肯于钻研\n7，良好的口头与书面沟通、表达能力。\n8、具有良好的团队协作精神",
-      "encryptAddressId": "d8978946ebed51871nJ709u7EVNZxIy9WP6a",
-      "address": "扬州仪征市仪征市腾讯仪征东升云计算数据中心1",
-      "longitude": 119.253777,
-      "latitude": 32.268512,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5dd722999de1f9b4ac8b4239b5d987bc6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230625/48ba41acc9cef1bf7f7d3d7667dc4ed6767b02139ec043f66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "计算机相关专业",
-        "运维经验",
-        "IDC机房运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "人力资源经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "瑞辰网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f09a5ea4523faea51Hx72du7E1Y~",
-      "brandName": "瑞辰网络",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1737596571728,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瑞辰网络",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "瑞辰网络",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人力资源经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1737596571728,
+        "brandName": "瑞辰网络",
+        "customerBrandName": "瑞辰网络",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f09a5ea4523faea51Hx72du7E1Y~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "扬州仪征市仪征市腾讯仪征东升云计算数据中心1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "d8978946ebed51871nJ709u7EVNZxIy9WP6a",
+        "encryptId": "b65f9b8c3a10f81803R93t2-GVJX",
+        "encryptUserId": "31bf08fce10517361HF50tW1Ew~~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "服务器运维工程师（仪征）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.268512,
+        "location": 101190600,
+        "locationName": "扬州",
+        "longitude": 119.253777,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230625/48ba41acc9cef1bf7f7d3d7667dc4ed6767b02139ec043f66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责:\n1负责数据中心服务器、交换机、动力环境等日常维护巡检\n2.对数据中心服务器设备上下架，进行安装、硬件维护、硬件故障处理等工作:\n3.负责数据中心设备迁移，服务器系统安装调试，如Windows/Linux系统等:\n4.协助对Linux系统排错，定位解决故障，有问题及时反馈:\n5.对数据中心网络设备、交换机故障排查及解决，如交换机替换、链路故障等:\n6.日常问题及突发事件的及时响应反馈并解决跟进故障处理:\n7.负责数据中心物理链路的调整及布置，例如光纤、网线、电源线:\n8.对数据中心机房所有服务器及备件坏件定期检查、检修、替换和报修:\n任职要求:\n1、大专及以上、计算机相关专业。\n2、熟悉业界主流厂家服务器、存储的原理、操\n3、具有扎实的专业经验特别是动手操作能力\n具备独立解决服务器、系统故障的能力。\n4、熟悉Windows、Linux系统。\n5、熟悉掌握OFFICE等办公软件\n6、具备较强的责任心，关注细节，肯于钻研\n7，良好的口头与书面沟通、表达能力。\n8、具有良好的团队协作精神",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "通信相关专业",
+            "计算机相关专业",
+            "运维经验",
+            "IDC机房运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5dd722999de1f9b4ac8b4239b5d987bc6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GUpAm7FV7TCDo-P1oneNkvVD0i76AmT-eHM4gC9r7LB-j7sG5rgnx4nrFi7yA7HM4fCvEWBIs83LiJMfWIyAESZ9wTL8aajruy0zhwJTOMRVTJKi_9xH6oxyLXnixuo4mlQiNs-wN1yjY8h76VAMv2S8cyJ0nCAozDyIPEygweryy_1dhWwWJri-YwcF",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jG6QDB336ls00-X1ii4EWjxG_rCpsxi_LKAh6IUyx8PEDcAazU5u8djptz-tqI-Me75I1rdaiWIYsIUchdgmLrZk7MhzZXe_VAkwKi5D5W4TEvfaNXE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "74ed889f28fbcc271Xd_2ti5EVdQ",
-      "encryptUserId": "77f2e79081c7d12d0HB53NW_GVU~",
-      "invalidStatus": false,
-      "jobName": "小程序开发专员",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.优秀实习生或应届毕业生\n2.有一定小程序开发经验、自己做过小案例\n3.创业合伙人，有志青年。",
-      "encryptAddressId": "8203652932b2c6da0nV409u6EVA~",
-      "address": "长沙岳麓区尖山安置小区4栋7楼7048",
-      "longitude": 112.882698,
-      "latitude": 28.251979,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/969028684450d67965b7af710e531359",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9aa67e3247884da1cf61a7a0ec7d86e8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240308/607f1f3d68754fd03f6cbcabb51fddcef84bfe32eb4b8805d5ded532c03c8dd434e711b23ea7510_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "聚享咖",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2a7e25cba716c6781XRy09i8E1Y~",
-      "brandName": "聚享咖",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [
-        "绩效奖金"
-      ],
-      "activeTime": 1725366680860,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "聚享咖",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "聚享咖",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240308/607f1f3d68754fd03f6cbcabb51fddcef84bfe32eb4b8805d5ded532c03c8dd434e711b23ea7510_b.jpg",
+        "title": "行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725366680860,
+        "brandName": "聚享咖",
+        "customerBrandName": "聚享咖",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "2a7e25cba716c6781XRy09i8E1Y~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区尖山安置小区4栋7楼7048",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8203652932b2c6da0nV409u6EVA~",
+        "encryptId": "74ed889f28fbcc271Xd_2ti5EVdQ",
+        "encryptUserId": "77f2e79081c7d12d0HB53NW_GVU~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "小程序开发专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.251979,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.882698,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9aa67e3247884da1cf61a7a0ec7d86e8",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "1.优秀实习生或应届毕业生\n2.有一定小程序开发经验、自己做过小案例\n3.创业合伙人，有志青年。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/969028684450d67965b7af710e531359"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jG6QDB336ls00-X1ii4EWjxG_rCpsxi_LKAh6IUyx8PEDcAazU5u8djptz-tqI-Me75I1rdaiWIYsIUchdgmLrZk7MhzZXe_VAkwKi5D5W4TEvfaNXE~",
+    "selfAccess": false,
+    "sessionId": null
 }

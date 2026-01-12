@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BRVr4ESkKQW9N-y1pLcJdDBCSMJVD2nr-4PkTCl7pbXe8o37oq1sxplZ72RySjIqzH7cR2xeBLqkA8G_YUsvQBvC3RCYuy5Ji3nkgdmbm8dQ39Kn",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "198b8a0300b2a79203F93NS5GFo~",
-      "encryptUserId": "45f4895a488ac8810XJ53du0FFE~",
-      "invalidStatus": false,
-      "jobName": "冷暖、设计师、工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "公装工程做方案，设计，报价。做事认真、负责。",
-      "encryptAddressId": "273cb9c0fb745fab1nZ_0ti_EFU~",
-      "address": "深圳龙岗区坂田(地铁站)坂田(地铁站)C出口祥云大夏705",
-      "longitude": 114.070852,
-      "latitude": 22.627483,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e5936c068537cc0eb2e929c1ba8db3f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef6870f4c58a4ec269b55f25ab864327",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "项目管理",
-        "解决方案",
-        "需求分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "熊先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "鸿大机电制冷中央空调",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "079a80a4048d494303x53du9Fw~~",
-      "brandName": "鸿大机电制冷中央空调",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725303257085,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鸿大机电制冷中央空调",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鸿大机电制冷中央空调",
+        "certificated": true,
+        "large": null,
+        "name": "熊先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725303257085,
+        "brandName": "鸿大机电制冷中央空调",
+        "customerBrandName": "鸿大机电制冷中央空调",
+        "customerBrandStageName": "",
+        "encryptBrandId": "079a80a4048d494303x53du9Fw~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区坂田(地铁站)坂田(地铁站)C出口祥云大夏705",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "273cb9c0fb745fab1nZ_0ti_EFU~",
+        "encryptId": "198b8a0300b2a79203F93NS5GFo~",
+        "encryptUserId": "45f4895a488ac8810XJ53du0FFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "冷暖、设计师、工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.627483,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.070852,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef6870f4c58a4ec269b55f25ab864327",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "公装工程做方案，设计，报价。做事认真、负责。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "项目管理",
+            "解决方案",
+            "需求分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e5936c068537cc0eb2e929c1ba8db3f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BRVr4ESkKQW9N-y1pLcJdDBCSMJVD2nr-4PkTCl7pbXe8o37oq1sxplZ72RySjIqzH7cR2xeBLqkA8G_YUsvQBvC3RCYuy5Ji3nkgdmbm8dQ39Kn",
+    "selfAccess": false,
+    "sessionId": null
 }

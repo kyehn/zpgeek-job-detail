@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "nKn8PXRHmCFBS-S1ppltBb33FJSIlbVwM3igEIS6yEnv5Uz7fA9eDd0LttJgS-m9nqXrfizTQBvL96A8yrb0Y7tso3OO4yUNlm42aveDtHWKZuYx",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e4a0c310935dc90a1HJ53dW6FlY~",
-      "encryptUserId": "2808f81c61e940c50nN73ti4ElQ~",
-      "invalidStatus": false,
-      "jobName": "运维工程师助理",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.通讯设备维修的技术支持\n2.负责解决新产品维修的技术难点研究\n3.负责维修测试环境的搭建\n4.负责维修案例分析及整理。",
-      "encryptAddressId": "24123cf4584f9dde1XBz0t26E1o~",
-      "address": "东莞智荣园区A栋",
-      "longitude": 113.917809,
-      "latitude": 22.885081,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc22b296e55377c5602e89d5a4f4c0ad",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f277a3459f906ff3d519099a1c711cb4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维",
-        "网络"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "毛女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190313/b222014f2843729bb54db32bdc17e8eaec16b689d8298aa35d2045e44c7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "西安瑞吉",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d1ce1f966e7ed7be1Hx42ty9EQ~~",
-      "brandName": "西安瑞吉",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730063069241,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "西安瑞吉",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "西安瑞吉",
+        "certificated": true,
+        "large": null,
+        "name": "毛女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190313/b222014f2843729bb54db32bdc17e8eaec16b689d8298aa35d2045e44c7_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730063069241,
+        "brandName": "西安瑞吉",
+        "customerBrandName": "西安瑞吉",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d1ce1f966e7ed7be1Hx42ty9EQ~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞智荣园区A栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "24123cf4584f9dde1XBz0t26E1o~",
+        "encryptId": "e4a0c310935dc90a1HJ53dW6FlY~",
+        "encryptUserId": "2808f81c61e940c50nN73ti4ElQ~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.885081,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 113.917809,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f277a3459f906ff3d519099a1c711cb4",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.通讯设备维修的技术支持\n2.负责解决新产品维修的技术难点研究\n3.负责维修测试环境的搭建\n4.负责维修案例分析及整理。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "运维",
+            "网络"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc22b296e55377c5602e89d5a4f4c0ad"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "nKn8PXRHmCFBS-S1ppltBb33FJSIlbVwM3igEIS6yEnv5Uz7fA9eDd0LttJgS-m9nqXrfizTQBvL96A8yrb0Y7tso3OO4yUNlm42aveDtHWKZuYx",
+    "selfAccess": false,
+    "sessionId": null
 }

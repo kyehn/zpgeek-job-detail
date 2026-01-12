@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fP-GbBNt1Mhiz-41y3m3m-C6o8Jbc3JZG9Zvw8yUXbL7jEj5Z4io3WtAmX9i-0EMtd1OV6b3NDdM3WZTFddbNCWomdwVvSnpjiCrjwY3FeoZoKiDXDOWzGnqYjdw7pqiQwm0CaTpLIi2",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fbbfb2efc6eb0adf1nd42924FVdU",
-      "encryptUserId": "5675c61629b033250nZ73dW5FFVR",
-      "invalidStatus": false,
-      "jobName": "WMS仓储和ERP实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101180100,
-      "locationName": "郑州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求：\n1. 根据项目需求,前往用户现场进行设备安装实施； \n2. 处理客户的服务请求，配置和修改系统以满足客户要求； \n3. 负责公司软件产品的安装调试、演示培训、应用指导等实施上线工作； \n4. 解决客户提出的有关软件使用的疑难问题。 \n5. 收集与分析客户需求，编写需求文档，引导客户需求，对需求变更进行有效控制； \n6. 解决系统使用中客户碰到的问题，维护客户关系，提高客户满意度。\n任职资格：\n1、计算机相关专业统招大专及以上学历（学信网可查）；\n2、接受应届毕业生，要求沟通能力优秀，能适应长期出差。熟悉数据库基本知识，爱问爱学。\n3、工作经验1-3年，熟练操作医药行业ERP、WMS、财务软件等；\n4、具备一定现场问题处理能力,能整理汇总客户需求及问题,灵活形成解决方案；\n5、具有熟练掌握sql server、能够调试或修改存储过程、对接过第三方接口、熟悉服务器部署、配置及数据恢复等技术优先；\n6、适应长期、短期、及外省出差。",
-      "encryptAddressId": "c5199422e91b61101XNy2Nm-EQ~~",
-      "address": "郑州管城回族区郑州经济技术开发区兴华大厦A座802",
-      "longitude": 113.742912,
-      "latitude": 34.722,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88f5d77af85b9a3c7080ac147ed1c240",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e125bf4fbf09bef16a6f12e88e76050a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "熟练掌握SQL语句",
-        "计算机相关专业",
-        "WMS",
-        "sql server",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "何女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210312/372332be90d87dd077415e8c9a8164a8477813503a116b814294e862929_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "云起科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4e9be304c14e22a30HR80tS_",
-      "brandName": "云起科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1731594345436,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云起科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云起科技",
+        "certificated": true,
+        "large": null,
+        "name": "何女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210312/372332be90d87dd077415e8c9a8164a8477813503a116b814294e862929_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1731594345436,
+        "brandName": "云起科技",
+        "customerBrandName": "云起科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4e9be304c14e22a30HR80tS_",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "郑州管城回族区郑州经济技术开发区兴华大厦A座802",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c5199422e91b61101XNy2Nm-EQ~~",
+        "encryptId": "fbbfb2efc6eb0adf1nd42924FVdU",
+        "encryptUserId": "5675c61629b033250nZ73dW5FFVR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "WMS仓储和ERP实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 34.722,
+        "location": 101180100,
+        "locationName": "郑州",
+        "longitude": 113.742912,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e125bf4fbf09bef16a6f12e88e76050a",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位要求：\n1. 根据项目需求,前往用户现场进行设备安装实施； \n2. 处理客户的服务请求，配置和修改系统以满足客户要求； \n3. 负责公司软件产品的安装调试、演示培训、应用指导等实施上线工作； \n4. 解决客户提出的有关软件使用的疑难问题。 \n5. 收集与分析客户需求，编写需求文档，引导客户需求，对需求变更进行有效控制； \n6. 解决系统使用中客户碰到的问题，维护客户关系，提高客户满意度。\n任职资格：\n1、计算机相关专业统招大专及以上学历（学信网可查）；\n2、接受应届毕业生，要求沟通能力优秀，能适应长期出差。熟悉数据库基本知识，爱问爱学。\n3、工作经验1-3年，熟练操作医药行业ERP、WMS、财务软件等；\n4、具备一定现场问题处理能力,能整理汇总客户需求及问题,灵活形成解决方案；\n5、具有熟练掌握sql server、能够调试或修改存储过程、对接过第三方接口、熟悉服务器部署、配置及数据恢复等技术优先；\n6、适应长期、短期、及外省出差。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "ERP",
+            "熟练掌握SQL语句",
+            "计算机相关专业",
+            "WMS",
+            "sql server",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88f5d77af85b9a3c7080ac147ed1c240"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fP-GbBNt1Mhiz-41y3m3m-C6o8Jbc3JZG9Zvw8yUXbL7jEj5Z4io3WtAmX9i-0EMtd1OV6b3NDdM3WZTFddbNCWomdwVvSnpjiCrjwY3FeoZoKiDXDOWzGnqYjdw7pqiQwm0CaTpLIi2",
+    "selfAccess": false,
+    "sessionId": null
 }

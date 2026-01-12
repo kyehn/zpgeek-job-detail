@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vJl8oDCgnRu7p-a1tdhroo_ePSMfPTcHI2QLUdXbp4P05P-bk5GmsrxPsZXHRtjQX4rqfpuyqrMBa_1CDwJpff6c0IsMItV7oiQLLpL2GHoA6_v80sdKLK-aOau6ECyyjNBOUO3po3C6f2iJQQ6nTyrAtUbu3v5n6JwP96Dhdse1z0GkI1c~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "42ef6d3b5cc960a71H1-2ty8E1JU",
-      "encryptUserId": "4f4f1cc40bcf21cf0XN939i8GFdU",
-      "invalidStatus": false,
-      "jobName": "见习生管",
-      "position": 300107,
-      "positionName": "生产计划/物料管理(PMC)",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1.整合订单资料\n2.制定生产计划和生产排程\n3.跟催物料和生产进度\n4.异常处理\n5.生产数据报表分析\n任职要求：\n1. 要求大专以上学历，\n2.管理类专业优先，应届生也可\n3.要求熟悉电脑+办公软件\n4.会开车的优先",
-      "encryptAddressId": "a6bd4ef53346817d1nd63N68GVdVyoS3WPud",
-      "address": "苏州昆山市昆山冠智科技电子有限公司10栋",
-      "longitude": 120.958798,
-      "latitude": 31.429032,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231227/48ba41acc9cef1bf0ea82d529a39b5b9e74a01c11347f4146bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240529/48ba41acc9cef1bf3cc036a8e994484db065376a7d8028796bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "生产计划与物流控制",
-        "生产跟单",
-        "机械设备/机电/重工"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "昆山锐莱铂半导体设备",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1e638a11aed276281HN-2Nu4GVE~",
-      "brandName": "昆山锐莱铂半导体设备",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731051673185,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆山锐莱铂半导体设备",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆山锐莱铂半导体设备",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731051673185,
+        "brandName": "昆山锐莱铂半导体设备",
+        "customerBrandName": "昆山锐莱铂半导体设备",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1e638a11aed276281HN-2Nu4GVE~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市昆山冠智科技电子有限公司10栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a6bd4ef53346817d1nd63N68GVdVyoS3WPud",
+        "encryptId": "42ef6d3b5cc960a71H1-2ty8E1JU",
+        "encryptUserId": "4f4f1cc40bcf21cf0XN939i8GFdU",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "见习生管",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.429032,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.958798,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240529/48ba41acc9cef1bf3cc036a8e994484db065376a7d8028796bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 300107,
+        "positionName": "生产计划/物料管理(PMC)",
+        "postDescription": "岗位职责:\n1.整合订单资料\n2.制定生产计划和生产排程\n3.跟催物料和生产进度\n4.异常处理\n5.生产数据报表分析\n任职要求：\n1. 要求大专以上学历，\n2.管理类专业优先，应届生也可\n3.要求熟悉电脑+办公软件\n4.会开车的优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "生产计划与物流控制",
+            "生产跟单",
+            "机械设备/机电/重工"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231227/48ba41acc9cef1bf0ea82d529a39b5b9e74a01c11347f4146bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vJl8oDCgnRu7p-a1tdhroo_ePSMfPTcHI2QLUdXbp4P05P-bk5GmsrxPsZXHRtjQX4rqfpuyqrMBa_1CDwJpff6c0IsMItV7oiQLLpL2GHoA6_v80sdKLK-aOau6ECyyjNBOUO3po3C6f2iJQQ6nTyrAtUbu3v5n6JwP96Dhdse1z0GkI1c~",
+    "selfAccess": false,
+    "sessionId": null
 }

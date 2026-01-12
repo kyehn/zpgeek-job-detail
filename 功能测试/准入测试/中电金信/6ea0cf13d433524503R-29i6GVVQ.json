@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xml9PxZl5uzG5-U1QqAEv4kOChitB46rNhgbbrsdlBcY-5b9TqXQp-6i4MvAvwN3FcWb432nl0_gLkEOfwfbXjD7nY1s29eDuNcTwUCLhSy9c-0j8LtE5DSj6sHHrDsv8KpdXuzpmJk1Q4L7Ytrw6hnKREA0",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6ea0cf13d433524503R-29i6GVVQ",
-      "encryptUserId": "9dd5e4562733808b03N_2NW1FVs~",
-      "invalidStatus": false,
-      "jobName": "准入测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-10K",
-      "payTypeDesc": null,
-      "postDescription": "核心工作内容：\n1、负责小度全系智能产品在中移杭研的准入测试工作。\n2、中国移动渠道发货串码录入等工作。\n3、做好省公司选型测试的支撑工作。",
-      "encryptAddressId": "f1398a4361e90b091nF82N-5FlBQwoq4VPOb",
-      "address": "杭州余杭区中国移动(杭州研发中心)1",
-      "longitude": 120.026251,
-      "latitude": 30.293152,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4de2a5f1e4c130c25fe88ec9d8a3576c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b01cb1726f6157f3bd45f2d0b3e18a2d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试经验",
-        "掌握软件测试理论和流程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210804/06bc1d21466f68c2aecb168f190055a2b25dd9674540d7289bb567d3111_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1733306840975,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210804/06bc1d21466f68c2aecb168f190055a2b25dd9674540d7289bb567d3111_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1733306840975,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区中国移动(杭州研发中心)1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f1398a4361e90b091nF82N-5FlBQwoq4VPOb",
+        "encryptId": "6ea0cf13d433524503R-29i6GVVQ",
+        "encryptUserId": "9dd5e4562733808b03N_2NW1FVs~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "准入测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.293152,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.026251,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b01cb1726f6157f3bd45f2d0b3e18a2d",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "核心工作内容：\n1、负责小度全系智能产品在中移杭研的准入测试工作。\n2、中国移动渠道发货串码录入等工作。\n3、做好省公司选型测试的支撑工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-10K",
+        "showSkills": [
+            "功能测试经验",
+            "掌握软件测试理论和流程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4de2a5f1e4c130c25fe88ec9d8a3576c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xml9PxZl5uzG5-U1QqAEv4kOChitB46rNhgbbrsdlBcY-5b9TqXQp-6i4MvAvwN3FcWb432nl0_gLkEOfwfbXjD7nY1s29eDuNcTwUCLhSy9c-0j8LtE5DSj6sHHrDsv8KpdXuzpmJk1Q4L7Ytrw6hnKREA0",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "I7RvRRS8dQkP5-61-5l3sSxwCKl_KSPGWHub5dX8Sexw5oNSRqddpP3CigirgIYLdmmj3OIOPfzuo_mOf48ZBsjhSrmeb4hQbnm15EvUhvjo7Xfa",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "41fe987813b40e960XB-2Ni_F1o~",
-      "encryptUserId": "f8e8bdf184d1c7cc33d629i8E1Q~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101180600,
-      "locationName": "信阳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "负责JAVA类项目的实施和软件编码开发。",
-      "encryptAddressId": "e77a5ebc5e58c3d91XN40t-9GFI~",
-      "address": "信阳浉河区银珠广场1号楼2802室",
-      "longitude": 114.072872,
-      "latitude": 32.123074,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06c6a4a8312daebba1654cc2c61f3fad",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35e05382f61c57b068916c36de0b3df8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机软件",
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "梁先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "鼎星",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7ff455a7e00de2540XN_2dW7Fw~~",
-      "brandName": "鼎星",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725444481200,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鼎星",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鼎星",
+        "certificated": true,
+        "large": null,
+        "name": "梁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725444481200,
+        "brandName": "鼎星",
+        "customerBrandName": "鼎星",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7ff455a7e00de2540XN_2dW7Fw~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "信阳浉河区银珠广场1号楼2802室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e77a5ebc5e58c3d91XN40t-9GFI~",
+        "encryptId": "41fe987813b40e960XB-2Ni_F1o~",
+        "encryptUserId": "f8e8bdf184d1c7cc33d629i8E1Q~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.123074,
+        "location": 101180600,
+        "locationName": "信阳",
+        "longitude": 114.072872,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35e05382f61c57b068916c36de0b3df8",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "负责JAVA类项目的实施和软件编码开发。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "计算机软件",
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06c6a4a8312daebba1654cc2c61f3fad"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "I7RvRRS8dQkP5-61-5l3sSxwCKl_KSPGWHub5dX8Sexw5oNSRqddpP3CigirgIYLdmmj3OIOPfzuo_mOf48ZBsjhSrmeb4hQbnm15EvUhvjo7Xfa",
+    "selfAccess": false,
+    "sessionId": null
 }

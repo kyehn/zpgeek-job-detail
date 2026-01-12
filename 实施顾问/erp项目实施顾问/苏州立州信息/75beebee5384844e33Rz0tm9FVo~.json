@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Yu8fXKNvqdPYa-Y1Z4DCQ9ENP4W_PdQ9qdakf8g7bHZvXhlNQKxYLbcLxsGRpakeOK9K1_EOiKnOZ61FcIBmi3IkY_Nu9uV2GgkzdDHVG5Z-jngozw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "75beebee5384844e33Rz0tm9FVo~",
-      "encryptUserId": "59ae338472adbc3b1nV73dq4EVdU",
-      "invalidStatus": false,
-      "jobName": "erp项目实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "erp实施顾问\n1、一年以上用友、金蝶等erp实施经验\n2、能够独立实施\n3、懂软软件开发财务知识优先录取\n4、吃苦耐劳，有责任心强\n5、欢迎志同道合的朋友一起加入我们！",
-      "encryptAddressId": "ab0144382c83a7e81HRz2di6FFU~",
-      "address": "苏州吴中区苏州大学国家大学科技园(万达广场)18",
-      "longitude": 120.607015,
-      "latitude": 31.253256,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19eb35246c986971011fc7d1db7779a0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6637442be1e954b089f1e773610401b9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "PMP",
-        "ERP",
-        "实施工程师/顾问",
-        "财务相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "苏州立州信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "03908cebdee5542e33J-2N-7EQ~~",
-      "brandName": "苏州立州信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "适合应届毕业生快速成长的一家软件技术开发服务公司",
-      "labels": [],
-      "activeTime": 1725318149402,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州立州信息",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州立州信息",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725318149402,
+        "brandName": "苏州立州信息",
+        "customerBrandName": "苏州立州信息",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "03908cebdee5542e33J-2N-7EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "适合应届毕业生快速成长的一家软件技术开发服务公司",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区苏州大学国家大学科技园(万达广场)18",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ab0144382c83a7e81HRz2di6FFU~",
+        "encryptId": "75beebee5384844e33Rz0tm9FVo~",
+        "encryptUserId": "59ae338472adbc3b1nV73dq4EVdU",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "erp项目实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.253256,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.607015,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6637442be1e954b089f1e773610401b9",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "erp实施顾问\n1、一年以上用友、金蝶等erp实施经验\n2、能够独立实施\n3、懂软软件开发财务知识优先录取\n4、吃苦耐劳，有责任心强\n5、欢迎志同道合的朋友一起加入我们！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "软件实施经验",
+            "PMP",
+            "ERP",
+            "实施工程师/顾问",
+            "财务相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19eb35246c986971011fc7d1db7779a0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Yu8fXKNvqdPYa-Y1Z4DCQ9ENP4W_PdQ9qdakf8g7bHZvXhlNQKxYLbcLxsGRpakeOK9K1_EOiKnOZ61FcIBmi3IkY_Nu9uV2GgkzdDHVG5Z-jngozw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

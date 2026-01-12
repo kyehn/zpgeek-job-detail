@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "y65BxHQxgisLP-j1jd8qCA2Z212cs68ShRvyAwQG0AAS2cLphT69SAmGKQQTkG_NJ0C072DIrMwn-Z2ECj-nInrZxIlJ4FukgrfNo32PsXMcD_c-",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c5dcba8dd2d655ef1Xd-2Nq7EVA~",
-      "encryptUserId": "b84c537c7060c1471H1y2NS7EFQ~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101090600,
-      "locationName": "廊坊",
-      "experienceName": "应届生",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "对开发完成的应用软件系统进行功能测试。",
-      "encryptAddressId": "028f8603cada39db33Z83Ni-EFZYx4i9WfM~",
-      "address": "廊坊安次区世纪阳光大厦公寓楼1612",
-      "longitude": 116.717978,
-      "latitude": 39.494552,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf9bed3198dd3f41f000592938d1eb23366bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfe120699ea29b0efb71c909847183e72d6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "任先生",
-      "title": "软硬件集成部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "廊坊清风科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c54bd48405d553de1Xd83t28Eg~~",
-      "brandName": "廊坊清风科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722534112525,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "廊坊清风科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "廊坊清风科技",
+        "certificated": true,
+        "large": null,
+        "name": "任先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "软硬件集成部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722534112525,
+        "brandName": "廊坊清风科技",
+        "customerBrandName": "廊坊清风科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c54bd48405d553de1Xd83t28Eg~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "廊坊安次区世纪阳光大厦公寓楼1612",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "028f8603cada39db33Z83Ni-EFZYx4i9WfM~",
+        "encryptId": "c5dcba8dd2d655ef1Xd-2Nq7EVA~",
+        "encryptUserId": "b84c537c7060c1471H1y2NS7EFQ~",
+        "experienceName": "应届生",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.494552,
+        "location": 101090600,
+        "locationName": "廊坊",
+        "longitude": 116.717978,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfe120699ea29b0efb71c909847183e72d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "对开发完成的应用软件系统进行功能测试。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf9bed3198dd3f41f000592938d1eb23366bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "y65BxHQxgisLP-j1jd8qCA2Z212cs68ShRvyAwQG0AAS2cLphT69SAmGKQQTkG_NJ0C072DIrMwn-Z2ECj-nInrZxIlJ4FukgrfNo32PsXMcD_c-",
+    "selfAccess": false,
+    "sessionId": null
 }

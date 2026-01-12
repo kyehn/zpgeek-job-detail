@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "scsAQMxL-P2FY-C1odV8OZhQR8tLQ15OZV5OLDdomEsOzPjNqU4K5rF0h0_uHlKJWR3FjVOYS8BsktCKIDrrodnfZwGeOLFl2lScIqVfFRtgq4wZ-oxZ--WBHZMOgBD4y15w_mrJGua1ZmO9i1OTFlNwgK37CA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "81f4d411bb23851c03R92dq0GVtT",
-      "encryptUserId": "7c57c8fc639012360Xx83tm6EVdY",
-      "invalidStatus": false,
-      "jobName": "加油站储备站长",
-      "position": 130405,
-      "positionName": "运营经理/主管",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1. 负责加油站的日常运营管理，确保运营效率和服务质量\n2. 组织实施加油站的营销活动，提升品牌知名度和市场占有率\n3. 监督加油站的安全管理，确保运营环境的稳定与安全\n\n任职要求：\n1. 具备出色的沟通能力和团队协作精神，能够有效管理团队\n2. 具有较强的市场洞察力和创新能力，能够应对市场变化\n3. 注重细节，具备良好的组织和执行能力，能够高效完成任务",
-      "encryptAddressId": "8fe9cf2ccbf0e9071nJ73t6_E1BUxY62V_qe",
-      "address": "杭州上城区龙途达德胜路加油站1",
-      "longitude": 120.195031,
-      "latitude": 30.305555,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfd9d3e2ad739a7178a1029ecf38b8c39a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf4522e9e0e0ea74790e10faf03d1e36566bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bf660fa38999c2293edf71f6134ba7f7076bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bf7f7c0d1fcf39a2d5848a4cc7686b7c496bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运营部门管理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "汤先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "浙江金投能源有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "05029fa9c5b550011nN_2d21GFU~",
-      "brandName": "浙江金投能源有限公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101201,
-      "industryName": "石油/石化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734614580491,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江金投能源有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江金投能源有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "汤先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734614580491,
+        "brandName": "浙江金投能源有限公司",
+        "customerBrandName": "浙江金投能源有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "05029fa9c5b550011nN_2d21GFU~",
+        "focusBrand": false,
+        "industry": 101201,
+        "industryName": "石油/石化",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区龙途达德胜路加油站1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bf7f7c0d1fcf39a2d5848a4cc7686b7c496bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bf660fa38999c2293edf71f6134ba7f7076bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "8fe9cf2ccbf0e9071nJ73t6_E1BUxY62V_qe",
+        "encryptId": "81f4d411bb23851c03R92dq0GVtT",
+        "encryptUserId": "7c57c8fc639012360Xx83tm6EVdY",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "加油站储备站长",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 30.305555,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.195031,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf4522e9e0e0ea74790e10faf03d1e36566bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 130405,
+        "positionName": "运营经理/主管",
+        "postDescription": "岗位职责:\n1. 负责加油站的日常运营管理，确保运营效率和服务质量\n2. 组织实施加油站的营销活动，提升品牌知名度和市场占有率\n3. 监督加油站的安全管理，确保运营环境的稳定与安全\n\n任职要求：\n1. 具备出色的沟通能力和团队协作精神，能够有效管理团队\n2. 具有较强的市场洞察力和创新能力，能够应对市场变化\n3. 注重细节，具备良好的组织和执行能力，能够高效完成任务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "运营部门管理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfd9d3e2ad739a7178a1029ecf38b8c39a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "scsAQMxL-P2FY-C1odV8OZhQR8tLQ15OZV5OLDdomEsOzPjNqU4K5rF0h0_uHlKJWR3FjVOYS8BsktCKIDrrodnfZwGeOLFl2lScIqVfFRtgq4wZ-oxZ--WBHZMOgBD4y15w_mrJGua1ZmO9i1OTFlNwgK37CA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qEs1Lx81MVof_-g1SWnaTAbx6-_ezP_39Uf8cFld6RAfHrqSAwQvCZU6Df73hxMMTbogrG_Poo9v9FiJKA6KxDyCyRfvk60VhHF7b1pGJLIhRnyswuIl",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4df91facf91f29791nZ_2tS5GVNR",
-      "encryptUserId": "7e9dfdc1e998667f0nVy2NS7E1BV",
-      "invalidStatus": false,
-      "jobName": "JAVA开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、全国统招本科及以上学历，计算机相关专业\n2、具有1年以上java软件开发工作经验。精通使用JAVA等编程，掌握Java开源技术框架(Structs,Spring,MVC、springboot、Hibernate、mybatis等)、熟悉各种常用设计模式和J2EE规范。\n3、精通Oracle、Mysql、SQL Server等数据库的基本环境配置、具有数据库方面的开发基础，熟练使用SQL语句；熟悉tomcat、weblogic主流服务器。\n4、 能够承担项目开发及实施工作，并能够按要求高质量地完成工作任务。\n5、能够掌握项目开发工具的使用，按照公司规范要求，编写相关文档；掌握公司开发平台，按设计要求编写模块代码，并进行单元测试。\n6、 有良好的团队合作精神，较好的沟通能力和表达能力；对系统开发设计有很好的把握能力；\n7、富有激情、积极主动、关注细节、学习能力强；有很好的职业规划，有奉献精神和上进心\n8、熟悉activiti工作流等优先",
-      "encryptAddressId": "f38f2645651cc76503Rz2du8GFs~",
-      "address": "长沙岳麓区麓谷企业广场C3栋",
-      "longitude": 112.885566,
-      "latitude": 28.207712,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbf2c4fbf5b96befa419730eb501e7f4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4eed895068351ef00a02ad161a389814",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "MVC开发",
-        "Spring",
-        "Hibernate",
-        "SpringBoot",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "森纳科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d51a5d3bc9d3e0751nB43N68FFE~",
-      "brandName": "森纳科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "主要做政府事业单位，高校，医疗，企业等方面的软件定制开发及销售。",
-      "labels": [
-        "年终奖",
-        "保底工资",
-        "团建聚餐",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1725337039093,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "森纳科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "森纳科技",
+        "certificated": true,
+        "large": null,
+        "name": "何先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725337039093,
+        "brandName": "森纳科技",
+        "customerBrandName": "森纳科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d51a5d3bc9d3e0751nB43N68FFE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "主要做政府事业单位，高校，医疗，企业等方面的软件定制开发及销售。",
+        "labels": [
+            "年终奖",
+            "保底工资",
+            "团建聚餐",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区麓谷企业广场C3栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f38f2645651cc76503Rz2du8GFs~",
+        "encryptId": "4df91facf91f29791nZ_2tS5GVNR",
+        "encryptUserId": "7e9dfdc1e998667f0nVy2NS7E1BV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "JAVA开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.207712,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.885566,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4eed895068351ef00a02ad161a389814",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、全国统招本科及以上学历，计算机相关专业\n2、具有1年以上java软件开发工作经验。精通使用JAVA等编程，掌握Java开源技术框架(Structs,Spring,MVC、springboot、Hibernate、mybatis等)、熟悉各种常用设计模式和J2EE规范。\n3、精通Oracle、Mysql、SQL Server等数据库的基本环境配置、具有数据库方面的开发基础，熟练使用SQL语句；熟悉tomcat、weblogic主流服务器。\n4、 能够承担项目开发及实施工作，并能够按要求高质量地完成工作任务。\n5、能够掌握项目开发工具的使用，按照公司规范要求，编写相关文档；掌握公司开发平台，按设计要求编写模块代码，并进行单元测试。\n6、 有良好的团队合作精神，较好的沟通能力和表达能力；对系统开发设计有很好的把握能力；\n7、富有激情、积极主动、关注细节、学习能力强；有很好的职业规划，有奉献精神和上进心\n8、熟悉activiti工作流等优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "SQL",
+            "MVC开发",
+            "Spring",
+            "Hibernate",
+            "SpringBoot",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbf2c4fbf5b96befa419730eb501e7f4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qEs1Lx81MVof_-g1SWnaTAbx6-_ezP_39Uf8cFld6RAfHrqSAwQvCZU6Df73hxMMTbogrG_Poo9v9FiJKA6KxDyCyRfvk60VhHF7b1pGJLIhRnyswuIl",
+    "selfAccess": false,
+    "sessionId": null
 }

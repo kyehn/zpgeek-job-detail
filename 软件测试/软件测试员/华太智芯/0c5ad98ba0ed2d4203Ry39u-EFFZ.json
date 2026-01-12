@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qPfh-fMKQ5G6Q-M1j4fsAGHCQtx5Qn1H098kv8N-2loBsQDEaEgpxP-oNhSDspmQIyyJOGgJeOuw2FciyJ9DOlOxd-D-7MBPu-vEF4ycQzuU_qrpndagb9nQzJmpkECvn3_gHfufvtrK_C2NJc7uX6gWyPMy",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0c5ad98ba0ed2d4203Ry39u-EFFZ",
-      "encryptUserId": "af7f32b251bcfa2603xz3928GVc~",
-      "invalidStatus": false,
-      "jobName": "软件测试员",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、一年左右经验 \n2、外派小天才电话手表，做软件测试",
-      "encryptAddressId": "c3903f00cbaa68ca1nJ53dm4EFBQxYS8Uvyd",
-      "address": "东莞广东小天才科技有限公司长安镇霄边社区东门中路",
-      "longitude": 113.814407,
-      "latitude": 22.811385,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230418/48ba41acc9cef1bf40eec4ba2b07b6676ede0040dfbe2fbb6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230714/48ba41acc9cef1bfcb9783ff9ad55ec3c74e770cb331c7c86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf93f14154e93997d34a8729cb1a4b5ed36bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf08ee8421620cfa42ffced72cad7dedf96bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "沈女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230608/607f1f3d68754fd001b20b0d9bb1436f1a0527f1e81ce230e5515b9819512531268a1ae9429_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "华太智芯",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e502a2baf0bbc3c11XF50t64E1Y~",
-      "brandName": "华太智芯",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735295421060,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华太智芯",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华太智芯",
+        "certificated": true,
+        "large": null,
+        "name": "沈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230608/607f1f3d68754fd001b20b0d9bb1436f1a0527f1e81ce230e5515b9819512531268a1ae9429_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1735295421060,
+        "brandName": "华太智芯",
+        "customerBrandName": "华太智芯",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e502a2baf0bbc3c11XF50t64E1Y~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞广东小天才科技有限公司长安镇霄边社区东门中路",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf08ee8421620cfa42ffced72cad7dedf96bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf93f14154e93997d34a8729cb1a4b5ed36bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "c3903f00cbaa68ca1nJ53dm4EFBQxYS8Uvyd",
+        "encryptId": "0c5ad98ba0ed2d4203Ry39u-EFFZ",
+        "encryptUserId": "af7f32b251bcfa2603xz3928GVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.811385,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 113.814407,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230714/48ba41acc9cef1bfcb9783ff9ad55ec3c74e770cb331c7c86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "1、一年左右经验 \n2、外派小天才电话手表，做软件测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230418/48ba41acc9cef1bf40eec4ba2b07b6676ede0040dfbe2fbb6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qPfh-fMKQ5G6Q-M1j4fsAGHCQtx5Qn1H098kv8N-2loBsQDEaEgpxP-oNhSDspmQIyyJOGgJeOuw2FciyJ9DOlOxd-D-7MBPu-vEF4ycQzuU_qrpndagb9nQzJmpkECvn3_gHfufvtrK_C2NJc7uX6gWyPMy",
+    "selfAccess": false,
+    "sessionId": null
 }

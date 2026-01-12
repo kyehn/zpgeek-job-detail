@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mPe0AEKg3q_2w-w1LN00BHDQVeKaNLN_PteqwQLDr5hLwz-nooo45SvGSDd2QYbX9zZ8Li3KsUXYqNnAQL2VaSWyXw760ZRkt35IQ0TEMCvpA4QG4pg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "40d82a2a535966001HF82968E1BZ",
-      "encryptUserId": "0f3e4161b52a1ef70Hd70925GFQ~",
-      "invalidStatus": false,
-      "jobName": "系统运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、 负责系统日常维护巡检，包括数据库及服务器存储空间日常检查空间清理。\n2、 复杂系统部署、调试，快速定位排查问题；\n3、善于沟通，与客户单独沟通具体需求，并提出解决方案；\n\n岗位要求：\n1、熟悉linux系统，熟练编写shell脚本，了解tcp/ip、http协议，可以排查网络等相关问题；\n2、熟练使用nginx、tomcat、apisix、keepalive等中间件部署及负载均衡，日志定位及排查能力\n3、熟练掌握mysql、redis、minio、postgresql等中间件的操作、部署及优化维护；\n4、有较强的沟通技巧；",
-      "encryptAddressId": "7c4cd259f1172acb33Z929y1ElVRw4u3Vfg~",
-      "address": "深圳福田区国通大厦1",
-      "longitude": 114.042793,
-      "latitude": 22.527096,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab765b9e4cd1bafc9ee61acd1bfaf4e0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebe94aa0b848666571c3b1c98d8f1129",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曾女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230620/607f1f3d68754fd07d8f9bbf32952a597cbc2f19ad3bb588333df8cbf7c82b5d24ffa643295_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "匠芯智创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "07319e7eb09cd4d21HB62tq4GVM~",
-      "brandName": "匠芯智创",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725333422318,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "匠芯智创",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "匠芯智创",
+        "certificated": true,
+        "large": null,
+        "name": "曾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230620/607f1f3d68754fd07d8f9bbf32952a597cbc2f19ad3bb588333df8cbf7c82b5d24ffa643295_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725333422318,
+        "brandName": "匠芯智创",
+        "customerBrandName": "匠芯智创",
+        "customerBrandStageName": "",
+        "encryptBrandId": "07319e7eb09cd4d21HB62tq4GVM~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳福田区国通大厦1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7c4cd259f1172acb33Z929y1ElVRw4u3Vfg~",
+        "encryptId": "40d82a2a535966001HF82968E1BZ",
+        "encryptUserId": "0f3e4161b52a1ef70Hd70925GFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.527096,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.042793,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebe94aa0b848666571c3b1c98d8f1129",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作职责：\n1、 负责系统日常维护巡检，包括数据库及服务器存储空间日常检查空间清理。\n2、 复杂系统部署、调试，快速定位排查问题；\n3、善于沟通，与客户单独沟通具体需求，并提出解决方案；\n\n岗位要求：\n1、熟悉linux系统，熟练编写shell脚本，了解tcp/ip、http协议，可以排查网络等相关问题；\n2、熟练使用nginx、tomcat、apisix、keepalive等中间件部署及负载均衡，日志定位及排查能力\n3、熟练掌握mysql、redis、minio、postgresql等中间件的操作、部署及优化维护；\n4、有较强的沟通技巧；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab765b9e4cd1bafc9ee61acd1bfaf4e0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mPe0AEKg3q_2w-w1LN00BHDQVeKaNLN_PteqwQLDr5hLwz-nooo45SvGSDd2QYbX9zZ8Li3KsUXYqNnAQL2VaSWyXw760ZRkt35IQ0TEMCvpA4QG4pg~",
+    "selfAccess": false,
+    "sessionId": null
 }

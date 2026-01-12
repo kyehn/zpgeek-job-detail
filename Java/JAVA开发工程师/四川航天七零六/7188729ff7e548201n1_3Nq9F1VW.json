@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SIETCrVadYUry-411u7-2FnwUFCvkGQMhNU-GNE9ezzo5L0KhOMcEOotqextnb5G-ApQzPldpC8VePgQ-0Vm-z2iuEBBpolHzDbS2yDhsPOL3QLFuyeT",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7188729ff7e548201n1_3Nq9F1VW",
-      "encryptUserId": "2522279ab71925fa1nR-3N2-ElVQ",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "扎实的java编程基础，精通spring springboot、springcloud等技术",
-      "encryptAddressId": "482b3af8c079cdd61HF52dq1FlI~",
-      "address": "成都金牛区保利·国宾首府对面航天科工二院成都分院",
-      "longitude": 104.001393,
-      "latitude": 30.716376,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09ff87309e5d342b3d4dd3bfb001033d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35ba84560af4e3f3b704969099873c56",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Spring",
-        "SpringBoot",
-        "SpringCloud"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "软件工程师",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200423/97014d162c507977df2bc5c0b32ab281206b16615e58d8f42ce05cf7d6f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "四川航天七零六",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bad3ff73026107851nV72ti1GVQ~",
-      "brandName": "四川航天七零六",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "四川航天七零六信息科技有限公司作为中国航天科工第二研究院落户成都的第一家法人实体单位，根据集团、二院领导要求，公司将发挥排头兵和先遣队作用，切实做好中国航天科工二院七〇六所产品、技术、人才和成果转化的落地，凝聚生态、引领发展、创新模式、做好样板。\n四川航天七零六信息科技有限公司将主要围绕党政军和行业的信创业务，开展解决方案、产品营销、产品研发、智慧城市、软硬件服务与运维保障、售后服务、测评认证等业务。发挥信创产业链条牵引优势，合力打造西部地区航天信创产业基地。逐步构建产业上下游严密对接、产学研用一体化布局、各厂商合作共赢的产业生态。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "带薪年假",
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1721574917753,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "四川航天七零六",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "四川航天七零六",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200423/97014d162c507977df2bc5c0b32ab281206b16615e58d8f42ce05cf7d6f_b.jpg",
+        "title": "软件工程师"
+    },
+    "brandComInfo": {
+        "activeTime": 1721574917753,
+        "brandName": "四川航天七零六",
+        "customerBrandName": "四川航天七零六",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "bad3ff73026107851nV72ti1GVQ~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "四川航天七零六信息科技有限公司作为中国航天科工第二研究院落户成都的第一家法人实体单位，根据集团、二院领导要求，公司将发挥排头兵和先遣队作用，切实做好中国航天科工二院七〇六所产品、技术、人才和成果转化的落地，凝聚生态、引领发展、创新模式、做好样板。\n四川航天七零六信息科技有限公司将主要围绕党政军和行业的信创业务，开展解决方案、产品营销、产品研发、智慧城市、软硬件服务与运维保障、售后服务、测评认证等业务。发挥信创产业链条牵引优势，合力打造西部地区航天信创产业基地。逐步构建产业上下游严密对接、产学研用一体化布局、各厂商合作共赢的产业生态。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都金牛区保利·国宾首府对面航天科工二院成都分院",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "482b3af8c079cdd61HF52dq1FlI~",
+        "encryptId": "7188729ff7e548201n1_3Nq9F1VW",
+        "encryptUserId": "2522279ab71925fa1nR-3N2-ElVQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.716376,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.001393,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35ba84560af4e3f3b704969099873c56",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "扎实的java编程基础，精通spring springboot、springcloud等技术",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K·13薪",
+        "showSkills": [
+            "Spring",
+            "SpringBoot",
+            "SpringCloud"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09ff87309e5d342b3d4dd3bfb001033d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SIETCrVadYUry-411u7-2FnwUFCvkGQMhNU-GNE9ezzo5L0KhOMcEOotqextnb5G-ApQzPldpC8VePgQ-0Vm-z2iuEBBpolHzDbS2yDhsPOL3QLFuyeT",
+    "selfAccess": false,
+    "sessionId": null
 }

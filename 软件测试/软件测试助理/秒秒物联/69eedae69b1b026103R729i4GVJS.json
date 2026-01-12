@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "MDOhJSknGvkwa-w1iA50u-1vc0ooi2zCXiACr8KhmUihnB8XNdY4kCz4bAOv12aRh86V_TSiZhR3ScX1IpQOizdErsRwybC42QMlv9sqH5le0cXsR2HwwX9daH11GQZlwAIb6K4NJrzqwE8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "69eedae69b1b026103R729i4GVJS",
-      "encryptUserId": "8250c931291a90a31nV70tm7GFdX",
-      "invalidStatus": false,
-      "jobName": "软件测试助理",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n有美工基础\n有逻辑思维清晰\n有项目推进能力\n有软件行业经验",
-      "encryptAddressId": "6b51eaf85ca8f1c133x_2Ny4ElE~",
-      "address": "深圳宝安区源兴商务大厦1208",
-      "longitude": 113.817533,
-      "latitude": 22.706714,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/30ab503babd95a6c61f6a6d6551da44a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b22f460c431e64691a621bd0105a0ae",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "人事文员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200605/4a1dae9ca546f4d7bc06a352765fcc759b4a3ca70c79297b3c385cea60d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "秒秒物联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "95bb932bc61b8c391XR_2tW8FFI~",
-      "brandName": "秒秒物联",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "深圳市秒秒物联科技有限公司（下称：秒秒物联）\n是一家专注于人物互通、物物互通、心想物动的物联网\n平台公司，注册资金300万元，落户于深圳宝安区，成立至今，在公司骨干成员的带领下，专注致力于物联网应用落地的科技民营企业，拥有多项软硬件核心技术。秒秒物联围绕“技术便民，价值分享”的企业价值观，贯彻落实“不用雇人，轻松创业”的企业使命，为实现“全球资产，一手（机）掌控”的企业愿景，为公司、行业及社会发展不断努力、提升、突破。",
-      "labels": [
-        "社保",
-        "节日福利",
-        "全勤奖",
-        "工龄奖",
-        "股票期权",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖"
-      ],
-      "activeTime": 1732174843195,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "秒秒物联",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "秒秒物联",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200605/4a1dae9ca546f4d7bc06a352765fcc759b4a3ca70c79297b3c385cea60d_b.jpg",
+        "title": "人事文员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732174843195,
+        "brandName": "秒秒物联",
+        "customerBrandName": "秒秒物联",
+        "customerBrandStageName": "",
+        "encryptBrandId": "95bb932bc61b8c391XR_2tW8FFI~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "深圳市秒秒物联科技有限公司（下称：秒秒物联）\n是一家专注于人物互通、物物互通、心想物动的物联网\n平台公司，注册资金300万元，落户于深圳宝安区，成立至今，在公司骨干成员的带领下，专注致力于物联网应用落地的科技民营企业，拥有多项软硬件核心技术。秒秒物联围绕“技术便民，价值分享”的企业价值观，贯彻落实“不用雇人，轻松创业”的企业使命，为实现“全球资产，一手（机）掌控”的企业愿景，为公司、行业及社会发展不断努力、提升、突破。",
+        "labels": [
+            "社保",
+            "节日福利",
+            "全勤奖",
+            "工龄奖",
+            "股票期权",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区源兴商务大厦1208",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6b51eaf85ca8f1c133x_2Ny4ElE~",
+        "encryptId": "69eedae69b1b026103R729i4GVJS",
+        "encryptUserId": "8250c931291a90a31nV70tm7GFdX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.706714,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.817533,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b22f460c431e64691a621bd0105a0ae",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "任职要求：\n有美工基础\n有逻辑思维清晰\n有项目推进能力\n有软件行业经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/30ab503babd95a6c61f6a6d6551da44a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "MDOhJSknGvkwa-w1iA50u-1vc0ooi2zCXiACr8KhmUihnB8XNdY4kCz4bAOv12aRh86V_TSiZhR3ScX1IpQOizdErsRwybC42QMlv9sqH5le0cXsR2HwwX9daH11GQZlwAIb6K4NJrzqwE8~",
+    "selfAccess": false,
+    "sessionId": null
 }

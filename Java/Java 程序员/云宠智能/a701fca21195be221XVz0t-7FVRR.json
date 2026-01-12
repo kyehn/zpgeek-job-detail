@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ezH05RqdJ95tZ-x1o5r_i0tVJxwJA_LBNxGXt-YdoafcnlPTj8fb5TQXqipIffv2zvLEv1MatJOrTe0RviPRy1PT-3HPBJIH50v-KwfjJ6UvRyWiDQ4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a701fca21195be221XVz0t-7FVRR",
-      "encryptUserId": "2335d58252622ca60XR52Nm1FFM~",
-      "invalidStatus": false,
-      "jobName": "Java 程序员",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101121700,
-      "locationName": "聊城",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "需要熟悉Apache、NginX、Tomcat、WildFly、Weblogic等Web服务器和应用服务器的使用，熟悉面向对象的设计原则，熟悉基于JSP和Servlet的Java Web开发，熟练使用JSTL和EL编写无脚本动态页面，熟练使用Java语言进行面向对象程序设计等等。",
-      "encryptAddressId": "4a5fb77730288ee60nd-2N2_E1o~",
-      "address": "聊城东昌府区聊城产业技术研究院08-1",
-      "longitude": 116.063052,
-      "latitude": 36.447303,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc2123f37f808d6f734ce225877b5b0b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3f1090c5f9ef37a2c9cec0c24eed70b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "服务器配置",
-        "软件工程师",
-        "后端开发",
-        "Linux",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "段先生",
-      "title": "运营经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190416/f028259ca1f7b5410467fc331480c84acb21bc56dd5f8f1315af0f6c81c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "云宠智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bd5e8339c7083bff1nV80t27EFI~",
-      "brandName": "云宠智能",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725331087000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云宠智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "云宠智能",
+        "certificated": true,
+        "large": null,
+        "name": "段先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190416/f028259ca1f7b5410467fc331480c84acb21bc56dd5f8f1315af0f6c81c_b.jpg",
+        "title": "运营经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725331087000,
+        "brandName": "云宠智能",
+        "customerBrandName": "云宠智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bd5e8339c7083bff1nV80t27EFI~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "聊城东昌府区聊城产业技术研究院08-1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4a5fb77730288ee60nd-2N2_E1o~",
+        "encryptId": "a701fca21195be221XVz0t-7FVRR",
+        "encryptUserId": "2335d58252622ca60XR52Nm1FFM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java 程序员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.447303,
+        "location": 101121700,
+        "locationName": "聊城",
+        "longitude": 116.063052,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3f1090c5f9ef37a2c9cec0c24eed70b",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "需要熟悉Apache、NginX、Tomcat、WildFly、Weblogic等Web服务器和应用服务器的使用，熟悉面向对象的设计原则，熟悉基于JSP和Servlet的Java Web开发，熟练使用JSTL和EL编写无脚本动态页面，熟练使用Java语言进行面向对象程序设计等等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "服务器配置",
+            "软件工程师",
+            "后端开发",
+            "Linux",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc2123f37f808d6f734ce225877b5b0b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ezH05RqdJ95tZ-x1o5r_i0tVJxwJA_LBNxGXt-YdoafcnlPTj8fb5TQXqipIffv2zvLEv1MatJOrTe0RviPRy1PT-3HPBJIH50v-KwfjJ6UvRyWiDQ4~",
+    "selfAccess": false,
+    "sessionId": null
 }

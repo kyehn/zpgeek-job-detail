@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "dJ7UfoAEJtIn7-C1ZGvF6tvxFaaCpxqDHjtepvxpG0rR1RY9Q_K6NoM4yeXGMByn_-HNpQmjuuR1ZWcCwD0rKo0QE-TDjqzboBiZO_ZIAw7mH5TsSLlopYZEgt2qleWsFSc30fE0yDK0K1qiEwisysso76en",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f2ccc1022905ef4c03R50ty5FldT",
-      "encryptUserId": "336147d55c794bd903B_0t29E1Y~",
-      "invalidStatus": false,
-      "jobName": "it服务工程师",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责IT设备的软硬件安装，调试，搬迁，巡检，技术咨询，升级，培训等工作；\n2、负责个人任务的工单及工作报告的撰写及提交；\n3、根据业务项目需要，参加相关新业务产品技术学习培训，对内部技术人员/外部合作伙伴进行内部培训指导和技术支持；\n4、服从客户服务方面的其他技术需求。\n\n任职资格：\n1、机械、电子、计算机应用类等相关专业，专科及以上学历，具有相同工作经验优先；\n2、具有客户服务经验机电设备或计算机维修工作等相关经验；\n3、形象佳、服务意识强，具有一定的书面表达能力和良好的口头表达能力，具有较强的沟通合作能力；\n4、有电脑、打印机、网络设备相关维修经验优先录用。",
-      "encryptAddressId": "9e01de7c274c73671nF82d6_FlJSy4y8Uvqc",
-      "address": "杭州太平人寿保险有限公司浙江分公司1幢",
-      "longitude": 120.206991,
-      "latitude": 30.241302,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231009/48ba41acc9cef1bf39de68971def18e1edcca7f49335ed4e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231009/48ba41acc9cef1bfc3ce3652890556c70d7fc36b20520f616bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "企业内部IT技术支持",
-        "IT技术支持经验",
-        "计算机/通信相关专业",
-        "打印机/复印机维修经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "许先生",
-      "title": "综合管理部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广电运通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e30a8fd893b82ad31HR92NW1Elc~",
-      "brandName": "广电运通",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733455959293,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广电运通",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广电运通",
+        "certificated": true,
+        "large": null,
+        "name": "许先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "综合管理部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1733455959293,
+        "brandName": "广电运通",
+        "customerBrandName": "广电运通",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e30a8fd893b82ad31HR92NW1Elc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州太平人寿保险有限公司浙江分公司1幢",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "9e01de7c274c73671nF82d6_FlJSy4y8Uvqc",
+        "encryptId": "f2ccc1022905ef4c03R50ty5FldT",
+        "encryptUserId": "336147d55c794bd903B_0t29E1Y~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "it服务工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.241302,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.206991,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231009/48ba41acc9cef1bfc3ce3652890556c70d7fc36b20520f616bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "岗位职责：\n1、负责IT设备的软硬件安装，调试，搬迁，巡检，技术咨询，升级，培训等工作；\n2、负责个人任务的工单及工作报告的撰写及提交；\n3、根据业务项目需要，参加相关新业务产品技术学习培训，对内部技术人员/外部合作伙伴进行内部培训指导和技术支持；\n4、服从客户服务方面的其他技术需求。\n\n任职资格：\n1、机械、电子、计算机应用类等相关专业，专科及以上学历，具有相同工作经验优先；\n2、具有客户服务经验机电设备或计算机维修工作等相关经验；\n3、形象佳、服务意识强，具有一定的书面表达能力和良好的口头表达能力，具有较强的沟通合作能力；\n4、有电脑、打印机、网络设备相关维修经验优先录用。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "企业内部IT技术支持",
+            "IT技术支持经验",
+            "计算机/通信相关专业",
+            "打印机/复印机维修经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231009/48ba41acc9cef1bf39de68971def18e1edcca7f49335ed4e6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "dJ7UfoAEJtIn7-C1ZGvF6tvxFaaCpxqDHjtepvxpG0rR1RY9Q_K6NoM4yeXGMByn_-HNpQmjuuR1ZWcCwD0rKo0QE-TDjqzboBiZO_ZIAw7mH5TsSLlopYZEgt2qleWsFSc30fE0yDK0K1qiEwisysso76en",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JT-vMrT9bSwY7-d1NJpoO49C8Ng7vo3Ui-Fw7aTtH8koWlk5-9JGHzLV3Xouxo1DFs1S1hZCsnVm2d96Yhur5kOS25Pqk4UBIpLMlrr7bYwJL6JBgWxi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f9088b5a0b5d18d21XV60tu4EVdW",
-      "encryptUserId": "9f61bc9c853c80ff1nZ429u7FlpY",
-      "invalidStatus": false,
-      "jobName": "Linux C初级软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "初级C语言研发工程师：\n岗位职责：\n1、负责公司产品软件的编码和维护等工作。\n2、进行需求分析、方案设计、代码编写、单元测试等工作。\n3、编写技术文档，并对有关人员进行培训。\n4、协助测试/技术支持人员定位问题并解决。\n5、完成部门安排的其他相关研发工作。\n\n任职要求：\n1、计算机、通信等相关专业，本科及以上学历。\n2、熟悉c语言编程，或者熟悉.net、python、java语言，并愿意转C语言开发。\n3、富有团队精神，有责任心和上进心。\n4、喜欢钻研新技术。\n5、欢迎实习。",
-      "encryptAddressId": "57fa999506d6b5181Hd82t60FlY~",
-      "address": "武汉江夏区光谷科技港5栋",
-      "longitude": 114.399774,
-      "latitude": 30.456156,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9a8061aa37583837e7e32f626e41321",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13026bb34b05045e1feb9e89beaf9bba",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux",
-        "软件工程师",
-        "网络协议",
-        "C语言",
-        "C#",
-        "多线程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "武汉博易讯信息科...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e5db1551ff8ef1ed1nV72di0F1Q~",
-      "brandName": "武汉博易讯信息科...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725380354295,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉博易讯信息科...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉博易讯信息科...",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725380354295,
+        "brandName": "武汉博易讯信息科...",
+        "customerBrandName": "武汉博易讯信息科...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e5db1551ff8ef1ed1nV72di0F1Q~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区光谷科技港5栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "57fa999506d6b5181Hd82t60FlY~",
+        "encryptId": "f9088b5a0b5d18d21XV60tu4EVdW",
+        "encryptUserId": "9f61bc9c853c80ff1nZ429u7FlpY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Linux C初级软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.456156,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.399774,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13026bb34b05045e1feb9e89beaf9bba",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "初级C语言研发工程师：\n岗位职责：\n1、负责公司产品软件的编码和维护等工作。\n2、进行需求分析、方案设计、代码编写、单元测试等工作。\n3、编写技术文档，并对有关人员进行培训。\n4、协助测试/技术支持人员定位问题并解决。\n5、完成部门安排的其他相关研发工作。\n\n任职要求：\n1、计算机、通信等相关专业，本科及以上学历。\n2、熟悉c语言编程，或者熟悉.net、python、java语言，并愿意转C语言开发。\n3、富有团队精神，有责任心和上进心。\n4、喜欢钻研新技术。\n5、欢迎实习。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "Linux",
+            "软件工程师",
+            "网络协议",
+            "C语言",
+            "C#",
+            "多线程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9a8061aa37583837e7e32f626e41321"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JT-vMrT9bSwY7-d1NJpoO49C8Ng7vo3Ui-Fw7aTtH8koWlk5-9JGHzLV3Xouxo1DFs1S1hZCsnVm2d96Yhur5kOS25Pqk4UBIpLMlrr7bYwJL6JBgWxi",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OkpCYV0qWNOXL-m1ztCigqsdLvnJfikAjlW7ramMBfHSM1VPRwNurzIPjPnQPX5nn08ZbocPw70qPrvvessC_WyettR9d9z1o3-CXf18GK9mOoiD1E6tdFTJJjvQWYgr0uVGrX7Zeppr7A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8780d1b6b49290341nV42NS9ElpS",
-      "encryptUserId": "8c525e9d84bad86d0nR43Nm9FVdV",
-      "invalidStatus": false,
-      "jobName": "文档工程师",
-      "position": 100410,
-      "positionName": "技术文档工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "熟练掌握office，制作文档",
-      "encryptAddressId": "052cc1bb446d923d1HNy0tm8E1s~",
-      "address": "北京东城区北京apmT2-833",
-      "longitude": 116.411923,
-      "latitude": 39.914339,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6fd1ec2997addf0ca4311d74810d39f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/648d66e71c56168ba7e5969453c85d84",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "项目助理",
-        "售后支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "运营总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201125/b3cb59dac5b1174ea098f1574f9a5794227435f173fa0cab0bbb9f7fe83_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "Actix",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "82365d091c5558e61nJ52Ny0Fw~~",
-      "brandName": "Actix",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725604975467,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "Actix",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "Actix",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201125/b3cb59dac5b1174ea098f1574f9a5794227435f173fa0cab0bbb9f7fe83_b.jpg",
+        "title": "运营总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725604975467,
+        "brandName": "Actix",
+        "customerBrandName": "Actix",
+        "customerBrandStageName": "",
+        "encryptBrandId": "82365d091c5558e61nJ52Ny0Fw~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京东城区北京apmT2-833",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "052cc1bb446d923d1HNy0tm8E1s~",
+        "encryptId": "8780d1b6b49290341nV42NS9ElpS",
+        "encryptUserId": "8c525e9d84bad86d0nR43Nm9FVdV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "文档工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.914339,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.411923,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/648d66e71c56168ba7e5969453c85d84",
+        "position": 100410,
+        "positionName": "技术文档工程师",
+        "postDescription": "熟练掌握office，制作文档",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "项目助理",
+            "售后支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6fd1ec2997addf0ca4311d74810d39f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OkpCYV0qWNOXL-m1ztCigqsdLvnJfikAjlW7ramMBfHSM1VPRwNurzIPjPnQPX5nn08ZbocPw70qPrvvessC_WyettR9d9z1o3-CXf18GK9mOoiD1E6tdFTJJjvQWYgr0uVGrX7Zeppr7A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

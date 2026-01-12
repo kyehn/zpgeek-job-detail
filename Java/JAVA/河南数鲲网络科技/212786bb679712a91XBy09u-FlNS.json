@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "5RnyhmtScEilS-91aPgT327XrVdJ8uT_muLMRoe9e6cFcxTr4R8D7MPHaSsw9BlBVcOBfuILjclpChfQKGzh5sCMOHXfopiOiuGezJmDLyePy16a0hcb",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "212786bb679712a91XBy09u-FlNS",
-      "encryptUserId": "0f4807d8893b20600nJ42920FlVU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101181100,
-      "locationName": "焦作",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司相关产品JAVA后台系统的设计与开发",
-      "encryptAddressId": "411d07eaafe398df0HV-3Nm8F1Q~",
-      "address": "焦作山阳区河南理工大学南校区学海餐厅",
-      "longitude": 113.266949,
-      "latitude": 35.188365,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f8b14c57bb00cd414fe0004f0f2c105",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae991c195d5fc2e7f39529c083629ab2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java开发经验",
-        "Java",
-        "C/C++",
-        "大数据处理经验",
-        "中大型项目架构设计经验",
-        "后端工程师",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220928/607f1f3d68754fd0ddfb18f8e4bddd82951e8b59f0c6f7f68ba25d62ed546f786ca8dc0e006_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "河南数鲲网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2aa745a0f15595631Xd40929FlA~",
-      "brandName": "河南数鲲网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722731371222,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河南数鲲网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "河南数鲲网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220928/607f1f3d68754fd0ddfb18f8e4bddd82951e8b59f0c6f7f68ba25d62ed546f786ca8dc0e006_b.jpg",
+        "title": "行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722731371222,
+        "brandName": "河南数鲲网络科技",
+        "customerBrandName": "河南数鲲网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2aa745a0f15595631Xd40929FlA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "焦作山阳区河南理工大学南校区学海餐厅",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "411d07eaafe398df0HV-3Nm8F1Q~",
+        "encryptId": "212786bb679712a91XBy09u-FlNS",
+        "encryptUserId": "0f4807d8893b20600nJ42920FlVU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.188365,
+        "location": 101181100,
+        "locationName": "焦作",
+        "longitude": 113.266949,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae991c195d5fc2e7f39529c083629ab2",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "负责公司相关产品JAVA后台系统的设计与开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Java开发经验",
+            "Java",
+            "C/C++",
+            "大数据处理经验",
+            "中大型项目架构设计经验",
+            "后端工程师",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f8b14c57bb00cd414fe0004f0f2c105"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "5RnyhmtScEilS-91aPgT327XrVdJ8uT_muLMRoe9e6cFcxTr4R8D7MPHaSsw9BlBVcOBfuILjclpChfQKGzh5sCMOHXfopiOiuGezJmDLyePy16a0hcb",
+    "selfAccess": false,
+    "sessionId": null
 }

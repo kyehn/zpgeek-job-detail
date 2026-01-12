@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3ZTEdyin8WFXW-x1jS_VMEXh7sF5Wd_EZCwLWetyV5snPKtdelBOKOd_X3weXfFY-JEV7CfJMI6J63gJfiV_5yEZtP73evyRFZ5M36PUDm7kiXjA2w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "91767ffaf3cc24501HF50tq-FlVQ",
-      "encryptUserId": "5b33e6a5ecf96d7d1HRy2t-5GFI~",
-      "invalidStatus": false,
-      "jobName": "软件/测试管培生（南京浦口）",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "工作职责\n1、 负责前端编译器开发；\n2、 负责编译器功能测试、单元测试。\n工作要求\n1、 本科及以上学历，计算机相关专业；\n2、 熟悉编译原理基础知识；\n3、 精通linux操作系统；\n4、 熟悉掌握c/c++、java语言等；\n5、 有一定项目经验者优先；\n6、熟悉PLC编程，了解IEC61131-3编程语言、PLCopen规范者优先。",
-      "encryptAddressId": "f3264afaf00465c60Hdy2du0FldSwoW3V_g~",
-      "address": "南京浦口区南京德克威尔自动化有限公司5楼",
-      "longitude": 118.563425,
-      "latitude": 31.975699,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230508/48ba41acc9cef1bf662ab570327bee4011af5d2434f1e90c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf573d1fbf8092cfc24e6f35eba134700b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "Java",
-        "Python",
-        "C"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "阮女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240620/607f1f3d68754fd036eeeffc05afe0722c4f0e4f003d238ec28d670a9602a2081a6ae4e37699bee_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "德克威尔",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf88a67c528ef6ef1X1-2tm7Fw~~",
-      "brandName": "德克威尔",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221128/7bf6f160950405e977c2b42a5d1337a931e1c520d7c07ac9c617a473ed104ccd8600946bcc5ed409.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "南京德克威尔自动化有限公司成立于2016年，是一家集技术研发、生产和销售及服务为一体的国家高新技术企业。公司致力于提供以I/O模块为核心的工业总线解决方案。作为中国领先的自动化服务提供商，德克威尔自动化产品广泛应用于3C、新能源、物流、食品、医药、汽车、环保、教仪、轨道交通、机床、冶金、化工等行业。",
-      "labels": [
-        "免费停车",
-        "五险一金",
-        "意外险",
-        "年终奖",
-        "法定节假日三薪",
-        "带薪年假",
-        "零食下午茶",
-        "团建聚餐",
-        "免费班车",
-        "节日福利",
-        "生日福利"
-      ],
-      "activeTime": 1725009888502,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "德克威尔",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "德克威尔",
+        "certificated": true,
+        "large": null,
+        "name": "阮女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240620/607f1f3d68754fd036eeeffc05afe0722c4f0e4f003d238ec28d670a9602a2081a6ae4e37699bee_b.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1725009888502,
+        "brandName": "德克威尔",
+        "customerBrandName": "德克威尔",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "cf88a67c528ef6ef1X1-2tm7Fw~~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "南京德克威尔自动化有限公司成立于2016年，是一家集技术研发、生产和销售及服务为一体的国家高新技术企业。公司致力于提供以I/O模块为核心的工业总线解决方案。作为中国领先的自动化服务提供商，德克威尔自动化产品广泛应用于3C、新能源、物流、食品、医药、汽车、环保、教仪、轨道交通、机床、冶金、化工等行业。",
+        "labels": [
+            "免费停车",
+            "五险一金",
+            "意外险",
+            "年终奖",
+            "法定节假日三薪",
+            "带薪年假",
+            "零食下午茶",
+            "团建聚餐",
+            "免费班车",
+            "节日福利",
+            "生日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221128/7bf6f160950405e977c2b42a5d1337a931e1c520d7c07ac9c617a473ed104ccd8600946bcc5ed409.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区南京德克威尔自动化有限公司5楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f3264afaf00465c60Hdy2du0FldSwoW3V_g~",
+        "encryptId": "91767ffaf3cc24501HF50tq-FlVQ",
+        "encryptUserId": "5b33e6a5ecf96d7d1HRy2t-5GFI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件/测试管培生（南京浦口）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.975699,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.563425,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf573d1fbf8092cfc24e6f35eba134700b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "工作职责\n1、 负责前端编译器开发；\n2、 负责编译器功能测试、单元测试。\n工作要求\n1、 本科及以上学历，计算机相关专业；\n2、 熟悉编译原理基础知识；\n3、 精通linux操作系统；\n4、 熟悉掌握c/c++、java语言等；\n5、 有一定项目经验者优先；\n6、熟悉PLC编程，了解IEC61131-3编程语言、PLCopen规范者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K·14薪",
+        "showSkills": [
+            "C++",
+            "Java",
+            "Python",
+            "C"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230508/48ba41acc9cef1bf662ab570327bee4011af5d2434f1e90c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3ZTEdyin8WFXW-x1jS_VMEXh7sF5Wd_EZCwLWetyV5snPKtdelBOKOd_X3weXfFY-JEV7CfJMI6J63gJfiV_5yEZtP73evyRFZ5M36PUDm7kiXjA2w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

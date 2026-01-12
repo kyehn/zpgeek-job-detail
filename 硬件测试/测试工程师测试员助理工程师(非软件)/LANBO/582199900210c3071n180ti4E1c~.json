@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0rMiJVvZwHCW5-m1afF499GV2R2AIYHPvWoT2RvPqCu3n-FIKuDYzIqvM9MEFqZnKLBF3hG9yQjaRt04TedViln861SPYx3FlMAdOVPww9f_g0XbHAJePYb0NLPMTig~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "582199900210c3071n180ti4E1c~",
-      "encryptUserId": "4b7632dc4b1ec3991HNz3tm8EFI~",
-      "invalidStatus": false,
-      "jobName": "测试工程师/测试员/助理工程师(非软件)",
-      "position": 100308,
-      "positionName": "硬件测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "学历不限",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\r\n 1、配合项目研发工作进行方案设计及测试；\r\n 2、为产品改进提供方案及依据；\r\n 3、针对产品做功能、效果、质量等全项测试。\r\n任职要求：\r\n 1、电子、电气化、机电一体化、仪器仪表等相关专业，专科以上学历；\r\n 2、具备创新、钻研的意识及思维。\r\n\r\n工作地址：\r\n北京昌平区昌平科技园区富康路20号（LANBO西门）",
-      "encryptAddressId": "da05dd9dc8e4fd001XB429-6F1Q~",
-      "address": "北京昌平区LANBO(西门)",
-      "longitude": 116.244856,
-      "latitude": 40.20473,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd6bc263ad14e8b02bdcf76372b469f0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cbc0b39773f7b10ad315739f69756f2b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210702/3c518ad75d6a3dc0f6b59e6b6de7b997bc86782bd58054b4eabebdfc021_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "LANBO",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "de8a49bbe6c91d761nx52dy8FQ~~",
-      "brandName": "LANBO",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730800430794,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "LANBO",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "LANBO",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210702/3c518ad75d6a3dc0f6b59e6b6de7b997bc86782bd58054b4eabebdfc021_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730800430794,
+        "brandName": "LANBO",
+        "customerBrandName": "LANBO",
+        "customerBrandStageName": "",
+        "encryptBrandId": "de8a49bbe6c91d761nx52dy8FQ~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京昌平区LANBO(西门)",
+        "anonymous": 0,
+        "degreeName": "学历不限",
+        "encryptAddressId": "da05dd9dc8e4fd001XB429-6F1Q~",
+        "encryptId": "582199900210c3071n180ti4E1c~",
+        "encryptUserId": "4b7632dc4b1ec3991HNz3tm8EFI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师/测试员/助理工程师(非软件)",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.20473,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.244856,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cbc0b39773f7b10ad315739f69756f2b",
+        "position": 100308,
+        "positionName": "硬件测试",
+        "postDescription": "岗位职责：\r\n 1、配合项目研发工作进行方案设计及测试；\r\n 2、为产品改进提供方案及依据；\r\n 3、针对产品做功能、效果、质量等全项测试。\r\n任职要求：\r\n 1、电子、电气化、机电一体化、仪器仪表等相关专业，专科以上学历；\r\n 2、具备创新、钻研的意识及思维。\r\n\r\n工作地址：\r\n北京昌平区昌平科技园区富康路20号（LANBO西门）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd6bc263ad14e8b02bdcf76372b469f0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0rMiJVvZwHCW5-m1afF499GV2R2AIYHPvWoT2RvPqCu3n-FIKuDYzIqvM9MEFqZnKLBF3hG9yQjaRt04TedViln861SPYx3FlMAdOVPww9f_g0XbHAJePYb0NLPMTig~",
+    "selfAccess": false,
+    "sessionId": null
 }

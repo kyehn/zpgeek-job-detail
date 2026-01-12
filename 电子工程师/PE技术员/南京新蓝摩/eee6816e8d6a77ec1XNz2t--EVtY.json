@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EWGhdQBue44ho-Z1cqiM5M70Kei4s5S2QpB3jHTGNgDH50eN1vINg2BITcTPZLa0Uf5-e-pcUFUmCUl8u4sxOrJBTteTBLuHprU6dkX-YPZXmLp2Ew~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "eee6816e8d6a77ec1XNz2t--EVtY",
-      "encryptUserId": "8f301fdf05c552e403x-3N20FFU~",
-      "invalidStatus": false,
-      "jobName": "PE技术员",
-      "position": 101401,
-      "positionName": "电子工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1. 依据研发部提供的产品技术资料，全程参与新品制作（主要材料需封样）,对所有功能进行检测，做好相关记录 制定生产可操作的标准文件\n2. 负责新品老化试验的全面工作，并做好详细记录\n3. 新品生产追踪指导，实现研发与生产之间的技术转换\n4. 分析并处理产品在生产中出现的各种异常 （在线维修），技术、软件问题及时反馈\n5. 配合生产对产能达成率的分析与改善\n6. 对提高产品品质改善的方案推进与实施\n7. 负责客退维修及售后现场维修\n8. 在线维修、客退维修及售后现场维修不良原因的数据统计与分析\n9. 定期执行测量仪器的内校和设备保养计划，需编制设备台账\n10. 组织工装测试治具的设计与加工",
-      "encryptAddressId": "3c3e4a2ff5176c730HV_3tq-EFQ~",
-      "address": "南京栖霞区南京金港科技创业园一期7栋5楼",
-      "longitude": 118.905884,
-      "latitude": 32.123144,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/90ebacbc95e68eddce3c36aa6ae6ad69",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c793331990d3082409f5e2781bb26b9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子工艺工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙女士",
-      "title": "行政人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220914/607f1f3d68754fd0f2b25098683305d52148e23f6d9bfc7f761e37654327a7a992923c96dc3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "南京新蓝摩",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f777fd627c85baff1XJ53d67Ew~~",
-      "brandName": "南京新蓝摩",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721534190005,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京新蓝摩",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京新蓝摩",
+        "certificated": true,
+        "large": null,
+        "name": "孙女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220914/607f1f3d68754fd0f2b25098683305d52148e23f6d9bfc7f761e37654327a7a992923c96dc3_b.jpg",
+        "title": "行政人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1721534190005,
+        "brandName": "南京新蓝摩",
+        "customerBrandName": "南京新蓝摩",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f777fd627c85baff1XJ53d67Ew~~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京栖霞区南京金港科技创业园一期7栋5楼",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "3c3e4a2ff5176c730HV_3tq-EFQ~",
+        "encryptId": "eee6816e8d6a77ec1XNz2t--EVtY",
+        "encryptUserId": "8f301fdf05c552e403x-3N20FFU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "PE技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.123144,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.905884,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c793331990d3082409f5e2781bb26b9",
+        "position": 101401,
+        "positionName": "电子工程师",
+        "postDescription": "1. 依据研发部提供的产品技术资料，全程参与新品制作（主要材料需封样）,对所有功能进行检测，做好相关记录 制定生产可操作的标准文件\n2. 负责新品老化试验的全面工作，并做好详细记录\n3. 新品生产追踪指导，实现研发与生产之间的技术转换\n4. 分析并处理产品在生产中出现的各种异常 （在线维修），技术、软件问题及时反馈\n5. 配合生产对产能达成率的分析与改善\n6. 对提高产品品质改善的方案推进与实施\n7. 负责客退维修及售后现场维修\n8. 在线维修、客退维修及售后现场维修不良原因的数据统计与分析\n9. 定期执行测量仪器的内校和设备保养计划，需编制设备台账\n10. 组织工装测试治具的设计与加工",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "电子工艺工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/90ebacbc95e68eddce3c36aa6ae6ad69"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EWGhdQBue44ho-Z1cqiM5M70Kei4s5S2QpB3jHTGNgDH50eN1vINg2BITcTPZLa0Uf5-e-pcUFUmCUl8u4sxOrJBTteTBLuHprU6dkX-YPZXmLp2Ew~~",
+    "selfAccess": false,
+    "sessionId": null
 }

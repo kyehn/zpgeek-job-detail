@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "M4dKM3OZdAIqQ-j1EKdnNNMZCcwaXRFrdug-Hs0_yo2_IQB4qbXO3mOO9t7xmDDSCdtYj90FoRRGTGfg-kTUqHGVtEZMPcctu9bRPhuyvzViWLSr4B617OwOT9BQb4PVwJWss2zRnwtGlFY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d2d29660afdc8b0e1H192Ny5F1RQ",
-      "encryptUserId": "c9fc87003d8cd0d80nV73961FVRX",
-      "invalidStatus": false,
-      "jobName": "测试软件开发工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "测试软件开发工程师\n\n岗位要求：\n1、大专及以上学历\n2、\t一年以上软件开发相关工作经验；\n3、\t熟悉VB，VB.NET，C#等；\n4、\t熟悉SQL SERVER、ORACLE数据库，能熟练编写数据库访问语句，存储过程；\n5、\t熟悉PYTHON，有硬件测试软件开发工作经验更佳；\n6、有通讯行业工作经验更佳；\n7、较强的动手能力和一定的抗压能力；\n\n岗位职责：\n1、参与公司产品测试软件的开发；\n2、维护测试数据；\n3、参与公司管理IT化相关管理软件的开发；\n4、协助软件测试工程师排查在测试过程中遇到的软件问题；\n5、参与公司业务系统MES，ERP，OA二次开发；\n6、上级安排的其他工作。",
-      "encryptAddressId": "44f494234d2a22a60XV42tm9EVE~",
-      "address": "广州黄埔区波达通信设备(广州)有限公司3楼",
-      "longitude": 113.521454,
-      "latitude": 23.067228,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93233c6317ea0ed3c4c3842686440dbc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ad5f913d99e412a8d23cfb027547d3d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "波达通信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4076804d013d41b91nd-39W9E1I~",
-      "brandName": "波达通信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210311/65e17e7e2209058ba5f79359eee61ee11205abeb2b6c07a62239a22a05fc1168_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "波达通信设备（广州）有限公司成立于2004年1月，是一家无线通信高科技企业，专注于研发、制造和销售微波毫米波产品。波达通信立足中国、面向全球，拥有员工约300人，其中1/3是研发技术人员。拥有多位微波技术专家，紧跟微波半导体技术的发展步伐并且不断创新与发展。目前专注于微波通信和卫星通信，拥有完整的技术开发平台和生产制造平台，月产万台微波毫米波设备，2004-2020全球累计发货150万台。\n公司网站：https://www.wave-lab.cn",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
-        "免费班车",
-        "餐补",
-        "通讯补贴",
-        "节日福利"
-      ],
-      "activeTime": 1730885386365,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "波达通信",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "波达通信",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730885386365,
+        "brandName": "波达通信",
+        "customerBrandName": "波达通信",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "4076804d013d41b91nd-39W9E1I~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "波达通信设备（广州）有限公司成立于2004年1月，是一家无线通信高科技企业，专注于研发、制造和销售微波毫米波产品。波达通信立足中国、面向全球，拥有员工约300人，其中1/3是研发技术人员。拥有多位微波技术专家，紧跟微波半导体技术的发展步伐并且不断创新与发展。目前专注于微波通信和卫星通信，拥有完整的技术开发平台和生产制造平台，月产万台微波毫米波设备，2004-2020全球累计发货150万台。\n公司网站：https://www.wave-lab.cn",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "员工旅游",
+            "免费班车",
+            "餐补",
+            "通讯补贴",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210311/65e17e7e2209058ba5f79359eee61ee11205abeb2b6c07a62239a22a05fc1168_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州黄埔区波达通信设备(广州)有限公司3楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "44f494234d2a22a60XV42tm9EVE~",
+        "encryptId": "d2d29660afdc8b0e1H192Ny5F1RQ",
+        "encryptUserId": "c9fc87003d8cd0d80nV73961FVRX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试软件开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.067228,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.521454,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ad5f913d99e412a8d23cfb027547d3d",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "测试软件开发工程师\n\n岗位要求：\n1、大专及以上学历\n2、\t一年以上软件开发相关工作经验；\n3、\t熟悉VB，VB.NET，C#等；\n4、\t熟悉SQL SERVER、ORACLE数据库，能熟练编写数据库访问语句，存储过程；\n5、\t熟悉PYTHON，有硬件测试软件开发工作经验更佳；\n6、有通讯行业工作经验更佳；\n7、较强的动手能力和一定的抗压能力；\n\n岗位职责：\n1、参与公司产品测试软件的开发；\n2、维护测试数据；\n3、参与公司管理IT化相关管理软件的开发；\n4、协助软件测试工程师排查在测试过程中遇到的软件问题；\n5、参与公司业务系统MES，ERP，OA二次开发；\n6、上级安排的其他工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K·14薪",
+        "showSkills": [
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93233c6317ea0ed3c4c3842686440dbc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "M4dKM3OZdAIqQ-j1EKdnNNMZCcwaXRFrdug-Hs0_yo2_IQB4qbXO3mOO9t7xmDDSCdtYj90FoRRGTGfg-kTUqHGVtEZMPcctu9bRPhuyvzViWLSr4B617OwOT9BQb4PVwJWss2zRnwtGlFY~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CVHjMuwLY02YO-v1Gp1wLl53UkvvWId7wlQgLbtPgvxL5hgns8bT6mUVYmfY6vcKosWmS1ZDX0z5bzeierSjBeKErV88f7oPxJGAwBj9KfgswUvX4z_UZQuKq33G0qKB4n8xbaGf41-JKq0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "93a3ea7a57abc4fc1Hx-0t69EVBW",
-      "encryptUserId": "15e8fbaaf1d8b4fa0nd63Nu1GVdY",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101230300,
-      "locationName": "宁德",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "互联网测试，会熟悉计算机网络",
-      "encryptAddressId": "6356dd70154fd16b1nZ_09u5EVRSxIq2UviZ",
-      "address": "宁德蕉城区万安名邸2号楼1201室",
-      "longitude": 119.560601,
-      "latitude": 26.641503,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231116/48ba41acc9cef1bfed2900a5b924cc67c6a684379e1a5e386bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231116/48ba41acc9cef1bff4fce1a32a3aa6812ac7c2d3d5236ad16bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郑先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "万帆建筑",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "817c84acde569cd61HN72d-1F1E~",
-      "brandName": "万帆建筑",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728048539045,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万帆建筑",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万帆建筑",
+        "certificated": true,
+        "large": null,
+        "name": "郑先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1728048539045,
+        "brandName": "万帆建筑",
+        "customerBrandName": "万帆建筑",
+        "customerBrandStageName": "",
+        "encryptBrandId": "817c84acde569cd61HN72d-1F1E~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宁德蕉城区万安名邸2号楼1201室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6356dd70154fd16b1nZ_09u5EVRSxIq2UviZ",
+        "encryptId": "93a3ea7a57abc4fc1Hx-0t69EVBW",
+        "encryptUserId": "15e8fbaaf1d8b4fa0nd63Nu1GVdY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.641503,
+        "location": 101230300,
+        "locationName": "宁德",
+        "longitude": 119.560601,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231116/48ba41acc9cef1bff4fce1a32a3aa6812ac7c2d3d5236ad16bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "互联网测试，会熟悉计算机网络",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231116/48ba41acc9cef1bfed2900a5b924cc67c6a684379e1a5e386bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CVHjMuwLY02YO-v1Gp1wLl53UkvvWId7wlQgLbtPgvxL5hgns8bT6mUVYmfY6vcKosWmS1ZDX0z5bzeierSjBeKErV88f7oPxJGAwBj9KfgswUvX4z_UZQuKq33G0qKB4n8xbaGf41-JKq0~",
+    "selfAccess": false,
+    "sessionId": null
 }

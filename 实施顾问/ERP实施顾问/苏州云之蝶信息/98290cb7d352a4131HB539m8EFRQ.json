@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bOnDYUCpeFrJD-T1TdxffRMO8POGOZHnsj4X_qmPjF9OzdxO3Bjtp1UShES1_yTVFM5aoGZfs8KdBUqsZuNjkcn96mmq4Lqw7ZW2tOShskDvmkChYMCP",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "98290cb7d352a4131HB539m8EFRQ",
-      "encryptUserId": "72786e8777ca2dfa0nZ509-5GVZQ",
-      "invalidStatus": false,
-      "jobName": "erp实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.协助项目经理整理数据\n2.协助项目经理设置系统配置\n3.协助项目经理处理日常问题\n任职要求：\n1.财务或者软件专业\n2.学习能力较强",
-      "encryptAddressId": "7555f451316e2afa0n1_09--GFNUy4y2VPM~",
-      "address": "苏州苏州工业园区国泰新点软件研发办公楼502",
-      "longitude": 120.734074,
-      "latitude": 31.251473,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230518/48ba41acc9cef1bf16500658948e4c042e59711cb6866f236bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf4dbb065e5ccfd192e194c5bbc4a6109f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "财务相关专业",
-        "计算机相关专业",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "苏州云之蝶信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e95028586c3fe9691Hd40tq9FVY~",
-      "brandName": "苏州云之蝶信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725318149416,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州云之蝶信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州云之蝶信息",
+        "certificated": true,
+        "large": null,
+        "name": "朱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725318149416,
+        "brandName": "苏州云之蝶信息",
+        "customerBrandName": "苏州云之蝶信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e95028586c3fe9691Hd40tq9FVY~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州工业园区国泰新点软件研发办公楼502",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7555f451316e2afa0n1_09--GFNUy4y2VPM~",
+        "encryptId": "98290cb7d352a4131HB539m8EFRQ",
+        "encryptUserId": "72786e8777ca2dfa0nZ509-5GVZQ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "erp实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.251473,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.734074,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf4dbb065e5ccfd192e194c5bbc4a6109f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "1.协助项目经理整理数据\n2.协助项目经理设置系统配置\n3.协助项目经理处理日常问题\n任职要求：\n1.财务或者软件专业\n2.学习能力较强",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "ERP",
+            "财务相关专业",
+            "计算机相关专业",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230518/48ba41acc9cef1bf16500658948e4c042e59711cb6866f236bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bOnDYUCpeFrJD-T1TdxffRMO8POGOZHnsj4X_qmPjF9OzdxO3Bjtp1UShES1_yTVFM5aoGZfs8KdBUqsZuNjkcn96mmq4Lqw7ZW2tOShskDvmkChYMCP",
+    "selfAccess": false,
+    "sessionId": null
 }

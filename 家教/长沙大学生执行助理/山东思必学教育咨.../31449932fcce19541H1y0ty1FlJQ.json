@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WU0qaXGz1pMUz-01woh3mNw-7ybKIs1Oz7ZheZzlYCP2evwrwDSSMJTWYXFiUu73RMuttoKznk6vP4X1PNHOj4GajQ7l4HAL10njTcqDbtL1aQV76TsOVYKYzPpOuOzRwdRK_gJM5DkI4gQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "31449932fcce19541H1y0ty1FlJQ",
-      "encryptUserId": "1f7af7dc44dda54d0XN-2Ny9FFdY",
-      "invalidStatus": false,
-      "jobName": "长沙大学生执行助理",
-      "position": 190321,
-      "positionName": "家教",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-2K",
-      "payTypeDesc": null,
-      "postDescription": "1.工作全程在线上进行，无需前往固定办公场所坐班，更不必受打卡\n的约束，畅享极致自由的工作状态。\n2.协助老师精心输出精彩的图文以及富有感染力的文字内容。\n3.优先考虑时间充裕且配合度高的伙伴,能够积极响应工作需求，确保任务高效推进。\n4.需熟悉手机操作流程，能够熟练运用各类手机软件完成工作任务。\n5.经验方面毫无限制，即便是零基础的新手，也能轻松胜任这份工作，\n开启精彩的职业之旅。",
-      "encryptAddressId": "8469011e5ce531021nBy3tq4GFFZw465U_Kb",
-      "address": "长沙望城区湖南信息职业技术学院旺旺中路8号",
-      "longitude": 112.817285,
-      "latitude": 28.341,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/365e0c2c056e732f11d891d1fe67645e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6c58e9d2e44f567f020b12e285aafb6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "线上教育"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "山东思必学教育咨...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2d17a4cf3351d7161HJ_3Nu4FVU~",
-      "brandName": "山东思必学教育咨...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100302,
-      "industryName": "学校/学历教育",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731427366660,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东思必学教育咨...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东思必学教育咨...",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731427366660,
+        "brandName": "山东思必学教育咨...",
+        "customerBrandName": "山东思必学教育咨...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2d17a4cf3351d7161HJ_3Nu4FVU~",
+        "focusBrand": false,
+        "industry": 100302,
+        "industryName": "学校/学历教育",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙望城区湖南信息职业技术学院旺旺中路8号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8469011e5ce531021nBy3tq4GFFZw465U_Kb",
+        "encryptId": "31449932fcce19541H1y0ty1FlJQ",
+        "encryptUserId": "1f7af7dc44dda54d0XN-2Ny9FFdY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "长沙大学生执行助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.341,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.817285,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6c58e9d2e44f567f020b12e285aafb6",
+        "position": 190321,
+        "positionName": "家教",
+        "postDescription": "1.工作全程在线上进行，无需前往固定办公场所坐班，更不必受打卡\n的约束，畅享极致自由的工作状态。\n2.协助老师精心输出精彩的图文以及富有感染力的文字内容。\n3.优先考虑时间充裕且配合度高的伙伴,能够积极响应工作需求，确保任务高效推进。\n4.需熟悉手机操作流程，能够熟练运用各类手机软件完成工作任务。\n5.经验方面毫无限制，即便是零基础的新手，也能轻松胜任这份工作，\n开启精彩的职业之旅。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-2K",
+        "showSkills": [
+            "线上教育"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/365e0c2c056e732f11d891d1fe67645e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WU0qaXGz1pMUz-01woh3mNw-7ybKIs1Oz7ZheZzlYCP2evwrwDSSMJTWYXFiUu73RMuttoKznk6vP4X1PNHOj4GajQ7l4HAL10njTcqDbtL1aQV76TsOVYKYzPpOuOzRwdRK_gJM5DkI4gQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

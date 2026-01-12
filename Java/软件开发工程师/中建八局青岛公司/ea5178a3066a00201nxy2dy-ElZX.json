@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ffbwKsuhB4te6-F1BdLQqE3zeDhWWpN_ivg2dx1_2bl_ZnpmRC1y5WfY27Mr3NNn-FHcPOs4JMsbK50TL8MQDldCvxZaxi4Llz7Mm7inWal-3a2LRQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ea5178a3066a00201nxy2dy-ElZX",
-      "encryptUserId": "2690569b33c484490nJ709-4E1E~",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n负责公司信息系统建设与架构优化。\n承担方案设计、软件开发自测、系统运维等工作。\n任职要求：\n1. 本科及以上学历，计算机相关专业毕业，985/211 院校优先。\n2. 本科毕业具备 3 年以上软件开发相关工作经验，或研究生毕业具有 1 年以上工作经验。\n3. 具备扎实的 Java SE / EE 开发基本功，熟练使用 SpingBoot、SSM 等技术框架，对 Spring Cloud、容器、DevOps 等云原生技术熟悉者优先。\n4. 熟练操作常见的数据库，熟悉各类开源中间件者优先。\n5. 熟悉 GIt 、SVN 等常见的版本管理工具。\n6. 有责任心，善于学习，注重团队合作，有建筑施工领域信息化项目管理经验者优先。",
-      "encryptAddressId": "5a0a90ec8ba4e6fe1XV62dq4FlE~",
-      "address": "青岛崂山区金石博物馆12楼",
-      "longitude": 120.470292,
-      "latitude": 36.100097,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99cb595ee53d35d009429772bd6afb44",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/acff4fe60616a9daff376822d1ed90eb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Spring",
-        "Linux",
-        "后端开发",
-        "Oracle",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "冷先生",
-      "title": "信息化管理部业务经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190409/4d9577fe4b72caa7af8af807b8da9bd69bddf7aaa7e5d9a5648d680b9a0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中建八局青岛公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f207c73257ff546e0HFy3961Fw~~",
-      "brandName": "中建八局青岛公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "大型央企",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "带薪年假",
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1725377973026,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中建八局青岛公司",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中建八局青岛公司",
+        "certificated": true,
+        "large": null,
+        "name": "冷先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190409/4d9577fe4b72caa7af8af807b8da9bd69bddf7aaa7e5d9a5648d680b9a0_b.jpg",
+        "title": "信息化管理部业务经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725377973026,
+        "brandName": "中建八局青岛公司",
+        "customerBrandName": "中建八局青岛公司",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "f207c73257ff546e0HFy3961Fw~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "大型央企",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "带薪年假",
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛崂山区金石博物馆12楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5a0a90ec8ba4e6fe1XV62dq4FlE~",
+        "encryptId": "ea5178a3066a00201nxy2dy-ElZX",
+        "encryptUserId": "2690569b33c484490nJ709-4E1E~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.100097,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.470292,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/acff4fe60616a9daff376822d1ed90eb",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n负责公司信息系统建设与架构优化。\n承担方案设计、软件开发自测、系统运维等工作。\n任职要求：\n1. 本科及以上学历，计算机相关专业毕业，985/211 院校优先。\n2. 本科毕业具备 3 年以上软件开发相关工作经验，或研究生毕业具有 1 年以上工作经验。\n3. 具备扎实的 Java SE / EE 开发基本功，熟练使用 SpingBoot、SSM 等技术框架，对 Spring Cloud、容器、DevOps 等云原生技术熟悉者优先。\n4. 熟练操作常见的数据库，熟悉各类开源中间件者优先。\n5. 熟悉 GIt 、SVN 等常见的版本管理工具。\n6. 有责任心，善于学习，注重团队合作，有建筑施工领域信息化项目管理经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "Spring",
+            "Linux",
+            "后端开发",
+            "Oracle",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99cb595ee53d35d009429772bd6afb44"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ffbwKsuhB4te6-F1BdLQqE3zeDhWWpN_ivg2dx1_2bl_ZnpmRC1y5WfY27Mr3NNn-FHcPOs4JMsbK50TL8MQDldCvxZaxi4Llz7Mm7inWal-3a2LRQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

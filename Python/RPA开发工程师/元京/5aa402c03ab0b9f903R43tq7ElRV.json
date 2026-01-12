@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mtU1rcj2uSzIT-21CrAFUb9NDueSH6iGLadLEDDRwogBDzRZTOsSqcr7jXAqQzhTudYexjuHhAebGbu9ygQoOPlwlgQ9VMTruCf5EF4w9_n53mE7eJUbBjJawTRkbXH4XHA-23YBKcbppB59gGyOwXWjFRkCYcjTK_e476td_PnZUFRyDHc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5aa402c03ab0b9f903R43tq7ElRV",
-      "encryptUserId": "d14c127bc9e727930ndz2ty5GVFY",
-      "invalidStatus": false,
-      "jobName": "rpa开发工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.分析业务流程，完成rpa的定制化程序开发。\n2.使用rpa工具进行rpa流程的开发实施，完成rpa数据统计及数据处理自动化。\n3.独立完成核心功能开发，验证和修正测试中发现的问题。\n4.协助产品经理完成整个项目的交付工作，解决简单的技术问题\n\n岗位要求\n1.专科及以上学历，计算机、信息系统、软件工程等相关专业。\n2.精通任意一种脚本的编码能力，例如Python、Java，了解JavaSript、HTML。\n3.有IT项目工作经验，1-2年以上rpa开发和实施经验。\n4.熟悉UI自动化及爬虫技术原理，至少掌握一种自动化框架。\n5.熟悉或了解Uipath、Uibot、影刀等RPA工具。\n6.熟悉主流web开发技术，熟悉Jquery、HTML、Css、Xpath语法规范。\n7.熟悉sql语言及数据库操作，例：mysql。\n8.具有rpa开发专业认证者优先。",
-      "encryptAddressId": "7b70aaa6736a94691nF-29S6E1dXxIu8U_mW",
-      "address": "南京栖霞区方略科技2栋1楼",
-      "longitude": 118.899542,
-      "latitude": 32.071097,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230922/48ba41acc9cef1bf13981d9e4968888bbabcaa84002f62bb6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230922/48ba41acc9cef1bf71351a4175c9a5298a02721a18f518226bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231012/607f1f3d68754fd0c11e60fe410718c9832cccad78892392b389bfb454a9cb65c9f2fb960fe5ae7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "元京",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7f50b25ed44e35f81HN609m9EVs~",
-      "brandName": "元京",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1732776741684,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "元京",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "元京",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231012/607f1f3d68754fd0c11e60fe410718c9832cccad78892392b389bfb454a9cb65c9f2fb960fe5ae7_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1732776741684,
+        "brandName": "元京",
+        "customerBrandName": "元京",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7f50b25ed44e35f81HN609m9EVs~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京栖霞区方略科技2栋1楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7b70aaa6736a94691nF-29S6E1dXxIu8U_mW",
+        "encryptId": "5aa402c03ab0b9f903R43tq7ElRV",
+        "encryptUserId": "d14c127bc9e727930ndz2ty5GVFY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "rpa开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.071097,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.899542,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230922/48ba41acc9cef1bf71351a4175c9a5298a02721a18f518226bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "岗位职责：\n1.分析业务流程，完成rpa的定制化程序开发。\n2.使用rpa工具进行rpa流程的开发实施，完成rpa数据统计及数据处理自动化。\n3.独立完成核心功能开发，验证和修正测试中发现的问题。\n4.协助产品经理完成整个项目的交付工作，解决简单的技术问题\n\n岗位要求\n1.专科及以上学历，计算机、信息系统、软件工程等相关专业。\n2.精通任意一种脚本的编码能力，例如Python、Java，了解JavaSript、HTML。\n3.有IT项目工作经验，1-2年以上rpa开发和实施经验。\n4.熟悉UI自动化及爬虫技术原理，至少掌握一种自动化框架。\n5.熟悉或了解Uipath、Uibot、影刀等RPA工具。\n6.熟悉主流web开发技术，熟悉Jquery、HTML、Css、Xpath语法规范。\n7.熟悉sql语言及数据库操作，例：mysql。\n8.具有rpa开发专业认证者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K",
+        "showSkills": [],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230922/48ba41acc9cef1bf13981d9e4968888bbabcaa84002f62bb6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mtU1rcj2uSzIT-21CrAFUb9NDueSH6iGLadLEDDRwogBDzRZTOsSqcr7jXAqQzhTudYexjuHhAebGbu9ygQoOPlwlgQ9VMTruCf5EF4w9_n53mE7eJUbBjJawTRkbXH4XHA-23YBKcbppB59gGyOwXWjFRkCYcjTK_e476td_PnZUFRyDHc~",
+    "selfAccess": false,
+    "sessionId": null
 }

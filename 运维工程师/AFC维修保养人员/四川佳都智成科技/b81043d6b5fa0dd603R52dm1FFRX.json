@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GMQz79JhRUjb5-d1x-wyKghOmMtG1Wmkk0dAgcAZNqWIe02Bu8UL1VvIdoBm4FJy6xJoGqUuxxn481DDKMlnmD4AsUKnw6s_GBQpp3HSuJJeEbeQx_Ij0M3qIwWVy5Za5g~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b81043d6b5fa0dd603R52dm1FFRX",
-      "encryptUserId": "81efd514d8333e700HR73tS0GFI~",
-      "invalidStatus": false,
-      "jobName": "AFC维修保养人员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "1、根据工班长安排开展当班期间设备(信号/通信/AFC/门禁/机电)巡检、维护工作;\n\n2、负责现场安装设备、调试及其结构件、布线工程实施，熟悉网线制作及其相关标准;\n\n3、负责完成地铁设备的维护保养，定期检修、排除隐患，确保设备正常使用;\n\n4、服从现场管理人员安排和指导，按时保质完成各项工作任务。\n\n任职要求:\n\n1、统招大专及以上学历或中专毕业2年以上，电气工程及其自动化、电子信息、计算机软件开发、自动化、通信工程相关专业;\n\n2、1年以上工作经验，必须具备低压电工证; (若无电工证，录用后须在试用期内考取)，可接受应届生;\n\n3、熟悉至少一个专业:机电、无线、传输、交换、计算机网络、数据库、自动化、云平台、智能环控、 FAS、BAS、CCTV、 时钟、广播等;\n\n4、具有地铁项目机电、通信、自动化、AFC、综合云平台设备等建设/运维经验者;中级以上技能证优先考虑;\n\n5、可接受两班倒。",
-      "encryptAddressId": "1d564e113946b2841nF-39i_FFNUwou2Vv6Y",
-      "address": "成都武侯区机投桥(地铁站)17号线",
-      "longitude": 103.978131,
-      "latitude": 30.646026,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf73d9dd6069646ba39dbbf761a1d389c06bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf6873ecca1386f40732c63f03ff989acf6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "计算机相关专业",
-        "电子/电气/自动化相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "梁先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "四川佳都智成科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6dc36efe56740c7a1Hx73dS1EVo~",
-      "brandName": "四川佳都智成科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734662085677,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "四川佳都智成科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "四川佳都智成科技",
+        "certificated": true,
+        "large": null,
+        "name": "梁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734662085677,
+        "brandName": "四川佳都智成科技",
+        "customerBrandName": "四川佳都智成科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6dc36efe56740c7a1Hx73dS1EVo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区机投桥(地铁站)17号线",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "1d564e113946b2841nF-39i_FFNUwou2Vv6Y",
+        "encryptId": "b81043d6b5fa0dd603R52dm1FFRX",
+        "encryptUserId": "81efd514d8333e700HR73tS0GFI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "AFC维修保养人员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.646026,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 103.978131,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf6873ecca1386f40732c63f03ff989acf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、根据工班长安排开展当班期间设备(信号/通信/AFC/门禁/机电)巡检、维护工作;\n\n2、负责现场安装设备、调试及其结构件、布线工程实施，熟悉网线制作及其相关标准;\n\n3、负责完成地铁设备的维护保养，定期检修、排除隐患，确保设备正常使用;\n\n4、服从现场管理人员安排和指导，按时保质完成各项工作任务。\n\n任职要求:\n\n1、统招大专及以上学历或中专毕业2年以上，电气工程及其自动化、电子信息、计算机软件开发、自动化、通信工程相关专业;\n\n2、1年以上工作经验，必须具备低压电工证; (若无电工证，录用后须在试用期内考取)，可接受应届生;\n\n3、熟悉至少一个专业:机电、无线、传输、交换、计算机网络、数据库、自动化、云平台、智能环控、 FAS、BAS、CCTV、 时钟、广播等;\n\n4、具有地铁项目机电、通信、自动化、AFC、综合云平台设备等建设/运维经验者;中级以上技能证优先考虑;\n\n5、可接受两班倒。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "系统运维",
+            "计算机相关专业",
+            "电子/电气/自动化相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf73d9dd6069646ba39dbbf761a1d389c06bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GMQz79JhRUjb5-d1x-wyKghOmMtG1Wmkk0dAgcAZNqWIe02Bu8UL1VvIdoBm4FJy6xJoGqUuxxn481DDKMlnmD4AsUKnw6s_GBQpp3HSuJJeEbeQx_Ij0M3qIwWVy5Za5g~~",
+    "selfAccess": false,
+    "sessionId": null
 }

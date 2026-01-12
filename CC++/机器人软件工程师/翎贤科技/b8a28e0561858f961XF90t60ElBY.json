@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "D95kF6YMFjHF2-61iavjQb0J0sSJrNbH57AjJsaI4m0y9xsnkXFlSn5QpEACdZ20kqOLt_jHVR_Pu4bPDnQEPrK8jS83c4ygAT4mKRaJ_a3flgsPZpAU",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b8a28e0561858f961XF90t60ElBY",
-      "encryptUserId": "5db33b53da8ed0060nJ92NS9FFdZ",
-      "invalidStatus": false,
-      "jobName": "机器人软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "有五险，双休 早九晚六 国家法定节假日 试用期缴纳社保\n工作地点：杭州、\n嘉兴岗位要求：\n1.在算法工程师以及技术专家的指导下，进行移动机器人车载电控程序开发；\n2.熟悉linux环境下的C/C++编程；\n3.对不同型号、不同功能的移动类机器人，进行研发验证与调试；\n4.对销售服务团队进行指导与培训。\n任职要求：1.本科及以上学历，计算机、通信、电子等专业或相关专业，一年以上相关工作经验；\n2.熟悉C/C++,熟悉windows和linux开发环境，ROS开发经验优先；\n3.了解控制理论以及信号处理相关知识，应用于车载电控系统中；\n4.具有较强的学习能力和很好的协调、沟通能力，有团队合作精神",
-      "encryptAddressId": "94325bef01ee4cbf1nZ60968FlRXw4-6U_6e",
-      "address": "杭州钱塘区正泰中自科技园杭州市钱塘区白杨街道6号大街260号13f幢301室",
-      "longitude": 120.374687,
-      "latitude": 30.303745,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf17a3ec974ce3f580cf7f7a89879e82b86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf4db7971799932ba9d062c811d93514856bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "Java",
-        "Python",
-        "计算机相关专业",
-        "C++服务端开发经验",
-        "Linux开发/部署经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221201/607f1f3d68754fd05861b4765cd63f706c886d7405241dfc8906b90d7e8e47d50481c5f1b57_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "翎贤科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4cb622ea76d24df81Xd-2dq9EVM~",
-      "brandName": "翎贤科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221202/7b5b554d84f9729c5861b4765cd63f706c886d7405241dfc8906b90d7e8e47d50481c5f1b5786b91.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727672080591,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "翎贤科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "翎贤科技",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221201/607f1f3d68754fd05861b4765cd63f706c886d7405241dfc8906b90d7e8e47d50481c5f1b57_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1727672080591,
+        "brandName": "翎贤科技",
+        "customerBrandName": "翎贤科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "4cb622ea76d24df81Xd-2dq9EVM~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221202/7b5b554d84f9729c5861b4765cd63f706c886d7405241dfc8906b90d7e8e47d50481c5f1b5786b91.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州钱塘区正泰中自科技园杭州市钱塘区白杨街道6号大街260号13f幢301室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "94325bef01ee4cbf1nZ60968FlRXw4-6U_6e",
+        "encryptId": "b8a28e0561858f961XF90t60ElBY",
+        "encryptUserId": "5db33b53da8ed0060nJ92NS9FFdZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "机器人软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.303745,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.374687,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf4db7971799932ba9d062c811d93514856bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "有五险，双休 早九晚六 国家法定节假日 试用期缴纳社保\n工作地点：杭州、\n嘉兴岗位要求：\n1.在算法工程师以及技术专家的指导下，进行移动机器人车载电控程序开发；\n2.熟悉linux环境下的C/C++编程；\n3.对不同型号、不同功能的移动类机器人，进行研发验证与调试；\n4.对销售服务团队进行指导与培训。\n任职要求：1.本科及以上学历，计算机、通信、电子等专业或相关专业，一年以上相关工作经验；\n2.熟悉C/C++,熟悉windows和linux开发环境，ROS开发经验优先；\n3.了解控制理论以及信号处理相关知识，应用于车载电控系统中；\n4.具有较强的学习能力和很好的协调、沟通能力，有团队合作精神",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "C++",
+            "Java",
+            "Python",
+            "计算机相关专业",
+            "C++服务端开发经验",
+            "Linux开发/部署经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf17a3ec974ce3f580cf7f7a89879e82b86bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "D95kF6YMFjHF2-61iavjQb0J0sSJrNbH57AjJsaI4m0y9xsnkXFlSn5QpEACdZ20kqOLt_jHVR_Pu4bPDnQEPrK8jS83c4ygAT4mKRaJ_a3flgsPZpAU",
+    "selfAccess": false,
+    "sessionId": null
 }

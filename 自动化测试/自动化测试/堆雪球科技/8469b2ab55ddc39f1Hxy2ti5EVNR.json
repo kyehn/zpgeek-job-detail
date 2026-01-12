@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QEeVEjZkbeREP-21GnRN3rd2IDzGLJuVJsuJvPmqWVNxGA0-a8stEOuWVU5NjyOzbIWdpS3rxtWjbLjQPKaZoeQ30vFD0SvB89sFjsAWjNvPXGVsUrKv-2wn7OiuDb5bR_3LdJoRs1gKPg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8469b2ab55ddc39f1Hxy2ti5EVNR",
-      "encryptUserId": "5b6680aa4b2650fd3nN6396_EFI~",
-      "invalidStatus": false,
-      "jobName": "自动化测试",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求：\n1、负责系统/模块的产品级自动化测试方案，测试脚本编写、测试用例设计、测试验证、测试回归等。\n任职要求：\n1、结合产品包需求、开发设计需求、开发设计规格，根据测试规范与理论，给出特性测试设计方案，过硬的测试理论，从前期澄清、测试策略、设计、用例设计、执行到输出测试报告；\n2、熟悉linux shell脚本开发，熟悉Python语言开发；\n3、至少掌握一种自动化测试工具；\n4、熟悉存储基础知识，了解云存储、分布式存储、文件系统NAS优先；\n5、熟悉软件测试流程，测试设计方法，能够独立进行测试策略及方案编写\n6、大专及以上，计算机相关专业。",
-      "encryptAddressId": "375cc4533d534e020HJ80t-0E1ZSwI66WPk~",
-      "address": "北京海淀区中关村东升科技园前台",
-      "longitude": 116.358199,
-      "latitude": 40.044056,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfd92d8053d18acf062acaedeb939051866bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4fb1be26c5f218dc30a3e9ac1cb442c86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "测试工作经验",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "史女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "堆雪球科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5a2aba063effe0831Hdy3Ny-F1c~",
-      "brandName": "堆雪球科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727683667972,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "堆雪球科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "堆雪球科技",
+        "certificated": true,
+        "large": null,
+        "name": "史女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1727683667972,
+        "brandName": "堆雪球科技",
+        "customerBrandName": "堆雪球科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5a2aba063effe0831Hdy3Ny-F1c~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区中关村东升科技园前台",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "375cc4533d534e020HJ80t-0E1ZSwI66WPk~",
+        "encryptId": "8469b2ab55ddc39f1Hxy2ti5EVNR",
+        "encryptUserId": "5b6680aa4b2650fd3nN6396_EFI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.044056,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.358199,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4fb1be26c5f218dc30a3e9ac1cb442c86bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "岗位要求：\n1、负责系统/模块的产品级自动化测试方案，测试脚本编写、测试用例设计、测试验证、测试回归等。\n任职要求：\n1、结合产品包需求、开发设计需求、开发设计规格，根据测试规范与理论，给出特性测试设计方案，过硬的测试理论，从前期澄清、测试策略、设计、用例设计、执行到输出测试报告；\n2、熟悉linux shell脚本开发，熟悉Python语言开发；\n3、至少掌握一种自动化测试工具；\n4、熟悉存储基础知识，了解云存储、分布式存储、文件系统NAS优先；\n5、熟悉软件测试流程，测试设计方法，能够独立进行测试策略及方案编写\n6、大专及以上，计算机相关专业。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K·14薪",
+        "showSkills": [
+            "自动化测试经验",
+            "测试工作经验",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfd92d8053d18acf062acaedeb939051866bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QEeVEjZkbeREP-21GnRN3rd2IDzGLJuVJsuJvPmqWVNxGA0-a8stEOuWVU5NjyOzbIWdpS3rxtWjbLjQPKaZoeQ30vFD0SvB89sFjsAWjNvPXGVsUrKv-2wn7OiuDb5bR_3LdJoRs1gKPg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

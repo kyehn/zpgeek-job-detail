@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "37yfD7eet5QUh-J1a6KkDZvdA9ysvh_to9z9o-iBGNpmqbhwInHX900t1HPLrTPP3mBj6613hk7YUamrNwhQb5iTzOibEAwtpMhF3fVnG94TfQpAiS3F",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "df0f89c791fa7c121HZy0t-5F1RR",
-      "encryptUserId": "b49e1ba7f7394aef0nV52ty5FFpS",
-      "invalidStatus": false,
-      "jobName": "JAVA 后台开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.大学本科学历及以上；\n2.两年以上JAVA后台开发经验；\n3.熟悉spring，spring mvc，jdbc等框架；\n4.熟练使用redis等缓存服务器；\n5.熟悉mysql、oracle数据库，能熟练运用sql语句；\n6.熟练使用SVN等项目管理工具；\n7.熟悉微信、支付宝支付接口；\n8.熟悉微信公众号的开发；\n9.沟通交流能力良好；\n10.文档编写能力良好。",
-      "encryptAddressId": "1bb95ec261a6c16b1nR-09i_EVpX",
-      "address": "重庆渝北区重庆高科·双子座(B)18楼1#2#",
-      "longitude": 106.500401,
-      "latitude": 29.615361,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf61f827ec2ead7b3f8983de0b7c4b87426bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bfafaba19a94c5e4fd0f63e7f72a5b61e76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Tomcat",
-        "MySQL",
-        "Netty",
-        "Spring",
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "龙女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230724/607f1f3d68754fd04b28d7e0155d39b72e9fcf63a2b2683ad8c85d504568c7cde10395fe7e9539e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "重庆数掌云医疗科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "29a4022aabb941471Xxz09W8FFo~",
-      "brandName": "重庆数掌云医疗科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723022774069,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "重庆数掌云医疗科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "重庆数掌云医疗科技",
+        "certificated": true,
+        "large": null,
+        "name": "龙女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230724/607f1f3d68754fd04b28d7e0155d39b72e9fcf63a2b2683ad8c85d504568c7cde10395fe7e9539e_b.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1723022774069,
+        "brandName": "重庆数掌云医疗科技",
+        "customerBrandName": "重庆数掌云医疗科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "29a4022aabb941471Xxz09W8FFo~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆渝北区重庆高科·双子座(B)18楼1#2#",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1bb95ec261a6c16b1nR-09i_EVpX",
+        "encryptId": "df0f89c791fa7c121HZy0t-5F1RR",
+        "encryptUserId": "b49e1ba7f7394aef0nV52ty5FFpS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "JAVA 后台开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.615361,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.500401,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bfafaba19a94c5e4fd0f63e7f72a5b61e76bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.大学本科学历及以上；\n2.两年以上JAVA后台开发经验；\n3.熟悉spring，spring mvc，jdbc等框架；\n4.熟练使用redis等缓存服务器；\n5.熟悉mysql、oracle数据库，能熟练运用sql语句；\n6.熟练使用SVN等项目管理工具；\n7.熟悉微信、支付宝支付接口；\n8.熟悉微信公众号的开发；\n9.沟通交流能力良好；\n10.文档编写能力良好。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Java",
+            "Tomcat",
+            "MySQL",
+            "Netty",
+            "Spring",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf61f827ec2ead7b3f8983de0b7c4b87426bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "37yfD7eet5QUh-J1a6KkDZvdA9ysvh_to9z9o-iBGNpmqbhwInHX900t1HPLrTPP3mBj6613hk7YUamrNwhQb5iTzOibEAwtpMhF3fVnG94TfQpAiS3F",
+    "selfAccess": false,
+    "sessionId": null
 }

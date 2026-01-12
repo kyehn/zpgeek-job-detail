@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8lUk9Wn7wV4F0-l1Alr3X7ROhSMaSSxEbpZ2623vO8S5LjOKcEE1vIVH4NS4xxYnQAFvmGmRb06OeOkQYnEmtOnRZmrtCu0tYHR9gptVrkCDEsJRdk0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "35371a0e0f8709c71Hd629y6FlFQ",
-      "encryptUserId": "275eff817c26bd341nRy2dS0EVFV",
-      "invalidStatus": false,
-      "jobName": "DVT测试电子工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.可接受应届毕业生\n2.熟悉电子原理 ，基本原理\n3.熟悉充电器测试流程",
-      "encryptAddressId": "d62fd0cbb264667d1HB62Nm6FlM~",
-      "address": "东莞合宜电子飞达路3号",
-      "longitude": 114.097364,
-      "latitude": 22.91703,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ff21ca254a49f06764b797ba51b89cb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6db5de1f9cca013604557da7f161e652",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "不接受居家办公"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "钟女士",
-      "title": "行政人事部",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230502/607f1f3d68754fd07314d7308e64218bd004adfe26eaacefefe4e775ccdb1009337fa458337_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "合宜电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e0304891a0eeae181XB52di9Fw~~",
-      "brandName": "合宜电子",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200212/e5fb0738237dafe6619100244d249a75db42eb710b1c277ed49130c476f24788.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "东莞市合宜电子有限公司,是专业生产电线、五金零件配件类以及产品研发等综合型企业。公司成立于1998年6月，地处东莞市樟木头镇官仓飞达路3号合宜科技园！是国内电子配线及五金行业规模较大、技术力量雄厚的中外合资企业之一。分两个事业部：产品主要为各类电子、电脑、VCD、电子玩具、电视机、收录机、灯饰等先进厂家提供配件。产品有各类PVC、PE、PP+PE、UL电子连接线、多芯线、(彩)灰排线、屏蔽线、耳机线、热缩套管、束线带、电池扣、电线连灯、端子连接器、USB连接线、DC电源插头线、AV电源线、HDMI线及各类五金冲压、电池片、接触片、五金支架等1500多种。\r\n\r3c数码产品🆔设计 电子结构开发 一条龙生产！",
-      "labels": [
-        "补充医疗保险",
-        "定期体检",
-        "全勤奖",
-        "年终奖"
-      ],
-      "activeTime": 1728552225660,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "合宜电子",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "合宜电子",
+        "certificated": true,
+        "large": null,
+        "name": "钟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230502/607f1f3d68754fd07314d7308e64218bd004adfe26eaacefefe4e775ccdb1009337fa458337_b.jpg",
+        "title": "行政人事部"
+    },
+    "brandComInfo": {
+        "activeTime": 1728552225660,
+        "brandName": "合宜电子",
+        "customerBrandName": "合宜电子",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "e0304891a0eeae181XB52di9Fw~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "东莞市合宜电子有限公司,是专业生产电线、五金零件配件类以及产品研发等综合型企业。公司成立于1998年6月，地处东莞市樟木头镇官仓飞达路3号合宜科技园！是国内电子配线及五金行业规模较大、技术力量雄厚的中外合资企业之一。分两个事业部：产品主要为各类电子、电脑、VCD、电子玩具、电视机、收录机、灯饰等先进厂家提供配件。产品有各类PVC、PE、PP+PE、UL电子连接线、多芯线、(彩)灰排线、屏蔽线、耳机线、热缩套管、束线带、电池扣、电线连灯、端子连接器、USB连接线、DC电源插头线、AV电源线、HDMI线及各类五金冲压、电池片、接触片、五金支架等1500多种。\r\n\r3c数码产品🆔设计 电子结构开发 一条龙生产！",
+        "labels": [
+            "补充医疗保险",
+            "定期体检",
+            "全勤奖",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200212/e5fb0738237dafe6619100244d249a75db42eb710b1c277ed49130c476f24788.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞合宜电子飞达路3号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d62fd0cbb264667d1HB62Nm6FlM~",
+        "encryptId": "35371a0e0f8709c71Hd629y6FlFQ",
+        "encryptUserId": "275eff817c26bd341nRy2dS0EVFV",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "DVT测试电子工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.91703,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 114.097364,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6db5de1f9cca013604557da7f161e652",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "1.可接受应届毕业生\n2.熟悉电子原理 ，基本原理\n3.熟悉充电器测试流程",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "不接受居家办公"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ff21ca254a49f06764b797ba51b89cb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8lUk9Wn7wV4F0-l1Alr3X7ROhSMaSSxEbpZ2623vO8S5LjOKcEE1vIVH4NS4xxYnQAFvmGmRb06OeOkQYnEmtOnRZmrtCu0tYHR9gptVrkCDEsJRdk0~",
+    "selfAccess": false,
+    "sessionId": null
 }

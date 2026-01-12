@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "46jfgGQwP7dbq-s1eC-KGGs6wE8OmKjZqoieQlcINc4aQ0yz-Q_N4JOMDaXPgEFdUMRpRryW-UlWyiph0L6bOU0XdDJObiBY04zEcpCG3w0z4Yn5RZwi3QkzrGRYGhRpaMjoVEDSmJGTLCxizZMI3hCEAvb9c_-hVyNkLmQ4VcQZNb1ubnk3Wl_DYOQBwWng9sxAhCvGtQ0ms5ASafWrkXy1Bg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cfd98471ad29d67803R-2tW0GFBS",
-      "encryptUserId": "51972a9b98813ccc0XZ73di5EltU",
-      "invalidStatus": false,
-      "jobName": "测试开发工程师",
-      "position": 100305,
-      "positionName": "测试开发",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责公司内多个项目的自动化建设及工具框架开发。\n2. 优化现有测试流程及方法，通过技术创新提高测试效率，降低软件交付风险。\n3. 能和团队密切配合，发现、定位并跟踪问题，推动问题及时合理地解决。\n4. 有流程优化，技术创新意识，不断优化产品迭代方式，研发相关测试工具，平台，提升测试效率。\n5. 能够结合项目需要，设计并落地自动化解决方案。\n\n职位要求\n职责要求：\n1. 大专及以上计算机相关学历，2年左右互联网复杂产品的测试开发经验。\n2. 熟练掌握Python语言，了解Golang。\n3. 丰富的终端和服务端分层测试经验，具备良好的多端系统级测试分析能力。\n4. 成熟的测试工具和平台的规划开发和建设能力。\n5. 工作认真负责，具备快速高效学习的能力，能够快速适应新业务，新环境。\n6. 优秀的项目管理和学习能力、协同能力、沟通能力。",
-      "encryptAddressId": "81401cd55e3de3651nV-39W8FlJSxo66V_qZ",
-      "address": "成都武侯区吉泰壹号大厦1",
-      "longitude": 104.059896,
-      "latitude": 30.537097,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbcaf7c908591dd121fb27edcd52a920",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/535f5473f7e15bf276f333a2e96b1933",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Golang",
-        "测试工作经验",
-        "自动化测试",
-        "计算机相关专业",
-        "软件开发经验",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240910/607f1f3d68754fd0fdf1c383d687844b69573563b381511742f130e0430b05b050eb72df0647ef3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1733480344265,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240910/607f1f3d68754fd0fdf1c383d687844b69573563b381511742f130e0430b05b050eb72df0647ef3_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1733480344265,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区吉泰壹号大厦1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "81401cd55e3de3651nV-39W8FlJSxo66V_qZ",
+        "encryptId": "cfd98471ad29d67803R-2tW0GFBS",
+        "encryptUserId": "51972a9b98813ccc0XZ73di5EltU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.537097,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.059896,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/535f5473f7e15bf276f333a2e96b1933",
+        "position": 100305,
+        "positionName": "测试开发",
+        "postDescription": "岗位职责：\n1. 负责公司内多个项目的自动化建设及工具框架开发。\n2. 优化现有测试流程及方法，通过技术创新提高测试效率，降低软件交付风险。\n3. 能和团队密切配合，发现、定位并跟踪问题，推动问题及时合理地解决。\n4. 有流程优化，技术创新意识，不断优化产品迭代方式，研发相关测试工具，平台，提升测试效率。\n5. 能够结合项目需要，设计并落地自动化解决方案。\n\n职位要求\n职责要求：\n1. 大专及以上计算机相关学历，2年左右互联网复杂产品的测试开发经验。\n2. 熟练掌握Python语言，了解Golang。\n3. 丰富的终端和服务端分层测试经验，具备良好的多端系统级测试分析能力。\n4. 成熟的测试工具和平台的规划开发和建设能力。\n5. 工作认真负责，具备快速高效学习的能力，能够快速适应新业务，新环境。\n6. 优秀的项目管理和学习能力、协同能力、沟通能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "Golang",
+            "测试工作经验",
+            "自动化测试",
+            "计算机相关专业",
+            "软件开发经验",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbcaf7c908591dd121fb27edcd52a920"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "46jfgGQwP7dbq-s1eC-KGGs6wE8OmKjZqoieQlcINc4aQ0yz-Q_N4JOMDaXPgEFdUMRpRryW-UlWyiph0L6bOU0XdDJObiBY04zEcpCG3w0z4Yn5RZwi3QkzrGRYGhRpaMjoVEDSmJGTLCxizZMI3hCEAvb9c_-hVyNkLmQ4VcQZNb1ubnk3Wl_DYOQBwWng9sxAhCvGtQ0ms5ASafWrkXy1Bg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qpXB-6XrpaUaE-E1YF8ydQuHtF9GCsf-eG7lmwumg-UYRM4DrWI6CywUh_90nN3NpqHLMeNvfropsndiWy_XzrjnfA0SaTuCjdkLn2Kd6XtxX4CYPIEy",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e7bc5ca871fc84071HR829-5FVtY",
-      "encryptUserId": "25691ac6b5520dc30nx929y_FVtY",
-      "invalidStatus": false,
-      "jobName": "采集运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101271700,
-      "locationName": "德阳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1、电力系统操作；\n2、电力采集运维相关操作；\n3、适应公司岗位调动，工作地点根据项目地址定，基本在大德阳地区。\n职位要求：\n1、40岁以下，条件好可适当放宽年龄，会开车，有自己的交通工具。\n2、熟练电脑操作，电力相关专业。有相关电力证书最好，做事灵活（优秀者可适当放宽）\n3、有责任心、做事积极主动。\n工作福利：六险、加班补助、值班补助、婚假、生育假、年终奖、节日福利等。\n上班地址：德阳供电公司或者罗江供电公司，咨询者请明确意向工作地点",
-      "encryptAddressId": "9d22131f2de6eb3f1nV-3N-0E1ZY",
-      "address": "德阳旌阳区国家电网(庐山南路供电营业厅)1",
-      "longitude": 104.411136,
-      "latitude": 31.117071,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230813/48ba41acc9cef1bf21574c82df8a7fe3bd3555d5f3acc3446bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230813/48ba41acc9cef1bfbb21cb3cc5fc558693316fe1d1e6a9306bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子/电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "睿创智能科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "08462539ce8b39031Xxz29W-FVA~",
-      "brandName": "睿创智能科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727402318359,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "睿创智能科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "睿创智能科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727402318359,
+        "brandName": "睿创智能科技有限公司",
+        "customerBrandName": "睿创智能科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "08462539ce8b39031Xxz29W-FVA~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "德阳旌阳区国家电网(庐山南路供电营业厅)1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "9d22131f2de6eb3f1nV-3N-0E1ZY",
+        "encryptId": "e7bc5ca871fc84071HR829-5FVtY",
+        "encryptUserId": "25691ac6b5520dc30nx929y_FVtY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "采集运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.117071,
+        "location": 101271700,
+        "locationName": "德阳",
+        "longitude": 104.411136,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230813/48ba41acc9cef1bfbb21cb3cc5fc558693316fe1d1e6a9306bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容：\n1、电力系统操作；\n2、电力采集运维相关操作；\n3、适应公司岗位调动，工作地点根据项目地址定，基本在大德阳地区。\n职位要求：\n1、40岁以下，条件好可适当放宽年龄，会开车，有自己的交通工具。\n2、熟练电脑操作，电力相关专业。有相关电力证书最好，做事灵活（优秀者可适当放宽）\n3、有责任心、做事积极主动。\n工作福利：六险、加班补助、值班补助、婚假、生育假、年终奖、节日福利等。\n上班地址：德阳供电公司或者罗江供电公司，咨询者请明确意向工作地点",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "电子/电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230813/48ba41acc9cef1bf21574c82df8a7fe3bd3555d5f3acc3446bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qpXB-6XrpaUaE-E1YF8ydQuHtF9GCsf-eG7lmwumg-UYRM4DrWI6CywUh_90nN3NpqHLMeNvfropsndiWy_XzrjnfA0SaTuCjdkLn2Kd6XtxX4CYPIEy",
+    "selfAccess": false,
+    "sessionId": null
 }

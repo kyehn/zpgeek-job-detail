@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RwMIJRUvF5YSX-l1v2ajI61fXRbLk0KAx62_vAarXiYTbIH8yAOsxuq3nSBBxrE_v0yDool__QFqawKTN4RHtsXUO_w7QUlrqqYDj8DBjCiM6Wyt3jTIsvfm2dLiTfUSBpZdHBKsZKV7k0OlZmL3XnUwTc7d",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "271cae4e153f36ab1HB73di7GVBV",
-      "encryptUserId": "5a421b318f9227370nF53ti9GFtT",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、根据测试任务，编写并执行测试用例；\n2、把握测试进度，把控软件质量，跟进 BUG 的解决；\n3、关注所负责功能的后续使用情况，及时更新帮助文档；\n4、对接客户，跟进线上问题、客户答疑。\n5、跟踪系统上线后的运维工作，及时跟踪客户功能使用中提出的问题；\n5、跟进项目交付进度（前期有人带，熟悉后自己跟进）\n\n任职要求：\n1、2-3年测试经验；\n2、掌握软件测试理论，软件测试流程以及测试用例设计方法；\n3、熟悉 SVN 、 VSS 、禅道等日常软件测试工具；\n4、熟悉 mysql , oracle 数据库，掌握数据库理论知识；\n5、了解 Selenium , postman , soapui , LambdaTest , Jmeter 等至少一种测试工具，具有性能压测、性能分析经验；\n6、要求逻辑清晰，善于沟通；\n7、有web端 和 移动端 测试经验；\n8、有 ERP 业务经验优先；",
-      "encryptAddressId": "8a4a94f4b0ebbef10H1_0tu_E1Y~",
-      "address": "深圳福田区绿景NEO大厦27f",
-      "longitude": 114.029636,
-      "latitude": 22.53573,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44a5877eacfd1440f0464a067d320cde",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a264755433d3b9b14b0bb851d9159928",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "邓女士",
-      "title": "产品",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "云创时代科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "514c90a8217332d133183t69EA~~",
-      "brandName": "云创时代科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1741953391201,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云创时代科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云创时代科技",
+        "certificated": true,
+        "large": null,
+        "name": "邓女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "产品"
+    },
+    "brandComInfo": {
+        "activeTime": 1741953391201,
+        "brandName": "云创时代科技",
+        "customerBrandName": "云创时代科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "514c90a8217332d133183t69EA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳福田区绿景NEO大厦27f",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "8a4a94f4b0ebbef10H1_0tu_E1Y~",
+        "encryptId": "271cae4e153f36ab1HB73di7GVBV",
+        "encryptUserId": "5a421b318f9227370nF53ti9GFtT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.53573,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.029636,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a264755433d3b9b14b0bb851d9159928",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责：\n1、根据测试任务，编写并执行测试用例；\n2、把握测试进度，把控软件质量，跟进 BUG 的解决；\n3、关注所负责功能的后续使用情况，及时更新帮助文档；\n4、对接客户，跟进线上问题、客户答疑。\n5、跟踪系统上线后的运维工作，及时跟踪客户功能使用中提出的问题；\n5、跟进项目交付进度（前期有人带，熟悉后自己跟进）\n\n任职要求：\n1、2-3年测试经验；\n2、掌握软件测试理论，软件测试流程以及测试用例设计方法；\n3、熟悉 SVN 、 VSS 、禅道等日常软件测试工具；\n4、熟悉 mysql , oracle 数据库，掌握数据库理论知识；\n5、了解 Selenium , postman , soapui , LambdaTest , Jmeter 等至少一种测试工具，具有性能压测、性能分析经验；\n6、要求逻辑清晰，善于沟通；\n7、有web端 和 移动端 测试经验；\n8、有 ERP 业务经验优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44a5877eacfd1440f0464a067d320cde"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RwMIJRUvF5YSX-l1v2ajI61fXRbLk0KAx62_vAarXiYTbIH8yAOsxuq3nSBBxrE_v0yDool__QFqawKTN4RHtsXUO_w7QUlrqqYDj8DBjCiM6Wyt3jTIsvfm2dLiTfUSBpZdHBKsZKV7k0OlZmL3XnUwTc7d",
+    "selfAccess": false,
+    "sessionId": null
 }

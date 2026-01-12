@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZRznUjA8uXVRZ-X1P6ci-QlRTwp4XTa1FNBtuqGqbeqpONM4SysxbO2_C2of9NJyw98oF-VBwIofp3kV1cXXzvzT0V4_vkp8flNiNBF5rWWEOBMHb5F1Oei2U4TNYgpe5eOhtBAuTEurNyQcuLvLwWBqjsHtxTAmm_yuXPBaJYxKUEq6PkI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "47cdef93125a39c903R429-1EVJV",
-      "encryptUserId": "ec4c16080d8e18fe1nR62Nu9E1pU",
-      "invalidStatus": false,
-      "jobName": "运维工程师-外包金山文档",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K",
-      "payTypeDesc": null,
-      "postDescription": "职责：\n1、掌握金山办公服务商管理制度、安全制度、实施标准\n2、能够独立完成私有云产品的安装部署、巡检等常规实施运维操作；\n3、以服务可用性为根本，独立解决常规化、标准化问题，维护使用私有云产品相关客户的服务可用性，在部分协助下，解决生产环境涉及的故障、问题；\n4、能够编写实施运维相关方案或wiki\n\n技能要求：\n1、本科以上学历，具备2年以上工作经验，熟悉市场主流办公、云产品；\n2、了解linux系列操作系统及虚拟化技术，灵活运用linux命令进行相关配置；\n3、了解K8S、Docker、Mysql等中间件、数据库；可自主执行命令进行操作\n4、了解Grafana、Prometheus的基础数据指标和使用方法，具备相关分析能力，对可能存在的风险指标提出告警；\n5、了解网络交换机、路由器、防火墙、容灾、集群等基本概念，可进行简单的配置和处理\n6、具备基本的文字表达能力，能够根据基础文本资料输出项目实施运维所需的目标文档\n7、具备良好的思维、沟通、学习能力，独立处理和解决临时问题",
-      "encryptAddressId": "4018cfdf973208891nF52NW5EVtRwIi4UP6W",
-      "address": "武汉江夏区光谷金融港湖北省武汉市江夏区金融港中路在光谷金融港",
-      "longitude": 114.425296,
-      "latitude": 30.456019,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf7c9b2106309ec69beb9924078ee06ed86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1ebcd45034ceb4c1a76325d1fc2050f46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240524/607f1f3d68754fd0ca86177da24ba528a581303f079450ed5e4107d5327208346a28497b4b88923_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "上海瑞应人才科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "62518f9a3d79dd931XV_09y4FFo~",
-      "brandName": "上海瑞应人才科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假"
-      ],
-      "activeTime": 1732586532000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海瑞应人才科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "上海瑞应人才科技",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240524/607f1f3d68754fd0ca86177da24ba528a581303f079450ed5e4107d5327208346a28497b4b88923_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732586532000,
+        "brandName": "上海瑞应人才科技",
+        "customerBrandName": "上海瑞应人才科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "62518f9a3d79dd931XV_09y4FFo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区光谷金融港湖北省武汉市江夏区金融港中路在光谷金融港",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4018cfdf973208891nF52NW5EVtRwIi4UP6W",
+        "encryptId": "47cdef93125a39c903R429-1EVJV",
+        "encryptUserId": "ec4c16080d8e18fe1nR62Nu9E1pU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师-外包金山文档",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.456019,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.425296,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1ebcd45034ceb4c1a76325d1fc2050f46bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "职责：\n1、掌握金山办公服务商管理制度、安全制度、实施标准\n2、能够独立完成私有云产品的安装部署、巡检等常规实施运维操作；\n3、以服务可用性为根本，独立解决常规化、标准化问题，维护使用私有云产品相关客户的服务可用性，在部分协助下，解决生产环境涉及的故障、问题；\n4、能够编写实施运维相关方案或wiki\n\n技能要求：\n1、本科以上学历，具备2年以上工作经验，熟悉市场主流办公、云产品；\n2、了解linux系列操作系统及虚拟化技术，灵活运用linux命令进行相关配置；\n3、了解K8S、Docker、Mysql等中间件、数据库；可自主执行命令进行操作\n4、了解Grafana、Prometheus的基础数据指标和使用方法，具备相关分析能力，对可能存在的风险指标提出告警；\n5、了解网络交换机、路由器、防火墙、容灾、集群等基本概念，可进行简单的配置和处理\n6、具备基本的文字表达能力，能够根据基础文本资料输出项目实施运维所需的目标文档\n7、具备良好的思维、沟通、学习能力，独立处理和解决临时问题",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf7c9b2106309ec69beb9924078ee06ed86bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZRznUjA8uXVRZ-X1P6ci-QlRTwp4XTa1FNBtuqGqbeqpONM4SysxbO2_C2of9NJyw98oF-VBwIofp3kV1cXXzvzT0V4_vkp8flNiNBF5rWWEOBMHb5F1Oei2U4TNYgpe5eOhtBAuTEurNyQcuLvLwWBqjsHtxTAmm_yuXPBaJYxKUEq6PkI~",
+    "selfAccess": false,
+    "sessionId": null
 }

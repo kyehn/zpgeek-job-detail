@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BF48C2SC-UJcN-f1grtdjm2VN7Cw5weAFr86FDqTGPwJ0afuqnPUD86glV5brZRvCYDgKs6-dPvaGPtz7i-Lj3dB45ghR-kU6WORWlVAKKs1c6krKQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4d840ed4d9c40b7c1Hx-39i5F1RZ",
-      "encryptUserId": "7a30e6b7ce58f0c003Zz0tS5Els~",
-      "invalidStatus": false,
-      "jobName": "现场运维工程师 南京",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、负责大型演出项目的现场保障，具备现场验票方案的输出，执行能力，对现场突发事件能有效解决\n2、负责剧院取票机的维护，演出项目打票机的维护，能对使用人员进行系统的培训\n3、负责演出项目的底层数据录入及制作，满足业务使用\n\n\n岗位要求\n1、本科及以上学历\n2、三年以上实施及软硬件集成工作经验，有演出行业经验优先\n3、沟通能力强，具备跨部门沟通能力，善于通过沟通和表达，快速解决问题\n4、应变能力强，心态好，具备服务精神\n5、熟悉主流操作系统的使用，具备独立组建局域网的能力，具备用电常识",
-      "encryptAddressId": "28fcac167fe2a1c41ndy0ti1EVNR",
-      "address": "南京雨花台区南京软件有限公司5楼",
-      "longitude": 118.765228,
-      "latitude": 31.977462,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230409/48ba41acc9cef1bf225a03c7d3f95aa97cabadf4486036816bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfb514c1bbaa6ec3b4c8b269211982520c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机/通信相关专业",
-        "打印机/复印机维修经验",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "袁女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190708/8741d8464baa168293044378632de8c71f03b25b0ada98f9e209502a8d5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "猫眼娱乐",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7a1878c953cdaf691Hx52Nu6GQ~~",
-      "brandName": "猫眼娱乐",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241010/7bf6f160950405e96250c697c6ad78df1a7627939bdfd53e9b7977755dc35307c532a058be0b8ea5.png.webp",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "猫眼娱乐是中国领先的科技+全文娱服务平台，业务包括在线票务、文娱内容服务、广告营销等，覆盖电影、现场娱乐、网生内容、短视频等各个领域。拥有票务、产品、数据、营销四大平台，覆盖了从IP开发、投资出品、宣传发行、在线票务等文娱全产业链。2019年，猫眼娱乐在香港主板鸣锣上市，成为香港资本市场“互联网娱乐服务第一股”。",
-      "labels": [
-        "五险一金",
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "带薪年假"
-      ],
-      "activeTime": 1731329109512,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "猫眼娱乐",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "猫眼娱乐",
+        "certificated": true,
+        "large": null,
+        "name": "袁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190708/8741d8464baa168293044378632de8c71f03b25b0ada98f9e209502a8d5_b.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1731329109512,
+        "brandName": "猫眼娱乐",
+        "customerBrandName": "猫眼娱乐",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "7a1878c953cdaf691Hx52Nu6GQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "猫眼娱乐是中国领先的科技+全文娱服务平台，业务包括在线票务、文娱内容服务、广告营销等，覆盖电影、现场娱乐、网生内容、短视频等各个领域。拥有票务、产品、数据、营销四大平台，覆盖了从IP开发、投资出品、宣传发行、在线票务等文娱全产业链。2019年，猫眼娱乐在香港主板鸣锣上市，成为香港资本市场“互联网娱乐服务第一股”。",
+        "labels": [
+            "五险一金",
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "带薪年假"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241010/7bf6f160950405e96250c697c6ad78df1a7627939bdfd53e9b7977755dc35307c532a058be0b8ea5.png.webp",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区南京软件有限公司5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "28fcac167fe2a1c41ndy0ti1EVNR",
+        "encryptId": "4d840ed4d9c40b7c1Hx-39i5F1RZ",
+        "encryptUserId": "7a30e6b7ce58f0c003Zz0tS5Els~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "现场运维工程师 南京",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.977462,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.765228,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfb514c1bbaa6ec3b4c8b269211982520c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "岗位职责\n1、负责大型演出项目的现场保障，具备现场验票方案的输出，执行能力，对现场突发事件能有效解决\n2、负责剧院取票机的维护，演出项目打票机的维护，能对使用人员进行系统的培训\n3、负责演出项目的底层数据录入及制作，满足业务使用\n\n\n岗位要求\n1、本科及以上学历\n2、三年以上实施及软硬件集成工作经验，有演出行业经验优先\n3、沟通能力强，具备跨部门沟通能力，善于通过沟通和表达，快速解决问题\n4、应变能力强，心态好，具备服务精神\n5、熟悉主流操作系统的使用，具备独立组建局域网的能力，具备用电常识",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "计算机/通信相关专业",
+            "打印机/复印机维修经验",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230409/48ba41acc9cef1bf225a03c7d3f95aa97cabadf4486036816bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BF48C2SC-UJcN-f1grtdjm2VN7Cw5weAFr86FDqTGPwJ0afuqnPUD86glV5brZRvCYDgKs6-dPvaGPtz7i-Lj3dB45ghR-kU6WORWlVAKKs1c6krKQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

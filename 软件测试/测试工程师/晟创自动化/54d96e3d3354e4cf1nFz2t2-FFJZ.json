@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jtQzEEIi9aFfM-d1lh8XqOJz5BXdzDKdRN_m6ufHwx_M2hkBh0Dk7DOmc7Rj2D04lyFy7jOSn9_wERPh3TzVfpz4K2PBEJrKsN5Q4Oim51-PFpgx9oA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "54d96e3d3354e4cf1nFz2t2-FFJZ",
-      "encryptUserId": "e86ecfa750ac711203d80964GVY~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.从事测试系统、测试设备、信息系统相关调试工作；\n2.完成软件编写及测试，填写测试报告；\n3.参与项目现场的软件部署调试和技术支持工作；\n4.完成相应技术文件编写。\n任职条件：\n1.专科及以上学历，电气、测控技术与仪器、信号处理、通信、计算机等相关专业；\n2.熟练使用Labview/C#开发平台；\n3.熟练掌握数据采集、仪器控制、信号处理、总线通信、数据库操作、文件操作等方法；\n4.有一定英文阅读能力，能够阅读英文手册和技术文章；\n5.工作积极主动，学习、动手能力强；\n6.有非标测控设备、信息系统、系统集成项目经验者优先。",
-      "encryptAddressId": "fd53ee3cbff987e41nZz3dW0GQ~~",
-      "address": "武汉东西湖区武汉晟创自动化工程有限公司51号",
-      "longitude": 114.177083,
-      "latitude": 30.678044,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/083c92755fc7aa222338f8d26a7f9700",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a66e6f5872983d0d03102cd84fd71cd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "labview测试工程师",
-        "C++",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "彭女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "晟创自动化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9644030a0ff8d6f91nBz3dm0E1s~",
-      "brandName": "晟创自动化",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "非标自动化研发设计装配",
-      "labels": [],
-      "activeTime": 1727768662134,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "晟创自动化",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "晟创自动化",
+        "certificated": true,
+        "large": null,
+        "name": "彭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1727768662134,
+        "brandName": "晟创自动化",
+        "customerBrandName": "晟创自动化",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9644030a0ff8d6f91nBz3dm0E1s~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "非标自动化研发设计装配",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉东西湖区武汉晟创自动化工程有限公司51号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "fd53ee3cbff987e41nZz3dW0GQ~~",
+        "encryptId": "54d96e3d3354e4cf1nFz2t2-FFJZ",
+        "encryptUserId": "e86ecfa750ac711203d80964GVY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.678044,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.177083,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a66e6f5872983d0d03102cd84fd71cd",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责：\n1.从事测试系统、测试设备、信息系统相关调试工作；\n2.完成软件编写及测试，填写测试报告；\n3.参与项目现场的软件部署调试和技术支持工作；\n4.完成相应技术文件编写。\n任职条件：\n1.专科及以上学历，电气、测控技术与仪器、信号处理、通信、计算机等相关专业；\n2.熟练使用Labview/C#开发平台；\n3.熟练掌握数据采集、仪器控制、信号处理、总线通信、数据库操作、文件操作等方法；\n4.有一定英文阅读能力，能够阅读英文手册和技术文章；\n5.工作积极主动，学习、动手能力强；\n6.有非标测控设备、信息系统、系统集成项目经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "labview测试工程师",
+            "C++",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/083c92755fc7aa222338f8d26a7f9700"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jtQzEEIi9aFfM-d1lh8XqOJz5BXdzDKdRN_m6ufHwx_M2hkBh0Dk7DOmc7Rj2D04lyFy7jOSn9_wERPh3TzVfpz4K2PBEJrKsN5Q4Oim51-PFpgx9oA~",
+    "selfAccess": false,
+    "sessionId": null
 }

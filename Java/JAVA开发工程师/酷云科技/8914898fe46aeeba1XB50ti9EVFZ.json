@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GBQXuhZHjTNGa-11I0TrzwuclWVmyLwXHxpupzxtZHVdApnWNimPjEVusXwhlo1z-zmEsizlpBwrc12TRF4Rc1rc5_-VxwmTSkhyNq3NeDcOPQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8914898fe46aeeba1XB50ti9EVFZ",
-      "encryptUserId": "21d08de40f785f8533V_29-4",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "【岗位职责】\n\n1、Java后台程序开发；\n\n2、参与设计、测试等技术工作；\n\n3、分析并解决软件开发过程中的问题。\n\n\n【任职要求】\n\n1、计算机、电子、通信相关专业；\n\n2、熟悉Java开发语言，熟练操作hibernate、spring、mybatis、ajax、jpa等框架结构；\n\n3、熟悉MySQL、Oracle等数据库操作；\n\n4、具有良好的语言沟通能力，团队协作精神，工作踏实、有责任心。",
-      "encryptAddressId": "aa88986027abf1a60Xx83tS6ElY~",
-      "address": "广州海珠区中山大学国家大学科技园A座1104",
-      "longitude": 113.291786,
-      "latitude": 23.092943,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92893b30e260ed94ed5899a9135c1e45",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d58761056eb2d73c2640f9eba3405f34",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "全栈工程师",
-        "Java",
-        "Spring",
-        "MyBatis",
-        "计算机/软件工程相关经验",
-        "Java开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "林先生",
-      "title": "技术负责人",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "酷云科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d0a8cc1f60a171010XR429q8",
-      "brandName": "酷云科技",
-      "logo": null,
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1730047952545,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "酷云科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "酷云科技",
+        "certificated": true,
+        "large": null,
+        "name": "林先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "技术负责人"
+    },
+    "brandComInfo": {
+        "activeTime": 1730047952545,
+        "brandName": "酷云科技",
+        "customerBrandName": "酷云科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d0a8cc1f60a171010XR429q8",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州海珠区中山大学国家大学科技园A座1104",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "aa88986027abf1a60Xx83tS6ElY~",
+        "encryptId": "8914898fe46aeeba1XB50ti9EVFZ",
+        "encryptUserId": "21d08de40f785f8533V_29-4",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.092943,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.291786,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d58761056eb2d73c2640f9eba3405f34",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "【岗位职责】\n\n1、Java后台程序开发；\n\n2、参与设计、测试等技术工作；\n\n3、分析并解决软件开发过程中的问题。\n\n\n【任职要求】\n\n1、计算机、电子、通信相关专业；\n\n2、熟悉Java开发语言，熟练操作hibernate、spring、mybatis、ajax、jpa等框架结构；\n\n3、熟悉MySQL、Oracle等数据库操作；\n\n4、具有良好的语言沟通能力，团队协作精神，工作踏实、有责任心。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "后端工程师",
+            "全栈工程师",
+            "Java",
+            "Spring",
+            "MyBatis",
+            "计算机/软件工程相关经验",
+            "Java开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92893b30e260ed94ed5899a9135c1e45"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GBQXuhZHjTNGa-11I0TrzwuclWVmyLwXHxpupzxtZHVdApnWNimPjEVusXwhlo1z-zmEsizlpBwrc12TRF4Rc1rc5_-VxwmTSkhyNq3NeDcOPQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

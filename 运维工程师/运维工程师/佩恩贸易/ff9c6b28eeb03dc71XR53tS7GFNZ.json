@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_S0M_dPmtS_1H-P1W1tFpI4mu_YtmeMl1ORuPltKnFt78GADfUaNx2aEVrJPe0EyagNyFrYmzZmli14ORbr34v5Csc1yhmsm-ym2iFWuA9BeVzw5aA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ff9c6b28eeb03dc71XR53tS7GFNZ",
-      "encryptUserId": "5634c279f52318120HN72Nq8EVA~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "要求熟悉区块链运维  熟悉机器运行维护流程",
-      "encryptAddressId": "15ff74daf3c5e6c603x52Nq_ElQ~",
-      "address": "东莞东莞市中驰建设工程有限公司101",
-      "longitude": 114.171124,
-      "latitude": 22.828245,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02748fe803257e5ddab11af1e110dd2d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f06612cf01d8eab939e5b78b9799c6f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维 区块链"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "佩恩贸易",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3b49a1e2dd35cdaf0XR-09i7GQ~~",
-      "brandName": "佩恩贸易",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729887341522,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "佩恩贸易",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "佩恩贸易",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729887341522,
+        "brandName": "佩恩贸易",
+        "customerBrandName": "佩恩贸易",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3b49a1e2dd35cdaf0XR-09i7GQ~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞东莞市中驰建设工程有限公司101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "15ff74daf3c5e6c603x52Nq_ElQ~",
+        "encryptId": "ff9c6b28eeb03dc71XR53tS7GFNZ",
+        "encryptUserId": "5634c279f52318120HN72Nq8EVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.828245,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 114.171124,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f06612cf01d8eab939e5b78b9799c6f",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "要求熟悉区块链运维  熟悉机器运行维护流程",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "运维 区块链"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02748fe803257e5ddab11af1e110dd2d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_S0M_dPmtS_1H-P1W1tFpI4mu_YtmeMl1ORuPltKnFt78GADfUaNx2aEVrJPe0EyagNyFrYmzZmli14ORbr34v5Csc1yhmsm-ym2iFWuA9BeVzw5aA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

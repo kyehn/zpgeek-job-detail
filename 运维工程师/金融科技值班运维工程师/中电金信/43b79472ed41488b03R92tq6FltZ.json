@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Ug5TDLC2OJAQd-L1L5CJFsuich1EujYTmZv51sDjR8vJvelDPtYI2zSp8P-9e6PBf542GL_p00oNL76P2LXcfx0tOSgNd2QT_39ihwJzNkf-E58zQFKCDMJXf1aYsf5xjyTCcWgA1eu7rdEcsTAU4aiPBZA6",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "43b79472ed41488b03R92tq6FltZ",
-      "encryptUserId": "a482f5afc2d00de01XN62d25EFU~",
-      "invalidStatus": false,
-      "jobName": "金融科技值班运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "负责运营中心7*24小时值班运营工作，包括：\n1、业务告警处理：响应和分析内部业务的监控告警、外部用户/合作方的咨询投诉，及时准确发现业务故障，跟进至故障恢复。\n2、值班数据分析：通过日常告警等业务数据分析，发现工具、流程的问题，并推动优化。\n3、运维开发工作支持：处理现网基础高频变更工作，保障100%及时正确处理。\n需求：\n1、计算机相关专业大专及以上学历，有7*24小时运维值班经验或支付金融行业工作经验优先；\n2、执行力强，思维清晰，有良好的逻辑性和数据分析能力；\n3、能接受轮班工作（每月7-8天通宵班,早班8:00-15:30,中班15:30-22:30,通宵班时间22:30-08:00）",
-      "encryptAddressId": "4b7347b8c252e5611nd409S5EVtT",
-      "address": "深圳南山区万利达科技大厦1",
-      "longitude": 113.933736,
-      "latitude": 22.540547,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8011a371e26473b29ce69f8e2aa7dcee",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a2b6efa0b305f99ac0df6a5556c1cd7",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "大夜班",
-        "系统运维",
-        "Python/Shell",
-        "值班运维",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241125/607f1f3d68754fd0869fb8598a88c5eb836b9c5cff20ac7dc2194cd9c2c2d676a7197795c85397e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1734604208177,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241125/607f1f3d68754fd0869fb8598a88c5eb836b9c5cff20ac7dc2194cd9c2c2d676a7197795c85397e_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1734604208177,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区万利达科技大厦1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "4b7347b8c252e5611nd409S5EVtT",
+        "encryptId": "43b79472ed41488b03R92tq6FltZ",
+        "encryptUserId": "a482f5afc2d00de01XN62d25EFU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "金融科技值班运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.540547,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.933736,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a2b6efa0b305f99ac0df6a5556c1cd7",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "负责运营中心7*24小时值班运营工作，包括：\n1、业务告警处理：响应和分析内部业务的监控告警、外部用户/合作方的咨询投诉，及时准确发现业务故障，跟进至故障恢复。\n2、值班数据分析：通过日常告警等业务数据分析，发现工具、流程的问题，并推动优化。\n3、运维开发工作支持：处理现网基础高频变更工作，保障100%及时正确处理。\n需求：\n1、计算机相关专业大专及以上学历，有7*24小时运维值班经验或支付金融行业工作经验优先；\n2、执行力强，思维清晰，有良好的逻辑性和数据分析能力；\n3、能接受轮班工作（每月7-8天通宵班,早班8:00-15:30,中班15:30-22:30,通宵班时间22:30-08:00）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K·13薪",
+        "showSkills": [
+            "大夜班",
+            "系统运维",
+            "Python/Shell",
+            "值班运维",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8011a371e26473b29ce69f8e2aa7dcee"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Ug5TDLC2OJAQd-L1L5CJFsuich1EujYTmZv51sDjR8vJvelDPtYI2zSp8P-9e6PBf542GL_p00oNL76P2LXcfx0tOSgNd2QT_39ihwJzNkf-E58zQFKCDMJXf1aYsf5xjyTCcWgA1eu7rdEcsTAU4aiPBZA6",
+    "selfAccess": false,
+    "sessionId": null
 }

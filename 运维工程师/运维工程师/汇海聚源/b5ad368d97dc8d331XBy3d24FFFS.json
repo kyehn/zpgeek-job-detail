@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7OIIlTunxjSK_-111pdVOBlKAYBNTZjllHLhrFnqgZng4k43n47aY0elZZ0F4f0Qwark9ap-etYg4bQaUElBS2IPtJxja1Yl5hIrJn6NrdLqBdXp5W2JxX5_D0-L0FdokgkyAOGIFdWB1NE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b5ad368d97dc8d331XBy3d24FFFS",
-      "encryptUserId": "79ec5c47f0b5e6df1nR-0t-_FVFY",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责日常会议保障，机房运行\n2. 负责政府内商务沟通",
-      "encryptAddressId": "6fd5fd66092ff4270HV53d29GVo~",
-      "address": "北京门头沟区北京市门头沟区总工会应急局",
-      "longitude": 116.101073,
-      "latitude": 39.940917,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50374ae2d2af1a8f0d9f86bffda43513",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d60fe0f7768b0a8eab9ac884482be6f2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孔先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd0d1dd6961d42862c570848676203e5f3025d32439b158b14c1c3fbcac91750ba_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "汇海聚源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2c1bf56848990c711Xd43ti6EFM~",
-      "brandName": "汇海聚源",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100104,
-      "industryName": "文化艺术/娱乐",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725603996701,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "汇海聚源",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "汇海聚源",
+        "certificated": true,
+        "large": null,
+        "name": "孔先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd0d1dd6961d42862c570848676203e5f3025d32439b158b14c1c3fbcac91750ba_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725603996701,
+        "brandName": "汇海聚源",
+        "customerBrandName": "汇海聚源",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2c1bf56848990c711Xd43ti6EFM~",
+        "focusBrand": false,
+        "industry": 100104,
+        "industryName": "文化艺术/娱乐",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京门头沟区北京市门头沟区总工会应急局",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6fd5fd66092ff4270HV53d29GVo~",
+        "encryptId": "b5ad368d97dc8d331XBy3d24FFFS",
+        "encryptUserId": "79ec5c47f0b5e6df1nR-0t-_FVFY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.940917,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.101073,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d60fe0f7768b0a8eab9ac884482be6f2",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.负责日常会议保障，机房运行\n2. 负责政府内商务沟通",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50374ae2d2af1a8f0d9f86bffda43513"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7OIIlTunxjSK_-111pdVOBlKAYBNTZjllHLhrFnqgZng4k43n47aY0elZZ0F4f0Qwark9ap-etYg4bQaUElBS2IPtJxja1Yl5hIrJn6NrdLqBdXp5W2JxX5_D0-L0FdokgkyAOGIFdWB1NE~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iEfNzkXIAsIpW-51EO5EUIGpnKsyz8pZQMubaFRIMRVpk8uH7dVB3bK-lsFeTmIoj7BrhuJawft7MShcvfBA_Fgpu_UdLdgObmAa2oQJ-48Zuvl28dnCVgFSUfYYvWLdNGbapP3TNQnZ1jl5Zd9Wb-aaA3YXgQmH34l5KfEWsP_lUoTs1_u3EwGu25-z7FgfthIgPeWMVqt_YDkMF-XFJyTihw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b385cebb650856711nJ42tu1FlRQ",
-      "encryptUserId": "11e8179d9c5a719a0nd82Nm7F1tY",
-      "invalidStatus": false,
-      "jobName": "Python后台工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1. 根据设计完成代码编写、调试、测试和维护；\n2. 使用Python语言对后台业务逻辑进行开发以及维护；\n3. 能根据实际需求，使用前沿第三方框架实现各种功能。\n\n职位要求：\n1. 精通Python语言；\n2. 熟悉PEP8编程规范；\n3. 具有良好的沟通能力、团队合作精神、优秀的分析问题和解决问题的能力。",
-      "encryptAddressId": "7a2b2ffc78cc8e8f1XJ-3tm1FA~~",
-      "address": "深圳南山区深圳湾科技生态园二区9栋A3209",
-      "longitude": 113.953367,
-      "latitude": 22.532129,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e3f24e65728a22425c645a07c58e151",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51679aff9702ce96a6dd05a9dcc469ea",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "微服务架构",
-        "多线程",
-        "分布式技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "澎湃智元",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a2d3cdd86d5ce90d1nN92Nm5F1Q~",
-      "brandName": "澎湃智元",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "交通补助",
-        "零食下午茶"
-      ],
-      "activeTime": 1735530755016,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "澎湃智元",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "澎湃智元",
+        "certificated": true,
+        "large": null,
+        "name": "唐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1735530755016,
+        "brandName": "澎湃智元",
+        "customerBrandName": "澎湃智元",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a2d3cdd86d5ce90d1nN92Nm5F1Q~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "交通补助",
+            "零食下午茶"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区深圳湾科技生态园二区9栋A3209",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "7a2b2ffc78cc8e8f1XJ-3tm1FA~~",
+        "encryptId": "b385cebb650856711nJ42tu1FlRQ",
+        "encryptUserId": "11e8179d9c5a719a0nd82Nm7F1tY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Python后台工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.532129,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.953367,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51679aff9702ce96a6dd05a9dcc469ea",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "工作职责：\n1. 根据设计完成代码编写、调试、测试和维护；\n2. 使用Python语言对后台业务逻辑进行开发以及维护；\n3. 能根据实际需求，使用前沿第三方框架实现各种功能。\n\n职位要求：\n1. 精通Python语言；\n2. 熟悉PEP8编程规范；\n3. 具有良好的沟通能力、团队合作精神、优秀的分析问题和解决问题的能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "微服务架构",
+            "多线程",
+            "分布式技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e3f24e65728a22425c645a07c58e151"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iEfNzkXIAsIpW-51EO5EUIGpnKsyz8pZQMubaFRIMRVpk8uH7dVB3bK-lsFeTmIoj7BrhuJawft7MShcvfBA_Fgpu_UdLdgObmAa2oQJ-48Zuvl28dnCVgFSUfYYvWLdNGbapP3TNQnZ1jl5Zd9Wb-aaA3YXgQmH34l5KfEWsP_lUoTs1_u3EwGu25-z7FgfthIgPeWMVqt_YDkMF-XFJyTihw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

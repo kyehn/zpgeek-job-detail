@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fu3rWArXtnMKz-w1fNhPGQzF1DNUDBOzb2K2gn4iq0tFT_XMhOW7ecElWEmcvVJ2hehkYPN6_iBUUltsLcqLJrKa1ithz7MMZgSEpiLWVVVkpik3IiC2",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5291840386ea5fce1Xx539i1F1VQ",
-      "encryptUserId": "63110f8aa42f203a0n182ty6GVdW",
-      "invalidStatus": false,
-      "jobName": "数据分析师J",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "工作时间\n\n1、7:30-23:00 轮班轮休，每个班次8小时左右\n\n2、可根据个人时间安排班次，多劳多得，做五休二\n\n三．薪资待遇\n\n1、月薪4000-6000左右\n\n2、法定十三薪，有班次补贴，有绩效奖励\n\n\n四．任职要求\n\n1、大专及以上学历，实习生提供实习证明；\n\n2、普通话标准，沟通表达流畅；",
-      "encryptAddressId": "397392a8ebe9d70033192d69E1M~",
-      "address": "武汉武昌区国控·紫阳广场5楼",
-      "longitude": 114.314854,
-      "latitude": 30.533499,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/168e51c4a690a05da77403b23e2d38c6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dab92f93504c7ae7b7dbc185da43fe30",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "R"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "肖女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "武汉醉仙艺商贸",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "af17dbcb987e60a41XN739i1F1c~",
-      "brandName": "武汉醉仙艺商贸",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100503,
-      "industryName": "批发/零售",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725377187622,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉醉仙艺商贸",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉醉仙艺商贸",
+        "certificated": true,
+        "large": null,
+        "name": "肖女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725377187622,
+        "brandName": "武汉醉仙艺商贸",
+        "customerBrandName": "武汉醉仙艺商贸",
+        "customerBrandStageName": "",
+        "encryptBrandId": "af17dbcb987e60a41XN739i1F1c~",
+        "focusBrand": false,
+        "industry": 100503,
+        "industryName": "批发/零售",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉武昌区国控·紫阳广场5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "397392a8ebe9d70033192d69E1M~",
+        "encryptId": "5291840386ea5fce1Xx539i1F1VQ",
+        "encryptUserId": "63110f8aa42f203a0n182ty6GVdW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据分析师J",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.533499,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.314854,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dab92f93504c7ae7b7dbc185da43fe30",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "工作时间\n\n1、7:30-23:00 轮班轮休，每个班次8小时左右\n\n2、可根据个人时间安排班次，多劳多得，做五休二\n\n三．薪资待遇\n\n1、月薪4000-6000左右\n\n2、法定十三薪，有班次补贴，有绩效奖励\n\n\n四．任职要求\n\n1、大专及以上学历，实习生提供实习证明；\n\n2、普通话标准，沟通表达流畅；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "R"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/168e51c4a690a05da77403b23e2d38c6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fu3rWArXtnMKz-w1fNhPGQzF1DNUDBOzb2K2gn4iq0tFT_XMhOW7ecElWEmcvVJ2hehkYPN6_iBUUltsLcqLJrKa1ithz7MMZgSEpiLWVVVkpik3IiC2",
+    "selfAccess": false,
+    "sessionId": null
 }

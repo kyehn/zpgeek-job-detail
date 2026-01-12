@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8I4Y3DicsMA36-U1UKmMIBTm3ncNOU4BTL9XAqrHJw5_DSnJVJd2jEppmI-6JcmRH6U-ypV_oI9Mva_InNiW8ML0qJSbQQqh5pwbOQGQKKoj_pXV2lY5a7PCpJzqoTjnCp9tZy7jwqcbiNuMavZqWr3s",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4a44f1d6b6e012731HJ-29q6GVpX",
-      "encryptUserId": "ae78ac6e37071a980nR53ty0FlVV",
-      "invalidStatus": false,
-      "jobName": "web服务端测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟悉测试用例设计的各种理论（如：等价类划分法，边界值法、因果图法、路径覆盖法、场景分析法、数据分析法），并能独立进行某模块的测试用例的设计 ； 2.能够结合工作需要，使用各种测试工具（例如：Selenium/SOAPUI/LR/Emma等），并对功能自动化及性能测试工具有一定的了解和使用（例如：QTP,SilkTest，Functional Tester） ； 3.能对自己模块的BUG进行分析，进行BUG的定位，及潜在的BUG趋势进行预测 ； 4.参与项目评审，把控需求和系统分析质量，提出功能可行性及设计存在的风险 5.能独立搭建测试环境 （linux）； 6.可以独立承担标准项目某模块的测试（功能，数据、接口），合理把控测试过程 ； 7.具备代码阅读能力； 8. 有较强的的沟通与表达能力，能够推动工作问题的解决。 9.有主动学习的能力，乐于解决问题； 10.认可互联网公司的工作方式，有基本的工作规划能力，对自己负责，吃苦耐劳",
-      "encryptAddressId": "f251a8e6e98a481d0XN-39i_EVZZy4m9Ufg~",
-      "address": "西安雁塔区西安曲江美居酒店88",
-      "longitude": 109.01315,
-      "latitude": 34.208662,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf7bdcb5aea19af58138bab3bc19d1671d6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfafcf2ccae988723c2d9efbbf73f4170b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "满女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "大连柠檬树科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8d724cf92b84f4991XRy39-_ElM~",
-      "brandName": "大连柠檬树科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725523321406,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大连柠檬树科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "大连柠檬树科技",
+        "certificated": true,
+        "large": null,
+        "name": "满女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725523321406,
+        "brandName": "大连柠檬树科技",
+        "customerBrandName": "大连柠檬树科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8d724cf92b84f4991XRy39-_ElM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区西安曲江美居酒店88",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f251a8e6e98a481d0XN-39i_EVZZy4m9Ufg~",
+        "encryptId": "4a44f1d6b6e012731HJ-29q6GVpX",
+        "encryptUserId": "ae78ac6e37071a980nR53ty0FlVV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "web服务端测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.208662,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 109.01315,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfafcf2ccae988723c2d9efbbf73f4170b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.熟悉测试用例设计的各种理论（如：等价类划分法，边界值法、因果图法、路径覆盖法、场景分析法、数据分析法），并能独立进行某模块的测试用例的设计 ； 2.能够结合工作需要，使用各种测试工具（例如：Selenium/SOAPUI/LR/Emma等），并对功能自动化及性能测试工具有一定的了解和使用（例如：QTP,SilkTest，Functional Tester） ； 3.能对自己模块的BUG进行分析，进行BUG的定位，及潜在的BUG趋势进行预测 ； 4.参与项目评审，把控需求和系统分析质量，提出功能可行性及设计存在的风险 5.能独立搭建测试环境 （linux）； 6.可以独立承担标准项目某模块的测试（功能，数据、接口），合理把控测试过程 ； 7.具备代码阅读能力； 8. 有较强的的沟通与表达能力，能够推动工作问题的解决。 9.有主动学习的能力，乐于解决问题； 10.认可互联网公司的工作方式，有基本的工作规划能力，对自己负责，吃苦耐劳",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf7bdcb5aea19af58138bab3bc19d1671d6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8I4Y3DicsMA36-U1UKmMIBTm3ncNOU4BTL9XAqrHJw5_DSnJVJd2jEppmI-6JcmRH6U-ypV_oI9Mva_InNiW8ML0qJSbQQqh5pwbOQGQKKoj_pXV2lY5a7PCpJzqoTjnCp9tZy7jwqcbiNuMavZqWr3s",
+    "selfAccess": false,
+    "sessionId": null
 }

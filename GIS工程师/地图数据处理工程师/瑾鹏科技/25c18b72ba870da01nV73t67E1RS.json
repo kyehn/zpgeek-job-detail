@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mRoFKTFFdAh0u-g1P0LL2E5nwEC7mh5637zajFvB0pU10xytyVbHfHU6bs8u5AgsLGzg0-o3aeRnqgY0FD-QEIxrL2as8NHtO7yHaS-MF1FxB7owinWr",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "25c18b72ba870da01nV73t67E1RS",
-      "encryptUserId": "dc7f02ecbb0564f60nR90tm0E1NW",
-      "invalidStatus": false,
-      "jobName": "地图数据处理工程师",
-      "position": 100124,
-      "positionName": "GIS工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "相关要求：\n1.熟悉Office等常用办公软件。\n2.有较强的责任心与团队协作能力。\n工作内容：\n1.主要负责不动产登记项目工作。\n2.数据库建设工作。\n3.领导安排的其他工作。\n工资待遇：包吃住5000-6000 \n工作地点:广东茂名（3个月）",
-      "encryptAddressId": "07b5df7e131fbe2e1w~~",
-      "address": null,
-      "longitude": 0.0,
-      "latitude": 0.0,
-      "staticMapUrl": "",
-      "pcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201119/238ea131d876a5a9190e94508325602839976ea7d5caf82fbc8a2737172_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "瑾鹏科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "aea6275dd7bf29bd1nZz39u6EVE~",
-      "brandName": "瑾鹏科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100608,
-      "industryName": "其他专业服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725366973971,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瑾鹏科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "瑾鹏科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201119/238ea131d876a5a9190e94508325602839976ea7d5caf82fbc8a2737172_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725366973971,
+        "brandName": "瑾鹏科技",
+        "customerBrandName": "瑾鹏科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "aea6275dd7bf29bd1nZz39u6EVE~",
+        "focusBrand": false,
+        "industry": 100608,
+        "industryName": "其他专业服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": null,
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "07b5df7e131fbe2e1w~~",
+        "encryptId": "25c18b72ba870da01nV73t67E1RS",
+        "encryptUserId": "dc7f02ecbb0564f60nR90tm0E1NW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "地图数据处理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 0.0,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 0.0,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "",
+        "position": 100124,
+        "positionName": "GIS工程师",
+        "postDescription": "相关要求：\n1.熟悉Office等常用办公软件。\n2.有较强的责任心与团队协作能力。\n工作内容：\n1.主要负责不动产登记项目工作。\n2.数据库建设工作。\n3.领导安排的其他工作。\n工资待遇：包吃住5000-6000 \n工作地点:广东茂名（3个月）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "软件工程师"
+        ],
+        "staticMapUrl": ""
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mRoFKTFFdAh0u-g1P0LL2E5nwEC7mh5637zajFvB0pU10xytyVbHfHU6bs8u5AgsLGzg0-o3aeRnqgY0FD-QEIxrL2as8NHtO7yHaS-MF1FxB7owinWr",
+    "selfAccess": false,
+    "sessionId": null
 }

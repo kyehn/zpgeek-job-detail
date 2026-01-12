@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3zHWr9yeBLk3G-T1nEoz9dIhWSDaOzEAVwAXex6pcsaNfKvKRWt6W5W6pKGEG3P6dnn1hIJxPAqUHjW2dG_vpq8klEHGTvG6Q5ebk1-wEXo028H2uSJYvkGUPub-RDrT7w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4bce069fb7c5e0e91H142dS4F1tZ",
-      "encryptUserId": "3e075cd74c6a11140Xx62tm5FFZU",
-      "invalidStatus": false,
-      "jobName": "营运助理",
-      "position": 130118,
-      "positionName": "运营助理/专员",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K·16薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.协助营运主管完成部门下达的工作任务和指标；\n2.负责管辖区域的各项工作，及时上交各种报表；\n3.协调与各品牌的关系，及时与品牌沟通；\n4.督促各品牌店长的工作，将每日各品牌的信息整理上报。\n\n任职要求：\n1.大专以上学历，1年以上工作经验，其中有大、中型商业企业工作经验者优先；\n2.沟通能力强，执行力强；\n3.熟练使用办公软件；\n4.认同万达企业文化，具有较强的工作责任心。",
-      "encryptAddressId": "1a76f587fe3f5bb51ndy09q5EVpUx4y3U_id",
-      "address": "上海浦东新区万达广场(上海周浦店)周浦万达广场C门",
-      "longitude": 121.569542,
-      "latitude": 31.114507,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eac9df9fa13c3c86ab63efe8da29a4c1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a13d9e66dcef2fa718c750421b3a46de",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "楼层管理员",
-        "租费收缴"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "俞先生",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241016/607f1f3d68754fd09be93bbf32fb0a7fd564cfae23f4e6a2a9c65739d1fc90f6e6a03c4dca5089f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "周浦万达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ce3ef16d9bb9b5a61Xx639W1GQ~~",
-      "brandName": "周浦万达",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "上海周浦万达广场位于周浦镇年家浜路、沪南路口，由购物中心、餐饮酒吧街、写字楼构成。是继上海五角场万达广场之后，万达集团在上海的第二个城市综合体项目。\n　　万达百货、乐购超市、万达国际影城、永乐生活电器、一兆韦德、大歌星量贩KTV、大玩家超乐场、石浦大酒店、培正逗点、C&A、UNIQLO、SEPHORA、星巴克等众多国内外知名商家强强联手，实现了一站式全方位购物。庞大的品牌阵容，完备的品类组成，使顾客能愉悦地畅游上海周浦万达广场，体验高品质的时尚生活，享受购物的乐趣，获得了消费者的热烈追捧。\n　　上海周浦万达广场将继续引进国际品牌丰富品牌阵容，并以人性化的服务，满足全方位的购物、娱乐、文化、休闲需求，努力打造世界一流的生活体验，缔造自成一体的浦东南片中心商圈。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "包吃"
-      ],
-      "activeTime": 1734081302480,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "周浦万达",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "周浦万达",
+        "certificated": true,
+        "large": null,
+        "name": "俞先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241016/607f1f3d68754fd09be93bbf32fb0a7fd564cfae23f4e6a2a9c65739d1fc90f6e6a03c4dca5089f_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1734081302480,
+        "brandName": "周浦万达",
+        "customerBrandName": "周浦万达",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "ce3ef16d9bb9b5a61Xx639W1GQ~~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "上海周浦万达广场位于周浦镇年家浜路、沪南路口，由购物中心、餐饮酒吧街、写字楼构成。是继上海五角场万达广场之后，万达集团在上海的第二个城市综合体项目。\n　　万达百货、乐购超市、万达国际影城、永乐生活电器、一兆韦德、大歌星量贩KTV、大玩家超乐场、石浦大酒店、培正逗点、C&A、UNIQLO、SEPHORA、星巴克等众多国内外知名商家强强联手，实现了一站式全方位购物。庞大的品牌阵容，完备的品类组成，使顾客能愉悦地畅游上海周浦万达广场，体验高品质的时尚生活，享受购物的乐趣，获得了消费者的热烈追捧。\n　　上海周浦万达广场将继续引进国际品牌丰富品牌阵容，并以人性化的服务，满足全方位的购物、娱乐、文化、休闲需求，努力打造世界一流的生活体验，缔造自成一体的浦东南片中心商圈。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "包吃"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区万达广场(上海周浦店)周浦万达广场C门",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "1a76f587fe3f5bb51ndy09q5EVpUx4y3U_id",
+        "encryptId": "4bce069fb7c5e0e91H142dS4F1tZ",
+        "encryptUserId": "3e075cd74c6a11140Xx62tm5FFZU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "营运助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.114507,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.569542,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a13d9e66dcef2fa718c750421b3a46de",
+        "position": 130118,
+        "positionName": "运营助理/专员",
+        "postDescription": "岗位职责：\n1.协助营运主管完成部门下达的工作任务和指标；\n2.负责管辖区域的各项工作，及时上交各种报表；\n3.协调与各品牌的关系，及时与品牌沟通；\n4.督促各品牌店长的工作，将每日各品牌的信息整理上报。\n\n任职要求：\n1.大专以上学历，1年以上工作经验，其中有大、中型商业企业工作经验者优先；\n2.沟通能力强，执行力强；\n3.熟练使用办公软件；\n4.认同万达企业文化，具有较强的工作责任心。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K·16薪",
+        "showSkills": [
+            "楼层管理员",
+            "租费收缴"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eac9df9fa13c3c86ab63efe8da29a4c1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3zHWr9yeBLk3G-T1nEoz9dIhWSDaOzEAVwAXex6pcsaNfKvKRWt6W5W6pKGEG3P6dnn1hIJxPAqUHjW2dG_vpq8klEHGTvG6Q5ebk1-wEXo028H2uSJYvkGUPub-RDrT7w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

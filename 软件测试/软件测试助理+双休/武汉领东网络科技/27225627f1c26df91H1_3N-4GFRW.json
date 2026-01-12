@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wLVsN42n0HP4b-x1oU1m4XjfLiuHI-9HSQu8VeKU_98PGkdszXPCsxyA0XmT7WiOH3fN48EdjcJYlx0U1Hat72s_BODX4_hOzm2SgySDpwpQ2mLAvgviFmxRlzqFQ4jaJM5P3OMBitcMDw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "27225627f1c26df91H1_3N-4GFRW",
-      "encryptUserId": "e42196c155b6d0bc1Xx80tq0FVA~",
-      "invalidStatus": false,
-      "jobName": "软件测试助理+双休",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求：\n1、大专及以上学历，专业不限，计算机、通信、软件专业优先考虑；\n2、工作积极主动，能吃苦耐劳，有团队合作精神；\n3、有创新精神，喜欢尝试新鲜事物；\n福利待遇：\n1、五险一金：按照国家相关政策为员工缴纳社会保险，包括养老保险，医疗保险，失业保险，工伤保险，生育保险，以及公积金；\n2、节日福利：春节，端午节，中秋节等节日期间发放节日津贴或实物；\n3、定期体检：公司每年至少安排一次员工体检；\n4、带薪年假：工作满一年，可享受国家规定的带薪年假；\n5、其他活动：公司不定期组织各种文体活动，如外出旅游，联欢会等",
-      "encryptAddressId": "adf3aa24d46772111HF42d--EFpRwo67Ufo~",
-      "address": "武汉洪山区光谷银座1001",
-      "longitude": 114.394413,
-      "latitude": 30.509762,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf9450e1a8bf99b2ec5e76725778d2dbcc6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf919d9d7a338be7eaf9f79934cb9732e26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "性能测试",
-        "功能测试",
-        "计算机相关专业",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "武汉领东网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "84dbc7d39d9512301HZ429i_FlI~",
-      "brandName": "武汉领东网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730887432640,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉领东网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉领东网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1730887432640,
+        "brandName": "武汉领东网络科技",
+        "customerBrandName": "武汉领东网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "84dbc7d39d9512301HZ429i_FlI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区光谷银座1001",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "adf3aa24d46772111HF42d--EFpRwo67Ufo~",
+        "encryptId": "27225627f1c26df91H1_3N-4GFRW",
+        "encryptUserId": "e42196c155b6d0bc1Xx80tq0FVA~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试助理+双休",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.509762,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.394413,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf919d9d7a338be7eaf9f79934cb9732e26bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位要求：\n1、大专及以上学历，专业不限，计算机、通信、软件专业优先考虑；\n2、工作积极主动，能吃苦耐劳，有团队合作精神；\n3、有创新精神，喜欢尝试新鲜事物；\n福利待遇：\n1、五险一金：按照国家相关政策为员工缴纳社会保险，包括养老保险，医疗保险，失业保险，工伤保险，生育保险，以及公积金；\n2、节日福利：春节，端午节，中秋节等节日期间发放节日津贴或实物；\n3、定期体检：公司每年至少安排一次员工体检；\n4、带薪年假：工作满一年，可享受国家规定的带薪年假；\n5、其他活动：公司不定期组织各种文体活动，如外出旅游，联欢会等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Java",
+            "性能测试",
+            "功能测试",
+            "计算机相关专业",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf9450e1a8bf99b2ec5e76725778d2dbcc6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wLVsN42n0HP4b-x1oU1m4XjfLiuHI-9HSQu8VeKU_98PGkdszXPCsxyA0XmT7WiOH3fN48EdjcJYlx0U1Hat72s_BODX4_hOzm2SgySDpwpQ2mLAvgviFmxRlzqFQ4jaJM5P3OMBitcMDw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

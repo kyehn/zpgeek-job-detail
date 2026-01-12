@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4GwfhoMCMuhyU-41oYza5lU6Gy_u_3jyRt0FrD7HLgTNu90l9eIHyxkTUdNPJZk-WiYXncSdyJjl--2-gMIXIrOm_UxobAkqUk2I4rkAY0fHEn6fWX3c",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "451845be2755417b1nN439S0EVVU",
-      "encryptUserId": "947a062beecbd4d21nZ53tu9EFpW",
-      "invalidStatus": false,
-      "jobName": "Java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.精通springboot开发框架；\n2.精通关系型数据库mysql/mssql;\n3.精通websocket/socket;\n4.熟悉RESTful规范，可以编写简单的vue前端页面；\n5.能够做简单的安卓UI开发，熟悉安卓网络通信机制socket tcp/ip http有实践经验。",
-      "encryptAddressId": "27cad82f8aac69d71HJ439u9Fg~~",
-      "address": "广州番禺区番禺节能科技园14号楼",
-      "longitude": 113.370277,
-      "latitude": 22.97984,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4cbbfaac24465c9a51a8b3e0a5c23d89",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98ca4320943645ab1a0e59c0f3af15dd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络协议",
-        "Socket技术",
-        "Spring",
-        "MySQL",
-        "SQL Server",
-        "Android"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "华洋软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7d31ba0028da87861nNy39W5GFA~",
-      "brandName": "华洋软件",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721812349302,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华洋软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华洋软件",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1721812349302,
+        "brandName": "华洋软件",
+        "customerBrandName": "华洋软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7d31ba0028da87861nNy39W5GFA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区番禺节能科技园14号楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "27cad82f8aac69d71HJ439u9Fg~~",
+        "encryptId": "451845be2755417b1nN439S0EVVU",
+        "encryptUserId": "947a062beecbd4d21nZ53tu9EFpW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.97984,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.370277,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98ca4320943645ab1a0e59c0f3af15dd",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.精通springboot开发框架；\n2.精通关系型数据库mysql/mssql;\n3.精通websocket/socket;\n4.熟悉RESTful规范，可以编写简单的vue前端页面；\n5.能够做简单的安卓UI开发，熟悉安卓网络通信机制socket tcp/ip http有实践经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "网络协议",
+            "Socket技术",
+            "Spring",
+            "MySQL",
+            "SQL Server",
+            "Android"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4cbbfaac24465c9a51a8b3e0a5c23d89"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4GwfhoMCMuhyU-41oYza5lU6Gy_u_3jyRt0FrD7HLgTNu90l9eIHyxkTUdNPJZk-WiYXncSdyJjl--2-gMIXIrOm_UxobAkqUk2I4rkAY0fHEn6fWX3c",
+    "selfAccess": false,
+    "sessionId": null
 }

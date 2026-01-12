@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FIO8BGh4Zf5bc-o1psSchy-kjQCdAOYmkJgweOymGUic91fTXllBzrOJZRAvPDtAmzeZp4gkDLxzpfSmGTQCf7SBPo5gncIrNM_ZjyBdSD73Y1WxNg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "95d57c94e59d71151XR72d--FVdS",
-      "encryptUserId": "0ee555c28cb4487803V739u9EVU~",
-      "invalidStatus": false,
-      "jobName": "展会执行",
-      "position": 140506,
-      "positionName": "会务/会展执行",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.一年以上会展执行工作经验优先考虑，了解动漫展具体运行和操作方式\n2.良好的具备优秀的人际沟通能力及团队合作协作精神\n3.能适应短期出差\n4.了解二次元相关文化\n5.有一定内容策划能力",
-      "encryptAddressId": "0fb0358aabfe3b2f1HF73Ni_Elc~",
-      "address": "西安未央区CBE发展大厦1702",
-      "longitude": 109.006683,
-      "latitude": 34.338437,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1ce25f9029d549b3e0aa41229e58e78",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/283ee9b2cbe5e2d8ad45b405c79c810e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "动漫/游戏展"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "梦安文化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "390083563a089e6803V-2NW-Fg~~",
-      "brandName": "梦安文化",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190805/93eb19e35064fee52392cfe7fd0f62c1febd1203fbed5bf617385498f8e88121.png",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "全国动漫展主办方，二次元C端服务公司",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "零食下午茶",
-        "员工旅游",
-        "带薪年假",
-        "全勤奖",
-        "法定节假日三薪",
-        "节假日加班费",
-        "加班补助",
-        "底薪加提成",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1730066768935,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "梦安文化",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "梦安文化",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730066768935,
+        "brandName": "梦安文化",
+        "customerBrandName": "梦安文化",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "390083563a089e6803V-2NW-Fg~~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "全国动漫展主办方，二次元C端服务公司",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "零食下午茶",
+            "员工旅游",
+            "带薪年假",
+            "全勤奖",
+            "法定节假日三薪",
+            "节假日加班费",
+            "加班补助",
+            "底薪加提成",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190805/93eb19e35064fee52392cfe7fd0f62c1febd1203fbed5bf617385498f8e88121.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安未央区CBE发展大厦1702",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0fb0358aabfe3b2f1HF73Ni_Elc~",
+        "encryptId": "95d57c94e59d71151XR72d--FVdS",
+        "encryptUserId": "0ee555c28cb4487803V739u9EVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "展会执行",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.338437,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 109.006683,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/283ee9b2cbe5e2d8ad45b405c79c810e",
+        "position": 140506,
+        "positionName": "会务/会展执行",
+        "postDescription": "1.一年以上会展执行工作经验优先考虑，了解动漫展具体运行和操作方式\n2.良好的具备优秀的人际沟通能力及团队合作协作精神\n3.能适应短期出差\n4.了解二次元相关文化\n5.有一定内容策划能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "动漫/游戏展"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1ce25f9029d549b3e0aa41229e58e78"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FIO8BGh4Zf5bc-o1psSchy-kjQCdAOYmkJgweOymGUic91fTXllBzrOJZRAvPDtAmzeZp4gkDLxzpfSmGTQCf7SBPo5gncIrNM_ZjyBdSD73Y1WxNg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

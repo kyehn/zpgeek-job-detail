@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pzHZgJXa-sDHK-b1OjAzdZ5r_8N2qEvZraYhtlPi9iqlpC4AWFhEWiBrmujqS9eI5nm179t5MBb-YzbJ5n79SbIIQ9rvonx6e0DyUuaToLxP75ph_M-4",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8cd06a23d5cdb7ac1nV73d25F1BT",
-      "encryptUserId": "1698b08e990ea4e50nR909m8FVVY",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.根据需求文档完成代码编写、调试、测试；\n2.对Web服务架构和数据库查询性能进行不断优化；\n3.根据开发流程要求完成开发文档。",
-      "encryptAddressId": "07b5df7e131fbe2e1w~~",
-      "address": null,
-      "longitude": 0.0,
-      "latitude": 0.0,
-      "staticMapUrl": "",
-      "pcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "JavaScript"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "潘先生",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201118/d32afbf99303da2aef480faafd7ea2df03872c7598aa90e36baacda507b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "正诀",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5f50dafc4cd4946f1nZz2N26EFY~",
-      "brandName": "正诀",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722072809976,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "正诀",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "正诀",
+        "certificated": true,
+        "large": null,
+        "name": "潘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201118/d32afbf99303da2aef480faafd7ea2df03872c7598aa90e36baacda507b_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1722072809976,
+        "brandName": "正诀",
+        "customerBrandName": "正诀",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5f50dafc4cd4946f1nZz2N26EFY~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": null,
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "07b5df7e131fbe2e1w~~",
+        "encryptId": "8cd06a23d5cdb7ac1nV73d25F1BT",
+        "encryptUserId": "1698b08e990ea4e50nR909m8FVVY",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 0.0,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 0.0,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.根据需求文档完成代码编写、调试、测试；\n2.对Web服务架构和数据库查询性能进行不断优化；\n3.根据开发流程要求完成开发文档。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "Java",
+            "JavaScript"
+        ],
+        "staticMapUrl": ""
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pzHZgJXa-sDHK-b1OjAzdZ5r_8N2qEvZraYhtlPi9iqlpC4AWFhEWiBrmujqS9eI5nm179t5MBb-YzbJ5n79SbIIQ9rvonx6e0DyUuaToLxP75ph_M-4",
+    "selfAccess": false,
+    "sessionId": null
 }

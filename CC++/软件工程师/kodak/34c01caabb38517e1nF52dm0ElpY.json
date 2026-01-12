@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "cc3h2SBT4eoAd-f1jq-y0Tc_I1UzO2dv33QIhWrJJS2JY4pL35QRy6EChpyyfUxCPlPw5ZRBMQGfTIoI69hzctpcEmy761rnRl3T8OOps43jDX44zwXVEgDODSHcDmvDkPlPXK3ADg-D",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "34c01caabb38517e1nF52dm0ElpY",
-      "encryptUserId": "7eb2430ccec01dab0nZ72du7EVA~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "【本职位为外包岗位，即：与第三方公司签约，在本公司工作】\n【欢迎应届毕业生投报，需人在上海，可来公司参加上机测试】\n\n1、本科及以上学历，热爱编程。\n2、擅长Windows上的编程技术，有一定相关工作经验。\n3、精通C++、Java、C#中至少一种开发语言，同时愿意学习和使用其他开发语言。\n4、熟悉Oracle数据库和Azure云等技术更佳。\n5、良好的英语水平。\n6、工作态度认真，良好的沟通能力和团队精神。",
-      "encryptAddressId": "40342e9768bc43ef1nVy2ty-EA~~",
-      "address": "上海浦东新区金桥现代产业服务园区8号楼5楼",
-      "longitude": 121.595669,
-      "latitude": 31.243086,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f24b2d1900f913a515e046a96b674153",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03e685b8f8f8cca6f2ff1b6f7dacafec",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Windows",
-        "c++",
-        "C#",
-        "java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "kodak",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "32a2790acce7c7c41nB42tu1FA~~",
-      "brandName": "kodak",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190816/5e592551fa2e3bcf1afc49c733f9fbfa6fbf91ab7be7fa4cf850553b6971f252.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725523962898,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "kodak",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "kodak",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725523962898,
+        "brandName": "kodak",
+        "customerBrandName": "kodak",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "32a2790acce7c7c41nB42tu1FA~~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190816/5e592551fa2e3bcf1afc49c733f9fbfa6fbf91ab7be7fa4cf850553b6971f252.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区金桥现代产业服务园区8号楼5楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "40342e9768bc43ef1nVy2ty-EA~~",
+        "encryptId": "34c01caabb38517e1nF52dm0ElpY",
+        "encryptUserId": "7eb2430ccec01dab0nZ72du7EVA~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.243086,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.595669,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03e685b8f8f8cca6f2ff1b6f7dacafec",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "【本职位为外包岗位，即：与第三方公司签约，在本公司工作】\n【欢迎应届毕业生投报，需人在上海，可来公司参加上机测试】\n\n1、本科及以上学历，热爱编程。\n2、擅长Windows上的编程技术，有一定相关工作经验。\n3、精通C++、Java、C#中至少一种开发语言，同时愿意学习和使用其他开发语言。\n4、熟悉Oracle数据库和Azure云等技术更佳。\n5、良好的英语水平。\n6、工作态度认真，良好的沟通能力和团队精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "Windows",
+            "c++",
+            "C#",
+            "java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f24b2d1900f913a515e046a96b674153"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "cc3h2SBT4eoAd-f1jq-y0Tc_I1UzO2dv33QIhWrJJS2JY4pL35QRy6EChpyyfUxCPlPw5ZRBMQGfTIoI69hzctpcEmy761rnRl3T8OOps43jDX44zwXVEgDODSHcDmvDkPlPXK3ADg-D",
+    "selfAccess": false,
+    "sessionId": null
 }

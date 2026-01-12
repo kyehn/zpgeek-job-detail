@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rcob5TtW7XzW2-41Sjj4lwiAq3kO9EY9VUuIrushc7JoGyaljygBAAnagmNoWBQ1F3h4gWI2y24p0D2tsqCdf2b3LcTuk6C1LynImrX9qAOmnVySak5uHZfhB2LnEWoQ_oBZzigI4zGnGJ-zHpFHHjg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "85938baa8f4be4011HF83N2_EVJW",
-      "encryptUserId": "bb388b2177d6febd3ndz3tq_FVU~",
-      "invalidStatus": false,
-      "jobName": "java测试开发(大厂外包)",
-      "position": 100305,
-      "positionName": "测试开发",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-10K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\t服务端测试\n职位要求\t\n1.大型复杂后端服务接口测试经验 \n2.自动化测试经验 \n3.工具开发经验优先\n4. 理解力和沟通能力良好",
-      "encryptAddressId": "1d5401c39580f2b60XZ-2Nm9GVdWy4S4UP8~",
-      "address": "西安雁塔区阿里中心·西安1",
-      "longitude": 108.836117,
-      "latitude": 34.206951,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d88abd42b361ce4081fa327d465fb5eb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce628978888578d387a52d8d65bc49e4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "测试工作经验",
-        "自动化测试",
-        "测试开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210518/4827b19cd21faf2855cb2ac90076b49ec22c1bbb433550f67373c242aae_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "卓越际联科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b58a0d258894b3c51HZ_0928EFQ~",
-      "brandName": "卓越际联科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100014,
-      "industryName": "人力资源服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724740602045,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "卓越际联科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "卓越际联科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210518/4827b19cd21faf2855cb2ac90076b49ec22c1bbb433550f67373c242aae_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724740602045,
+        "brandName": "卓越际联科技有限公司",
+        "customerBrandName": "卓越际联科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b58a0d258894b3c51HZ_0928EFQ~",
+        "focusBrand": false,
+        "industry": 100014,
+        "industryName": "人力资源服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区阿里中心·西安1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1d5401c39580f2b60XZ-2Nm9GVdWy4S4UP8~",
+        "encryptId": "85938baa8f4be4011HF83N2_EVJW",
+        "encryptUserId": "bb388b2177d6febd3ndz3tq_FVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java测试开发(大厂外包)",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.206951,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.836117,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce628978888578d387a52d8d65bc49e4",
+        "position": 100305,
+        "positionName": "测试开发",
+        "postDescription": "职位描述\t服务端测试\n职位要求\t\n1.大型复杂后端服务接口测试经验 \n2.自动化测试经验 \n3.工具开发经验优先\n4. 理解力和沟通能力良好",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-10K",
+        "showSkills": [
+            "Java",
+            "测试工作经验",
+            "自动化测试",
+            "测试开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d88abd42b361ce4081fa327d465fb5eb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rcob5TtW7XzW2-41Sjj4lwiAq3kO9EY9VUuIrushc7JoGyaljygBAAnagmNoWBQ1F3h4gWI2y24p0D2tsqCdf2b3LcTuk6C1LynImrX9qAOmnVySak5uHZfhB2LnEWoQ_oBZzigI4zGnGJ-zHpFHHjg~",
+    "selfAccess": false,
+    "sessionId": null
 }

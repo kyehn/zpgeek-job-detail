@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DcC297loredMZ-U1k9XVn10sZptAXAm6tHSxPnPiwgKq3pIxmEtH1zVluAdox8Kx82YoTcZnyHKigVCi04HU7De8nyjn9ufJKckg56oHCehZLkF7Cg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0e0dd5b9b628fdf41nx409S6FVZR",
-      "encryptUserId": "1b8123f757063fc70X182N-4FQ~~",
-      "invalidStatus": false,
-      "jobName": "活动执行",
-      "position": 140109,
-      "positionName": "活动策划执行",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "房企活动执行，最好有驾照\n1.负责活动的物料准备\n2.和策划一起看场地\n3.活动现场的执行监督\n4.和策划部门设计部门沟通活动等\n5.活动现场搭建布置岗位技能:\n1.活动布置\n2.有过活动公司或婚礼搭建经验者优先\n\n候选人的加分项\n公关公司/活动服务提供商(乙方)、线上活动、活动执行、公关公司活动策划执行经验",
-      "encryptAddressId": "d57e63d72064b5ad1Hxz2dm6F1Q~",
-      "address": "南京浦口区浦东大厦3111",
-      "longitude": 118.713901,
-      "latitude": 32.145595,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3fcc53bc0df3ac75c7acfb062abb9bce",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a15d270b862f8d12f3cc6ea97ae2af18",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "执行",
-        "策划"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210831/607f1f3d68754fd0838916ac51b65b7abb822f9bf1bded5f0fe427db9714e14719b681dd4c7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "冉策",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "82bb58172eada9471nxz2t21FVs~",
-      "brandName": "冉策",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "全勤奖",
-        "年终奖"
-      ],
-      "activeTime": 1730537041663,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "冉策",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "冉策",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210831/607f1f3d68754fd0838916ac51b65b7abb822f9bf1bded5f0fe427db9714e14719b681dd4c7_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730537041663,
+        "brandName": "冉策",
+        "customerBrandName": "冉策",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "82bb58172eada9471nxz2t21FVs~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "全勤奖",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区浦东大厦3111",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d57e63d72064b5ad1Hxz2dm6F1Q~",
+        "encryptId": "0e0dd5b9b628fdf41nx409S6FVZR",
+        "encryptUserId": "1b8123f757063fc70X182N-4FQ~~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "活动执行",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.145595,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.713901,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a15d270b862f8d12f3cc6ea97ae2af18",
+        "position": 140109,
+        "positionName": "活动策划执行",
+        "postDescription": "房企活动执行，最好有驾照\n1.负责活动的物料准备\n2.和策划一起看场地\n3.活动现场的执行监督\n4.和策划部门设计部门沟通活动等\n5.活动现场搭建布置岗位技能:\n1.活动布置\n2.有过活动公司或婚礼搭建经验者优先\n\n候选人的加分项\n公关公司/活动服务提供商(乙方)、线上活动、活动执行、公关公司活动策划执行经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "执行",
+            "策划"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3fcc53bc0df3ac75c7acfb062abb9bce"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DcC297loredMZ-U1k9XVn10sZptAXAm6tHSxPnPiwgKq3pIxmEtH1zVluAdox8Kx82YoTcZnyHKigVCi04HU7De8nyjn9ufJKckg56oHCehZLkF7Cg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

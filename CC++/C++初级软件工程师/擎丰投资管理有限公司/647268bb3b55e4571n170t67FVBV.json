@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZjQCMtmDUF9ev-j1HJH1QeJ_ifK5PF7FNLwYjezolrwgK51mCPJ5fB42d_MyAagQZ3rGu2uGQZ4g3VsMyCXl7iFejgRJkNcCA9J8F1B19JnOqQ7DR3Ei_vo_hjRS0yd-Q5rDXNSGk8kW",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "647268bb3b55e4571n170t67FVBV",
-      "encryptUserId": "f98ec462aa92b03003183t61EVI~",
-      "invalidStatus": false,
-      "jobName": "C++初级软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "要求：\n1. 精通 C/C++\n2. 精通 Linux 相关知识，以及多线程编程，有良好的算法基础\n3. 熟悉 Python 或 R 是加分\n4.熟悉基于 QT 的 GUI 编程\n5.计算机相关专业\n6.有金融或投资经验\n\n\n职责：\n1. 开发行情和交易架构，应用于中国，香港和新加坡市场\n2. 开发并维护 API 客户端代码\n3.与交易员和研究人员合作开发交易算法\n4.开发自定义交易和市场数据\n5.创建及开发数据库",
-      "encryptAddressId": "ad7f364fa34de07f1HR52N2-GA~~",
-      "address": "上海黄浦区永银大厦1202室",
-      "longitude": 121.480483,
-      "latitude": 31.224055,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8d2a2ce6ecd21e5d41d235db22ec0d45",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d4fa53be0d581f56ce2cfe84a2da1828",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "多线程",
-        "Linux",
-        "QT"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "行政人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "擎丰投资管理有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8aaaf85004d444651HV70ty9Fg~~",
-      "brandName": "擎丰投资管理有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100204,
-      "industryName": "基金",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725524661247,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "擎丰投资管理有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "擎丰投资管理有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "行政人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725524661247,
+        "brandName": "擎丰投资管理有限公司",
+        "customerBrandName": "擎丰投资管理有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8aaaf85004d444651HV70ty9Fg~~",
+        "focusBrand": false,
+        "industry": 100204,
+        "industryName": "基金",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海黄浦区永银大厦1202室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ad7f364fa34de07f1HR52N2-GA~~",
+        "encryptId": "647268bb3b55e4571n170t67FVBV",
+        "encryptUserId": "f98ec462aa92b03003183t61EVI~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "C++初级软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.224055,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.480483,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d4fa53be0d581f56ce2cfe84a2da1828",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "要求：\n1. 精通 C/C++\n2. 精通 Linux 相关知识，以及多线程编程，有良好的算法基础\n3. 熟悉 Python 或 R 是加分\n4.熟悉基于 QT 的 GUI 编程\n5.计算机相关专业\n6.有金融或投资经验\n\n\n职责：\n1. 开发行情和交易架构，应用于中国，香港和新加坡市场\n2. 开发并维护 API 客户端代码\n3.与交易员和研究人员合作开发交易算法\n4.开发自定义交易和市场数据\n5.创建及开发数据库",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "Python",
+            "多线程",
+            "Linux",
+            "QT"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8d2a2ce6ecd21e5d41d235db22ec0d45"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZjQCMtmDUF9ev-j1HJH1QeJ_ifK5PF7FNLwYjezolrwgK51mCPJ5fB42d_MyAagQZ3rGu2uGQZ4g3VsMyCXl7iFejgRJkNcCA9J8F1B19JnOqQ7DR3Ei_vo_hjRS0yd-Q5rDXNSGk8kW",
+    "selfAccess": false,
+    "sessionId": null
 }

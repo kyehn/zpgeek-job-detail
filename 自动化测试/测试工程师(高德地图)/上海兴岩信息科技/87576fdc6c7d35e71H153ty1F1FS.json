@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "hffU9jlgFRv7F-q1nZ0xhvDydMkGdEZKAxxlbLi4C2VEP0fqVGIt1cLKr_wHoo5F4j-KfgqyHIlyskQiqCMvYzveTGY_mgQHDz4_tuxRysZqGZu1ip1FQHDiYbFLjySbTwyg4IMV4vgXY47FjVHuTUDG8CAaYBoOrAgs04gWCaqwglM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "87576fdc6c7d35e71H153ty1F1FS",
-      "encryptUserId": "8eb0372e3278428d0HB439u1E1Y~",
-      "invalidStatus": false,
-      "jobName": "测试工程师(高德地图)",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "有App软件测试经验，能独立开展测试工作职位要求:\n1.了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等2.根据需求文档，设计测试用例，熟练使用常用测试用例的设计方法，比如等价类，边界值等\n3.执行测试用例，跟踪和定位系统中的缺陷或问题并跟踪和验证缺陷\n4.熟练使用抓包工具进行抓包和断点等操作\n5.具备良好的口头和书面沟通能力，能够清晰地记录缺陷",
-      "encryptAddressId": "baa8944186715ef81nB63d65FFtYy4i2WfOd",
-      "address": "北京朝阳区阿里巴巴大文娱小邮局(望京东园4区4座店)1",
-      "longitude": 116.488832,
-      "latitude": 40.002848,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf21cdb387c5ffdabad3c9e1b0a48bc89a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf8b4a851c820eec1fb1aab63bf4bc4c526bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "app",
-        "接口"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd010ed6a43b228f46a788ce2fa396adecb44c1ced5cf8e7a177c0cf9b3eb74dfa_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "上海兴岩信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "436bcf494f92a2210nd-3dq-",
-      "brandName": "上海兴岩信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180503/b4833e165ebd3ac4a94f98fbba4c27f0cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "兴岩科技的服务遍布全国主要城市，在北京、深圳、杭州、南京，成都，武汉等地均有分支机构，专注为金融，互联网，制造业，物流，智能产业等领域的客户提供各类IT人才外包服务，软件产品开发，实施，运维、测试，知识技能培训等服务.",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1730865104607,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海兴岩信息科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "上海兴岩信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd010ed6a43b228f46a788ce2fa396adecb44c1ced5cf8e7a177c0cf9b3eb74dfa_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1730865104607,
+        "brandName": "上海兴岩信息科技",
+        "customerBrandName": "上海兴岩信息科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "436bcf494f92a2210nd-3dq-",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "兴岩科技的服务遍布全国主要城市，在北京、深圳、杭州、南京，成都，武汉等地均有分支机构，专注为金融，互联网，制造业，物流，智能产业等领域的客户提供各类IT人才外包服务，软件产品开发，实施，运维、测试，知识技能培训等服务.",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "员工旅游",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180503/b4833e165ebd3ac4a94f98fbba4c27f0cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区阿里巴巴大文娱小邮局(望京东园4区4座店)1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "baa8944186715ef81nB63d65FFtYy4i2WfOd",
+        "encryptId": "87576fdc6c7d35e71H153ty1F1FS",
+        "encryptUserId": "8eb0372e3278428d0HB439u1E1Y~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师(高德地图)",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.002848,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.488832,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf8b4a851c820eec1fb1aab63bf4bc4c526bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "有App软件测试经验，能独立开展测试工作职位要求:\n1.了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等2.根据需求文档，设计测试用例，熟练使用常用测试用例的设计方法，比如等价类，边界值等\n3.执行测试用例，跟踪和定位系统中的缺陷或问题并跟踪和验证缺陷\n4.熟练使用抓包工具进行抓包和断点等操作\n5.具备良好的口头和书面沟通能力，能够清晰地记录缺陷",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "app",
+            "接口"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf21cdb387c5ffdabad3c9e1b0a48bc89a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "hffU9jlgFRv7F-q1nZ0xhvDydMkGdEZKAxxlbLi4C2VEP0fqVGIt1cLKr_wHoo5F4j-KfgqyHIlyskQiqCMvYzveTGY_mgQHDz4_tuxRysZqGZu1ip1FQHDiYbFLjySbTwyg4IMV4vgXY47FjVHuTUDG8CAaYBoOrAgs04gWCaqwglM~",
+    "selfAccess": false,
+    "sessionId": null
 }

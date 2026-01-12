@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qoCLYVXM2ppnd-Q1VMnE3kPF6agvlqZJvDN6yPhpDLYH5m85Q1KkoQS_OURgbObA26DWhUrGwhPDvvQN2oKds2Sf-E4rdM3OCrlU8uCBzq7vZ3dcakAVTHVc-aeeQmQg",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0e0ae524d454e9571Xx_2Nq4EFdZ",
-      "encryptUserId": "e65941d1a9aa51f70HN629y_GFY~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "职责描述：\n1、系统部署工作，涉及阿里、华为云容器化部署及服务器应急处理；\n2、对业务需求完成部署、迁移等操作；\n3、系统日常监控、数据备份、恢复；\n4、负责运维报告的整理以及相关文档的编写。\n\n任职要求：\n1、计算机相关专业，有不少于1年运维工作经验；条件优秀者可适当放宽要求；\n2、熟练使用Linux系统，对系统、内核问题有清晰的处理思路和相关经验；\n3、熟悉Linux+Tomcat+MySQL框架；\n4、熟悉Nginx优化和部署及Zookeeper、Redis等中间件的优化和集群部署；\n5、部署Docker框架，并对Docker进行基本的维护和使用；\n6、熟悉Hadoop、Spark、Storm等Hadoop生态系统的优化和部署优先考虑；\n7、容器化部署；\n8、懂java开发优先；\n9、学信网可查本科及以上；\n\n\n有出差 有出差 有出差",
-      "encryptAddressId": "89cf76701c043d880X1539y4EFA~",
-      "address": "北京西城区太丰惠中大厦0712",
-      "longitude": 116.391771,
-      "latitude": 39.88936,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/354f0fbe73c06513ab211c40f8ad0f1a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9dc369059bfd85867bc1dbeba706695",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统实施",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "翟女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "绳子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9ba6b0fe62e04f440XR529S8EA~~",
-      "brandName": "绳子科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1739790027343,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绳子科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绳子科技",
+        "certificated": true,
+        "large": null,
+        "name": "翟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1739790027343,
+        "brandName": "绳子科技",
+        "customerBrandName": "绳子科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9ba6b0fe62e04f440XR529S8EA~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京西城区太丰惠中大厦0712",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "89cf76701c043d880X1539y4EFA~",
+        "encryptId": "0e0ae524d454e9571Xx_2Nq4EFdZ",
+        "encryptUserId": "e65941d1a9aa51f70HN629y_GFY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.88936,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.391771,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9dc369059bfd85867bc1dbeba706695",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "职责描述：\n1、系统部署工作，涉及阿里、华为云容器化部署及服务器应急处理；\n2、对业务需求完成部署、迁移等操作；\n3、系统日常监控、数据备份、恢复；\n4、负责运维报告的整理以及相关文档的编写。\n\n任职要求：\n1、计算机相关专业，有不少于1年运维工作经验；条件优秀者可适当放宽要求；\n2、熟练使用Linux系统，对系统、内核问题有清晰的处理思路和相关经验；\n3、熟悉Linux+Tomcat+MySQL框架；\n4、熟悉Nginx优化和部署及Zookeeper、Redis等中间件的优化和集群部署；\n5、部署Docker框架，并对Docker进行基本的维护和使用；\n6、熟悉Hadoop、Spark、Storm等Hadoop生态系统的优化和部署优先考虑；\n7、容器化部署；\n8、懂java开发优先；\n9、学信网可查本科及以上；\n\n\n有出差 有出差 有出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "系统实施",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/354f0fbe73c06513ab211c40f8ad0f1a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qoCLYVXM2ppnd-Q1VMnE3kPF6agvlqZJvDN6yPhpDLYH5m85Q1KkoQS_OURgbObA26DWhUrGwhPDvvQN2oKds2Sf-E4rdM3OCrlU8uCBzq7vZ3dcakAVTHVc-aeeQmQg",
+    "selfAccess": false,
+    "sessionId": null
 }

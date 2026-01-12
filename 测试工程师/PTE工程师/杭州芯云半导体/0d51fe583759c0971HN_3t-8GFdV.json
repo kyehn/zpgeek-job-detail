@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OCSOmAveigDSn-S1nkEfNzWXMkpX0IR9r8HN_nx86azGOHFo2spbWTkWhZo-k4eR5lW2q3ySl8A0SYfoiPG3IgV_RZOkFpkFC27VeerWs7XmhdNV_z18",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0d51fe583759c0971HN_3t-8GFdV",
-      "encryptUserId": "4dbb83972f6ae7770XN62Nm1GFdS",
-      "invalidStatus": false,
-      "jobName": "PTE工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "1.CP/FT芯片测试\n2.测试程序维护",
-      "encryptAddressId": "6e906f399de20ea41nV42Nu9ElZTwo63VvKf",
-      "address": "杭州滨江区海外高层次人才创新创业基地1楼",
-      "longitude": 120.139648,
-      "latitude": 30.185685,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf27d146593fee98580226b920d55133e46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd238507613bf526e4d39069946cc918e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "芯片测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "卓女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "杭州芯云半导体",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "60745ee638957e5d1HJ-2tW9GFY~",
-      "brandName": "杭州芯云半导体",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725370250270,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州芯云半导体",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州芯云半导体",
+        "certificated": true,
+        "large": null,
+        "name": "卓女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725370250270,
+        "brandName": "杭州芯云半导体",
+        "customerBrandName": "杭州芯云半导体",
+        "customerBrandStageName": "",
+        "encryptBrandId": "60745ee638957e5d1HJ-2tW9GFY~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区海外高层次人才创新创业基地1楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6e906f399de20ea41nV42Nu9ElZTwo63VvKf",
+        "encryptId": "0d51fe583759c0971HN_3t-8GFdV",
+        "encryptUserId": "4dbb83972f6ae7770XN62Nm1GFdS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "PTE工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.185685,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.139648,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd238507613bf526e4d39069946cc918e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.CP/FT芯片测试\n2.测试程序维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "芯片测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf27d146593fee98580226b920d55133e46bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OCSOmAveigDSn-S1nkEfNzWXMkpX0IR9r8HN_nx86azGOHFo2spbWTkWhZo-k4eR5lW2q3ySl8A0SYfoiPG3IgV_RZOkFpkFC27VeerWs7XmhdNV_z18",
+    "selfAccess": false,
+    "sessionId": null
 }

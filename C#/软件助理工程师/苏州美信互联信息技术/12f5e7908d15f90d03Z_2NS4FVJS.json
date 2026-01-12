@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DVfnWtraX3ecZ-x1Sfapf3pOIhdvmgsvhiNz-oray1WxaoIEPYGwL8_x8F6oWE1wmMIXkEfjnMnMwPQ17H6XBo07TG5r0aa_1ZTpnANPOtXa1IW-1hLDNaSbFDRrtjQqgqLGDNawyPDOAEjOSxrUr4J_eRiL",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "12f5e7908d15f90d03Z_2NS4FVJS",
-      "encryptUserId": "3de65c45dc1ef2af0XV-3dS7EVs~",
-      "invalidStatus": false,
-      "jobName": "软件助理工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n完成基础架构软件开发任务，优化基础架构软件代码，提升基础架构软件代码的可读性及可维护性，2.梳理基础组件使用说明及技术文档，制定基础组件使用规范。\n3. 参与基础架构软件选型的研讨，输出技术选型对比方案，攻克技术难题。\n4.开发标准化输出。\n5.履行上级安排的其他工作,\n任职资格:\n1.本科以上学历，计算机技术、软件工程或相关专/。\n2.熟悉 C#/C++/Java其中一种编程语言。\n3. 熟悉 ASP.NET、ASP.NET MVC、Web API等开发技术;\n4.熟悉HTML、CSS、JavaScript等前端技术\n5.熟悉数据库开发(MySQL、SQL Server)。\n6.熟悉 Git等版本控制工具，熟练使 Visual Studio、\n7.VS Code、IDEA等其他调试工具",
-      "encryptAddressId": "a3ba7f967ba042191nV53tS1GVFT",
-      "address": "苏州苏高新软件园江苏省苏州市高新区科技城科灵路78号6号楼4楼",
-      "longitude": 120.421618,
-      "latitude": 31.32681,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf04d0f7808701312c9b3a3feda8f9c3176bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf8f461f9882c29b1f9e52d9603d45afa26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "苏州美信互联信息技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9a117b6b2f6ec99f1X1_09W4EFs~",
-      "brandName": "苏州美信互联信息技术",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "AI-VR 赋能行业元宇宙，物联网链接全球",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1741943694175,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州美信互联信息技术",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州美信互联信息技术",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1741943694175,
+        "brandName": "苏州美信互联信息技术",
+        "customerBrandName": "苏州美信互联信息技术",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9a117b6b2f6ec99f1X1_09W4EFs~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "AI-VR 赋能行业元宇宙，物联网链接全球",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏高新软件园江苏省苏州市高新区科技城科灵路78号6号楼4楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "a3ba7f967ba042191nV53tS1GVFT",
+        "encryptId": "12f5e7908d15f90d03Z_2NS4FVJS",
+        "encryptUserId": "3de65c45dc1ef2af0XV-3dS7EVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件助理工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.32681,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.421618,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf8f461f9882c29b1f9e52d9603d45afa26bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "岗位职责：\n完成基础架构软件开发任务，优化基础架构软件代码，提升基础架构软件代码的可读性及可维护性，2.梳理基础组件使用说明及技术文档，制定基础组件使用规范。\n3. 参与基础架构软件选型的研讨，输出技术选型对比方案，攻克技术难题。\n4.开发标准化输出。\n5.履行上级安排的其他工作,\n任职资格:\n1.本科以上学历，计算机技术、软件工程或相关专/。\n2.熟悉 C#/C++/Java其中一种编程语言。\n3. 熟悉 ASP.NET、ASP.NET MVC、Web API等开发技术;\n4.熟悉HTML、CSS、JavaScript等前端技术\n5.熟悉数据库开发(MySQL、SQL Server)。\n6.熟悉 Git等版本控制工具，熟练使 Visual Studio、\n7.VS Code、IDEA等其他调试工具",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf04d0f7808701312c9b3a3feda8f9c3176bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DVfnWtraX3ecZ-x1Sfapf3pOIhdvmgsvhiNz-oray1WxaoIEPYGwL8_x8F6oWE1wmMIXkEfjnMnMwPQ17H6XBo07TG5r0aa_1ZTpnANPOtXa1IW-1hLDNaSbFDRrtjQqgqLGDNawyPDOAEjOSxrUr4J_eRiL",
+    "selfAccess": false,
+    "sessionId": null
 }

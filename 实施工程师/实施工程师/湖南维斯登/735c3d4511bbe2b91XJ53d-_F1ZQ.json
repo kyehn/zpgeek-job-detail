@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6a2wUntc9nI5Y-I1QaMVHSDEOm7UKRot9kNYles0WyEbQ5dXYk4dCSLhh7EKBsSPMiMzcjKiySzaLEWeRqlqJduoDRIbpwiCnOFdxPUZBHQpE1XFzw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "735c3d4511bbe2b91XJ53d-_F1ZQ",
-      "encryptUserId": "e771ab115c43364e1HZy2N28GVU~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.根据项目经理要求制定项目软件项目实施计划，并实施；\n2.用户咨询的解答，软件使用问题的解答，对无法解决的问题，及时向部门进行反馈；\n3.对用户进行系统或软件方便操作培训；\n4.根据公司要求，完成相关的文档；\n5.软件项目实施过程中的沟通协调，结果及时反馈；\n\n\n任职要求：\n1、大专及以上学历，计算机或网络相关专业优先，2年以上实施工作经验；\n2、有医疗信息化系统实施经验优先（his系统、区域医疗平台、院内平台、民政等)；\n3、了解程序设计基本逻辑，熟悉ORACLE，SQLSERVER等关系型数据库；\n4、性格乐观开朗，乐于沟通，较强的理解及沟通表达能力；\n5、广德、、等项目医院、卫健委出差。",
-      "encryptAddressId": "029efdd3585a32121nB_3NW1F1M~",
-      "address": "合肥蜀山区合肥创新产业园2期H5栋合肥市合肥市高新区创新大道2800号合肥创新产业园二期H5栋B区1层101-34",
-      "longitude": 117.136002,
-      "latitude": 31.838756,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/634ab49516f8791a863ebd17291cd67e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83ab411872993038914e5ae2f709134f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "HIS",
-        "熟练掌握SQL语句",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230615/607f1f3d68754fd0bd88df199f8ad5c90ddb39a836764a894cf6879d44a35b17a1a4b3cfbbb_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "湖南维斯登",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "16330e5b2e73126b03d73dq6Fw~~",
-      "brandName": "湖南维斯登",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190430/96af7da0fe06bbbc14bdbdfdf2c36389d0e15832a6602667e413d6a527be7219_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "湖南维斯登信息科技有限公司为广州市林云医疗技术有限公司全资子公司，专注于医疗信息化平台及智慧医院、互联网医疗服务产品等的研发，以医院管理、业务应用为出发点，以患者为中心，为医院信息化建设提供系统性的技术解决方案。为医院构建完整的院内、院外医疗信息化生态链，协助医院实现医疗信息互联互通，推动分级诊疗新医改。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "餐补",
-        "交通补助"
-      ],
-      "activeTime": 1728434648000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖南维斯登",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖南维斯登",
+        "certificated": true,
+        "large": null,
+        "name": "唐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230615/607f1f3d68754fd0bd88df199f8ad5c90ddb39a836764a894cf6879d44a35b17a1a4b3cfbbb_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1728434648000,
+        "brandName": "湖南维斯登",
+        "customerBrandName": "湖南维斯登",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "16330e5b2e73126b03d73dq6Fw~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "湖南维斯登信息科技有限公司为广州市林云医疗技术有限公司全资子公司，专注于医疗信息化平台及智慧医院、互联网医疗服务产品等的研发，以医院管理、业务应用为出发点，以患者为中心，为医院信息化建设提供系统性的技术解决方案。为医院构建完整的院内、院外医疗信息化生态链，协助医院实现医疗信息互联互通，推动分级诊疗新医改。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "餐补",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190430/96af7da0fe06bbbc14bdbdfdf2c36389d0e15832a6602667e413d6a527be7219_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区合肥创新产业园2期H5栋合肥市合肥市高新区创新大道2800号合肥创新产业园二期H5栋B区1层101-34",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "029efdd3585a32121nB_3NW1F1M~",
+        "encryptId": "735c3d4511bbe2b91XJ53d-_F1ZQ",
+        "encryptUserId": "e771ab115c43364e1HZy2N28GVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.838756,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.136002,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83ab411872993038914e5ae2f709134f",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1.根据项目经理要求制定项目软件项目实施计划，并实施；\n2.用户咨询的解答，软件使用问题的解答，对无法解决的问题，及时向部门进行反馈；\n3.对用户进行系统或软件方便操作培训；\n4.根据公司要求，完成相关的文档；\n5.软件项目实施过程中的沟通协调，结果及时反馈；\n\n\n任职要求：\n1、大专及以上学历，计算机或网络相关专业优先，2年以上实施工作经验；\n2、有医疗信息化系统实施经验优先（his系统、区域医疗平台、院内平台、民政等)；\n3、了解程序设计基本逻辑，熟悉ORACLE，SQLSERVER等关系型数据库；\n4、性格乐观开朗，乐于沟通，较强的理解及沟通表达能力；\n5、广德、、等项目医院、卫健委出差。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "软件实施经验",
+            "HIS",
+            "熟练掌握SQL语句",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/634ab49516f8791a863ebd17291cd67e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6a2wUntc9nI5Y-I1QaMVHSDEOm7UKRot9kNYles0WyEbQ5dXYk4dCSLhh7EKBsSPMiMzcjKiySzaLEWeRqlqJduoDRIbpwiCnOFdxPUZBHQpE1XFzw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "B3Q5H8QmHHqJ5-T1eJcKqe-23aj3X4l3vgoVWtDPqvasXxtNYjHB282FLr7i7aU2mwaVHhKZh4b5tWquJL877LCj7unRK9NJHuYQYSaPuVrIimlt2Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "82684aee81ffac2333R429S7FlE~",
-      "encryptUserId": "a439597e36108e6e1nR62N-_FFZZ",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "高中",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "负责蝶形激光器产品测试，有相关工作经验优先录取，每天工作8小时，包住，中餐有餐补。加班费另算，工资4-5K。",
-      "encryptAddressId": "cc34ce3d30e3bfdf1HR93tq7FlM~",
-      "address": "武汉江夏区高新四路佛祖岭三路葛洲坝太阳城24栋1单元401",
-      "longitude": 114.470895,
-      "latitude": 30.457941,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f387334bc46058edcddb90d5e8624f99",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d30062a6aeeb7ebe07b54a123d35e58",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "付先生",
-      "title": "人事部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200529/4e2c3308f122035f27bde5abf9844aefbc6f83891da2d2a71dab0c465f4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "波瑞特斯光纤传感",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bed736f08a61951033F_2t-9FQ~~",
-      "brandName": "波瑞特斯光纤传感",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721559758898,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "波瑞特斯光纤传感",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "波瑞特斯光纤传感",
+        "certificated": true,
+        "large": null,
+        "name": "付先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200529/4e2c3308f122035f27bde5abf9844aefbc6f83891da2d2a71dab0c465f4_b.jpg",
+        "title": "人事部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721559758898,
+        "brandName": "波瑞特斯光纤传感",
+        "customerBrandName": "波瑞特斯光纤传感",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bed736f08a61951033F_2t-9FQ~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区高新四路佛祖岭三路葛洲坝太阳城24栋1单元401",
+        "anonymous": 0,
+        "degreeName": "高中",
+        "encryptAddressId": "cc34ce3d30e3bfdf1HR93tq7FlM~",
+        "encryptId": "82684aee81ffac2333R429S7FlE~",
+        "encryptUserId": "a439597e36108e6e1nR62N-_FFZZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.457941,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.470895,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d30062a6aeeb7ebe07b54a123d35e58",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "负责蝶形激光器产品测试，有相关工作经验优先录取，每天工作8小时，包住，中餐有餐补。加班费另算，工资4-5K。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "测试工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f387334bc46058edcddb90d5e8624f99"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "B3Q5H8QmHHqJ5-T1eJcKqe-23aj3X4l3vgoVWtDPqvasXxtNYjHB282FLr7i7aU2mwaVHhKZh4b5tWquJL877LCj7unRK9NJHuYQYSaPuVrIimlt2Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

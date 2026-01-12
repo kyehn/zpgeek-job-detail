@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "H6nG9sa0Tn0ES-d1dZywCrMS94HotBRCVVxnOXLFTQ15HqtWg85bUa5huRTzkZIQqqKZ3BWx5XruOvdWYhIuDKDs6AkNWo8OqVxHoGwY6GIPWl5QZYM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8204c245f3f7ae761HV72dy8F1ZZ",
-      "encryptUserId": "eb53a4d331276bfc1H190tS1E1A~",
-      "invalidStatus": false,
-      "jobName": "python",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责后端API开发与功能维护；\n2.撰写接口与功能开发文档；\n3.负责设计后台功能逻辑。\n\n二、任职要求：\n1.计算机相关专业本科及以上学历，至少具有1年以上工作经验；\n2.熟练掌握Python语言开发、Flask开发框架、Pytest/Unittest等测试框架、Linux系统的使用、MySql、Redis等常用数据库；\n3.掌握基本的数据结构与算法、Nginx、Apache等服务器软件；\n4.具有很强的理解能力与学习能力，具有良好的团队合作精神和服务意识。",
-      "encryptAddressId": "b457626ba9f228d51nZ70ti_FVtZ",
-      "address": "杭州西湖区华星科技大厦1",
-      "longitude": 120.124892,
-      "latitude": 30.276185,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40d325c82586b5fb4f86daec32a62f56",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f35d221e5b3bfdecf658ff243ad74da",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230530/607f1f3d68754fd0ea8d5b9886d1ae65611bad1343ff62588bbb1314ee3b2e4a093ba07fd01_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "骏合",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "dfd4d4666477ba431nV_2N21EFc~",
-      "brandName": "骏合",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722152182134,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "骏合",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "骏合",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230530/607f1f3d68754fd0ea8d5b9886d1ae65611bad1343ff62588bbb1314ee3b2e4a093ba07fd01_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1722152182134,
+        "brandName": "骏合",
+        "customerBrandName": "骏合",
+        "customerBrandStageName": "",
+        "encryptBrandId": "dfd4d4666477ba431nV_2N21EFc~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州西湖区华星科技大厦1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b457626ba9f228d51nZ70ti_FVtZ",
+        "encryptId": "8204c245f3f7ae761HV72dy8F1ZZ",
+        "encryptUserId": "eb53a4d331276bfc1H190tS1E1A~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "python",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.276185,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.124892,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f35d221e5b3bfdecf658ff243ad74da",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "1.负责后端API开发与功能维护；\n2.撰写接口与功能开发文档；\n3.负责设计后台功能逻辑。\n\n二、任职要求：\n1.计算机相关专业本科及以上学历，至少具有1年以上工作经验；\n2.熟练掌握Python语言开发、Flask开发框架、Pytest/Unittest等测试框架、Linux系统的使用、MySql、Redis等常用数据库；\n3.掌握基本的数据结构与算法、Nginx、Apache等服务器软件；\n4.具有很强的理解能力与学习能力，具有良好的团队合作精神和服务意识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40d325c82586b5fb4f86daec32a62f56"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "H6nG9sa0Tn0ES-d1dZywCrMS94HotBRCVVxnOXLFTQ15HqtWg85bUa5huRTzkZIQqqKZ3BWx5XruOvdWYhIuDKDs6AkNWo8OqVxHoGwY6GIPWl5QZYM~",
+    "selfAccess": false,
+    "sessionId": null
 }

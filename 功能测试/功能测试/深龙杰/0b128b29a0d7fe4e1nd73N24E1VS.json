@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2IzpIdFC8rFHQ-A1CVCDXquiOS-DOSYY7XV8cAfb49HlLr5uJxCrSVZ0zp3kO4oOWK3h1euL3mh_BUvf_aOxRavqfWEH81iD9i9pQviWjOK-TC-NA5R62Rx_C_wK2kvZkuws7oBB9jzjQw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0b128b29a0d7fe4e1nd73N24E1VS",
-      "encryptUserId": "c5e980fda31d44410nZ509-_GVZX",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、有UV打印机操作实践工作经验，熟手优先；\n2、熟练操作UV打印机，能对打印机常用维护与保养优先。\n3、熟练使用电脑\n4、性格开朗，工作认真，有责任心，踏实肯干，富有团队精神。\n4、可接收有平面设计工作经验，对机械产品有兴趣者",
-      "encryptAddressId": "5c42fbabe146a47103Z_2dq8FlU~",
-      "address": "东莞深龙杰(东莞)科技有限公司1号楼",
-      "longitude": 114.155277,
-      "latitude": 22.6905,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a51f7145b9c67d477c8250f1df25624d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7e8c779bfc8b128a38ccc3d7c4a8a377",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "硬件测试",
-        "服务端测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "尹女士",
-      "title": "主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210322/86077a820706ad8ab10710ed2d5838defa2dd77e1af2b009abd9eb54424_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "深龙杰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d3f1ac4d154006e30XF62d-9Ew~~",
-      "brandName": "深龙杰",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725467063973,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深龙杰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深龙杰",
+        "certificated": true,
+        "large": null,
+        "name": "尹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210322/86077a820706ad8ab10710ed2d5838defa2dd77e1af2b009abd9eb54424_b.jpg",
+        "title": "主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725467063973,
+        "brandName": "深龙杰",
+        "customerBrandName": "深龙杰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d3f1ac4d154006e30XF62d-9Ew~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞深龙杰(东莞)科技有限公司1号楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5c42fbabe146a47103Z_2dq8FlU~",
+        "encryptId": "0b128b29a0d7fe4e1nd73N24E1VS",
+        "encryptUserId": "c5e980fda31d44410nZ509-_GVZX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.6905,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 114.155277,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7e8c779bfc8b128a38ccc3d7c4a8a377",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "1、有UV打印机操作实践工作经验，熟手优先；\n2、熟练操作UV打印机，能对打印机常用维护与保养优先。\n3、熟练使用电脑\n4、性格开朗，工作认真，有责任心，踏实肯干，富有团队精神。\n4、可接收有平面设计工作经验，对机械产品有兴趣者",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "软件测试",
+            "硬件测试",
+            "服务端测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a51f7145b9c67d477c8250f1df25624d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2IzpIdFC8rFHQ-A1CVCDXquiOS-DOSYY7XV8cAfb49HlLr5uJxCrSVZ0zp3kO4oOWK3h1euL3mh_BUvf_aOxRavqfWEH81iD9i9pQviWjOK-TC-NA5R62Rx_C_wK2kvZkuws7oBB9jzjQw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PKrRJ4QkEORud-u1CeZNuLb5lfBV7WDYTVZZgE16pdum6_ezEB8ubF_Es4YnIjYWLAvJ40wsweR0jr-YvLr_5pFFXDiuSxbDb6SOl6nAZyCcW88MwKQeEMUuPxf7qH5ZVyI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bf136780496cf7a61Xx92di5FFVT",
-      "encryptUserId": "7a9d549b2b812ff10n150ty8ElpS",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "1、 根据产品开发项目的要求，进行产品软件方面的设计。\n2、 参与项目要求分析，进行系统框架和和核心模块的详细设计。\n3、 根据新产品开发进度和任务分配，开发设计人机界面友好、性能先进适用的产品配套软件。\n4、 结合国家、企业标准，以及软件工程的要求，编制并校验软件，对软件进行全周期的控制。\n5、 根据公司技术文档规范编写相应的技术文档。\n6、 根据需要不断修改完善软件。\n7、 编制项目文档、记录质量测试结果。\n8、 研究项目技术细节，编写相应的说明书。\n9、 编制任务相关技术文件，提供对生产和售后的技术支持。\n10、 完成领导安排的其他工作。\n\n技能技巧：\n熟悉c语言、c++、嵌入式等语言编程。\n精通QT、keil、VScode等编程工具。\n具备编码和撰写文档的能力。\n熟悉软件开发流程、设计模式、体系结构；\n有团队意识，分工合作意识。",
-      "encryptAddressId": "29fa952ecaa60aa933Ny0t-1F1Q~",
-      "address": "重庆南岸区茶园盈讯天地1号楼4楼",
-      "longitude": 106.635445,
-      "latitude": 29.483074,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3940306525c746874100974f91f3a417",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb43dbdf8135411de5678968d0b882c3",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "C++",
-        "C",
-        "QT"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "人事行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "重庆玖牛医疗科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "54d65b1ac4229e961XJy29m8EFc~",
-      "brandName": "重庆玖牛医疗科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "重庆玖牛医疗科技有限公司是智能医疗护理设备、耗材的研发制造厂商；也是为全球的医疗护理者提供解决方案的供应商。现业务涉及ICU、呼吸科、麻醉科等20多个临床科室，并获得了40多项专利。",
-      "labels": [
-        "双休",
-        "五险",
-        "培训",
-        "定期培训",
-        "节日福利",
-        "团建聚餐",
-        "员工旅游",
-        "全勤奖",
-        "绩效奖金"
-      ],
-      "activeTime": 1737105408121,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "重庆玖牛医疗科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "重庆玖牛医疗科技",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "人事行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1737105408121,
+        "brandName": "重庆玖牛医疗科技",
+        "customerBrandName": "重庆玖牛医疗科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "54d65b1ac4229e961XJy29m8EFc~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "重庆玖牛医疗科技有限公司是智能医疗护理设备、耗材的研发制造厂商；也是为全球的医疗护理者提供解决方案的供应商。现业务涉及ICU、呼吸科、麻醉科等20多个临床科室，并获得了40多项专利。",
+        "labels": [
+            "双休",
+            "五险",
+            "培训",
+            "定期培训",
+            "节日福利",
+            "团建聚餐",
+            "员工旅游",
+            "全勤奖",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆南岸区茶园盈讯天地1号楼4楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "29fa952ecaa60aa933Ny0t-1F1Q~",
+        "encryptId": "bf136780496cf7a61Xx92di5FFVT",
+        "encryptUserId": "7a9d549b2b812ff10n150ty8ElpS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 29.483074,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.635445,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb43dbdf8135411de5678968d0b882c3",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1、 根据产品开发项目的要求，进行产品软件方面的设计。\n2、 参与项目要求分析，进行系统框架和和核心模块的详细设计。\n3、 根据新产品开发进度和任务分配，开发设计人机界面友好、性能先进适用的产品配套软件。\n4、 结合国家、企业标准，以及软件工程的要求，编制并校验软件，对软件进行全周期的控制。\n5、 根据公司技术文档规范编写相应的技术文档。\n6、 根据需要不断修改完善软件。\n7、 编制项目文档、记录质量测试结果。\n8、 研究项目技术细节，编写相应的说明书。\n9、 编制任务相关技术文件，提供对生产和售后的技术支持。\n10、 完成领导安排的其他工作。\n\n技能技巧：\n熟悉c语言、c++、嵌入式等语言编程。\n精通QT、keil、VScode等编程工具。\n具备编码和撰写文档的能力。\n熟悉软件开发流程、设计模式、体系结构；\n有团队意识，分工合作意识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "C#",
+            "C++",
+            "C",
+            "QT"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3940306525c746874100974f91f3a417"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PKrRJ4QkEORud-u1CeZNuLb5lfBV7WDYTVZZgE16pdum6_ezEB8ubF_Es4YnIjYWLAvJ40wsweR0jr-YvLr_5pFFXDiuSxbDb6SOl6nAZyCcW88MwKQeEMUuPxf7qH5ZVyI~",
+    "selfAccess": false,
+    "sessionId": null
 }

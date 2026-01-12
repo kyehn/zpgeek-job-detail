@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zjt7IwqVt6Y8U-x13LH3Z-C9zJOEGBwTi3TCV4LBW3c_WSJbCE8wBQKoVZnQ1qGeczmkLw5ZOBaQ-C1YFrndHv6BMKkvPdf1lByZ5HJLOFgwbdzddpET4BnVOQcp7xFlUWJuMjMdlOVxzuE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2c4d34e2705d866d1H162dS0FVdW",
-      "encryptUserId": "56a971d015d84dce0nVz09-1GVVQ",
-      "invalidStatus": false,
-      "jobName": "策划副手",
-      "position": 140109,
-      "positionName": "活动策划执行",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "‌经验与能力要求‌：\n.\n具备丰富的活动策划经验，能够独立撰写项目策划方案‌\n熟练使用办公软件和设计软件，如PS、CDR、AI等‌\n具备良好的市场分析和创新能力，善于撰写活动策划方案‌\n负责公司各类活动的策划与组织实施‌\n根据项目需求完成各类方案的PPT制作、提案和汇报‌\n协助处理部门日常行政工作，收集、反馈并提报市场信息‌\n具备较强的协调能力及文案功底\n具备良好的心理素质和抗压能力，性格外向，稳重，自信，富有团队精神‌\n有房地产、广告传媒、市场营销等相关专业背景者优先",
-      "encryptAddressId": "36bc7a6e9b587b791nd829i1F1BTyo-9VPOX",
-      "address": "苏州吴中区天鸿大厦A座/10层/1005",
-      "longitude": 120.597259,
-      "latitude": 31.209377,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230527/48ba41acc9cef1bf64ebcc6422fa0a7ee7ce6ea43a1010286bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230714/48ba41acc9cef1bf78ad1244916652f3595c0b511a96ed386bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电商",
-        "生活服务/O2O",
-        "C端客户",
-        "执行",
-        "策划"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210303/67342c26c52fe41453edcf11eb7051d5cec568a772ca2ee1b84ba76b21c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "初曦企业管理",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "35c3b9dcf755f4f81HN92Ni5FFA~",
-      "brandName": "初曦企业管理",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101109,
-      "industryName": "家政服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730452631318,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "初曦企业管理",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "初曦企业管理",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210303/67342c26c52fe41453edcf11eb7051d5cec568a772ca2ee1b84ba76b21c_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730452631318,
+        "brandName": "初曦企业管理",
+        "customerBrandName": "初曦企业管理",
+        "customerBrandStageName": "",
+        "encryptBrandId": "35c3b9dcf755f4f81HN92Ni5FFA~",
+        "focusBrand": false,
+        "industry": 101109,
+        "industryName": "家政服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区天鸿大厦A座/10层/1005",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "36bc7a6e9b587b791nd829i1F1BTyo-9VPOX",
+        "encryptId": "2c4d34e2705d866d1H162dS0FVdW",
+        "encryptUserId": "56a971d015d84dce0nVz09-1GVVQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "策划副手",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.209377,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.597259,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230714/48ba41acc9cef1bf78ad1244916652f3595c0b511a96ed386bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 140109,
+        "positionName": "活动策划执行",
+        "postDescription": "经验与能力要求：\n.\n具备丰富的活动策划经验，能够独立撰写项目策划方案\n熟练使用办公软件和设计软件，如PS、CDR、AI等\n具备良好的市场分析和创新能力，善于撰写活动策划方案\n负责公司各类活动的策划与组织实施\n根据项目需求完成各类方案的PPT制作、提案和汇报\n协助处理部门日常行政工作，收集、反馈并提报市场信息\n具备较强的协调能力及文案功底\n具备良好的心理素质和抗压能力，性格外向，稳重，自信，富有团队精神\n有房地产、广告传媒、市场营销等相关专业背景者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "电商",
+            "生活服务/O2O",
+            "C端客户",
+            "执行",
+            "策划"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230527/48ba41acc9cef1bf64ebcc6422fa0a7ee7ce6ea43a1010286bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zjt7IwqVt6Y8U-x13LH3Z-C9zJOEGBwTi3TCV4LBW3c_WSJbCE8wBQKoVZnQ1qGeczmkLw5ZOBaQ-C1YFrndHv6BMKkvPdf1lByZ5HJLOFgwbdzddpET4BnVOQcp7xFlUWJuMjMdlOVxzuE~",
+    "selfAccess": false,
+    "sessionId": null
 }

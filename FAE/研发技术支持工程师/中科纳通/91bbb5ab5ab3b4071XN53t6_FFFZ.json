@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UZlBO9q8vlCgE-u1YkCcPTkLCGd5Blt-EWsKAJfHqubIWvpao6ti0UYOHYqGpO-yko-mlh9CleATe1Qhqy6iVybH2f07R3pn1rj_ll_SCeJDfS8eS25srsUnvnrAwpY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "91bbb5ab5ab3b4071XN53t6_FFFZ",
-      "encryptUserId": "89a5941e861e53cb1HV92929E1c~",
-      "invalidStatus": false,
-      "jobName": "研发技术支持工程师",
-      "position": 101403,
-      "positionName": "FAE",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责公司华东区域内相关客户售前/售后技术服务与支持。\n2、与客户交流、收集及分析客户需求信息，为客户提供技术产品选择方案。\n3、客户端跟线测试、与客户现场人员及时沟通，解决现场一般技术问题。\n4、收集市场竞品功能、特性等信息，分析比较公司产品优缺点并提出改善建议。\n5、积极配合公司其它部门同事工作，提高团队综合业务能力。\n6、完成上级领导交代的临时工作。",
-      "encryptAddressId": "aeea3e4b7b25280c03d72dW6EFM~",
-      "address": "苏州苏州纳米城苏州市姑苏区工业区金鸡湖大道99号纳米城",
-      "longitude": 120.775342,
-      "latitude": 31.286059,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c67c5a7e3319db64ccce6da5bc37d57",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/383e06a7cb4a5e1434468bdfddfe512b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "研发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd05e3eb57fc8da1d3ed75f50d9522e05d0b2815e7a854440657a0095087260802_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "中科纳通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "28d02bc3921d3ee41X173t60",
-      "brandName": "中科纳通",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190325/4e45cac2f40a7956c08661b471ed6b0eb2815e7a854440657a00950872608025.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "北京中科纳通电子技术有限公司（NANO TOP）是中国科学院和北京市政府关心支持下成立的一家高科技企业。公司位于＂北京纳米科技产业园＂，建筑面积23000平方米，总投资额1.2亿人民币，博士、硕士等专业人士占公司员工55%。已申请国家专利28项。\n中科纳通专注电子产业，提供以金属银为核心的导电材料、产品和服务。通过高品质的导电银浆、封装胶和纳米银导电膜系列产品和专业检测服务，为客户创造价值。\n中科纳通正努力建设成为中国纳米电子材料产业的“人才聚集地”、“原创技术发源地”和“研发生产示范基地”。成为中国电子信息和光电产业发展的核心力量！",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "通讯补贴",
-        "交通补助",
-        "包吃",
-        "节日福利"
-      ],
-      "activeTime": 1733386906917,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中科纳通",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中科纳通",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd05e3eb57fc8da1d3ed75f50d9522e05d0b2815e7a854440657a0095087260802_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1733386906917,
+        "brandName": "中科纳通",
+        "customerBrandName": "中科纳通",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "28d02bc3921d3ee41X173t60",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "北京中科纳通电子技术有限公司（NANO TOP）是中国科学院和北京市政府关心支持下成立的一家高科技企业。公司位于＂北京纳米科技产业园＂，建筑面积23000平方米，总投资额1.2亿人民币，博士、硕士等专业人士占公司员工55%。已申请国家专利28项。\n中科纳通专注电子产业，提供以金属银为核心的导电材料、产品和服务。通过高品质的导电银浆、封装胶和纳米银导电膜系列产品和专业检测服务，为客户创造价值。\n中科纳通正努力建设成为中国纳米电子材料产业的“人才聚集地”、“原创技术发源地”和“研发生产示范基地”。成为中国电子信息和光电产业发展的核心力量！",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "通讯补贴",
+            "交通补助",
+            "包吃",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190325/4e45cac2f40a7956c08661b471ed6b0eb2815e7a854440657a00950872608025.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州纳米城苏州市姑苏区工业区金鸡湖大道99号纳米城",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "aeea3e4b7b25280c03d72dW6EFM~",
+        "encryptId": "91bbb5ab5ab3b4071XN53t6_FFFZ",
+        "encryptUserId": "89a5941e861e53cb1HV92929E1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "研发技术支持工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.286059,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.775342,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/383e06a7cb4a5e1434468bdfddfe512b",
+        "position": 101403,
+        "positionName": "FAE",
+        "postDescription": "1、负责公司华东区域内相关客户售前/售后技术服务与支持。\n2、与客户交流、收集及分析客户需求信息，为客户提供技术产品选择方案。\n3、客户端跟线测试、与客户现场人员及时沟通，解决现场一般技术问题。\n4、收集市场竞品功能、特性等信息，分析比较公司产品优缺点并提出改善建议。\n5、积极配合公司其它部门同事工作，提高团队综合业务能力。\n6、完成上级领导交代的临时工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "研发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c67c5a7e3319db64ccce6da5bc37d57"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UZlBO9q8vlCgE-u1YkCcPTkLCGd5Blt-EWsKAJfHqubIWvpao6ti0UYOHYqGpO-yko-mlh9CleATe1Qhqy6iVybH2f07R3pn1rj_ll_SCeJDfS8eS25srsUnvnrAwpY~",
+    "selfAccess": false,
+    "sessionId": null
 }

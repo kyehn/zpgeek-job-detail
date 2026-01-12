@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JpKUs9PsbhwIh-Y1CDCrnyxywxEu87Eb4-IBDLxGJhpE9w1D19uaPt9q0l7Hw3C7rPwChtOzFZZlZ-tdUGCIA8MoDgFiSM97Iv0VE8WU8zosIRY4_YW8YveUuYKgDLxKY2MXl9wrkJjZ1Je-SUOtcwRenrtnOOon5Yr4z2IN4FBB5verBWv8GUSJJziqwA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7a1f3382686d88ec03V70t2_F1dT",
-      "encryptUserId": "43269bb9d03b54b51nV529u5FVRS",
-      "invalidStatus": false,
-      "jobName": "软件系统运维（财务/保险项目）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-11K",
-      "payTypeDesc": null,
-      "postDescription": "招聘要求：\n1.计算机、财经、保险相关专业；\n2.1年以上应用系统运营工作经验，了解财务或保险基础的业务知识，运营过财务应用软件更佳；\n3.熟练oracle、mysql等数据库，具体一定的数据统计、分析能力；\n4.掌握liunx常用命令，处理传统部署应用版本发布；\n5.能承受一定的工作压力和节假日加班需求（每月1号遇上周末或节假日要正常上班）；\n6.有很强的执行力、学习能力、沟通能力、团队协作能力等",
-      "encryptAddressId": "8ca8dec0a7ab43ad1nF509u8FlFXw4m4V_2Z",
-      "address": "上海浦东新区金领之都27号楼1楼",
-      "longitude": 121.619548,
-      "latitude": 31.262856,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6353665d0ae40aa1384609201f5a838",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd62913164ba3e3525bbf83b763ed2d6",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux shell mysql ",
-        "oracle pl/sql",
-        "系统运维",
-        "保险",
-        "财务 ",
-        "Python/Shell",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "曹女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "阜凡软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "de16d7a774b523581XJ_2tW4Eg~~",
-      "brandName": "阜凡软件",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190514/b609046c646f0de0e21ad1d489d115a146ab9eeb722d375131d9e971e7454e69.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "上海阜凡信息科技有限公司成立于2007年5月，是一家集软件开发、系统集成和提供咨询与服务为一体的高新科技企业。经过持续地高速发展和不懈努力，已经具备了雄厚的技术实力和技术支持服务体系，阜坤科技立足于丰富的项目实施经验和雄厚的技术开发实力，长期以来，一直参与和推动中国行业信息化特别是金融电子化政策的实施。\n\n    中国平安、中国太平等保险集团是阜坤科技的重要客户。自建立伊始，阜坤便将保险领域做为公司长远发展战略目标；组成了以个险、团险、银保、财险和企业年金方面的人才梯队，并具备相应业务的产品开发、外包开发、集成测试等能力。\n\n    在未来的发展中，阜坤科技将以“软件开发为主、系统集成与服务并重”为战略重点。继续开发和培育自有软件产品，注重引进国际先进水平的技术及产品，提升核心竞争力。为新老客户提供更加优质的、具有国际水准的产品、全面解决方案、专业化的培训和量身定做的服务。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1736906503131,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "阜凡软件",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "阜凡软件",
+        "certificated": true,
+        "large": null,
+        "name": "曹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1736906503131,
+        "brandName": "阜凡软件",
+        "customerBrandName": "阜凡软件",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "de16d7a774b523581XJ_2tW4Eg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "上海阜凡信息科技有限公司成立于2007年5月，是一家集软件开发、系统集成和提供咨询与服务为一体的高新科技企业。经过持续地高速发展和不懈努力，已经具备了雄厚的技术实力和技术支持服务体系，阜坤科技立足于丰富的项目实施经验和雄厚的技术开发实力，长期以来，一直参与和推动中国行业信息化特别是金融电子化政策的实施。\n\n    中国平安、中国太平等保险集团是阜坤科技的重要客户。自建立伊始，阜坤便将保险领域做为公司长远发展战略目标；组成了以个险、团险、银保、财险和企业年金方面的人才梯队，并具备相应业务的产品开发、外包开发、集成测试等能力。\n\n    在未来的发展中，阜坤科技将以“软件开发为主、系统集成与服务并重”为战略重点。继续开发和培育自有软件产品，注重引进国际先进水平的技术及产品，提升核心竞争力。为新老客户提供更加优质的、具有国际水准的产品、全面解决方案、专业化的培训和量身定做的服务。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190514/b609046c646f0de0e21ad1d489d115a146ab9eeb722d375131d9e971e7454e69.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区金领之都27号楼1楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "8ca8dec0a7ab43ad1nF509u8FlFXw4m4V_2Z",
+        "encryptId": "7a1f3382686d88ec03V70t2_F1dT",
+        "encryptUserId": "43269bb9d03b54b51nV529u5FVRS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件系统运维（财务/保险项目）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.262856,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.619548,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd62913164ba3e3525bbf83b763ed2d6",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "招聘要求：\n1.计算机、财经、保险相关专业；\n2.1年以上应用系统运营工作经验，了解财务或保险基础的业务知识，运营过财务应用软件更佳；\n3.熟练oracle、mysql等数据库，具体一定的数据统计、分析能力；\n4.掌握liunx常用命令，处理传统部署应用版本发布；\n5.能承受一定的工作压力和节假日加班需求（每月1号遇上周末或节假日要正常上班）；\n6.有很强的执行力、学习能力、沟通能力、团队协作能力等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-11K",
+        "showSkills": [
+            "Linux shell mysql ",
+            "oracle pl/sql",
+            "系统运维",
+            "保险",
+            "财务 ",
+            "Python/Shell",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6353665d0ae40aa1384609201f5a838"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JpKUs9PsbhwIh-Y1CDCrnyxywxEu87Eb4-IBDLxGJhpE9w1D19uaPt9q0l7Hw3C7rPwChtOzFZZlZ-tdUGCIA8MoDgFiSM97Iv0VE8WU8zosIRY4_YW8YveUuYKgDLxKY2MXl9wrkJjZ1Je-SUOtcwRenrtnOOon5Yr4z2IN4FBB5verBWv8GUSJJziqwA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

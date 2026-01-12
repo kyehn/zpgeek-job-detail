@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IUsupkcRrAKJM-x13JFhammOShwHNNWXvszMz2XWhKe89sg9aZ4s2ORKA4yreIGpgXo3g_zr9siHiz7fBS8nb1nGbtXqy5wpmiZqtZDwUvmfRb4BOzNlFI419gXYriDYBAcyQW3bkNHsFQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6bade4832917378b1H1829q6EFpX",
-      "encryptUserId": "2cea32c1dbc441121nVy3du0FlM~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "高校研发团队招聘仪器组装调试工程师\n我们是一个专注于科研仪器的研发团队，研发目标为新型传感器，现在需要招聘仪器组装调试工程师，共同研制领先的科研仪器。\n\n我们提供的待遇如下：\n薪资8k-20k，经常需要加班；\n提供良好的团队氛围和沟通平台，让您与同事互相学习和交流；\n提供丰富的项目经验和机会，让您参与到各种有趣和有挑战性的科研仪器的研发中；\n\n我们期待您具备以下条件：\n本科及以上学历，物理、光学、仪器、自动化等相关专业；\n熟悉硬件系统的调试、测试等流程，具有规范做实验记录的经验；\n熟练使用常用的软件、工具和仪器，如PPT、origin作图软件、万用表、示波器、频谱仪等；\n有良好的学习能力和沟通能力，能够主动解决问题和提出建议。\n有责任心和团队精神，能够按时完成任务和配合其他人员。\n如果您对我们的招聘感兴趣，请发送您的简历和作品，我们将尽快与您联系并安排面试。期待您的加入！",
-      "encryptAddressId": "cf42d5b18edceb6a1nd63Nq5FlNYyom_Uf-e",
-      "address": "杭州浙江省杭州市西湖区浙江大学玉泉校区(新桥门)第十教学楼",
-      "longitude": 120.127265,
-      "latitude": 30.265331,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240526/48ba41acc9cef1bfb065106b6a5651c098abd942cf97a8f96bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240526/48ba41acc9cef1bfb7f83949ec003ff3eb8a5706711f22146bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "运营主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230612/607f1f3d68754fd0d2f9b9191d17e6462199470f1d93d76bbc9cfe7510203cd37ee9b552e4a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "杭州飞特斯拉科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "800473f7cab917a71HF72t24F1Y~",
-      "brandName": "杭州飞特斯拉科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101406,
-      "industryName": "电子/硬件开发",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730626098858,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州飞特斯拉科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州飞特斯拉科技",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230612/607f1f3d68754fd0d2f9b9191d17e6462199470f1d93d76bbc9cfe7510203cd37ee9b552e4a_b.jpg",
+        "title": "运营主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730626098858,
+        "brandName": "杭州飞特斯拉科技",
+        "customerBrandName": "杭州飞特斯拉科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "800473f7cab917a71HF72t24F1Y~",
+        "focusBrand": false,
+        "industry": 101406,
+        "industryName": "电子/硬件开发",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州浙江省杭州市西湖区浙江大学玉泉校区(新桥门)第十教学楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cf42d5b18edceb6a1nd63Nq5FlNYyom_Uf-e",
+        "encryptId": "6bade4832917378b1H1829q6EFpX",
+        "encryptUserId": "2cea32c1dbc441121nVy3du0FlM~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.265331,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.127265,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240526/48ba41acc9cef1bfb7f83949ec003ff3eb8a5706711f22146bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "高校研发团队招聘仪器组装调试工程师\n我们是一个专注于科研仪器的研发团队，研发目标为新型传感器，现在需要招聘仪器组装调试工程师，共同研制领先的科研仪器。\n\n我们提供的待遇如下：\n薪资8k-20k，经常需要加班；\n提供良好的团队氛围和沟通平台，让您与同事互相学习和交流；\n提供丰富的项目经验和机会，让您参与到各种有趣和有挑战性的科研仪器的研发中；\n\n我们期待您具备以下条件：\n本科及以上学历，物理、光学、仪器、自动化等相关专业；\n熟悉硬件系统的调试、测试等流程，具有规范做实验记录的经验；\n熟练使用常用的软件、工具和仪器，如PPT、origin作图软件、万用表、示波器、频谱仪等；\n有良好的学习能力和沟通能力，能够主动解决问题和提出建议。\n有责任心和团队精神，能够按时完成任务和配合其他人员。\n如果您对我们的招聘感兴趣，请发送您的简历和作品，我们将尽快与您联系并安排面试。期待您的加入！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·14薪",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240526/48ba41acc9cef1bfb065106b6a5651c098abd942cf97a8f96bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IUsupkcRrAKJM-x13JFhammOShwHNNWXvszMz2XWhKe89sg9aZ4s2ORKA4yreIGpgXo3g_zr9siHiz7fBS8nb1nGbtXqy5wpmiZqtZDwUvmfRb4BOzNlFI419gXYriDYBAcyQW3bkNHsFQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

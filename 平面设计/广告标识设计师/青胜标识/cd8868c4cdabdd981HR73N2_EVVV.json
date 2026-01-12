@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fv9Hk07RqOrFw-K1f0KemASrgrklMn8X_NpSXYIAAzwg4hOdPxEU5gi6G1CxgQ1QqvXAWDNhCJtQnhUxul8YttNrEMULyFlZkTKvejQ8waF1kX4JaEeaZ6ZI9BNv69Q-RiuR_mnISKHC8Ns~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cd8868c4cdabdd981HR73N2_EVVV",
-      "encryptUserId": "c8b7d867523285ce1nRz3dy4FFZS",
-      "invalidStatus": false,
-      "jobName": "广告标识设计师",
-      "position": 120106,
-      "positionName": "平面设计",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "画图，分解图纸，熟练使用CDR和CAD软件\r\n\r\n加分项\r\n有以下行业经验：广告/公关/会展·其他专业服务",
-      "encryptAddressId": "02037fb90dbe6d2933143ti8GFo~",
-      "address": "杭州临平区塘栖工业园3号楼3层",
-      "longitude": 120.169295,
-      "latitude": 30.453508,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4f8ebef4e5298ca0cbe6f049e1a5733",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d423adcf12f083e4f44c227c8a13ccec",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CDR",
-        "AI",
-        "广告设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "崔先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200520/0e888fe5d3e9642522ef37ad6f8fdf9b17f2cf537f728a889f8550ae883_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "青胜标识",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "70161c3e5012a6411Xd9096-E1s~",
-      "brandName": "青胜标识",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [
-        "加班补助",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "意外险",
-        "补充医疗保险"
-      ],
-      "activeTime": 1728047139103,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青胜标识",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青胜标识",
+        "certificated": true,
+        "large": null,
+        "name": "崔先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200520/0e888fe5d3e9642522ef37ad6f8fdf9b17f2cf537f728a889f8550ae883_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1728047139103,
+        "brandName": "青胜标识",
+        "customerBrandName": "青胜标识",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "70161c3e5012a6411Xd9096-E1s~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [
+            "加班补助",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "意外险",
+            "补充医疗保险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州临平区塘栖工业园3号楼3层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "02037fb90dbe6d2933143ti8GFo~",
+        "encryptId": "cd8868c4cdabdd981HR73N2_EVVV",
+        "encryptUserId": "c8b7d867523285ce1nRz3dy4FFZS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "广告标识设计师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.453508,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.169295,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d423adcf12f083e4f44c227c8a13ccec",
+        "position": 120106,
+        "positionName": "平面设计",
+        "postDescription": "画图，分解图纸，熟练使用CDR和CAD软件\r\n\r\n加分项\r\n有以下行业经验：广告/公关/会展·其他专业服务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "CDR",
+            "AI",
+            "广告设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4f8ebef4e5298ca0cbe6f049e1a5733"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fv9Hk07RqOrFw-K1f0KemASrgrklMn8X_NpSXYIAAzwg4hOdPxEU5gi6G1CxgQ1QqvXAWDNhCJtQnhUxul8YttNrEMULyFlZkTKvejQ8waF1kX4JaEeaZ6ZI9BNv69Q-RiuR_mnISKHC8Ns~",
+    "selfAccess": false,
+    "sessionId": null
 }

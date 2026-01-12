@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "MrTtD54hrXHUN-o1X-nct75kGeiZnUrRlsoMB-oXHeHuP5wcPGwj_fE-WSD6z_3cSMuppbaKXqIxQdGVPjje6zKcQWW1CIuw0unSwT0OQRnt15YIqmGVinJwfzyXul1H0BwpaNBzLO-t7A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2975c1bffa0c50041HN42tu_E1BV",
-      "encryptUserId": "ddf7ba63c092c69e0nR-09q5FFtZ",
-      "invalidStatus": false,
-      "jobName": "java开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、计算机相关专业，本科，拥有一年以上Java开发经验；\n2、对人脸识别/图像识别等人工智能和物联网技术有一定的了解；\n3、熟练使用springboot等框架，能够进行项目架构设计和数据库设计；\n4、有负责项目协同开发的经验，智能化集成项目优先；\n5、接受加班和出差，不能接受勿扰；",
-      "encryptAddressId": "023b488d2290fd561nR93N69GFJXwYW2UP2b",
-      "address": "杭州滨江区新东忠科技园2号楼208",
-      "longitude": 120.196949,
-      "latitude": 30.188047,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfbf264029aa10ee9b48e538b305aa5c146bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf77029f069c592f0fe5095862617efdb86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "物联网经验",
-        "MySQL",
-        "Redis",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231012/607f1f3d68754fd0415c685912b3b9ab22b547b46f193ccba029bbeb21cb9657197fe117f740724_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "瑶瑟科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8da2cf9d1de4e97f1nx_3dq1EA~~",
-      "brandName": "瑶瑟科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200302/a07548ccf081f2e2635e0a3f173401cd26fe0b5a274a1c44165a65f74bd931f8.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "国家高新科技企业\n主营业务为人工智能相关的应用软件，包含软件开发、算法定制、硬件集成与三维地图等。业务面向全国、主要客户包含高校、工厂和政府单位，为其提供智能化解决方法。",
-      "labels": [
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1727845710062,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瑶瑟科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "瑶瑟科技",
+        "certificated": true,
+        "large": null,
+        "name": "唐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231012/607f1f3d68754fd0415c685912b3b9ab22b547b46f193ccba029bbeb21cb9657197fe117f740724_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727845710062,
+        "brandName": "瑶瑟科技",
+        "customerBrandName": "瑶瑟科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "8da2cf9d1de4e97f1nx_3dq1EA~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "国家高新科技企业\n主营业务为人工智能相关的应用软件，包含软件开发、算法定制、硬件集成与三维地图等。业务面向全国、主要客户包含高校、工厂和政府单位，为其提供智能化解决方法。",
+        "labels": [
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200302/a07548ccf081f2e2635e0a3f173401cd26fe0b5a274a1c44165a65f74bd931f8.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区新东忠科技园2号楼208",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "023b488d2290fd561nR93N69GFJXwYW2UP2b",
+        "encryptId": "2975c1bffa0c50041HN42tu_E1BV",
+        "encryptUserId": "ddf7ba63c092c69e0nR-09q5FFtZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.188047,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.196949,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf77029f069c592f0fe5095862617efdb86bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、计算机相关专业，本科，拥有一年以上Java开发经验；\n2、对人脸识别/图像识别等人工智能和物联网技术有一定的了解；\n3、熟练使用springboot等框架，能够进行项目架构设计和数据库设计；\n4、有负责项目协同开发的经验，智能化集成项目优先；\n5、接受加班和出差，不能接受勿扰；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "Java",
+            "物联网经验",
+            "MySQL",
+            "Redis",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfbf264029aa10ee9b48e538b305aa5c146bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "MrTtD54hrXHUN-o1X-nct75kGeiZnUrRlsoMB-oXHeHuP5wcPGwj_fE-WSD6z_3cSMuppbaKXqIxQdGVPjje6zKcQWW1CIuw0unSwT0OQRnt15YIqmGVinJwfzyXul1H0BwpaNBzLO-t7A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

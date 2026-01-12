@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-g8HHF2X6Y5T1-Y1bheOlujp0DZcBNwzGiH-fwiDhizWzLGE7XXq36jjrqb9qzBr-2X8tE3RiuwRRMQ53b1q5F9U_lvT-yIk2wzg-APtLLd-vl99",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "aad8a691fdccd1371XRy0ty9FVU~",
-      "encryptUserId": "bddc00eb593204681H152dS-EFA~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "要求人品正，工作责任心强，有上进心，具备一定的协调能力，",
-      "encryptAddressId": "86d2fec27d7f4f0733Z_2tq6GA~~",
-      "address": "南京雨花台区中和大厦A座702一703",
-      "longitude": 118.749096,
-      "latitude": 31.97026,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21831ae49187a125ae1b08b638ec7964",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd80e779502cd7af2258b472a6e89c93",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据库",
-        "系统运维",
-        "系统管理员"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "陛圣隆",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d91dd01418e7f51f1n1_3Ni9GA~~",
-      "brandName": "陛圣隆",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100009,
-      "industryName": "旅游",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725374342450,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "陛圣隆",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "陛圣隆",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725374342450,
+        "brandName": "陛圣隆",
+        "customerBrandName": "陛圣隆",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "d91dd01418e7f51f1n1_3Ni9GA~~",
+        "focusBrand": false,
+        "industry": 100009,
+        "industryName": "旅游",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区中和大厦A座702一703",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "86d2fec27d7f4f0733Z_2tq6GA~~",
+        "encryptId": "aad8a691fdccd1371XRy0ty9FVU~",
+        "encryptUserId": "bddc00eb593204681H152dS-EFA~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.97026,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.749096,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd80e779502cd7af2258b472a6e89c93",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "要求人品正，工作责任心强，有上进心，具备一定的协调能力，",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "数据库",
+            "系统运维",
+            "系统管理员"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21831ae49187a125ae1b08b638ec7964"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-g8HHF2X6Y5T1-Y1bheOlujp0DZcBNwzGiH-fwiDhizWzLGE7XXq36jjrqb9qzBr-2X8tE3RiuwRRMQ53b1q5F9U_lvT-yIk2wzg-APtLLd-vl99",
+    "selfAccess": false,
+    "sessionId": null
 }

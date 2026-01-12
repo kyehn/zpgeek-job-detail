@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PHWwNG2rgJ2xw-F1-4EeumcDidmhl3qJu6Vqa_dojf01awIHpIkiNY4B-E-XjApoNiJ5tnpWy4SSjUt0D50lPYfUQO8PoAWfpfvJ-bmbjZhehNFRKZGNNJvkFW4QB3SVNp-rAoueXUtC8A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dbcee550f8dc8d741HF-3N66GFtU",
-      "encryptUserId": "c348b9320d26d7450HZ-0tu6F1E~",
-      "invalidStatus": false,
-      "jobName": "技术支持工程师（接受应届生）",
-      "position": 101403,
-      "positionName": "FAE",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司自研TSMaster工具链产品（总线仿真、测试、诊断、标定）的日常技术支持及售后培训；\n2、向客户介绍TSMaster工具链产品（总线仿真、测试、诊断、标定）以及相关的技术方案；\n3、编写TSMaster工具链产品（总线仿真、测试、诊断、标定）培训PPT以及售前方案；\n4、基于TSMaster产品进行二次开发（使用到的编程语言包括但不仅限于CAPL，C#，C++，python等）；\n5、参与项目实施（CAN，LIN，Ethernet等总线的自动化测试）；\n6、负责研究前沿汽车网络通信相关的技术标准（CAN-FD，汽车以太网等）。\n本岗位属于综合性岗位，在这个职位上可以深入地了解汽车电子相关领域的Know-How，\n知识跨度覆盖OEM&Tie1_2的多个岗位Know-How（测试工程师+产品工程师+其它相关岗位），同时通过参与技术支持工作可以迅速提升沟通交流能力。\n任职要求：\n1、全日制统招本科及以上学历，车辆工程、自动化、测控、通信、计算机、软件等相关专业，优秀应届生亦可；\n2、具备良好的沟通表达能力、职业化素养及抗压能力(需要跟客户沟通)；\n3、熟悉Labview、C、C++、C#、Python等至少一种编程语言；\n4、熟练使用MATLAB，Simulink等软件的优先考虑；\n5、具备良好的文档编写能力和文字表达能力；",
-      "encryptAddressId": "368ccf1f1affc6a60nF63N66FFNXx4m-VP4~",
-      "address": "北京丰台区新华国际中心A座318",
-      "longitude": 116.302427,
-      "latitude": 39.796655,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf0d6b8cc50e439640288048b9d7c04f696bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bff8abb0ff8af19114e7dd6f344694fe626bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "FAE"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "方女士",
-      "title": "人事招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "同星智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0c075d0f74d277e31nd_2N6-F1Q~",
-      "brandName": "同星智能",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211012/7bf6f160950405e9780a949bd1165cb2ce9a77e8f9787642eba9b7b01060e955440f225d76ac493c.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100913,
-      "industryName": "仪器仪表",
-      "introduce": "同星智能成立于2017年，是专注于国产自主可控汽车总线工具链的高新技术企业，一直致力于为汽车研发制造、工业生产等领域的工程难题提供自主创新的中国方案。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "免费工装",
-        "团建聚餐",
-        "餐补",
-        "员工旅游",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1732270252479,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "同星智能",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "同星智能",
+        "certificated": true,
+        "large": null,
+        "name": "方女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732270252479,
+        "brandName": "同星智能",
+        "customerBrandName": "同星智能",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "0c075d0f74d277e31nd_2N6-F1Q~",
+        "focusBrand": false,
+        "industry": 100913,
+        "industryName": "仪器仪表",
+        "introduce": "同星智能成立于2017年，是专注于国产自主可控汽车总线工具链的高新技术企业，一直致力于为汽车研发制造、工业生产等领域的工程难题提供自主创新的中国方案。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "免费工装",
+            "团建聚餐",
+            "餐补",
+            "员工旅游",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211012/7bf6f160950405e9780a949bd1165cb2ce9a77e8f9787642eba9b7b01060e955440f225d76ac493c.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京丰台区新华国际中心A座318",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "368ccf1f1affc6a60nF63N66FFNXx4m-VP4~",
+        "encryptId": "dbcee550f8dc8d741HF-3N66GFtU",
+        "encryptUserId": "c348b9320d26d7450HZ-0tu6F1E~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "技术支持工程师（接受应届生）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.796655,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.302427,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bff8abb0ff8af19114e7dd6f344694fe626bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 101403,
+        "positionName": "FAE",
+        "postDescription": "岗位职责：\n1、负责公司自研TSMaster工具链产品（总线仿真、测试、诊断、标定）的日常技术支持及售后培训；\n2、向客户介绍TSMaster工具链产品（总线仿真、测试、诊断、标定）以及相关的技术方案；\n3、编写TSMaster工具链产品（总线仿真、测试、诊断、标定）培训PPT以及售前方案；\n4、基于TSMaster产品进行二次开发（使用到的编程语言包括但不仅限于CAPL，C#，C++，python等）；\n5、参与项目实施（CAN，LIN，Ethernet等总线的自动化测试）；\n6、负责研究前沿汽车网络通信相关的技术标准（CAN-FD，汽车以太网等）。\n本岗位属于综合性岗位，在这个职位上可以深入地了解汽车电子相关领域的Know-How，\n知识跨度覆盖OEM&Tie1_2的多个岗位Know-How（测试工程师+产品工程师+其它相关岗位），同时通过参与技术支持工作可以迅速提升沟通交流能力。\n任职要求：\n1、全日制统招本科及以上学历，车辆工程、自动化、测控、通信、计算机、软件等相关专业，优秀应届生亦可；\n2、具备良好的沟通表达能力、职业化素养及抗压能力(需要跟客户沟通)；\n3、熟悉Labview、C、C++、C#、Python等至少一种编程语言；\n4、熟练使用MATLAB，Simulink等软件的优先考虑；\n5、具备良好的文档编写能力和文字表达能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "C++",
+            "FAE"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf0d6b8cc50e439640288048b9d7c04f696bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PHWwNG2rgJ2xw-F1-4EeumcDidmhl3qJu6Vqa_dojf01awIHpIkiNY4B-E-XjApoNiJ5tnpWy4SSjUt0D50lPYfUQO8PoAWfpfvJ-bmbjZhehNFRKZGNNJvkFW4QB3SVNp-rAoueXUtC8A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

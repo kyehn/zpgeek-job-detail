@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BRH8UFfVNMJq7-Y1jWC0xSHBdIBnfKWNaj8DGbgcukRl19dULME-mYdZwi0GjFgme8oqiaq2bv9JF2CtcOSpL7mPX3ysMyYUkgqDzHK_of1c7yaa2_CPjPVxFOUzJr50g24V_XDDU6RJ-GA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "30f3a274215deb2a1H193t60ElpV",
-      "encryptUserId": "a957be2f02eda45c0nJ93960FFNR",
-      "invalidStatus": false,
-      "jobName": "自动化",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101290100,
-      "locationName": "昆明",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "招的检验！！！！！\n\n1.专业：车辆工程，机电等相关专业，具有相关从业经验的可不受上述专业限制。\n2.学历：大专及以上学历，中级职称或相关工作经验可放宽。\n3.岗位要求：熟练掌握office办公软件，熟悉技术管理和国军标质量管理体系，依照钣金/焊装/方舱车间图纸、工艺文件完成产品检验，把控产品质量；负责车间质量问题的收集、整理、上报，确保合格产品的交付。",
-      "encryptAddressId": "4a510a06437bb9f30HB_3dq9F1E~",
-      "address": "昆明官渡区航天购物广场(航天总店)昆明煜诚机电有限公司",
-      "longitude": 102.82098,
-      "latitude": 24.983672,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e07b230bc7a5fbeeb6cd479e78ac6173",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb992a9add337d95376df0c26af397bc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机电"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "高女士",
-      "title": "人力资源",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "昆明煜诚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bf00aa19791836401nZz3dm5E1Q~",
-      "brandName": "昆明煜诚",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100905,
-      "industryName": "铁路/船舶/航空/航天制造",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731027057725,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆明煜诚",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆明煜诚",
+        "certificated": true,
+        "large": null,
+        "name": "高女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "人力资源"
+    },
+    "brandComInfo": {
+        "activeTime": 1731027057725,
+        "brandName": "昆明煜诚",
+        "customerBrandName": "昆明煜诚",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bf00aa19791836401nZz3dm5E1Q~",
+        "focusBrand": false,
+        "industry": 100905,
+        "industryName": "铁路/船舶/航空/航天制造",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "昆明官渡区航天购物广场(航天总店)昆明煜诚机电有限公司",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4a510a06437bb9f30HB_3dq9F1E~",
+        "encryptId": "30f3a274215deb2a1H193t60ElpV",
+        "encryptUserId": "a957be2f02eda45c0nJ93960FFNR",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "自动化",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 24.983672,
+        "location": 101290100,
+        "locationName": "昆明",
+        "longitude": 102.82098,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb992a9add337d95376df0c26af397bc",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "招的检验！！！！！\n\n1.专业：车辆工程，机电等相关专业，具有相关从业经验的可不受上述专业限制。\n2.学历：大专及以上学历，中级职称或相关工作经验可放宽。\n3.岗位要求：熟练掌握office办公软件，熟悉技术管理和国军标质量管理体系，依照钣金/焊装/方舱车间图纸、工艺文件完成产品检验，把控产品质量；负责车间质量问题的收集、整理、上报，确保合格产品的交付。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "机电"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e07b230bc7a5fbeeb6cd479e78ac6173"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BRH8UFfVNMJq7-Y1jWC0xSHBdIBnfKWNaj8DGbgcukRl19dULME-mYdZwi0GjFgme8oqiaq2bv9JF2CtcOSpL7mPX3ysMyYUkgqDzHK_of1c7yaa2_CPjPVxFOUzJr50g24V_XDDU6RJ-GA~",
+    "selfAccess": false,
+    "sessionId": null
 }

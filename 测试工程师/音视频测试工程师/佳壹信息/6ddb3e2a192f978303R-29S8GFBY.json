@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wP9JFY_BqP0cW-Z1upHor2Nu4Bie29NfRjP7Q537iY5W5_IWLjhozdPH73px_sn6lWxgcqbYPuuuJNHW_7w4giAccYl8Ipe00gHCSjn_5p_BtgZ3JKJbsL15VVXqDy01SpLhiI9HAXSbPdEtSma3SwsKKa9ehw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6ddb3e2a192f978303R-29S8GFBY",
-      "encryptUserId": "5d8d2f20a7e6ff9a0Xx429y7EFZS",
-      "invalidStatus": false,
-      "jobName": "音视频测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "测试内容视频延迟、帧率、音视频同步、色彩还原度与分辨力解析、摄像头灰阶测试等。下文基于网络资源，记录测试过程与发现，以备未来参考。视频延迟测试关注通话接收端收到视频内容的时间差，包括采集、编码、网络传输等多环节。测试方法：电脑开启在线秒表，通话稳定后，手机拍照，计算平均时延。结果需关注拍照设备清晰度，确保数据准确。测试视频帧率利用Elecard StreamEye Tools抓包获取数据。注意到，2XX设备时间戳异常导致帧率异常，实际帧率与显示时间存在显著差异。音视频同步测试设备可提供专业解决方案，但成本较高，搭建简易。模拟测试方案采用通话录音，结合专业方法，拆解音视频数据，实现同步测试。录制数据存在设备性能限制，导致视频丢帧，音频采集受话机影响，误差较大。模拟测试方案使用静音室与LinPhone进行通话，减少干扰，通过录制与裁剪，获得音视频数据进行对比。",
-      "encryptAddressId": "ac2ae880f9b9ff111nF529y8FVVXwoy3WPmY",
-      "address": "深圳光明区联想系统集成(深圳)有限公司101",
-      "longitude": 113.935665,
-      "latitude": 22.788443,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240512/48ba41acc9cef1bf5ac605742967055061ab695b04d9d1bd6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240512/48ba41acc9cef1bff5d6bc5d9ac510c0d2cac9f2c71e9c3a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "参数",
-        "音视频",
-        "摄像头测试",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "何先生",
-      "title": "专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241101/607f1f3d68754fd057d72be7e76a3a3de53c60504fc453b9c8c6e22dd34ece710e470877132a290_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "佳壹信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3277707a3f1286621XNz09q5E1Q~",
-      "brandName": "佳壹信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733488731772,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "佳壹信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "佳壹信息",
+        "certificated": true,
+        "large": null,
+        "name": "何先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241101/607f1f3d68754fd057d72be7e76a3a3de53c60504fc453b9c8c6e22dd34ece710e470877132a290_b.jpg",
+        "title": "专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1733488731772,
+        "brandName": "佳壹信息",
+        "customerBrandName": "佳壹信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3277707a3f1286621XNz09q5E1Q~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳光明区联想系统集成(深圳)有限公司101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ac2ae880f9b9ff111nF529y8FVVXwoy3WPmY",
+        "encryptId": "6ddb3e2a192f978303R-29S8GFBY",
+        "encryptUserId": "5d8d2f20a7e6ff9a0Xx429y7EFZS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "音视频测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.788443,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.935665,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240512/48ba41acc9cef1bff5d6bc5d9ac510c0d2cac9f2c71e9c3a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "测试内容视频延迟、帧率、音视频同步、色彩还原度与分辨力解析、摄像头灰阶测试等。下文基于网络资源，记录测试过程与发现，以备未来参考。视频延迟测试关注通话接收端收到视频内容的时间差，包括采集、编码、网络传输等多环节。测试方法：电脑开启在线秒表，通话稳定后，手机拍照，计算平均时延。结果需关注拍照设备清晰度，确保数据准确。测试视频帧率利用Elecard StreamEye Tools抓包获取数据。注意到，2XX设备时间戳异常导致帧率异常，实际帧率与显示时间存在显著差异。音视频同步测试设备可提供专业解决方案，但成本较高，搭建简易。模拟测试方案采用通话录音，结合专业方法，拆解音视频数据，实现同步测试。录制数据存在设备性能限制，导致视频丢帧，音频采集受话机影响，误差较大。模拟测试方案使用静音室与LinPhone进行通话，减少干扰，通过录制与裁剪，获得音视频数据进行对比。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "参数",
+            "音视频",
+            "摄像头测试",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240512/48ba41acc9cef1bf5ac605742967055061ab695b04d9d1bd6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wP9JFY_BqP0cW-Z1upHor2Nu4Bie29NfRjP7Q537iY5W5_IWLjhozdPH73px_sn6lWxgcqbYPuuuJNHW_7w4giAccYl8Ipe00gHCSjn_5p_BtgZ3JKJbsL15VVXqDy01SpLhiI9HAXSbPdEtSma3SwsKKa9ehw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

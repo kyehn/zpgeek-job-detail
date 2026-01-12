@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ddwxMTxYO5DD4-H1ZAdghC_GjYn05NtVRe45KdBuz1lRX3LQjw47gqVg70M4Ilwk4x5vlrHCbJviODbnHZ8Q7H5C1FvwS4DGL9e669A2zIcVVacbRGc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b112dd313c81a85c1X173d68EltR",
-      "encryptUserId": "34588936e39681530XR-0929FlU~",
-      "invalidStatus": false,
-      "jobName": "数据分析",
-      "position": 130103,
-      "positionName": "数据/策略运营",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "业务数据分析\n业务数据分析\n业务数据分析",
-      "encryptAddressId": "1333bac3311989413nJ-2dy0E1s~",
-      "address": "上海黄浦区绿地外滩中心888",
-      "longitude": 121.504783,
-      "latitude": 31.213123,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfba18bc8a36354bdb294f69bd15592ffe6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf93b2ca8eab8aaff35fb8946265dbe5b46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "业务数据分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "景女士",
-      "title": "数据分析师",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230427/607f1f3d68754fd045a2961c23114c478463dde3b53503ca46ab8920a6a201852a31797c100_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "绍兴市上虞区舜祥...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "36308f4a7087f1761Xx73N68FFo~",
-      "brandName": "绍兴市上虞区舜祥...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100903,
-      "industryName": "原材料及加工/模具",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725372689522,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绍兴市上虞区舜祥...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绍兴市上虞区舜祥...",
+        "certificated": true,
+        "large": null,
+        "name": "景女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230427/607f1f3d68754fd045a2961c23114c478463dde3b53503ca46ab8920a6a201852a31797c100_b.jpg",
+        "title": "数据分析师"
+    },
+    "brandComInfo": {
+        "activeTime": 1725372689522,
+        "brandName": "绍兴市上虞区舜祥...",
+        "customerBrandName": "绍兴市上虞区舜祥...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "36308f4a7087f1761Xx73N68FFo~",
+        "focusBrand": false,
+        "industry": 100903,
+        "industryName": "原材料及加工/模具",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海黄浦区绿地外滩中心888",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1333bac3311989413nJ-2dy0E1s~",
+        "encryptId": "b112dd313c81a85c1X173d68EltR",
+        "encryptUserId": "34588936e39681530XR-0929FlU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据分析",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.213123,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.504783,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf93b2ca8eab8aaff35fb8946265dbe5b46bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 130103,
+        "positionName": "数据/策略运营",
+        "postDescription": "业务数据分析\n业务数据分析\n业务数据分析",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "业务数据分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfba18bc8a36354bdb294f69bd15592ffe6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ddwxMTxYO5DD4-H1ZAdghC_GjYn05NtVRe45KdBuz1lRX3LQjw47gqVg70M4Ilwk4x5vlrHCbJviODbnHZ8Q7H5C1FvwS4DGL9e669A2zIcVVacbRGc~",
+    "selfAccess": false,
+    "sessionId": null
 }

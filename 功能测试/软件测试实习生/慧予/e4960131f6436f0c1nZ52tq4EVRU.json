@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-scE2kb05Vbu9-Q1v5G4PvSlm1HpWC4lT8T1nJ9Xu3sVAvQWKH7b0vTJoBE76KeSJe6S3yrvIV12-Oi5QxZyt0_GRscHonYha18sUMiRGDLevP62HFI5",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e4960131f6436f0c1nZ52tq4EVRU",
-      "encryptUserId": "e7e936fee87836f40nV83Nm5EVJS",
-      "invalidStatus": false,
-      "jobName": "软件测试实习生",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1. 配合软件测试及文档编写\n2. 完成项目主管分配的其他任务等\n\n任职要求： \n1. photoshop熟悉者优先；\n2. word/excel熟悉；",
-      "encryptAddressId": "f30d2494523944eb03R-2Nm8FlQ~",
-      "address": "上海徐汇区漕河泾产业园区2号楼206",
-      "longitude": 121.427481,
-      "latitude": 31.162747,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/082ea6b047641c666c6ec6c4dc828bea",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84958637c2b5ed3b2fd2cc067b4e1b3b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "系统测试",
-        "SQL",
-        "计算机软件",
-        "IT服务",
-        "物联网"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "慧予",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "95c98bd374294e9b1nB62dW8EVU~",
-      "brandName": "慧予",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724394389000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "慧予",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "慧予",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724394389000,
+        "brandName": "慧予",
+        "customerBrandName": "慧予",
+        "customerBrandStageName": "",
+        "encryptBrandId": "95c98bd374294e9b1nB62dW8EVU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区漕河泾产业园区2号楼206",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f30d2494523944eb03R-2Nm8FlQ~",
+        "encryptId": "e4960131f6436f0c1nZ52tq4EVRU",
+        "encryptUserId": "e7e936fee87836f40nV83Nm5EVJS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.162747,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.427481,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84958637c2b5ed3b2fd2cc067b4e1b3b",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "1. 配合软件测试及文档编写\n2. 完成项目主管分配的其他任务等\n\n任职要求： \n1. photoshop熟悉者优先；\n2. word/excel熟悉；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "软件测试",
+            "系统测试",
+            "SQL",
+            "计算机软件",
+            "IT服务",
+            "物联网"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/082ea6b047641c666c6ec6c4dc828bea"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-scE2kb05Vbu9-Q1v5G4PvSlm1HpWC4lT8T1nJ9Xu3sVAvQWKH7b0vTJoBE76KeSJe6S3yrvIV12-Oi5QxZyt0_GRscHonYha18sUMiRGDLevP62HFI5",
+    "selfAccess": false,
+    "sessionId": null
 }

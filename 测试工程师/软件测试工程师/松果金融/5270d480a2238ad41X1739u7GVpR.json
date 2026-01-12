@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6APsweBYOAlTp-h1O9nhNynaR0uy2cPENH518rz_OPYmRfZTTou5kq4P7-LbMJRNC42uiiMPRA3HNKAE2SuA-iYwtnFEIKXh4zfn9bL3UE9JSuDMcDZ3Ip_P8Er4029UNWNuOc5lnnGn4w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5270d480a2238ad41X1739u7GVpR",
-      "encryptUserId": "412c8473158673001nZ53966EFVZ",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "1. 具有3年以上WEB系统测试或移动APP或小程序测试经验；\n2. 熟悉软件测试流程，能独立编写测试用例、执行测试用例；\n3. 熟悉Linux、MySQL数据库、Jmeter、postman等；\n4. 认真仔细，逻辑思维清晰严谨，有良好的学习能力、分析与解决问题的能力；\n5. 有软件件性能测试，安全性测试经验优先；\n6. 熟悉至少一种编程语言Python，Java的优先；\n7. 有过项目测试管理经验优先。",
-      "encryptAddressId": "516f58ca2cc060140n1z3dm9EFZVy4y8V_s~",
-      "address": "深圳南山区南京大学深圳产学研基地C310(罗记私厨旁边小门进入）",
-      "longitude": 113.945067,
-      "latitude": 22.527908,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf671aa467c79e034f0a2ebc2773ee76486bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5e037e4aaa022ba7ac2b22d96eca23d16bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "Java",
-        "Python",
-        "MySQL",
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200901/b16798b917329f5490876c60f4a8c2eaa1f2b8a09710b5ee7e659e218e6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "松果金融",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ffe03a51449de4aa1XJ63di4EVo~",
-      "brandName": "松果金融",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100004,
-      "industryName": "广告营销",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1720172152090,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "松果金融",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "松果金融",
+        "certificated": true,
+        "large": null,
+        "name": "杨先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200901/b16798b917329f5490876c60f4a8c2eaa1f2b8a09710b5ee7e659e218e6_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1720172152090,
+        "brandName": "松果金融",
+        "customerBrandName": "松果金融",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ffe03a51449de4aa1XJ63di4EVo~",
+        "focusBrand": false,
+        "industry": 100004,
+        "industryName": "广告营销",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区南京大学深圳产学研基地C310(罗记私厨旁边小门进入）",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "516f58ca2cc060140n1z3dm9EFZVy4y8V_s~",
+        "encryptId": "5270d480a2238ad41X1739u7GVpR",
+        "encryptUserId": "412c8473158673001nZ53966EFVZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.527908,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.945067,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5e037e4aaa022ba7ac2b22d96eca23d16bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1. 具有3年以上WEB系统测试或移动APP或小程序测试经验；\n2. 熟悉软件测试流程，能独立编写测试用例、执行测试用例；\n3. 熟悉Linux、MySQL数据库、Jmeter、postman等；\n4. 认真仔细，逻辑思维清晰严谨，有良好的学习能力、分析与解决问题的能力；\n5. 有软件件性能测试，安全性测试经验优先；\n6. 熟悉至少一种编程语言Python，Java的优先；\n7. 有过项目测试管理经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "Java",
+            "Python",
+            "MySQL",
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf671aa467c79e034f0a2ebc2773ee76486bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6APsweBYOAlTp-h1O9nhNynaR0uy2cPENH518rz_OPYmRfZTTou5kq4P7-LbMJRNC42uiiMPRA3HNKAE2SuA-iYwtnFEIKXh4zfn9bL3UE9JSuDMcDZ3Ip_P8Er4029UNWNuOc5lnnGn4w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "O9UxSMkJv43D6-B1CBtb2kSvy6ojxKR-gebbCmqqzcyrqe2jyZ04Ch3sj85KNRogXHVOpzDlYdkE0RMCD7C75sMkIJqY11z3ueDpEVAwsLKVAjpB_cnq",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "baa79bb460d913ae1nBz3d64FltZ",
-      "encryptUserId": "fd0bf8dfbb48d5f10nZy39q0ElVY",
-      "invalidStatus": false,
-      "jobName": "Java开发助理",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作职责:\n1.较好的逻辑思维能力\n2.扎实的Java基础\n3.熟悉Oracle/Mysql\n4.责任心强，学习能力强，有技术热情",
-      "encryptAddressId": "3fb6d12e73ac071703B43d60GVA~",
-      "address": "上海静安区云华科技大厦912号",
-      "longitude": 121.462385,
-      "latitude": 31.258583,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d78bc25476776ef059ccd9bfea208047",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a6fe4272d23d6979f0d5271a0e735a7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "SQL",
-        "Spring",
-        "SpringBoot",
-        "SpringCloud",
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210422/a7dae4ceff422922ec7cf5e396d80d469faa2a8b9a5a52dd008d01592a6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "下将网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "20015f02f21419251nFy3ty_GVE~",
-      "brandName": "下将网络科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721483089276,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "下将网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "下将网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210422/a7dae4ceff422922ec7cf5e396d80d469faa2a8b9a5a52dd008d01592a6_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1721483089276,
+        "brandName": "下将网络科技",
+        "customerBrandName": "下将网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "20015f02f21419251nFy3ty_GVE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海静安区云华科技大厦912号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3fb6d12e73ac071703B43d60GVA~",
+        "encryptId": "baa79bb460d913ae1nBz3d64FltZ",
+        "encryptUserId": "fd0bf8dfbb48d5f10nZy39q0ElVY",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java开发助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.258583,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.462385,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a6fe4272d23d6979f0d5271a0e735a7",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作职责:\n1.较好的逻辑思维能力\n2.扎实的Java基础\n3.熟悉Oracle/Mysql\n4.责任心强，学习能力强，有技术热情",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K·13薪",
+        "showSkills": [
+            "Python",
+            "SQL",
+            "Spring",
+            "SpringBoot",
+            "SpringCloud",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d78bc25476776ef059ccd9bfea208047"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "O9UxSMkJv43D6-B1CBtb2kSvy6ojxKR-gebbCmqqzcyrqe2jyZ04Ch3sj85KNRogXHVOpzDlYdkE0RMCD7C75sMkIJqY11z3ueDpEVAwsLKVAjpB_cnq",
+    "selfAccess": false,
+    "sessionId": null
 }

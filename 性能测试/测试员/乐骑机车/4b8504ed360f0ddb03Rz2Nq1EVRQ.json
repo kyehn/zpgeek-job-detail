@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "viQr4hOdK1iSW-e1DmWxVCjF_P5YSot5AZawKDP5dqKID6AzMn01Cmdom-PGWtH1nZhKDZxFWgukBfqmNWJtuJwu5HFjkL4uV9V85N8YRMkKLxRb7rI8bJHuzDKJxHxExn2D6pUllHC3GEMF-mZKi97veZMV",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4b8504ed360f0ddb03Rz2Nq1EVRQ",
-      "encryptUserId": "25b14396716c91aa0nR52tS6FVY~",
-      "invalidStatus": false,
-      "jobName": "测试员",
-      "position": 100304,
-      "positionName": "性能测试",
-      "location": 101210600,
-      "locationName": "台州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求\n1.机械相关专业大专以上学历，1年以上软件测试经验（优秀应届毕业生亦可）；\n2.有功能、性能、安全测试、自动化测试等专业测试领域经验者优先；\n3.熟悉测试流程及测试用例设计方法，善于总结经验并分享，能主动进行测试技术钻研；\n4.具有良好的责任感及敬业精神，沟通协调能力良好，有较强的学习能力、理解和适应变化能力、勇于接受挑战、善于自我激励。\n\n工作职责\n1. 主导测试新品仪表功能，及时发现反馈问题，配合解决；\n2. 设定灯具仪表新品打胶程序；\n3. 负责作业指导书的指定并完善编写；\n4. 跟进并制作审厂资料，PPAP资料，仪表灯具成品规格书，出厂检验报告制定，仪表灯具零部件检验规定，仪表灯具全尺寸制定等。",
-      "encryptAddressId": "610a82424bbd19ce1nF70tu4EldUwom_VPKZ",
-      "address": "台州路桥区浙江乐骑机车有限公司方特大道1288号",
-      "longitude": 121.573029,
-      "latitude": 28.555704,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f338509b4ef98f3978388b3131729d9e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bde842449beeb3db3fb9c4497a4bc695",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "凌女士",
-      "title": "人事",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=2cbb3d6f93aa1061jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9anXR059p5uo9vGwK6muMxMbjyKZBX5--4DWkvMQlR9SNYrP2pQHQfFOK3XEA4ktxPTgnjxfkK9Q4YA9my1nUqAHoSp0-eI8jtwA~~&radius=15",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "乐骑机车",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0d13f9fde3e8f3dd1X1_2dm9FlQ~",
-      "brandName": "乐骑机车",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100906,
-      "industryName": "通用设备",
-      "introduce": "公司前身为成立于2000年的创台车业，是一家以个性化休闲摩托车为主导产业的企业，总建筑面积8万多平方米，设有摩托车整车、动力、注塑、车架焊接、电子电器等摩托车关键部件事业部。",
-      "labels": [
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1735634276998,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "乐骑机车",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "乐骑机车",
+        "certificated": true,
+        "large": null,
+        "name": "凌女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=2cbb3d6f93aa1061jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9anXR059p5uo9vGwK6muMxMbjyKZBX5--4DWkvMQlR9SNYrP2pQHQfFOK3XEA4ktxPTgnjxfkK9Q4YA9my1nUqAHoSp0-eI8jtwA~~&radius=15",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1735634276998,
+        "brandName": "乐骑机车",
+        "customerBrandName": "乐骑机车",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "0d13f9fde3e8f3dd1X1_2dm9FlQ~",
+        "focusBrand": false,
+        "industry": 100906,
+        "industryName": "通用设备",
+        "introduce": "公司前身为成立于2000年的创台车业，是一家以个性化休闲摩托车为主导产业的企业，总建筑面积8万多平方米，设有摩托车整车、动力、注塑、车架焊接、电子电器等摩托车关键部件事业部。",
+        "labels": [
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "台州路桥区浙江乐骑机车有限公司方特大道1288号",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "610a82424bbd19ce1nF70tu4EldUwom_VPKZ",
+        "encryptId": "4b8504ed360f0ddb03Rz2Nq1EVRQ",
+        "encryptUserId": "25b14396716c91aa0nR52tS6FVY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.555704,
+        "location": 101210600,
+        "locationName": "台州",
+        "longitude": 121.573029,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bde842449beeb3db3fb9c4497a4bc695",
+        "position": 100304,
+        "positionName": "性能测试",
+        "postDescription": "任职要求\n1.机械相关专业大专以上学历，1年以上软件测试经验（优秀应届毕业生亦可）；\n2.有功能、性能、安全测试、自动化测试等专业测试领域经验者优先；\n3.熟悉测试流程及测试用例设计方法，善于总结经验并分享，能主动进行测试技术钻研；\n4.具有良好的责任感及敬业精神，沟通协调能力良好，有较强的学习能力、理解和适应变化能力、勇于接受挑战、善于自我激励。\n\n工作职责\n1. 主导测试新品仪表功能，及时发现反馈问题，配合解决；\n2. 设定灯具仪表新品打胶程序；\n3. 负责作业指导书的指定并完善编写；\n4. 跟进并制作审厂资料，PPAP资料，仪表灯具成品规格书，出厂检验报告制定，仪表灯具零部件检验规定，仪表灯具全尺寸制定等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f338509b4ef98f3978388b3131729d9e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "viQr4hOdK1iSW-e1DmWxVCjF_P5YSot5AZawKDP5dqKID6AzMn01Cmdom-PGWtH1nZhKDZxFWgukBfqmNWJtuJwu5HFjkL4uV9V85N8YRMkKLxRb7rI8bJHuzDKJxHxExn2D6pUllHC3GEMF-mZKi97veZMV",
+    "selfAccess": false,
+    "sessionId": null
 }

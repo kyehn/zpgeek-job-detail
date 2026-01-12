@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6DHU9j80Vytos-q1PRjWZqS9reYDMnwZVqbpUMUvVZR9Y41hMOPDhH67u7fEzh_ntfwa1h_Qwq2Q5haiZexM639AGhcUu0o8x26aMFFG2kH6iv3aQL1ecCrZhEvq3ziVUQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1bec66291a6fe81203V42ti6F1NZ",
-      "encryptUserId": "54183fbd1ff44fc31H190tu7GVE~",
-      "invalidStatus": false,
-      "jobName": "java开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责Java相关模块的设计、开发与维护工作。\n2、参与系统架构设计，确保代码质量和系统稳定性。\n3、与团队合作，完成项目需求分析及模块划分。\n\n任职要求\n1、熟练掌握Java编程语言，具备良好的编码习惯。\n2、具备扎实的计算机专业知识基础，能够独立解决技术难题。\n3、具有良好的团队合作精神，能够高效沟通和协作。",
-      "encryptAddressId": "83d8ec90c6950aba1nN739i4GVtQxYS3Wfya",
-      "address": "杭州拱墅区杭州新天地世嘉新座1105",
-      "longitude": 120.18416,
-      "latitude": 30.32638,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9ed22d83834691d2a13872707008c4a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de410ca05080f5dbdf830b9dd58c34a8",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd002d899548ae61fab364fec9088e55b1940a7a666b2ed54a8132ab9936e58adc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "上海两颗数科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "efcf8f5844ceaf151HZ_3dS0EFo~",
-      "brandName": "上海两颗数科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240202/7bf6f160950405e906cf7c72dfbd8fe76bd8b366e84984bf46cf2025354c6b25fabaa7849a3565d1.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "两颗数科技是全球排名前三的管理软件厂商Sage的亚洲核心最佳实施商，是在 Sage 20年化工行业经验沉淀基础上成立的专业工业互联网公司。自有的化工行业MES产品拥有良好的行业口碑，我们的客户中有诸多的上市公司，业务逐步拓展到海外地区，包括美国、欧洲、印度、马来西亚等东南亚地区及中国香港地区。已成为国内领先的工业互联网平台和解决方案提供商。\n我们拥有专业的工程师和技术专家组成的团队，提供高质量的技术支持。我们注重与客户的合作，确保满足其需求，并提供卓越的客户体验。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1737020392206,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海两颗数科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海两颗数科技",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd002d899548ae61fab364fec9088e55b1940a7a666b2ed54a8132ab9936e58adc_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1737020392206,
+        "brandName": "上海两颗数科技",
+        "customerBrandName": "上海两颗数科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "efcf8f5844ceaf151HZ_3dS0EFo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "两颗数科技是全球排名前三的管理软件厂商Sage的亚洲核心最佳实施商，是在 Sage 20年化工行业经验沉淀基础上成立的专业工业互联网公司。自有的化工行业MES产品拥有良好的行业口碑，我们的客户中有诸多的上市公司，业务逐步拓展到海外地区，包括美国、欧洲、印度、马来西亚等东南亚地区及中国香港地区。已成为国内领先的工业互联网平台和解决方案提供商。\n我们拥有专业的工程师和技术专家组成的团队，提供高质量的技术支持。我们注重与客户的合作，确保满足其需求，并提供卓越的客户体验。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240202/7bf6f160950405e906cf7c72dfbd8fe76bd8b366e84984bf46cf2025354c6b25fabaa7849a3565d1.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州拱墅区杭州新天地世嘉新座1105",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "83d8ec90c6950aba1nN739i4GVtQxYS3Wfya",
+        "encryptId": "1bec66291a6fe81203V42ti6F1NZ",
+        "encryptUserId": "54183fbd1ff44fc31H190tu7GVE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java开发",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.32638,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.18416,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de410ca05080f5dbdf830b9dd58c34a8",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作内容\n1、负责Java相关模块的设计、开发与维护工作。\n2、参与系统架构设计，确保代码质量和系统稳定性。\n3、与团队合作，完成项目需求分析及模块划分。\n\n任职要求\n1、熟练掌握Java编程语言，具备良好的编码习惯。\n2、具备扎实的计算机专业知识基础，能够独立解决技术难题。\n3、具有良好的团队合作精神，能够高效沟通和协作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9ed22d83834691d2a13872707008c4a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6DHU9j80Vytos-q1PRjWZqS9reYDMnwZVqbpUMUvVZR9Y41hMOPDhH67u7fEzh_ntfwa1h_Qwq2Q5haiZexM639AGhcUu0o8x26aMFFG2kH6iv3aQL1ecCrZhEvq3ziVUQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

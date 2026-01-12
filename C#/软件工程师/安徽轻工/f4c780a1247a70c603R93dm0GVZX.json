@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "KZq2r0MUPPwKR-21044g_F6lBYRMEADJ3ldV_fxB_LZBqnsmUoXCvSFP7yfhNcpkxIxzgkKxSBcpl6ueQwX8uv0CxsMOAGLbi8QM6bP4g0m5aKXqTXVnC4-hLddqcLfG",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f4c780a1247a70c603R93dm0GVZX",
-      "encryptUserId": "1824e4b86c9957f70XVy3Ny8EVY~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "熟练掌握C#,ASP.NET,熟练使用VS软件进行开发部署；\n熟悉前端JS,JQUERY,Ajax,Json,vue等；熟练使用SQL语句，了解MYSQL,SQL SERVER,ORACLE等主流数据库的使用；了解氚云、宜搭等低代码开发平台，可以迅速学习掌握在低代码平台上进行开发；能独立根据要求功能开发上线并测试。",
-      "encryptAddressId": "be877c69a859d5241H1729-0EVFWx4W5VfI~",
-      "address": "合肥蜀山区安徽轻工国际中心二楼",
-      "longitude": 117.207805,
-      "latitude": 31.846363,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bf0a04acfcafaf1e2ad29cc6e78fccf6aa6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf9df21f7c623d4240551d046b114d6d236bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "跟单",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190506/c4f5527d727f82810cb0764b87d15c05cfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "安徽轻工",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bd5df212f14459a51HZ809S7Fw~~",
-      "brandName": "安徽轻工",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190615/c8c329601fa4ccc14984f17caa8af3405f31e9ed05484ebb2e955e0009d06eae.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100504,
-      "industryName": "进出口贸易",
-      "introduce": "安徽轻工国际贸易股份有限公司",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "餐补",
-        "节日福利"
-      ],
-      "activeTime": 1737102330734,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安徽轻工",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安徽轻工",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190506/c4f5527d727f82810cb0764b87d15c05cfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "跟单"
+    },
+    "brandComInfo": {
+        "activeTime": 1737102330734,
+        "brandName": "安徽轻工",
+        "customerBrandName": "安徽轻工",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "bd5df212f14459a51HZ809S7Fw~~",
+        "focusBrand": false,
+        "industry": 100504,
+        "industryName": "进出口贸易",
+        "introduce": "安徽轻工国际贸易股份有限公司",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "餐补",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190615/c8c329601fa4ccc14984f17caa8af3405f31e9ed05484ebb2e955e0009d06eae.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区安徽轻工国际中心二楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "be877c69a859d5241H1729-0EVFWx4W5VfI~",
+        "encryptId": "f4c780a1247a70c603R93dm0GVZX",
+        "encryptUserId": "1824e4b86c9957f70XVy3Ny8EVY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.846363,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.207805,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf9df21f7c623d4240551d046b114d6d236bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "熟练掌握C#,ASP.NET,熟练使用VS软件进行开发部署；\n熟悉前端JS,JQUERY,Ajax,Json,vue等；熟练使用SQL语句，了解MYSQL,SQL SERVER,ORACLE等主流数据库的使用；了解氚云、宜搭等低代码开发平台，可以迅速学习掌握在低代码平台上进行开发；能独立根据要求功能开发上线并测试。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K·13薪",
+        "showSkills": [
+            "C#"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bf0a04acfcafaf1e2ad29cc6e78fccf6aa6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "KZq2r0MUPPwKR-21044g_F6lBYRMEADJ3ldV_fxB_LZBqnsmUoXCvSFP7yfhNcpkxIxzgkKxSBcpl6ueQwX8uv0CxsMOAGLbi8QM6bP4g0m5aKXqTXVnC4-hLddqcLfG",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "s1sDC1C7tYHql-c1o-EqOhusmgHroHxRS0j4ouS0okY8EC1R_Q5ciHZZdUn2eAc82UckSgcTkoWt4ZzFDLbsczJGEkzwMWnfXvTBEFFOp5Ny-AhuSnJA0SxHdY6ejtNII-YgIXCn8AZu-w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a7da2c54b3dc141e1H1-2ti0GFVR",
-      "encryptUserId": "e155b10872db54ff0nZ62tu5FVI~",
-      "invalidStatus": false,
-      "jobName": "系统运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-10K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责桌面及系统运维工作，确保IT基础设施的稳定运行。\n2、管理和维护MySQL/Oracle数据库，保障数据安全性和高效运行。\n3、处理运维过程中出现的技术问题，优化系统性能。\n\n任职要求\n1、本科及以上学历，计算机、地理信息相关专业有先考虑；\n2、具备桌面运维和系统运维的相关经验；\n3、具备良好的团队协作能力和学习能力；\n4、具有良好的问题分析和解决能力，能够高效地应对运维中的挑战。",
-      "encryptAddressId": "310494336a97088e1nB73ty_F1dZxoi3Uvib",
-      "address": "杭州上城区供水大厦建国南路168号",
-      "longitude": 120.178086,
-      "latitude": 30.242298,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d90570a6ec359f62092c88a165853eb4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/774e20782854d9eed137505561f7e9b2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "GIS",
-        "MySQL/Oracle",
-        "系统运维",
-        "桌面运维",
-        "地理信息",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "运维经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200112/3e197087d77e9f9c24eb6ce39e483b27ee54baf12c1deefc450e8679dc5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "数智科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7e1dc03434aabe031XR529q1GVA~",
-      "brandName": "数智科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220208/7bf6f160950405e95df64536447309ca6c8bf200ab9b781db5328a2025a51dd071ac45df6779e266.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "杭州水务数智科技股份有限公司（以下简称“杭水科技”）是由杭州市水务集团有限公司、中国电建集团华东勘测设计研究院有限公司、杭州悦米智能科技有限公司三方共同出资组建的高科技企业。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "企业年金",
-        "带薪年假",
-        "餐补",
-        "交通补助"
-      ],
-      "activeTime": 1729845236171,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "数智科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "数智科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200112/3e197087d77e9f9c24eb6ce39e483b27ee54baf12c1deefc450e8679dc5_b.jpg",
+        "title": "运维经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729845236171,
+        "brandName": "数智科技",
+        "customerBrandName": "数智科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7e1dc03434aabe031XR529q1GVA~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "杭州水务数智科技股份有限公司（以下简称“杭水科技”）是由杭州市水务集团有限公司、中国电建集团华东勘测设计研究院有限公司、杭州悦米智能科技有限公司三方共同出资组建的高科技企业。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "企业年金",
+            "带薪年假",
+            "餐补",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220208/7bf6f160950405e95df64536447309ca6c8bf200ab9b781db5328a2025a51dd071ac45df6779e266.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区供水大厦建国南路168号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "310494336a97088e1nB73ty_F1dZxoi3Uvib",
+        "encryptId": "a7da2c54b3dc141e1H1-2ti0GFVR",
+        "encryptUserId": "e155b10872db54ff0nZ62tu5FVI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.242298,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.178086,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/774e20782854d9eed137505561f7e9b2",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容\n1、负责桌面及系统运维工作，确保IT基础设施的稳定运行。\n2、管理和维护MySQL/Oracle数据库，保障数据安全性和高效运行。\n3、处理运维过程中出现的技术问题，优化系统性能。\n\n任职要求\n1、本科及以上学历，计算机、地理信息相关专业有先考虑；\n2、具备桌面运维和系统运维的相关经验；\n3、具备良好的团队协作能力和学习能力；\n4、具有良好的问题分析和解决能力，能够高效地应对运维中的挑战。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-10K",
+        "showSkills": [
+            "GIS",
+            "MySQL/Oracle",
+            "系统运维",
+            "桌面运维",
+            "地理信息",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d90570a6ec359f62092c88a165853eb4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "s1sDC1C7tYHql-c1o-EqOhusmgHroHxRS0j4ouS0okY8EC1R_Q5ciHZZdUn2eAc82UckSgcTkoWt4ZzFDLbsczJGEkzwMWnfXvTBEFFOp5Ny-AhuSnJA0SxHdY6ejtNII-YgIXCn8AZu-w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

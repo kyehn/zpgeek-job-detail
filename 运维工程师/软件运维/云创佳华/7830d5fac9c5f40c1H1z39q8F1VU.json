@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "B47JxkWx7SjzN-u1G-aFEzsYCWyUitO4NEXP76vaRruVIr-8mAdW3POljIUkgKpongSdcd5QxFTj0rSaKhtWSkAN75vBVwgqURe4cghACC59d5Ibh9jLljRV1YOSRpSlux_YEXFmxbUAAeSn_EgnUWgNut2XW_P0kF_elDwM2jZr-Y7K8w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7830d5fac9c5f40c1H1z39q8F1VU",
-      "encryptUserId": "62af00eb874d4b881Hd43tu5GVs~",
-      "invalidStatus": false,
-      "jobName": "软件运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责\n• 负责业务问题现场及电话解答；\n• 负责各系统之间接口监控；\n• 负责应用系统用户操作与应用指导；\n• 负责应用系统需求和新需求现场收集；\n• 负责应用系统维护、优化实施、发布及发布跟踪；\n• 负责应用系统接口问题的解决；\n• 负责应用系统软件故障解决；\n• 参与应用系统应急预案的制定；\n• 负责应用系统软件用户使用操作培训；\n• 负责应用系统软件问题归类、分析。\n• 负责应用系统问题记录；\n\n任职资格：\n技术能力：\n1、具有良好的服务意识；\n2、熟悉SQL SERVER或ORACLE（任一），熟练运用SQL语句并能编写SQL脚本，产出SQL报表；\n3、熟悉WINDOWS和LINUX操作系统，了解Linux服务器常用命令；\n4、熟练使用常用Office软件；\n业务能力：\n1、具备良好的沟通能力、书面表达能力\n2、性格外向、开朗自信，具备较强的抗压能力\n3、责任心强，能够主动学习、分析解决问题；",
-      "encryptAddressId": "8dcc1b99688c98e41nBz2dm9EldUy4y4UP-W",
-      "address": "武汉蔡甸区东风汽车有限公司1",
-      "longitude": 114.17116,
-      "latitude": 30.510796,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bf61548d95e5152f89e6591711795daefd6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bf4f4782e425766c36d336a64553535a656bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "MySQL/Oracle",
-        "系统运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "云创佳华",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0c04c6fea4c892691XB53tu7EFo~",
-      "brandName": "云创佳华",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731577659459,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云创佳华",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云创佳华",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731577659459,
+        "brandName": "云创佳华",
+        "customerBrandName": "云创佳华",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0c04c6fea4c892691XB53tu7EFo~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉蔡甸区东风汽车有限公司1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8dcc1b99688c98e41nBz2dm9EldUy4y4UP-W",
+        "encryptId": "7830d5fac9c5f40c1H1z39q8F1VU",
+        "encryptUserId": "62af00eb874d4b881Hd43tu5GVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.510796,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.17116,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bf4f4782e425766c36d336a64553535a656bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作职责\n• 负责业务问题现场及电话解答；\n• 负责各系统之间接口监控；\n• 负责应用系统用户操作与应用指导；\n• 负责应用系统需求和新需求现场收集；\n• 负责应用系统维护、优化实施、发布及发布跟踪；\n• 负责应用系统接口问题的解决；\n• 负责应用系统软件故障解决；\n• 参与应用系统应急预案的制定；\n• 负责应用系统软件用户使用操作培训；\n• 负责应用系统软件问题归类、分析。\n• 负责应用系统问题记录；\n\n任职资格：\n技术能力：\n1、具有良好的服务意识；\n2、熟悉SQL SERVER或ORACLE（任一），熟练运用SQL语句并能编写SQL脚本，产出SQL报表；\n3、熟悉WINDOWS和LINUX操作系统，了解Linux服务器常用命令；\n4、熟练使用常用Office软件；\n业务能力：\n1、具备良好的沟通能力、书面表达能力\n2、性格外向、开朗自信，具备较强的抗压能力\n3、责任心强，能够主动学习、分析解决问题；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "MySQL/Oracle",
+            "系统运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bf61548d95e5152f89e6591711795daefd6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "B47JxkWx7SjzN-u1G-aFEzsYCWyUitO4NEXP76vaRruVIr-8mAdW3POljIUkgKpongSdcd5QxFTj0rSaKhtWSkAN75vBVwgqURe4cghACC59d5Ibh9jLljRV1YOSRpSlux_YEXFmxbUAAeSn_EgnUWgNut2XW_P0kF_elDwM2jZr-Y7K8w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

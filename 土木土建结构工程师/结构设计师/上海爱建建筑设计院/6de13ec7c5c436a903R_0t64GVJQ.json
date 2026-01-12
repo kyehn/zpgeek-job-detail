@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0ZFzx9YOMVi57-K1Mu4kJaoGXoXUC40c2SOBD-4m9sfnFjN-3RE75bBEmKWgMj9Hm_G6thWDgHm6qEKfFOTfRBe2MnEOd1hvsvOgvfyxSfZwOSKpOwZXIUYSYQbtj4KHw-s~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6de13ec7c5c436a903R_0t64GVJQ",
-      "encryptUserId": "a86ad95f4d3993ea0Xx_3di7GFNT",
-      "invalidStatus": false,
-      "jobName": "结构设计师",
-      "position": 220204,
-      "positionName": "土木/土建/结构工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、会结构基本的作图，对于提供的建筑或者装饰施工图能准确按照需求提供结构模型，计算书，基本的验算方式方法\n2、参与过一些实际落地项目者优先，能熟练掌握cad和建模软件（如：pkpm），负责现场土建方面的改造项目的楼板开洞，局部增建，等装饰装修项目的结构设计、与各专业交流、现场服务等工作\n3、协调业主、施工单位和监理单位之间的各级关系，土木工程专业有经验毕业实习生亦可。",
-      "encryptAddressId": "dcc6347b274f76c61nF83d27FlpRwYu-UvOa",
-      "address": "南京江宁区紫金研创中心3号楼",
-      "longitude": 118.814378,
-      "latitude": 31.94779,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4b698252a32d7a0a3d4123c3be14fc7a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7865b3e913d8020a11182feeecaa4460",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "AutoCAD",
-        "PKPM"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "庞女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "上海爱建建筑设计院",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ce298d64be6ef5d41Hx93NS5ElI~",
-      "brandName": "上海爱建建筑设计院",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100703,
-      "industryName": "建筑设计",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "有无线网",
-        "团建聚餐",
-        "零食下午茶",
-        "员工旅游",
-        "保底工资",
-        "绩效奖金",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1734686597903,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海爱建建筑设计院",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海爱建建筑设计院",
+        "certificated": true,
+        "large": null,
+        "name": "庞女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734686597903,
+        "brandName": "上海爱建建筑设计院",
+        "customerBrandName": "上海爱建建筑设计院",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ce298d64be6ef5d41Hx93NS5ElI~",
+        "focusBrand": false,
+        "industry": 100703,
+        "industryName": "建筑设计",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "员工旅游",
+            "保底工资",
+            "绩效奖金",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区紫金研创中心3号楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "dcc6347b274f76c61nF83d27FlpRwYu-UvOa",
+        "encryptId": "6de13ec7c5c436a903R_0t64GVJQ",
+        "encryptUserId": "a86ad95f4d3993ea0Xx_3di7GFNT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "结构设计师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.94779,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.814378,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7865b3e913d8020a11182feeecaa4460",
+        "position": 220204,
+        "positionName": "土木/土建/结构工程师",
+        "postDescription": "1、会结构基本的作图，对于提供的建筑或者装饰施工图能准确按照需求提供结构模型，计算书，基本的验算方式方法\n2、参与过一些实际落地项目者优先，能熟练掌握cad和建模软件（如：pkpm），负责现场土建方面的改造项目的楼板开洞，局部增建，等装饰装修项目的结构设计、与各专业交流、现场服务等工作\n3、协调业主、施工单位和监理单位之间的各级关系，土木工程专业有经验毕业实习生亦可。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "AutoCAD",
+            "PKPM"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4b698252a32d7a0a3d4123c3be14fc7a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0ZFzx9YOMVi57-K1Mu4kJaoGXoXUC40c2SOBD-4m9sfnFjN-3RE75bBEmKWgMj9Hm_G6thWDgHm6qEKfFOTfRBe2MnEOd1hvsvOgvfyxSfZwOSKpOwZXIUYSYQbtj4KHw-s~",
+    "selfAccess": false,
+    "sessionId": null
 }

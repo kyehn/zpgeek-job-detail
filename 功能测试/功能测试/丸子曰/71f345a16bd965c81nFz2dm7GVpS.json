@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bV2V3PcicAJHr-m1Z58AXWHw-gHp9H88SRNPmjCTUZc-uIa5PegnidbA_oHMCAGGbEJea4w8rvBV0vKcTnpCYQQHhmmO9NzTxbBraLg1uIxnFTVknw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "71f345a16bd965c81nFz2dm7GVpS",
-      "encryptUserId": "410ff160438918f60XB-3dW9GVQ~",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-11K",
-      "payTypeDesc": null,
-      "postDescription": "测试已经完善的视频，晚上店里了",
-      "encryptAddressId": "806bae034e8af14a03Fz29y-GVM~",
-      "address": "北京朝阳区五里桥二街1号院1号楼11588",
-      "longitude": 116.616012,
-      "latitude": 39.929488,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/868422dbb60e7f74b7ee117154d1b73c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fefa9cccd8f7a0a58f2cd71862279ff",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "服务端测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190603/f2703d1452604a5f813e968d941babbaa23625c1993722de593bb1e6cc1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "丸子曰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b7add84f7b87a4ed0HFy2NS8EA~~",
-      "brandName": "丸子曰",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100104,
-      "industryName": "文化艺术/娱乐",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721809235055,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "丸子曰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "丸子曰",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190603/f2703d1452604a5f813e968d941babbaa23625c1993722de593bb1e6cc1_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721809235055,
+        "brandName": "丸子曰",
+        "customerBrandName": "丸子曰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b7add84f7b87a4ed0HFy2NS8EA~~",
+        "focusBrand": false,
+        "industry": 100104,
+        "industryName": "文化艺术/娱乐",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区五里桥二街1号院1号楼11588",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "806bae034e8af14a03Fz29y-GVM~",
+        "encryptId": "71f345a16bd965c81nFz2dm7GVpS",
+        "encryptUserId": "410ff160438918f60XB-3dW9GVQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.929488,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.616012,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fefa9cccd8f7a0a58f2cd71862279ff",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "测试已经完善的视频，晚上店里了",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-11K",
+        "showSkills": [
+            "服务端测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/868422dbb60e7f74b7ee117154d1b73c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bV2V3PcicAJHr-m1Z58AXWHw-gHp9H88SRNPmjCTUZc-uIa5PegnidbA_oHMCAGGbEJea4w8rvBV0vKcTnpCYQQHhmmO9NzTxbBraLg1uIxnFTVknw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

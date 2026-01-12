@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YuJLt9BvhpkMJ-H19d0XGv1fBSMi_xHaJCxUg0ZEEIJis8hWM5b636sbdI9Uoe_wMNrwjV9SykaH1UgG0Y8uJVHnaR03oD0fCnNtKl-hCkf09FFd-VU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f0354f670c8c2a681nZ80tq_E1VX",
-      "encryptUserId": "01861b60b89a6ef40nZ629u_ElRQ",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "参与基于JAVA技术的应用系统开发，维护软件使之保持可用性和稳定性",
-      "encryptAddressId": "20d60eb593d41f0a03V53NS7FVI~",
-      "address": "成都武侯区茂业中心C座1907",
-      "longitude": 104.066587,
-      "latitude": 30.58936,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3edb948193ee12bff79a761128805e33",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91d6839dbf1c0fd50e8583bac5749104",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "服务器端开发",
-        "WEB开发",
-        "后端开发",
-        "MySQL",
-        "Spring",
-        "MVC开发",
-        "消费金融"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "it主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "兴文科贷",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "624521f7646707cd1XB90929Fw~~",
-      "brandName": "兴文科贷",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180807/49c76f87a5cab3bfd4081ed947f80a9ccfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100206,
-      "industryName": "互联网金融",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722755530397,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "兴文科贷",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "兴文科贷",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "it主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1722755530397,
+        "brandName": "兴文科贷",
+        "customerBrandName": "兴文科贷",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "624521f7646707cd1XB90929Fw~~",
+        "focusBrand": false,
+        "industry": 100206,
+        "industryName": "互联网金融",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180807/49c76f87a5cab3bfd4081ed947f80a9ccfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区茂业中心C座1907",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "20d60eb593d41f0a03V53NS7FVI~",
+        "encryptId": "f0354f670c8c2a681nZ80tq_E1VX",
+        "encryptUserId": "01861b60b89a6ef40nZ629u_ElRQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.58936,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.066587,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91d6839dbf1c0fd50e8583bac5749104",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "参与基于JAVA技术的应用系统开发，维护软件使之保持可用性和稳定性",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "服务器端开发",
+            "WEB开发",
+            "后端开发",
+            "MySQL",
+            "Spring",
+            "MVC开发",
+            "消费金融"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3edb948193ee12bff79a761128805e33"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YuJLt9BvhpkMJ-H19d0XGv1fBSMi_xHaJCxUg0ZEEIJis8hWM5b636sbdI9Uoe_wMNrwjV9SykaH1UgG0Y8uJVHnaR03oD0fCnNtKl-hCkf09FFd-VU~",
+    "selfAccess": false,
+    "sessionId": null
 }

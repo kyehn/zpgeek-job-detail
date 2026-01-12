@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yNb2Gja8aSHAS-91O-u17dgP_mNknR2GfcCGC-5pA3VCaKKq7TbdsbGEU1L4BHbv2dERjy1C8461gnWwjCViNYkO5xVkfet-ah2rL1-bYAmVYqcvkeXXz141hdIuKvVFtNY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f3cdb06cdd3335de1Hxz2dS8EVJQ",
-      "encryptUserId": "a076220260950b710n1y2Ni1ElFT",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "15-25K",
-      "payTypeDesc": null,
-      "postDescription": "任职条件：\n1.数学、计算机、电气、电子、自动化等相关专业，本科学历或以上；\n2.熟悉C语言，以及嵌入式软件架构；\n3.具备软件开发、软件测试、硬件测试经历1年及以上；\n4.具备良好的沟通能力，执行能力；\n5.具备车载行业软件测试经验优先。\n\n岗位职责：\n1. 负责编写嵌入式软件的测试，包括ARM和DSP嵌入式软件的测试；\n2. 负责编写嵌入式软件测试用例，测试报告；\n3. 参与软件测试用例模板制定；\n4. 能够识别软件需求，与开发人员沟通确认测试问题。",
-      "encryptAddressId": "eb600613798088161nB92tW1FltU",
-      "address": "深圳宝安区富比伦鼎丰高新产业园4栋7楼前台",
-      "longitude": 113.858006,
-      "latitude": 22.749065,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bfaaac8a414c33e346d46a69078f4a1cf26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1e8e7cf902432ee8c4be6f99ad2a052b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试",
-        "嵌入式测试",
-        "熟悉DSP /ARM"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "覃女士",
-      "title": "主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "联明电源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1a58ffdd3554557d1HZ50tq_E1o~",
-      "brandName": "联明电源",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "",
-      "labels": [
-        "宿舍有空调",
-        "包住",
-        "带薪年假",
-        "工龄奖",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1732877007968,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "联明电源",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "联明电源",
+        "certificated": true,
+        "large": null,
+        "name": "覃女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1732877007968,
+        "brandName": "联明电源",
+        "customerBrandName": "联明电源",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1a58ffdd3554557d1HZ50tq_E1o~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "",
+        "labels": [
+            "宿舍有空调",
+            "包住",
+            "带薪年假",
+            "工龄奖",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区富比伦鼎丰高新产业园4栋7楼前台",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "eb600613798088161nB92tW1FltU",
+        "encryptId": "f3cdb06cdd3335de1Hxz2dS8EVJQ",
+        "encryptUserId": "a076220260950b710n1y2Ni1ElFT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.749065,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.858006,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1e8e7cf902432ee8c4be6f99ad2a052b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职条件：\n1.数学、计算机、电气、电子、自动化等相关专业，本科学历或以上；\n2.熟悉C语言，以及嵌入式软件架构；\n3.具备软件开发、软件测试、硬件测试经历1年及以上；\n4.具备良好的沟通能力，执行能力；\n5.具备车载行业软件测试经验优先。\n\n岗位职责：\n1. 负责编写嵌入式软件的测试，包括ARM和DSP嵌入式软件的测试；\n2. 负责编写嵌入式软件测试用例，测试报告；\n3. 参与软件测试用例模板制定；\n4. 能够识别软件需求，与开发人员沟通确认测试问题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "15-25K",
+        "showSkills": [
+            "性能测试",
+            "功能测试",
+            "嵌入式测试",
+            "熟悉DSP /ARM"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bfaaac8a414c33e346d46a69078f4a1cf26bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yNb2Gja8aSHAS-91O-u17dgP_mNknR2GfcCGC-5pA3VCaKKq7TbdsbGEU1L4BHbv2dERjy1C8461gnWwjCViNYkO5xVkfet-ah2rL1-bYAmVYqcvkeXXz141hdIuKvVFtNY~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iV5x1GiUYYMGv-b1t4VYFahirBfPRcuSgNxg_kDi9wtoDQiEuT9IRb4jxcCiRGzmRHZEz36jLKk87LPViN45Bw6dYWXRJMy8BOEjqq944Z5my3AlOlWWBix1ZadeaxvsG16xFgJnjxpORIfE7sKlx3VSzmqg5v9yX7efEUSB0tP9_XPn0KRUgiPObME-WoQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "52a93cefeb8219a003V60tu4EFtZ",
-      "encryptUserId": "76551bdf8b77fbdd0nR829-9GVRV",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n负责国际结算、贸易监测等系统测试工作。\n岗位要求：\n1、需要具备银行测试工作经验，对国际业务有一定的测试基础，熟悉国结、报文清算等业务规则。\n2、制定测试方案，熟悉软件测试流程和规范，熟悉软件测试方法和策略，能根据需求和涉及文档独立编写测试用例和测试计划；\n3、具备良好的测试用例编写，测试执行，缺陷跟踪工作能力；\n4、大学本科及以上学历，计算机相关学历优先。",
-      "encryptAddressId": "48c275d6cb470cae1nJy3dq5GFtSw4y_Uv-b",
-      "address": "苏州吴中区苏州2.5产业园M3常熟农商银行苏州研发中心",
-      "longitude": 120.777025,
-      "latitude": 31.306883,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf3155acdb57bc146de5d4acebfcec93516bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2434b37aaa3d110ab31d30bc10a4eda66bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf60031f8b848fb7162b209e50d76d74b76bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf15ddaddcf0c4ab00cd1db6c30c0f0d566bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "银行测试",
-        "国际业务",
-        "银行"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241224/607f1f3d68754fd0939dcfa3706caf8988f6b6052c7b1323bafd6748ace4d4bf473d863ad9f325f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "仁联企服",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "85ec8df2df168dd11XJ52Ni_FlU~",
-      "brandName": "仁联企服",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230418/7bf6f160950405e902313339c82b4380695e4e629cbdc6e106405c3d3e6288737bbbf85b614bef12.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "仁联企服以ITO业务为垂直核心覆盖全行业，助力中高端外包业务全面发展。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1736340122079,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "仁联企服",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "仁联企服",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241224/607f1f3d68754fd0939dcfa3706caf8988f6b6052c7b1323bafd6748ace4d4bf473d863ad9f325f_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1736340122079,
+        "brandName": "仁联企服",
+        "customerBrandName": "仁联企服",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "85ec8df2df168dd11XJ52Ni_FlU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "仁联企服以ITO业务为垂直核心覆盖全行业，助力中高端外包业务全面发展。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230418/7bf6f160950405e902313339c82b4380695e4e629cbdc6e106405c3d3e6288737bbbf85b614bef12.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区苏州2.5产业园M3常熟农商银行苏州研发中心",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf15ddaddcf0c4ab00cd1db6c30c0f0d566bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf60031f8b848fb7162b209e50d76d74b76bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "48c275d6cb470cae1nJy3dq5GFtSw4y_Uv-b",
+        "encryptId": "52a93cefeb8219a003V60tu4EFtZ",
+        "encryptUserId": "76551bdf8b77fbdd0nR829-9GVRV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.306883,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.777025,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2434b37aaa3d110ab31d30bc10a4eda66bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "工作内容：\n负责国际结算、贸易监测等系统测试工作。\n岗位要求：\n1、需要具备银行测试工作经验，对国际业务有一定的测试基础，熟悉国结、报文清算等业务规则。\n2、制定测试方案，熟悉软件测试流程和规范，熟悉软件测试方法和策略，能根据需求和涉及文档独立编写测试用例和测试计划；\n3、具备良好的测试用例编写，测试执行，缺陷跟踪工作能力；\n4、大学本科及以上学历，计算机相关学历优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "银行测试",
+            "国际业务",
+            "银行"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf3155acdb57bc146de5d4acebfcec93516bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iV5x1GiUYYMGv-b1t4VYFahirBfPRcuSgNxg_kDi9wtoDQiEuT9IRb4jxcCiRGzmRHZEz36jLKk87LPViN45Bw6dYWXRJMy8BOEjqq944Z5my3AlOlWWBix1ZadeaxvsG16xFgJnjxpORIfE7sKlx3VSzmqg5v9yX7efEUSB0tP9_XPn0KRUgiPObME-WoQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

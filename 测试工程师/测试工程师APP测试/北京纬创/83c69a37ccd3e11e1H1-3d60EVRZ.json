@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "sQwueAGHtV4yI-X1wjr6dA371VPFt5Z2sgMFLS0Fpl6J8vJMyv4Fuji504zT0V14rwgJYqZlBDz-7eDdPKR5Mr0nMDMkDC_1AtI-KqF8JErOBimweI6VxIBgFnvRiO4-eqnPNHYE5kkI",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "83c69a37ccd3e11e1H1-3d60EVRZ",
-      "encryptUserId": "29f25023a33c9ea61Xxy3t65E1c~",
-      "invalidStatus": false,
-      "jobName": "测试工程师APP测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "负责app 端业务测试、系统测试和维护自动化测试工作\n1、本科以上学历，1年以上测试经验，有移动端（Android/iOS/小程序等）平台测试经验者优先\n2、精通测试理论和测试方法，并能实际应用到项目中去\n3、熟悉http、tcp等协议，并懂得如何使用抓包工具协助测试\n4、有良好沟通能力和问题推进能力，积极主动，有责任心，并能承受较大的工作强度和压力\n5、能熟练运用自动化理论和测试工具，熟悉 python、java、JavaScript 中至少一门语言，能编写代码",
-      "encryptAddressId": "eec03e2c307bb4d10X1_2d-5EltRy4m_V_s~",
-      "address": "广州海珠区广州大道368大厦1",
-      "longitude": 113.314828,
-      "latitude": 23.099018,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7415d556f99efc63478dbcc8786fd167",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/791bc3726aea12c7dac4b14262ad7086",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "APP"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "沈女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240530/607f1f3d68754fd0897e2b3c275a5a11dca44d832bfbe668aec3859078321894b279369966dd43b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "北京纬创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a3ff305faae8963a1XRy3tu6EA~~",
-      "brandName": "北京纬创",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180613/b7f898a719b8167123e2075f57a5c37ccfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "纬创软件是亚洲地区专业的软件外包服务及信息整合服务的领导厂商，我们专注于技术顾问服务、软件外包服务、业务流程外包服务、以及产品全球化服务，全球有14个营业据点，客户包括世界500强企业以及跨国知名企业。\n\n纬创软件的主要服务项目包括：技术顾问服务、软件外包服务、业务流程外包服务、及产品全球化服务。我们拥有丰富多样的技术资源，可满足客户不同的需求；我们采取跨区整合、全球交付的离岸开发工作模式，以提升项目开发的效率与质量；为确保我们的项目与服务的质量，我们取得CMMI level3认证，及ISO9001质量管理系统、ISO27001信息安全管理系统等国际认证，用最严谨的标准进行软件开发、质量管理、与资安管理。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1729853430587,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京纬创",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京纬创",
+        "certificated": true,
+        "large": null,
+        "name": "沈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240530/607f1f3d68754fd0897e2b3c275a5a11dca44d832bfbe668aec3859078321894b279369966dd43b_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1729853430587,
+        "brandName": "北京纬创",
+        "customerBrandName": "北京纬创",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "a3ff305faae8963a1XRy3tu6EA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "纬创软件是亚洲地区专业的软件外包服务及信息整合服务的领导厂商，我们专注于技术顾问服务、软件外包服务、业务流程外包服务、以及产品全球化服务，全球有14个营业据点，客户包括世界500强企业以及跨国知名企业。\n\n纬创软件的主要服务项目包括：技术顾问服务、软件外包服务、业务流程外包服务、及产品全球化服务。我们拥有丰富多样的技术资源，可满足客户不同的需求；我们采取跨区整合、全球交付的离岸开发工作模式，以提升项目开发的效率与质量；为确保我们的项目与服务的质量，我们取得CMMI level3认证，及ISO9001质量管理系统、ISO27001信息安全管理系统等国际认证，用最严谨的标准进行软件开发、质量管理、与资安管理。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "员工旅游",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180613/b7f898a719b8167123e2075f57a5c37ccfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州海珠区广州大道368大厦1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "eec03e2c307bb4d10X1_2d-5EltRy4m_V_s~",
+        "encryptId": "83c69a37ccd3e11e1H1-3d60EVRZ",
+        "encryptUserId": "29f25023a33c9ea61Xxy3t65E1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师APP测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.099018,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.314828,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/791bc3726aea12c7dac4b14262ad7086",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "负责app 端业务测试、系统测试和维护自动化测试工作\n1、本科以上学历，1年以上测试经验，有移动端（Android/iOS/小程序等）平台测试经验者优先\n2、精通测试理论和测试方法，并能实际应用到项目中去\n3、熟悉http、tcp等协议，并懂得如何使用抓包工具协助测试\n4、有良好沟通能力和问题推进能力，积极主动，有责任心，并能承受较大的工作强度和压力\n5、能熟练运用自动化理论和测试工具，熟悉 python、java、JavaScript 中至少一门语言，能编写代码",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K·13薪",
+        "showSkills": [
+            "APP"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7415d556f99efc63478dbcc8786fd167"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "sQwueAGHtV4yI-X1wjr6dA371VPFt5Z2sgMFLS0Fpl6J8vJMyv4Fuji504zT0V14rwgJYqZlBDz-7eDdPKR5Mr0nMDMkDC_1AtI-KqF8JErOBimweI6VxIBgFnvRiO4-eqnPNHYE5kkI",
+    "selfAccess": false,
+    "sessionId": null
 }

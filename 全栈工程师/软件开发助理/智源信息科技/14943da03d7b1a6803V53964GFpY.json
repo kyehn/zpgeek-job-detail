@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "dddOciQ8wY-KO-p1ToVzapBbgnO87qioB1fPBofN7NiBlF64tv1pNihzB-aYKMyXKfILpAQ3BHo3IGTNx_VLbR3aCMWXaOnZWltg-8qnDFgugdyJ8PrP37tpFM3KzCAZ3A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "14943da03d7b1a6803V53964GFpY",
-      "encryptUserId": "6f5a3b97e982ac1d1X170t27Flo~",
-      "invalidStatus": false,
-      "jobName": "软件开发助理",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、参与软件开发流程，协助完成模块开发与维护。\n2、配合团队进行代码测试，确保模块质量符合标准。\n3、理解业务需求，参与系统功能设计及数据库架构设计。\n\n任职要求\n1、具备良好的Java编程能力，熟悉Spring等主流框架。\n2、能够熟练使用MySQL或Oracle数据库，具备扎实的SQL知识。\n3、具有良好的团队合作精神，能够有效沟通，解决技术难题。",
-      "encryptAddressId": "ae01a782b61a7f571nd629m-EVdTx4y9WP2X",
-      "address": "长沙岳麓区湖南省检验检测特色产业园B1栋",
-      "longitude": 112.884784,
-      "latitude": 28.122711,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/faa9f76905a148fedaa79492138d9a1c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c44064c2706646d1d8e337fc9f7d64e0",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全栈无侧重"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "罗女士",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170929/d542f0adfb29011b27d6db858a634aded0e9e8e7cfcaf3897b2db0c53c0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "智源信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1a7b1546d1d9fba51HJ709S-FVM~",
-      "brandName": "智源信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1739795862422,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智源信息科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智源信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "罗女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170929/d542f0adfb29011b27d6db858a634aded0e9e8e7cfcaf3897b2db0c53c0_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1739795862422,
+        "brandName": "智源信息科技",
+        "customerBrandName": "智源信息科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1a7b1546d1d9fba51HJ709S-FVM~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区湖南省检验检测特色产业园B1栋",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "ae01a782b61a7f571nd629m-EVdTx4y9WP2X",
+        "encryptId": "14943da03d7b1a6803V53964GFpY",
+        "encryptUserId": "6f5a3b97e982ac1d1X170t27Flo~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件开发助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.122711,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.884784,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c44064c2706646d1d8e337fc9f7d64e0",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "工作内容\n1、参与软件开发流程，协助完成模块开发与维护。\n2、配合团队进行代码测试，确保模块质量符合标准。\n3、理解业务需求，参与系统功能设计及数据库架构设计。\n\n任职要求\n1、具备良好的Java编程能力，熟悉Spring等主流框架。\n2、能够熟练使用MySQL或Oracle数据库，具备扎实的SQL知识。\n3、具有良好的团队合作精神，能够有效沟通，解决技术难题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K",
+        "showSkills": [
+            "全栈无侧重"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/faa9f76905a148fedaa79492138d9a1c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "dddOciQ8wY-KO-p1ToVzapBbgnO87qioB1fPBofN7NiBlF64tv1pNihzB-aYKMyXKfILpAQ3BHo3IGTNx_VLbR3aCMWXaOnZWltg-8qnDFgugdyJ8PrP37tpFM3KzCAZ3A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

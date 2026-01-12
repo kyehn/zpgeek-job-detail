@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rhX6P7RPFSh3l-o1LMtBc_RXVxJAsIeOsXTgplKgtrX7mkME4BCKsUM61UqO38L6G90lUC3Kp2Vx_wp6KHD7rM3Oj8KOCiWfpfe4YxeiR2jGyks0Kl3iL3jgevCEMtEtj5LZwTXbvoetIZIWljTiNVARzMtwmg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c0e6c6f9cc18ced01HJy3N-4F1dY",
-      "encryptUserId": "66b9306ab820a5820Xd42tm1FFBZ",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件测试助理",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n测试各项设备和产品\n出差调试设备\n任职要求：\n1.计算机大类和电子信息大类毕业生\n2.了解计算机组成原理，了解常用网络协议如tcp/ip，http, mqtt等，熟悉常用命令行操作，掌握linux操作系统基本操作。\n3.掌握一种常见编程语言，如C/C++，python,java等。\n4.了解嵌入式微处理器stm32f1,stm32f4,51芯片的基本开发。",
-      "encryptAddressId": "4fee6de21ca5c6e70ndz39u8EVFUxoq5WfM~",
-      "address": "无锡锡山区数字鹰技术研发(江苏)有限公司29栋",
-      "longitude": 120.402999,
-      "latitude": 31.582248,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bf6f1e6c892a34a9b0bad522d4676694f56bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bf4d322ca308cbf9156aab64343f778ba36bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "戴女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广德瑞鹰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fb505004064bd3401HZ53Ni_F1I~",
-      "brandName": "广德瑞鹰",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "",
-      "labels": [
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "工龄奖",
-        "股票期权",
-        "底薪加提成",
-        "绩效奖金",
-        "意外险",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1735291086829,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广德瑞鹰",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广德瑞鹰",
+        "certificated": true,
+        "large": null,
+        "name": "戴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1735291086829,
+        "brandName": "广德瑞鹰",
+        "customerBrandName": "广德瑞鹰",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "fb505004064bd3401HZ53Ni_F1I~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "",
+        "labels": [
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "工龄奖",
+            "股票期权",
+            "底薪加提成",
+            "绩效奖金",
+            "意外险",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡锡山区数字鹰技术研发(江苏)有限公司29栋",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "4fee6de21ca5c6e70ndz39u8EVFUxoq5WfM~",
+        "encryptId": "c0e6c6f9cc18ced01HJy3N-4F1dY",
+        "encryptUserId": "66b9306ab820a5820Xd42tm1FFBZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件测试助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.582248,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.402999,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bf4d322ca308cbf9156aab64343f778ba36bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责：\n测试各项设备和产品\n出差调试设备\n任职要求：\n1.计算机大类和电子信息大类毕业生\n2.了解计算机组成原理，了解常用网络协议如tcp/ip，http, mqtt等，熟悉常用命令行操作，掌握linux操作系统基本操作。\n3.掌握一种常见编程语言，如C/C++，python,java等。\n4.了解嵌入式微处理器stm32f1,stm32f4,51芯片的基本开发。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240219/48ba41acc9cef1bf6f1e6c892a34a9b0bad522d4676694f56bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rhX6P7RPFSh3l-o1LMtBc_RXVxJAsIeOsXTgplKgtrX7mkME4BCKsUM61UqO38L6G90lUC3Kp2Vx_wp6KHD7rM3Oj8KOCiWfpfe4YxeiR2jGyks0Kl3iL3jgevCEMtEtj5LZwTXbvoetIZIWljTiNVARzMtwmg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

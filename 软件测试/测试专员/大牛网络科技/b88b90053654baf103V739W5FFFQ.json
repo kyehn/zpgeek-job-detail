@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "aBOvElxNLGznL-h19HpoqQH8ShE_gpmP9KPbBtN--XWz82AlDUrdirWxnb_myg01BwbubZ2xJ_i8chLp5CtQCj1oxVOu9WyjOu1xPd-QKs4V7oIXoWbV6PCAtPtdLOPDRjU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b88b90053654baf103V739W5FFFQ",
-      "encryptUserId": "f5f8f76bcea0cfa20XZ43tS6EVVW",
-      "invalidStatus": false,
-      "jobName": "测试专员",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101271500,
-      "locationName": "眉山",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.根据公司所接项目，进行测试操作，完成每日活跃度;\n2.计算机操作熟练，能够坐得住，静下心做事;\n3.专科及以上学历，具备学习和思考能力;\n4.22-28岁有工作经验优先考虑。\n岗位福利：\n工作时间：19:00--24:00（每天）\n薪资待遇：120/天（周结）",
-      "encryptAddressId": "8331607ea85f81791nF-3969E1tRy4u5VviX",
-      "address": "眉山东坡区火焱文化传媒6楼大牛网络科技",
-      "longitude": 103.848382,
-      "latitude": 30.044675,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240522/48ba41acc9cef1bf75459d3edd851e4d7644df84a666b7076bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240522/48ba41acc9cef1bfe10f35907fed6036dafd77498951c1286bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241206/607f1f3d68754fd0df5edaedc31fc316b6f6546585d5ffcbe3ed7ce8b620318fef5c9a96504a879_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "大牛网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d5b00000be276ed51HB-2tq4FVs~",
-      "brandName": "大牛网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "大牛网络工作室成立于2024年3月，初创工作室，发展潜力大，欢迎有梦想的伙伴，一起来奋斗。",
-      "labels": [
-        "团建聚餐",
-        "零食下午茶",
-        "节假日加班费",
-        "加班补助",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1736676206422,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大牛网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "大牛网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241206/607f1f3d68754fd0df5edaedc31fc316b6f6546585d5ffcbe3ed7ce8b620318fef5c9a96504a879_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1736676206422,
+        "brandName": "大牛网络科技",
+        "customerBrandName": "大牛网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d5b00000be276ed51HB-2tq4FVs~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "大牛网络工作室成立于2024年3月，初创工作室，发展潜力大，欢迎有梦想的伙伴，一起来奋斗。",
+        "labels": [
+            "团建聚餐",
+            "零食下午茶",
+            "节假日加班费",
+            "加班补助",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "眉山东坡区火焱文化传媒6楼大牛网络科技",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "8331607ea85f81791nF-3969E1tRy4u5VviX",
+        "encryptId": "b88b90053654baf103V739W5FFFQ",
+        "encryptUserId": "f5f8f76bcea0cfa20XZ43tS6EVVW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.044675,
+        "location": 101271500,
+        "locationName": "眉山",
+        "longitude": 103.848382,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240522/48ba41acc9cef1bfe10f35907fed6036dafd77498951c1286bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责：\n1.根据公司所接项目，进行测试操作，完成每日活跃度;\n2.计算机操作熟练，能够坐得住，静下心做事;\n3.专科及以上学历，具备学习和思考能力;\n4.22-28岁有工作经验优先考虑。\n岗位福利：\n工作时间：19:00--24:00（每天）\n薪资待遇：120/天（周结）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "测试工作经验",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240522/48ba41acc9cef1bf75459d3edd851e4d7644df84a666b7076bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "aBOvElxNLGznL-h19HpoqQH8ShE_gpmP9KPbBtN--XWz82AlDUrdirWxnb_myg01BwbubZ2xJ_i8chLp5CtQCj1oxVOu9WyjOu1xPd-QKs4V7oIXoWbV6PCAtPtdLOPDRjU~",
+    "selfAccess": false,
+    "sessionId": null
 }

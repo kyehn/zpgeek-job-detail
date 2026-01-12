@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TVwgZgrzXVSxQ-H1UtgVqc5PTkmx3h3wZoWbNojfqdsXGYdTVjYYU5DXQpONyJRLhYeDrn0KiQO0o98VhuIYdcwFTrpfGr1uM9oOsyGOVoCarCcHbv2S7QLN8HutQQaAbT-qOWuIXnM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cc10a5bf900e813103R73dy6GVdZ",
-      "encryptUserId": "a5cbd01f14526d611X152tm4EVI~",
-      "invalidStatus": false,
-      "jobName": "java中级软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责软件产品（基于J2EE平台）的开发与维护，按照要求完成规定的任务；\n2. 严格遵守公司规定的流程、标准及规范，进行代码编写、单元测试工作；\n3. 配合开发工作与客户要求，编写项目文档；\n4. 负责解决编程过程中的关键技术问题；\n\n\n任职要求：\n1. 大专及以上学历，计算机相关专业，3-5年及以上开发经验；\n2. 熟练使用maven、svn、eclipse、myeclipse等工具；\n3. 熟悉Spring、springMVC、mybatis、lucene、freemarker等企业主流开发框架；\n4. 熟练应用mysql、oracle等关系型数据库，熟悉Nosql系列数据库redis，熟悉常用触发器、存储过程及常用系统函数，有一定的数据库优化能力；\n5. 熟悉tomcat、nginx等服务器；\n6. 熟悉javascript、jquery、ajax、jsp、html等前端技术；\n7. 热爱软件开发工作，思维灵活，逻辑观念强，工作认真负责，有良好的团队意识和创新精神；",
-      "encryptAddressId": "778f6162e050b46b1nF43dW9GVdSyoW3Uvub",
-      "address": "苏州昆山市建伟新世界大厦1507",
-      "longitude": 121.006644,
-      "latitude": 31.355389,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf10d3066fe22d63feafc1f3c0c6691bb56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf7af06f72050041ee54607b66de1675596bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Python",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "毛女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "风之梦信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5537915dde1529be33R-2tu-",
-      "brandName": "风之梦信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180607/9996b7b39370c9c3e2f49fd00024d1642f2fabf973517944a6036c302e25c5c9.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "风之梦信息科技致力于为更广泛的手机移动设备用户提供最精良的游戏产品，最极致的游戏体验。公司致力于研发优质的精品手游，我们秉承着“以端游的品质来做手游”为宗旨，并凭借着强大的研发技术实力、专注产品和踏实做事的态度，以及对游戏用户的深刻理解和丰富的产品市场经验、推出了高品质的手游产品，快速成长为手游行业中屈指可数的领先企业。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
-        "绩效奖金",
-        "保底工资",
-        "底薪加提成",
-        "企业年金",
-        "工龄奖",
-        "全勤奖",
-        "带薪年假",
-        "员工旅游"
-      ],
-      "activeTime": 1732415585166,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "风之梦信息科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "风之梦信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "毛女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1732415585166,
+        "brandName": "风之梦信息科技",
+        "customerBrandName": "风之梦信息科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "5537915dde1529be33R-2tu-",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "风之梦信息科技致力于为更广泛的手机移动设备用户提供最精良的游戏产品，最极致的游戏体验。公司致力于研发优质的精品手游，我们秉承着“以端游的品质来做手游”为宗旨，并凭借着强大的研发技术实力、专注产品和踏实做事的态度，以及对游戏用户的深刻理解和丰富的产品市场经验、推出了高品质的手游产品，快速成长为手游行业中屈指可数的领先企业。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "绩效奖金",
+            "保底工资",
+            "底薪加提成",
+            "企业年金",
+            "工龄奖",
+            "全勤奖",
+            "带薪年假",
+            "员工旅游"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180607/9996b7b39370c9c3e2f49fd00024d1642f2fabf973517944a6036c302e25c5c9.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市建伟新世界大厦1507",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "778f6162e050b46b1nF43dW9GVdSyoW3Uvub",
+        "encryptId": "cc10a5bf900e813103R73dy6GVdZ",
+        "encryptUserId": "a5cbd01f14526d611X152tm4EVI~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "java中级软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.355389,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.006644,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf7af06f72050041ee54607b66de1675596bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1. 负责软件产品（基于J2EE平台）的开发与维护，按照要求完成规定的任务；\n2. 严格遵守公司规定的流程、标准及规范，进行代码编写、单元测试工作；\n3. 配合开发工作与客户要求，编写项目文档；\n4. 负责解决编程过程中的关键技术问题；\n\n\n任职要求：\n1. 大专及以上学历，计算机相关专业，3-5年及以上开发经验；\n2. 熟练使用maven、svn、eclipse、myeclipse等工具；\n3. 熟悉Spring、springMVC、mybatis、lucene、freemarker等企业主流开发框架；\n4. 熟练应用mysql、oracle等关系型数据库，熟悉Nosql系列数据库redis，熟悉常用触发器、存储过程及常用系统函数，有一定的数据库优化能力；\n5. 熟悉tomcat、nginx等服务器；\n6. 熟悉javascript、jquery、ajax、jsp、html等前端技术；\n7. 热爱软件开发工作，思维灵活，逻辑观念强，工作认真负责，有良好的团队意识和创新精神；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K·13薪",
+        "showSkills": [
+            "Java",
+            "Python",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf10d3066fe22d63feafc1f3c0c6691bb56bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TVwgZgrzXVSxQ-H1UtgVqc5PTkmx3h3wZoWbNojfqdsXGYdTVjYYU5DXQpONyJRLhYeDrn0KiQO0o98VhuIYdcwFTrpfGr1uM9oOsyGOVoCarCcHbv2S7QLN8HutQQaAbT-qOWuIXnM~",
+    "selfAccess": false,
+    "sessionId": null
 }

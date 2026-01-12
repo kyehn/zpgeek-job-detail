@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "k4DZN2KteThCF-z1BVGAhrATQUKSSfLMYkegEQumqbNDDKBzGdkF8K1r_gpU6nKizF2Yq-QP0_S08L50Yja7jf2L_iOdXnY1zInKHCvQoiICj64rkQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "94eaa6ef95a8704c1HJ50t26FldT",
-      "encryptUserId": "24085091b95e7a320nR90t20FFQ~",
-      "invalidStatus": false,
-      "jobName": "CRM测试工程师（应届毕业生）",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责及任职要求：\n1. CRM系统测试\n2.英语六级或同等水平，能熟练读写。\n3.理解和沟通能力强\n4.有过IT项目测试经验优先。\n5. 有汽车行业工作或者实习经验者优先\n\n教育背景: \n统招本科及以上",
-      "encryptAddressId": "97cac9404f3a99080Xxy39W_EVZVxIm5Vf4~",
-      "address": "杭州滨江区极氪大厦001",
-      "longitude": 120.221073,
-      "latitude": 30.201824,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf875398042199b8bf1e91766f1493e53c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf3caef38bac351b724b74636fd4274a5b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "功能测试",
-        "计算机相关专业",
-        "掌握软件测试理论和流程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "格瑞泰帝",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "64e28f2e295cadea1HZ53t25EQ~~",
-      "brandName": "格瑞泰帝",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1724960217194,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "格瑞泰帝",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "格瑞泰帝",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724960217194,
+        "brandName": "格瑞泰帝",
+        "customerBrandName": "格瑞泰帝",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "64e28f2e295cadea1HZ53t25EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区极氪大厦001",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "97cac9404f3a99080Xxy39W_EVZVxIm5Vf4~",
+        "encryptId": "94eaa6ef95a8704c1HJ50t26FldT",
+        "encryptUserId": "24085091b95e7a320nR90t20FFQ~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "CRM测试工程师（应届毕业生）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 30.201824,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.221073,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf3caef38bac351b724b74636fd4274a5b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责及任职要求：\n1. CRM系统测试\n2.英语六级或同等水平，能熟练读写。\n3.理解和沟通能力强\n4.有过IT项目测试经验优先。\n5. 有汽车行业工作或者实习经验者优先\n\n教育背景: \n统招本科及以上",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K·13薪",
+        "showSkills": [
+            "测试工作经验",
+            "功能测试",
+            "计算机相关专业",
+            "掌握软件测试理论和流程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf875398042199b8bf1e91766f1493e53c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "k4DZN2KteThCF-z1BVGAhrATQUKSSfLMYkegEQumqbNDDKBzGdkF8K1r_gpU6nKizF2Yq-QP0_S08L50Yja7jf2L_iOdXnY1zInKHCvQoiICj64rkQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RNL2nab1VpDQ9-11RXUqcJZmtFeHK8c59GkZl5wipUcxy2yGGfE9OcykWyD3MYPza0n1zsHLnvIPaefpxAXfH3uWrpszOaoXmnO1XEwipSmtFDIs",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7a870117f26db4280nV629S4E1o~",
-      "encryptUserId": "23cac49e34c3cb410XZ_392_ElU~",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "1、计算机相关专业，有扎实的计算机和编程基础；\n2、2年以上Java开发经验，熟悉常用设计模式，熟悉Spring MVC、MyBatis等主流Java EE开发框架；\n3、熟悉Linux常用命令，能够基于Linux系统完成开发、测试、部署工作，并能够熟练安装部署常用Linux软件应用；\n4、熟悉MySQL数据库，能独立进行数据库设计，有SQL性能优化经验。\n5、了解能够使用Lucene/ElasticSearch、Thrift、Netty、RabbitMQ、Zookeeper等开源项目；\n6、两年以上大型企业应用系统开发经验，熟悉微服务等企业架构思想；",
-      "encryptAddressId": "97a4c72e96f86a021XFz2tm5GVA~",
-      "address": "广州天河区东圃广场",
-      "longitude": 113.406008,
-      "latitude": 23.122862,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98284515231499680990000bb04c4432",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2bdeb9126d10667d5fe43e6a31ec5601",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端开发",
-        "系统架构",
-        "数据库"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "智桥云服",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f834544517dd97700nd83N21FQ~~",
-      "brandName": "智桥云服",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190919/9c7b26bf9db5f1a79df3fa9d8ca9dda70e07c76ee37d40c5bcbb2f37e3e1f5c6.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1726828484000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智桥云服",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智桥云服",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1726828484000,
+        "brandName": "智桥云服",
+        "customerBrandName": "智桥云服",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f834544517dd97700nd83N21FQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190919/9c7b26bf9db5f1a79df3fa9d8ca9dda70e07c76ee37d40c5bcbb2f37e3e1f5c6.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区东圃广场",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "97a4c72e96f86a021XFz2tm5GVA~",
+        "encryptId": "7a870117f26db4280nV629S4E1o~",
+        "encryptUserId": "23cac49e34c3cb410XZ_392_ElU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.122862,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.406008,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2bdeb9126d10667d5fe43e6a31ec5601",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、计算机相关专业，有扎实的计算机和编程基础；\n2、2年以上Java开发经验，熟悉常用设计模式，熟悉Spring MVC、MyBatis等主流Java EE开发框架；\n3、熟悉Linux常用命令，能够基于Linux系统完成开发、测试、部署工作，并能够熟练安装部署常用Linux软件应用；\n4、熟悉MySQL数据库，能独立进行数据库设计，有SQL性能优化经验。\n5、了解能够使用Lucene/ElasticSearch、Thrift、Netty、RabbitMQ、Zookeeper等开源项目；\n6、两年以上大型企业应用系统开发经验，熟悉微服务等企业架构思想；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "后端开发",
+            "系统架构",
+            "数据库"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98284515231499680990000bb04c4432"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RNL2nab1VpDQ9-11RXUqcJZmtFeHK8c59GkZl5wipUcxy2yGGfE9OcykWyD3MYPza0n1zsHLnvIPaefpxAXfH3uWrpszOaoXmnO1XEwipSmtFDIs",
+    "selfAccess": false,
+    "sessionId": null
 }

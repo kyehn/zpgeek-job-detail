@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Y9QGNuyuKiDV_-t1KpMAFDsppVybrT_tfoniIG9aRBxEXlMu_i3ZIIi4QvxwBi8c3a9by9RdNijwHeHFGE_rNP8tmdRedL9zRc1FfENp4FkC58ugfh88TGd31QFL8tjO",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6fbe8b9ec18e9cb303V809S-F1pY",
-      "encryptUserId": "7da3c9bfafe609781XR82d-9GFI~",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "1、参与需求分析、设计、评审；\n2、参与系统架构设计、原有技术架构的持续演进；\n3、概要设计、核心功能详细设计文档编写；\n4、负责系统核心模块和核心业务逻辑的设计、编码；\n5、带领研发团队完成日常交付任务；\n6、把控产品迭代进度和质量，指导新人，帮助解决技术难题。\n任职要求\n1、本科以上学历，计算机和软件相关专业，2年及以上java开发经验；2、扎实的java基础，深入理解JVM原理，熟练掌握常用设计模式及其应用场景； 3、精通springboot、springcloud微服务开发，并了解其核心原理与实现机制； 4、熟练掌握MySQL等数据库开发及其核心原理，熟悉Redis、ElasticSearch等常用NoSQL； 5、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题； 6、具备良好的表达和沟通能力、具备团队合作精神，对工作热情，有责任心和独立分析能力; 7、熟练使用clickhouse，kafka，flink者，或对大数据有很高兴趣者优先、对于容器化技术有经验或兴趣者优先；8、有信息安全行业从业经验者优先、具备项目和团队管理经验者优先。",
-      "encryptAddressId": "4b8ae6b2a43d61f51nx63dm_ElJWxou_WPKX",
-      "address": "北京朝阳区琨莎中心A座805C",
-      "longitude": 116.450559,
-      "latitude": 39.948605,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bf9146f05a8d46a1eb2c0de66ae0092c776bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bfbdd2988c9f8f1ce110a0a1aec4a767106bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bfa1695ca6ac2731601388d84fdf7c9aa86bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bf884e658d8c198badcb83a0d2a73241a96bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240506/607f1f3d68754fd0e039da5d8b75d4441d47d9da1310f9597a413ef6603fd142b93b886f8bc193d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "杭州超级科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d0f43996533cf33e1n1-2d29Ew~~",
-      "brandName": "杭州超级科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190620/1f0f14f5654db33398199678648126214049e51325d294afdba6ecfe1d9d041e_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "杭州超级科技有限公司是信息安全解决方案专家，同时也是由陆兆禧先生唯一挂帅(阿里巴巴前副董事长、CEO)带领阿里系高管投资的一家高速发展的创新型技术公司。公司聚集了国内顶尖的安全专家，以安全大数据为基础，以AI深度学习能力为驱动，创造了国内首个分布式安全节点防御系统以及视频行为数据分析系统，同时深耕数据安全领域，研发了一系列数据安全防护产品。主营业务防DDOS/CC攻击类产品，处于全国领先地位。\n       公司致力于网络安全优势项目，IDC数据中心，高防服务器，同时代理了阿里云产品，并快速进军数据安全和智慧城市领域。\n       公司在台湾，北京，武汉光谷、襄阳等地设立了多家分公司，在成都，长沙，福建，深圳，新疆设立了办事处\n       未来超级科技，将以“技术护佑安全”为使命，以为客户提供领先的技术、优质的产品、贴心的服务为终身奋斗目标。公司办公环境良好，丰厚福利待遇，诚聘英才，期待您的加入！\n 官网链接：https://www.chaojidun.com/#pp-cjkj?bd_vid=9396073252078403134",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1739893564269,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州超级科技有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州超级科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240506/607f1f3d68754fd0e039da5d8b75d4441d47d9da1310f9597a413ef6603fd142b93b886f8bc193d_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1739893564269,
+        "brandName": "杭州超级科技有限公司",
+        "customerBrandName": "杭州超级科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d0f43996533cf33e1n1-2d29Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "杭州超级科技有限公司是信息安全解决方案专家，同时也是由陆兆禧先生唯一挂帅(阿里巴巴前副董事长、CEO)带领阿里系高管投资的一家高速发展的创新型技术公司。公司聚集了国内顶尖的安全专家，以安全大数据为基础，以AI深度学习能力为驱动，创造了国内首个分布式安全节点防御系统以及视频行为数据分析系统，同时深耕数据安全领域，研发了一系列数据安全防护产品。主营业务防DDOS/CC攻击类产品，处于全国领先地位。\n       公司致力于网络安全优势项目，IDC数据中心，高防服务器，同时代理了阿里云产品，并快速进军数据安全和智慧城市领域。\n       公司在台湾，北京，武汉光谷、襄阳等地设立了多家分公司，在成都，长沙，福建，深圳，新疆设立了办事处\n       未来超级科技，将以“技术护佑安全”为使命，以为客户提供领先的技术、优质的产品、贴心的服务为终身奋斗目标。公司办公环境良好，丰厚福利待遇，诚聘英才，期待您的加入！\n 官网链接：https://www.chaojidun.com/#pp-cjkj?bd_vid=9396073252078403134",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190620/1f0f14f5654db33398199678648126214049e51325d294afdba6ecfe1d9d041e_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区琨莎中心A座805C",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bf884e658d8c198badcb83a0d2a73241a96bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241219/48ba41acc9cef1bfa1695ca6ac2731601388d84fdf7c9aa86bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "4b8ae6b2a43d61f51nx63dm_ElJWxou_WPKX",
+        "encryptId": "6fbe8b9ec18e9cb303V809S-F1pY",
+        "encryptUserId": "7da3c9bfafe609781XR82d-9GFI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.948605,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.450559,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bfbdd2988c9f8f1ce110a0a1aec4a767106bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、参与需求分析、设计、评审；\n2、参与系统架构设计、原有技术架构的持续演进；\n3、概要设计、核心功能详细设计文档编写；\n4、负责系统核心模块和核心业务逻辑的设计、编码；\n5、带领研发团队完成日常交付任务；\n6、把控产品迭代进度和质量，指导新人，帮助解决技术难题。\n任职要求\n1、本科以上学历，计算机和软件相关专业，2年及以上java开发经验；2、扎实的java基础，深入理解JVM原理，熟练掌握常用设计模式及其应用场景； 3、精通springboot、springcloud微服务开发，并了解其核心原理与实现机制； 4、熟练掌握MySQL等数据库开发及其核心原理，熟悉Redis、ElasticSearch等常用NoSQL； 5、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题； 6、具备良好的表达和沟通能力、具备团队合作精神，对工作热情，有责任心和独立分析能力; 7、熟练使用clickhouse，kafka，flink者，或对大数据有很高兴趣者优先、对于容器化技术有经验或兴趣者优先；8、有信息安全行业从业经验者优先、具备项目和团队管理经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bf9146f05a8d46a1eb2c0de66ae0092c776bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Y9QGNuyuKiDV_-t1KpMAFDsppVybrT_tfoniIG9aRBxEXlMu_i3ZIIi4QvxwBi8c3a9by9RdNijwHeHFGE_rNP8tmdRedL9zRc1FfENp4FkC58ugfh88TGd31QFL8tjO",
+    "selfAccess": false,
+    "sessionId": null
 }

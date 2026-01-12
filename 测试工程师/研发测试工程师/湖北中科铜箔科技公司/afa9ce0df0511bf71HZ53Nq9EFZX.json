@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ncPuCuyG7VNOE-h11DYlcRsDJOezz3k0mFHSA1E6PFGBHiyA7M5wEvUv5r7XTQm3fbadsm8YoN2pkyYIP6MS5Nhe1Ope1lMW3dxIa7L40byzIat23FzG",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "afa9ce0df0511bf71HZ53Nq9EFZX",
-      "encryptUserId": "0c327f1f2d731dea0XZ93di5FlVT",
-      "invalidStatus": false,
-      "jobName": "研发测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101200400,
-      "locationName": "孝感",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、生产现场物性/化性/外观的追踪及异常改善、品质稳定性提升；\n2、铜箔原料、工艺、新产品的线上测试与试验计划执行；\n3、现场操作及工艺参数的稽核；\n4、生产工艺/品质标准SOP及相关表单、APQP文件更新完善；\n5、协助客诉异常改善、报告输出；\n6、领导交办其他事项。\n\n岗位要求：\n1、本科以上统招学历，化学、化工、材料相关专业；\n2、2年以上PCB行业工艺研发经验；\n3、熟练PCB行业电镀工序工艺技术；\n4、学习能力强，积极进取，责任心强。",
-      "encryptAddressId": "0ed8e933f8f8625d1nB72dm1GFVW",
-      "address": "孝感安陆市湖北中科铜箔科技有限公司中科路6号",
-      "longitude": 113.708737,
-      "latitude": 31.288045,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab0f23fba0701b616de3c9b9f9e233ad",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61308a9457273ccba306c412bb3d76b6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "湖北中科铜箔科技公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "713d0a387402d0941HV929S4FVc~",
-      "brandName": "湖北中科铜箔科技公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725357053131,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖北中科铜箔科技公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖北中科铜箔科技公司",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725357053131,
+        "brandName": "湖北中科铜箔科技公司",
+        "customerBrandName": "湖北中科铜箔科技公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "713d0a387402d0941HV929S4FVc~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "孝感安陆市湖北中科铜箔科技有限公司中科路6号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "0ed8e933f8f8625d1nB72dm1GFVW",
+        "encryptId": "afa9ce0df0511bf71HZ53Nq9EFZX",
+        "encryptUserId": "0c327f1f2d731dea0XZ93di5FlVT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "研发测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.288045,
+        "location": 101200400,
+        "locationName": "孝感",
+        "longitude": 113.708737,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61308a9457273ccba306c412bb3d76b6",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、生产现场物性/化性/外观的追踪及异常改善、品质稳定性提升；\n2、铜箔原料、工艺、新产品的线上测试与试验计划执行；\n3、现场操作及工艺参数的稽核；\n4、生产工艺/品质标准SOP及相关表单、APQP文件更新完善；\n5、协助客诉异常改善、报告输出；\n6、领导交办其他事项。\n\n岗位要求：\n1、本科以上统招学历，化学、化工、材料相关专业；\n2、2年以上PCB行业工艺研发经验；\n3、熟练PCB行业电镀工序工艺技术；\n4、学习能力强，积极进取，责任心强。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab0f23fba0701b616de3c9b9f9e233ad"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ncPuCuyG7VNOE-h11DYlcRsDJOezz3k0mFHSA1E6PFGBHiyA7M5wEvUv5r7XTQm3fbadsm8YoN2pkyYIP6MS5Nhe1Ope1lMW3dxIa7L40byzIat23FzG",
+    "selfAccess": false,
+    "sessionId": null
 }

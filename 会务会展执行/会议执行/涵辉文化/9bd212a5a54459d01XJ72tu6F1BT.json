@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3ztqvamRppxJD-F164a3p6ZyQdzpjevk9KAQaWGOaIYbx-oBidvqpmmqmmS0UZOd0baOvt8o2tlb-n9dKtb9rh9XHSbkeLiJoddqqxJ-z-t07KBPpQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9bd212a5a54459d01XJ72tu6F1BT",
-      "encryptUserId": "a4560432f52cb92e1nZ82tW4FFU~",
-      "invalidStatus": false,
-      "jobName": "会议执行",
-      "position": 140506,
-      "positionName": "会务/会展执行",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n1，有一定的文案撰写及编辑能力\n2，负责公司项目方案、项目执行流程等撰写\n3，可以接受出差和外出执行活动\n4，按时完成领导交代的任务\n5，招同等能力实习生若干名\n任职资格：\n1，专科及以上\n2，勤劳认真，踏实肯干，有高度责任感\n3，富有团队协作精神，积极、自信、敬业\n4，思路清晰，有较强的语言表达能力\n5，电脑应用熟练，会熟练使用office办公软件\n6，会展类专业优先，其他专业优秀者皆可。\n7，有一定的文案撰写及编辑能力\n8，可以自主开发客户资源\n9，善于处理人际关系",
-      "encryptAddressId": "4ca4705fded95cba0n153tS-EFJUyo24WP0~",
-      "address": "杭州临平区华元大厦3114-3",
-      "longitude": 120.30011,
-      "latitude": 30.395151,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf61317097cd5e364f8337117895e059b86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bf38b0da8bada4256c3535e074158b91326bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "活动策划乙方公司"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "西先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180713/79ddf01356de66d04c09b56f4cf280f00172e418b7d3306f5ba21f4d594_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "涵辉文化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c80ec3bb463facfe0nN-3di5FQ~~",
-      "brandName": "涵辉文化",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190903/f16b897fdfbe8526b34dc090d8188957520240d8be07038f75668857662f1a86.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1726891328000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "涵辉文化",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "涵辉文化",
+        "certificated": true,
+        "large": null,
+        "name": "西先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180713/79ddf01356de66d04c09b56f4cf280f00172e418b7d3306f5ba21f4d594_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1726891328000,
+        "brandName": "涵辉文化",
+        "customerBrandName": "涵辉文化",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "c80ec3bb463facfe0nN-3di5FQ~~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190903/f16b897fdfbe8526b34dc090d8188957520240d8be07038f75668857662f1a86.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州临平区华元大厦3114-3",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4ca4705fded95cba0n153tS-EFJUyo24WP0~",
+        "encryptId": "9bd212a5a54459d01XJ72tu6F1BT",
+        "encryptUserId": "a4560432f52cb92e1nZ82tW4FFU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "会议执行",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.395151,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.30011,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bf38b0da8bada4256c3535e074158b91326bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 140506,
+        "positionName": "会务/会展执行",
+        "postDescription": "职位描述：\n1，有一定的文案撰写及编辑能力\n2，负责公司项目方案、项目执行流程等撰写\n3，可以接受出差和外出执行活动\n4，按时完成领导交代的任务\n5，招同等能力实习生若干名\n任职资格：\n1，专科及以上\n2，勤劳认真，踏实肯干，有高度责任感\n3，富有团队协作精神，积极、自信、敬业\n4，思路清晰，有较强的语言表达能力\n5，电脑应用熟练，会熟练使用office办公软件\n6，会展类专业优先，其他专业优秀者皆可。\n7，有一定的文案撰写及编辑能力\n8，可以自主开发客户资源\n9，善于处理人际关系",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "活动策划乙方公司"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf61317097cd5e364f8337117895e059b86bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3ztqvamRppxJD-F164a3p6ZyQdzpjevk9KAQaWGOaIYbx-oBidvqpmmqmmS0UZOd0baOvt8o2tlb-n9dKtb9rh9XHSbkeLiJoddqqxJ-z-t07KBPpQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

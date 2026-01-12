@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "gtEa2VPBorGnG-K1AhQ8FQJNPahiOum6HAygtGxp75U8-SpngQp_WjNlaxHXCkD0xgUtl2NgNX9f0PX52P2CRFyRv5hLy7cTXplr7M2yFmxddP3hXtgUJftOLVafn3qC0PI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "eedae43254a9acff03V43NW-FFBR",
-      "encryptUserId": "c85e19c816de1af50Xxz0960FVFQ",
-      "invalidStatus": false,
-      "jobName": "驻场软件运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200900,
-      "locationName": "宜昌",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-13K",
-      "payTypeDesc": null,
-      "postDescription": "1. 负责软件需求调研\n2.负责基础软件运维工作",
-      "encryptAddressId": "5da3616fb5b5c6e81nN53tu5F1VVwIq_WPye",
-      "address": "宜昌西陵区新华网宜昌经营中心1",
-      "longitude": 111.314696,
-      "latitude": 30.700317,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf9cc0a88588d1290924a6e40e94e27e936bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf8c91d598a30ce48b37fea28d934b35036bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250122/48ba41acc9cef1bf80c089a0e7ea8605f1f0ff459c8e37266bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250122/48ba41acc9cef1bf3ed24b961c470ba5f049921c10a71f366bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "湖北筱雅科技发展",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5d035c3c5778e76a1H153dS6FFA~",
-      "brandName": "湖北筱雅科技发展",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1737612506206,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖北筱雅科技发展",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖北筱雅科技发展",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1737612506206,
+        "brandName": "湖北筱雅科技发展",
+        "customerBrandName": "湖北筱雅科技发展",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5d035c3c5778e76a1H153dS6FFA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宜昌西陵区新华网宜昌经营中心1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250122/48ba41acc9cef1bf3ed24b961c470ba5f049921c10a71f366bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250122/48ba41acc9cef1bf80c089a0e7ea8605f1f0ff459c8e37266bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "5da3616fb5b5c6e81nN53tu5F1VVwIq_WPye",
+        "encryptId": "eedae43254a9acff03V43NW-FFBR",
+        "encryptUserId": "c85e19c816de1af50Xxz0960FVFQ",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "驻场软件运维",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 30.700317,
+        "location": 101200900,
+        "locationName": "宜昌",
+        "longitude": 111.314696,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf8c91d598a30ce48b37fea28d934b35036bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1. 负责软件需求调研\n2.负责基础软件运维工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-13K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf9cc0a88588d1290924a6e40e94e27e936bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "gtEa2VPBorGnG-K1AhQ8FQJNPahiOum6HAygtGxp75U8-SpngQp_WjNlaxHXCkD0xgUtl2NgNX9f0PX52P2CRFyRv5hLy7cTXplr7M2yFmxddP3hXtgUJftOLVafn3qC0PI~",
+    "selfAccess": false,
+    "sessionId": null
 }

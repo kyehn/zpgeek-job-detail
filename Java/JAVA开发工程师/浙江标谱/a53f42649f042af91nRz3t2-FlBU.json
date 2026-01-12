@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "T8NbPi_tR3By--f1G256mylo5dVtBopJGlWNY0HiCi8JGhRkLDWbBV8nKd7DAyR5Lxj52nRoNty0flANf8PKD4g2VuX2TxNgoDjOeeD3UO3doyOg2A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a53f42649f042af91nRz3t2-FlBU",
-      "encryptUserId": "63cc2b7e4f527af80nd-3Nm-F1c~",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210200,
-      "locationName": "湖州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": " 1、负责软件系统的开发设计和编码工作；参与需求调研及分析； \n2、按照公司项目管理及开发管理流程与规范要求编制开发过程中必须的各种开发文档； \n3、参与开发过程中的技术预研，解决产品开发过程中的关键技术问题；\n 4、参与产品的技术支持工作。 \n任职资格： 1、计算机相关专业，专科及以上学历，1年以上Java软件开发工作经验； 2、熟悉Struts、Spring、Hibernate等主流开源框架； 3、熟悉掌握mysql数据库开发； 4、熟练应用javascript语言和jquery框架、ajax、css。5、熟悉Windows和Linux环境下Jboss、WebLogic的安装部署。 ",
-      "encryptAddressId": "b1bbadae2001671733J90tu1",
-      "address": "湖州安吉县安吉两山创客小镇1幢313-319",
-      "longitude": 119.70298,
-      "latitude": 30.619402,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75a5bca802dcb2ffb534b85ee2c9fa39",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/691cd8c45c83a0ec6c2ad234500c5f10",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "JavaScript",
-        "CSS",
-        "服务器配置",
-        "Spring",
-        "Hibernate",
-        "Linux",
-        "Struts"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "人力资源师",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "浙江标谱",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "11cdad648c2630e61HB909u6GA~~",
-      "brandName": "浙江标谱",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "节日福利"
-      ],
-      "activeTime": 1721464643962,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江标谱",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江标谱",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "人力资源师"
+    },
+    "brandComInfo": {
+        "activeTime": 1721464643962,
+        "brandName": "浙江标谱",
+        "customerBrandName": "浙江标谱",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "11cdad648c2630e61HB909u6GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "湖州安吉县安吉两山创客小镇1幢313-319",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b1bbadae2001671733J90tu1",
+        "encryptId": "a53f42649f042af91nRz3t2-FlBU",
+        "encryptUserId": "63cc2b7e4f527af80nd-3Nm-F1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.619402,
+        "location": 101210200,
+        "locationName": "湖州",
+        "longitude": 119.70298,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/691cd8c45c83a0ec6c2ad234500c5f10",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": " 1、负责软件系统的开发设计和编码工作；参与需求调研及分析； \n2、按照公司项目管理及开发管理流程与规范要求编制开发过程中必须的各种开发文档； \n3、参与开发过程中的技术预研，解决产品开发过程中的关键技术问题；\n 4、参与产品的技术支持工作。 \n任职资格： 1、计算机相关专业，专科及以上学历，1年以上Java软件开发工作经验； 2、熟悉Struts、Spring、Hibernate等主流开源框架； 3、熟悉掌握mysql数据库开发； 4、熟练应用javascript语言和jquery框架、ajax、css。5、熟悉Windows和Linux环境下Jboss、WebLogic的安装部署。 ",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "Java",
+            "JavaScript",
+            "CSS",
+            "服务器配置",
+            "Spring",
+            "Hibernate",
+            "Linux",
+            "Struts"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75a5bca802dcb2ffb534b85ee2c9fa39"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "T8NbPi_tR3By--f1G256mylo5dVtBopJGlWNY0HiCi8JGhRkLDWbBV8nKd7DAyR5Lxj52nRoNty0flANf8PKD4g2VuX2TxNgoDjOeeD3UO3doyOg2A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0VVgZmkq87xVF-N1YVZgP20eb2qiz7qgMo-5GNaR3z072E1PH6xtEDGtqUBSFY4c8ioS4wTP0sfBgEC5lRQ9DQ-2GtlWJ2WdcH3JCY8czXaDsq1Nd1UjCjNZHHPw3Qg8W0UOB2l-ssaOTDU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a724d918b91ae8961XV42d6_FlJY",
-      "encryptUserId": "8ab2a8982dfd06a31nR82dy1ElNV",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101101000,
-      "locationName": "忻州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "开发软件，能独立带领团队制作",
-      "encryptAddressId": "5e352949286fa76b1nx53tu5GFM~",
-      "address": "忻州五台县农村淘宝八方云视",
-      "longitude": 113.255676,
-      "latitude": 38.739015,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10d0a1259c78c87b22cb7a4e77893040",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc4b7b798780d0a97b965d927e44bad6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PHP",
-        "Python",
-        "HTML",
-        "Shell",
-        "SQL",
-        "软件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "ceo",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "八方云视",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8dce07f389409bb81nxy3du-FVI~",
-      "brandName": "八方云视",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240328/7b5b554d84f9729c5a24851c038f1bf7a80148b6d0459f125db54826936320e3aa2f3e2a1a3ae23d.jpg.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "互联网电商科技创新公司",
-      "labels": [
-        "加班补助",
-        "全勤奖"
-      ],
-      "activeTime": 1722351516080,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "八方云视",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "八方云视",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "ceo"
+    },
+    "brandComInfo": {
+        "activeTime": 1722351516080,
+        "brandName": "八方云视",
+        "customerBrandName": "八方云视",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "8dce07f389409bb81nxy3du-FVI~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "互联网电商科技创新公司",
+        "labels": [
+            "加班补助",
+            "全勤奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240328/7b5b554d84f9729c5a24851c038f1bf7a80148b6d0459f125db54826936320e3aa2f3e2a1a3ae23d.jpg.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "忻州五台县农村淘宝八方云视",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5e352949286fa76b1nx53tu5GFM~",
+        "encryptId": "a724d918b91ae8961XV42d6_FlJY",
+        "encryptUserId": "8ab2a8982dfd06a31nR82dy1ElNV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.739015,
+        "location": 101101000,
+        "locationName": "忻州",
+        "longitude": 113.255676,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc4b7b798780d0a97b965d927e44bad6",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "开发软件，能独立带领团队制作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "PHP",
+            "Python",
+            "HTML",
+            "Shell",
+            "SQL",
+            "软件工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10d0a1259c78c87b22cb7a4e77893040"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0VVgZmkq87xVF-N1YVZgP20eb2qiz7qgMo-5GNaR3z072E1PH6xtEDGtqUBSFY4c8ioS4wTP0sfBgEC5lRQ9DQ-2GtlWJ2WdcH3JCY8czXaDsq1Nd1UjCjNZHHPw3Qg8W0UOB2l-ssaOTDU~",
+    "selfAccess": false,
+    "sessionId": null
 }

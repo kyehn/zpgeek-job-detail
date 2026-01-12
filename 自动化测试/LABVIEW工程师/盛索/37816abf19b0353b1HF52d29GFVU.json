@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZDtJdgZAwThgE-W1MFK-EQbPkkkQRnEX3tDGRJrUUy15lMVsgqIXbv9l_l3cfhwfFzL1wnWQcI0mjgjW2i5s7tjUFawKvcAAT8jgV1BcYkP6ij5mTg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "37816abf19b0353b1HF52d29GFVU",
-      "encryptUserId": "9584bb6f4803e5c803V43t65EFQ~",
-      "invalidStatus": false,
-      "jobName": "labview工程师",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.主要从事自动测试类软件开发、调试工作；\n2.能够独立完成软件的开发流程，包括软件需求分析、详细设计、代码实现、联调测试等；\n3.参与部分项目售前工作。\n任职资格：\n1.大专及以上，自动化相关专业；\n2.熟练使用LabVIEW、TestStand等软件工具，并具有实际项目开发经验；\n3.熟悉软件工程的设计和开发流程；\n4.熟悉常用测试测量仪表（示波器、频谱仪、信号源等）的使用者优先；\n5.有航空非标测试设备经验者优先，熟悉429、1394、422和1553B总线的优先。\n\n\n\n\n职位福利：五险一金、绩效奖金、加班补助、节日福利、周末双休",
-      "encryptAddressId": "f15b5e2ebfbeea4b0nV409y8FVQ~",
-      "address": "西安雁塔区逸翠·尚府北区2号楼1单元4楼",
-      "longitude": 108.881623,
-      "latitude": 34.183523,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ebee73b87f2599def0e50f1e6509e4d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d81ca332baab07da63cec4ea1b902c25",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "labview",
-        "软件开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "殷女士",
-      "title": "行政助理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "盛索",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "681ecc129befeae03nR62N-1Eg~~",
-      "brandName": "盛索",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723072441525,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "盛索",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "盛索",
+        "certificated": true,
+        "large": null,
+        "name": "殷女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "行政助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723072441525,
+        "brandName": "盛索",
+        "customerBrandName": "盛索",
+        "customerBrandStageName": "",
+        "encryptBrandId": "681ecc129befeae03nR62N-1Eg~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区逸翠·尚府北区2号楼1单元4楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f15b5e2ebfbeea4b0nV409y8FVQ~",
+        "encryptId": "37816abf19b0353b1HF52d29GFVU",
+        "encryptUserId": "9584bb6f4803e5c803V43t65EFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "labview工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.183523,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.881623,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d81ca332baab07da63cec4ea1b902c25",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "岗位职责：\n1.主要从事自动测试类软件开发、调试工作；\n2.能够独立完成软件的开发流程，包括软件需求分析、详细设计、代码实现、联调测试等；\n3.参与部分项目售前工作。\n任职资格：\n1.大专及以上，自动化相关专业；\n2.熟练使用LabVIEW、TestStand等软件工具，并具有实际项目开发经验；\n3.熟悉软件工程的设计和开发流程；\n4.熟悉常用测试测量仪表（示波器、频谱仪、信号源等）的使用者优先；\n5.有航空非标测试设备经验者优先，熟悉429、1394、422和1553B总线的优先。\n\n\n\n\n职位福利：五险一金、绩效奖金、加班补助、节日福利、周末双休",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "自动化测试经验",
+            "labview",
+            "软件开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ebee73b87f2599def0e50f1e6509e4d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZDtJdgZAwThgE-W1MFK-EQbPkkkQRnEX3tDGRJrUUy15lMVsgqIXbv9l_l3cfhwfFzL1wnWQcI0mjgjW2i5s7tjUFawKvcAAT8jgV1BcYkP6ij5mTg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

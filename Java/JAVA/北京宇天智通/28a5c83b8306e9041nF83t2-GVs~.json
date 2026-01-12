@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tZNzHAcH-0VLK-S1J8XvZBUJcTXDUonqFtcrkcqTQQB69msG3NYHHDg4V_-jZ9QQmLNevrcsmkqTm1NTgZfs3e2QllBf4c8ctxJUJpwwSaWsg2tpPd-hMzYKkg-WAg5XgERaFtNEGXY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "28a5c83b8306e9041nF83t2-GVs~",
-      "encryptUserId": "e68ef90c235ece1d1HZ_29S5FFo~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "Java后段开发",
-      "encryptAddressId": "8a441176ec7e30711XB62N27GVc~",
-      "address": "北京和合谷(长阳绿地店)",
-      "longitude": 116.160196,
-      "latitude": 39.756302,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1878bc4c57a1241732a198bf1e6943a0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dda9b4810f95c308eb5b99342689ed04",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吕先生",
-      "title": "公司人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171114/02323a6fbe3cb18286946b57b769a156815e00f2ba90655e394b562aba9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "北京宇天智通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6b26e46066508f951nZ53dm1EQ~~",
-      "brandName": "北京宇天智通",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725600808148,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京宇天智通",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京宇天智通",
+        "certificated": true,
+        "large": null,
+        "name": "吕先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171114/02323a6fbe3cb18286946b57b769a156815e00f2ba90655e394b562aba9_b.jpg",
+        "title": "公司人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725600808148,
+        "brandName": "北京宇天智通",
+        "customerBrandName": "北京宇天智通",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6b26e46066508f951nZ53dm1EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京和合谷(长阳绿地店)",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8a441176ec7e30711XB62N27GVc~",
+        "encryptId": "28a5c83b8306e9041nF83t2-GVs~",
+        "encryptUserId": "e68ef90c235ece1d1HZ_29S5FFo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.756302,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.160196,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dda9b4810f95c308eb5b99342689ed04",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "Java后段开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1878bc4c57a1241732a198bf1e6943a0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tZNzHAcH-0VLK-S1J8XvZBUJcTXDUonqFtcrkcqTQQB69msG3NYHHDg4V_-jZ9QQmLNevrcsmkqTm1NTgZfs3e2QllBf4c8ctxJUJpwwSaWsg2tpPd-hMzYKkg-WAg5XgERaFtNEGXY~",
+    "selfAccess": false,
+    "sessionId": null
 }

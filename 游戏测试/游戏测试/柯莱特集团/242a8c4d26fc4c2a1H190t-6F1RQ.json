@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UOXZ3EdwrsnLR-x1omjpQle87ZWY16Lp9QTnmh6zxbDMNLu1A3t3XBPOPgoTFuWibXA9GO3mVB8lCPLjx2LUYeGBdJ7eyN7qM9gCfC9HZ7hLt9xHKaXdWNhxxGfIFHh0Wo8eg9sU27U~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "242a8c4d26fc4c2a1H190t-6F1RQ",
-      "encryptUserId": "d5063b5ec441332003J73tu7FFU~",
-      "invalidStatus": false,
-      "jobName": "游戏测试",
-      "position": 100307,
-      "positionName": "游戏测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责： \n1、负责项目功能需求分析，独立编写测试方案、测试计划、测试用例和测试报告；\n2、管理游戏缺陷，推动游戏缺陷的解决；\n3、移动客户端应用（Android/IOS）的功能、性能、兼容性测试并完成测试报告等；\n4、搭建和维护测试环境，完成测试服务器的部署工作；\n5、存在至少一款卡牌项目经验\n\n岗位要求：\n1、熟练掌握软件测试理论和方法；\n2、熟悉游戏测试流程，能够熟练编写测试用例；\n3、拥有较强的责任心，以及优秀的沟通协作意识。\n4、2年以上卡牌游戏测试经验",
-      "encryptAddressId": "45c6bb010ed6bf331nB929q-FVJTwoS-U_yc",
-      "address": "北京朝阳区易亨大厦1",
-      "longitude": 116.416249,
-      "latitude": 39.968624,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0446ff09e95ba64a76395e5d1271ab70",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4359949bcb74e7ecaf600fb43f6ab271",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "卡牌",
-        "丰富的游戏经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "邓女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd0a01cdb9d09a1433af56bf6a862c64f7c91c196cf2abfe4c0fb5349540d8e2bc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "柯莱特集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "879cece58f6a7e7d1XR929W0",
-      "brandName": "柯莱特集团",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
-      "labels": [
-        "五险一金",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1731076849842,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "柯莱特集团",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "柯莱特集团",
+        "certificated": true,
+        "large": null,
+        "name": "邓女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd0a01cdb9d09a1433af56bf6a862c64f7c91c196cf2abfe4c0fb5349540d8e2bc_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731076849842,
+        "brandName": "柯莱特集团",
+        "customerBrandName": "柯莱特集团",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
+        "labels": [
+            "五险一金",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区易亨大厦1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "45c6bb010ed6bf331nB929q-FVJTwoS-U_yc",
+        "encryptId": "242a8c4d26fc4c2a1H190t-6F1RQ",
+        "encryptUserId": "d5063b5ec441332003J73tu7FFU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "游戏测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.968624,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.416249,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4359949bcb74e7ecaf600fb43f6ab271",
+        "position": 100307,
+        "positionName": "游戏测试",
+        "postDescription": "岗位职责： \n1、负责项目功能需求分析，独立编写测试方案、测试计划、测试用例和测试报告；\n2、管理游戏缺陷，推动游戏缺陷的解决；\n3、移动客户端应用（Android/IOS）的功能、性能、兼容性测试并完成测试报告等；\n4、搭建和维护测试环境，完成测试服务器的部署工作；\n5、存在至少一款卡牌项目经验\n\n岗位要求：\n1、熟练掌握软件测试理论和方法；\n2、熟悉游戏测试流程，能够熟练编写测试用例；\n3、拥有较强的责任心，以及优秀的沟通协作意识。\n4、2年以上卡牌游戏测试经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "卡牌",
+            "丰富的游戏经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0446ff09e95ba64a76395e5d1271ab70"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UOXZ3EdwrsnLR-x1omjpQle87ZWY16Lp9QTnmh6zxbDMNLu1A3t3XBPOPgoTFuWibXA9GO3mVB8lCPLjx2LUYeGBdJ7eyN7qM9gCfC9HZ7hLt9xHKaXdWNhxxGfIFHh0Wo8eg9sU27U~",
+    "selfAccess": false,
+    "sessionId": null
 }

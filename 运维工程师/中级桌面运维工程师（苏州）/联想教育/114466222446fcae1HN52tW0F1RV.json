@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SI3qkVtAyQ0iP-E1skFQT0u-1r04aqjnlrxE9t0iJhVTu66d50oofQWtcpHYC2dAM18DWBL_eP4zMiRvzBYq7dM5GTwLaiGYnWHyC_aLAU6PlW8ewU8qLSOArI7Bs_siiz7tDarjObMK27joBxyl8A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "114466222446fcae1HN52tW0F1RV",
-      "encryptUserId": "a99a3e3a0f70f8fa03V429u4Els~",
-      "invalidStatus": false,
-      "jobName": "中级桌面运维工程师（苏州）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "负责对用户报障的IT终端设备软硬件维护和保修工作：\n1)\tIT终端运维服务：\n\t按业务单位规范要求，完成办公区域或园区产线上IT终端设备的系统、程序、驱动等安装、配置或故障处理。对于超出一线范围的，升级与跟踪二线或产品闭环解决。\n\t对于非常规的突发故障如批量终端安全事件、影响业务生产或重大敏感突发事件，提供紧急或现场支持服务；\n2)\t新申领终端设备的验收、预装、分发和系统标准化配置及盘点\n\tIT资产清退：出具检测报告评估是否达到(报废)清退条件，对于清退PC进行数据清除；\n\t协助派驻单位管理IT终端资产，包括资产回收，维护、及二次发放。\n\t资产盘点每年需要协助甲方进行两次全面盘点。\n3)\t基础网络运维服务：终端网络维护（含产线网络）：\n1、大专全日制专业毕业并具有1年及以上相关工作经验；\n2、良好的团队合作精神和沟通能力；\n3、掌握终端电脑\\外设软硬件，接入层网络故障处理技能；熟悉ITSM服务管理工具的使用；\n4、有责任心和奉献精神、能吃苦耐劳、能适应加班\n5、有同类大型企业运维经验优先。\n\t负责处理终端设备网络连接服务，含网卡驱动、IP地址获取等方面的终端PC维护；\n\t负责处理终端设备所连接的接入层网络故障判断等日常维护与事件升级工作。\n\t协助甲方管理员，对网络建设的工作协调和跟进；协助园区网络二线对节点网络机房（单独驻场园区含汇聚机房）定期巡检，常规性问题协调业务单位处理（例如：卫生等问题）",
-      "encryptAddressId": "b8ece1336a2b5b571nRy0t29E1NZwY69WPue",
-      "address": "苏州相城区江苏美的清洁电器股份有限公司1",
-      "longitude": 120.589909,
-      "latitude": 31.456646,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf347f4415d64e02cc4805d8dfcd4810f76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfc5273609e3dfd156d0aa5a3e11b5b71a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "桌面运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221118/607f1f3d68754fd010c2b8d4464bb8a5aff6a61ea72ff5fc4fafab7c499f3c9f50c37960aff_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "联想教育",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "56a713940785ef451Hd-3NS1Fw~~",
-      "brandName": "联想教育",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210802/e6ee02795edf4c299e822ce89a26fe9fcb2e63906db03f8c0facd9dfaae759d9.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "联想集团（下称联想）是一家成立于中国、业务遍及180个市场的全球化科技公司。联想聚焦全球化发展，树立了行业领先的多元企业文化和运营模式典范，服务全球超过10亿用户。作为值得信赖的全球科技企业领导者，联想助力客户，把握明日科技，变革今日世界。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "免费班车",
-        "餐补",
-        "通讯补贴",
-        "交通补助"
-      ],
-      "activeTime": 1729819741405,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "联想教育",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "联想教育",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221118/607f1f3d68754fd010c2b8d4464bb8a5aff6a61ea72ff5fc4fafab7c499f3c9f50c37960aff_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729819741405,
+        "brandName": "联想教育",
+        "customerBrandName": "联想教育",
+        "customerBrandStageName": "",
+        "encryptBrandId": "56a713940785ef451Hd-3NS1Fw~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "联想集团（下称联想）是一家成立于中国、业务遍及180个市场的全球化科技公司。联想聚焦全球化发展，树立了行业领先的多元企业文化和运营模式典范，服务全球超过10亿用户。作为值得信赖的全球科技企业领导者，联想助力客户，把握明日科技，变革今日世界。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "免费班车",
+            "餐补",
+            "通讯补贴",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210802/e6ee02795edf4c299e822ce89a26fe9fcb2e63906db03f8c0facd9dfaae759d9.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州相城区江苏美的清洁电器股份有限公司1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b8ece1336a2b5b571nRy0t29E1NZwY69WPue",
+        "encryptId": "114466222446fcae1HN52tW0F1RV",
+        "encryptUserId": "a99a3e3a0f70f8fa03V429u4Els~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "中级桌面运维工程师（苏州）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.456646,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.589909,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfc5273609e3dfd156d0aa5a3e11b5b71a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "负责对用户报障的IT终端设备软硬件维护和保修工作：\n1)\tIT终端运维服务：\n\t按业务单位规范要求，完成办公区域或园区产线上IT终端设备的系统、程序、驱动等安装、配置或故障处理。对于超出一线范围的，升级与跟踪二线或产品闭环解决。\n\t对于非常规的突发故障如批量终端安全事件、影响业务生产或重大敏感突发事件，提供紧急或现场支持服务；\n2)\t新申领终端设备的验收、预装、分发和系统标准化配置及盘点\n\tIT资产清退：出具检测报告评估是否达到(报废)清退条件，对于清退PC进行数据清除；\n\t协助派驻单位管理IT终端资产，包括资产回收，维护、及二次发放。\n\t资产盘点每年需要协助甲方进行两次全面盘点。\n3)\t基础网络运维服务：终端网络维护（含产线网络）：\n1、大专全日制专业毕业并具有1年及以上相关工作经验；\n2、良好的团队合作精神和沟通能力；\n3、掌握终端电脑\\外设软硬件，接入层网络故障处理技能；熟悉ITSM服务管理工具的使用；\n4、有责任心和奉献精神、能吃苦耐劳、能适应加班\n5、有同类大型企业运维经验优先。\n\t负责处理终端设备网络连接服务，含网卡驱动、IP地址获取等方面的终端PC维护；\n\t负责处理终端设备所连接的接入层网络故障判断等日常维护与事件升级工作。\n\t协助甲方管理员，对网络建设的工作协调和跟进；协助园区网络二线对节点网络机房（单独驻场园区含汇聚机房）定期巡检，常规性问题协调业务单位处理（例如：卫生等问题）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "网络运维",
+            "桌面运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf347f4415d64e02cc4805d8dfcd4810f76bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SI3qkVtAyQ0iP-E1skFQT0u-1r04aqjnlrxE9t0iJhVTu66d50oofQWtcpHYC2dAM18DWBL_eP4zMiRvzBYq7dM5GTwLaiGYnWHyC_aLAU6PlW8ewU8qLSOArI7Bs_siiz7tDarjObMK27joBxyl8A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

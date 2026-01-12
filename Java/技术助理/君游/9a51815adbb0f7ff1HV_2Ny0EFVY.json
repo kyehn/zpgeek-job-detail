@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vC6UzQjhMCZ0J-a14JjJLzJ-w-jaNUfXssMr86BIWru_s0FzytsTB7_Uf3aMXlp9jnlicCEpOjoF_1dWnNZD4rlHUMwwuvOHpNZaST09623otnXJNet9sIHpEMBY-9p3DfW8KEAgc2Mjg7cD8IygGYKT-dryng~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9a51815adbb0f7ff1HV_2Ny0EFVY",
-      "encryptUserId": "ee01ae73469a00cc0nV53Nu1FldT",
-      "invalidStatus": false,
-      "jobName": "技术助理",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190800,
-      "locationName": "徐州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "有扎实的java编程基础，可完成基础的编程需求，对游戏有足够兴趣，并愿意在游戏行业深耕",
-      "encryptAddressId": "6e1e0f33eb21cab80XN7396-GFo~",
-      "address": "徐州睢宁县睢宁金泰尚城商务楼",
-      "longitude": 117.952664,
-      "latitude": 33.913397,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2c1b68f93a1b282c4e2c7e8abd42a62f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/31ff0ead03e527ae858dab99ba127f36",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "不接受居家办公"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210117/e7350cd8601aad275e514e31b92cb99f0734b539a5193adf05b745ba324_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "君游",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d9113f589581149c1XZ43NS1Flc~",
-      "brandName": "君游",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "睢宁顶级高新技术网络科技公司，位于新城区CBD，周边交通便利配套齐全，顶级轻奢写字楼，办公环境优雅，丰富营养三餐，包餐包住。\n公司致力于移动端手游项目研运一体，主营传奇类手游研发和运营，以及巨量系直播间和信息流投放，目前上线项目月流水超500万，参与项目的主策，技术等人员综合月薪已达5万+，团队已趋向成熟并稳定盈利。\n下阶段公司将对标国内手游市场一线产品，急需扩大规模、扩招队伍编制，我们招贤纳士、求贤若渴，欢迎有能力、有理想、有干劲的有志之士加入，我为你选好赛道，你与我共创辉煌，我们在睢宁等你！",
-      "labels": [
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1741929315399,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "君游",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "君游",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210117/e7350cd8601aad275e514e31b92cb99f0734b539a5193adf05b745ba324_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1741929315399,
+        "brandName": "君游",
+        "customerBrandName": "君游",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d9113f589581149c1XZ43NS1Flc~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "睢宁顶级高新技术网络科技公司，位于新城区CBD，周边交通便利配套齐全，顶级轻奢写字楼，办公环境优雅，丰富营养三餐，包餐包住。\n公司致力于移动端手游项目研运一体，主营传奇类手游研发和运营，以及巨量系直播间和信息流投放，目前上线项目月流水超500万，参与项目的主策，技术等人员综合月薪已达5万+，团队已趋向成熟并稳定盈利。\n下阶段公司将对标国内手游市场一线产品，急需扩大规模、扩招队伍编制，我们招贤纳士、求贤若渴，欢迎有能力、有理想、有干劲的有志之士加入，我为你选好赛道，你与我共创辉煌，我们在睢宁等你！",
+        "labels": [
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "徐州睢宁县睢宁金泰尚城商务楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "6e1e0f33eb21cab80XN7396-GFo~",
+        "encryptId": "9a51815adbb0f7ff1HV_2Ny0EFVY",
+        "encryptUserId": "ee01ae73469a00cc0nV53Nu1FldT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 33.913397,
+        "location": 101190800,
+        "locationName": "徐州",
+        "longitude": 117.952664,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/31ff0ead03e527ae858dab99ba127f36",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "有扎实的java编程基础，可完成基础的编程需求，对游戏有足够兴趣，并愿意在游戏行业深耕",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "不接受居家办公"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2c1b68f93a1b282c4e2c7e8abd42a62f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vC6UzQjhMCZ0J-a14JjJLzJ-w-jaNUfXssMr86BIWru_s0FzytsTB7_Uf3aMXlp9jnlicCEpOjoF_1dWnNZD4rlHUMwwuvOHpNZaST09623otnXJNet9sIHpEMBY-9p3DfW8KEAgc2Mjg7cD8IygGYKT-dryng~~",
+    "selfAccess": false,
+    "sessionId": null
 }

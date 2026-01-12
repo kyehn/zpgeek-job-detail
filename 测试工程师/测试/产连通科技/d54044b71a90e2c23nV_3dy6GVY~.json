@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "itJeoGnQUpUHE-k1c_C7dNEnFuP97VFlU2T2M_86dphUrYG7daILlvjwGoWkG5yIQyKlL85OPY1UI_DhIuElnZqC5WocqZlMOT8fVKufMqgvs13Z03eLQfixoas1lha-0UPodnPYBJ3psQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d54044b71a90e2c23nV_3dy6GVY~",
-      "encryptUserId": "474276349bd913021nZ60tW4GVBT",
-      "invalidStatus": false,
-      "jobName": "测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-2K",
-      "payTypeDesc": null,
-      "postDescription": "1、掌握测试案例设计的各种方法。\n2、具有良好的沟通交流能力，能理解开发团队、产品团队的专业术语。\n3、有使用常规压力测试工具进行压力测试的经验，对压力测试结论进行分析的能力\n4、了解信贷领域的常见业务模式。\"",
-      "encryptAddressId": "f5d44817a89e712c1Hd70tq1FlA~",
-      "address": "杭州滨江区连连大厦A幢1单元402室",
-      "longitude": 120.186724,
-      "latitude": 30.187739,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1340b86fca6ab3ce6c0432ea0838cd3c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75ef1c296fec280e23370c4040da91a4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "压力测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "葛女士",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "产连通科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1c9fb286ed930b501nRz2dW5FVU~",
-      "brandName": "产连通科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100206,
-      "industryName": "互联网金融",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725480496307,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "产连通科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "产连通科技",
+        "certificated": true,
+        "large": null,
+        "name": "葛女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1725480496307,
+        "brandName": "产连通科技",
+        "customerBrandName": "产连通科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1c9fb286ed930b501nRz2dW5FVU~",
+        "focusBrand": false,
+        "industry": 100206,
+        "industryName": "互联网金融",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区连连大厦A幢1单元402室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f5d44817a89e712c1Hd70tq1FlA~",
+        "encryptId": "d54044b71a90e2c23nV_3dy6GVY~",
+        "encryptUserId": "474276349bd913021nZ60tW4GVBT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.187739,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.186724,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75ef1c296fec280e23370c4040da91a4",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、掌握测试案例设计的各种方法。\n2、具有良好的沟通交流能力，能理解开发团队、产品团队的专业术语。\n3、有使用常规压力测试工具进行压力测试的经验，对压力测试结论进行分析的能力\n4、了解信贷领域的常见业务模式。\"",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-2K",
+        "showSkills": [
+            "性能测试",
+            "压力测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1340b86fca6ab3ce6c0432ea0838cd3c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "itJeoGnQUpUHE-k1c_C7dNEnFuP97VFlU2T2M_86dphUrYG7daILlvjwGoWkG5yIQyKlL85OPY1UI_DhIuElnZqC5WocqZlMOT8fVKufMqgvs13Z03eLQfixoas1lha-0UPodnPYBJ3psQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

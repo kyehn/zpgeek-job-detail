@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "udrKEGIv3is8C-e13v6SnOWxsNFZ4hF3rwYZtYMCfz2ToaK2n1gnUqjMyfSRsb32VE0X3qpQoHSwv8to3bIAcVu1V9rwMRULr_RaiqGDZxwl_tNhngvj",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "494480f0402d751f1nFy29S8FVFR",
-      "encryptUserId": "adf5b8cd65ba2e091nZ529-6F1NY",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作职责\n\n1、参与现有功能模块的需求分析及文档编写；\n2、根据需求文档，负责基本功能模块的设计文档编写、代码实现、调试验证；\n3、对功能模块提出改进和创新建议；\n4、总结产品设计开发所遵循的关键步骤和任务要领并输出文档。\n\n\n任职资格\n1、本科及以上学历，计算机、电子、通讯类相关专业，英语CET-4以上；\n2、掌握基础的硬件知识以及C、ARM汇编语言；\n3、思维敏捷，动身能力强，有责任心，具备良好的团队合作精神；",
-      "encryptAddressId": "6b2f766d43a8c67003F939-_GVI~",
-      "address": "杭州西湖区文新数字产业园竞舟路228号",
-      "longitude": 120.104442,
-      "latitude": 30.284572,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b36e8a81cbaa9c43cdf1dea8dc5815b3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7597c586a592509126cae4be6064ff12",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "嵌入式技术",
-        "软件工程师",
-        "Linux",
-        "VC++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "宇铂光电",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6af60d5312dd0b4a1nd92tu_GFA~",
-      "brandName": "宇铂光电",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725371046236,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宇铂光电",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宇铂光电",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725371046236,
+        "brandName": "宇铂光电",
+        "customerBrandName": "宇铂光电",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6af60d5312dd0b4a1nd92tu_GFA~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州西湖区文新数字产业园竞舟路228号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6b2f766d43a8c67003F939-_GVI~",
+        "encryptId": "494480f0402d751f1nFy29S8FVFR",
+        "encryptUserId": "adf5b8cd65ba2e091nZ529-6F1NY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.284572,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.104442,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7597c586a592509126cae4be6064ff12",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "工作职责\n\n1、参与现有功能模块的需求分析及文档编写；\n2、根据需求文档，负责基本功能模块的设计文档编写、代码实现、调试验证；\n3、对功能模块提出改进和创新建议；\n4、总结产品设计开发所遵循的关键步骤和任务要领并输出文档。\n\n\n任职资格\n1、本科及以上学历，计算机、电子、通讯类相关专业，英语CET-4以上；\n2、掌握基础的硬件知识以及C、ARM汇编语言；\n3、思维敏捷，动身能力强，有责任心，具备良好的团队合作精神；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K·13薪",
+        "showSkills": [
+            "嵌入式技术",
+            "软件工程师",
+            "Linux",
+            "VC++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b36e8a81cbaa9c43cdf1dea8dc5815b3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "udrKEGIv3is8C-e13v6SnOWxsNFZ4hF3rwYZtYMCfz2ToaK2n1gnUqjMyfSRsb32VE0X3qpQoHSwv8to3bIAcVu1V9rwMRULr_RaiqGDZxwl_tNhngvj",
+    "selfAccess": false,
+    "sessionId": null
 }

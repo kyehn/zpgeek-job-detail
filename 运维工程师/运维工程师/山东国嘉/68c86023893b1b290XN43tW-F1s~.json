@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xafwol5DFGQkN-41aEnCQ3zJ6KcwNR-6-sQi42xrkt1SGmEaxhaXlzTJC7HE64FdRFkicAzKPHMP1sfdUqz3mO1RROP_6EXZWD-H5E55wOi6XVwr",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "68c86023893b1b290XN43tW-F1s~",
-      "encryptUserId": "8ba7b9cddc8a2b5a0HJ-3ti7ElU~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101121100,
-      "locationName": "滨州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "运维工程师招聘要求\n1.熟悉石油化工企业的运行模式流程。有化工企业工作经验，CEMS运维工程师优先考虑。\n2.仪器仪表、工业电气自动化等相关专业，有2年以上的CEMS运维经验。\n3.能实地解决CEMS运维过程中出现的各种故障。\n4.熟悉在线监测设备维修及运营维护。\n5.身体健康，吃苦耐劳，有团队精神，烟气运维人员应适应登高作业环境（平台），适应CEMS运维的工作时效性的特点。",
-      "encryptAddressId": "fd0c272f71d3528a1XNy0t-_ElE~",
-      "address": "滨州博兴县山东博昌仓储物流有限公司",
-      "longitude": 118.184015,
-      "latitude": 37.105005,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fab8e63e178a662769b143493d8314dd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2341faa07b4e73192d0414e2a3da5a8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维工程师",
-        "运维监控",
-        "安全运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "山东国嘉",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "97a98916832da4d40n182dm6EA~~",
-      "brandName": "山东国嘉",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100606,
-      "industryName": "检测/认证",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727375877399,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东国嘉",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东国嘉",
+        "certificated": true,
+        "large": null,
+        "name": "吴先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727375877399,
+        "brandName": "山东国嘉",
+        "customerBrandName": "山东国嘉",
+        "customerBrandStageName": "",
+        "encryptBrandId": "97a98916832da4d40n182dm6EA~~",
+        "focusBrand": false,
+        "industry": 100606,
+        "industryName": "检测/认证",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "滨州博兴县山东博昌仓储物流有限公司",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fd0c272f71d3528a1XNy0t-_ElE~",
+        "encryptId": "68c86023893b1b290XN43tW-F1s~",
+        "encryptUserId": "8ba7b9cddc8a2b5a0HJ-3ti7ElU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.105005,
+        "location": 101121100,
+        "locationName": "滨州",
+        "longitude": 118.184015,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2341faa07b4e73192d0414e2a3da5a8",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "运维工程师招聘要求\n1.熟悉石油化工企业的运行模式流程。有化工企业工作经验，CEMS运维工程师优先考虑。\n2.仪器仪表、工业电气自动化等相关专业，有2年以上的CEMS运维经验。\n3.能实地解决CEMS运维过程中出现的各种故障。\n4.熟悉在线监测设备维修及运营维护。\n5.身体健康，吃苦耐劳，有团队精神，烟气运维人员应适应登高作业环境（平台），适应CEMS运维的工作时效性的特点。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "运维工程师",
+            "运维监控",
+            "安全运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fab8e63e178a662769b143493d8314dd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xafwol5DFGQkN-41aEnCQ3zJ6KcwNR-6-sQi42xrkt1SGmEaxhaXlzTJC7HE64FdRFkicAzKPHMP1sfdUqz3mO1RROP_6EXZWD-H5E55wOi6XVwr",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "LkGO8n7p6XrXs-X1HXMCnSENBNl8bNw_pFpjsLx24jGip8m-eCQQZq2EJf4Y37-xggu8MsrI0yL3eCNMzqVT9bYz2epJ4BAQAZ5zGo9-DNwxF8WNvg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dbb09af3a8eaacc31nZ53NS-EFRV",
-      "encryptUserId": "352565a54072fc241HZ_3dm0FFs~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101290100,
-      "locationName": "昆明",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.协助项目经理，完成公司软件的实施交付：系统安装、调试、培训系统、到系统上线、使用指导，到最后验收离场；\n2.向客户提供产品技术支持，解答软件应用技术问题，收集分析客户需求。\n任职资格：\n1.计算机专业等相关职业，大专以上学历，熟悉SQLServer或Oracle;\n2.具有良好的沟通能力和理解能力，能够挖掘用户需求，提出解决方案；\n3.具备良好的职业道德和素养，工作态度：积极、主动，责任心强。能适应长期出差和适度加班；\n4.有医疗医药软件行业经验、项目管理经验或医疗客户资源者优先。",
-      "encryptAddressId": "f39120231d138bb81HVy3960FVI~",
-      "address": "昆明盘龙区金江小区融苑9-1",
-      "longitude": 102.741857,
-      "latitude": 25.105358,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e11bc4a56e69ebc6e835d9843061220e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dcc46c8fe49c2806ad575e1b2775dd3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Oracle",
-        "SQLServer",
-        "硬件实施",
-        "软件实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "罗女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171116/78f08912ef458b4aebe87c834ad0496e64c02f44bb40f7af94a86643cc1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "铺木",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1492b41ed5a1a10a1XF42NW1EA~~",
-      "brandName": "铺木",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725011767894,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "铺木",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "铺木",
+        "certificated": true,
+        "large": null,
+        "name": "罗女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171116/78f08912ef458b4aebe87c834ad0496e64c02f44bb40f7af94a86643cc1_b.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1725011767894,
+        "brandName": "铺木",
+        "customerBrandName": "铺木",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1492b41ed5a1a10a1XF42NW1EA~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "昆明盘龙区金江小区融苑9-1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f39120231d138bb81HVy3960FVI~",
+        "encryptId": "dbb09af3a8eaacc31nZ53NS-EFRV",
+        "encryptUserId": "352565a54072fc241HZ_3dm0FFs~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 25.105358,
+        "location": 101290100,
+        "locationName": "昆明",
+        "longitude": 102.741857,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dcc46c8fe49c2806ad575e1b2775dd3",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1.协助项目经理，完成公司软件的实施交付：系统安装、调试、培训系统、到系统上线、使用指导，到最后验收离场；\n2.向客户提供产品技术支持，解答软件应用技术问题，收集分析客户需求。\n任职资格：\n1.计算机专业等相关职业，大专以上学历，熟悉SQLServer或Oracle;\n2.具有良好的沟通能力和理解能力，能够挖掘用户需求，提出解决方案；\n3.具备良好的职业道德和素养，工作态度：积极、主动，责任心强。能适应长期出差和适度加班；\n4.有医疗医药软件行业经验、项目管理经验或医疗客户资源者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "Oracle",
+            "SQLServer",
+            "硬件实施",
+            "软件实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e11bc4a56e69ebc6e835d9843061220e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "LkGO8n7p6XrXs-X1HXMCnSENBNl8bNw_pFpjsLx24jGip8m-eCQQZq2EJf4Y37-xggu8MsrI0yL3eCNMzqVT9bYz2epJ4BAQAZ5zGo9-DNwxF8WNvg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7qmicEZ5Nzsj2-01D3PFZAaVp0rNP-wgEDo-7KRd4EzC0epU5kH8R-3sTFky-SutOFnyMRSM5yUIc-TlWbSfBhTN9KPw7LmVgp3qA3nM_ltV4kku5lZBLTpYTD4ZnLHL3w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f52d2e73ad1555181XV_0t-9FVRQ",
-      "encryptUserId": "42084d65d786eead0nxz09m-ElE~",
-      "invalidStatus": false,
-      "jobName": "图文广告制作",
-      "position": 170109,
-      "positionName": "印刷排版",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.数码快印印前排版\n2.熟悉图文类软件和数码快印设备\n3.数码快印后道加工装订",
-      "encryptAddressId": "5707c6306ec7bd68031y3tu_ElA~",
-      "address": "南京雨花台区赛虹桥商会大厦一栋1楼116",
-      "longitude": 118.750702,
-      "latitude": 31.994667,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e1df4296f8e04246cd0799ab3712a85",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c35f1cf1fa8938f26309d2e4fdee7f9f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全职",
-        "数码快印"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "麻先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "南京中舜文化传播...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c14853bf3fed21151XR53tu8FVE~",
-      "brandName": "南京中舜文化传播...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733979591669,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京中舜文化传播...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京中舜文化传播...",
+        "certificated": true,
+        "large": null,
+        "name": "麻先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1733979591669,
+        "brandName": "南京中舜文化传播...",
+        "customerBrandName": "南京中舜文化传播...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c14853bf3fed21151XR53tu8FVE~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区赛虹桥商会大厦一栋1楼116",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5707c6306ec7bd68031y3tu_ElA~",
+        "encryptId": "f52d2e73ad1555181XV_0t-9FVRQ",
+        "encryptUserId": "42084d65d786eead0nxz09m-ElE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "图文广告制作",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.994667,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.750702,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c35f1cf1fa8938f26309d2e4fdee7f9f",
+        "position": 170109,
+        "positionName": "印刷排版",
+        "postDescription": "1.数码快印印前排版\n2.熟悉图文类软件和数码快印设备\n3.数码快印后道加工装订",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "全职",
+            "数码快印"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e1df4296f8e04246cd0799ab3712a85"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7qmicEZ5Nzsj2-01D3PFZAaVp0rNP-wgEDo-7KRd4EzC0epU5kH8R-3sTFky-SutOFnyMRSM5yUIc-TlWbSfBhTN9KPw7LmVgp3qA3nM_ltV4kku5lZBLTpYTD4ZnLHL3w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "D8hMZc9pNwuld-l1lEp22Gwrh_DUVuRIfWzgkSFyZcA7vlmvVS9zjxaRlSFV6XB1pvwJy_2Rfz9DaCdyorYeBhHseSKyU-5MV9naJdswHgd9bNAdazFiiAkbsF9MLeFevQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3fd1fc96674cf12a1H1-3d68EFVQ",
-      "encryptUserId": "757db5cefe0e55260X143Nm6GFs~",
-      "invalidStatus": false,
-      "jobName": "前端工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "前端web开发工程师\n职位详情\nJava，HTML5，Vue，前端开发经验\n公司产品：\n主要用于企业展厅、场馆、会所等场所，解决客户咨询、产品介绍、展览展示等\n岗位职责：\n以vue技术栈为核心，参与公司各产品、各项目的PC端、移动端、小程序前端研发工作。\n任职要求\n1. 大专或以上学历，软件工程、计算机、数学等相关专业；\n2.有1年经验，2个以上的完整项目经验;\n3. 熟悉JavaScript、HTML 5、CSS的前端编程基础；\n4. 熟练掌握Vue， Element-Ul(或vue-element-admin或uview)、uniapp等\n5. 掌握常见的前端适配方法、错误调试方法、性能优化方法",
-      "encryptAddressId": "5ca329596638af0a1ndy3dy9F1RTy4i7VviW",
-      "address": "深圳宝安区创维创新谷2B北区629",
-      "longitude": 113.922827,
-      "latitude": 22.642019,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf2808cf090fb85203275875cf136add576bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bff4a3355d7e05d391f4638b6c711c5bc46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "JavaScript",
-        "Vue"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "闫女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241025/607f1f3d68754fd0d08cd895c403342c05898e2bf7bce6cb8069a808d90e2fec424924910fe8686_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "含道映物科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "01044040fd74832b1HZ_09y0Elc~",
-      "brandName": "含道映物科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240621/7bf6f160950405e9d156af9d3cafe32a789a7841f70e161e3b62f76ea43fd2f80389aeef17959ce3.png.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "我们的团队，数字幻境的全维造梦者，汇集各领域的资深专家，包括导演、创意文案师、动画与特效师、UE/UNITY和C语言工程师。专注于电影动画、多媒体交互开发和数字孪生技术，我们提供顶尖的影视动画开发、基于最新硬件产品的创新解决方案和先进的多媒体交互能力。\n“含道映物”，我们的名字和使命，代表我们谦逊追求卓越的理念，致力于为客户和合作伙伴创造更大的价值。作为您的信赖合作伙伴，我们致力于打造独一无二的视觉艺术体验，携手共创美好未来。",
-      "labels": [
-        "有无线网",
-        "团建聚餐",
-        "零食下午茶",
-        "员工旅游",
-        "带薪年假",
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1734536334496,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "含道映物科技有限公司",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "含道映物科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "闫女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241025/607f1f3d68754fd0d08cd895c403342c05898e2bf7bce6cb8069a808d90e2fec424924910fe8686_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734536334496,
+        "brandName": "含道映物科技有限公司",
+        "customerBrandName": "含道映物科技有限公司",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "01044040fd74832b1HZ_09y0Elc~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "我们的团队，数字幻境的全维造梦者，汇集各领域的资深专家，包括导演、创意文案师、动画与特效师、UE/UNITY和C语言工程师。专注于电影动画、多媒体交互开发和数字孪生技术，我们提供顶尖的影视动画开发、基于最新硬件产品的创新解决方案和先进的多媒体交互能力。\n“含道映物”，我们的名字和使命，代表我们谦逊追求卓越的理念，致力于为客户和合作伙伴创造更大的价值。作为您的信赖合作伙伴，我们致力于打造独一无二的视觉艺术体验，携手共创美好未来。",
+        "labels": [
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "员工旅游",
+            "带薪年假",
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240621/7bf6f160950405e9d156af9d3cafe32a789a7841f70e161e3b62f76ea43fd2f80389aeef17959ce3.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区创维创新谷2B北区629",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "5ca329596638af0a1ndy3dy9F1RTy4i7VviW",
+        "encryptId": "3fd1fc96674cf12a1H1-3d68EFVQ",
+        "encryptUserId": "757db5cefe0e55260X143Nm6GFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "前端工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.642019,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.922827,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bff4a3355d7e05d391f4638b6c711c5bc46bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "前端web开发工程师\n职位详情\nJava，HTML5，Vue，前端开发经验\n公司产品：\n主要用于企业展厅、场馆、会所等场所，解决客户咨询、产品介绍、展览展示等\n岗位职责：\n以vue技术栈为核心，参与公司各产品、各项目的PC端、移动端、小程序前端研发工作。\n任职要求\n1. 大专或以上学历，软件工程、计算机、数学等相关专业；\n2.有1年经验，2个以上的完整项目经验;\n3. 熟悉JavaScript、HTML 5、CSS的前端编程基础；\n4. 熟练掌握Vue， Element-Ul(或vue-element-admin或uview)、uniapp等\n5. 掌握常见的前端适配方法、错误调试方法、性能优化方法",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "JavaScript",
+            "Vue"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf2808cf090fb85203275875cf136add576bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "D8hMZc9pNwuld-l1lEp22Gwrh_DUVuRIfWzgkSFyZcA7vlmvVS9zjxaRlSFV6XB1pvwJy_2Rfz9DaCdyorYeBhHseSKyU-5MV9naJdswHgd9bNAdazFiiAkbsF9MLeFevQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

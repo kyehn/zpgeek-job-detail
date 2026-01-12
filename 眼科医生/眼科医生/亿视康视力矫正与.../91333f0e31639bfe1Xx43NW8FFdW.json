@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FA0BSOKcbRoiZ-n1WCILIXNgPgbc6ykv-e-9To4S6LZZluFkmt0N19v44iCXXhu_lV8y1m_BoqB8GErhw8_t2dsLsf_KFL0OmXxysLaQ-9VWvsbwIXg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "91333f0e31639bfe1Xx43NW8FFdW",
-      "encryptUserId": "a625b6716e41b8671XJ43d67GFY~",
-      "invalidStatus": false,
-      "jobName": "眼科医生",
-      "position": 210312,
-      "positionName": "眼科医生",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "验光师，懂验光配镜。\n懂视功能\n会眼镜销售人员10名",
-      "encryptAddressId": "ff8671b9af7b88e91XR52dW_FFE~",
-      "address": "深圳龙岗区远洋新干线2期10栋121",
-      "longitude": 114.263712,
-      "latitude": 22.718587,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c179a80859e1656b6c491da6ce29085",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/43a3028108c6ab27dfa8d579f18807a6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "验光 眼镜销售 儿推"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200524/4363d866f1f92fddb55e05e06f5bff112c39028265735027c1a58854c9b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "亿视康视力矫正与...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c9aaa0fc9b936b611n173Nq7EVY~",
-      "brandName": "亿视康视力矫正与...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727791019972,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "亿视康视力矫正与...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "亿视康视力矫正与...",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200524/4363d866f1f92fddb55e05e06f5bff112c39028265735027c1a58854c9b_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1727791019972,
+        "brandName": "亿视康视力矫正与...",
+        "customerBrandName": "亿视康视力矫正与...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c9aaa0fc9b936b611n173Nq7EVY~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区远洋新干线2期10栋121",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ff8671b9af7b88e91XR52dW_FFE~",
+        "encryptId": "91333f0e31639bfe1Xx43NW8FFdW",
+        "encryptUserId": "a625b6716e41b8671XJ43d67GFY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "眼科医生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.718587,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.263712,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/43a3028108c6ab27dfa8d579f18807a6",
+        "position": 210312,
+        "positionName": "眼科医生",
+        "postDescription": "验光师，懂验光配镜。\n懂视功能\n会眼镜销售人员10名",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K·13薪",
+        "showSkills": [
+            "验光 眼镜销售 儿推"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c179a80859e1656b6c491da6ce29085"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FA0BSOKcbRoiZ-n1WCILIXNgPgbc6ykv-e-9To4S6LZZluFkmt0N19v44iCXXhu_lV8y1m_BoqB8GErhw8_t2dsLsf_KFL0OmXxysLaQ-9VWvsbwIXg~",
+    "selfAccess": false,
+    "sessionId": null
 }

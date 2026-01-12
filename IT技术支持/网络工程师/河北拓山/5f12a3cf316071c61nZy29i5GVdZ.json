@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "oa8rmAUBbTC83-41tleZeItXQTmcDnxB2j2OP7KmhTgoEEKsWKDAEcvzIs1McYA0xR0GMviw66vdeW_9Yf3SqS2Bk2XM0PZ7TbSsfVZX024JSdc2g81F",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5f12a3cf316071c61nZy29i5GVdZ",
-      "encryptUserId": "4f3ad764ee3c876c0nZ729m4FFJW",
-      "invalidStatus": false,
-      "jobName": "网络工程师",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101091000,
-      "locationName": "邯郸",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责客户IT相关的基础运维工作（要求具备基础网络知识）\n2、根据服务请求完成关于操作系统、应用软件、打印系统、网络、办公设备等方面的安装、管理、维护；\n3、解决排除各种硬件故障，定期升级系统，保证系统顺利运行；\n4、桌面设备（台式机、笔记本、打印机）安装、调试、配置及维护\n5、定期检测网络及IT设备，保证设备正常运行\n6、本公司提供入职培训（网络基础，日常运维所需知识）\r\n\r\n职位招聘1-3人",
-      "encryptAddressId": "5d58d2762359449d03V83d--EFM~",
-      "address": "邯郸邯山区滏瑞特·时代广场A座2211",
-      "longitude": 114.507763,
-      "latitude": 36.586944,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2345949eb3ac7cea2e4b4dd12af4ee90",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b393d14604d4bacec8d49fd0cdf4ad4c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT服务",
-        "计算机软件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "河北拓山",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0d206720122f113f1nB82dS6EVA~",
-      "brandName": "河北拓山",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725222945902,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河北拓山",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "河北拓山",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725222945902,
+        "brandName": "河北拓山",
+        "customerBrandName": "河北拓山",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0d206720122f113f1nB82dS6EVA~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "邯郸邯山区滏瑞特·时代广场A座2211",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5d58d2762359449d03V83d--EFM~",
+        "encryptId": "5f12a3cf316071c61nZy29i5GVdZ",
+        "encryptUserId": "4f3ad764ee3c876c0nZ729m4FFJW",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 36.586944,
+        "location": 101091000,
+        "locationName": "邯郸",
+        "longitude": 114.507763,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b393d14604d4bacec8d49fd0cdf4ad4c",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "1、负责客户IT相关的基础运维工作（要求具备基础网络知识）\n2、根据服务请求完成关于操作系统、应用软件、打印系统、网络、办公设备等方面的安装、管理、维护；\n3、解决排除各种硬件故障，定期升级系统，保证系统顺利运行；\n4、桌面设备（台式机、笔记本、打印机）安装、调试、配置及维护\n5、定期检测网络及IT设备，保证设备正常运行\n6、本公司提供入职培训（网络基础，日常运维所需知识）\r\n\r\n职位招聘1-3人",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "IT服务",
+            "计算机软件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2345949eb3ac7cea2e4b4dd12af4ee90"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "oa8rmAUBbTC83-41tleZeItXQTmcDnxB2j2OP7KmhTgoEEKsWKDAEcvzIs1McYA0xR0GMviw66vdeW_9Yf3SqS2Bk2XM0PZ7TbSsfVZX024JSdc2g81F",
+    "selfAccess": false,
+    "sessionId": null
 }

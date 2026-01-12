@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "q1WGONfQ2LuNP-t1nW04vVbZWiZH_RP5UF0wG9GXUu6K-2ijTxNQ1no6r1FIHvUesW6DIolwaTvImTjEQ1zS6h06L0-nubmjgZPDFoL3CtQXn7sPoBbcrXvFOkKf2bj57Aro4PNp3Vm7JbdVqFhdZq-fYTMnZLTdBqru5MyxM6_SWF_0t5c~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "03c59d38d83f487f1H1-3d-8FlpU",
-      "encryptUserId": "29b7e15e3422c2a70XZ52Ny-ElBT",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: 1. 掌握公司产品技术特点、应用领域，关注产品应用和技术改进，与团队沟通反馈；2，负责产品应用的情况，产品应用解决方案的调研、制定、与团队沟通反馈；3公司硬件、软件产品的安装调试，网络布线安装调试，客户培训与项目管控。\n任职要求: 1. 有一定的IT基础、计算机软硬件、网络系统知识，动手能力强。2计算机相关专业，专科以上学历，30岁以内。3. 具备良好的沟通能力和自律能力，有较强的工作责任心团队意识强。4. 有收银设备行业及相关软件工作经验者优先。\n岗位福利：五险",
-      "encryptAddressId": "4cc1883719ce553b1nZz3N66ElJW",
-      "address": "南京玄武区银鸿商务中心A座915室",
-      "longitude": 118.794056,
-      "latitude": 32.048526,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bfd6b200903cc4aee5f5eda99f48616c866bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf78d0c2f5f002b11b6f6dbb6562b63f5e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维",
-        "系统运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "龙女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "南京海越华舰电子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f6ce469d199df32d1HV629i1EVQ~",
-      "brandName": "南京海越华舰电子科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "计算机系统集成、互联网技术、物联网技术开发、收银设备、电子产品、打印机、安防设备销售。",
-      "labels": [
-        "五险一金",
-        "节日福利"
-      ],
-      "activeTime": 1729904924138,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京海越华舰电子科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京海越华舰电子科技",
+        "certificated": true,
+        "large": null,
+        "name": "龙女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729904924138,
+        "brandName": "南京海越华舰电子科技",
+        "customerBrandName": "南京海越华舰电子科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "f6ce469d199df32d1HV629i1EVQ~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "计算机系统集成、互联网技术、物联网技术开发、收银设备、电子产品、打印机、安防设备销售。",
+        "labels": [
+            "五险一金",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京玄武区银鸿商务中心A座915室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4cc1883719ce553b1nZz3N66ElJW",
+        "encryptId": "03c59d38d83f487f1H1-3d-8FlpU",
+        "encryptUserId": "29b7e15e3422c2a70XZ52Ny-ElBT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.048526,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.794056,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bf78d0c2f5f002b11b6f6dbb6562b63f5e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责: 1. 掌握公司产品技术特点、应用领域，关注产品应用和技术改进，与团队沟通反馈；2，负责产品应用的情况，产品应用解决方案的调研、制定、与团队沟通反馈；3公司硬件、软件产品的安装调试，网络布线安装调试，客户培训与项目管控。\n任职要求: 1. 有一定的IT基础、计算机软硬件、网络系统知识，动手能力强。2计算机相关专业，专科以上学历，30岁以内。3. 具备良好的沟通能力和自律能力，有较强的工作责任心团队意识强。4. 有收银设备行业及相关软件工作经验者优先。\n岗位福利：五险",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施交付运维",
+            "系统运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230712/48ba41acc9cef1bfd6b200903cc4aee5f5eda99f48616c866bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "q1WGONfQ2LuNP-t1nW04vVbZWiZH_RP5UF0wG9GXUu6K-2ijTxNQ1no6r1FIHvUesW6DIolwaTvImTjEQ1zS6h06L0-nubmjgZPDFoL3CtQXn7sPoBbcrXvFOkKf2bj57Aro4PNp3Vm7JbdVqFhdZq-fYTMnZLTdBqru5MyxM6_SWF_0t5c~",
+    "selfAccess": false,
+    "sessionId": null
 }

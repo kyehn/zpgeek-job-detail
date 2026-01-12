@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iFiPRSUC8BPq9-N1TKkiCeIV6aZLfJ7gj2KpRnofynTglmhUMgM5cJve9BMmqunGN8GakF1GjtHlU8IeEjN1AA0nI57TxOQERrbrAV7iQfe43G3BTGZjKooUFLFq0Xk_Rke0_GS_UksHSZk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "31c7a14a078e03841Hx72dm4GFBV",
-      "encryptUserId": "290a2f541eeb696f0nF539-0ElRX",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101091100,
-      "locationName": "秦皇岛",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "【运维工程师】1人\n工作内容：市应急局系统运维与日常工作\n要求：\n1 大专及以上学历，计算机、自动化和电子类相关专业毕业。\n2具有其他技术保障运维工作经历，熟悉计算机软硬件系统优先。\n3能值班和较强责任心， 具备良好的沟通能力和团队合作精神。\n4 年龄不超过35岁。",
-      "encryptAddressId": "5fad86a299b626d00X162du_GVc~",
-      "address": "秦皇岛海港区桔子酒店秦皇岛文化路店大堂附近",
-      "longitude": 119.602723,
-      "latitude": 39.941714,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac7d5cce3d1a026c436d4bffd339ad85",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dc74a3c6cf2237deb8288beb44b3a7e6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220802/607f1f3d68754fd00f8fa68fab8d6e8475c436b293a12df8931baf4f47bb894892c6853c386_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "秦皇岛智铭",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ea151c8ba8f905db1XZ43dq6F1c~",
-      "brandName": "秦皇岛智铭",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727471264273,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "秦皇岛智铭",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "秦皇岛智铭",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220802/607f1f3d68754fd00f8fa68fab8d6e8475c436b293a12df8931baf4f47bb894892c6853c386_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1727471264273,
+        "brandName": "秦皇岛智铭",
+        "customerBrandName": "秦皇岛智铭",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ea151c8ba8f905db1XZ43dq6F1c~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "秦皇岛海港区桔子酒店秦皇岛文化路店大堂附近",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5fad86a299b626d00X162du_GVc~",
+        "encryptId": "31c7a14a078e03841Hx72dm4GFBV",
+        "encryptUserId": "290a2f541eeb696f0nF539-0ElRX",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.941714,
+        "location": 101091100,
+        "locationName": "秦皇岛",
+        "longitude": 119.602723,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dc74a3c6cf2237deb8288beb44b3a7e6",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "【运维工程师】1人\n工作内容：市应急局系统运维与日常工作\n要求：\n1 大专及以上学历，计算机、自动化和电子类相关专业毕业。\n2具有其他技术保障运维工作经历，熟悉计算机软硬件系统优先。\n3能值班和较强责任心， 具备良好的沟通能力和团队合作精神。\n4 年龄不超过35岁。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac7d5cce3d1a026c436d4bffd339ad85"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iFiPRSUC8BPq9-N1TKkiCeIV6aZLfJ7gj2KpRnofynTglmhUMgM5cJve9BMmqunGN8GakF1GjtHlU8IeEjN1AA0nI57TxOQERrbrAV7iQfe43G3BTGZjKooUFLFq0Xk_Rke0_GS_UksHSZk~",
+    "selfAccess": false,
+    "sessionId": null
 }

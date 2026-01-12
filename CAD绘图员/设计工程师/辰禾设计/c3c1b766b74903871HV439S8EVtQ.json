@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HDF6m8zROg6U--g1lL2GiDofVDSIBC1f3FhNJy_Nzr06jXhcfeZcDdpKNZ0hH6-T4abxwr7P1bR3k_eJgjQXd7Jjzu3_HlB-qLsYBsX3zMyKluODhqsfEhbnHPPobwGTQKpraS6aljGThFNKkKmgBx7JdkbsBA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c3c1b766b74903871HV439S8EVtQ",
-      "encryptUserId": "5298b722b9a1403f0XZ63tu8FlBW",
-      "invalidStatus": false,
-      "jobName": "设计工程师",
-      "position": 120116,
-      "positionName": "CAD绘图员",
-      "location": 101100800,
-      "locationName": "运城",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-7K",
-      "payTypeDesc": null,
-      "postDescription": "工程制图，工程设计\n实习设计助理\n资深设计室",
-      "encryptAddressId": "e89dd1d60060c4021nZ50969FVRY",
-      "address": "运城盐湖区泽瑞商务公寓芒果公寓307",
-      "longitude": 111.044076,
-      "latitude": 35.055274,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230728/48ba41acc9cef1bfe10ec867c3e16735c4930198a182ac816bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230728/48ba41acc9cef1bf5ea10d40597adeb0ef250cd7499afc686bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "不接受居家办公",
-        "建筑设计",
-        "结构设计",
-        "市政设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230926/607f1f3d68754fd0eb4f434eb36aa2b6fed4b723970a0934568837a22ca25c41603e7b968971d5a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "辰禾设计",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d18212cbd276abd81HR_3tm8F1c~",
-      "brandName": "辰禾设计",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100703,
-      "industryName": "建筑设计",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734160104747,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "辰禾设计",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "辰禾设计",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230926/607f1f3d68754fd0eb4f434eb36aa2b6fed4b723970a0934568837a22ca25c41603e7b968971d5a_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1734160104747,
+        "brandName": "辰禾设计",
+        "customerBrandName": "辰禾设计",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d18212cbd276abd81HR_3tm8F1c~",
+        "focusBrand": false,
+        "industry": 100703,
+        "industryName": "建筑设计",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "运城盐湖区泽瑞商务公寓芒果公寓307",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "e89dd1d60060c4021nZ50969FVRY",
+        "encryptId": "c3c1b766b74903871HV439S8EVtQ",
+        "encryptUserId": "5298b722b9a1403f0XZ63tu8FlBW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "设计工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.055274,
+        "location": 101100800,
+        "locationName": "运城",
+        "longitude": 111.044076,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230728/48ba41acc9cef1bf5ea10d40597adeb0ef250cd7499afc686bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 120116,
+        "positionName": "CAD绘图员",
+        "postDescription": "工程制图，工程设计\n实习设计助理\n资深设计室",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-7K",
+        "showSkills": [
+            "不接受居家办公",
+            "建筑设计",
+            "结构设计",
+            "市政设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230728/48ba41acc9cef1bfe10ec867c3e16735c4930198a182ac816bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HDF6m8zROg6U--g1lL2GiDofVDSIBC1f3FhNJy_Nzr06jXhcfeZcDdpKNZ0hH6-T4abxwr7P1bR3k_eJgjQXd7Jjzu3_HlB-qLsYBsX3zMyKluODhqsfEhbnHPPobwGTQKpraS6aljGThFNKkKmgBx7JdkbsBA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

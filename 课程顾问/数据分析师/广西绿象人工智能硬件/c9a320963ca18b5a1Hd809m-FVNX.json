@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "KbQYvHa0MsnMs-61kQ_hbZ7nu3-woGScI2z-r5rRSCFA4w-S_4D42heuXdEzRqPA2FIzhdR_GnKw5Gln9B5IGnsB4LaYOyAvTdfBu5YthEhfPRQ68pAn",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c9a320963ca18b5a1Hd809m-FVNX",
-      "encryptUserId": "6461b300218dcdd90Xd72NS1EVtZ",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 190601,
-      "positionName": "课程顾问",
-      "location": 101301300,
-      "locationName": "北海",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K",
-      "payTypeDesc": null,
-      "postDescription": "招聘\n数据分析师（4名） \n待遇：底薪2000 +高提成+五险+子女教育福利。 \n任职要求：1、个人具有一定的销售沟通能力（公司培训）\n2、 具有一定教育知识储备（公司培训） \n3、 具有良好的服务意识 \n4、 具有较强的学习能力和主动性\n工作内容：面议 \n备注：如有教培行业课程顾问经验者待遇可从优调整\n联系人：蔡老师***********",
-      "encryptAddressId": "4edd427d553c3eb51Hx609m5GVBRxYS-Vv0~",
-      "address": "北海海城区松鼠AI服务中心东海街23号",
-      "longitude": 109.139508,
-      "latitude": 21.48703,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230910/48ba41acc9cef1bf843bcc352ce61dc5f3b83867179c5ec76bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230910/48ba41acc9cef1bf073a95555223bf8bf13701ad3b936cc66bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "中学生",
-        "线下教育"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蔡女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "广西绿象人工智能硬件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "24168fbd333729441HR709u8FVU~",
-      "brandName": "广西绿象人工智能硬件",
-      "logo": null,
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "人工智能教育,精准提高小初高语数英物化分数，比传统大班小班1对1省钱有效! 家长学生刚需，朝阳行业，合法经营",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "股票期权",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1727659261350,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广西绿象人工智能硬件",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广西绿象人工智能硬件",
+        "certificated": true,
+        "large": null,
+        "name": "蔡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727659261350,
+        "brandName": "广西绿象人工智能硬件",
+        "customerBrandName": "广西绿象人工智能硬件",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "24168fbd333729441HR709u8FVU~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "人工智能教育,精准提高小初高语数英物化分数，比传统大班小班1对1省钱有效! 家长学生刚需，朝阳行业，合法经营",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "股票期权",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北海海城区松鼠AI服务中心东海街23号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4edd427d553c3eb51Hx609m5GVBRxYS-Vv0~",
+        "encryptId": "c9a320963ca18b5a1Hd809m-FVNX",
+        "encryptUserId": "6461b300218dcdd90Xd72NS1EVtZ",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 21.48703,
+        "location": 101301300,
+        "locationName": "北海",
+        "longitude": 109.139508,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230910/48ba41acc9cef1bf073a95555223bf8bf13701ad3b936cc66bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 190601,
+        "positionName": "课程顾问",
+        "postDescription": "招聘\n数据分析师（4名） \n待遇：底薪2000 +高提成+五险+子女教育福利。 \n任职要求：1、个人具有一定的销售沟通能力（公司培训）\n2、 具有一定教育知识储备（公司培训） \n3、 具有良好的服务意识 \n4、 具有较强的学习能力和主动性\n工作内容：面议 \n备注：如有教培行业课程顾问经验者待遇可从优调整\n联系人：蔡老师***********",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K",
+        "showSkills": [
+            "中学生",
+            "线下教育"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230910/48ba41acc9cef1bf843bcc352ce61dc5f3b83867179c5ec76bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "KbQYvHa0MsnMs-61kQ_hbZ7nu3-woGScI2z-r5rRSCFA4w-S_4D42heuXdEzRqPA2FIzhdR_GnKw5Gln9B5IGnsB4LaYOyAvTdfBu5YthEhfPRQ68pAn",
+    "selfAccess": false,
+    "sessionId": null
 }

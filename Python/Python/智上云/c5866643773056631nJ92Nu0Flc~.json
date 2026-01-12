@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6Ptw3aS8bfszZ-c1hbHAIuqiWRmuuXWDkVZsg8kqNNoTfNv51ReKSENVfMh5AeraPuGa2aUtUdvYEB-pae4m9EMNfPdhvkkiwf9zWfLGUwVEZQtp",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c5866643773056631nJ92Nu0Flc~",
-      "encryptUserId": "fd0d344f9efeafcd1HZ809q6E1s~",
-      "invalidStatus": false,
-      "jobName": "Python",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、后端技术研发工程师\n2、熟悉数据库编程语言及开发，了解达梦数据库编程为佳\n3、熟悉Linux系统操作\n4、熟悉c/c++编程",
-      "encryptAddressId": "07b5df7e131fbe2e1w~~",
-      "address": null,
-      "longitude": 0.0,
-      "latitude": 0.0,
-      "staticMapUrl": "",
-      "pcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据库",
-        "Linux",
-        "C/C++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何女士",
-      "title": "研发经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "智上云",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "30a36d35a535d61e1ndy3tq8Fw~~",
-      "brandName": "智上云",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725379528698,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智上云",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智上云",
+        "certificated": true,
+        "large": null,
+        "name": "何女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "研发经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725379528698,
+        "brandName": "智上云",
+        "customerBrandName": "智上云",
+        "customerBrandStageName": "",
+        "encryptBrandId": "30a36d35a535d61e1ndy3tq8Fw~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": null,
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "07b5df7e131fbe2e1w~~",
+        "encryptId": "c5866643773056631nJ92Nu0Flc~",
+        "encryptUserId": "fd0d344f9efeafcd1HZ809q6E1s~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Python",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 0.0,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 0.0,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "1、后端技术研发工程师\n2、熟悉数据库编程语言及开发，了解达梦数据库编程为佳\n3、熟悉Linux系统操作\n4、熟悉c/c++编程",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "数据库",
+            "Linux",
+            "C/C++"
+        ],
+        "staticMapUrl": ""
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6Ptw3aS8bfszZ-c1hbHAIuqiWRmuuXWDkVZsg8kqNNoTfNv51ReKSENVfMh5AeraPuGa2aUtUdvYEB-pae4m9EMNfPdhvkkiwf9zWfLGUwVEZQtp",
+    "selfAccess": false,
+    "sessionId": null
 }

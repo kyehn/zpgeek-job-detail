@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FBvMex68Hcl9Y-r1oC2rv2CkCcCsP5twGqi4dbFF54U9W-o0kg1VM08uekX2CDwIFgjkUgIop-m67gCw4HEN_DGxMhNVe6jBVHNF7QjoNhGq7KUJFzSTi6maehiP-MN2yxeMHkGsWD3HViQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "15c9c0e6d5b9398b1H182tm1FlJZ",
-      "encryptUserId": "954989333d39ada60XV73N26FFNR",
-      "invalidStatus": false,
-      "jobName": "监控工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-9K",
-      "payTypeDesc": null,
-      "postDescription": "监控工程师（岗位职责）\n\n职位描述\n岗位职责：\n1、负责监控系统、云台摄像系统的施工调试。\n2、负责监控系统施工图纸绘制、施工技术方案制定、设备安装调试。\n3、负责监控系统相关资料的整理、汇总、归档。\n4、负责公司安防监控项目的方案设计及后续维护等技术支持工作；\n5、负责公司安防监控项目的管理工作，包括与用户的沟通协调、施工管理、验收配合等。\n\n任职要求：\n1、电子工程、计算机、自动化等相关专业毕业；\n2、有从事监控工程、安防工程的施工经验，可适应云贵川出差；\n3、能熟练掌握Windows、OFFICE、AUTO CAD等相关软件，具备较强的书面表达能力；\n4、熟悉监控系统的各种技术规范；\n5、精通安防监控系统的设计，熟悉监控系统中各类型设备的具体应用，具备较强的安防监控系统调试能力；\n6、熟练掌握安防监控系统的调试技术；\n7、熟悉海康威视、大华、亚安、霍尼韦尔等知名品牌的视讯产品；\n8、责任心强，为人正直并具有良好的交际能力、组织能力和团队配合能力；",
-      "encryptAddressId": "e64c8bd281a8c3f11nB-3ti9GFVYwYm5U_-e",
-      "address": "成都成华区天荟·万科广场3313",
-      "longitude": 104.125335,
-      "latitude": 30.667513,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfed7ae28ef79d3a160dbaad06d02e7c966bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf3e9165161b560eae5d9b5ea6b0a9ff436bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "监控",
-        "安防"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "汤女士",
-      "title": "高级人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240914/607f1f3d68754fd0431f7c5ed47108ad68ad87d02bf5a751a6082faf24964bb9a61161a0f184c02_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "四川中地",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e4654cbe988ec0241Hx429y_ElE~",
-      "brandName": "四川中地",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100711,
-      "industryName": "建筑工程咨询服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732091061868,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "四川中地",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "四川中地",
+        "certificated": true,
+        "large": null,
+        "name": "汤女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240914/607f1f3d68754fd0431f7c5ed47108ad68ad87d02bf5a751a6082faf24964bb9a61161a0f184c02_b.jpg",
+        "title": "高级人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732091061868,
+        "brandName": "四川中地",
+        "customerBrandName": "四川中地",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e4654cbe988ec0241Hx429y_ElE~",
+        "focusBrand": false,
+        "industry": 100711,
+        "industryName": "建筑工程咨询服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都成华区天荟·万科广场3313",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e64c8bd281a8c3f11nB-3ti9GFVYwYm5U_-e",
+        "encryptId": "15c9c0e6d5b9398b1H182tm1FlJZ",
+        "encryptUserId": "954989333d39ada60XV73N26FFNR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "监控工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.667513,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.125335,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf3e9165161b560eae5d9b5ea6b0a9ff436bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "监控工程师（岗位职责）\n\n职位描述\n岗位职责：\n1、负责监控系统、云台摄像系统的施工调试。\n2、负责监控系统施工图纸绘制、施工技术方案制定、设备安装调试。\n3、负责监控系统相关资料的整理、汇总、归档。\n4、负责公司安防监控项目的方案设计及后续维护等技术支持工作；\n5、负责公司安防监控项目的管理工作，包括与用户的沟通协调、施工管理、验收配合等。\n\n任职要求：\n1、电子工程、计算机、自动化等相关专业毕业；\n2、有从事监控工程、安防工程的施工经验，可适应云贵川出差；\n3、能熟练掌握Windows、OFFICE、AUTO CAD等相关软件，具备较强的书面表达能力；\n4、熟悉监控系统的各种技术规范；\n5、精通安防监控系统的设计，熟悉监控系统中各类型设备的具体应用，具备较强的安防监控系统调试能力；\n6、熟练掌握安防监控系统的调试技术；\n7、熟悉海康威视、大华、亚安、霍尼韦尔等知名品牌的视讯产品；\n8、责任心强，为人正直并具有良好的交际能力、组织能力和团队配合能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-9K",
+        "showSkills": [
+            "监控",
+            "安防"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfed7ae28ef79d3a160dbaad06d02e7c966bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FBvMex68Hcl9Y-r1oC2rv2CkCcCsP5twGqi4dbFF54U9W-o0kg1VM08uekX2CDwIFgjkUgIop-m67gCw4HEN_DGxMhNVe6jBVHNF7QjoNhGq7KUJFzSTi6maehiP-MN2yxeMHkGsWD3HViQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

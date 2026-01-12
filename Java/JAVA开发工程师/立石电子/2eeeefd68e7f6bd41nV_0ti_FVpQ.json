@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HHHUqnd3KNFgY--1Pxpy1rhSfs4WlD5KVYmg0aM3uoPv8Qi4RGcNlfN1xWq78qml13h_p5Cmf75TOclEncCKq3CSMyrxHck3RQKodiafvWWFBNRWvALD",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2eeeefd68e7f6bd41nV_0ti_FVpQ",
-      "encryptUserId": "00b498a54fc189970nV62dS6E1RW",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "要求：\n1、熟练掌握java或者C/C++编程语言；\n2、具备分析客户需求，设计技术方案能力；\n3、本科及以上学历，1年以上工作经验，具有电信、互联网等行业工作经验者更佳。",
-      "encryptAddressId": "6f7e55a0691056831Hx_2924FFA~",
-      "address": "长沙岳麓区长沙芯城科技园1栋",
-      "longitude": 112.875279,
-      "latitude": 28.230876,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b57f206b2f90e06ec6fc01208a1a8036",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4107cc44000a89c7525835075069bed0",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "计算机软件",
-        "Web端"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "立石电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5a66cb8af7af36bc1nd409S1FFI~",
-      "brandName": "立石电子",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719134830505,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "立石电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "立石电子",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1719134830505,
+        "brandName": "立石电子",
+        "customerBrandName": "立石电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5a66cb8af7af36bc1nd409S1FFI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区长沙芯城科技园1栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6f7e55a0691056831Hx_2924FFA~",
+        "encryptId": "2eeeefd68e7f6bd41nV_0ti_FVpQ",
+        "encryptUserId": "00b498a54fc189970nV62dS6E1RW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.230876,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.875279,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4107cc44000a89c7525835075069bed0",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "要求：\n1、熟练掌握java或者C/C++编程语言；\n2、具备分析客户需求，设计技术方案能力；\n3、本科及以上学历，1年以上工作经验，具有电信、互联网等行业工作经验者更佳。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "Java",
+            "计算机软件",
+            "Web端"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b57f206b2f90e06ec6fc01208a1a8036"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HHHUqnd3KNFgY--1Pxpy1rhSfs4WlD5KVYmg0aM3uoPv8Qi4RGcNlfN1xWq78qml13h_p5Cmf75TOclEncCKq3CSMyrxHck3RQKodiafvWWFBNRWvALD",
+    "selfAccess": false,
+    "sessionId": null
 }

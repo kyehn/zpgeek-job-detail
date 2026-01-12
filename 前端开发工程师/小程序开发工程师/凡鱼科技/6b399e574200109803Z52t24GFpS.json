@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qzNrCc7hrKEAk-G1zcyCNTMw7hZi69p0ssXQ0wrOhkOM0FyiI-5hnQWBBRMsxVC5AYMyiWFyqW3v_B5QbNJx5qlLyilV5Jc5yHbbYMYaNP3OGdg38VR8tH0WhkMAhpv0aVDwiiYTWV0U7uis-3LGMSRQ0fvv-gCYQhRwt9vwUAipi3fvqZ3ghmTsGPjNCw-9cF9px5-EvCR2MNSPbvjoRgDi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6b399e574200109803Z52t24GFpS",
-      "encryptUserId": "c8de8ca822ced6b91nV_3960E1pW",
-      "invalidStatus": false,
-      "jobName": "小程序开发工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.独立高效完成公司微信小程序.后台及前端产品的构建.开发和上线及版本维护；\n2.负责移动端产品前端开发，微信小程序及公众号与第三方应用对接.联调；\n3.与UI.后端开发人员配合，高质量完成开发工作；\n4.关注用户体验，持续的性能优化；\n5.参与产品的研发.发布.监控等各种基础平台建设；\n6.根据产品部门需求，完成需求分析并进行对应的功能设计；\n7.参与多种平台的应用开发，包括PC，移动端及小程序等产品，负责前端交互的实现；\n\n任职要求：\n1.精通微信.支付宝小程序的开发框架，能够熟练开发各种应用场景下的小程序；\n2.精通Vue.j或者React.j；\n3.熟悉JS,HTML/XHTML,CSS,AJAX,JSON,XML,HTML5,DOM等技术；\n4.会用Grunt,Gulp,Webpack以及语言预处理器；\n5.熟悉移动端网页开发；\n6.思维敏捷，思想开阔，具有较强的学习能力以及适应能力，关注行业新技术方向，能够快速掌握新知识并运用；\n7.良好的沟通与表达能力，有强烈的责任心和团队意识，融入团队，并与团队一同进步。\nps:24届优先。",
-      "encryptAddressId": "56c01e6326e1cdad03xy2ti1EFc~",
-      "address": "武汉洪山区光谷E城E1",
-      "longitude": 114.402395,
-      "latitude": 30.477298,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46f8184812223bdb1c45e180b1569aef",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7fff874100aae7b6c107b0cfb8d86abc",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "小程序开发",
-        "前端开发经验",
-        "计算机/软件工程相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "尹女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240611/607f1f3d68754fd07a2a8d17bb676dd09c81e8d7be40d1ed5126e984a2d0af1c3bd51c06bc15b90_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "凡鱼科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a792145b27ae39f90nB_2dy8EA~~",
-      "brandName": "凡鱼科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [
-        "零食下午茶",
-        "节日福利",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "股票期权",
-        "年终奖",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1741675356701,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "凡鱼科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "凡鱼科技",
+        "certificated": true,
+        "large": null,
+        "name": "尹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240611/607f1f3d68754fd07a2a8d17bb676dd09c81e8d7be40d1ed5126e984a2d0af1c3bd51c06bc15b90_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1741675356701,
+        "brandName": "凡鱼科技",
+        "customerBrandName": "凡鱼科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a792145b27ae39f90nB_2dy8EA~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [
+            "零食下午茶",
+            "节日福利",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "股票期权",
+            "年终奖",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区光谷E城E1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "56c01e6326e1cdad03xy2ti1EFc~",
+        "encryptId": "6b399e574200109803Z52t24GFpS",
+        "encryptUserId": "c8de8ca822ced6b91nV_3960E1pW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "小程序开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.477298,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.402395,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7fff874100aae7b6c107b0cfb8d86abc",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "岗位职责：\n1.独立高效完成公司微信小程序.后台及前端产品的构建.开发和上线及版本维护；\n2.负责移动端产品前端开发，微信小程序及公众号与第三方应用对接.联调；\n3.与UI.后端开发人员配合，高质量完成开发工作；\n4.关注用户体验，持续的性能优化；\n5.参与产品的研发.发布.监控等各种基础平台建设；\n6.根据产品部门需求，完成需求分析并进行对应的功能设计；\n7.参与多种平台的应用开发，包括PC，移动端及小程序等产品，负责前端交互的实现；\n\n任职要求：\n1.精通微信.支付宝小程序的开发框架，能够熟练开发各种应用场景下的小程序；\n2.精通Vue.j或者React.j；\n3.熟悉JS,HTML/XHTML,CSS,AJAX,JSON,XML,HTML5,DOM等技术；\n4.会用Grunt,Gulp,Webpack以及语言预处理器；\n5.熟悉移动端网页开发；\n6.思维敏捷，思想开阔，具有较强的学习能力以及适应能力，关注行业新技术方向，能够快速掌握新知识并运用；\n7.良好的沟通与表达能力，有强烈的责任心和团队意识，融入团队，并与团队一同进步。\nps:24届优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "小程序开发",
+            "前端开发经验",
+            "计算机/软件工程相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46f8184812223bdb1c45e180b1569aef"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qzNrCc7hrKEAk-G1zcyCNTMw7hZi69p0ssXQ0wrOhkOM0FyiI-5hnQWBBRMsxVC5AYMyiWFyqW3v_B5QbNJx5qlLyilV5Jc5yHbbYMYaNP3OGdg38VR8tH0WhkMAhpv0aVDwiiYTWV0U7uis-3LGMSRQ0fvv-gCYQhRwt9vwUAipi3fvqZ3ghmTsGPjNCw-9cF9px5-EvCR2MNSPbvjoRgDi",
+    "selfAccess": false,
+    "sessionId": null
 }

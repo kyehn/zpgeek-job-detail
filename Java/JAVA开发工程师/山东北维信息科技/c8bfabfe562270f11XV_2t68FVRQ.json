@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qExwA8NLvMrQQ-71FHKeEQUGU8H09-6B2dX_2GOlrL01VucoPbNEn3TQPdPfiqRho5MCi6wv9O44l-NcLpUrXnpPBUp3ejdFMeIpjgoA3OuhH_eLMfdqVwz81sMuIjw2t7iTGN6LfmimJA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c8bfabfe562270f11XV_2t68FVRQ",
-      "encryptUserId": "cb6b9931a07557340HV-2d68ElU~",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101121500,
-      "locationName": "日照",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "1. 计算机、软件工程、电气工程及其自动化、理工类相关专业，大专及以上学历，热爱软件开发工作；\n\n2. 了解Spring-MVC、Hibernate等主流框架, 能在已搭建好的框架基础上进行研发工作。\n\n3. 熟悉基于Java的Web应用开发，对WebUI技术（HTML/XHTML、JSP、JavaScript、Ajax、JQuery等)有一定经验。\n\n4. 良好的沟通表达能力和团队协作能力。",
-      "encryptAddressId": "fc3365b54bb7fdd70nV62di9GVI~",
-      "address": "日照东港区康庭大厦5",
-      "longitude": 119.543717,
-      "latitude": 35.435239,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/074be8955c57fbbab0c51141f5b7e0f9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8cf52b09b62670b9f338eb8b03c3b86",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "HTML",
-        "Hibernate"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "秦先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "山东北维信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a103c8721f29c1781XR_3tS8FFA~",
-      "brandName": "山东北维信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "山东北维信息科技有限公司，坐落于美丽的海滨城市—日照市，注册资金1000万。是一家集软件开发、物联网、大数据一体的软件企业。公司为政府、企业提供应用软件开发和系统运维服务，致力于打造行业产品，在交通、政务服务领域已打造了系列平台产品，得到了客户一致好评。\n\n欢迎您加入我们，与我们一起共创美好的明天！",
-      "labels": [
-        "交通补助",
-        "节日福利",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1725467473038,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东北维信息科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东北维信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "秦先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725467473038,
+        "brandName": "山东北维信息科技",
+        "customerBrandName": "山东北维信息科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "a103c8721f29c1781XR_3tS8FFA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "山东北维信息科技有限公司，坐落于美丽的海滨城市—日照市，注册资金1000万。是一家集软件开发、物联网、大数据一体的软件企业。公司为政府、企业提供应用软件开发和系统运维服务，致力于打造行业产品，在交通、政务服务领域已打造了系列平台产品，得到了客户一致好评。\n\n欢迎您加入我们，与我们一起共创美好的明天！",
+        "labels": [
+            "交通补助",
+            "节日福利",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "日照东港区康庭大厦5",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fc3365b54bb7fdd70nV62di9GVI~",
+        "encryptId": "c8bfabfe562270f11XV_2t68FVRQ",
+        "encryptUserId": "cb6b9931a07557340HV-2d68ElU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.435239,
+        "location": 101121500,
+        "locationName": "日照",
+        "longitude": 119.543717,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8cf52b09b62670b9f338eb8b03c3b86",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1. 计算机、软件工程、电气工程及其自动化、理工类相关专业，大专及以上学历，热爱软件开发工作；\n\n2. 了解Spring-MVC、Hibernate等主流框架, 能在已搭建好的框架基础上进行研发工作。\n\n3. 熟悉基于Java的Web应用开发，对WebUI技术（HTML/XHTML、JSP、JavaScript、Ajax、JQuery等)有一定经验。\n\n4. 良好的沟通表达能力和团队协作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "HTML",
+            "Hibernate"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/074be8955c57fbbab0c51141f5b7e0f9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qExwA8NLvMrQQ-71FHKeEQUGU8H09-6B2dX_2GOlrL01VucoPbNEn3TQPdPfiqRho5MCi6wv9O44l-NcLpUrXnpPBUp3ejdFMeIpjgoA3OuhH_eLMfdqVwz81sMuIjw2t7iTGN6LfmimJA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

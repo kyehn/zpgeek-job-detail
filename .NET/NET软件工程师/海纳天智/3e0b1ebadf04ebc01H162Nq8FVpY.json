@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vjoCWnG1UwAp3-e1OICTcHvjx3GLE6KcTxVunrW09O2yqfP2QK7jkLefQ3fzDMHJzfaPHbqmArS_AUDrUWxUx8_ylsM7pv8wH-IpJC4CiZvzGWY9cTWfOxvjyrgqmj1tFLKdyGJGkc1edVk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3e0b1ebadf04ebc01H162Nq8FVpY",
-      "encryptUserId": "57db385bffd3d3ce0nJy3N-0FVVR",
-      "invalidStatus": false,
-      "jobName": "net软件工程师",
-      "position": 100107,
-      "positionName": ".NET",
-      "location": 101030100,
-      "locationName": "天津",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、参与系统需求分析、设计，以及相关文档编写等工作；\n2、根据设计文档或需求说明完成代码编写，调试，测试和维护，编写代码注释和开发文档；\n3、分析并解决软件开发以及实际运行过程中的问题；\n4、在项目中保持和项目团队积极有效的沟通，驱动问题解决；\n任职要求\n1、 统招大学本科及以上学历，计算机、自动化、电气工程或相关专业；\n2、 熟练使用C#编程，并熟悉asp.net core框架；\n3、 熟悉数据库SQL语言；\n4、 熟悉JavaScript、VUE、ElementUI等前端编程的优先；\n5、 熟悉Cesium三维可视化开发的优先；\n6、 熟悉PLC和数据采集的优先；\n7、 良好的学习能力、沟通能力、团队合作能力；\n8、 有较强文字功底，可以独立编写各类文档的优先。\n教育背景：学信网可查",
-      "encryptAddressId": "3e274a2c599499ea1nd82ty7EFBVwYm9WP2b",
-      "address": "天津津南区联东U谷双创中心10栋3单元601",
-      "longitude": 117.304408,
-      "latitude": 39.032822,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230421/48ba41acc9cef1bf978124e35bc2a6e90e8d12e442c4f1906bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230807/48ba41acc9cef1bffab7c8a578e83be185c76f0e59fbb3156bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        ".NET",
-        ".NET Core"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "步女士",
-      "title": "商务主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "海纳天智",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7ddb934cfb63f0141XB43tu0GVo~",
-      "brandName": "海纳天智",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101201,
-      "industryName": "石油/石化",
-      "introduce": "",
-      "labels": [
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1729826809351,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "海纳天智",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "海纳天智",
+        "certificated": true,
+        "large": null,
+        "name": "步女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "商务主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1729826809351,
+        "brandName": "海纳天智",
+        "customerBrandName": "海纳天智",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7ddb934cfb63f0141XB43tu0GVo~",
+        "focusBrand": false,
+        "industry": 101201,
+        "industryName": "石油/石化",
+        "introduce": "",
+        "labels": [
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "天津津南区联东U谷双创中心10栋3单元601",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3e274a2c599499ea1nd82ty7EFBVwYm9WP2b",
+        "encryptId": "3e0b1ebadf04ebc01H162Nq8FVpY",
+        "encryptUserId": "57db385bffd3d3ce0nJy3N-0FVVR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "net软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.032822,
+        "location": 101030100,
+        "locationName": "天津",
+        "longitude": 117.304408,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230807/48ba41acc9cef1bffab7c8a578e83be185c76f0e59fbb3156bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100107,
+        "positionName": ".NET",
+        "postDescription": "岗位职责\n1、参与系统需求分析、设计，以及相关文档编写等工作；\n2、根据设计文档或需求说明完成代码编写，调试，测试和维护，编写代码注释和开发文档；\n3、分析并解决软件开发以及实际运行过程中的问题；\n4、在项目中保持和项目团队积极有效的沟通，驱动问题解决；\n任职要求\n1、 统招大学本科及以上学历，计算机、自动化、电气工程或相关专业；\n2、 熟练使用C#编程，并熟悉asp.net core框架；\n3、 熟悉数据库SQL语言；\n4、 熟悉JavaScript、VUE、ElementUI等前端编程的优先；\n5、 熟悉Cesium三维可视化开发的优先；\n6、 熟悉PLC和数据采集的优先；\n7、 良好的学习能力、沟通能力、团队合作能力；\n8、 有较强文字功底，可以独立编写各类文档的优先。\n教育背景：学信网可查",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "C#",
+            ".NET",
+            ".NET Core"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230421/48ba41acc9cef1bf978124e35bc2a6e90e8d12e442c4f1906bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vjoCWnG1UwAp3-e1OICTcHvjx3GLE6KcTxVunrW09O2yqfP2QK7jkLefQ3fzDMHJzfaPHbqmArS_AUDrUWxUx8_ylsM7pv8wH-IpJC4CiZvzGWY9cTWfOxvjyrgqmj1tFLKdyGJGkc1edVk~",
+    "selfAccess": false,
+    "sessionId": null
 }

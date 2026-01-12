@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "twabTK7VZX-WA-r1bsFPZ72JMlB5X7kejSjmbj2wlf9BNLOqEK06xqgnDOFNZ_cZIWFqehzzQIdaeTQtwncGVXgM_r-U6K4vxPNDhXdxAsPCqi5A",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d400c62cc68d69fc1XB83dq6E1Y~",
-      "encryptUserId": "b505a4fb43e5682603B609m8FVY~",
-      "invalidStatus": false,
-      "jobName": "C++",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "能吃苦耐劳；能够二次开发；会运用C语言，java。",
-      "encryptAddressId": "38e8ec22bac09f8d3nV829i4Fw~~",
-      "address": "苏州姑苏区苏州嘉美克纽扣厂(西北门)9号楼",
-      "longitude": 120.6187,
-      "latitude": 31.28571,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79dc6ab16968f54d5bc0dee60441f958",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6519316b948b21ab38346ceea59388f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "C#",
-        "人脸识别"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "秦女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "创邦伟达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0264dd5da1ab25531XBy3d65GA~~",
-      "brandName": "创邦伟达",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721495924539,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "创邦伟达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "创邦伟达",
+        "certificated": true,
+        "large": null,
+        "name": "秦女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1721495924539,
+        "brandName": "创邦伟达",
+        "customerBrandName": "创邦伟达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0264dd5da1ab25531XBy3d65GA~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州姑苏区苏州嘉美克纽扣厂(西北门)9号楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "38e8ec22bac09f8d3nV829i4Fw~~",
+        "encryptId": "d400c62cc68d69fc1XB83dq6E1Y~",
+        "encryptUserId": "b505a4fb43e5682603B609m8FVY~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "C++",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.28571,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.6187,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6519316b948b21ab38346ceea59388f",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "能吃苦耐劳；能够二次开发；会运用C语言，java。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "Java",
+            "C#",
+            "人脸识别"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79dc6ab16968f54d5bc0dee60441f958"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "twabTK7VZX-WA-r1bsFPZ72JMlB5X7kejSjmbj2wlf9BNLOqEK06xqgnDOFNZ_cZIWFqehzzQIdaeTQtwncGVXgM_r-U6K4vxPNDhXdxAsPCqi5A",
+    "selfAccess": false,
+    "sessionId": null
 }

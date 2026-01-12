@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TbdM0P_A2i05Y-B18Daii8o_zBCTkZLkcAh0NccFC8LcE4yd6qRI1PugLY5yj5uv3v-3om7drW0v7DsxwrKWNohlvSBKDyla61hq1HD6DTgVgDzok24~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f66a4eca795553ba1XF83dy5EVNY",
-      "encryptUserId": "61c371d484ea49441n1909i-GFs~",
-      "invalidStatus": false,
-      "jobName": "健身房会籍顾问",
-      "position": 210610,
-      "positionName": "会籍顾问",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、会员服务及维护工作；\n2、会籍卡续费及销售工作；\n3、各类信息汇总提报；\n4、熟练使用电脑及办公软件。",
-      "encryptAddressId": "131cc9c5d768f68a0XZ63dW9FFs~",
-      "address": "南京栖霞区亚东俱乐部仙隐北路19号",
-      "longitude": 118.911163,
-      "latitude": 32.091311,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22852fab32ca90695de09295336c00b9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fdc3ed193ce8bf41a0306d09994a4ce",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "线下教育",
-        "一对一私教",
-        "瑜伽",
-        "体适能",
-        "坐班"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "闫先生",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240703/607f1f3d68754fd0d33aab8db6f8ab019616648f649fd566165f152fab3868d9b241afb132e8c5a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "亚东商管",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "87ed99f31b6a39511XV52t--Elc~",
-      "brandName": "亚东商管",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220523/7b5b554d84f9729cc55906c9b92bac6419c0b7df439aed3e165f152fab3868d9b241afb132e8c5a7.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100707,
-      "industryName": "物业管理",
-      "introduce": "江苏亚东建设发展集团是一家从事房地产、旅游、商业、高科技等实业经营以及资本运作的集团化企业。国家房地产开发企业一级资质，集团下属22家成员公司，拥有2500名员工，总部设在南京。",
-      "labels": [
-        "团建聚餐",
-        "餐补",
-        "包吃",
-        "全勤奖",
-        "工龄奖",
-        "保底工资",
-        "绩效奖金",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1721648181774,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "亚东商管",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "亚东商管",
+        "certificated": true,
+        "large": null,
+        "name": "闫先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240703/607f1f3d68754fd0d33aab8db6f8ab019616648f649fd566165f152fab3868d9b241afb132e8c5a_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721648181774,
+        "brandName": "亚东商管",
+        "customerBrandName": "亚东商管",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "87ed99f31b6a39511XV52t--Elc~",
+        "focusBrand": false,
+        "industry": 100707,
+        "industryName": "物业管理",
+        "introduce": "江苏亚东建设发展集团是一家从事房地产、旅游、商业、高科技等实业经营以及资本运作的集团化企业。国家房地产开发企业一级资质，集团下属22家成员公司，拥有2500名员工，总部设在南京。",
+        "labels": [
+            "团建聚餐",
+            "餐补",
+            "包吃",
+            "全勤奖",
+            "工龄奖",
+            "保底工资",
+            "绩效奖金",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220523/7b5b554d84f9729cc55906c9b92bac6419c0b7df439aed3e165f152fab3868d9b241afb132e8c5a7.png",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京栖霞区亚东俱乐部仙隐北路19号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "131cc9c5d768f68a0XZ63dW9FFs~",
+        "encryptId": "f66a4eca795553ba1XF83dy5EVNY",
+        "encryptUserId": "61c371d484ea49441n1909i-GFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "健身房会籍顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.091311,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.911163,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fdc3ed193ce8bf41a0306d09994a4ce",
+        "position": 210610,
+        "positionName": "会籍顾问",
+        "postDescription": "1、会员服务及维护工作；\n2、会籍卡续费及销售工作；\n3、各类信息汇总提报；\n4、熟练使用电脑及办公软件。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "线下教育",
+            "一对一私教",
+            "瑜伽",
+            "体适能",
+            "坐班"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22852fab32ca90695de09295336c00b9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TbdM0P_A2i05Y-B18Daii8o_zBCTkZLkcAh0NccFC8LcE4yd6qRI1PugLY5yj5uv3v-3om7drW0v7DsxwrKWNohlvSBKDyla61hq1HD6DTgVgDzok24~",
+    "selfAccess": false,
+    "sessionId": null
 }

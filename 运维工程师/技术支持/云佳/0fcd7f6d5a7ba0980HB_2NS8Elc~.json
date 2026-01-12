@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UeFs7eKRtJRa5-51bbcVGXpxkQDW974ePCB6CkkRh1jOyNtGLwHkq7oe60dWxKaNkB0NbmdX4wKl8TXYquZbEmHoLMCVLEYwhCbTzei7N340JWzb",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0fcd7f6d5a7ba0980HB_2NS8Elc~",
-      "encryptUserId": "bbced4612631694e1HR53dS6Els~",
-      "invalidStatus": false,
-      "jobName": "技术支持",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作地点:广州科学城、白云新城\n工作职责:\n1)不涉及代码但涉及数据库的项目开发、配置、调试、测试工作；\n2)项目的实施、安装和售后技术维护服务；\n3）日常与客户进行沟通联系，产品资料的简历与更新\n\n职位要求:\n1) 熟悉SQL Server/My SQL 数据库系统存储过程编程； \n2）熟悉至少一种Java类开发框架，能利用框架进行相关项目的浅层代码修改；\n3)有Java类项目实施经验者优先；\n4) 同时熟悉财务基本知识，有驾驶证者优先考虑。\n5)有客服类经验优先考虑；\n\n公司福利：\n1）双休工作制。\n2）佳节礼品：妇女节、中秋。\n3）员工聚餐：公司定期安排员工聚餐。\n4）其他：年终奖励、员工旅游\n5）提供员工宿舍",
-      "encryptAddressId": "b73b52173a36fef90XF_2dq-GA~~",
-      "address": "广州白云区白云金钟大厦519室",
-      "longitude": 113.27634,
-      "latitude": 23.175949,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87cce144eb43502326d2a6465b27a787",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e69dc30a92b628d031f3e37ba67b2e8c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维工程师",
-        "IT技术支持",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "云佳",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "03c3af1b6fe8f0ac0nF83tS4Fw~~",
-      "brandName": "云佳",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725329426305,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云佳",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云佳",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725329426305,
+        "brandName": "云佳",
+        "customerBrandName": "云佳",
+        "customerBrandStageName": "",
+        "encryptBrandId": "03c3af1b6fe8f0ac0nF83tS4Fw~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州白云区白云金钟大厦519室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b73b52173a36fef90XF_2dq-GA~~",
+        "encryptId": "0fcd7f6d5a7ba0980HB_2NS8Elc~",
+        "encryptUserId": "bbced4612631694e1HR53dS6Els~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.175949,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.27634,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e69dc30a92b628d031f3e37ba67b2e8c",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作地点:广州科学城、白云新城\n工作职责:\n1)不涉及代码但涉及数据库的项目开发、配置、调试、测试工作；\n2)项目的实施、安装和售后技术维护服务；\n3）日常与客户进行沟通联系，产品资料的简历与更新\n\n职位要求:\n1) 熟悉SQL Server/My SQL 数据库系统存储过程编程； \n2）熟悉至少一种Java类开发框架，能利用框架进行相关项目的浅层代码修改；\n3)有Java类项目实施经验者优先；\n4) 同时熟悉财务基本知识，有驾驶证者优先考虑。\n5)有客服类经验优先考虑；\n\n公司福利：\n1）双休工作制。\n2）佳节礼品：妇女节、中秋。\n3）员工聚餐：公司定期安排员工聚餐。\n4）其他：年终奖励、员工旅游\n5）提供员工宿舍",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K·13薪",
+        "showSkills": [
+            "运维工程师",
+            "IT技术支持",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87cce144eb43502326d2a6465b27a787"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UeFs7eKRtJRa5-51bbcVGXpxkQDW974ePCB6CkkRh1jOyNtGLwHkq7oe60dWxKaNkB0NbmdX4wKl8TXYquZbEmHoLMCVLEYwhCbTzei7N340JWzb",
+    "selfAccess": false,
+    "sessionId": null
 }

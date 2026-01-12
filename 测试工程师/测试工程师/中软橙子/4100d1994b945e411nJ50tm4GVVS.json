@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iKyAryMN6T1H--P1EUVNxYltZq0P7gEuJWj7Yn83moslpf5H_BRmCV7M9zBFmqbgN9lH_ADLyOsqSxOQfLygw5_bqouyXFyAle-EEYesDdBIfsMZX9q4ZJg7qcuhdRSJvWdbvL7qmmYZf9o~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4100d1994b945e411nJ50tm4GVVS",
-      "encryptUserId": "77941f2915a8be130nd93Nq-F1FS",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101300100,
-      "locationName": "南宁",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "计算机相关专业，大专以上学历\n在校生，可以接受长期实习（3个月以上）\n工作内容：软件测试，、自动化测试",
-      "encryptAddressId": "38a1931d9283798a03R729-5EQ~~",
-      "address": "南宁良庆区五象绿地中心2704",
-      "longitude": 108.379501,
-      "latitude": 22.757065,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/113958792645ce960910b8d1e67421a7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7522d7618ed6eb9d1637b29c9c0ba7e7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何女士",
-      "title": "广西项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中软橙子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c02ad22f022f26791nNy0tq8EVM~",
-      "brandName": "中软橙子",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725464274105,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中软橙子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中软橙子",
+        "certificated": true,
+        "large": null,
+        "name": "何女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "广西项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725464274105,
+        "brandName": "中软橙子",
+        "customerBrandName": "中软橙子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c02ad22f022f26791nNy0tq8EVM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南宁良庆区五象绿地中心2704",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "38a1931d9283798a03R729-5EQ~~",
+        "encryptId": "4100d1994b945e411nJ50tm4GVVS",
+        "encryptUserId": "77941f2915a8be130nd93Nq-F1FS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.757065,
+        "location": 101300100,
+        "locationName": "南宁",
+        "longitude": 108.379501,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7522d7618ed6eb9d1637b29c9c0ba7e7",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "计算机相关专业，大专以上学历\n在校生，可以接受长期实习（3个月以上）\n工作内容：软件测试，、自动化测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "软件测试",
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/113958792645ce960910b8d1e67421a7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iKyAryMN6T1H--P1EUVNxYltZq0P7gEuJWj7Yn83moslpf5H_BRmCV7M9zBFmqbgN9lH_ADLyOsqSxOQfLygw5_bqouyXFyAle-EEYesDdBIfsMZX9q4ZJg7qcuhdRSJvWdbvL7qmmYZf9o~",
+    "selfAccess": false,
+    "sessionId": null
 }

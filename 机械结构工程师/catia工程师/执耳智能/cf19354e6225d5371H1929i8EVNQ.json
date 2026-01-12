@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3IqiGN_rHotGJ-y1iUSVc09K190MwRJzx9avKQ5mUC8wCKGekvvI9eys4ZkgbAZtyQXtbQk55dVPhYUxc6yY8wSCnTLPyJ_MpL8S5ihXMVY_LwC6bC1ISFmMzbAKjO4GYpF_v4Cs8nJRGFg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cf19354e6225d5371H1929i8EVNQ",
-      "encryptUserId": "2ce5fe9a0141c26b0XJy2du5EVVR",
-      "invalidStatus": false,
-      "jobName": "catia工程师",
-      "position": 300306,
-      "positionName": "机械结构工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "职位要求：\n1、机械设计或制造，电气及相关理工类专科以上学历，具备曲面设计能力， 2年以上汽车行业研发工作经验;\n2、良好的计算机应用能力,能熟练运用CATIA，CAD,3D绘图软件。\n3、有良好的沟通能力、协调能力和团队合作精神。\n4、有过无人机机身/旋翼/机臂/等设计经验的优先。\n\n岗位职责：\n1、负责无人机的机身曲面设计、产品中心碳板的结构设计。\n2、与相关人员（力学分析工程师）进行接洽以解决设计过程中出现的问题。\n3、撰写产品的BOM清单、设计说明、专利交底书等文档。",
-      "encryptAddressId": "0e70af02531442b01nB829y5EVFWwI2_UP2Y",
-      "address": "广州白云区执耳科技二层执耳科技",
-      "longitude": 113.266146,
-      "latitude": 23.184538,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241101/48ba41acc9cef1bf348c114b1d0cedec08455f05e15f91156bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241101/48ba41acc9cef1bf7049c5539b30d9f4b112eb0f3271ce326bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CATIA",
-        "机械工程专业",
-        "熟悉压铸工艺",
-        "曲面建模、逆向分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "梁先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "执耳智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5d72cdb2e63a3fde1HF52tm0GFc~",
-      "brandName": "执耳智能",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240619/7bf6f160950405e950dffbf4dc71075c1fff049afc0c188cd8324463547db2aa5c262e8be26127e4.png.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100905,
-      "industryName": "铁路/船舶/航空/航天制造",
-      "introduce": "广州执耳智能科技有限公司，总部位于广州。\n公司专注于载人载物无人机、特殊功能类无人机的研发、试制、试飞、生产制造和服务保障。\n公司核心技术团队来自于国内知名航空院校组成，在设计研发、制造、飞行保障、小微航空动力系统垂直\n深耕十年，在无人机材料、气动、飞控、链路、动力、航电、任务系统等方向专业齐全，有着长期从事无人机\n设计研发、制造、飞行保障的丰富工作经验。\n公司通过自主研发，在载人载物无人机和无人机集群方向积累了大量先进的技术和经验，取得了卓越的实\n际成果，并储备了多项自有技术，有丰厚的项目经验基础。",
-      "labels": [
-        "带薪年假",
-        "全勤奖",
-        "底薪加提成",
-        "保底工资",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1730870197040,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "执耳智能",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "执耳智能",
+        "certificated": true,
+        "large": null,
+        "name": "梁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730870197040,
+        "brandName": "执耳智能",
+        "customerBrandName": "执耳智能",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "5d72cdb2e63a3fde1HF52tm0GFc~",
+        "focusBrand": false,
+        "industry": 100905,
+        "industryName": "铁路/船舶/航空/航天制造",
+        "introduce": "广州执耳智能科技有限公司，总部位于广州。\n公司专注于载人载物无人机、特殊功能类无人机的研发、试制、试飞、生产制造和服务保障。\n公司核心技术团队来自于国内知名航空院校组成，在设计研发、制造、飞行保障、小微航空动力系统垂直\n深耕十年，在无人机材料、气动、飞控、链路、动力、航电、任务系统等方向专业齐全，有着长期从事无人机\n设计研发、制造、飞行保障的丰富工作经验。\n公司通过自主研发，在载人载物无人机和无人机集群方向积累了大量先进的技术和经验，取得了卓越的实\n际成果，并储备了多项自有技术，有丰厚的项目经验基础。",
+        "labels": [
+            "带薪年假",
+            "全勤奖",
+            "底薪加提成",
+            "保底工资",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240619/7bf6f160950405e950dffbf4dc71075c1fff049afc0c188cd8324463547db2aa5c262e8be26127e4.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州白云区执耳科技二层执耳科技",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0e70af02531442b01nB829y5EVFWwI2_UP2Y",
+        "encryptId": "cf19354e6225d5371H1929i8EVNQ",
+        "encryptUserId": "2ce5fe9a0141c26b0XJy2du5EVVR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "catia工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.184538,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.266146,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241101/48ba41acc9cef1bf7049c5539b30d9f4b112eb0f3271ce326bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 300306,
+        "positionName": "机械结构工程师",
+        "postDescription": "职位要求：\n1、机械设计或制造，电气及相关理工类专科以上学历，具备曲面设计能力， 2年以上汽车行业研发工作经验;\n2、良好的计算机应用能力,能熟练运用CATIA，CAD,3D绘图软件。\n3、有良好的沟通能力、协调能力和团队合作精神。\n4、有过无人机机身/旋翼/机臂/等设计经验的优先。\n\n岗位职责：\n1、负责无人机的机身曲面设计、产品中心碳板的结构设计。\n2、与相关人员（力学分析工程师）进行接洽以解决设计过程中出现的问题。\n3、撰写产品的BOM清单、设计说明、专利交底书等文档。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "CATIA",
+            "机械工程专业",
+            "熟悉压铸工艺",
+            "曲面建模、逆向分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241101/48ba41acc9cef1bf348c114b1d0cedec08455f05e15f91156bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3IqiGN_rHotGJ-y1iUSVc09K190MwRJzx9avKQ5mUC8wCKGekvvI9eys4ZkgbAZtyQXtbQk55dVPhYUxc6yY8wSCnTLPyJ_MpL8S5ihXMVY_LwC6bC1ISFmMzbAKjO4GYpF_v4Cs8nJRGFg~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uMtcUGoHOz38K-Q1BMMnUrnA9p1XOt7tUooz0KNvZ7dd6zBLng3SWVoBfmspswJTIz15orIuL0JEdSpv_v2hG46xiosKYzZ6mz2EzN4pkE_qHhEdK-4flRoUCEztDHaVmuM6Q-t-Z1K4",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6c733f62243b8a330HB43d61EVs~",
-      "encryptUserId": "4d40dda531ff31061nR53tW6EFtZ",
-      "invalidStatus": false,
-      "jobName": "ERP软件实施专员",
-      "position": 100406,
-      "positionName": "系统管理员",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "有从事此岗位多年经验",
-      "encryptAddressId": "e8a1763b43de88651X153tS4GFo~",
-      "address": "杭州萧山区力亿轴承浦工一路9号",
-      "longitude": 120.250032,
-      "latitude": 29.984233,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ba5402b4cf90be83a35151545172388",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20553d6b84953d2911561e2ce7bc3a68",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "项目实施",
-        "解决方案",
-        "计算机软件",
-        "云计算"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙先生",
-      "title": "销售经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200411/c1c603a4efb91352dfce185ee241bd1838a02b50de114fa4d4eccf40530_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "力亿轴承",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a6d4aa9bd119ee610HNz2NW9Fg~~",
-      "brandName": "力亿轴承",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "杭州力亿轴承有限公司专业生产汽车轮毂单元轴承，远销近100个国家及地区",
-      "labels": [],
-      "activeTime": 1722413184000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "力亿轴承",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "力亿轴承",
+        "certificated": true,
+        "large": null,
+        "name": "孙先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200411/c1c603a4efb91352dfce185ee241bd1838a02b50de114fa4d4eccf40530_b.jpg",
+        "title": "销售经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722413184000,
+        "brandName": "力亿轴承",
+        "customerBrandName": "力亿轴承",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "a6d4aa9bd119ee610HNz2NW9Fg~~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "杭州力亿轴承有限公司专业生产汽车轮毂单元轴承，远销近100个国家及地区",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区力亿轴承浦工一路9号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e8a1763b43de88651X153tS4GFo~",
+        "encryptId": "6c733f62243b8a330HB43d61EVs~",
+        "encryptUserId": "4d40dda531ff31061nR53tW6EFtZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "ERP软件实施专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.984233,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.250032,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20553d6b84953d2911561e2ce7bc3a68",
+        "position": 100406,
+        "positionName": "系统管理员",
+        "postDescription": "有从事此岗位多年经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "项目实施",
+            "解决方案",
+            "计算机软件",
+            "云计算"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ba5402b4cf90be83a35151545172388"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uMtcUGoHOz38K-Q1BMMnUrnA9p1XOt7tUooz0KNvZ7dd6zBLng3SWVoBfmspswJTIz15orIuL0JEdSpv_v2hG46xiosKYzZ6mz2EzN4pkE_qHhEdK-4flRoUCEztDHaVmuM6Q-t-Z1K4",
+    "selfAccess": false,
+    "sessionId": null
 }

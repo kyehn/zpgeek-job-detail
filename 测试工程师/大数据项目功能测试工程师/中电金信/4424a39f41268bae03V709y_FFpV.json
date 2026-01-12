@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BGXFTdmb8YZbm-e1Il2v6rxxHPZ3id_jxzKlbcVv_BbFyY2eHCxLzd6XMFOKpzdjYq85XxrJxqm7cPRNca2PQ_XAdFxXpGB_2iHgcfIB56mp4TFQ5_PTdXH3Dx8z2D9-K8aK9qTh24NRtJgj7W5YJcwAMw9vvmsUjx0fmuoLGwl2mdzxxPQ-m5pGAKxqig~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4424a39f41268bae03V709y_FFpV",
-      "encryptUserId": "de8e06a0afc138af1HV73tu4F1U~",
-      "invalidStatus": false,
-      "jobName": "大数据项目功能测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n1、负责客户对接过程中技术问题的分析定位和排查，保障客户顺利使用产品、达成业务目标\n2、处理客户的技术反馈，能进行简单代码查阅、分析解决问题，给予客户及时响应，提升客户满意度； \n3、梳理客户技术问题清单，包括故障和需求，跟踪问题解决进度，及时反馈至产研内部，促进问题妥善解决与数据产品迭代优化；\n4、归纳和总结常见技术问题，输出规范的问题排查解决文档； \n5、编写相关产品问题和技术支持分析的报告，整理技术文档，进行技术相关培训。\n能力要求\n1、计算机、软件或相关专业，有tob项目交付经验优先；\n2、熟悉以下能力之一：\n1）熟练使用至少一门语言Java、Obj-C、Python、JavaScript、Go等，熟悉 Web 前后端开发和常见框架，具备1年以上技术支持或者技术开发相关经验；\n2）熟悉大数据生态环境，Hadoop、hive、spark、flink、kafka、Clickhouse至少精通一种，熟悉Linux/Unix系统、网络、硬件相关知识，熟悉Docker、K8S/Istio等容器技术和工具，有云平台经验优先，具备大型IT系统实施和运维经验优先，具有OLAP引擎(clickhouse、starRocks等)经验优先；\n3）熟悉数据导入导出的过程，熟练使用一种调度工具Azkaban、Airflow、Oozie、DolphinScheduler、Kettle等；\n3、出色的问题分析解决能力和多线程并行工作能力；\n4、具备较强的逻辑思维能力、沟通协调能力，富有责任心、执行力、乐观积极，具备自学能力； \n5、具备较强的团队合作意识和客户服务意识，有企业客户服务和数据产品相关经验者优先。",
-      "encryptAddressId": "a68ee40dac9c2c061nJy2dm_FFRQxY65UfuX",
-      "address": "上海徐汇区字节跳动字节跳动",
-      "longitude": 121.400181,
-      "latitude": 31.162968,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dddb29f04d1c841e95b1663587fedc12",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/413d90228c5d7b0bcc144510ac194344",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "BI",
-        "功能测试",
-        "计算机相关专业",
-        "报表"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd01aac9f3862ff98141b9236ef111f8ff41f2d90393351fb42c941dd8142272c3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "节日福利"
-      ],
-      "activeTime": 1736848159029,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd01aac9f3862ff98141b9236ef111f8ff41f2d90393351fb42c941dd8142272c3_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1736848159029,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区字节跳动字节跳动",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "a68ee40dac9c2c061nJy2dm_FFRQxY65UfuX",
+        "encryptId": "4424a39f41268bae03V709y_FFpV",
+        "encryptUserId": "de8e06a0afc138af1HV73tu4F1U~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "大数据项目功能测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.162968,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.400181,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/413d90228c5d7b0bcc144510ac194344",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "职位描述\n1、负责客户对接过程中技术问题的分析定位和排查，保障客户顺利使用产品、达成业务目标\n2、处理客户的技术反馈，能进行简单代码查阅、分析解决问题，给予客户及时响应，提升客户满意度； \n3、梳理客户技术问题清单，包括故障和需求，跟踪问题解决进度，及时反馈至产研内部，促进问题妥善解决与数据产品迭代优化；\n4、归纳和总结常见技术问题，输出规范的问题排查解决文档； \n5、编写相关产品问题和技术支持分析的报告，整理技术文档，进行技术相关培训。\n能力要求\n1、计算机、软件或相关专业，有tob项目交付经验优先；\n2、熟悉以下能力之一：\n1）熟练使用至少一门语言Java、Obj-C、Python、JavaScript、Go等，熟悉 Web 前后端开发和常见框架，具备1年以上技术支持或者技术开发相关经验；\n2）熟悉大数据生态环境，Hadoop、hive、spark、flink、kafka、Clickhouse至少精通一种，熟悉Linux/Unix系统、网络、硬件相关知识，熟悉Docker、K8S/Istio等容器技术和工具，有云平台经验优先，具备大型IT系统实施和运维经验优先，具有OLAP引擎(clickhouse、starRocks等)经验优先；\n3）熟悉数据导入导出的过程，熟练使用一种调度工具Azkaban、Airflow、Oozie、DolphinScheduler、Kettle等；\n3、出色的问题分析解决能力和多线程并行工作能力；\n4、具备较强的逻辑思维能力、沟通协调能力，富有责任心、执行力、乐观积极，具备自学能力； \n5、具备较强的团队合作意识和客户服务意识，有企业客户服务和数据产品相关经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "BI",
+            "功能测试",
+            "计算机相关专业",
+            "报表"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dddb29f04d1c841e95b1663587fedc12"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BGXFTdmb8YZbm-e1Il2v6rxxHPZ3id_jxzKlbcVv_BbFyY2eHCxLzd6XMFOKpzdjYq85XxrJxqm7cPRNca2PQ_XAdFxXpGB_2iHgcfIB56mp4TFQ5_PTdXH3Dx8z2D9-K8aK9qTh24NRtJgj7W5YJcwAMw9vvmsUjx0fmuoLGwl2mdzxxPQ-m5pGAKxqig~~",
+    "selfAccess": false,
+    "sessionId": null
 }

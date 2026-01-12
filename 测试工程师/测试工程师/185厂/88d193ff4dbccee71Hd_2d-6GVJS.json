@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bJ-5DJi61bRLW-31YQw0Y_em5VflwQhEWO05j7rzjUVqz5gOsYcwwdYUQ3P7XDPRIOMILT0yqcmEadtvh2Ly12-waC95Hc0zOtMj9TU-UwpdE3p1",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "88d193ff4dbccee71Hd_2d-6GVJS",
-      "encryptUserId": "23de526ac65a9ff41H163dS-FFQ~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101260100,
-      "locationName": "贵阳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n负责新研产品研发阶段的测试需求分解、测试计划制定、测试方法、方案、场景设计，开展研发测试，对单元测试结果进行评估，提供整机测试报告（功能性能、环境适应性、供电兼容性、电磁等全面技术符合性测试）\n任职要求：\n大学本科及以上学历\n电气技术、电子技术、测控抚摩、自动控制等相关工科专业\n1年以上相关工作经验\n熟悉CAD、Word、Excel、MES等办公软件，掌握各种试验设备的操作和应用，电路基础知识，用电安全规范，设备操作规范",
-      "encryptAddressId": "6abdc18a4aa5897803x62NS4ElRYwIq4Vvg~",
-      "address": "贵阳花溪区航空工业贵阳航空电机有限公司乌江路8号",
-      "longitude": 106.704007,
-      "latitude": 26.485915,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfa9f547316e33a96222ed2233e1adfb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b879423134166e9575477cddcf0cdc09",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "测试工作经验",
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟女士",
-      "title": "人力资源部部长助理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240610/607f1f3d68754fd0593d63f2ff3bd81324d67e591dc3c5552b2fc9a1e5efb947f438764f0161b76_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "185厂",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f53809da3f65b178331y2NW5",
-      "brandName": "185厂",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190515/5b2f9d4925eb3685482a513b709954ecb729fb103a4f6e23730d7911070b1b36.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "定期体检"
-      ],
-      "activeTime": 1729611108194,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "185厂",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "185厂",
+        "certificated": true,
+        "large": null,
+        "name": "孟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240610/607f1f3d68754fd0593d63f2ff3bd81324d67e591dc3c5552b2fc9a1e5efb947f438764f0161b76_b.jpg",
+        "title": "人力资源部部长助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729611108194,
+        "brandName": "185厂",
+        "customerBrandName": "185厂",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "f53809da3f65b178331y2NW5",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "定期体检"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190515/5b2f9d4925eb3685482a513b709954ecb729fb103a4f6e23730d7911070b1b36.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "贵阳花溪区航空工业贵阳航空电机有限公司乌江路8号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6abdc18a4aa5897803x62NS4ElRYwIq4Vvg~",
+        "encryptId": "88d193ff4dbccee71Hd_2d-6GVJS",
+        "encryptUserId": "23de526ac65a9ff41H163dS-FFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.485915,
+        "location": 101260100,
+        "locationName": "贵阳",
+        "longitude": 106.704007,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b879423134166e9575477cddcf0cdc09",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n负责新研产品研发阶段的测试需求分解、测试计划制定、测试方法、方案、场景设计，开展研发测试，对单元测试结果进行评估，提供整机测试报告（功能性能、环境适应性、供电兼容性、电磁等全面技术符合性测试）\n任职要求：\n大学本科及以上学历\n电气技术、电子技术、测控抚摩、自动控制等相关工科专业\n1年以上相关工作经验\n熟悉CAD、Word、Excel、MES等办公软件，掌握各种试验设备的操作和应用，电路基础知识，用电安全规范，设备操作规范",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "自动化测试经验",
+            "测试工作经验",
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfa9f547316e33a96222ed2233e1adfb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bJ-5DJi61bRLW-31YQw0Y_em5VflwQhEWO05j7rzjUVqz5gOsYcwwdYUQ3P7XDPRIOMILT0yqcmEadtvh2Ly12-waC95Hc0zOtMj9TU-UwpdE3p1",
+    "selfAccess": false,
+    "sessionId": null
 }

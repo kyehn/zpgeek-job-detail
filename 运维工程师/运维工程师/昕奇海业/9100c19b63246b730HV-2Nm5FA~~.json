@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "P2vg9jD1tiZew-P1YhySTtjog3OSqNgWns7E01i0CgzRqYr2rERPV7PN5Gp_UaTnpP70PGiD1IYKLu3q5BOowqX0nuGzyyRbRMt-dRcSGm83PQukAl3MDW3BcIb6Sq6EmCqdxyU9",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9100c19b63246b730HV-2Nm5FA~~",
-      "encryptUserId": "d2300adf8728db841XRy0t21ElU~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "熟练掌握cad 有完善办公软件使用能力 具备光纤通讯一定基础知识及操作能力",
-      "encryptAddressId": "06cc8aba9d0d0e6403192Nm6GA~~",
-      "address": "北京朝阳区丰苑大厦516",
-      "longitude": 116.4994,
-      "latitude": 39.93232,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ce61b968c144316755234365de3989c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00e8d56bb6ee7b33917e9cbdadfc23b2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维",
-        "光缆运维",
-        "IT支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "梁先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "昕奇海业",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3c20143589e4350903N82tW-",
-      "brandName": "昕奇海业",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723528031115,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昕奇海业",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昕奇海业",
+        "certificated": true,
+        "large": null,
+        "name": "梁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723528031115,
+        "brandName": "昕奇海业",
+        "customerBrandName": "昕奇海业",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3c20143589e4350903N82tW-",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区丰苑大厦516",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "06cc8aba9d0d0e6403192Nm6GA~~",
+        "encryptId": "9100c19b63246b730HV-2Nm5FA~~",
+        "encryptUserId": "d2300adf8728db841XRy0t21ElU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.93232,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.4994,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00e8d56bb6ee7b33917e9cbdadfc23b2",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "熟练掌握cad 有完善办公软件使用能力 具备光纤通讯一定基础知识及操作能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "运维",
+            "光缆运维",
+            "IT支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ce61b968c144316755234365de3989c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "P2vg9jD1tiZew-P1YhySTtjog3OSqNgWns7E01i0CgzRqYr2rERPV7PN5Gp_UaTnpP70PGiD1IYKLu3q5BOowqX0nuGzyyRbRMt-dRcSGm83PQukAl3MDW3BcIb6Sq6EmCqdxyU9",
+    "selfAccess": false,
+    "sessionId": null
 }

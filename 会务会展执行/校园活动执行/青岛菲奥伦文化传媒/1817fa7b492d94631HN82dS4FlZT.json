@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "joE0VE5UzYrgb-S1KC80twvj0dKp6sAazmMrZUElXkc4zQBT1qV-OCzr2d_9kxG2dp78Riy5RP3RWogR69YPAnIjsQEpqb3FTXuw4KAPtJoWWQ3xJBdJdEzhqdvC-840kdR9QgnY2UIbgm_S5REzno7f",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1817fa7b492d94631HN82dS4FlZT",
-      "encryptUserId": "20fccfbc30e997f90XB509m8EFBZ",
-      "invalidStatus": false,
-      "jobName": "校园活动执行",
-      "position": 140506,
-      "positionName": "会务/会展执行",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、学生会主席，部长、青协、社团，等负责人联系\n2、活动组织负责人，有学生组织任职者联系，其他勿扰，毕业勿扰！ ！\n3、能和学校申请开展活动的！!预计下学期开学开展，一场活动薪资（3000-7000）\n4、工作地点:线上办公\n     工作时间:时间自由\n5、可盖实习证明\n6、有认识这些组织负责人的同学也可以联系推荐，活动举办成功，推荐费600元！",
-      "encryptAddressId": "49d75d31ab687ed01nR73NW1GVRVxYS9U_2c",
-      "address": "长沙岳麓区长沙大学城·河西大学城1",
-      "longitude": 112.937054,
-      "latitude": 28.16652,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b74a876dbd1b312ace3121299b93afd2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a700daa652114257cc7bd0f5f943956",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "学生会",
-        "外联部",
-        "青年志愿者协会"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邓先生",
-      "title": "市场部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "青岛菲奥伦文化传媒",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ec47a7492b91b47b1HF93du5F1o~",
-      "brandName": "青岛菲奥伦文化传媒",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100104,
-      "industryName": "文化艺术/娱乐",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732167011305,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青岛菲奥伦文化传媒",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青岛菲奥伦文化传媒",
+        "certificated": true,
+        "large": null,
+        "name": "邓先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "市场部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732167011305,
+        "brandName": "青岛菲奥伦文化传媒",
+        "customerBrandName": "青岛菲奥伦文化传媒",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ec47a7492b91b47b1HF93du5F1o~",
+        "focusBrand": false,
+        "industry": 100104,
+        "industryName": "文化艺术/娱乐",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区长沙大学城·河西大学城1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "49d75d31ab687ed01nR73NW1GVRVxYS9U_2c",
+        "encryptId": "1817fa7b492d94631HN82dS4FlZT",
+        "encryptUserId": "20fccfbc30e997f90XB509m8EFBZ",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "校园活动执行",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 28.16652,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.937054,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a700daa652114257cc7bd0f5f943956",
+        "position": 140506,
+        "positionName": "会务/会展执行",
+        "postDescription": "1、学生会主席，部长、青协、社团，等负责人联系\n2、活动组织负责人，有学生组织任职者联系，其他勿扰，毕业勿扰！ ！\n3、能和学校申请开展活动的！!预计下学期开学开展，一场活动薪资（3000-7000）\n4、工作地点:线上办公\n     工作时间:时间自由\n5、可盖实习证明\n6、有认识这些组织负责人的同学也可以联系推荐，活动举办成功，推荐费600元！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "学生会",
+            "外联部",
+            "青年志愿者协会"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b74a876dbd1b312ace3121299b93afd2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "joE0VE5UzYrgb-S1KC80twvj0dKp6sAazmMrZUElXkc4zQBT1qV-OCzr2d_9kxG2dp78Riy5RP3RWogR69YPAnIjsQEpqb3FTXuw4KAPtJoWWQ3xJBdJdEzhqdvC-840kdR9QgnY2UIbgm_S5REzno7f",
+    "selfAccess": false,
+    "sessionId": null
 }

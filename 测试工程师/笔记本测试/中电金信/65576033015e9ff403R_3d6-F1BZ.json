@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CfAu00jILj7Vm-A18gDbOE6wg846-5nkHR0xX49fVJFqqfIZBscLzTXnv9iFSG3-j8TigSkgypK3iI8ZrShZAzD4mcBbdyfwtcVb4GawfWfPlPsiff8ns7xcxY8ceO-2gjS-pcbhvFcPT-kBhOOuJC9MhdnEHYIGV9O8AalaTXaNgHCwEGr51BaWa3TIL1z4IeADbOqmq5ST9vHoVxlbhkkt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "65576033015e9ff403R_3d6-F1BZ",
-      "encryptUserId": "5452c36c4ee296f71nV_2Ny_GFY~",
-      "invalidStatus": false,
-      "jobName": "笔记本测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n\n负责GPU相关的功能/性能/压力测试\n\n英文要求会需要能独立读写英文文段\n技能要求：\n\n1. 1-2年工作经验\n\n2. 有测试相关经验，整理报告和基本的bug分析能力\n\n3. 熟悉Linux系统，熟悉shell\n\n4. 熟悉服务器、笔记本、台式机等硬件，了解系统测试内容\n\n5. 英语读写良好\n\n6. 计算机相关专业\n\n7. 沟通良好，主动性强，态度端正负责",
-      "encryptAddressId": "9eac987a2e1b59711nV70tu1FVNVwoS2UP-Z",
-      "address": "深圳南山区英特尔(中国)有限公司深圳分公司4楼",
-      "longitude": 113.949267,
-      "latitude": 22.529927,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2bcc81c8525971dce37529875336650",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8cafb397f05ec49a5da5f117d4a65fb7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "计算机相关专业",
-        "笔记本测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "汪女士",
-      "title": "高级招聘",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=fbe37e67f44156ffjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Sn3t05Np5vYxpS1O0mb01Z-r3KZBcte2zWT94ZQlcpHJV-a72F3QaErK2WRM6xo1ISgDlnaYM_lhKXtOwhnUqUHRE9SLUaMCqkJUlRr0LjuBf70SOmAJd13E~&radius=15",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1733906256901,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "汪女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=fbe37e67f44156ffjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Sn3t05Np5vYxpS1O0mb01Z-r3KZBcte2zWT94ZQlcpHJV-a72F3QaErK2WRM6xo1ISgDlnaYM_lhKXtOwhnUqUHRE9SLUaMCqkJUlRr0LjuBf70SOmAJd13E~&radius=15",
+        "title": "高级招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1733906256901,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区英特尔(中国)有限公司深圳分公司4楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9eac987a2e1b59711nV70tu1FVNVwoS2UP-Z",
+        "encryptId": "65576033015e9ff403R_3d6-F1BZ",
+        "encryptUserId": "5452c36c4ee296f71nV_2Ny_GFY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "笔记本测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.529927,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.949267,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8cafb397f05ec49a5da5f117d4a65fb7",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "工作内容：\n\n负责GPU相关的功能/性能/压力测试\n\n英文要求会需要能独立读写英文文段\n技能要求：\n\n1. 1-2年工作经验\n\n2. 有测试相关经验，整理报告和基本的bug分析能力\n\n3. 熟悉Linux系统，熟悉shell\n\n4. 熟悉服务器、笔记本、台式机等硬件，了解系统测试内容\n\n5. 英语读写良好\n\n6. 计算机相关专业\n\n7. 沟通良好，主动性强，态度端正负责",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "通信相关专业",
+            "计算机相关专业",
+            "笔记本测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2bcc81c8525971dce37529875336650"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CfAu00jILj7Vm-A18gDbOE6wg846-5nkHR0xX49fVJFqqfIZBscLzTXnv9iFSG3-j8TigSkgypK3iI8ZrShZAzD4mcBbdyfwtcVb4GawfWfPlPsiff8ns7xcxY8ceO-2gjS-pcbhvFcPT-kBhOOuJC9MhdnEHYIGV9O8AalaTXaNgHCwEGr51BaWa3TIL1z4IeADbOqmq5ST9vHoVxlbhkkt",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fYAMSUrlVGNdP-g1HNh2tVsEbEwkicfNBLrKHsycfQF2pddhBcQlCK5ADyRcYlcKfUVAdBeCtpxRBffejvgJjn-Wv6sfJhaw7522yw2N4v0TQgBDIa1x",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "58e00e65241bebab1Xx53dq-FlVZ",
-      "encryptUserId": "bc8e5292fb0faa790n183N66EFpX",
-      "invalidStatus": false,
-      "jobName": "电子工程师",
-      "position": 101401,
-      "positionName": "电子工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "电路设计，电路调试及测试",
-      "encryptAddressId": "7a6bec5ea1c3547a331y3tS-GFE~",
-      "address": "南京秦淮区城市之星202室",
-      "longitude": 118.77814,
-      "latitude": 32.02569,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95e57f3a537360c0a2520183f3c56e7a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8b78e66b3b7f07834fecab28ed32b80a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电路设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "袁先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230508/607f1f3d68754fd0e3a1c32467e81e9f8801399943e180f914c6fe94cbd09507c30a4b96a23_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "钟山微波",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d1d1cf0ee5d3cf1f1XN42dy4EVA~",
-      "brandName": "钟山微波",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "公司以研发生产微波部件，组件和整机为主，主要用于雷达和通信以军用为主",
-      "labels": [],
-      "activeTime": 1727320416000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "钟山微波",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "钟山微波",
+        "certificated": true,
+        "large": null,
+        "name": "袁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230508/607f1f3d68754fd0e3a1c32467e81e9f8801399943e180f914c6fe94cbd09507c30a4b96a23_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727320416000,
+        "brandName": "钟山微波",
+        "customerBrandName": "钟山微波",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d1d1cf0ee5d3cf1f1XN42dy4EVA~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "公司以研发生产微波部件，组件和整机为主，主要用于雷达和通信以军用为主",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京秦淮区城市之星202室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7a6bec5ea1c3547a331y3tS-GFE~",
+        "encryptId": "58e00e65241bebab1Xx53dq-FlVZ",
+        "encryptUserId": "bc8e5292fb0faa790n183N66EFpX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "电子工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.02569,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.77814,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8b78e66b3b7f07834fecab28ed32b80a",
+        "position": 101401,
+        "positionName": "电子工程师",
+        "postDescription": "电路设计，电路调试及测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "电路设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95e57f3a537360c0a2520183f3c56e7a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fYAMSUrlVGNdP-g1HNh2tVsEbEwkicfNBLrKHsycfQF2pddhBcQlCK5ADyRcYlcKfUVAdBeCtpxRBffejvgJjn-Wv6sfJhaw7522yw2N4v0TQgBDIa1x",
+    "selfAccess": false,
+    "sessionId": null
 }

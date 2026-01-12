@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eHLWRlAUAMnEm-n1-fK8pBPVxZ9z1i2VM6faq0qRQMAU69wnHjrqGKFV9sShCjZjW8P2ElXtZlaFjeugFJeqvxSyONplVW9kfZWKNzt1lldHIiiBcw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e3ebf3e0873977021nV-2t2-EVRW",
-      "encryptUserId": "98394dc76d7481b50nd42ti4F1Q~",
-      "invalidStatus": false,
-      "jobName": "项目实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101210200,
-      "locationName": "湖州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、有自动化工作经验2年以上；\n2、有电工特种作业证；\n3、较强的动手能力；\n4、对工业现场各类控制系统比较熟悉，掌握市场主流PLC特性；\n5、熟悉电脑的一般操作，可以排查一般网络故障与问题；\n6、对工业现场通讯有一定了解，特别是modbus RTU通讯。\n7、能接受外出实施",
-      "encryptAddressId": "d489a7ef2677c0961Hx43tW7FVI~",
-      "address": "湖州长兴县画溪智慧创业谷1",
-      "longitude": 119.914841,
-      "latitude": 30.980772,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9377bd069eeb2694f2b870044aff0d8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/597ed9c2729f3283f59aba1d741f8d60",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络协议",
-        "嵌入式技术",
-        "硬件",
-        "物联网"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "豆先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190214/e7838284de4cdf6bc12dd64c2cc9c530a64bc35483ed757cb900caf1031_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "斯博睿",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f1a49e44583020521HB_2960Fg~~",
-      "brandName": "斯博睿",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727452306373,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "斯博睿",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "斯博睿",
+        "certificated": true,
+        "large": null,
+        "name": "豆先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190214/e7838284de4cdf6bc12dd64c2cc9c530a64bc35483ed757cb900caf1031_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727452306373,
+        "brandName": "斯博睿",
+        "customerBrandName": "斯博睿",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f1a49e44583020521HB_2960Fg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "湖州长兴县画溪智慧创业谷1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d489a7ef2677c0961Hx43tW7FVI~",
+        "encryptId": "e3ebf3e0873977021nV-2t2-EVRW",
+        "encryptUserId": "98394dc76d7481b50nd42ti4F1Q~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "项目实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.980772,
+        "location": 101210200,
+        "locationName": "湖州",
+        "longitude": 119.914841,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/597ed9c2729f3283f59aba1d741f8d60",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1、有自动化工作经验2年以上；\n2、有电工特种作业证；\n3、较强的动手能力；\n4、对工业现场各类控制系统比较熟悉，掌握市场主流PLC特性；\n5、熟悉电脑的一般操作，可以排查一般网络故障与问题；\n6、对工业现场通讯有一定了解，特别是modbus RTU通讯。\n7、能接受外出实施",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "网络协议",
+            "嵌入式技术",
+            "硬件",
+            "物联网"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9377bd069eeb2694f2b870044aff0d8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eHLWRlAUAMnEm-n1-fK8pBPVxZ9z1i2VM6faq0qRQMAU69wnHjrqGKFV9sShCjZjW8P2ElXtZlaFjeugFJeqvxSyONplVW9kfZWKNzt1lldHIiiBcw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_ifF0l8Byb6eD-c1VcoA0r1ozUDFZOmRpX4ggj1y4K8faFC8n0roTOQi28QJFbOOnlCEz06RdRw5ezKCsD58T0wz-eJgqoZkCDDrXSW44en0ukJMt7WWejEjlIHlH451caAB9DymciY0PQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "01fb01017573622d1H1z2dW6GVBX",
-      "encryptUserId": "820d55b1308ef7ff1nZ529m7Elc~",
-      "invalidStatus": false,
-      "jobName": "运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1: 熟练使用shell和python脚本，具备网络和系统相关知识\n2：熟悉中间件与各类型数据库的使用，搭建及备份\n3：熟悉Java及Node环境环境的代码部署及相关配置\n4：熟悉docker原理并熟练运用\n5：熟悉k8s原理及部署，具备运维实战经验\n6：熟悉Prometheus，Grafana等监控平台\n7: 熟悉Jenkins的使用，有持续集成、持续交付或DevOps方面的经验\n8、工作积极主动，有系统化的问题分析能力与解决能力。",
-      "encryptAddressId": "a65a0cddd17b47361ndy3tW4FlpRw4m3WPiZ",
-      "address": "杭州余杭区之江实验室1",
-      "longitude": 119.900041,
-      "latitude": 30.263027,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfb358d3410beddc409201341513d5ca276bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf7d462be419080863cdbde1ef4d2d6bbd6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Docker",
-        "系统运维",
-        "计算机相关专业",
-        "Kubernetes"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "魏女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180926/ee9ceb6adb47cb04b03c83c4400d9853dfb21bfceda034df2ed2ac3d2c6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "逆熵信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "71cf3835877d68e01nN-0ti9E1o~",
-      "brandName": "逆熵信息",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210610/1ed4ae4e12e210d22855fc929c04fd4d9112f656f2b01c65ce5ae57aaa7d582d.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "逆熵是一家新锐IT服务商，核心团队来自于阿里、网易、拉勾、字节等知名互联网公司，致力于创造创新企业服务，旨在为新一代，互联网、数字政务、智能汽车、物联网等新型企业提供优质的综合信息技术解决方案，为企业分担管理熵增，提升企业效率。",
-      "labels": [],
-      "activeTime": 1731576335196,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "逆熵信息",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "逆熵信息",
+        "certificated": true,
+        "large": null,
+        "name": "魏女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180926/ee9ceb6adb47cb04b03c83c4400d9853dfb21bfceda034df2ed2ac3d2c6_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731576335196,
+        "brandName": "逆熵信息",
+        "customerBrandName": "逆熵信息",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "71cf3835877d68e01nN-0ti9E1o~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "逆熵是一家新锐IT服务商，核心团队来自于阿里、网易、拉勾、字节等知名互联网公司，致力于创造创新企业服务，旨在为新一代，互联网、数字政务、智能汽车、物联网等新型企业提供优质的综合信息技术解决方案，为企业分担管理熵增，提升企业效率。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210610/1ed4ae4e12e210d22855fc929c04fd4d9112f656f2b01c65ce5ae57aaa7d582d.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区之江实验室1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "a65a0cddd17b47361ndy3tW4FlpRw4m3WPiZ",
+        "encryptId": "01fb01017573622d1H1z2dW6GVBX",
+        "encryptUserId": "820d55b1308ef7ff1nZ529m7Elc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.263027,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.900041,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf7d462be419080863cdbde1ef4d2d6bbd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "任职要求：\n1: 熟练使用shell和python脚本，具备网络和系统相关知识\n2：熟悉中间件与各类型数据库的使用，搭建及备份\n3：熟悉Java及Node环境环境的代码部署及相关配置\n4：熟悉docker原理并熟练运用\n5：熟悉k8s原理及部署，具备运维实战经验\n6：熟悉Prometheus，Grafana等监控平台\n7: 熟悉Jenkins的使用，有持续集成、持续交付或DevOps方面的经验\n8、工作积极主动，有系统化的问题分析能力与解决能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "Docker",
+            "系统运维",
+            "计算机相关专业",
+            "Kubernetes"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfb358d3410beddc409201341513d5ca276bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_ifF0l8Byb6eD-c1VcoA0r1ozUDFZOmRpX4ggj1y4K8faFC8n0roTOQi28QJFbOOnlCEz06RdRw5ezKCsD58T0wz-eJgqoZkCDDrXSW44en0ukJMt7WWejEjlIHlH451caAB9DymciY0PQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "dikadIIM5wCEs-c1reHBXuxTd3d2XSaNZC4ppSAhM12WguM6m1jaob6-2_SEStsscR5gEiQc5CwcQ-veUirMnfMEkp0qxTJmMB_pY1Mo6FAWYE0mXBfDBlnZg1f6G3YJdTFmpwbU5oVGH74~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5ae6defc9d58411f1nB-2dq-F1RX",
-      "encryptUserId": "b9aba9db95a6216f0nV52Ny_EVNW",
-      "invalidStatus": false,
-      "jobName": "电子技术员",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101210400,
-      "locationName": "宁波",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、做样品丶测试。\n2、文件归档丶整理。\n3、会熟练使用电脑画图\n4、优秀应届生也可以。",
-      "encryptAddressId": "51ff3ad3b540f78503Zz39m1FVE~",
-      "address": "宁波镇海区富尔顿公司骆驼街道汇锦路18号富尔顿大厦513",
-      "longitude": 121.581905,
-      "latitude": 29.950191,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1433a59eab560499808ef8a5deb71eb4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c38557aab6c68d0e1e2628037dd3c96d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "样品功能测试。"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "匡先生",
-      "title": "总经理",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=80a49da1d14edd71jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Zn3V0vdks69w_SlHonrY2MLije5hV4b7pDGkrMw4A8SYPqvqkEXEYRLCxWUQxwIxESw7nyaxb-lJKX9Hih3B-A3UU8U-eI8jtwA~~&radius=15",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "KUANGS",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0e295ad6ab92e5761nF42ti7EVE~",
-      "brandName": "KUANGS",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725467064283,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "KUANGS",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "KUANGS",
+        "certificated": true,
+        "large": null,
+        "name": "匡先生",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=80a49da1d14edd71jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Zn3V0vdks69w_SlHonrY2MLije5hV4b7pDGkrMw4A8SYPqvqkEXEYRLCxWUQxwIxESw7nyaxb-lJKX9Hih3B-A3UU8U-eI8jtwA~~&radius=15",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725467064283,
+        "brandName": "KUANGS",
+        "customerBrandName": "KUANGS",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0e295ad6ab92e5761nF42ti7EVE~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宁波镇海区富尔顿公司骆驼街道汇锦路18号富尔顿大厦513",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "51ff3ad3b540f78503Zz39m1FVE~",
+        "encryptId": "5ae6defc9d58411f1nB-2dq-F1RX",
+        "encryptUserId": "b9aba9db95a6216f0nV52Ny_EVNW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "电子技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.950191,
+        "location": 101210400,
+        "locationName": "宁波",
+        "longitude": 121.581905,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c38557aab6c68d0e1e2628037dd3c96d",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "1、做样品丶测试。\n2、文件归档丶整理。\n3、会熟练使用电脑画图\n4、优秀应届生也可以。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-7K",
+        "showSkills": [
+            "样品功能测试。"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1433a59eab560499808ef8a5deb71eb4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "dikadIIM5wCEs-c1reHBXuxTd3d2XSaNZC4ppSAhM12WguM6m1jaob6-2_SEStsscR5gEiQc5CwcQ-veUirMnfMEkp0qxTJmMB_pY1Mo6FAWYE0mXBfDBlnZg1f6G3YJdTFmpwbU5oVGH74~",
+    "selfAccess": false,
+    "sessionId": null
 }

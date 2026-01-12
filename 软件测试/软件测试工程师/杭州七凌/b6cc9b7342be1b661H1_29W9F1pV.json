@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fqQLHesfzvFLN-f134jYf9qqB46N3YwfaM4mNiXXttU_Z-a7PR_zflqmzeqmDclQiCVec4s_YS-nnrfQ_vPSLKWcALHh4BQQ4nQulogSV86EwkdOuATzaJCbF6MR9SGPsXugCOKe6MyL3pc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b6cc9b7342be1b661H1_29W9F1pV",
-      "encryptUserId": "7bbe8af4d8a01c7c0nN-39i-F1dU",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K",
-      "payTypeDesc": null,
-      "postDescription": "【基本福利待遇】【25届勿扰-要学信网学历】\n正常上下班时间：9:30-12:00   14:00-18:30，周末双休\n餐补福利：约等于450元/月+加班餐补\n入职缴纳五险一金（杭州最低基数缴纳）\n岗位职责：\n1. 对产品需求进行分析、评审，提前规避有问题需求，设计测试点、测试用例；\n 2. 对PC软件/web页面/移动端app进行功能测试、数值测试、性能测试、自动化测试等日常质量保障； \n3. 积极发现和推动解决项目中的进度、流程、质量风险，并能对项目提出合理化建议； \n4. 遇到问题和发现风险及时向产品和上级反馈；\n岗位要求：\n1. 熟悉测试的基本理论和方法，能独立制定测试计划、编写测试用例、发送测试报告，具有软件测试实践经验优先；\n 2. 有强烈的主动性、责任心和执行力，具备产品整体的质量把控意识和风险意识； \n3. 有清晰的逻辑分析和沟通协作能力，心理素质良好，可以承受一定的压力；\n 4. 熟悉计算机基础知识，了解Linux、数据库基本操作；",
-      "encryptAddressId": "19f4ffe0c786af0d1nB52t-4E1NYxo68Uvif",
-      "address": "杭州滨江区网易(杭州)网络科技有限公司1",
-      "longitude": 120.190678,
-      "latitude": 30.187641,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7657049ba6f29348b16143fc4c2a219c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99d972df9a1bce0d6aec50533e09ea78",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "测试工作经验",
-        "自动化测试",
-        "性能测试",
-        "MySQL",
-        "功能测试",
-        "计算机相关专业",
-        "掌握软件测试理论和流程",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "叶女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241029/607f1f3d68754fd0e8a92fa344580805f1143e4da2018fbae77aa9fe8ec97079c5da766b87926b7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "杭州七凌",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "aa23359c2fa1edbf1nFy2Ny0EVo~",
-      "brandName": "杭州七凌",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210803/46d39d412614f3688fcd1da74696605dc572b45e47fc5613c59c5a5de380bf2a.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1730543523179,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州七凌",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州七凌",
+        "certificated": true,
+        "large": null,
+        "name": "叶女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241029/607f1f3d68754fd0e8a92fa344580805f1143e4da2018fbae77aa9fe8ec97079c5da766b87926b7_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730543523179,
+        "brandName": "杭州七凌",
+        "customerBrandName": "杭州七凌",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "aa23359c2fa1edbf1nFy2Ny0EVo~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210803/46d39d412614f3688fcd1da74696605dc572b45e47fc5613c59c5a5de380bf2a.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区网易(杭州)网络科技有限公司1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "19f4ffe0c786af0d1nB52t-4E1NYxo68Uvif",
+        "encryptId": "b6cc9b7342be1b661H1_29W9F1pV",
+        "encryptUserId": "7bbe8af4d8a01c7c0nN-39i-F1dU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.187641,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.190678,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99d972df9a1bce0d6aec50533e09ea78",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "【基本福利待遇】【25届勿扰-要学信网学历】\n正常上下班时间：9:30-12:00   14:00-18:30，周末双休\n餐补福利：约等于450元/月+加班餐补\n入职缴纳五险一金（杭州最低基数缴纳）\n岗位职责：\n1. 对产品需求进行分析、评审，提前规避有问题需求，设计测试点、测试用例；\n 2. 对PC软件/web页面/移动端app进行功能测试、数值测试、性能测试、自动化测试等日常质量保障； \n3. 积极发现和推动解决项目中的进度、流程、质量风险，并能对项目提出合理化建议； \n4. 遇到问题和发现风险及时向产品和上级反馈；\n岗位要求：\n1. 熟悉测试的基本理论和方法，能独立制定测试计划、编写测试用例、发送测试报告，具有软件测试实践经验优先；\n 2. 有强烈的主动性、责任心和执行力，具备产品整体的质量把控意识和风险意识； \n3. 有清晰的逻辑分析和沟通协作能力，心理素质良好，可以承受一定的压力；\n 4. 熟悉计算机基础知识，了解Linux、数据库基本操作；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K",
+        "showSkills": [
+            "Java",
+            "测试工作经验",
+            "自动化测试",
+            "性能测试",
+            "MySQL",
+            "功能测试",
+            "计算机相关专业",
+            "掌握软件测试理论和流程",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7657049ba6f29348b16143fc4c2a219c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fqQLHesfzvFLN-f134jYf9qqB46N3YwfaM4mNiXXttU_Z-a7PR_zflqmzeqmDclQiCVec4s_YS-nnrfQ_vPSLKWcALHh4BQQ4nQulogSV86EwkdOuATzaJCbF6MR9SGPsXugCOKe6MyL3pc~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1PrWn1H40PEhb-L19NE72Gdyu_8h9FXZ7d-SwgnTPf9yFG5k8bcSk_AZZvYI2s_vP9Ok4h4X9HVM79yQsIWY83w579h4odzfzcYMqdevjS-OisIp",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "18a95a2313951e1b1X183Nq_EFM~",
-      "encryptUserId": "a622079e253f864c03xz0t61EVI~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101120500,
-      "locationName": "烟台",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1. 高分子产品失效解析\n2. 塑料产品研发\n3. 材料检测及检测能力提升",
-      "encryptAddressId": "f9a5e8080b2fcc151Xd92ty_F1Q~",
-      "address": "烟台福山区富士康华北检测中心",
-      "longitude": 121.129469,
-      "latitude": 37.589761,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d611bb5513c01213ab1ead6bd1665d2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6833056f96944c57829ab0865707500d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "测试开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "人资",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181113/daecd47dc9758c0dacdefe4829a419b1651c16d348fed128656fb05cb67_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "鸿富泰精密电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "49f2a3c4ce68ca8c1HR_2t65Ew~~",
-      "brandName": "鸿富泰精密电子",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1717368243849,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鸿富泰精密电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鸿富泰精密电子",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181113/daecd47dc9758c0dacdefe4829a419b1651c16d348fed128656fb05cb67_b.jpg",
+        "title": "人资"
+    },
+    "brandComInfo": {
+        "activeTime": 1717368243849,
+        "brandName": "鸿富泰精密电子",
+        "customerBrandName": "鸿富泰精密电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "49f2a3c4ce68ca8c1HR_2t65Ew~~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "烟台福山区富士康华北检测中心",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f9a5e8080b2fcc151Xd92ty_F1Q~",
+        "encryptId": "18a95a2313951e1b1X183Nq_EFM~",
+        "encryptUserId": "a622079e253f864c03xz0t61EVI~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 37.589761,
+        "location": 101120500,
+        "locationName": "烟台",
+        "longitude": 121.129469,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6833056f96944c57829ab0865707500d",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1. 高分子产品失效解析\n2. 塑料产品研发\n3. 材料检测及检测能力提升",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "测试开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d611bb5513c01213ab1ead6bd1665d2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1PrWn1H40PEhb-L19NE72Gdyu_8h9FXZ7d-SwgnTPf9yFG5k8bcSk_AZZvYI2s_vP9Ok4h4X9HVM79yQsIWY83w579h4odzfzcYMqdevjS-OisIp",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VL2l4OFQIg6so-E1cq93-aANxi268fCh2ig1JG7IA5AknP2Onsx0SKhseNCNczaen440NhhRFSxWS5wXrXcqiXLGr7jNI-PF0bW7PQEq3Iu0XyfmG-8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "32b0a3a82bf494801Xx-39y4E1dT",
-      "encryptUserId": "7e5bc6e6c1c07e820nN739m1GFs~",
-      "invalidStatus": false,
-      "jobName": "软件售后技术支持",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101121500,
-      "locationName": "日照",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-7K",
-      "payTypeDesc": null,
-      "postDescription": "1.学习金蝶软件解决客户问题\n2.需要出差学习",
-      "encryptAddressId": "4e1a4ad14ad8cd1e0X142t-5ElE~",
-      "address": "日照东港区安泰国际广场1号楼3808",
-      "longitude": 119.532091,
-      "latitude": 35.434561,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bed423e163ac614458e3ed038035606d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bde1e924b01451498651e1be1d0d675b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "云服务",
-        "计算机/通信相关专业",
-        "软件实施经验",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220916/607f1f3d68754fd0f9ab89f43f0baadf0b679a16a15a9c2f5d8091edc1a15cfb8446b9b5a68_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "山东微蝶",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7c5c3bb8978fc8a71nF73dW8FFI~",
-      "brandName": "山东微蝶",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722925824907,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东微蝶",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东微蝶",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220916/607f1f3d68754fd0f9ab89f43f0baadf0b679a16a15a9c2f5d8091edc1a15cfb8446b9b5a68_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722925824907,
+        "brandName": "山东微蝶",
+        "customerBrandName": "山东微蝶",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7c5c3bb8978fc8a71nF73dW8FFI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "日照东港区安泰国际广场1号楼3808",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4e1a4ad14ad8cd1e0X142t-5ElE~",
+        "encryptId": "32b0a3a82bf494801Xx-39y4E1dT",
+        "encryptUserId": "7e5bc6e6c1c07e820nN739m1GFs~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件售后技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.434561,
+        "location": 101121500,
+        "locationName": "日照",
+        "longitude": 119.532091,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bde1e924b01451498651e1be1d0d675b",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "1.学习金蝶软件解决客户问题\n2.需要出差学习",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-7K",
+        "showSkills": [
+            "云服务",
+            "计算机/通信相关专业",
+            "软件实施经验",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bed423e163ac614458e3ed038035606d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VL2l4OFQIg6so-E1cq93-aANxi268fCh2ig1JG7IA5AknP2Onsx0SKhseNCNczaen440NhhRFSxWS5wXrXcqiXLGr7jNI-PF0bW7PQEq3Iu0XyfmG-8~",
+    "selfAccess": false,
+    "sessionId": null
 }

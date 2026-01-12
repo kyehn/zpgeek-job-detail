@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2No1FBnUhRVtG-r1ORnDxMeXHcVx9p0Fx6PT3GenfiB-hN3rk1m8y1OOPT8yPQVGKFVzhbYm0wTIHNu_ROQunSr2HX9DuWZ6DkwA6_MT4ME-I0ng8lG0",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bbb98c7d8723d4f91HF60t-7GVdS",
-      "encryptUserId": "160ff6ccf0d7d45a1nR62dm-FVVU",
-      "invalidStatus": false,
-      "jobName": "ERP实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101210900,
-      "locationName": "金华",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、深入客户现场，摸清企业管理特点和工作流程，准确把握用户需求，按企业要求制作和设计客户个性化设置，并指导用户实现企业的产品信息化；\n2、根据客户需求完成高格ERP产品相关项目实施工作；\n3、 参与需求调研与软件实施交付各阶段的工作，了解客户的管理特色及对系统的需求；\n4、掌控项目的进度，按要求完成当期任务；\n5、负责对于现场运作出现的一系列相关问题的解决；\n6、撰写并及时提交实施实施项目相关文档及资料；\n7、负责项目验收后系统的运行维护，解决处理客户的相关问题；\n8、持续总结项目实施经验、形成项目知识文档，并进行内部共享.\n\n任职资格：\n1、计算机、软件、信息化管理、财务等相关专业专科或以上学历；\n2、2年以上相关行业工作背景，懂项目管理，或具有软件实施和服务工作经验；\n3、具有较强的沟通能力，项目管理能力和推进能力；\n4、富有责任心、具备团队合作精神和较强的适应能力与学习能力；\n5、熟悉ERP产品或有项目实施经验者优先。",
-      "encryptAddressId": "5c39b4fd0016d2660HB_39y0GFRYxoW6Vfg~",
-      "address": "金华金华科技城·浙大网新科技产业孵化园C区C2幢二层212室",
-      "longitude": 119.789771,
-      "latitude": 29.171161,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffd37668df1414fec7e863867c9882f046bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf6294f603049c3c2f1ae006e9b9b3963a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "计算机相关专业",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曹女士",
-      "title": "行政人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200324/864dc6f835f69026a397d670b54acdba8d5ef9e97ca376c8576916f37e1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "沃维智能科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c5e3d2a0cbb879ec1HB43dm-FVQ~",
-      "brandName": "沃维智能科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732168508785,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "沃维智能科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "沃维智能科技",
+        "certificated": true,
+        "large": null,
+        "name": "曹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200324/864dc6f835f69026a397d670b54acdba8d5ef9e97ca376c8576916f37e1_b.jpg",
+        "title": "行政人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1732168508785,
+        "brandName": "沃维智能科技",
+        "customerBrandName": "沃维智能科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c5e3d2a0cbb879ec1HB43dm-FVQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "金华金华科技城·浙大网新科技产业孵化园C区C2幢二层212室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5c39b4fd0016d2660HB_39y0GFRYxoW6Vfg~",
+        "encryptId": "bbb98c7d8723d4f91HF60t-7GVdS",
+        "encryptUserId": "160ff6ccf0d7d45a1nR62dm-FVVU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "ERP实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.171161,
+        "location": 101210900,
+        "locationName": "金华",
+        "longitude": 119.789771,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf6294f603049c3c2f1ae006e9b9b3963a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "岗位职责：\n1、深入客户现场，摸清企业管理特点和工作流程，准确把握用户需求，按企业要求制作和设计客户个性化设置，并指导用户实现企业的产品信息化；\n2、根据客户需求完成高格ERP产品相关项目实施工作；\n3、 参与需求调研与软件实施交付各阶段的工作，了解客户的管理特色及对系统的需求；\n4、掌控项目的进度，按要求完成当期任务；\n5、负责对于现场运作出现的一系列相关问题的解决；\n6、撰写并及时提交实施实施项目相关文档及资料；\n7、负责项目验收后系统的运行维护，解决处理客户的相关问题；\n8、持续总结项目实施经验、形成项目知识文档，并进行内部共享.\n\n任职资格：\n1、计算机、软件、信息化管理、财务等相关专业专科或以上学历；\n2、2年以上相关行业工作背景，懂项目管理，或具有软件实施和服务工作经验；\n3、具有较强的沟通能力，项目管理能力和推进能力；\n4、富有责任心、具备团队合作精神和较强的适应能力与学习能力；\n5、熟悉ERP产品或有项目实施经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "软件实施经验",
+            "计算机相关专业",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffd37668df1414fec7e863867c9882f046bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2No1FBnUhRVtG-r1ORnDxMeXHcVx9p0Fx6PT3GenfiB-hN3rk1m8y1OOPT8yPQVGKFVzhbYm0wTIHNu_ROQunSr2HX9DuWZ6DkwA6_MT4ME-I0ng8lG0",
+    "selfAccess": false,
+    "sessionId": null
 }

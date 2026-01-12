@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "y3T3-wHo4Y1IP-w1SvgLsw3sdU9QNVS2wxK7eukqjXQCP9bmGC6Xfmhft_n9_aLr9AxPlvsLqPUsMN6kCSG1qNoNkza-G4Lsjrl2O9shC95RkGi7TgTvHbDM-xItxcrvn1l5c3bqhIaB7eWuwMJUJG5tdcKB4yC1JRO31jFjD0E8LhuNIF4fp2zdP38hLX9tt8itTZQf5V8KzMQHIHVJUXuQfA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "af0740ae7e99c9e303R_2tS_E1tU",
-      "encryptUserId": "d077260c16b25f2e0nF-3dq7E1RT",
-      "invalidStatus": false,
-      "jobName": "运维工程师（软件运维）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101300100,
-      "locationName": "南宁",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责软件系统日常支撑维护及客户响应工作；\n2、负责服务器日常运维保障；\n3、负责软件实施部署及测试工作；\n4、协助项目上线文档编写等工作。\n\n岗位要求：\n1、一年及以上工作经验，统招本科学历，计算机、软件、通讯等相关专业；\n2、熟悉mysql数据库；熟悉linux系统，具备SHELL脚本编写能力；\n3、有软件升级实施部署测试经验。\n4、性格开朗，学习及语言表达能力强，善于与人沟通、交流。\n5、有通信运营商相关工作经验优先。",
-      "encryptAddressId": "820cfedf403ed6881nFy2N6_GVtTwIu7V_mY",
-      "address": "南宁良庆区亚信科技广西项目组2号楼416室",
-      "longitude": 108.38031,
-      "latitude": 22.757168,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bf2de10c3e8060fdb5361f7075b237392a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bfd369645b6b917f72371adee9f42e1c106bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240428/607f1f3d68754fd03467b73f4aa6207c4e831004c2be126aa7c20fac0d51f302de53e7a90ce1275_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "咯拉树",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e86345646f2af9711Hdy39i4EVQ~",
-      "brandName": "咯拉树",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733998587495,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "咯拉树",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "咯拉树",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240428/607f1f3d68754fd03467b73f4aa6207c4e831004c2be126aa7c20fac0d51f302de53e7a90ce1275_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1733998587495,
+        "brandName": "咯拉树",
+        "customerBrandName": "咯拉树",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e86345646f2af9711Hdy39i4EVQ~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南宁良庆区亚信科技广西项目组2号楼416室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "820cfedf403ed6881nFy2N6_GVtTwIu7V_mY",
+        "encryptId": "af0740ae7e99c9e303R_2tS_E1tU",
+        "encryptUserId": "d077260c16b25f2e0nF-3dq7E1RT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师（软件运维）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.757168,
+        "location": 101300100,
+        "locationName": "南宁",
+        "longitude": 108.38031,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bfd369645b6b917f72371adee9f42e1c106bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责软件系统日常支撑维护及客户响应工作；\n2、负责服务器日常运维保障；\n3、负责软件实施部署及测试工作；\n4、协助项目上线文档编写等工作。\n\n岗位要求：\n1、一年及以上工作经验，统招本科学历，计算机、软件、通讯等相关专业；\n2、熟悉mysql数据库；熟悉linux系统，具备SHELL脚本编写能力；\n3、有软件升级实施部署测试经验。\n4、性格开朗，学习及语言表达能力强，善于与人沟通、交流。\n5、有通信运营商相关工作经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "软件运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bf2de10c3e8060fdb5361f7075b237392a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "y3T3-wHo4Y1IP-w1SvgLsw3sdU9QNVS2wxK7eukqjXQCP9bmGC6Xfmhft_n9_aLr9AxPlvsLqPUsMN6kCSG1qNoNkza-G4Lsjrl2O9shC95RkGi7TgTvHbDM-xItxcrvn1l5c3bqhIaB7eWuwMJUJG5tdcKB4yC1JRO31jFjD0E8LhuNIF4fp2zdP38hLX9tt8itTZQf5V8KzMQHIHVJUXuQfA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

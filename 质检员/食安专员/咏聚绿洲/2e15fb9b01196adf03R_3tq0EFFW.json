@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yXCEBL1s36e4q-F1-nPNIdIsyEhG8BAkveYLK7kHNPbwqW2ss5qwWuI4B9E2zX-SeY0RKPPJQTkrwrCAgTj4bkNewNQhwGmbupbFPTiyBTWSFCjz1W-uVOBmZkMSKSRrTw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2e15fb9b01196adf03R_3tq0EFFW",
-      "encryptUserId": "dfa0933aaa021f9f1X173N26FFM~",
-      "invalidStatus": false,
-      "jobName": "食安专员",
-      "position": 300208,
-      "positionName": "质检员",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1.负责食品安全和质量管理相关工作;\n2.负责对食品生产过程进行监督和检测;\n3.及时发现并解决食品安全问题。\n4.负责对每日来货做检测\n5.对应每日来货信息做好台账信息记录\n\n\n\n任职要求\n1.具备相关质量管理和测试工程师背景;\n2.具备良好的沟通和协调能力;\n3.具备严谨的工作态度和细致的工作能力。\n4.具备食安证\n5.具备食安了解食安内容并且能详细说出",
-      "encryptAddressId": "5548590cf225785c1nR92tm9F1ZRxI6_VfKd",
-      "address": "广州南沙区香港科技大学(广州)3w座二楼光塔餐厅",
-      "longitude": 113.484507,
-      "latitude": 22.889043,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bf722509fd2d07fe2b3e97c1eab88aae446bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf2d2a24dc1972f124cda3e78b4432e0b26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "食品"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "梁先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200310/11f0298b09e31f1514af3515506e25422372fdf2600b41e3172d3f92474_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "咏聚绿洲",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d02de515b6bf7c781HF63d61FFo~",
-      "brandName": "咏聚绿洲",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100608,
-      "industryName": "其他专业服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734518773694,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "咏聚绿洲",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "咏聚绿洲",
+        "certificated": true,
+        "large": null,
+        "name": "梁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200310/11f0298b09e31f1514af3515506e25422372fdf2600b41e3172d3f92474_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734518773694,
+        "brandName": "咏聚绿洲",
+        "customerBrandName": "咏聚绿洲",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d02de515b6bf7c781HF63d61FFo~",
+        "focusBrand": false,
+        "industry": 100608,
+        "industryName": "其他专业服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州南沙区香港科技大学(广州)3w座二楼光塔餐厅",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "5548590cf225785c1nR92tm9F1ZRxI6_VfKd",
+        "encryptId": "2e15fb9b01196adf03R_3tq0EFFW",
+        "encryptUserId": "dfa0933aaa021f9f1X173N26FFM~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "食安专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.889043,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.484507,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf2d2a24dc1972f124cda3e78b4432e0b26bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 300208,
+        "positionName": "质检员",
+        "postDescription": "工作内容\n1.负责食品安全和质量管理相关工作;\n2.负责对食品生产过程进行监督和检测;\n3.及时发现并解决食品安全问题。\n4.负责对每日来货做检测\n5.对应每日来货信息做好台账信息记录\n\n\n\n任职要求\n1.具备相关质量管理和测试工程师背景;\n2.具备良好的沟通和协调能力;\n3.具备严谨的工作态度和细致的工作能力。\n4.具备食安证\n5.具备食安了解食安内容并且能详细说出",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "食品"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bf722509fd2d07fe2b3e97c1eab88aae446bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yXCEBL1s36e4q-F1-nPNIdIsyEhG8BAkveYLK7kHNPbwqW2ss5qwWuI4B9E2zX-SeY0RKPPJQTkrwrCAgTj4bkNewNQhwGmbupbFPTiyBTWSFCjz1W-uVOBmZkMSKSRrTw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

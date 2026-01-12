@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "brexnN9qV1NeV-T1N-Rcy0jBy4yRKpL77pZVxIgjtXo9q9Gh3qKreTSuG1Po8NAaS2ZQ_01ConW-bWu3Kp_lMfhpaO9aFA25P43wFGrDhIH4P00OP7g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "079d678d3d124d3c1XZ809i_GVRU",
-      "encryptUserId": "73c3ee31b0e26a4433V_2N68F1M~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "根据软件设计需求制定测试计划，设计测试数据和测试用例",
-      "encryptAddressId": "c17c0db40b39aff60XVy3Ni5FVo~",
-      "address": "东莞百达写字楼903室",
-      "longitude": 113.749065,
-      "latitude": 23.033618,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a8e799abdde4221254358ac6abe4032",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc1ad62de27253d2eeed5ba6bef0c829",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "接口自动化测试",
-        "Postman",
-        "Selenium",
-        "RobotFramework"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "欧阳先生",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "方东互联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8733694cb77fc6091XV43NW5GFc~",
-      "brandName": "方东互联",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722940366312,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "方东互联",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "方东互联",
+        "certificated": true,
+        "large": null,
+        "name": "欧阳先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1722940366312,
+        "brandName": "方东互联",
+        "customerBrandName": "方东互联",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8733694cb77fc6091XV43NW5GFc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞百达写字楼903室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c17c0db40b39aff60XVy3Ni5FVo~",
+        "encryptId": "079d678d3d124d3c1XZ809i_GVRU",
+        "encryptUserId": "73c3ee31b0e26a4433V_2N68F1M~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.033618,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 113.749065,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc1ad62de27253d2eeed5ba6bef0c829",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "根据软件设计需求制定测试计划，设计测试数据和测试用例",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "自动化测试",
+            "接口自动化测试",
+            "Postman",
+            "Selenium",
+            "RobotFramework"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a8e799abdde4221254358ac6abe4032"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "brexnN9qV1NeV-T1N-Rcy0jBy4yRKpL77pZVxIgjtXo9q9Gh3qKreTSuG1Po8NAaS2ZQ_01ConW-bWu3Kp_lMfhpaO9aFA25P43wFGrDhIH4P00OP7g~",
+    "selfAccess": false,
+    "sessionId": null
 }

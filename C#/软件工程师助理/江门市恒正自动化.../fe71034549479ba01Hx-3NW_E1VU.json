@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "82CB_lAZkF2n5-41MhAhI7FuG595lf3zRpgO5gQu7v9CLw1cmL9E9hJy4UTpv0V4T-BchSx6MTUQWtaeQNETrSQS8BYqBHbFcvKSTS3fd-2pdtVAKXcfeXUc8elKKe7tEz1PLgcVd38Hmuc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fe71034549479ba01Hx-3NW_E1VU",
-      "encryptUserId": "adc0fc47f7adc63e0XF82d-_EVJR",
-      "invalidStatus": false,
-      "jobName": "软件工程师助理",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101281100,
-      "locationName": "江门",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "1、 熟悉VB，C++，C#，具有较强的计算机语言基础；熟悉编程。 \n    2、 大专以上学历； \n    3、 良好的沟通、协调能力和团队协作精神，要能出差",
-      "encryptAddressId": "78d2d971e53f72c01nR_2N-0FlpRwI29UPyd",
-      "address": "江门新会区银洲湾科创产业园恒正自动化",
-      "longitude": 113.111123,
-      "latitude": 22.448994,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5e6d8316590e4925d3f14240c3692ed",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6e66094c1d36a371c3bd1db0fefabcf",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "Java",
-        "C++",
-        "C#开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "岑先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "江门市恒正自动化...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9a39c54a7ea408501XF80t2_EVs~",
-      "brandName": "江门市恒正自动化...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100914,
-      "industryName": "自动化设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728486338943,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江门市恒正自动化...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江门市恒正自动化...",
+        "certificated": true,
+        "large": null,
+        "name": "岑先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1728486338943,
+        "brandName": "江门市恒正自动化...",
+        "customerBrandName": "江门市恒正自动化...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9a39c54a7ea408501XF80t2_EVs~",
+        "focusBrand": false,
+        "industry": 100914,
+        "industryName": "自动化设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "江门新会区银洲湾科创产业园恒正自动化",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "78d2d971e53f72c01nR_2N-0FlpRwI29UPyd",
+        "encryptId": "fe71034549479ba01Hx-3NW_E1VU",
+        "encryptUserId": "adc0fc47f7adc63e0XF82d-_EVJR",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件工程师助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.448994,
+        "location": 101281100,
+        "locationName": "江门",
+        "longitude": 113.111123,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6e66094c1d36a371c3bd1db0fefabcf",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "1、 熟悉VB，C++，C#，具有较强的计算机语言基础；熟悉编程。 \n    2、 大专以上学历； \n    3、 良好的沟通、协调能力和团队协作精神，要能出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "C#",
+            "Java",
+            "C++",
+            "C#开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5e6d8316590e4925d3f14240c3692ed"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "82CB_lAZkF2n5-41MhAhI7FuG595lf3zRpgO5gQu7v9CLw1cmL9E9hJy4UTpv0V4T-BchSx6MTUQWtaeQNETrSQS8BYqBHbFcvKSTS3fd-2pdtVAKXcfeXUc8elKKe7tEz1PLgcVd38Hmuc~",
+    "selfAccess": false,
+    "sessionId": null
 }

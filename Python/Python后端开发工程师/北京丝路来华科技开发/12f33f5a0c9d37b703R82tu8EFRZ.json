@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "D1eXcR2Zjz7Xe-D1F_qDVNTuPag7VcaKy-N-UqTCBpfjxcQyuKqUT8cFjues5Ht23NJ64jF7hGucWzxv8VMcOf1yIrGakI3fyAk3wwXnGjqunzDeAydZlDmJlkF4R09Axj5LLKoeY76qy4LlO5fXpymHxbPzWu3Ocqbh0fG3vn9W0tpN7gVvBDQZ-TN6aYA5vhZprAL6r2mDrM3sDpj3MzXgKA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "12f33f5a0c9d37b703R82tu8EFRZ",
-      "encryptUserId": "70568e878fa8893d0XJz3ti_ElVW",
-      "invalidStatus": false,
-      "jobName": "python后端开发工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n1、有机器学习、图像识别等的经验；\n2、python开发经验1-2年；\n3、非常强烈的事业心和责任心；\n4、有团队管理能力。负责带领团队规划和完善研发产品系统级验收，熟悉各类测试工具，有良好软件工程管理经验；\n任职要求：\n1.计算机相关专业，统招本科及以上学历；\n2. 一年以上软件开发经验\n3.具有良好的沟通能力、团队协作能力、快速学习能力。\n4.思路清晰，善于思考，能够独立分析和解决问题，具备较强的抗压能力；\n5.可以接受加班和弹性工作，提供住宿/吃饭；\n6.能接受长期出差，能吃苦。",
-      "encryptAddressId": "d80206b9706ea4851nF90tS1GVVTw4W2UPqY",
-      "address": "南京浦口区泰山街道柳洲社区党群服务中心三楼",
-      "longitude": 118.717422,
-      "latitude": 32.140902,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240103/48ba41acc9cef1bfb1f0a554a8b73b8bcfb7f5ba97d20e506bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240103/48ba41acc9cef1bf43f110d704738e6838ee47d860e0e4656bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "北京丝路来华科技开发",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5069383b1654de2b1Hxy2Nq-FlA~",
-      "brandName": "北京丝路来华科技开发",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734576968794,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京丝路来华科技开发",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "北京丝路来华科技开发",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1734576968794,
+        "brandName": "北京丝路来华科技开发",
+        "customerBrandName": "北京丝路来华科技开发",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5069383b1654de2b1Hxy2Nq-FlA~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区泰山街道柳洲社区党群服务中心三楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "d80206b9706ea4851nF90tS1GVVTw4W2UPqY",
+        "encryptId": "12f33f5a0c9d37b703R82tu8EFRZ",
+        "encryptUserId": "70568e878fa8893d0XJz3ti_ElVW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "python后端开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.140902,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.717422,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240103/48ba41acc9cef1bf43f110d704738e6838ee47d860e0e4656bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "职位描述\n1、有机器学习、图像识别等的经验；\n2、python开发经验1-2年；\n3、非常强烈的事业心和责任心；\n4、有团队管理能力。负责带领团队规划和完善研发产品系统级验收，熟悉各类测试工具，有良好软件工程管理经验；\n任职要求：\n1.计算机相关专业，统招本科及以上学历；\n2. 一年以上软件开发经验\n3.具有良好的沟通能力、团队协作能力、快速学习能力。\n4.思路清晰，善于思考，能够独立分析和解决问题，具备较强的抗压能力；\n5.可以接受加班和弹性工作，提供住宿/吃饭；\n6.能接受长期出差，能吃苦。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240103/48ba41acc9cef1bfb1f0a554a8b73b8bcfb7f5ba97d20e506bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "D1eXcR2Zjz7Xe-D1F_qDVNTuPag7VcaKy-N-UqTCBpfjxcQyuKqUT8cFjues5Ht23NJ64jF7hGucWzxv8VMcOf1yIrGakI3fyAk3wwXnGjqunzDeAydZlDmJlkF4R09Axj5LLKoeY76qy4LlO5fXpymHxbPzWu3Ocqbh0fG3vn9W0tpN7gVvBDQZ-TN6aYA5vhZprAL6r2mDrM3sDpj3MzXgKA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

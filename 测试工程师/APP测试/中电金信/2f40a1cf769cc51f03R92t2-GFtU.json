@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "djOfTLqn1FTC2-y1FSEX8vYaKLbMKZfen0nJByv758uTq2wkcNG6DcetjypzGPRJDT6OkR4qrcOQAmhrdPOUCDf8vAsgGBFnoZw7SzB7q-z7f7nCqCLUa9dTR0uCfWpFaA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2f40a1cf769cc51f03R92t2-GFtU",
-      "encryptUserId": "42d21618d0b6631b0Xdy2t69FFs~",
-      "invalidStatus": false,
-      "jobName": "app测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "工作经验：\n有App软件测试经验，能独立开展测试工作 \n职位要求： \n1.了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等 \n2.根据需求文档，设计测试用例，熟练使用常用测试用例的设计方法， 比如等价类，边界值等 \n3.执行测试用例，跟踪和定位系统中的缺陷或问题并跟踪和验证缺陷 \n4.熟练使用抓包工具进行抓包和断点等操作 \n5.具备良好的口头和书面沟通能力，能够清晰地记录缺陷",
-      "encryptAddressId": "9f847838f60473c11nZ70tW1FVRUw4q6UvOW",
-      "address": "北京朝阳区高德地图总部(北楼)1303",
-      "longitude": 116.438096,
-      "latitude": 40.0283,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfa6897e90a5681a1d41408113b697ec046bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8a2f81c98a88e81825c01443c28b8fe66bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "龙女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200328/d7d58620b2f4f5e32c8cf512753dc428b55ef75160e6e1980d98db8d374_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1734604352282,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "龙女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200328/d7d58620b2f4f5e32c8cf512753dc428b55ef75160e6e1980d98db8d374_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734604352282,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区高德地图总部(北楼)1303",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "9f847838f60473c11nZ70tW1FVRUw4q6UvOW",
+        "encryptId": "2f40a1cf769cc51f03R92t2-GFtU",
+        "encryptUserId": "42d21618d0b6631b0Xdy2t69FFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "app测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.0283,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.438096,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8a2f81c98a88e81825c01443c28b8fe66bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "工作经验：\n有App软件测试经验，能独立开展测试工作 \n职位要求： \n1.了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等 \n2.根据需求文档，设计测试用例，熟练使用常用测试用例的设计方法， 比如等价类，边界值等 \n3.执行测试用例，跟踪和定位系统中的缺陷或问题并跟踪和验证缺陷 \n4.熟练使用抓包工具进行抓包和断点等操作 \n5.具备良好的口头和书面沟通能力，能够清晰地记录缺陷",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfa6897e90a5681a1d41408113b697ec046bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "djOfTLqn1FTC2-y1FSEX8vYaKLbMKZfen0nJByv758uTq2wkcNG6DcetjypzGPRJDT6OkR4qrcOQAmhrdPOUCDf8vAsgGBFnoZw7SzB7q-z7f7nCqCLUa9dTR0uCfWpFaA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "twYHw8qAciCgc-a1p0zLl4KrmdyJyXe-1FOqIormueCCEnPOo0A6CNupUVNLYyydWqE38XR-jGaqY6-G-cYlgAp93JzK3LyodmtDeKXkN1VZSIJbhq1KMmXrfonfk8SGvki4XQk1aJX9QRDIgbvhbfUNc-dH",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "190b653498176cfd03R-29m0EldY",
-      "encryptUserId": "e094a5bc8bb44cc033Bz2t20FFs~",
-      "invalidStatus": false,
-      "jobName": "售后工程师",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1，负责二次供水设备故障处理，技术运维",
-      "encryptAddressId": "c81b5f444d11cf220HV829q5FFJRxYm3Vv4~",
-      "address": "南京溧水区垠坤·未来汇(南京)c26栋",
-      "longitude": 119.065528,
-      "latitude": 31.67068,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230622/48ba41acc9cef1bfc695909495feed18538298def2a6d0a06bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230703/48ba41acc9cef1bfa37ff42ecd4832a75f35c97d228841a36bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机电",
-        "售后",
-        "工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "南京欣水",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "68eb593a82f793911nB63Nm4EVs~",
-      "brandName": "南京欣水",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733303191351,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京欣水",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京欣水",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1733303191351,
+        "brandName": "南京欣水",
+        "customerBrandName": "南京欣水",
+        "customerBrandStageName": "",
+        "encryptBrandId": "68eb593a82f793911nB63Nm4EVs~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京溧水区垠坤·未来汇(南京)c26栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c81b5f444d11cf220HV829q5FFJRxYm3Vv4~",
+        "encryptId": "190b653498176cfd03R-29m0EldY",
+        "encryptUserId": "e094a5bc8bb44cc033Bz2t20FFs~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "售后工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.67068,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 119.065528,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230703/48ba41acc9cef1bfa37ff42ecd4832a75f35c97d228841a36bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "1，负责二次供水设备故障处理，技术运维",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "机电",
+            "售后",
+            "工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230622/48ba41acc9cef1bfc695909495feed18538298def2a6d0a06bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "twYHw8qAciCgc-a1p0zLl4KrmdyJyXe-1FOqIormueCCEnPOo0A6CNupUVNLYyydWqE38XR-jGaqY6-G-cYlgAp93JzK3LyodmtDeKXkN1VZSIJbhq1KMmXrfonfk8SGvki4XQk1aJX9QRDIgbvhbfUNc-dH",
+    "selfAccess": false,
+    "sessionId": null
 }

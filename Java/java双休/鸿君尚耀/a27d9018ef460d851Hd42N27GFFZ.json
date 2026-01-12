@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OawOCPRr7blRK--1n_VNWz2hWHczsqr_Hq38zT4qm5KGjHYQlQ9-E-0CXjGSwxW6RNAvcvjd8LQ1UvJYDpiC5MgJRL8FBwNPSX3sKn0Q5xMypWVjOg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a27d9018ef460d851Hd42N27GFFZ",
-      "encryptUserId": "d91caa83ec291d900XR72NW-Els~",
-      "invalidStatus": false,
-      "jobName": "java双休",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101121700,
-      "locationName": "聊城",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "只支持线下面试！！！！！！！！！！！！！！！\n1、计算机相关专业本科以上学历，2年以上工作经验;\n2、熟悉spring、spring、boot、maven、mybatis、hibernate 、shiro等java开发框架优先;\n3、熟悉mysql、oracle、sqlserver数据库;\n4、熟悉redis、mongodb数据库;\n5、具有it技术开发架构师或类似工作经验优先，有研发团队管理潜质;\n看清楚地区 只支持线下面试\n工作时间八小时 周末双休 节假日带薪休息 五险一金 不定时公费旅游",
-      "encryptAddressId": "7ce7f6e41a96e96a33x53Ni6EFM~",
-      "address": "聊城东昌府区星光·聊城国际金融中心7号楼903904",
-      "longitude": 116.05319,
-      "latitude": 36.460296,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2bc03f73e6c68c6da37750a285d9e659",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1363c5587078bcf509ca589de8ecbe8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "技术部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230310/607f1f3d68754fd076be14794a4e364f9c123319b7630439fbf2d312c150078353792c599ce_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "鸿君尚耀",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "858a93953c97a2040XBy2925FQ~~",
-      "brandName": "鸿君尚耀",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100003,
-      "industryName": "社交网络与媒体",
-      "introduce": "【盛势】是一款针对生意人拓客使用的流量共享工具。 平台隶属于山东鸿君尚耀品牌管理有限公司。",
-      "labels": [
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "商业保险"
-      ],
-      "activeTime": 1719910653577,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鸿君尚耀",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鸿君尚耀",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230310/607f1f3d68754fd076be14794a4e364f9c123319b7630439fbf2d312c150078353792c599ce_b.jpg",
+        "title": "技术部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719910653577,
+        "brandName": "鸿君尚耀",
+        "customerBrandName": "鸿君尚耀",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "858a93953c97a2040XBy2925FQ~~",
+        "focusBrand": false,
+        "industry": 100003,
+        "industryName": "社交网络与媒体",
+        "introduce": "【盛势】是一款针对生意人拓客使用的流量共享工具。 平台隶属于山东鸿君尚耀品牌管理有限公司。",
+        "labels": [
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "商业保险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "聊城东昌府区星光·聊城国际金融中心7号楼903904",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7ce7f6e41a96e96a33x53Ni6EFM~",
+        "encryptId": "a27d9018ef460d851Hd42N27GFFZ",
+        "encryptUserId": "d91caa83ec291d900XR72NW-Els~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java双休",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.460296,
+        "location": 101121700,
+        "locationName": "聊城",
+        "longitude": 116.05319,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1363c5587078bcf509ca589de8ecbe8",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "只支持线下面试！！！！！！！！！！！！！！！\n1、计算机相关专业本科以上学历，2年以上工作经验;\n2、熟悉spring、spring、boot、maven、mybatis、hibernate 、shiro等java开发框架优先;\n3、熟悉mysql、oracle、sqlserver数据库;\n4、熟悉redis、mongodb数据库;\n5、具有it技术开发架构师或类似工作经验优先，有研发团队管理潜质;\n看清楚地区 只支持线下面试\n工作时间八小时 周末双休 节假日带薪休息 五险一金 不定时公费旅游",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "Python",
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2bc03f73e6c68c6da37750a285d9e659"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OawOCPRr7blRK--1n_VNWz2hWHczsqr_Hq38zT4qm5KGjHYQlQ9-E-0CXjGSwxW6RNAvcvjd8LQ1UvJYDpiC5MgJRL8FBwNPSX3sKn0Q5xMypWVjOg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

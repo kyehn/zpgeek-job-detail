@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "p0zru5CxYKh55-Z1QgkGoL2hqg9omGTO4sAZ1-p1UMkrK0bmHGE0lwMar9SrSHfAhNHtc0bOW9XrEKLKSZsIxkpAM8opYmA6p6ZFb3mT9uRgLmHPA-i6",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0728ebfe882c01cb1HJ539S_GVFT",
-      "encryptUserId": "8d04581fd9b7c2850nV62d27GFZX",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "1.会开车、有驾照\n2.熟悉系统测试\n3.熟悉常用的Linux操作命令，有代码基础.\n4.能接受出差",
-      "encryptAddressId": "8f0c1f96bb69dda81nR-096_EFZT",
-      "address": "南京江宁区银城INC中心",
-      "longitude": 118.814031,
-      "latitude": 31.927936,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0538df9a615b89254fadeca3c5a71bf5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6f11567bf0b1a2883296f3cdff99900",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "贾女士",
-      "title": "行政主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201211/c243d27e3913a2f13d47a8cb7fdb7a9e5474f53242f074800555ef4d1b0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "源江",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "85926454b3df74541nd52t24GFo~",
-      "brandName": "源江",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201214/6eb0c6b8801f09cbfb5f26c4503e2b415474f53242f074800555ef4d1b05a840.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "AQRONOS拥有全球领先的4D自动驾驶激光雷达技术。\nAQRONOS创立于2017年，美国总部设立于丹佛、国内总部设立南京江宁。主要致力于自动驾驶、机光雷达及辅助驾驶，无人智能驾驶和智能制造可以有效的调整能源利用结果，实现循环经济和能源资源节约。公司自成立以来，以科研开发为基础，以生产技术为根本，注重人才优势，已成长为可以迅速和生产企业对接，实现高技术的产品化和市场化的新能源企业。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1727677227080,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "源江",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "源江",
+        "certificated": true,
+        "large": null,
+        "name": "贾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201211/c243d27e3913a2f13d47a8cb7fdb7a9e5474f53242f074800555ef4d1b0_b.jpg",
+        "title": "行政主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1727677227080,
+        "brandName": "源江",
+        "customerBrandName": "源江",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "85926454b3df74541nd52t24GFo~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "AQRONOS拥有全球领先的4D自动驾驶激光雷达技术。\nAQRONOS创立于2017年，美国总部设立于丹佛、国内总部设立南京江宁。主要致力于自动驾驶、机光雷达及辅助驾驶，无人智能驾驶和智能制造可以有效的调整能源利用结果，实现循环经济和能源资源节约。公司自成立以来，以科研开发为基础，以生产技术为根本，注重人才优势，已成长为可以迅速和生产企业对接，实现高技术的产品化和市场化的新能源企业。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201214/6eb0c6b8801f09cbfb5f26c4503e2b415474f53242f074800555ef4d1b05a840.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区银城INC中心",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8f0c1f96bb69dda81nR-096_EFZT",
+        "encryptId": "0728ebfe882c01cb1HJ539S_GVFT",
+        "encryptUserId": "8d04581fd9b7c2850nV62d27GFZX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.927936,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.814031,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6f11567bf0b1a2883296f3cdff99900",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.会开车、有驾照\n2.熟悉系统测试\n3.熟悉常用的Linux操作命令，有代码基础.\n4.能接受出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0538df9a615b89254fadeca3c5a71bf5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "p0zru5CxYKh55-Z1QgkGoL2hqg9omGTO4sAZ1-p1UMkrK0bmHGE0lwMar9SrSHfAhNHtc0bOW9XrEKLKSZsIxkpAM8opYmA6p6ZFb3mT9uRgLmHPA-i6",
+    "selfAccess": false,
+    "sessionId": null
 }

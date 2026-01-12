@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "URx94OSev3wnt-x15KAkFHeTwZSk7UpSk9G6l3Lu9b3ItaG9QYcTnisdretltDD_dOPaSfGfGGh2lsfxizACR05P8YPgcyE-9QmmcesxLnveRqF2LFrZMGjapuyVmlcZXE0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "40f8047c13ec83e01X1z2dy1FVBZ",
-      "encryptUserId": "cd77290e9f623a111nV-2tS-E1VV",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责软件或系统的安装、配置，确保系统按照设计要求正确运行并符合业务需求。\n\n2、执行系统监控和维护任务，包括定期检查、更新和升级，以确保系统的稳定性和安全性。\n\n3、快速响应并处理系统故障，诊断问题并实施解决方案，最小化系统停机时间和业务影响。\n\n4、监控系统性能指标，分析并解决性能问题，实施优化措施以提升系统效率。",
-      "encryptAddressId": "8e9f0d7a4b58b8b633Zz09u6FVA~",
-      "address": "北京海淀区百旺弘祥1号楼",
-      "longitude": 116.292331,
-      "latitude": 40.05995,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7442d63a0f922406418ea59e75de501a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1c9dd323461c793c7f5fe7331c83a27",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "段女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210423/db5ebf07ec868c852e2dc266fba5b752ebe1c251c6bb98fca3a7ccf702a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "优合融宜",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f32957cdd12621ac1nB73tS9ElQ~",
-      "brandName": "优合融宜",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1736520355247,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "优合融宜",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "优合融宜",
+        "certificated": true,
+        "large": null,
+        "name": "段女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210423/db5ebf07ec868c852e2dc266fba5b752ebe1c251c6bb98fca3a7ccf702a_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1736520355247,
+        "brandName": "优合融宜",
+        "customerBrandName": "优合融宜",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f32957cdd12621ac1nB73tS9ElQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区百旺弘祥1号楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "8e9f0d7a4b58b8b633Zz09u6FVA~",
+        "encryptId": "40f8047c13ec83e01X1z2dy1FVBZ",
+        "encryptUserId": "cd77290e9f623a111nV-2tS-E1VV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.05995,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.292331,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1c9dd323461c793c7f5fe7331c83a27",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1、负责软件或系统的安装、配置，确保系统按照设计要求正确运行并符合业务需求。\n\n2、执行系统监控和维护任务，包括定期检查、更新和升级，以确保系统的稳定性和安全性。\n\n3、快速响应并处理系统故障，诊断问题并实施解决方案，最小化系统停机时间和业务影响。\n\n4、监控系统性能指标，分析并解决性能问题，实施优化措施以提升系统效率。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7442d63a0f922406418ea59e75de501a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "URx94OSev3wnt-x15KAkFHeTwZSk7UpSk9G6l3Lu9b3ItaG9QYcTnisdretltDD_dOPaSfGfGGh2lsfxizACR05P8YPgcyE-9QmmcesxLnveRqF2LFrZMGjapuyVmlcZXE0~",
+    "selfAccess": false,
+    "sessionId": null
 }

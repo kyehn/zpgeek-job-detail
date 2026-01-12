@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yYDZQDCFbcXQl-41w2waEkkzSrFw2nylEnXOg2WgVFQIN-YBaJw4CKMsrJ_3xoWu0n84DXqUdRyWo4P1Vt-fUv9igbZTuFfzUMy_e5c2RoekiizFBb0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c1077e5862a3b5ff1Xx63N60EFZY",
-      "encryptUserId": "07494bf91365a2210ndz29y9FVI~",
-      "invalidStatus": false,
-      "jobName": "java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101121100,
-      "locationName": "滨州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "技术过硬，独立完成过项目",
-      "encryptAddressId": "130c3f90d6c6103233x63dW1FVA~",
-      "address": "滨州滨城区东方雅苑(黄河五路)102",
-      "longitude": 117.996997,
-      "latitude": 37.379144,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b031ca86b970a4c6bad2257e2d42d5a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08be52a5cfa2f4d413c8b5ec737cdff4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "Java",
-        "Spring",
-        "MyBatis"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "技术",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "建凝软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "19e6e70f757480b41XR-39q5F1M~",
-      "brandName": "建凝软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722904361678,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "建凝软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "建凝软件",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "技术"
+    },
+    "brandComInfo": {
+        "activeTime": 1722904361678,
+        "brandName": "建凝软件",
+        "customerBrandName": "建凝软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "19e6e70f757480b41XR-39q5F1M~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "滨州滨城区东方雅苑(黄河五路)102",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "130c3f90d6c6103233x63dW1FVA~",
+        "encryptId": "c1077e5862a3b5ff1Xx63N60EFZY",
+        "encryptUserId": "07494bf91365a2210ndz29y9FVI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.379144,
+        "location": 101121100,
+        "locationName": "滨州",
+        "longitude": 117.996997,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08be52a5cfa2f4d413c8b5ec737cdff4",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "技术过硬，独立完成过项目",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MyBatis"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b031ca86b970a4c6bad2257e2d42d5a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yYDZQDCFbcXQl-41w2waEkkzSrFw2nylEnXOg2WgVFQIN-YBaJw4CKMsrJ_3xoWu0n84DXqUdRyWo4P1Vt-fUv9igbZTuFfzUMy_e5c2RoekiizFBb0~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "epdAAFZoYhzwW-h1aM8bXnTorysD2hJsz_sdAg5k89bEIWix-wzQTsKUKAe1kDi08Asr9Egf52xN8oioQ9_MKRMRDL1UmdHr1SlFTv-cJrrTeb0fKrvUZMviEb7v_LFqHsdceD4BzjX5G0c~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "68da0bd6697c5f341XN929y6EVdZ",
-      "encryptUserId": "858e37dbcc56bf970nB92tq8FlBR",
-      "invalidStatus": false,
-      "jobName": "技术支持工程师",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1. 计算机、网络等相关专业本科及以上学历；\n2. 熟悉Windows、Linux操作系统；熟悉Mysql数据库；\n3.了解常见WEB应用架构；具备一定的网络知识；\n4.具有JAVA软件部署和运维经验的优先考虑\n5. 具备较强的责任心和沟通能力，有团队精神。\n岗位职责：\n1. 服务器系统管理（服务器日常运行维护、故障处理、系统测试、技术研究等）；\n2. 客户技术支持与对外服务（公司产品的售前售后技术支持、项目实施、系统运维等）；\n3. 安全项目（测评项目、安全服务等）。",
-      "encryptAddressId": "08dc0ddd57450de90XN82927EFE~",
-      "address": "广州天河区广州数园网络有限公司华南理工大学北区岷山路6号",
-      "longitude": 113.341795,
-      "latitude": 23.167838,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e5b2249c61ddcaeab352a08e94525044",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d40843667fe8ff0d7aa070ebfebbf4a2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售前/售后技术支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "薛女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "数园网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "46222b6584d3b0c01Xx72dS-FFM~",
-      "brandName": "数园网络",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731620099000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "数园网络",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "数园网络",
+        "certificated": true,
+        "large": null,
+        "name": "薛女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731620099000,
+        "brandName": "数园网络",
+        "customerBrandName": "数园网络",
+        "customerBrandStageName": "",
+        "encryptBrandId": "46222b6584d3b0c01Xx72dS-FFM~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区广州数园网络有限公司华南理工大学北区岷山路6号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "08dc0ddd57450de90XN82927EFE~",
+        "encryptId": "68da0bd6697c5f341XN929y6EVdZ",
+        "encryptUserId": "858e37dbcc56bf970nB92tq8FlBR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术支持工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.167838,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.341795,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d40843667fe8ff0d7aa070ebfebbf4a2",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "任职要求：\n1. 计算机、网络等相关专业本科及以上学历；\n2. 熟悉Windows、Linux操作系统；熟悉Mysql数据库；\n3.了解常见WEB应用架构；具备一定的网络知识；\n4.具有JAVA软件部署和运维经验的优先考虑\n5. 具备较强的责任心和沟通能力，有团队精神。\n岗位职责：\n1. 服务器系统管理（服务器日常运行维护、故障处理、系统测试、技术研究等）；\n2. 客户技术支持与对外服务（公司产品的售前售后技术支持、项目实施、系统运维等）；\n3. 安全项目（测评项目、安全服务等）。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "售前/售后技术支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e5b2249c61ddcaeab352a08e94525044"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "epdAAFZoYhzwW-h1aM8bXnTorysD2hJsz_sdAg5k89bEIWix-wzQTsKUKAe1kDi08Asr9Egf52xN8oioQ9_MKRMRDL1UmdHr1SlFTv-cJrrTeb0fKrvUZMviEb7v_LFqHsdceD4BzjX5G0c~",
+    "selfAccess": false,
+    "sessionId": null
 }

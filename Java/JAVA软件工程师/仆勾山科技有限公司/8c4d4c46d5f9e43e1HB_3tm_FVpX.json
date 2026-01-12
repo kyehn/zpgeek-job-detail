@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "F1-42VnAb6qUn-E1LyrX-AHNDCY7yrX5PBUt2jW8poX_9Ngfbc-k_WBrK-U9jdMXhFnDH0oSnGGnx7aY-T-WVjhmMQ8pJdcD82tBhi9oUMQUjBZApUMmb6ZFkw-xvotUtNGjSo1wehGSEeg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8c4d4c46d5f9e43e1HB_3tm_FVpX",
-      "encryptUserId": "835d2d8c9b2d52860nV70tW8GFRT",
-      "invalidStatus": false,
-      "jobName": "Java软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司后端Eclipse插件工程的设计和研发； 2、根据产品需求完成服务器架构和模块设计、编码、测试以及文档编写等工作；\n3、参与新技术的调研和学习工作\n\n技能需求：\n1、熟练掌握java底层基础，熟悉Java常用类库，对类加载机制、GC、多线程有一定的了解；\n2、熟练掌握Spring、SpringMVC、Mybatis等常用开源框架；\n3、至少了解mysql、oracle、sqlserver数据库中的一种；\n4、掌握C#基础语言\n5、熟悉常用设计模式；\n6、解决问题能力突出",
-      "encryptAddressId": "10a80c420f24717b0XJ-2Nu0EVZYxoi7Wfo~",
-      "address": "南京浦口区星智汇商务花园14-2栋802",
-      "longitude": 118.697116,
-      "latitude": 32.15315,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfc6950350e77f661bc1a9a97023a1ef826bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf74dc343e63384d95c7bb5db065b1ce0e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统工程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许先生",
-      "title": "Java软件工程师",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "仆勾山科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "db1de4258115aa001nVy2tW-GFU~",
-      "brandName": "仆勾山科技有限公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722158007317,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "仆勾山科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "仆勾山科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "许先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "Java软件工程师"
+    },
+    "brandComInfo": {
+        "activeTime": 1722158007317,
+        "brandName": "仆勾山科技有限公司",
+        "customerBrandName": "仆勾山科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "db1de4258115aa001nVy2tW-GFU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区星智汇商务花园14-2栋802",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "10a80c420f24717b0XJ-2Nu0EVZYxoi7Wfo~",
+        "encryptId": "8c4d4c46d5f9e43e1HB_3tm_FVpX",
+        "encryptUserId": "835d2d8c9b2d52860nV70tW8GFRT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.15315,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.697116,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf74dc343e63384d95c7bb5db065b1ce0e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1、负责公司后端Eclipse插件工程的设计和研发； 2、根据产品需求完成服务器架构和模块设计、编码、测试以及文档编写等工作；\n3、参与新技术的调研和学习工作\n\n技能需求：\n1、熟练掌握java底层基础，熟悉Java常用类库，对类加载机制、GC、多线程有一定的了解；\n2、熟练掌握Spring、SpringMVC、Mybatis等常用开源框架；\n3、至少了解mysql、oracle、sqlserver数据库中的一种；\n4、掌握C#基础语言\n5、熟悉常用设计模式；\n6、解决问题能力突出",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K·14薪",
+        "showSkills": [
+            "系统工程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfc6950350e77f661bc1a9a97023a1ef826bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "F1-42VnAb6qUn-E1LyrX-AHNDCY7yrX5PBUt2jW8poX_9Ngfbc-k_WBrK-U9jdMXhFnDH0oSnGGnx7aY-T-WVjhmMQ8pJdcD82tBhi9oUMQUjBZApUMmb6ZFkw-xvotUtNGjSo1wehGSEeg~",
+    "selfAccess": false,
+    "sessionId": null
 }

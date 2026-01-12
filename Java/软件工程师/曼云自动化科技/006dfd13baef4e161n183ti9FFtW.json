@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xqRYTLKfjjVGH-21pXmAMqIQjmKEwmt5FmbNiCtiJfnV4_pVsgBfqxv_JzOJbB5mSv_XxHp9XhcWrzRXFt08ZWXKF-7BJP44H4sSBwO30YsM2hAhPGxDCSdIwQA77gQWxT88tZ6eYHxGlQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "006dfd13baef4e161n183ti9FFtW",
-      "encryptUserId": "e2f951ac41e3aac90XN629y7F1s~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101100600,
-      "locationName": "晋城",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.参与软件工程系统的设计、开发、测试\n2.负责工程项目中主要的功能和代码编写",
-      "encryptAddressId": "575a2e1eee60383b1XZ73ti7E1Q~",
-      "address": "晋城城区汉通大厦A座431号",
-      "longitude": 112.881432,
-      "latitude": 35.498303,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/62d7a9885bb3ed2c0a253b2e4f10103f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d730e5577daf8e56bcf6f16f10e70aa",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "PHP",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "冯女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "曼云自动化科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3ee0ee3c4a4f5cf01n1-39y7FlI~",
-      "brandName": "曼云自动化科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725468125837,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "曼云自动化科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "曼云自动化科技",
+        "certificated": true,
+        "large": null,
+        "name": "冯女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725468125837,
+        "brandName": "曼云自动化科技",
+        "customerBrandName": "曼云自动化科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3ee0ee3c4a4f5cf01n1-39y7FlI~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "晋城城区汉通大厦A座431号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "575a2e1eee60383b1XZ73ti7E1Q~",
+        "encryptId": "006dfd13baef4e161n183ti9FFtW",
+        "encryptUserId": "e2f951ac41e3aac90XN629y7F1s~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.498303,
+        "location": 101100600,
+        "locationName": "晋城",
+        "longitude": 112.881432,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d730e5577daf8e56bcf6f16f10e70aa",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.参与软件工程系统的设计、开发、测试\n2.负责工程项目中主要的功能和代码编写",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Python",
+            "PHP",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/62d7a9885bb3ed2c0a253b2e4f10103f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xqRYTLKfjjVGH-21pXmAMqIQjmKEwmt5FmbNiCtiJfnV4_pVsgBfqxv_JzOJbB5mSv_XxHp9XhcWrzRXFt08ZWXKF-7BJP44H4sSBwO30YsM2hAhPGxDCSdIwQA77gQWxT88tZ6eYHxGlQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "T3vK7Z85syo3F-N1SteH9z6L9v8kjZxad9MMr5asCxbQHpbVebq1eXqaJqkRSeY-_bu-lVoeQXWALzrL5Oam5Br5GTPIwBM8A9R5B42SjJj8oaGWOMzxc1M5aL-F3Rv0BA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b4f60a3aeb8bff131HV-0t-6E1dY",
-      "encryptUserId": "8551bb2e8bc3dfd40XZ42t-4FFtY",
-      "invalidStatus": false,
-      "jobName": "实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101270900,
-      "locationName": "巴中",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作网络不好说哦，有没有人的问题",
-      "encryptAddressId": "3b972b6eae36bc221nZ92Nq1FVNY",
-      "address": "巴中巴州区泰诚·领誉123358",
-      "longitude": 106.849946,
-      "latitude": 31.846433,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230709/48ba41acc9cef1bfe89d23de298e9ffdab5f546501691a456bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231012/48ba41acc9cef1bf8bf1f1e30ab9a1e5988b0c39b919eb9e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "SAP",
-        "Oracle EBS/Fusion",
-        "Netsuite"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "任先生",
-      "title": "校园招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231011/607f1f3d68754fd0cccab7c16f25b21cb46c7b38db1f83c9fdc5137a2dbd7beb9c34265182e0a7b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "巴中联通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f8c181ac18f7c3f503d62t-5FA~~",
-      "brandName": "巴中联通",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100025,
-      "industryName": "运营商/增值服务",
-      "introduce": "巴中联通公司是中国联通在巴中市的分支机构，负责在巴中市电信业务的经营管理和发展建设，为全市人民提供移动通信、国内国际固定电话、数据、图像及多媒体通信与信息服务，电信增值业务费等全方位、多层次的综合电信服务，以满足客户多元化的通信需求。",
-      "labels": [
-        "企业年金",
-        "五险一金"
-      ],
-      "activeTime": 1730489682154,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "巴中联通",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "巴中联通",
+        "certificated": true,
+        "large": null,
+        "name": "任先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231011/607f1f3d68754fd0cccab7c16f25b21cb46c7b38db1f83c9fdc5137a2dbd7beb9c34265182e0a7b_b.jpg",
+        "title": "校园招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730489682154,
+        "brandName": "巴中联通",
+        "customerBrandName": "巴中联通",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f8c181ac18f7c3f503d62t-5FA~~",
+        "focusBrand": false,
+        "industry": 100025,
+        "industryName": "运营商/增值服务",
+        "introduce": "巴中联通公司是中国联通在巴中市的分支机构，负责在巴中市电信业务的经营管理和发展建设，为全市人民提供移动通信、国内国际固定电话、数据、图像及多媒体通信与信息服务，电信增值业务费等全方位、多层次的综合电信服务，以满足客户多元化的通信需求。",
+        "labels": [
+            "企业年金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "巴中巴州区泰诚·领誉123358",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3b972b6eae36bc221nZ92Nq1FVNY",
+        "encryptId": "b4f60a3aeb8bff131HV-0t-6E1dY",
+        "encryptUserId": "8551bb2e8bc3dfd40XZ42t-4FFtY",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.846433,
+        "location": 101270900,
+        "locationName": "巴中",
+        "longitude": 106.849946,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231012/48ba41acc9cef1bf8bf1f1e30ab9a1e5988b0c39b919eb9e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "工作网络不好说哦，有没有人的问题",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "ERP",
+            "SAP",
+            "Oracle EBS/Fusion",
+            "Netsuite"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230709/48ba41acc9cef1bfe89d23de298e9ffdab5f546501691a456bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "T3vK7Z85syo3F-N1SteH9z6L9v8kjZxad9MMr5asCxbQHpbVebq1eXqaJqkRSeY-_bu-lVoeQXWALzrL5Oam5Br5GTPIwBM8A9R5B42SjJj8oaGWOMzxc1M5aL-F3Rv0BA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

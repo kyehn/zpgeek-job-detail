@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SgB2PPmv1nWVa-c1XvUAJxQF9Ad5paFaEBtF-K7nWWsoOCGXvMjYorBzt7v5aiOAVfvh-u-WrYFepcvYmYp5Crls8SoIO2YHg3sZEbWPrRsdQczi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0a9d1d79721dd9e91Xxy3dW7GVU~",
-      "encryptUserId": "dbc6ab6f4d5c698403x53929GFI~",
-      "invalidStatus": false,
-      "jobName": "项目数据分析师",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉完整的数据分析流程，良好的沟通能力理解客户的需求，能独立或协助分析师完成数据报告，必须持有中国商业联合会发布的CPDA项目分析师证。",
-      "encryptAddressId": "46a18a4bf9d056313nx73tu-GA~~",
-      "address": "上海杨浦区上海市杨浦区(长阳路店)1212号2层-5室",
-      "longitude": 121.5424,
-      "latitude": 31.27332,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e93c0b533d7b762a9fe064e58908f399",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a03c365288483fcb195b0c3df61dacea",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "瑞景数据分析",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "98ff30f9aca8c7a41X1y2dq-EQ~~",
-      "brandName": "瑞景数据分析",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725372689204,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瑞景数据分析",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "瑞景数据分析",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725372689204,
+        "brandName": "瑞景数据分析",
+        "customerBrandName": "瑞景数据分析",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "98ff30f9aca8c7a41X1y2dq-EQ~~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海杨浦区上海市杨浦区(长阳路店)1212号2层-5室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "46a18a4bf9d056313nx73tu-GA~~",
+        "encryptId": "0a9d1d79721dd9e91Xxy3dW7GVU~",
+        "encryptUserId": "dbc6ab6f4d5c698403x53929GFI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "项目数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.27332,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.5424,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a03c365288483fcb195b0c3df61dacea",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "熟悉完整的数据分析流程，良好的沟通能力理解客户的需求，能独立或协助分析师完成数据报告，必须持有中国商业联合会发布的CPDA项目分析师证。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "数据分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e93c0b533d7b762a9fe064e58908f399"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SgB2PPmv1nWVa-c1XvUAJxQF9Ad5paFaEBtF-K7nWWsoOCGXvMjYorBzt7v5aiOAVfvh-u-WrYFepcvYmYp5Crls8SoIO2YHg3sZEbWPrRsdQczi",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GDqqddciJ8IKB-G1wfZTxAArId-FZo1orx961FRcO7_-UFH3rcEb1iNnWHEVI5bYWsZ2bbA4caFt0jVafioAw517VaNCHDRZsDdMef74iQAH5Eun_P_mA9prMDGtLCFpD8rlLwtNMXRCzRg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bb0709b48cc36f161H192N69EVNS",
-      "encryptUserId": "1cf934d888d6f0a50nN60925EFBR",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101200500,
-      "locationName": "黄冈",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-3K",
-      "payTypeDesc": null,
-      "postDescription": "实施人员0.5年经验，会计算机能熟悉电脑就行，大学刚毕业的学生也行。",
-      "encryptAddressId": "1c5b8f5a68a88d7f1nB82Ni9F1VUwY-_UPma",
-      "address": "黄冈武穴市江海大厦(民主路)1",
-      "longitude": 115.561695,
-      "latitude": 29.854214,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241106/48ba41acc9cef1bff7439c20d0dbc1aa76f23c43161554856bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241106/48ba41acc9cef1bf5cf02b2fcb0c7a6f0ded2b1fc92a17b56bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "郑女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd01c73c54404b1bf90edfb7cfbcce4ee674b98a70a588008ca5cab916c8e3f4e9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "上海龙运览网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4b9c821dbcc12d301X1z3dW_GVM~",
-      "brandName": "上海龙运览网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731060526724,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海龙运览网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海龙运览网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "郑女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd01c73c54404b1bf90edfb7cfbcce4ee674b98a70a588008ca5cab916c8e3f4e9_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731060526724,
+        "brandName": "上海龙运览网络科技",
+        "customerBrandName": "上海龙运览网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4b9c821dbcc12d301X1z3dW_GVM~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "黄冈武穴市江海大厦(民主路)1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1c5b8f5a68a88d7f1nB82Ni9F1VUwY-_UPma",
+        "encryptId": "bb0709b48cc36f161H192N69EVNS",
+        "encryptUserId": "1cf934d888d6f0a50nN60925EFBR",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 29.854214,
+        "location": 101200500,
+        "locationName": "黄冈",
+        "longitude": 115.561695,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241106/48ba41acc9cef1bf5cf02b2fcb0c7a6f0ded2b1fc92a17b56bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "实施人员0.5年经验，会计算机能熟悉电脑就行，大学刚毕业的学生也行。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-3K",
+        "showSkills": [
+            "实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241106/48ba41acc9cef1bff7439c20d0dbc1aa76f23c43161554856bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GDqqddciJ8IKB-G1wfZTxAArId-FZo1orx961FRcO7_-UFH3rcEb1iNnWHEVI5bYWsZ2bbA4caFt0jVafioAw517VaNCHDRZsDdMef74iQAH5Eun_P_mA9prMDGtLCFpD8rlLwtNMXRCzRg~",
+    "selfAccess": false,
+    "sessionId": null
 }

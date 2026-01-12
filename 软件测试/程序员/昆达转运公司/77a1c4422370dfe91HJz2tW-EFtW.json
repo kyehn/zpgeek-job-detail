@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FP6YQEAusvX0S-B14_s_sxAZ2-ZY4pr1K-GjMke_hWae9wwo9SLmpo5sgqoaTyUFimhpvKIXAoZa-gMHRuGbNoUsN__BVlIwv-sDEWc5z2Tl3ZjU-Gt3",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "77a1c4422370dfe91HJz2tW-EFtW",
-      "encryptUserId": "a6cbdb0c9be433770XF_29i-F1dS",
-      "invalidStatus": false,
-      "jobName": "程序员",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101050500,
-      "locationName": "绥化",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: 熟练操作电脑 各种软件 平时没什么事情，但是每年忙几个月。\n岗位福利:双休 法定假日休息\n任职要求: 要求细心，稳重，忠心。团队合作精神，",
-      "encryptAddressId": "23762e20c2abe2593nV-3Nu8EFNZy4u8UP0~",
-      "address": "绥化安达市学子家园s1-9",
-      "longitude": 125.31938,
-      "latitude": 46.41157,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf65937ea43eca2dd7fc20e627c95a5a736bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf879455d5d17dbccc4a36dae9b5f374886bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "性能测试",
-        "功能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "文员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "昆达转运公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b9b61509d720226a1HF40t67EFU~",
-      "brandName": "昆达转运公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100402,
-      "industryName": "医疗服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725867535000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆达转运公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆达转运公司",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "文员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725867535000,
+        "brandName": "昆达转运公司",
+        "customerBrandName": "昆达转运公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b9b61509d720226a1HF40t67EFU~",
+        "focusBrand": false,
+        "industry": 100402,
+        "industryName": "医疗服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "绥化安达市学子家园s1-9",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "23762e20c2abe2593nV-3Nu8EFNZy4u8UP0~",
+        "encryptId": "77a1c4422370dfe91HJz2tW-EFtW",
+        "encryptUserId": "a6cbdb0c9be433770XF_29i-F1dS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "程序员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 46.41157,
+        "location": 101050500,
+        "locationName": "绥化",
+        "longitude": 125.31938,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf879455d5d17dbccc4a36dae9b5f374886bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责: 熟练操作电脑 各种软件 平时没什么事情，但是每年忙几个月。\n岗位福利:双休 法定假日休息\n任职要求: 要求细心，稳重，忠心。团队合作精神，",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "测试工作经验",
+            "性能测试",
+            "功能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf65937ea43eca2dd7fc20e627c95a5a736bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FP6YQEAusvX0S-B14_s_sxAZ2-ZY4pr1K-GjMke_hWae9wwo9SLmpo5sgqoaTyUFimhpvKIXAoZa-gMHRuGbNoUsN__BVlIwv-sDEWc5z2Tl3ZjU-Gt3",
+    "selfAccess": false,
+    "sessionId": null
 }

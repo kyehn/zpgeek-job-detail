@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_zvII926swQeS-R1CQzpvlf4LTFclfTLUqoA55UJv_hQEvVH3EjnpwELW2V4VDtCjDsoBvpdHScuHFSTUvlVS7g-9B78IuCLoOPG4OZaTdiuFAYnBX4q",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "89c6547becbe1ddb1XJ-0t-1FldW",
-      "encryptUserId": "e743016d78fc01570nN93NS7EFNX",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101230200,
-      "locationName": "厦门",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "【工作职责】\n1、负责大数据项目的运维工作;\n2、 完成上级领导安排的其他运维相关任务。\n\n【岗位职责】\n1、本科及以上学历，1一年以上相关工作经验；\n2、具备良好排错能力，熟悉主流架构，对安全有一定的认识；\n3、具备MySQL数据库调优，SQL语句优化的能力；\n4、熟悉Zabbix, Prometheus或其它至少一种监控系统；\n5、熟悉Web, MySQL, Redis等集群架构设计以及维护，熟练掌握Shell，Python开发；\n6、有服务器集群运维经验工作优先\n7、责任心强，工作严谨，具有文档编写能力，乐观上进。\n8、容器docker、K8S熟悉者优先。",
-      "encryptAddressId": "e7571ccc1a55c3440H143dW1EVY~",
-      "address": "厦门思明区天瑞99商务中心1501",
-      "longitude": 118.196914,
-      "latitude": 24.485898,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fee8f17b572066f204051385edf4ae34",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27c0a25ad3aa6a303fd7508a1f116f5c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维",
-        "Python/Shell"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "人事行政专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230206/607f1f3d68754fd07a42dec2ba8c9507c289d8fe571bc42c10e3ef49555b0b615e7e5fad1ef_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "超甜互娱",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2093926833f6013e1XBy3Ny4ElA~",
-      "brandName": "超甜互娱",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723613245226,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "超甜互娱",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "超甜互娱",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230206/607f1f3d68754fd07a42dec2ba8c9507c289d8fe571bc42c10e3ef49555b0b615e7e5fad1ef_b.jpg",
+        "title": "人事行政专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1723613245226,
+        "brandName": "超甜互娱",
+        "customerBrandName": "超甜互娱",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2093926833f6013e1XBy3Ny4ElA~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "厦门思明区天瑞99商务中心1501",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e7571ccc1a55c3440H143dW1EVY~",
+        "encryptId": "89c6547becbe1ddb1XJ-0t-1FldW",
+        "encryptUserId": "e743016d78fc01570nN93NS7EFNX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.485898,
+        "location": 101230200,
+        "locationName": "厦门",
+        "longitude": 118.196914,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27c0a25ad3aa6a303fd7508a1f116f5c",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "【工作职责】\n1、负责大数据项目的运维工作;\n2、 完成上级领导安排的其他运维相关任务。\n\n【岗位职责】\n1、本科及以上学历，1一年以上相关工作经验；\n2、具备良好排错能力，熟悉主流架构，对安全有一定的认识；\n3、具备MySQL数据库调优，SQL语句优化的能力；\n4、熟悉Zabbix, Prometheus或其它至少一种监控系统；\n5、熟悉Web, MySQL, Redis等集群架构设计以及维护，熟练掌握Shell，Python开发；\n6、有服务器集群运维经验工作优先\n7、责任心强，工作严谨，具有文档编写能力，乐观上进。\n8、容器docker、K8S熟悉者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "网络运维",
+            "系统运维",
+            "Python/Shell"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fee8f17b572066f204051385edf4ae34"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_zvII926swQeS-R1CQzpvlf4LTFclfTLUqoA55UJv_hQEvVH3EjnpwELW2V4VDtCjDsoBvpdHScuHFSTUvlVS7g-9B78IuCLoOPG4OZaTdiuFAYnBX4q",
+    "selfAccess": false,
+    "sessionId": null
 }

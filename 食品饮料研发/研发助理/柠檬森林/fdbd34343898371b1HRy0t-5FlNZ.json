@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Rx9vRcyjW9AKw-71H-JQLwc3bKlqr7EFKc-SPb3XYwm-C8_KRTSwCnZyeP-MltbnPtDHfiY5GfikXXzmeL29M5hVx3iRIvcUSyV1tza-JCC8bBHOF-w~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fdbd34343898371b1HRy0t-5FlNZ",
-      "encryptUserId": "0c4e8f62132a891d1HN_2d-6EVI~",
-      "invalidStatus": false,
-      "jobName": "研发助理",
-      "position": 300406,
-      "positionName": "食品/饮料研发",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求\n1、负责新产品的研发，配合部门完成具体产品方案的落地及实现\n2、负责新产品的口味调试、测试\n3、在饮品研发方面能根据市场快速研发科落地产品\n任职要求\n1、大专以上学历、食品研发、食品科学等食品学专业类相关专业\n2、一年以上工作经验，可独立完成产品基础配方调测\n3、团队协作能力强，责任心强，做事能力积极，可接受快速迭代的工作节奏",
-      "encryptAddressId": "31d06498e32dce7f1nV82ty4E1FW",
-      "address": "苏州苏州工业园区IFS国际金融中心3座805",
-      "longitude": 120.717217,
-      "latitude": 31.32166,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230421/48ba41acc9cef1bf47f1fdf5b6175480af22f278fd3cfff56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bf383147831074a6e2d426dbea7931124a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "茶及茶制品",
-        "饮料"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "彭女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230518/607f1f3d68754fd0e3804b8fd01d8146cb40f0e749db0963e0376e502b036583ae666211c70_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "柠檬森林",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bf24c8cabc0052d01XFy3ty_Flo~",
-      "brandName": "柠檬森林",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230920/7b5b554d84f9729ca067346b362949043693fb47ec6d9a66e0376e502b036583ae666211c70c8925.jpg.webp",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101101,
-      "industryName": "餐饮",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1725311679549,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "柠檬森林",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "柠檬森林",
+        "certificated": true,
+        "large": null,
+        "name": "彭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230518/607f1f3d68754fd0e3804b8fd01d8146cb40f0e749db0963e0376e502b036583ae666211c70_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725311679549,
+        "brandName": "柠檬森林",
+        "customerBrandName": "柠檬森林",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bf24c8cabc0052d01XFy3ty_Flo~",
+        "focusBrand": false,
+        "industry": 101101,
+        "industryName": "餐饮",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230920/7b5b554d84f9729ca067346b362949043693fb47ec6d9a66e0376e502b036583ae666211c70c8925.jpg.webp",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州工业园区IFS国际金融中心3座805",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "31d06498e32dce7f1nV82ty4E1FW",
+        "encryptId": "fdbd34343898371b1HRy0t-5FlNZ",
+        "encryptUserId": "0c4e8f62132a891d1HN_2d-6EVI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "研发助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.32166,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.717217,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bf383147831074a6e2d426dbea7931124a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 300406,
+        "positionName": "食品/饮料研发",
+        "postDescription": "岗位要求\n1、负责新产品的研发，配合部门完成具体产品方案的落地及实现\n2、负责新产品的口味调试、测试\n3、在饮品研发方面能根据市场快速研发科落地产品\n任职要求\n1、大专以上学历、食品研发、食品科学等食品学专业类相关专业\n2、一年以上工作经验，可独立完成产品基础配方调测\n3、团队协作能力强，责任心强，做事能力积极，可接受快速迭代的工作节奏",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "茶及茶制品",
+            "饮料"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230421/48ba41acc9cef1bf47f1fdf5b6175480af22f278fd3cfff56bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Rx9vRcyjW9AKw-71H-JQLwc3bKlqr7EFKc-SPb3XYwm-C8_KRTSwCnZyeP-MltbnPtDHfiY5GfikXXzmeL29M5hVx3iRIvcUSyV1tza-JCC8bBHOF-w~",
+    "selfAccess": false,
+    "sessionId": null
 }

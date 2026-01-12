@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uJma54j1Y4IzQ-A1ou7pp66JCdg5gLytm8d2p2NDibbQ8BeYJ2u7aR0jg6RLFlQo0JfuJ9fyPlXWhk8KwtWYHN5qfAEDxfqjwV8CMV_fs5GNhtqtr2s~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4e9294e59be5ffff1XB_09y5EVtW",
-      "encryptUserId": "1e6468aade3ae34d1HJ53di0FFs~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101230100,
-      "locationName": "福州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责系统集成需求调研分析；\n2、负责系统集成方案编制；\n3、负责系统集成与对端系统厂商对接，推进系统集成工作开展；\n4、负责系统集成接口联调、测试。\n\n任职要求：\n1、计算机相关专业专业，专科及以上学历；\n2、1年以上统集成、接口开发相关工作经验优先考虑；\n3、熟悉WebService、Restful、Socket等集成协议，具备良好的集成接口开发、调试能力；\n4、有责任心，逻辑思维清晰，抗压能力强，具备团队精神。\n5、熟悉电力相关业务者优先；\n\n福利待遇：\n1、五险一金；",
-      "encryptAddressId": "7548bd18f24ebcf20HR609-5GFA~",
-      "address": "福州鼓楼区国网信通亿力科技园3层楼",
-      "longitude": 119.262039,
-      "latitude": 26.108719,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5c62ac728bdae4dc75995fef1c9fc9d1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8058dbca7ae3730968daa6e99a3172c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "企业内部IT技术支持",
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220906/607f1f3d68754fd0c69093776f847f80d9126ac7ce55bef243b54e1992e047bda8c26904d1a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "追风科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7c86a2576b6387f41XZz3925FlU~",
-      "brandName": "追风科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "福建追风信息科技有限公司致力于行业软件服务与系统集成服务，公司业务涵盖智慧展馆、智慧研学、智慧禁毒、智慧安防、智慧园区、智慧党建、智慧法治等领域，坚持以用户体验为宗旨，提供行业数字化解决方案。",
-      "labels": [
-        "节日福利",
-        "有无线网",
-        "团建聚餐",
-        "加班补助",
-        "保底工资",
-        "五险"
-      ],
-      "activeTime": 1727452306399,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "追风科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "追风科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220906/607f1f3d68754fd0c69093776f847f80d9126ac7ce55bef243b54e1992e047bda8c26904d1a_b.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727452306399,
+        "brandName": "追风科技",
+        "customerBrandName": "追风科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7c86a2576b6387f41XZz3925FlU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "福建追风信息科技有限公司致力于行业软件服务与系统集成服务，公司业务涵盖智慧展馆、智慧研学、智慧禁毒、智慧安防、智慧园区、智慧党建、智慧法治等领域，坚持以用户体验为宗旨，提供行业数字化解决方案。",
+        "labels": [
+            "节日福利",
+            "有无线网",
+            "团建聚餐",
+            "加班补助",
+            "保底工资",
+            "五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "福州鼓楼区国网信通亿力科技园3层楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7548bd18f24ebcf20HR609-5GFA~",
+        "encryptId": "4e9294e59be5ffff1XB_09y5EVtW",
+        "encryptUserId": "1e6468aade3ae34d1HJ53di0FFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.108719,
+        "location": 101230100,
+        "locationName": "福州",
+        "longitude": 119.262039,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8058dbca7ae3730968daa6e99a3172c",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "岗位职责：\n1、负责系统集成需求调研分析；\n2、负责系统集成方案编制；\n3、负责系统集成与对端系统厂商对接，推进系统集成工作开展；\n4、负责系统集成接口联调、测试。\n\n任职要求：\n1、计算机相关专业专业，专科及以上学历；\n2、1年以上统集成、接口开发相关工作经验优先考虑；\n3、熟悉WebService、Restful、Socket等集成协议，具备良好的集成接口开发、调试能力；\n4、有责任心，逻辑思维清晰，抗压能力强，具备团队精神。\n5、熟悉电力相关业务者优先；\n\n福利待遇：\n1、五险一金；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "企业内部IT技术支持",
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5c62ac728bdae4dc75995fef1c9fc9d1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uJma54j1Y4IzQ-A1ou7pp66JCdg5gLytm8d2p2NDibbQ8BeYJ2u7aR0jg6RLFlQo0JfuJ9fyPlXWhk8KwtWYHN5qfAEDxfqjwV8CMV_fs5GNhtqtr2s~",
+    "selfAccess": false,
+    "sessionId": null
 }

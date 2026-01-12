@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mjfzgnMroIyId-J1R3Des5Pj14n9vyfxLuLw-S1lLivjoYRT1Lfz9HsLLW0tbFE4Xds70zRid86LDPQOFJKmcIa4JKgj7YcRYYsE-9RrSLYllgyFwejR",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7914c82e698affc01Xx639i7ElBZ",
-      "encryptUserId": "d4f295e3d897ed390n150ti6EFtU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101191200,
-      "locationName": "泰州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解",
-      "encryptAddressId": "854beb39d327a28933Nz29W0FVo~",
-      "address": "泰州靖江市唯高公寓256",
-      "longitude": 120.271319,
-      "latitude": 32.031874,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e79ac2495f49b5020dddb7b33d1697b7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6c46b31e69fa2d7cb1ea7101ffe3971",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "人力资源部",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230419/607f1f3d68754fd0b57ab74b244638b823d9851f7b5243f408ebc63cf3589b1c9795b481d5c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "靖江市思孚网络工程",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cd3594e0afdd7ba81XJy2t27FVc~",
-      "brandName": "靖江市思孚网络工程",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724658090000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "靖江市思孚网络工程",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "靖江市思孚网络工程",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230419/607f1f3d68754fd0b57ab74b244638b823d9851f7b5243f408ebc63cf3589b1c9795b481d5c_b.jpg",
+        "title": "人力资源部"
+    },
+    "brandComInfo": {
+        "activeTime": 1724658090000,
+        "brandName": "靖江市思孚网络工程",
+        "customerBrandName": "靖江市思孚网络工程",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cd3594e0afdd7ba81XJy2t27FVc~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "泰州靖江市唯高公寓256",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "854beb39d327a28933Nz29W0FVo~",
+        "encryptId": "7914c82e698affc01Xx639i7ElBZ",
+        "encryptUserId": "d4f295e3d897ed390n150ti6EFtU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.031874,
+        "location": 101191200,
+        "locationName": "泰州",
+        "longitude": 120.271319,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6c46b31e69fa2d7cb1ea7101ffe3971",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e79ac2495f49b5020dddb7b33d1697b7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mjfzgnMroIyId-J1R3Des5Pj14n9vyfxLuLw-S1lLivjoYRT1Lfz9HsLLW0tbFE4Xds70zRid86LDPQOFJKmcIa4JKgj7YcRYYsE-9RrSLYllgyFwejR",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JAByljEC9x6ws-R1vuugdTzrfSQKMxUnYytcmrVSZA6lxj1vDQ3c0kvb_ae5cCQAWbCaqFE9zceSNfcjbOTfbLb2njLJrlhhMgZURAFN6g_DNsX_",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a79fbae35c83c87b1Xdz296-EVM~",
-      "encryptUserId": "5046fe857ad8503003d829-9GVA~",
-      "invalidStatus": false,
-      "jobName": "售后工程师",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "能出差，会使用电脑，懂机械装配，动手能力强，能看懂简单的英文资料，服从领导安排，有责任心。",
-      "encryptAddressId": "23b0e3256ae4dd373nR839u1EA~~",
-      "address": "南京秦淮区新大都广场甲幢1203室",
-      "longitude": 118.7972,
-      "latitude": 32.03301,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e3588c8469cece552ee4452b6bec80d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa82c43bb43cbfa6b3c35f12d60194cc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售后技术支持",
-        "设备维修"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "其宝科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f75736ceb8cb164f1XB43dq4FA~~",
-      "brandName": "其宝科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725221414843,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "其宝科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "其宝科技",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725221414843,
+        "brandName": "其宝科技",
+        "customerBrandName": "其宝科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "f75736ceb8cb164f1XB43dq4FA~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京秦淮区新大都广场甲幢1203室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "23b0e3256ae4dd373nR839u1EA~~",
+        "encryptId": "a79fbae35c83c87b1Xdz296-EVM~",
+        "encryptUserId": "5046fe857ad8503003d829-9GVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "售后工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.03301,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.7972,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa82c43bb43cbfa6b3c35f12d60194cc",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "能出差，会使用电脑，懂机械装配，动手能力强，能看懂简单的英文资料，服从领导安排，有责任心。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "售后技术支持",
+            "设备维修"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e3588c8469cece552ee4452b6bec80d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JAByljEC9x6ws-R1vuugdTzrfSQKMxUnYytcmrVSZA6lxj1vDQ3c0kvb_ae5cCQAWbCaqFE9zceSNfcjbOTfbLb2njLJrlhhMgZURAFN6g_DNsX_",
+    "selfAccess": false,
+    "sessionId": null
 }

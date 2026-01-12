@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UP5N-mDCeOmKG-o1iUJ1IaQmkAotL2IMvYr5zPSj8LFyFsiqBsSzccPI-LOZTFnIV1ifCsTsLHgflf6VZURUNdUNfy3vIIA5Xla5B_lg6EwmbcGrIDraDI0FPKUMLNGQ6bKIAFH91mLIC_o~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8e7111233256bac61nd62tm4EFBQ",
-      "encryptUserId": "d0937e5f55db7fab0nZ43d2-FFJY",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101280700,
-      "locationName": "珠海",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1.大学专科或以上学历，有2年以上软件开发\n2.熟悉掌握Java、J2ME、C语言等编程语言技术；\n3.熟悉Android系统体系结构、框架，两年以上实际Android平台开发经验；\n4.掌握使用Eclipse/Android Studio等开发工具；\n5.熟悉Android平台UI设计，熟悉Android应用程序生命周期, \n6.熟练使用Java或Android的多线程、数据库、socket通信、网络编程等技术；\n7.具有一定的硬件基础知识，如嵌入式系统的硬件、软件知识。\n8.了解手持终端平台相关技术、移植和Liunx、Android操作系统、驱动等\n9. 具有良好的代码编写规范和能力；\n10.具有良好的沟通、理解及逻辑分析能力；\n11.思维敏捷、编程及学习能力强，有责任心；\n\n工作职责\n1．参与新产品开发前期的软件需求调研、评审工作，明确软件需求；\n2．参与软件需求、缺陷收集工作，保证软件功能、性能工作的顺利进行；；\n3．参与相关软件技术升级、重大bug的评审及讨论工作；\n4．根据需求不断修改完善产品；\n5．独立编写应用模块及相关技术文档，制定相关处理流程。\n3. 制定项目的通信协议和相关技术文档；\n6. 负责软件的维护和升级；\n7.及时向上级主管汇报工作进度，并反馈需要及时解决的问题；\n福利待遇： \n1、有竞争力的薪酬，购买社保五险，带薪年假。 \n2、5天8小时工作制，弹性工作制度，良好的工作环境，优秀的团队氛围。 \n3、按国家规定实行年假、婚假、产假及其他法定带薪节假日；  \n4、重大节日发放节日福利。",
-      "encryptAddressId": "400bb47447cbcbea1HR53NW5Ew~~",
-      "address": "珠海香洲区小米商行屏北二路9号2028",
-      "longitude": 113.482664,
-      "latitude": 22.221383,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c8ad8a4fe573862dcced9b86b855caca",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c802156f186f49066b7b061a261b705b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Socket技术",
-        "嵌入式技术",
-        "Eclipse",
-        "计算机软件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "苏先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "普斯雷",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "35632d4b1b2dad191nBy3t65GVI~",
-      "brandName": "普斯雷",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727318706562,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "普斯雷",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "普斯雷",
+        "certificated": true,
+        "large": null,
+        "name": "苏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727318706562,
+        "brandName": "普斯雷",
+        "customerBrandName": "普斯雷",
+        "customerBrandStageName": "",
+        "encryptBrandId": "35632d4b1b2dad191nBy3t65GVI~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "珠海香洲区小米商行屏北二路9号2028",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "400bb47447cbcbea1HR53NW5Ew~~",
+        "encryptId": "8e7111233256bac61nd62tm4EFBQ",
+        "encryptUserId": "d0937e5f55db7fab0nZ43d2-FFJY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.221383,
+        "location": 101280700,
+        "locationName": "珠海",
+        "longitude": 113.482664,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c802156f186f49066b7b061a261b705b",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "任职要求：\n1.大学专科或以上学历，有2年以上软件开发\n2.熟悉掌握Java、J2ME、C语言等编程语言技术；\n3.熟悉Android系统体系结构、框架，两年以上实际Android平台开发经验；\n4.掌握使用Eclipse/Android Studio等开发工具；\n5.熟悉Android平台UI设计，熟悉Android应用程序生命周期, \n6.熟练使用Java或Android的多线程、数据库、socket通信、网络编程等技术；\n7.具有一定的硬件基础知识，如嵌入式系统的硬件、软件知识。\n8.了解手持终端平台相关技术、移植和Liunx、Android操作系统、驱动等\n9. 具有良好的代码编写规范和能力；\n10.具有良好的沟通、理解及逻辑分析能力；\n11.思维敏捷、编程及学习能力强，有责任心；\n\n工作职责\n1．参与新产品开发前期的软件需求调研、评审工作，明确软件需求；\n2．参与软件需求、缺陷收集工作，保证软件功能、性能工作的顺利进行；；\n3．参与相关软件技术升级、重大bug的评审及讨论工作；\n4．根据需求不断修改完善产品；\n5．独立编写应用模块及相关技术文档，制定相关处理流程。\n3. 制定项目的通信协议和相关技术文档；\n6. 负责软件的维护和升级；\n7.及时向上级主管汇报工作进度，并反馈需要及时解决的问题；\n福利待遇： \n1、有竞争力的薪酬，购买社保五险，带薪年假。 \n2、5天8小时工作制，弹性工作制度，良好的工作环境，优秀的团队氛围。 \n3、按国家规定实行年假、婚假、产假及其他法定带薪节假日；  \n4、重大节日发放节日福利。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Socket技术",
+            "嵌入式技术",
+            "Eclipse",
+            "计算机软件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c8ad8a4fe573862dcced9b86b855caca"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UP5N-mDCeOmKG-o1iUJ1IaQmkAotL2IMvYr5zPSj8LFyFsiqBsSzccPI-LOZTFnIV1ifCsTsLHgflf6VZURUNdUNfy3vIIA5Xla5B_lg6EwmbcGrIDraDI0FPKUMLNGQ6bKIAFH91mLIC_o~",
+    "selfAccess": false,
+    "sessionId": null
 }

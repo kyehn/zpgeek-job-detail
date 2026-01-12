@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ePC2bAj6XkXuZ-21wrrgfW05xDs7-RO8R_zUBRNWB53AGTwgHLGB3--EBBbqIR0TbGjNZheu6HPSVLF_2U8J-WqRl3qeiGsmX3NWpc37GBq5DWjQTMr2",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d600979d078d53351Hd53d27F1VU",
-      "encryptUserId": "0524a6b401b2d1060nRz2Ny1FFJT",
-      "invalidStatus": false,
-      "jobName": "实施研发",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101160100,
-      "locationName": "兰州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责甘肃国网电力信息化系统运营与运维等工作。\n2、专业要求：本科计算机、软件工程、电子信息、通信等信息化相关专业。\n3、熟悉Linux服务器运维、基本命令；熟悉Mysql、Oracle、SQLServer等其中一种数据库并能进行简单操作；\n4、熟悉Nginx、防火墙、网络查询基本命令；\n5、了解RDS、DWS数据中台；\n6、工作积极主动、善于沟通、用于承担责任、能够独当一面。\n7、有国网电力信息化系统运维工作者，优先考虑；\n8.有一定开发能力",
-      "encryptAddressId": "cff03a6fc86e6f8233x63t69F1c~",
-      "address": "兰州七里河区国家电网甘肃省电力公司信息通信公司3",
-      "longitude": 103.779454,
-      "latitude": 36.066497,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7aea2cb90068aa083e68cea1b96f908e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/608d221068cfabafcae6c39885e5c4f1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201223/5b803775f725a0421406e08cdcb3e69cf4cd06dd57277c07ba06b832a79_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "博麟科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0d9269d9e2489c5a1nNz2NW8EVY~",
-      "brandName": "博麟科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1731973179481,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "博麟科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "博麟科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201223/5b803775f725a0421406e08cdcb3e69cf4cd06dd57277c07ba06b832a79_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731973179481,
+        "brandName": "博麟科技",
+        "customerBrandName": "博麟科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "0d9269d9e2489c5a1nNz2NW8EVY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "兰州七里河区国家电网甘肃省电力公司信息通信公司3",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cff03a6fc86e6f8233x63t69F1c~",
+        "encryptId": "d600979d078d53351Hd53d27F1VU",
+        "encryptUserId": "0524a6b401b2d1060nRz2Ny1FFJT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施研发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.066497,
+        "location": 101160100,
+        "locationName": "兰州",
+        "longitude": 103.779454,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/608d221068cfabafcae6c39885e5c4f1",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责甘肃国网电力信息化系统运营与运维等工作。\n2、专业要求：本科计算机、软件工程、电子信息、通信等信息化相关专业。\n3、熟悉Linux服务器运维、基本命令；熟悉Mysql、Oracle、SQLServer等其中一种数据库并能进行简单操作；\n4、熟悉Nginx、防火墙、网络查询基本命令；\n5、了解RDS、DWS数据中台；\n6、工作积极主动、善于沟通、用于承担责任、能够独当一面。\n7、有国网电力信息化系统运维工作者，优先考虑；\n8.有一定开发能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "实施交付运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7aea2cb90068aa083e68cea1b96f908e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ePC2bAj6XkXuZ-21wrrgfW05xDs7-RO8R_zUBRNWB53AGTwgHLGB3--EBBbqIR0TbGjNZheu6HPSVLF_2U8J-WqRl3qeiGsmX3NWpc37GBq5DWjQTMr2",
+    "selfAccess": false,
+    "sessionId": null
 }

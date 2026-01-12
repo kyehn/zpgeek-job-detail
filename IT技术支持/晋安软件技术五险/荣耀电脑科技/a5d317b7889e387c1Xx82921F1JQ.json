@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "V3Ks1n9EMJE3J-11VomfAcFCQ_2xl2hEghI30DQh4nVtXoC-1_3OeUuyQ3XZr7T8YUK0ZIoaYsSEI0V5o5f_iqyJ9yqem-oLDH0Wutb80T-BtUri84U_",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a5d317b7889e387c1Xx82921F1JQ",
-      "encryptUserId": "f9c216a1d7113fa60nN939-_FFBQ",
-      "invalidStatus": false,
-      "jobName": "晋安软件技术五险",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101230100,
-      "locationName": "福州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "我司主营餐馆行业的软件，岗位职责：\n1.负责客户售后服务\n2.为客户做好每一个Service\n3.协助销售人员无完成电脑售前技术支持\n4.及时完成公司销售电脑的设置及测试\n5.负责公司内部电脑，电话，网络的维护\n6.完成上级安排的其他工作事项\n7. 如果对mysql增删改查语句精通者优先",
-      "encryptAddressId": "591ea31d7b8fada133153dq-FlY~",
-      "address": "福州晋安区泰禾广场SOHO2号楼",
-      "longitude": 119.324652,
-      "latitude": 26.140351,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/480ec4f1864c494a0d29233a1a506309",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3dc58d5d4a7bdd1dddf5f0483ea2343",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售前/售后技术支持",
-        "Docker/Kubernetes",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "余女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "荣耀电脑科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f57c53ee6aa80b121Xd609-7FFQ~",
-      "brandName": "荣耀电脑科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231009/7b5b554d84f9729c72231ab3d8c7828b15a04f1f1f0ea4f6b7ecfd153a3f98fadf544e3e305458c4.jpg.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "绩效奖金",
-        "保底工资",
-        "底薪加提成",
-        "工龄奖",
-        "团建聚餐",
-        "节日福利"
-      ],
-      "activeTime": 1730043603595,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "荣耀电脑科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "荣耀电脑科技",
+        "certificated": true,
+        "large": null,
+        "name": "余女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1730043603595,
+        "brandName": "荣耀电脑科技",
+        "customerBrandName": "荣耀电脑科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f57c53ee6aa80b121Xd609-7FFQ~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "绩效奖金",
+            "保底工资",
+            "底薪加提成",
+            "工龄奖",
+            "团建聚餐",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231009/7b5b554d84f9729c72231ab3d8c7828b15a04f1f1f0ea4f6b7ecfd153a3f98fadf544e3e305458c4.jpg.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "福州晋安区泰禾广场SOHO2号楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "591ea31d7b8fada133153dq-FlY~",
+        "encryptId": "a5d317b7889e387c1Xx82921F1JQ",
+        "encryptUserId": "f9c216a1d7113fa60nN939-_FFBQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "晋安软件技术五险",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.140351,
+        "location": 101230100,
+        "locationName": "福州",
+        "longitude": 119.324652,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3dc58d5d4a7bdd1dddf5f0483ea2343",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "我司主营餐馆行业的软件，岗位职责：\n1.负责客户售后服务\n2.为客户做好每一个Service\n3.协助销售人员无完成电脑售前技术支持\n4.及时完成公司销售电脑的设置及测试\n5.负责公司内部电脑，电话，网络的维护\n6.完成上级安排的其他工作事项\n7. 如果对mysql增删改查语句精通者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "售前/售后技术支持",
+            "Docker/Kubernetes",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/480ec4f1864c494a0d29233a1a506309"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "V3Ks1n9EMJE3J-11VomfAcFCQ_2xl2hEghI30DQh4nVtXoC-1_3OeUuyQ3XZr7T8YUK0ZIoaYsSEI0V5o5f_iqyJ9yqem-oLDH0Wutb80T-BtUri84U_",
+    "selfAccess": false,
+    "sessionId": null
 }

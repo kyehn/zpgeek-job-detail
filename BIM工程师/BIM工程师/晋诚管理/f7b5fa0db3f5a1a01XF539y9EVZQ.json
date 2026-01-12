@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PEbsMRY7baLEa-C1vbSqGN6uUgOUE2pEBrXNnQ-1IZnO8VLP1MySv2kqOCL_sCoh080ms3Ns0fyLN763CJyJSsCqcG4qrWqD1rIov9Bgut15oyK73g~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f7b5fa0db3f5a1a01XF539y9EVZQ",
-      "encryptUserId": "04cd16a3b2e5d0a00Hxy29i_FFA~",
-      "invalidStatus": false,
-      "jobName": "bim工程师",
-      "position": 220221,
-      "positionName": "BIM工程师",
-      "location": 101230500,
-      "locationName": "泉州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "1.使用bim5d平台，与施工单位进行安全，质量，生产管理。\n2.传统bim业务，如土建，机电，场地等建模\n3.有1-2年现场经验，如无bim经验也可。\n4.全日制大专以上学历。",
-      "encryptAddressId": "487a3adccc7fbe610X150t6_FFE~",
-      "address": "泉州晋江市福建晋诚工程管理有限公司9号楼9楼",
-      "longitude": 118.573485,
-      "latitude": 24.815602,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a7d0ef28fa4024188c6aea33212bea9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a231384fef7133459eb60a0d40097830",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "可视化",
-        "运营管理",
-        "AutoCAD",
-        "Revit",
-        "广联达"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "詹先生",
-      "title": "bim工程师",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "晋诚管理",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6d88c81e0a7b26ff3ndz3d29Fg~~",
-      "brandName": "晋诚管理",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220813/7b5b554d84f9729c8bf8af9d7d76790e48530b20ff5bfe46d190a4aab5b9f8e4c70370f725141bd3.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "主营全过程Bim项目咨询及造价咨询业务",
-      "labels": [],
-      "activeTime": 1721465029238,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "晋诚管理",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "晋诚管理",
+        "certificated": true,
+        "large": null,
+        "name": "詹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "bim工程师"
+    },
+    "brandComInfo": {
+        "activeTime": 1721465029238,
+        "brandName": "晋诚管理",
+        "customerBrandName": "晋诚管理",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6d88c81e0a7b26ff3ndz3d29Fg~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "主营全过程Bim项目咨询及造价咨询业务",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220813/7b5b554d84f9729c8bf8af9d7d76790e48530b20ff5bfe46d190a4aab5b9f8e4c70370f725141bd3.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "泉州晋江市福建晋诚工程管理有限公司9号楼9楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "487a3adccc7fbe610X150t6_FFE~",
+        "encryptId": "f7b5fa0db3f5a1a01XF539y9EVZQ",
+        "encryptUserId": "04cd16a3b2e5d0a00Hxy29i_FFA~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "bim工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.815602,
+        "location": 101230500,
+        "locationName": "泉州",
+        "longitude": 118.573485,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a231384fef7133459eb60a0d40097830",
+        "position": 220221,
+        "positionName": "BIM工程师",
+        "postDescription": "1.使用bim5d平台，与施工单位进行安全，质量，生产管理。\n2.传统bim业务，如土建，机电，场地等建模\n3.有1-2年现场经验，如无bim经验也可。\n4.全日制大专以上学历。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "可视化",
+            "运营管理",
+            "AutoCAD",
+            "Revit",
+            "广联达"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a7d0ef28fa4024188c6aea33212bea9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PEbsMRY7baLEa-C1vbSqGN6uUgOUE2pEBrXNnQ-1IZnO8VLP1MySv2kqOCL_sCoh080ms3Ns0fyLN763CJyJSsCqcG4qrWqD1rIov9Bgut15oyK73g~~",
+    "selfAccess": false,
+    "sessionId": null
 }

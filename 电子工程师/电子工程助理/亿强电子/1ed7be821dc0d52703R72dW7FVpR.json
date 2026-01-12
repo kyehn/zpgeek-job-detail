@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "kRDFU4_00WGTN-p1Z7XyEtIU4ZmVucTjCSJ9Ni79Mj7RoF9e4tQ827GqROS7J4hbhh-bvtXZSQzLxSX4n7Bk_OknhiKAexSgl6kyQ80tst027k7LQsc1M0Xeal8lF81SadePDKGPvj-N6A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1ed7be821dc0d52703R72dW7FVpR",
-      "encryptUserId": "97d92fac731d2c540Xxz2du7F1c~",
-      "invalidStatus": false,
-      "jobName": "电子工程助理",
-      "position": 101401,
-      "positionName": "电子工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、协助工程师制作相关的技术资料档案；                                                \n2、 协助研发工程师跟进开发进度；                                                                          3、完成领导交办的其他任务；\n任职要求：\n1、电子、电器类相关专业；\n2、有电子元器件、电子线路基础\n3、办公自动化软件应用熟练\n4、较强的理解和学习能力，良好的专业知识表达能力、沟通能力和团队合作精神；",
-      "encryptAddressId": "addd50b1efcf7e120nZ_2dq0EA~~",
-      "address": "广州番禺区亿强电子有限公司三楼",
-      "longitude": 113.44287,
-      "latitude": 22.963984,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86b70c909b206a18ded855eae1e2734b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04c1b8e0ab9f92a29ce2c0a64d141c8d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子元器件工程师",
-        "电磁工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黎女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "亿强电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e0e16bef709c0f3e1nV-3Nm8GFA~",
-      "brandName": "亿强电子",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210630/81a55fc1a71a21067d128fa50a8ab8676efb9c032a67cd7a31e87603d0be36e1.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "广州市亿强电子有限公司是一家专业生产环形变压器的制造商，产品主要应用于音响、仪器仪表、控制设备等行业",
-      "labels": [],
-      "activeTime": 1732253816421,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "亿强电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "亿强电子",
+        "certificated": true,
+        "large": null,
+        "name": "黎女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732253816421,
+        "brandName": "亿强电子",
+        "customerBrandName": "亿强电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e0e16bef709c0f3e1nV-3Nm8GFA~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "广州市亿强电子有限公司是一家专业生产环形变压器的制造商，产品主要应用于音响、仪器仪表、控制设备等行业",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210630/81a55fc1a71a21067d128fa50a8ab8676efb9c032a67cd7a31e87603d0be36e1.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区亿强电子有限公司三楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "addd50b1efcf7e120nZ_2dq0EA~~",
+        "encryptId": "1ed7be821dc0d52703R72dW7FVpR",
+        "encryptUserId": "97d92fac731d2c540Xxz2du7F1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "电子工程助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.963984,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.44287,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04c1b8e0ab9f92a29ce2c0a64d141c8d",
+        "position": 101401,
+        "positionName": "电子工程师",
+        "postDescription": "岗位职责：\n1、协助工程师制作相关的技术资料档案；                                                \n2、 协助研发工程师跟进开发进度；                                                                          3、完成领导交办的其他任务；\n任职要求：\n1、电子、电器类相关专业；\n2、有电子元器件、电子线路基础\n3、办公自动化软件应用熟练\n4、较强的理解和学习能力，良好的专业知识表达能力、沟通能力和团队合作精神；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "电子元器件工程师",
+            "电磁工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86b70c909b206a18ded855eae1e2734b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "kRDFU4_00WGTN-p1Z7XyEtIU4ZmVucTjCSJ9Ni79Mj7RoF9e4tQ827GqROS7J4hbhh-bvtXZSQzLxSX4n7Bk_OknhiKAexSgl6kyQ80tst027k7LQsc1M0Xeal8lF81SadePDKGPvj-N6A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SRYb-hrJxsWu4-Q13bacdp-Snc8hUGpUPEi_NeaDuGw_Q8iCDQ_KcdjZSVTJwbGlMgi67l0miTw09ZXtY8QP-eNYM5U3q0C1syDIYOa5KUcFz5plI4snt9zIovS6siCNwSa64zXLcXMCAAV0vwZ6zpGJBA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5280cded8d1809b403Ry2dq1EFNY",
-      "encryptUserId": "163771807c98f15c0HV-29m-Fw~~",
-      "invalidStatus": false,
-      "jobName": "Python爬虫数据采集",
-      "position": 100514,
-      "positionName": "爬虫工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责多平台信息爬取和页面内容的提取分析，负责破解各类反爬机制；\n2. 负责网页的数据抓取和爬取链路优化（包括逆向分析脱壳、加密参数破解、抓取攻防等），提升抓取能力；\n3. 研究爬虫策略和防屏蔽规则，解决封账号、封IP、验证码、页面跳转等难点，提升网页抓取的效率和质量。\n任职要求：\n1. 大专及以上学历，计算机相关专业，2年及以上python爬虫经验；\n2. 熟悉掌握至少一种开源爬虫框架(scrapy、appium、selenium等)；\n3. 精通动态网页抓取、浏览器模拟抓取、APP抓取等技术熟悉使用fiddler或其他抓包工具；\n4. 具有js逆向（必备），APP逆向实际解决经验；\n5. 熟悉常见的反爬策略，有JavaScript反爬、抓包分析、反爬策略探测、逆向等领域经验的优先；\n6.有个人相关作品或个人技术站的优先考虑。\n公司福利待遇：\n1.双休，上班时间：上午9:00-12:00，下午14:00-18:00，每天7小时工作制；\n2.具有行业竞争力的薪资方案，各类奖金、绩效、补贴多！\n3.国家法定节假日正常休假及发放丰厚的购物卡或礼品；\n4.丰富的户外拓展、团建游戏、文体活动、旅游等福利；\n5.春节带薪假期10天+！",
-      "encryptAddressId": "5c3700f1ce1ccd510nJ_2Nu6EFpYy427UP8~",
-      "address": "武汉汉阳区万科未来中心T1写字楼23层",
-      "longitude": 114.244325,
-      "latitude": 30.553408,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230508/48ba41acc9cef1bf30a287a78b2bef7d7036230f47e2fe2f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfe724d72ac3ccae09a62209398203c1096bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "爬虫",
-        "JS逆向"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230626/607f1f3d68754fd0e510a869c8c2a2141778134adf113a34d027dae8054bcac027251c151f2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "悦飞国际",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d52421d2720c88770nZ93929Fw~~",
-      "brandName": "悦飞国际",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240123/7b5b554d84f9729cd3648c420d7bf67c5a20a4f9ee727a7a10062fce4628a46da904c9153d1752b3.jpg.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101103,
-      "industryName": "旅游/景区",
-      "introduce": "我们是一家由数据驱动的全球航旅服务商，公司自行研发的全球航旅数据自动化系统，目前将全球超过30个国家的优势机票产品直接、简单的呈现于客户，以满足业内对产品覆盖度、服务专业性、系统稳定性、风险敏感度的高标准要求,通过整合全球的优势资源，致力于提升航旅产品供销服供应效率的数字化转型，全面赋能航旅代理商、旅行社、旅游定制服务商、OTA，帮助全球航旅客户收益效率最大化；\n我们专注于为全球航旅从业者提供优质高效的机票产品。通过整合全球300+家航司动态运价，以Hadoop分布式存储机票大数据为基础，Spring-Cloud搭建分布式微服务系统架构作为保障，RESTfulAPI对外提供交互为桥梁，实现5秒内对线上客户精准实时报价，并对线下客户提供7*24小时AI机器人全自动报价；利用动态外汇实时交易和全自动运行的方式降低资金成本和利用效率；我们的目标是让航旅更便捷、更经济、更智能，为客户带来质优价廉、高效透明的全球航旅产品。",
-      "labels": [
-        "五险一金",
-        "带薪年假",
-        "员工旅游",
-        "零食下午茶"
-      ],
-      "activeTime": 1735641407958,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "悦飞国际",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "悦飞国际",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230626/607f1f3d68754fd0e510a869c8c2a2141778134adf113a34d027dae8054bcac027251c151f2_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1735641407958,
+        "brandName": "悦飞国际",
+        "customerBrandName": "悦飞国际",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d52421d2720c88770nZ93929Fw~~",
+        "focusBrand": false,
+        "industry": 101103,
+        "industryName": "旅游/景区",
+        "introduce": "我们是一家由数据驱动的全球航旅服务商，公司自行研发的全球航旅数据自动化系统，目前将全球超过30个国家的优势机票产品直接、简单的呈现于客户，以满足业内对产品覆盖度、服务专业性、系统稳定性、风险敏感度的高标准要求,通过整合全球的优势资源，致力于提升航旅产品供销服供应效率的数字化转型，全面赋能航旅代理商、旅行社、旅游定制服务商、OTA，帮助全球航旅客户收益效率最大化；\n我们专注于为全球航旅从业者提供优质高效的机票产品。通过整合全球300+家航司动态运价，以Hadoop分布式存储机票大数据为基础，Spring-Cloud搭建分布式微服务系统架构作为保障，RESTfulAPI对外提供交互为桥梁，实现5秒内对线上客户精准实时报价，并对线下客户提供7*24小时AI机器人全自动报价；利用动态外汇实时交易和全自动运行的方式降低资金成本和利用效率；我们的目标是让航旅更便捷、更经济、更智能，为客户带来质优价廉、高效透明的全球航旅产品。",
+        "labels": [
+            "五险一金",
+            "带薪年假",
+            "员工旅游",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240123/7b5b554d84f9729cd3648c420d7bf67c5a20a4f9ee727a7a10062fce4628a46da904c9153d1752b3.jpg.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉汉阳区万科未来中心T1写字楼23层",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "5c3700f1ce1ccd510nJ_2Nu6EFpYy427UP8~",
+        "encryptId": "5280cded8d1809b403Ry2dq1EFNY",
+        "encryptUserId": "163771807c98f15c0HV-29m-Fw~~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Python爬虫数据采集",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.553408,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.244325,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfe724d72ac3ccae09a62209398203c1096bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100514,
+        "positionName": "爬虫工程师",
+        "postDescription": "岗位职责：\n1. 负责多平台信息爬取和页面内容的提取分析，负责破解各类反爬机制；\n2. 负责网页的数据抓取和爬取链路优化（包括逆向分析脱壳、加密参数破解、抓取攻防等），提升抓取能力；\n3. 研究爬虫策略和防屏蔽规则，解决封账号、封IP、验证码、页面跳转等难点，提升网页抓取的效率和质量。\n任职要求：\n1. 大专及以上学历，计算机相关专业，2年及以上python爬虫经验；\n2. 熟悉掌握至少一种开源爬虫框架(scrapy、appium、selenium等)；\n3. 精通动态网页抓取、浏览器模拟抓取、APP抓取等技术熟悉使用fiddler或其他抓包工具；\n4. 具有js逆向（必备），APP逆向实际解决经验；\n5. 熟悉常见的反爬策略，有JavaScript反爬、抓包分析、反爬策略探测、逆向等领域经验的优先；\n6.有个人相关作品或个人技术站的优先考虑。\n公司福利待遇：\n1.双休，上班时间：上午9:00-12:00，下午14:00-18:00，每天7小时工作制；\n2.具有行业竞争力的薪资方案，各类奖金、绩效、补贴多！\n3.国家法定节假日正常休假及发放丰厚的购物卡或礼品；\n4.丰富的户外拓展、团建游戏、文体活动、旅游等福利；\n5.春节带薪假期10天+！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "爬虫",
+            "JS逆向"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230508/48ba41acc9cef1bf30a287a78b2bef7d7036230f47e2fe2f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SRYb-hrJxsWu4-Q13bacdp-Snc8hUGpUPEi_NeaDuGw_Q8iCDQ_KcdjZSVTJwbGlMgi67l0miTw09ZXtY8QP-eNYM5U3q0C1syDIYOa5KUcFz5plI4snt9zIovS6siCNwSa64zXLcXMCAAV0vwZ6zpGJBA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

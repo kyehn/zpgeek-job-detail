@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rq5H_v9ytc_rv-m18h3jnIFtFGJ1LWIghwizkwl40M-yOtoTIVqYRBi0nGPoVE56Sn2IN_p4nHbPv1uUFT5wvg8QFjsg5v9bRnhL03bi3ltWK2vAargyKR0kaGa4KeSrmOA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f8db0e8e2b8c201b1Hx53ty6F1VU",
-      "encryptUserId": "546379650a4e4a7a0nF_3dS4GVFQ",
-      "invalidStatus": false,
-      "jobName": "java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟练使用java开发技术，掌握主流开发工具，具备扎实的数据结构设计能力；\n2、精通java语言和面相对象设计方法，熟悉并运用SpringMVC、SpringBoot、Mybatis等框架；熟悉基本的Linux服务器运维命令。\n3、熟练使用Mysql数据库使用，具有复杂sql独立编写能力；\n4、熟悉数据库表的优化流程，以及sql优化能力；\n5、良好的编码习惯，熟悉常用设计模式和重构方法；对代码质量有较高的自我要求\n6、具备独立分析、解决问题的能力，思路清晰，沟通能力强。有较强的责任感和自驱力\n7、学历不限，三年真实开发经验。",
-      "encryptAddressId": "252a4b9b961948ad1nVy3NS6EVNXxoi7WfOc",
-      "address": "北京海淀区恒润国际大厦19层/09C",
-      "longitude": 116.328909,
-      "latitude": 39.966828,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf39ac095cd50b0be8f840d5c972ec22db6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf50bb62fe8ef13b3f18245f598084815c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "不接受居家办公",
-        "MyBatis"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "梁女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240819/607f1f3d68754fd0e4551c15a125adb227e9c1f1effca786b0937fa1140b1625a7b06af28a2866f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "如倍科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "dfc9a44df23e3b071XV83966EFA~",
-      "brandName": "如倍科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220628/7b5b554d84f9729c32f7395b380673fc0bac144e5a50815f1b58789a11f624a41248843e8bbe69a4.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100608,
-      "industryName": "其他专业服务",
-      "introduce": "",
-      "labels": [
-        "有无线网",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1739873739826,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "如倍科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "如倍科技",
+        "certificated": true,
+        "large": null,
+        "name": "梁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240819/607f1f3d68754fd0e4551c15a125adb227e9c1f1effca786b0937fa1140b1625a7b06af28a2866f_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1739873739826,
+        "brandName": "如倍科技",
+        "customerBrandName": "如倍科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "dfc9a44df23e3b071XV83966EFA~",
+        "focusBrand": false,
+        "industry": 100608,
+        "industryName": "其他专业服务",
+        "introduce": "",
+        "labels": [
+            "有无线网",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220628/7b5b554d84f9729c32f7395b380673fc0bac144e5a50815f1b58789a11f624a41248843e8bbe69a4.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区恒润国际大厦19层/09C",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "252a4b9b961948ad1nVy3NS6EVNXxoi7WfOc",
+        "encryptId": "f8db0e8e2b8c201b1Hx53ty6F1VU",
+        "encryptUserId": "546379650a4e4a7a0nF_3dS4GVFQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.966828,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.328909,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf50bb62fe8ef13b3f18245f598084815c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、熟练使用java开发技术，掌握主流开发工具，具备扎实的数据结构设计能力；\n2、精通java语言和面相对象设计方法，熟悉并运用SpringMVC、SpringBoot、Mybatis等框架；熟悉基本的Linux服务器运维命令。\n3、熟练使用Mysql数据库使用，具有复杂sql独立编写能力；\n4、熟悉数据库表的优化流程，以及sql优化能力；\n5、良好的编码习惯，熟悉常用设计模式和重构方法；对代码质量有较高的自我要求\n6、具备独立分析、解决问题的能力，思路清晰，沟通能力强。有较强的责任感和自驱力\n7、学历不限，三年真实开发经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Java",
+            "不接受居家办公",
+            "MyBatis"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf39ac095cd50b0be8f840d5c972ec22db6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rq5H_v9ytc_rv-m18h3jnIFtFGJ1LWIghwizkwl40M-yOtoTIVqYRBi0nGPoVE56Sn2IN_p4nHbPv1uUFT5wvg8QFjsg5v9bRnhL03bi3ltWK2vAargyKR0kaGa4KeSrmOA~",
+    "selfAccess": false,
+    "sessionId": null
 }

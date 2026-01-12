@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DqzpsvQdkANWp-e1KRHWGP18UPCM-pYJu-K3SRJXGBWdwJj886h4FmmgSKSdTxjMbB5k0r-kogG2nOd3dlLXf1LNYkH5qmbWzjmIKmMrSzh1D9YZ6jzPPlLQXu3p7NWWG3oC1PTyXaam3PY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8c322e2c88af40ba1n192tq-E1JU",
-      "encryptUserId": "25e37d39153bd9fc1nR73Nq6GVBU",
-      "invalidStatus": false,
-      "jobName": "软件实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "职责描述：\n1、参与公司软件及相关产品的技术支持售后服务等工作；\n\n2、公司交办的其他相关工作；\n\n\n\n任职要求：\n1、大专及以上学历，建筑相关专业或计算机软件专业；\n\n2、可以熟练操作CAD软件者优先；\n\n3、1-2年软件公司技术支持工作经验的人员优先考虑；\n\n4、工作态度积极主动，服从安排，善于沟通，具有良好的团队合作精神。",
-      "encryptAddressId": "87bb3b78b3594f3d03d-09u_E1o~",
-      "address": "济南历下区中铁财智中心2号楼151507",
-      "longitude": 117.121845,
-      "latitude": 36.682883,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/448facfb5ec8531d0385d4a7ea565a1c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f90ef6261c5306cb631bf1a40e4f00b8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问",
-        "软件实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "绿建智慧",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e3076350e4cf653f1n190tu_ElA~",
-      "brandName": "绿建智慧",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100601,
-      "industryName": "咨询",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724391545406,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绿建智慧",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绿建智慧",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1724391545406,
+        "brandName": "绿建智慧",
+        "customerBrandName": "绿建智慧",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e3076350e4cf653f1n190tu_ElA~",
+        "focusBrand": false,
+        "industry": 100601,
+        "industryName": "咨询",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南历下区中铁财智中心2号楼151507",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "87bb3b78b3594f3d03d-09u_E1o~",
+        "encryptId": "8c322e2c88af40ba1n192tq-E1JU",
+        "encryptUserId": "25e37d39153bd9fc1nR73Nq6GVBU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.682883,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.121845,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f90ef6261c5306cb631bf1a40e4f00b8",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "职责描述：\n1、参与公司软件及相关产品的技术支持售后服务等工作；\n\n2、公司交办的其他相关工作；\n\n\n\n任职要求：\n1、大专及以上学历，建筑相关专业或计算机软件专业；\n\n2、可以熟练操作CAD软件者优先；\n\n3、1-2年软件公司技术支持工作经验的人员优先考虑；\n\n4、工作态度积极主动，服从安排，善于沟通，具有良好的团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "实施工程师/顾问",
+            "软件实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/448facfb5ec8531d0385d4a7ea565a1c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DqzpsvQdkANWp-e1KRHWGP18UPCM-pYJu-K3SRJXGBWdwJj886h4FmmgSKSdTxjMbB5k0r-kogG2nOd3dlLXf1LNYkH5qmbWzjmIKmMrSzh1D9YZ6jzPPlLQXu3p7NWWG3oC1PTyXaam3PY~",
+    "selfAccess": false,
+    "sessionId": null
 }

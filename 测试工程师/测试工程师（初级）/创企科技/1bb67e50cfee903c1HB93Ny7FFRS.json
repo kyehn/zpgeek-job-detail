@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2ZY84VcovKbOt-L1ufFROPHrZf_52fYccVC4ZxY0WeIpWH9z1ITixTOmMNZwf_4-8M1u08e70AbfDZ7EkIwRsVm-VKpmIFrxGeeI7ZFhvC9biYSg",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1bb67e50cfee903c1HB93Ny7FFRS",
-      "encryptUserId": "aa0d02edac2ea1ee0Hdz3du7GFs~",
-      "invalidStatus": false,
-      "jobName": "测试工程师（初级）",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责协助公司中、小型项目测试，包括PC、移动web、app的功能，接口、兼容性测试；\n2、协助设计多维度，高覆盖的测试用例；\n3、定期输出测试报告、分析测试结果，积极推动开发人员解决复杂技术问题；\n4、遵守公司的测试规范和制度\n任职要求：\n1、1年以上工作经验。\n2、熟悉基本的测试工具以及测试流程，能够完成领导布置的中小项目的测试工作。\n3、能够参与测试用例的编写，了解软件测试流程以及生命周期。\n4、了解软件测试中厂出现的bug以及测试方法。\n5、熟练使用VMware基本操作\n6、Office办公软件操作\n7、掌握缺陷管理系统的基本操作",
-      "encryptAddressId": "e2aba1009dda8d960XF62tq7ElZWy4W5VfI~",
-      "address": "成都武侯区环球中心-S19楼923号",
-      "longitude": 104.061515,
-      "latitude": 30.566648,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffa6935598581a949bfdcb809478105d76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bffd42243089dd973752b5481d672536bb6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "MySQL",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "肖女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "创企科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "03b82b0b876ec8080HZ739m8",
-      "brandName": "创企科技",
-      "logo": null,
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "创企科技是一家专业从事互联网应用系统服务的技术服务型企业，长期专注于网站建设、移动应用开发、系统软件开发、运营推广等服务。",
-      "labels": [
-        "交通补助",
-        "生日福利",
-        "节日福利",
-        "通讯补贴",
-        "有无线网",
-        "团建聚餐",
-        "零食下午茶",
-        "餐补",
-        "全勤奖",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金"
-      ],
-      "activeTime": 1727345257407,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "创企科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "创企科技",
+        "certificated": true,
+        "large": null,
+        "name": "肖女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1727345257407,
+        "brandName": "创企科技",
+        "customerBrandName": "创企科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "03b82b0b876ec8080HZ739m8",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "创企科技是一家专业从事互联网应用系统服务的技术服务型企业，长期专注于网站建设、移动应用开发、系统软件开发、运营推广等服务。",
+        "labels": [
+            "交通补助",
+            "生日福利",
+            "节日福利",
+            "通讯补贴",
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "餐补",
+            "全勤奖",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区环球中心-S19楼923号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e2aba1009dda8d960XF62tq7ElZWy4W5VfI~",
+        "encryptId": "1bb67e50cfee903c1HB93Ny7FFRS",
+        "encryptUserId": "aa0d02edac2ea1ee0Hdz3du7GFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师（初级）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.566648,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.061515,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bffd42243089dd973752b5481d672536bb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、负责协助公司中、小型项目测试，包括PC、移动web、app的功能，接口、兼容性测试；\n2、协助设计多维度，高覆盖的测试用例；\n3、定期输出测试报告、分析测试结果，积极推动开发人员解决复杂技术问题；\n4、遵守公司的测试规范和制度\n任职要求：\n1、1年以上工作经验。\n2、熟悉基本的测试工具以及测试流程，能够完成领导布置的中小项目的测试工作。\n3、能够参与测试用例的编写，了解软件测试流程以及生命周期。\n4、了解软件测试中厂出现的bug以及测试方法。\n5、熟练使用VMware基本操作\n6、Office办公软件操作\n7、掌握缺陷管理系统的基本操作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "性能测试",
+            "MySQL",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffa6935598581a949bfdcb809478105d76bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2ZY84VcovKbOt-L1ufFROPHrZf_52fYccVC4ZxY0WeIpWH9z1ITixTOmMNZwf_4-8M1u08e70AbfDZ7EkIwRsVm-VKpmIFrxGeeI7ZFhvC9biYSg",
+    "selfAccess": false,
+    "sessionId": null
 }

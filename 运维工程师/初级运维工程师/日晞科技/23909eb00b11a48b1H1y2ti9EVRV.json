@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2tFfzbw33BOrW-Y1M1J_exp3aUWt1ry3C9SERLiNfiPsEpORr3w_sx7LoPF6xGLkKIcLTRY3Jdb34vZEO7J3T6OZZfTYyyn5XnH-Khzi748MbKWvQd_g3S1HlVsX602ONzKAApee9i_f8gY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "23909eb00b11a48b1H1y2ti9EVRV",
-      "encryptUserId": "d3ec8ddb875ecff00Xx40tW5GFVT",
-      "invalidStatus": false,
-      "jobName": "初级运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、负责应用系统日常巡检和维护工作\n2、负责应用系统业务问题解释\n3、负责应用系统的故障追踪、故障排查、故障处理等工作\n4、负责应用系统业务运行报告编写\n要求：\n1、全日制本科及以上学历，计算机相关专业，有系统运维工作经验优先\n2、了解常用服务的安装配置、优化及安全预防；对网络知识要有一定了解，了解网络协议、路由、交换原理\n3、熟悉掌握Oraclel数据库，熟悉web应用服务（weblogic/tomcat） 的安装配置及优化，熟练掌握SQL语句。\n4、熟悉常用服务器软件配置及维护",
-      "encryptAddressId": "8f693a3b4041dcb41nB939m1EFRYwYu2VfuY",
-      "address": "成都武侯区新南门新南路",
-      "longitude": 104.074736,
-      "latitude": 30.643321,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfcb953a7382797aec29f61fca483ab1726bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf95a2d51e0bc7b92fbae7130d060b904a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维",
-        "MySQL/Oracle",
-        "计算机相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "日晞科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4a88ffea9fc99a341XB53dW9GFY~",
-      "brandName": "日晞科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731140182254,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "日晞科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "日晞科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731140182254,
+        "brandName": "日晞科技",
+        "customerBrandName": "日晞科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4a88ffea9fc99a341XB53dW9GFY~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区新南门新南路",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8f693a3b4041dcb41nB939m1EFRYwYu2VfuY",
+        "encryptId": "23909eb00b11a48b1H1y2ti9EVRV",
+        "encryptUserId": "d3ec8ddb875ecff00Xx40tW5GFVT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "初级运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.643321,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.074736,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf95a2d51e0bc7b92fbae7130d060b904a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作职责：\n1、负责应用系统日常巡检和维护工作\n2、负责应用系统业务问题解释\n3、负责应用系统的故障追踪、故障排查、故障处理等工作\n4、负责应用系统业务运行报告编写\n要求：\n1、全日制本科及以上学历，计算机相关专业，有系统运维工作经验优先\n2、了解常用服务的安装配置、优化及安全预防；对网络知识要有一定了解，了解网络协议、路由、交换原理\n3、熟悉掌握Oraclel数据库，熟悉web应用服务（weblogic/tomcat） 的安装配置及优化，熟练掌握SQL语句。\n4、熟悉常用服务器软件配置及维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "实施交付运维",
+            "MySQL/Oracle",
+            "计算机相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfcb953a7382797aec29f61fca483ab1726bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2tFfzbw33BOrW-Y1M1J_exp3aUWt1ry3C9SERLiNfiPsEpORr3w_sx7LoPF6xGLkKIcLTRY3Jdb34vZEO7J3T6OZZfTYyyn5XnH-Khzi748MbKWvQd_g3S1HlVsX602ONzKAApee9i_f8gY~",
+    "selfAccess": false,
+    "sessionId": null
 }

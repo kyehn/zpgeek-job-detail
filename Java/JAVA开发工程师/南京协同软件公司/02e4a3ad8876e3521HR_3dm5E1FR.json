@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jmlH_7zWs93pi-m14Xh3EGdI-VpqnIqfbnFZ_isNnwO_jH_BIhrrjiHJhO6y6x7Hq1jRQLo2rPxFOYPiqQD0k1b1IGmSjqgXcg6TYQLEpqbVqr1ZU-Nr",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "02e4a3ad8876e3521HR_3dm5E1FR",
-      "encryptUserId": "c648b95b1c3b6e390XV829W4F1dZ",
-      "invalidStatus": false,
-      "jobName": "JAVA开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、参与JAVA技术2年以上工作经验；\n2、从事各个项目的测试代码的开发工作；\n3、熟练运用Spring、Servlet、HTML、jQuery、CSS等主流技术；\n4、熟练使用Eclipse等JAVA开发工具；\n5、按照项目经理的要求完成产品开发，确保项目的进度和质量并保证交付的产品符合业务需求；\n6、完成软件编码与实现；\n7、协助测试人员进行系统的单元测试；\n8、有APP开发经验者优先。\n9、有政府项目开发经验者优先。\n10、本单位是自主研发型企业，有自己的研发团队，销售团队，20年成熟型科技公司",
-      "encryptAddressId": "8734d08d395085101nV-2tS4GFpS",
-      "address": "南京雨花台区南京软件谷科创城D2南南京市雨花台区大周路32号科创城D2南402室",
-      "longitude": 118.744393,
-      "latitude": 31.937461,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfa13907bc021953d6f759f17d6bdb1d1a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf8d2769745101542dcf794d282cf09bb76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java开发经验",
-        "Java",
-        "不接受居家办公",
-        "后端工程师",
-        "计算机/软件工程相关经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "南京协同软件公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fb7bef88b10425741X193tq5FVU~",
-      "brandName": "南京协同软件公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721535700374,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京协同软件公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京协同软件公司",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721535700374,
+        "brandName": "南京协同软件公司",
+        "customerBrandName": "南京协同软件公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fb7bef88b10425741X193tq5FVU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京雨花台区南京软件谷科创城D2南南京市雨花台区大周路32号科创城D2南402室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8734d08d395085101nV-2tS4GFpS",
+        "encryptId": "02e4a3ad8876e3521HR_3dm5E1FR",
+        "encryptUserId": "c648b95b1c3b6e390XV829W4F1dZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "JAVA开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.937461,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.744393,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf8d2769745101542dcf794d282cf09bb76bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、参与JAVA技术2年以上工作经验；\n2、从事各个项目的测试代码的开发工作；\n3、熟练运用Spring、Servlet、HTML、jQuery、CSS等主流技术；\n4、熟练使用Eclipse等JAVA开发工具；\n5、按照项目经理的要求完成产品开发，确保项目的进度和质量并保证交付的产品符合业务需求；\n6、完成软件编码与实现；\n7、协助测试人员进行系统的单元测试；\n8、有APP开发经验者优先。\n9、有政府项目开发经验者优先。\n10、本单位是自主研发型企业，有自己的研发团队，销售团队，20年成熟型科技公司",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java开发经验",
+            "Java",
+            "不接受居家办公",
+            "后端工程师",
+            "计算机/软件工程相关经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfa13907bc021953d6f759f17d6bdb1d1a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jmlH_7zWs93pi-m14Xh3EGdI-VpqnIqfbnFZ_isNnwO_jH_BIhrrjiHJhO6y6x7Hq1jRQLo2rPxFOYPiqQD0k1b1IGmSjqgXcg6TYQLEpqbVqr1ZU-Nr",
+    "selfAccess": false,
+    "sessionId": null
 }

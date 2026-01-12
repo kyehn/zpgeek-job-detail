@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "cplngcyyj1HaU-E15A2e3ofwUTxCxdk0sTuwRAu_MiT_rJ24AmlAceeO8iqEPcEVNHzmyvsBG_DgU6YfZ659Jhs-gW0xwkuxHdC0xa7FHv9jp_4XZA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "08c5c2b9fdc08abf1XN82dq1FltU",
-      "encryptUserId": "fccefad315429fa603Z829-5EVE~",
-      "invalidStatus": false,
-      "jobName": "java开发工程师",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101120300,
-      "locationName": "淄博",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.参与项目需求分析、程序设计、功能开发、验收测试；\n2.承担项目开发工作、反馈开发进度、保证开发质量；\n3.协助项目经理，负责完成项目开发管理工作，核心开发设计工作、技术指导工作、核心技术的攻关和解决；\n4.负责完成项目中各类开发文档、保证阶段交付件的质量、协助项目经理进行培训与验收。",
-      "encryptAddressId": "50de7186feb88e8133N7396_FA~~",
-      "address": "淄博张店区上城名府9号楼柳泉路121号",
-      "longitude": 118.060823,
-      "latitude": 36.853863,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25347a7ccb9be71c6372f3ec0706e844",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a7c083709d3a9a29e7a6125be373e45",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全栈侧重后端",
-        "JavaScript",
-        "React",
-        "Java",
-        "MySQL/Redis/MongoDB",
-        "全栈项目经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "荆先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180713/a7e0a95dd209dfdd6e3277adfb91813ccfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "知需信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "57ca496c55e662011Xd70tm8Fg~~",
-      "brandName": "知需信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180715/b4978cb3ab6e11d9875ab76b821df425167a09d2b7e431455227454dfb0f457c.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "汽车后市场SaaS服务提供商",
-      "labels": [],
-      "activeTime": 1722149716934,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "知需信息科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "知需信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "荆先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180713/a7e0a95dd209dfdd6e3277adfb91813ccfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722149716934,
+        "brandName": "知需信息科技",
+        "customerBrandName": "知需信息科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "57ca496c55e662011Xd70tm8Fg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "汽车后市场SaaS服务提供商",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180715/b4978cb3ab6e11d9875ab76b821df425167a09d2b7e431455227454dfb0f457c.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "淄博张店区上城名府9号楼柳泉路121号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "50de7186feb88e8133N7396_FA~~",
+        "encryptId": "08c5c2b9fdc08abf1XN82dq1FltU",
+        "encryptUserId": "fccefad315429fa603Z829-5EVE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.853863,
+        "location": 101120300,
+        "locationName": "淄博",
+        "longitude": 118.060823,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a7c083709d3a9a29e7a6125be373e45",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "1.参与项目需求分析、程序设计、功能开发、验收测试；\n2.承担项目开发工作、反馈开发进度、保证开发质量；\n3.协助项目经理，负责完成项目开发管理工作，核心开发设计工作、技术指导工作、核心技术的攻关和解决；\n4.负责完成项目中各类开发文档、保证阶段交付件的质量、协助项目经理进行培训与验收。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "全栈侧重后端",
+            "JavaScript",
+            "React",
+            "Java",
+            "MySQL/Redis/MongoDB",
+            "全栈项目经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25347a7ccb9be71c6372f3ec0706e844"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "cplngcyyj1HaU-E15A2e3ofwUTxCxdk0sTuwRAu_MiT_rJ24AmlAceeO8iqEPcEVNHzmyvsBG_DgU6YfZ659Jhs-gW0xwkuxHdC0xa7FHv9jp_4XZA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

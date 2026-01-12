@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9KgD9x0N2SrB5-g1_DmJ49KEIGMCfwbeO6SlEqz0ElDNLcoEheCWikO0jfHlBaxb9lLklBFsL9327J68aFJ-u_l-kft8hexS7G854aP2f3x3rBdpAuxz",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7c4a88dfe84a99bb1XJ-3967ElpX",
-      "encryptUserId": "1e9842a56f9fdc260nN929u5FVRW",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1) 负责公司产品嵌入式软件开发设计；\n2) 负责开发过程中的相关技术文档编写；\n3) 负责产品技术支持与维护；\n4) 配合测试生产编写测试案例。",
-      "encryptAddressId": "b8c92886828eae3e0H1629S_E1o~",
-      "address": "长沙岳麓区麓谷·新长海中心B3栋407",
-      "longitude": 112.890351,
-      "latitude": 28.209528,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ae52cd73e430ad055eb33cd15689066",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0187dce48184cb6e0612541a99151e98",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C",
-        "ARM开发",
-        "STM32开发",
-        "通信相关专业",
-        "嵌入式/单片机开发经验",
-        "电气电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "长沙润欣信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "59752f0401fb0faf1XB90tq1GVQ~",
-      "brandName": "长沙润欣信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100913,
-      "industryName": "仪器仪表",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721724132708,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "长沙润欣信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "长沙润欣信息",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1721724132708,
+        "brandName": "长沙润欣信息",
+        "customerBrandName": "长沙润欣信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "59752f0401fb0faf1XB90tq1GVQ~",
+        "focusBrand": false,
+        "industry": 100913,
+        "industryName": "仪器仪表",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区麓谷·新长海中心B3栋407",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b8c92886828eae3e0H1629S_E1o~",
+        "encryptId": "7c4a88dfe84a99bb1XJ-3967ElpX",
+        "encryptUserId": "1e9842a56f9fdc260nN929u5FVRW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.209528,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.890351,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0187dce48184cb6e0612541a99151e98",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1) 负责公司产品嵌入式软件开发设计；\n2) 负责开发过程中的相关技术文档编写；\n3) 负责产品技术支持与维护；\n4) 配合测试生产编写测试案例。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "C",
+            "ARM开发",
+            "STM32开发",
+            "通信相关专业",
+            "嵌入式/单片机开发经验",
+            "电气电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ae52cd73e430ad055eb33cd15689066"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9KgD9x0N2SrB5-g1_DmJ49KEIGMCfwbeO6SlEqz0ElDNLcoEheCWikO0jfHlBaxb9lLklBFsL9327J68aFJ-u_l-kft8hexS7G854aP2f3x3rBdpAuxz",
+    "selfAccess": false,
+    "sessionId": null
 }

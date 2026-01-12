@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "XmdLt3G4yuh9h-k1NqOgrqPeouDUXGjgqTWAZhB-xSmPPcGPE-IhqdTst-fBIGI5F3u389LIS2UjncEdWMvZiAMhuz1qjkhOMke6R2Fzq9mD0rhvre5CBVqTo1d7Y9vpXdQ_Iz7-aH_smQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "39a11488622b312a03R70ti6ElVV",
-      "encryptUserId": "59bd6112d5fe9de203Vz2di0EVA~",
-      "invalidStatus": false,
-      "jobName": "运维测试工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "【岗位职责】\n1、上班时间：13:30-17:30（需到公司办公）+19:00-23:00（可居家办公，负责及时处理客户反馈和确保产品正常运行） 周六日双休；\n重要提醒：投递简历请先确认是否能满足这个上班时间要求，谢谢。\n2、及时响应处理海外客户的需求，协助开发定位问题，跟踪分析，推动问题的解决；\n3、负责产品功能测试、接口测试、性能测试等，制定测试计划、设计相关用例；\n4、及时并高效响应上级的测试或运维任务安排。\n【岗位要求】\n1、统招全日制大专及以上学历，计算机相关专业，具备2年及以上测试工作经验；\n2、熟练使用Jmeter或Postman接口测试工具，并有实际的项目经验；\n3、熟悉mysql/pgsql等主流数据库，熟练使用SQL语句进行增删改查操作；\n4、熟悉Linux操作系统；\n5、有较强的业务理解和逻辑思维能力，能定位bug原因，具备良好的技术钻研能力、沟通表达能力和独立问题解决能力。",
-      "encryptAddressId": "ed99d5fe717c1c691nRz2ti6FlJRxoS2V_OY",
-      "address": "广州黄埔区归谷科技园C3栋7层/701",
-      "longitude": 113.46857,
-      "latitude": 23.161581,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bff04952085b059ee3159a270271c5af5e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230802/48ba41acc9cef1bf24f0ae074200e2de360dd1297d8e080b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试经验",
-        "系统运维",
-        "软件测试工程师",
-        "计算机相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "洪女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240601/607f1f3d68754fd0db522083438454267e6775a4373cb514a009269f8421cf80ceb687e98803efd_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "智焰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "56c3027e712500dc1HJ439W1GVA~",
-      "brandName": "智焰科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "",
-      "labels": [
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1732545681128,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智焰科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "智焰科技",
+        "certificated": true,
+        "large": null,
+        "name": "洪女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240601/607f1f3d68754fd0db522083438454267e6775a4373cb514a009269f8421cf80ceb687e98803efd_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1732545681128,
+        "brandName": "智焰科技",
+        "customerBrandName": "智焰科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "56c3027e712500dc1HJ439W1GVA~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "",
+        "labels": [
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州黄埔区归谷科技园C3栋7层/701",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ed99d5fe717c1c691nRz2ti6FlJRxoS2V_OY",
+        "encryptId": "39a11488622b312a03R70ti6ElVV",
+        "encryptUserId": "59bd6112d5fe9de203Vz2di0EVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.161581,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.46857,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230802/48ba41acc9cef1bf24f0ae074200e2de360dd1297d8e080b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "【岗位职责】\n1、上班时间：13:30-17:30（需到公司办公）+19:00-23:00（可居家办公，负责及时处理客户反馈和确保产品正常运行） 周六日双休；\n重要提醒：投递简历请先确认是否能满足这个上班时间要求，谢谢。\n2、及时响应处理海外客户的需求，协助开发定位问题，跟踪分析，推动问题的解决；\n3、负责产品功能测试、接口测试、性能测试等，制定测试计划、设计相关用例；\n4、及时并高效响应上级的测试或运维任务安排。\n【岗位要求】\n1、统招全日制大专及以上学历，计算机相关专业，具备2年及以上测试工作经验；\n2、熟练使用Jmeter或Postman接口测试工具，并有实际的项目经验；\n3、熟悉mysql/pgsql等主流数据库，熟练使用SQL语句进行增删改查操作；\n4、熟悉Linux操作系统；\n5、有较强的业务理解和逻辑思维能力，能定位bug原因，具备良好的技术钻研能力、沟通表达能力和独立问题解决能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "软件测试经验",
+            "系统运维",
+            "软件测试工程师",
+            "计算机相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bff04952085b059ee3159a270271c5af5e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "XmdLt3G4yuh9h-k1NqOgrqPeouDUXGjgqTWAZhB-xSmPPcGPE-IhqdTst-fBIGI5F3u389LIS2UjncEdWMvZiAMhuz1qjkhOMke6R2Fzq9mD0rhvre5CBVqTo1d7Y9vpXdQ_Iz7-aH_smQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

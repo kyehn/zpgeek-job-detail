@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iWdGzXzXkXjRA-F1614t-51wRNtkHYh77XPiE1k7MZ3Pjr4iupLvjgxK0ZH7sg-8plcqW3xSP-8ZzhSoUncTJc7vpgokVHYUJ6cBA1PA1LzK6iI8i-rhLkr7eFX1SEs5_DdfGoFLR-sJyatOuoEVWKgoefE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "10e3488061d8215c03V62tu4ElBX",
-      "encryptUserId": "aa75b09356cac56b1HN82t25E1c~",
-      "invalidStatus": false,
-      "jobName": "运维测试(统招学信网本科）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.应用软件测试（含测试方案、测试用例开发）、基础性能测试及基础调优等、                                               \n2.全国统招本科学历；\n3.了解服务器的安装、配置和管理；\n4.了解常见的软件及性能测试方法。",
-      "encryptAddressId": "519f46890ae8680e1nJ809m5FVVYxIu8Vfmd",
-      "address": "北京朝阳区中建财富国际中心8楼",
-      "longitude": 116.406354,
-      "latitude": 39.979452,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/26a8d0444359234b721cdb56b1ab2236",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7c87597b916f73b93e2a8721ff7ea5d",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux",
-        "测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吴先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230906/607f1f3d68754fd0035b37fca88702c90a87a301848eb559f2e44db2895157afe6248581b7f4089_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "新致方舟科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f8e8bbd2e8edad901nxy09y4FQ~~",
-      "brandName": "新致方舟科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190403/bf6d81a3f1b95ace0b7be6ae31457e39c88474a213cd81cb994062201b964da0_s.jpg",
-      "stage": 805,
-      "stageName": "C轮",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "新致方舟是一家创业型公司，具有一支强有力的精良队伍，核心团队成员均来自世界500强企业，具有平均15年以上的行业经验和丰富的信息资源，创业初期便取得了良好的成果，先后为万达集团、链家地产、我爱我家、德邦物流、圆通物流等多个知名企业提供了系统解决方案及SAAS云平台搭建，并建立了长期稳定的合作关系。",
-      "labels": [],
-      "activeTime": 1735900701995,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "新致方舟科技",
-      "customerBrandStageName": "C轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "新致方舟科技",
+        "certificated": true,
+        "large": null,
+        "name": "吴先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230906/607f1f3d68754fd0035b37fca88702c90a87a301848eb559f2e44db2895157afe6248581b7f4089_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1735900701995,
+        "brandName": "新致方舟科技",
+        "customerBrandName": "新致方舟科技",
+        "customerBrandStageName": "C轮",
+        "encryptBrandId": "f8e8bbd2e8edad901nxy09y4FQ~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "新致方舟是一家创业型公司，具有一支强有力的精良队伍，核心团队成员均来自世界500强企业，具有平均15年以上的行业经验和丰富的信息资源，创业初期便取得了良好的成果，先后为万达集团、链家地产、我爱我家、德邦物流、圆通物流等多个知名企业提供了系统解决方案及SAAS云平台搭建，并建立了长期稳定的合作关系。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190403/bf6d81a3f1b95ace0b7be6ae31457e39c88474a213cd81cb994062201b964da0_s.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 805,
+        "stageName": "C轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区中建财富国际中心8楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "519f46890ae8680e1nJ809m5FVVYxIu8Vfmd",
+        "encryptId": "10e3488061d8215c03V62tu4ElBX",
+        "encryptUserId": "aa75b09356cac56b1HN82t25E1c~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维测试(统招学信网本科）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.979452,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.406354,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7c87597b916f73b93e2a8721ff7ea5d",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.应用软件测试（含测试方案、测试用例开发）、基础性能测试及基础调优等、                                               \n2.全国统招本科学历；\n3.了解服务器的安装、配置和管理；\n4.了解常见的软件及性能测试方法。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "Linux",
+            "测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/26a8d0444359234b721cdb56b1ab2236"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iWdGzXzXkXjRA-F1614t-51wRNtkHYh77XPiE1k7MZ3Pjr4iupLvjgxK0ZH7sg-8plcqW3xSP-8ZzhSoUncTJc7vpgokVHYUJ6cBA1PA1LzK6iI8i-rhLkr7eFX1SEs5_DdfGoFLR-sJyatOuoEVWKgoefE~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "AjesIoevApf6N-A1jwfHS8_xDkUt6lZWueTr9WVmOB59tnBcuFtzUDro6TdXFrUJJ8IvrJ6TcpSMvU-QxoBdYMSD9pjK8h8Tk297tB5I7bD76HpgvTKOzQbjzsmPaix7Cl5MgAKif83g5Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "056f8fd571d765d71H1z39y_F1VY",
-      "encryptUserId": "0f862d6adc6019af0XR_3t-6FVo~",
-      "invalidStatus": false,
-      "jobName": "数据分析",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n主要从事遥感、地理信息等相关工作，进行数据获取、数据分析等工作。\n任职要求：\n1、具有较强的文档编辑能力，熟练运用常规GIS软件进行数据处理与分析，能独立形成相关方案和报告；\n2、本科及以上学历，遥感、地理信息科学、测绘工程、土地资源管理等相关专业优先。",
-      "encryptAddressId": "c65a036c24d5254f1nBz2d21F1dYxoi_Vvqb",
-      "address": "上海虹口区荣振大厦F10",
-      "longitude": 121.485513,
-      "latitude": 31.296223,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230701/48ba41acc9cef1bf447b7b59de8947a0a9a948c065134d516bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bf4750b18506cc8c56f93270df4d46746e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "朱女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240425/607f1f3d68754fd0bc3cf42de15b4681f31ab58f9f25a97d00e4269714a5ff442187c4b03712201_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "领见科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1503a7892efcd6ed1nx-2N-7GVs~",
-      "brandName": "领见科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210727/853f418b157bfeab97a3dc8c4291f70f96c15c21434ca855c27318591541b553.png",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "领见科技，全称杭州领见科技有限公司，成立于2016年，源自浙江大学地理科学学院，是国家级高新技术企业，在杭州、上海、成都、重庆四地分设办公区域，公司核心技术团队具有30年遥感数据行业经验，80%具有博士学位或教授职称。已获得发明专利3项，软著20余件。申请发明专利18项，3年内预期获得200项。\n公司以人工智能技术应用于地理时空大数据全行业应用，以合虚分析引擎、后稷算法引擎为核心技术，在此基础上研发了数十款行业数智应用产品，广泛应用于人类社会发展过程中人与自然的和谐发展，万物生长所需的人工智能商业环境。\n公司主要涵盖数字农业、数字水土保持、数字水资源、数字应急管理四大优质业务板块。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "餐补",
-        "交通补助",
-        "节日福利",
-        "项目提成"
-      ],
-      "activeTime": 1731576392005,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "领见科技",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "领见科技",
+        "certificated": true,
+        "large": null,
+        "name": "朱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240425/607f1f3d68754fd0bc3cf42de15b4681f31ab58f9f25a97d00e4269714a5ff442187c4b03712201_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731576392005,
+        "brandName": "领见科技",
+        "customerBrandName": "领见科技",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "1503a7892efcd6ed1nx-2N-7GVs~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "领见科技，全称杭州领见科技有限公司，成立于2016年，源自浙江大学地理科学学院，是国家级高新技术企业，在杭州、上海、成都、重庆四地分设办公区域，公司核心技术团队具有30年遥感数据行业经验，80%具有博士学位或教授职称。已获得发明专利3项，软著20余件。申请发明专利18项，3年内预期获得200项。\n公司以人工智能技术应用于地理时空大数据全行业应用，以合虚分析引擎、后稷算法引擎为核心技术，在此基础上研发了数十款行业数智应用产品，广泛应用于人类社会发展过程中人与自然的和谐发展，万物生长所需的人工智能商业环境。\n公司主要涵盖数字农业、数字水土保持、数字水资源、数字应急管理四大优质业务板块。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "餐补",
+            "交通补助",
+            "节日福利",
+            "项目提成"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210727/853f418b157bfeab97a3dc8c4291f70f96c15c21434ca855c27318591541b553.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海虹口区荣振大厦F10",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c65a036c24d5254f1nBz2d21F1dYxoi_Vvqb",
+        "encryptId": "056f8fd571d765d71H1z39y_F1VY",
+        "encryptUserId": "0f862d6adc6019af0XR_3t-6FVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据分析",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.296223,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.485513,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bf4750b18506cc8c56f93270df4d46746e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "岗位职责：\n主要从事遥感、地理信息等相关工作，进行数据获取、数据分析等工作。\n任职要求：\n1、具有较强的文档编辑能力，熟练运用常规GIS软件进行数据处理与分析，能独立形成相关方案和报告；\n2、本科及以上学历，遥感、地理信息科学、测绘工程、土地资源管理等相关专业优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K·13薪",
+        "showSkills": [
+            "数据分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230701/48ba41acc9cef1bf447b7b59de8947a0a9a948c065134d516bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "AjesIoevApf6N-A1jwfHS8_xDkUt6lZWueTr9WVmOB59tnBcuFtzUDro6TdXFrUJJ8IvrJ6TcpSMvU-QxoBdYMSD9pjK8h8Tk297tB5I7bD76HpgvTKOzQbjzsmPaix7Cl5MgAKif83g5Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

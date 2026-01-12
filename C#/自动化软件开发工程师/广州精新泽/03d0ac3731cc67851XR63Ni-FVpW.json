@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "F7TW3SQc_iM92-r159Yiv7ef8rix5qsQh-aUIi8EQ8pg-5EdBXuxsMMf4RWIVJN49m_miUnDGak9zgXRQTXa60a53jhrXr3JJeWssBKXqZtJBFzeyRnC",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "03d0ac3731cc67851XR63Ni-FVpW",
-      "encryptUserId": "83ca665ae98190880nZ52N-8GFtT",
-      "invalidStatus": false,
-      "jobName": "自动化软件开发工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "软件开发相关专业，熟悉使用Labview或C#,Java,VB等编程软件，有工厂MES系统软件开发经验或Labview熟练者优先，能运SQL   Sever等数据库，思维敏捷，抗压能力强，有责任心；有意向机械自动化控制发展.",
-      "encryptAddressId": "1bff6d8889cc9c611Xdz3t66EQ~~",
-      "address": "广州番禺区广州精新泽自动化设备有限公司82号",
-      "longitude": 113.486089,
-      "latitude": 22.954382,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2faaa8f1200df36c080088a44d4b4f47",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56e28c25a118a7a4437c8c8425620a5b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "VB",
-        "SQL Server"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "霍女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220328/607f1f3d68754fd0e5c4451139ac90663aeef7676b5c6f1215e8d8a16286379024e8cb0b444_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广州精新泽",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9c96820590d637331nBz3dy_EVI~",
-      "brandName": "广州精新泽",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220211/7bf6f160950405e928edcadf24e52e59401223bbdba3120915e8d8a16286379024e8cb0b44480de3.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100914,
-      "industryName": "自动化设备",
-      "introduce": "广州精新泽自动化设备有限公司成立于2003年12月，是一家专业从事各类非标自动化设备的研发、生产、销售的高新技术企业，拥有各项专利二十余项。占地面积1.5万㎡，主要产品是汽车制造中零部件自动焊接、压装、装配等单机设备及生产线；各种清洗、检漏等设备；并可根据客户要求进行设备的自动化升级改造。\n精诚合作，科技创新，润泽社会是我们不变的经营理念。",
-      "labels": [
-        "定期体检",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "通讯补贴",
-        "节日福利",
-        "五险",
-        "包住"
-      ],
-      "activeTime": 1731374196048,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州精新泽",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州精新泽",
+        "certificated": true,
+        "large": null,
+        "name": "霍女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220328/607f1f3d68754fd0e5c4451139ac90663aeef7676b5c6f1215e8d8a16286379024e8cb0b444_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731374196048,
+        "brandName": "广州精新泽",
+        "customerBrandName": "广州精新泽",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9c96820590d637331nBz3dy_EVI~",
+        "focusBrand": false,
+        "industry": 100914,
+        "industryName": "自动化设备",
+        "introduce": "广州精新泽自动化设备有限公司成立于2003年12月，是一家专业从事各类非标自动化设备的研发、生产、销售的高新技术企业，拥有各项专利二十余项。占地面积1.5万㎡，主要产品是汽车制造中零部件自动焊接、压装、装配等单机设备及生产线；各种清洗、检漏等设备；并可根据客户要求进行设备的自动化升级改造。\n精诚合作，科技创新，润泽社会是我们不变的经营理念。",
+        "labels": [
+            "定期体检",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "通讯补贴",
+            "节日福利",
+            "五险",
+            "包住"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220211/7bf6f160950405e928edcadf24e52e59401223bbdba3120915e8d8a16286379024e8cb0b44480de3.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区广州精新泽自动化设备有限公司82号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1bff6d8889cc9c611Xdz3t66EQ~~",
+        "encryptId": "03d0ac3731cc67851XR63Ni-FVpW",
+        "encryptUserId": "83ca665ae98190880nZ52N-8GFtT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "自动化软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.954382,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.486089,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56e28c25a118a7a4437c8c8425620a5b",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "软件开发相关专业，熟悉使用Labview或C#,Java,VB等编程软件，有工厂MES系统软件开发经验或Labview熟练者优先，能运SQL   Sever等数据库，思维敏捷，抗压能力强，有责任心；有意向机械自动化控制发展.",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "SQL",
+            "VB",
+            "SQL Server"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2faaa8f1200df36c080088a44d4b4f47"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "F7TW3SQc_iM92-r159Yiv7ef8rix5qsQh-aUIi8EQ8pg-5EdBXuxsMMf4RWIVJN49m_miUnDGak9zgXRQTXa60a53jhrXr3JJeWssBKXqZtJBFzeyRnC",
+    "selfAccess": false,
+    "sessionId": null
 }

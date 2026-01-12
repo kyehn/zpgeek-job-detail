@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VL8j2016-NkbO-w1RS13_yRvRNDxA0qFH0O8lLcd1IX_ycP3wXSbpdXJ-s3ysDyEHc2Br155bJlyK8cEljhRWa2vwJLv5fdm1k73aG0u1qV3x5R9",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3f2e05f4ab0b850e03x-3N26FVQ~",
-      "encryptUserId": "13b7da2094f86dae0X1y0tW-ElY~",
-      "invalidStatus": false,
-      "jobName": "预算员",
-      "position": 220209,
-      "positionName": "工程造价",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "能独立完成预算及结算，熟悉使用广联达量筋合一软件，新点组价软件独立投标，会编写投标文件",
-      "encryptAddressId": "49d37a7d4ba566d41nZz2Ni1GFA~",
-      "address": "苏州昆山市昆山圣康建设工程安装有限公司3楼",
-      "longitude": 120.964979,
-      "latitude": 31.419696,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/071c43d20fbf3b1e6b15133bfe8ad4e7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/311bfd9b670f4ba1a9c827eb18a17296",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "二级建造师",
-        "土木建筑工程",
-        "招投标",
-        "造价员证",
-        "施工单位",
-        "安装工程",
-        "广联达"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蔡先生",
-      "title": "办公室主任",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "昆山圣康",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "17b2a0276e697aee0nV60tu0GQ~~",
-      "brandName": "昆山圣康",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1720248305869,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆山圣康",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆山圣康",
+        "certificated": true,
+        "large": null,
+        "name": "蔡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "办公室主任"
+    },
+    "brandComInfo": {
+        "activeTime": 1720248305869,
+        "brandName": "昆山圣康",
+        "customerBrandName": "昆山圣康",
+        "customerBrandStageName": "",
+        "encryptBrandId": "17b2a0276e697aee0nV60tu0GQ~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市昆山圣康建设工程安装有限公司3楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "49d37a7d4ba566d41nZz2Ni1GFA~",
+        "encryptId": "3f2e05f4ab0b850e03x-3N26FVQ~",
+        "encryptUserId": "13b7da2094f86dae0X1y0tW-ElY~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "预算员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.419696,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.964979,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/311bfd9b670f4ba1a9c827eb18a17296",
+        "position": 220209,
+        "positionName": "工程造价",
+        "postDescription": "能独立完成预算及结算，熟悉使用广联达量筋合一软件，新点组价软件独立投标，会编写投标文件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "二级建造师",
+            "土木建筑工程",
+            "招投标",
+            "造价员证",
+            "施工单位",
+            "安装工程",
+            "广联达"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/071c43d20fbf3b1e6b15133bfe8ad4e7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VL8j2016-NkbO-w1RS13_yRvRNDxA0qFH0O8lLcd1IX_ycP3wXSbpdXJ-s3ysDyEHc2Br155bJlyK8cEljhRWa2vwJLv5fdm1k73aG0u1qV3x5R9",
+    "selfAccess": false,
+    "sessionId": null
 }

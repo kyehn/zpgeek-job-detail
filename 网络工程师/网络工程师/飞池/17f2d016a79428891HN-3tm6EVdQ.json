@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7oFr7B_cCkudq-e1FIGYE0n7DXNPVETI0PyPgfa6Uk_YuUa-I7-HZKzRc27fMN3T3Xg5_GvuB6IyVrRfx0p9_PMLrVFP5Lxl-Zi_UWlxnc3niEdntcUETrfIV48g7tX9wCMzu7bZGIA8-GhUh5L1_zU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "17f2d016a79428891HN-3tm6EVdQ",
-      "encryptUserId": "69540fff018d12d60H1_0t68GFs~",
-      "invalidStatus": false,
-      "jobName": "网络工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "日常技术积累学习。项目实施，日常工作处理。\n学习能力强，为人踏实，诚实肯干，服从安排。项目筹备，实施，上线。熟练掌握网络技术。",
-      "encryptAddressId": "ef8a37ada7cecda03nd40tW-EFdWwYy2WPo~",
-      "address": "深圳龙华区全聚兴大厦B座306",
-      "longitude": 114.02765,
-      "latitude": 22.668027,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230503/48ba41acc9cef1bf05bf6314fad714a63e0c8dd1d3897a7f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfbe5d1248417b6d78ae08c0ce7619ea146bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信/工程相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "樊先生",
-      "title": "总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191024/d9af0869d8c96860471d7218fa18ecbb968bfe185c59bcaebf702b91d9c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "飞池",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5b9ba9dfe69a2efe1nB93961ElQ~",
-      "brandName": "飞池",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "公司是一个年轻快速发展的科技公司",
-      "labels": [
-        "交通补助",
-        "住房补贴",
-        "包住",
-        "零食下午茶",
-        "全勤奖",
-        "工龄奖",
-        "保底工资",
-        "绩效奖金"
-      ],
-      "activeTime": 1727924514152,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "飞池",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "飞池",
+        "certificated": true,
+        "large": null,
+        "name": "樊先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191024/d9af0869d8c96860471d7218fa18ecbb968bfe185c59bcaebf702b91d9c_b.jpg",
+        "title": "总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727924514152,
+        "brandName": "飞池",
+        "customerBrandName": "飞池",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "5b9ba9dfe69a2efe1nB93961ElQ~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "公司是一个年轻快速发展的科技公司",
+        "labels": [
+            "交通补助",
+            "住房补贴",
+            "包住",
+            "零食下午茶",
+            "全勤奖",
+            "工龄奖",
+            "保底工资",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙华区全聚兴大厦B座306",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ef8a37ada7cecda03nd40tW-EFdWwYy2WPo~",
+        "encryptId": "17f2d016a79428891HN-3tm6EVdQ",
+        "encryptUserId": "69540fff018d12d60H1_0t68GFs~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 22.668027,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.02765,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfbe5d1248417b6d78ae08c0ce7619ea146bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "日常技术积累学习。项目实施，日常工作处理。\n学习能力强，为人踏实，诚实肯干，服从安排。项目筹备，实施，上线。熟练掌握网络技术。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "通信/工程相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230503/48ba41acc9cef1bf05bf6314fad714a63e0c8dd1d3897a7f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7oFr7B_cCkudq-e1FIGYE0n7DXNPVETI0PyPgfa6Uk_YuUa-I7-HZKzRc27fMN3T3Xg5_GvuB6IyVrRfx0p9_PMLrVFP5Lxl-Zi_UWlxnc3niEdntcUETrfIV48g7tX9wCMzu7bZGIA8-GhUh5L1_zU~",
+    "selfAccess": false,
+    "sessionId": null
 }

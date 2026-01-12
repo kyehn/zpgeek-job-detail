@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tQflklorBgfR1-N1fXeAzzn01RyNs92SHrQqhQ5a4RgpTI4D94khCwSTtxZFm4BLHwOI2KnahdO0jV9zzSADSS_iTkNOzt2qswo5ZXntr3A8HiKSCAxLkyzeI_OV3TV8vsmhutx4yvnYLXv6SxIJlUVP7gv82AMIsXuox_SWqpty9R4LEhZjWfeqFdlGQyg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "512fa0d510e0a4bc03V72Nu9F1VV",
-      "encryptUserId": "1e8282fa5b98612e0nR82ty6ElFZ",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "测试工程师\n- 具备较为丰富的测试经验\n- 具备Web界面功能测试经验\n- 具有一定的EMS网络管理系统测试经验\n- 熟悉K8S，能熟练使用相关的命令进行环境搭建，问题排查\n-熟悉虚拟化技术，包括KVM等\n- 熟悉4/5G核心网优先",
-      "encryptAddressId": "5c65130078c8b53d1nJz2NS9GVdXxo62VP6X",
-      "address": "成都武侯区中国电信西部信息中心数据中心A区",
-      "longitude": 104.055929,
-      "latitude": 30.540244,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/071ecfa7ecdde73b69e594cc923507f7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b540dc37fd66922a3299d432534475d5",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "5GC",
-        "测试工作经验",
-        "通信相关专业",
-        "核心网",
-        "EMS网管测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "孔女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240122/607f1f3d68754fd0bdcdc79ec1abfc331bc09d6f0b1acf61cf0d9b2871d3482de3b8b15585635ce_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "河南冠晟",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0cf115633edd846a1XRy3NW6FlI~",
-      "brandName": "河南冠晟",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "带薪年假",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1736499603467,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河南冠晟",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "河南冠晟",
+        "certificated": true,
+        "large": null,
+        "name": "孔女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240122/607f1f3d68754fd0bdcdc79ec1abfc331bc09d6f0b1acf61cf0d9b2871d3482de3b8b15585635ce_b.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1736499603467,
+        "brandName": "河南冠晟",
+        "customerBrandName": "河南冠晟",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0cf115633edd846a1XRy3NW6FlI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "带薪年假",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区中国电信西部信息中心数据中心A区",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "5c65130078c8b53d1nJz2NS9GVdXxo62VP6X",
+        "encryptId": "512fa0d510e0a4bc03V72Nu9F1VV",
+        "encryptUserId": "1e8282fa5b98612e0nR82ty6ElFZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.540244,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.055929,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b540dc37fd66922a3299d432534475d5",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "测试工程师\n- 具备较为丰富的测试经验\n- 具备Web界面功能测试经验\n- 具有一定的EMS网络管理系统测试经验\n- 熟悉K8S，能熟练使用相关的命令进行环境搭建，问题排查\n-熟悉虚拟化技术，包括KVM等\n- 熟悉4/5G核心网优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "5GC",
+            "测试工作经验",
+            "通信相关专业",
+            "核心网",
+            "EMS网管测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/071ecfa7ecdde73b69e594cc923507f7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tQflklorBgfR1-N1fXeAzzn01RyNs92SHrQqhQ5a4RgpTI4D94khCwSTtxZFm4BLHwOI2KnahdO0jV9zzSADSS_iTkNOzt2qswo5ZXntr3A8HiKSCAxLkyzeI_OV3TV8vsmhutx4yvnYLXv6SxIJlUVP7gv82AMIsXuox_SWqpty9R4LEhZjWfeqFdlGQyg~",
+    "selfAccess": false,
+    "sessionId": null
 }

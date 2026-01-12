@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZDAuJ6wIaR2oi-51ytedo-E9YLyUHFtPkHYRFduzBgPh54pw6ZPk1mq1bpZJ8Q9wW9WJuExgPw5CVmUv48lzMeAZBFt940mFj6mp-keV_8i2B_acte-d--jkjES_Tg5RoqnkR1fM7m39f_o~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "40fab4ceed88fc981Hx90ti-FFRR",
-      "encryptUserId": "dfda3a9fd5e67c5d0XF-3Nm7ElFS",
-      "invalidStatus": false,
-      "jobName": "Android",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "Python 自动化工程师，性能测试工程师，功能测试工程师，接口测试工程师，质量检测工程师，App 测试工程师，Web 系统测试工程师，系统集成测试工程师，产品发布测试工程师等软件测试相关岗位",
-      "encryptAddressId": "dc0e3a19618ee3e03nV439-9F1JRxIi9U_8~",
-      "address": "长沙天心区汇景发展环球中心2615",
-      "longitude": 112.969396,
-      "latitude": 28.174121,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9d8914a489779a452803c2c0dfd1aae",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08262dac949c6519707d98780cf4f647",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "C++",
-        "通信相关专业",
-        "性能测试",
-        "功能测试",
-        "嵌入式测试",
-        "计算机相关专业",
-        "软件开发经验",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240525/607f1f3d68754fd070cc4dd6b376c602160e5f6a9ad2862cc91810aa98a5f1772c03168bb41d113_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "巨浪星河",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6c5ae8fb685136021XFz29W-FVo~",
-      "brandName": "巨浪星河",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230420/7bf6f160950405e9dba9082e659995d3e67156ab8e069bae1229a7a0fa385d1caf4a0252a53c6892.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "匡集信息（简称KUANKI）是江苏匡集产业链中的重要组成成员单位之一，肩负着赋能国内中小型实体企业在全生命周期营销的精益化增长领域提供精益SEM营销解决方案，是主导“精益SEM营销”理念的企业。\n\n        目前KUANKI服务的客户有100多家实体企业，帮助客户平均提升80%的询盘量，降低32%的获客成本，提高超过56%的ROI投资回报率，另外我们针对KA级合作伙伴主动开放了整个匡集产业链资源，长期陪同我们的伙伴一起成长。\n\n        KUANKI的核心团队主要来自于在知名互联网公司、管理咨询公司、知名实业领域中深耕多年的资深专家，平均年龄在32岁左右，团队一直秉持着“创造价值，成就你我”的服务理念，以持续不断追求提升客户满意度为目标，深度渗透协同，满足客户日益个性化的需求。\n\n        KUANKI重视员工的主观能动性和创造性，推广使用OKR目标绩效管理法，群策群力，更大化的实现个人理想与公司愿景同向协同。",
-      "labels": [
-        "有无线网"
-      ],
-      "activeTime": 1731479313879,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "巨浪星河",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "巨浪星河",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240525/607f1f3d68754fd070cc4dd6b376c602160e5f6a9ad2862cc91810aa98a5f1772c03168bb41d113_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1731479313879,
+        "brandName": "巨浪星河",
+        "customerBrandName": "巨浪星河",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "6c5ae8fb685136021XFz29W-FVo~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "匡集信息（简称KUANKI）是江苏匡集产业链中的重要组成成员单位之一，肩负着赋能国内中小型实体企业在全生命周期营销的精益化增长领域提供精益SEM营销解决方案，是主导“精益SEM营销”理念的企业。\n\n        目前KUANKI服务的客户有100多家实体企业，帮助客户平均提升80%的询盘量，降低32%的获客成本，提高超过56%的ROI投资回报率，另外我们针对KA级合作伙伴主动开放了整个匡集产业链资源，长期陪同我们的伙伴一起成长。\n\n        KUANKI的核心团队主要来自于在知名互联网公司、管理咨询公司、知名实业领域中深耕多年的资深专家，平均年龄在32岁左右，团队一直秉持着“创造价值，成就你我”的服务理念，以持续不断追求提升客户满意度为目标，深度渗透协同，满足客户日益个性化的需求。\n\n        KUANKI重视员工的主观能动性和创造性，推广使用OKR目标绩效管理法，群策群力，更大化的实现个人理想与公司愿景同向协同。",
+        "labels": [
+            "有无线网"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230420/7bf6f160950405e9dba9082e659995d3e67156ab8e069bae1229a7a0fa385d1caf4a0252a53c6892.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙天心区汇景发展环球中心2615",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "dc0e3a19618ee3e03nV439-9F1JRxIi9U_8~",
+        "encryptId": "40fab4ceed88fc981Hx90ti-FFRR",
+        "encryptUserId": "dfda3a9fd5e67c5d0XF-3Nm7ElFS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Android",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.174121,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.969396,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08262dac949c6519707d98780cf4f647",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "Python 自动化工程师，性能测试工程师，功能测试工程师，接口测试工程师，质量检测工程师，App 测试工程师，Web 系统测试工程师，系统集成测试工程师，产品发布测试工程师等软件测试相关岗位",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Java",
+            "C++",
+            "通信相关专业",
+            "性能测试",
+            "功能测试",
+            "嵌入式测试",
+            "计算机相关专业",
+            "软件开发经验",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9d8914a489779a452803c2c0dfd1aae"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZDAuJ6wIaR2oi-51ytedo-E9YLyUHFtPkHYRFduzBgPh54pw6ZPk1mq1bpZJ8Q9wW9WJuExgPw5CVmUv48lzMeAZBFt940mFj6mp-keV_8i2B_acte-d--jkjES_Tg5RoqnkR1fM7m39f_o~",
+    "selfAccess": false,
+    "sessionId": null
 }

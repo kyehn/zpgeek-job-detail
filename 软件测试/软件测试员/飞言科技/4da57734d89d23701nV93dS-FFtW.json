@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "aUfV4IsBd2lio--1nt1tgK033UvL3emGEQkPEqAnT-YblZwQdVq3YQP1G79WwhDO2ZEfP_Kds_J6nb4NKJ2tj_PU4y5Zzxjh9RluxxWcOZd1OpTI-hs1ubPFhQ2fTrHGOkBUZGXZ1WHO4A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4da57734d89d23701nV93dS-FFtW",
-      "encryptUserId": "f702731ae81a9fc71nV62969EltY",
-      "invalidStatus": false,
-      "jobName": "软件测试员",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101100100,
-      "locationName": "太原",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "职位要求：1：18周岁以上，身体健康，无不良嗜好、\n2：走正道，遵纪守法，维护公司及合作伙伴利益！\n3：勤奋，踏实，肯虚心学习，有耐心，能给自己时间成长！\n4：沟通能力好，不惧与陌生人沟通！",
-      "encryptAddressId": "42ad8e4319e7b4031Hx629m-EFo~",
-      "address": "太原杏花岭区府东·公园6栋桃花苑1单元",
-      "longitude": 112.614699,
-      "latitude": 37.867082,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51390a141da968ce0bf9a2e25b1b78d3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d25698d2b6d9edd0cfac820dba9efc07",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240402/607f1f3d68754fd03e00ca2b205cc167f1725367260856d6b1e292e4bbf0f97d6e80aacb9c06d58_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "飞言科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c1b30c017858511633B_3dS8Eg~~",
-      "brandName": "飞言科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "公司创办初始，以手游推广业务为主，后期逐步开展跨境电商业务，未来发展前景广阔",
-      "labels": [
-        "加班补助",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "零食下午茶"
-      ],
-      "activeTime": 1722307543377,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "飞言科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "飞言科技",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240402/607f1f3d68754fd03e00ca2b205cc167f1725367260856d6b1e292e4bbf0f97d6e80aacb9c06d58_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722307543377,
+        "brandName": "飞言科技",
+        "customerBrandName": "飞言科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "c1b30c017858511633B_3dS8Eg~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "公司创办初始，以手游推广业务为主，后期逐步开展跨境电商业务，未来发展前景广阔",
+        "labels": [
+            "加班补助",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "太原杏花岭区府东·公园6栋桃花苑1单元",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "42ad8e4319e7b4031Hx629m-EFo~",
+        "encryptId": "4da57734d89d23701nV93dS-FFtW",
+        "encryptUserId": "f702731ae81a9fc71nV62969EltY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.867082,
+        "location": 101100100,
+        "locationName": "太原",
+        "longitude": 112.614699,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d25698d2b6d9edd0cfac820dba9efc07",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "职位要求：1：18周岁以上，身体健康，无不良嗜好、\n2：走正道，遵纪守法，维护公司及合作伙伴利益！\n3：勤奋，踏实，肯虚心学习，有耐心，能给自己时间成长！\n4：沟通能力好，不惧与陌生人沟通！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51390a141da968ce0bf9a2e25b1b78d3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "aUfV4IsBd2lio--1nt1tgK033UvL3emGEQkPEqAnT-YblZwQdVq3YQP1G79WwhDO2ZEfP_Kds_J6nb4NKJ2tj_PU4y5Zzxjh9RluxxWcOZd1OpTI-hs1ubPFhQ2fTrHGOkBUZGXZ1WHO4A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ta-PZYpH2goOm-t14zqvLo1nUMdV2ADXWbLflYBkWkOWuN6NJqri58x8VsTZvUP1g0yh-J6inrwTyT-AtpGNMvU9QtqBWIe5Escv39MEKCst6A6On1sTD575NyYppk3QxA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ec0333472efca42d1nN629u8ElZT",
-      "encryptUserId": "e1363d8cdeb927c70ndz39m_FlNW",
-      "invalidStatus": false,
-      "jobName": "测试技术员",
-      "position": 100304,
-      "positionName": "性能测试",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟悉测试产品的结构、性能，熟悉拆装公司各类产品。\n\n2、熟悉部份吸尘器的相关测试标准\n\n3、能正确规范使用实验室内各类测试仪器和测试设备。\n\n4、负责对实验室仪器设备工具的维护和管理\n\n5、严格按照标准要求对吸尘器进行测试，试验完成后，提供相应的测试记录，对测试仪器进行正常维护、保养、使用登记、规范摆放。\n\n6、能严格遵照相关测试规程进行测试规范操作，严防安全事故的发生。\n\n7、负责对测试完毕的样机的正确、及时处理，能持续不断的做好责任区域的6S工作。\n\n岗位要求：\n\n1、大专以上学历，机电一体化或是自动化专业优先，应届毕业生亦可。\n\n2、有检验或是测试相关工作经验优先。\n\n3、了解各类材料以及相关测试标准。\n\n4、有较强的责任心和敬业精神。\n\n5、能吃苦耐劳，能适应加班。",
-      "encryptAddressId": "de1a3deb7df429f60nd63dS6GA~~",
-      "address": "苏州相城区苏州日新电器科技有限公司相城区北桥街道名扬路9号",
-      "longitude": 120.62172,
-      "latitude": 31.49867,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccb82b893d4cdc83d340721a5e1aada4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c95de3cbbd72ea76bb39441f50f9a9ee",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "接口测试",
-        "硬件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "日新电器",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "14352b0fc0e5f5981nx-09q8Eg~~",
-      "brandName": "日新电器",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "主营产品为吸尘器，集研发生产销售于一体的高新技术企业。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "免费班车",
-        "住房补贴",
-        "团建聚餐",
-        "包吃",
-        "员工旅游",
-        "带薪年假",
-        "工龄奖",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1734598949578,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "日新电器",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "日新电器",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734598949578,
+        "brandName": "日新电器",
+        "customerBrandName": "日新电器",
+        "customerBrandStageName": "",
+        "encryptBrandId": "14352b0fc0e5f5981nx-09q8Eg~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "主营产品为吸尘器，集研发生产销售于一体的高新技术企业。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "免费班车",
+            "住房补贴",
+            "团建聚餐",
+            "包吃",
+            "员工旅游",
+            "带薪年假",
+            "工龄奖",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州相城区苏州日新电器科技有限公司相城区北桥街道名扬路9号",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "de1a3deb7df429f60nd63dS6GA~~",
+        "encryptId": "ec0333472efca42d1nN629u8ElZT",
+        "encryptUserId": "e1363d8cdeb927c70ndz39m_FlNW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.49867,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.62172,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c95de3cbbd72ea76bb39441f50f9a9ee",
+        "position": 100304,
+        "positionName": "性能测试",
+        "postDescription": "1、熟悉测试产品的结构、性能，熟悉拆装公司各类产品。\n\n2、熟悉部份吸尘器的相关测试标准\n\n3、能正确规范使用实验室内各类测试仪器和测试设备。\n\n4、负责对实验室仪器设备工具的维护和管理\n\n5、严格按照标准要求对吸尘器进行测试，试验完成后，提供相应的测试记录，对测试仪器进行正常维护、保养、使用登记、规范摆放。\n\n6、能严格遵照相关测试规程进行测试规范操作，严防安全事故的发生。\n\n7、负责对测试完毕的样机的正确、及时处理，能持续不断的做好责任区域的6S工作。\n\n岗位要求：\n\n1、大专以上学历，机电一体化或是自动化专业优先，应届毕业生亦可。\n\n2、有检验或是测试相关工作经验优先。\n\n3、了解各类材料以及相关测试标准。\n\n4、有较强的责任心和敬业精神。\n\n5、能吃苦耐劳，能适应加班。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "接口测试",
+            "硬件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccb82b893d4cdc83d340721a5e1aada4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ta-PZYpH2goOm-t14zqvLo1nUMdV2ADXWbLflYBkWkOWuN6NJqri58x8VsTZvUP1g0yh-J6inrwTyT-AtpGNMvU9QtqBWIe5Escv39MEKCst6A6On1sTD575NyYppk3QxA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4rjN0AXcu0shs-r1uxGYZlN8eYg0B5kL455AyjYquljkUSx5k4o9ezAMKeb0647BiwyxszQ4hiux5hADYbGI2FwxzSH1jk0EcTH0iMyzIZH9ReEB0MYvKJgjLQuCjRIB",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8edf8ed3a2c54d381H1z39W-EldR",
-      "encryptUserId": "bbbb7783043104f31HZ52d65GFI~",
-      "invalidStatus": false,
-      "jobName": "java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位内容：\n1. 设计、开发并维护Java应用程序。\n2. 解决各种技术难题，保证代码的可靠性、高效性和安全性。\n3. 参与软件设计的讨论和计划制定。\n4. 与其他团队成员协作工作，提高团队整体技术水平。\n岗位内容：\n1. 设计、开发并维护Java应用程序。\n2. 解决各种技术难题，保证代码的可靠性、高效性和安全性。\n3. 参与软件设计的讨论和计划制定。\n4. 与其他团队成员协作工作，提高团队整体技术水平。\n任职要求：\n1. 熟悉Java语言及相关技术，熟悉Spring框架。\n2. 具有扎实的编程基础和良好的面向对象编程思想。\n3. 对常见数据库如MySQL、redis等有一定的了解和应用经验。\n4. 对Web开发技术有深入理解，熟悉前端技术如vue，element ui等。\n5. 具备物联网设备接入开发经验。熟悉常用的物联网通信协议。熟悉TCP udp通信协议。\n6. 熟练使用git或svn等源码管理工具。\n7. 具备良好的沟通能力。",
-      "encryptAddressId": "654fc936840ba5141nBz2dm7GVJSw424UPiZ",
-      "address": "深圳龙岗区天汇大厦(业勤一路)613A",
-      "longitude": 114.215141,
-      "latitude": 22.717764,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf9ebecdd707eb1336e51a2181c4f3d39a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230705/48ba41acc9cef1bff9916fb23731af420630150b6fcccaff6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "不接受居家办公",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230210/607f1f3d68754fd0101a32a21d3e2c5b544af0967646f0a0d04ee932f50c23aa32b52371383_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "慧影科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a5df385e139c7f020HRz3dW_GA~~",
-      "brandName": "慧影科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "深圳市慧影科技有限公司是一家创新型的高新技术企业，创业团队在系统仿真、虚拟现实、数据分析及核应急软件开发等领域拥有丰富的行业经验，其产品在国内核电领域广泛运用。公司秉持“服务客户，创造价值”的理念，致力于VR、5G、saas云服务等平台研发，为政务管理、核电智慧电厂、制造业智能化等领域业务提供综合解决方案。",
-      "labels": [
-        "五险一金",
-        "股票期权",
-        "年终奖"
-      ],
-      "activeTime": 1735838482000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "慧影科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "慧影科技",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230210/607f1f3d68754fd0101a32a21d3e2c5b544af0967646f0a0d04ee932f50c23aa32b52371383_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1735838482000,
+        "brandName": "慧影科技",
+        "customerBrandName": "慧影科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "a5df385e139c7f020HRz3dW_GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "深圳市慧影科技有限公司是一家创新型的高新技术企业，创业团队在系统仿真、虚拟现实、数据分析及核应急软件开发等领域拥有丰富的行业经验，其产品在国内核电领域广泛运用。公司秉持“服务客户，创造价值”的理念，致力于VR、5G、saas云服务等平台研发，为政务管理、核电智慧电厂、制造业智能化等领域业务提供综合解决方案。",
+        "labels": [
+            "五险一金",
+            "股票期权",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区天汇大厦(业勤一路)613A",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "654fc936840ba5141nBz2dm7GVJSw424UPiZ",
+        "encryptId": "8edf8ed3a2c54d381H1z39W-EldR",
+        "encryptUserId": "bbbb7783043104f31HZ52d65GFI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.717764,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.215141,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230705/48ba41acc9cef1bff9916fb23731af420630150b6fcccaff6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位内容：\n1. 设计、开发并维护Java应用程序。\n2. 解决各种技术难题，保证代码的可靠性、高效性和安全性。\n3. 参与软件设计的讨论和计划制定。\n4. 与其他团队成员协作工作，提高团队整体技术水平。\n岗位内容：\n1. 设计、开发并维护Java应用程序。\n2. 解决各种技术难题，保证代码的可靠性、高效性和安全性。\n3. 参与软件设计的讨论和计划制定。\n4. 与其他团队成员协作工作，提高团队整体技术水平。\n任职要求：\n1. 熟悉Java语言及相关技术，熟悉Spring框架。\n2. 具有扎实的编程基础和良好的面向对象编程思想。\n3. 对常见数据库如MySQL、redis等有一定的了解和应用经验。\n4. 对Web开发技术有深入理解，熟悉前端技术如vue，element ui等。\n5. 具备物联网设备接入开发经验。熟悉常用的物联网通信协议。熟悉TCP udp通信协议。\n6. 熟练使用git或svn等源码管理工具。\n7. 具备良好的沟通能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java",
+            "不接受居家办公",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf9ebecdd707eb1336e51a2181c4f3d39a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4rjN0AXcu0shs-r1uxGYZlN8eYg0B5kL455AyjYquljkUSx5k4o9ezAMKeb0647BiwyxszQ4hiux5hADYbGI2FwxzSH1jk0EcTH0iMyzIZH9ReEB0MYvKJgjLQuCjRIB",
+    "selfAccess": false,
+    "sessionId": null
 }

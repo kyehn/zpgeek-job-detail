@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mRZkHNW2dtpE3-G17AU7kG5DV2oP7zF7waSzGzj8b0t8lGNk_H1Qo_vqSyIRPVbPhZ0Bn7NDqsCxubzbPbPKWcYvdwqY2rXrnSHvea9mOS0NaqT1fjDJ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6f39575bd4b678d61HJ52NW9GVZV",
-      "encryptUserId": "9c03b16afb0bb2a10XF83di9FFBY",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101221500,
-      "locationName": "池州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容及职责:\n1、熟悉设备软件结构、性能,掌握操作系统有关知识;\n2、负责机器设备、软件的改进项目与机器效率的提升;\n3、针对检测过程中产生的良品及不良品进行分析,确保设备检测的准确性;\n4、设备优化问题跟进及改善,自动流水线及机台改造安装调试,新设备设计安装调\n试,能顺利完成领导安排下去的任务。\n\n 1、具有相关专业经验者优先;会c++语言优先\n 2、大专及以上学历;\n 3、具有2年以上维修工作经验;\n 4、有较强的责任心,有较强的沟通协调能力,能吃苦耐劳的敬业精神;",
-      "encryptAddressId": "983a5b2b0e03c99e3nVy29y1ElNVxo2-U_g~",
-      "address": "池州贵池区池州市骏智机电科技有限公司四楼",
-      "longitude": 117.58151,
-      "latitude": 30.707944,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfe394d8986fdd488f04fbaa7b0e9a76616bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfbfa3ee70bd112b6a802dbf5f1cc6668c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "C#开发经验",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "池州市骏智机电科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ae76fb877c1a0fe31XJ83dS8E1M~",
-      "brandName": "池州市骏智机电科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731659466111,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "池州市骏智机电科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "池州市骏智机电科技",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731659466111,
+        "brandName": "池州市骏智机电科技",
+        "customerBrandName": "池州市骏智机电科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ae76fb877c1a0fe31XJ83dS8E1M~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "池州贵池区池州市骏智机电科技有限公司四楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "983a5b2b0e03c99e3nVy29y1ElNVxo2-U_g~",
+        "encryptId": "6f39575bd4b678d61HJ52NW9GVZV",
+        "encryptUserId": "9c03b16afb0bb2a10XF83di9FFBY",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.707944,
+        "location": 101221500,
+        "locationName": "池州",
+        "longitude": 117.58151,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfbfa3ee70bd112b6a802dbf5f1cc6668c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "工作内容及职责:\n1、熟悉设备软件结构、性能,掌握操作系统有关知识;\n2、负责机器设备、软件的改进项目与机器效率的提升;\n3、针对检测过程中产生的良品及不良品进行分析,确保设备检测的准确性;\n4、设备优化问题跟进及改善,自动流水线及机台改造安装调试,新设备设计安装调\n试,能顺利完成领导安排下去的任务。\n\n 1、具有相关专业经验者优先;会c++语言优先\n 2、大专及以上学历;\n 3、具有2年以上维修工作经验;\n 4、有较强的责任心,有较强的沟通协调能力,能吃苦耐劳的敬业精神;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "C++",
+            "C#开发经验",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfe394d8986fdd488f04fbaa7b0e9a76616bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mRZkHNW2dtpE3-G17AU7kG5DV2oP7zF7waSzGzj8b0t8lGNk_H1Qo_vqSyIRPVbPhZ0Bn7NDqsCxubzbPbPKWcYvdwqY2rXrnSHvea9mOS0NaqT1fjDJ",
+    "selfAccess": false,
+    "sessionId": null
 }

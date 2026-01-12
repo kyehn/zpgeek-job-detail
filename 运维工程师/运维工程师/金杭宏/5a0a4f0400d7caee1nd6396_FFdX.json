@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "v2ThKYBNAVXfQ-p1LVcb5ZTrJsWfYTxqxY11bcr7buhqASvPuqs20EolzRfyCcTxqxpOjQRwOUsQ_MGnCKtinNhC2BUnul_zz6VpdgxQnn1Ms-CtCG64",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5a0a4f0400d7caee1nd6396_FFdX",
-      "encryptUserId": "57dcf80f9e152d520nZ40t25E1JU",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "  1.计算机网络、通信、电子或自动化等相关专业，专科及以上学历       \n2、熟练运用常用办公软件  。  \n3、熟悉常见网络设备的调试和故障的排除（交换机、路由器、服务器等）   \n 4、有安防监控或弱电系统技术经验者优先；  5、良好的沟通交流能力，工作细致，严谨，具有较强的学习能力和团队意识。",
-      "encryptAddressId": "f120fe81f103f48803Z42Nm1Fls~",
-      "address": "重庆南岸区南坪万达广场21-4",
-      "longitude": 106.569349,
-      "latitude": 29.525552,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6b2b75fb2bbe48857851cc02b94487f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/49eba8b61936c800d8f39747d0bef94c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络设备",
-        "系统运维",
-        "机房运维",
-        "Windows",
-        "网络交换技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "谭女士",
-      "title": "行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210317/c356f79d80b1d179393e0af52320c84d9f2e1d1b941e128e80d5e683ed4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "金杭宏",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a17a63ba0675fa091nBy0tq7FVo~",
-      "brandName": "金杭宏",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725331678823,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金杭宏",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金杭宏",
+        "certificated": true,
+        "large": null,
+        "name": "谭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210317/c356f79d80b1d179393e0af52320c84d9f2e1d1b941e128e80d5e683ed4_b.jpg",
+        "title": "行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725331678823,
+        "brandName": "金杭宏",
+        "customerBrandName": "金杭宏",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a17a63ba0675fa091nBy0tq7FVo~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆南岸区南坪万达广场21-4",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f120fe81f103f48803Z42Nm1Fls~",
+        "encryptId": "5a0a4f0400d7caee1nd6396_FFdX",
+        "encryptUserId": "57dcf80f9e152d520nZ40t25E1JU",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.525552,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.569349,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/49eba8b61936c800d8f39747d0bef94c",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "  1.计算机网络、通信、电子或自动化等相关专业，专科及以上学历       \n2、熟练运用常用办公软件  。  \n3、熟悉常见网络设备的调试和故障的排除（交换机、路由器、服务器等）   \n 4、有安防监控或弱电系统技术经验者优先；  5、良好的沟通交流能力，工作细致，严谨，具有较强的学习能力和团队意识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "网络设备",
+            "系统运维",
+            "机房运维",
+            "Windows",
+            "网络交换技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6b2b75fb2bbe48857851cc02b94487f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "v2ThKYBNAVXfQ-p1LVcb5ZTrJsWfYTxqxY11bcr7buhqASvPuqs20EolzRfyCcTxqxpOjQRwOUsQ_MGnCKtinNhC2BUnul_zz6VpdgxQnn1Ms-CtCG64",
+    "selfAccess": false,
+    "sessionId": null
 }

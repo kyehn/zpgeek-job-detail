@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UEWhXUliNdedK-B1SHOAFV-p_CqijTjz1I3mH1rgXIP_fXRZd8lnNqPeWrf1ad76PS0miJ9pfbiYiR2pwQStr7EAbXIiBaUiB4b8aaR3TQove7kIA0WVZN9gizjx45RPigrXbosA07tAmatb1KhuIeKjGL1kzGa09pYRzMIamZPmc_oSLscGtCN5h81el5tB5wgfZYjx167bfGt9XoqZHVZrFw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0640bd3290be823003R-0tm0E1pY",
-      "encryptUserId": "4c62a56e8771811d0nx839W5GVZT",
-      "invalidStatus": false,
-      "jobName": "软件运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210700,
-      "locationName": "温州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责软件系统的日常运维工作，确保系统稳定运行。\n2、监控系统性能，及时发现并处理系统故障。\n3、与开发团队合作，优化系统配置和性能。\n\n任职要求\n1、具备扎实的软件运维知识，能够独立处理常见的运维问题。\n2、熟悉系统监控工具，能够有效地进行故障预警和问题诊断。\n3、具有良好的团队合作精神，能够与团队成员有效沟通。",
-      "encryptAddressId": "3e27f2d88dee903c0ndz09W-EFFVxYu3V_o~",
-      "address": "温州永嘉县浙江华研新能源有限公司五楼",
-      "longitude": 120.779486,
-      "latitude": 28.039433,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231125/48ba41acc9cef1bfbd41b2a6b9b7eb1e4c654848ecdf73916bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231125/48ba41acc9cef1bf03c886bd503648dc058409b8a78aad096bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "系统运维",
-        "计算机相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "行政主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230524/607f1f3d68754fd0a39c2b315979ee187d04dd76b7a934d3f6c6ae1d47e4ee4a37074b2e8f7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "浙江华研新能源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b9a0c02ec617a6b71X1_0t29ElY~",
-      "brandName": "浙江华研新能源",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230922/7bf6f160950405e9523603e7a4528acdd114e3fa041f324c8bb6f502f05ee8efeed122e66bc0df70.png.webp",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101210,
-      "industryName": "动力电池",
-      "introduce": "浙江华研新能源有限公司占地面积225亩，建筑面积13万平方米，是一家专业从事新能源、储能系统制造，动力电池组、 AGV电池组，移动电源，充换电设备研发、制造、运营和工程施工的综合性企业。公司将凭借强大的研发能力、先进的生 产工艺以及完善的售后服务,为客户提供高品质、高性能的新能源产品。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1733719697709,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江华研新能源",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "浙江华研新能源",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230524/607f1f3d68754fd0a39c2b315979ee187d04dd76b7a934d3f6c6ae1d47e4ee4a37074b2e8f7_b.jpg",
+        "title": "行政主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1733719697709,
+        "brandName": "浙江华研新能源",
+        "customerBrandName": "浙江华研新能源",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "b9a0c02ec617a6b71X1_0t29ElY~",
+        "focusBrand": false,
+        "industry": 101210,
+        "industryName": "动力电池",
+        "introduce": "浙江华研新能源有限公司占地面积225亩，建筑面积13万平方米，是一家专业从事新能源、储能系统制造，动力电池组、 AGV电池组，移动电源，充换电设备研发、制造、运营和工程施工的综合性企业。公司将凭借强大的研发能力、先进的生 产工艺以及完善的售后服务,为客户提供高品质、高性能的新能源产品。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230922/7bf6f160950405e9523603e7a4528acdd114e3fa041f324c8bb6f502f05ee8efeed122e66bc0df70.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "温州永嘉县浙江华研新能源有限公司五楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3e27f2d88dee903c0ndz09W-EFFVxYu3V_o~",
+        "encryptId": "0640bd3290be823003R-0tm0E1pY",
+        "encryptUserId": "4c62a56e8771811d0nx839W5GVZT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件运维专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.039433,
+        "location": 101210700,
+        "locationName": "温州",
+        "longitude": 120.779486,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231125/48ba41acc9cef1bf03c886bd503648dc058409b8a78aad096bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容\n1、负责软件系统的日常运维工作，确保系统稳定运行。\n2、监控系统性能，及时发现并处理系统故障。\n3、与开发团队合作，优化系统配置和性能。\n\n任职要求\n1、具备扎实的软件运维知识，能够独立处理常见的运维问题。\n2、熟悉系统监控工具，能够有效地进行故障预警和问题诊断。\n3、具有良好的团队合作精神，能够与团队成员有效沟通。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "通信相关专业",
+            "系统运维",
+            "计算机相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231125/48ba41acc9cef1bfbd41b2a6b9b7eb1e4c654848ecdf73916bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UEWhXUliNdedK-B1SHOAFV-p_CqijTjz1I3mH1rgXIP_fXRZd8lnNqPeWrf1ad76PS0miJ9pfbiYiR2pwQStr7EAbXIiBaUiB4b8aaR3TQove7kIA0WVZN9gizjx45RPigrXbosA07tAmatb1KhuIeKjGL1kzGa09pYRzMIamZPmc_oSLscGtCN5h81el5tB5wgfZYjx167bfGt9XoqZHVZrFw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

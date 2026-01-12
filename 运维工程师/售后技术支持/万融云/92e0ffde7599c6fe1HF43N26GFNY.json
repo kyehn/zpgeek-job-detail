@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1gtlEHfcSrHuY-T1q4jnvZ87mumgnRIRxrX5JwWbM8W_ExtmqbnDWMwkFMwIynU41fXHyNFSHVuXFyTTVdRsy4rLBeMSdPAGvq7weCnlaiS_--llbY0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "92e0ffde7599c6fe1HF43N26GFNY",
-      "encryptUserId": "9a181dd2936aab880nBy39q6EVs~",
-      "invalidStatus": false,
-      "jobName": "售后技术支持",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "【应届生实习生可以看看】\n\n职责描述：\n1. 负责对接机房，指导服务器、网络等硬件设备上架工作；\n2. 负责服务器硬件维护、故障检测/替换等；\n3. 协助业务部门为客户提供专业的售后技术支撑；\n4. 协助业务部门处理日常简单故障。\n\n任职要求：\n1. 计算机、网络硬件工程等计算机类相关专业优先；\n2. 熟悉Linux操作系统CentOS7，熟练掌握日常管理、系统安全、网络配置和故障处理；\n3.性格开朗、活泼健谈，能与各机房处理好突发情况",
-      "encryptAddressId": "a863ae86f62b57700HBz2ti8FFZXx4S_UP0~",
-      "address": "深圳南山区飞亚达科技大厦(科技南十二路)7楼-721",
-      "longitude": 113.955733,
-      "latitude": 22.539432,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf79bd9b3563a39110dc53eb2ae66813496bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfc62bcdb5b24644198e75b12b2afc67f86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "Linux",
-        "网络工程",
-        "计算机相关专业",
-        "运维经验",
-        "IDC机房运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "商务",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190224/fdc9395904b770a22421b141899d01bacfb6ed81d675ae3ec4bfb9548ee_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "万融云",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0baded8dae045b5f1XV70tu4Fls~",
-      "brandName": "万融云",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220516/7bf6f160950405e9038aeb3febcba18f97446e9825f52f63cfb6ed81d675ae3ec4bfb9548eee78cc.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "万融云团队成员均从事CDN行业多年，拥有先进的边缘计算调度经验及丰富的客户资源，利用海量闲置资源，构建低成本高品质的云服务，能够做到精准调度，稳定跑量。",
-      "labels": [
-        "节日福利",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1727490965777,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万融云",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万融云",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190224/fdc9395904b770a22421b141899d01bacfb6ed81d675ae3ec4bfb9548ee_b.jpg",
+        "title": "商务"
+    },
+    "brandComInfo": {
+        "activeTime": 1727490965777,
+        "brandName": "万融云",
+        "customerBrandName": "万融云",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "0baded8dae045b5f1XV70tu4Fls~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "万融云团队成员均从事CDN行业多年，拥有先进的边缘计算调度经验及丰富的客户资源，利用海量闲置资源，构建低成本高品质的云服务，能够做到精准调度，稳定跑量。",
+        "labels": [
+            "节日福利",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220516/7bf6f160950405e9038aeb3febcba18f97446e9825f52f63cfb6ed81d675ae3ec4bfb9548eee78cc.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区飞亚达科技大厦(科技南十二路)7楼-721",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a863ae86f62b57700HBz2ti8FFZXx4S_UP0~",
+        "encryptId": "92e0ffde7599c6fe1HF43N26GFNY",
+        "encryptUserId": "9a181dd2936aab880nBy39q6EVs~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "售后技术支持",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 22.539432,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.955733,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfc62bcdb5b24644198e75b12b2afc67f86bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "【应届生实习生可以看看】\n\n职责描述：\n1. 负责对接机房，指导服务器、网络等硬件设备上架工作；\n2. 负责服务器硬件维护、故障检测/替换等；\n3. 协助业务部门为客户提供专业的售后技术支撑；\n4. 协助业务部门处理日常简单故障。\n\n任职要求：\n1. 计算机、网络硬件工程等计算机类相关专业优先；\n2. 熟悉Linux操作系统CentOS7，熟练掌握日常管理、系统安全、网络配置和故障处理；\n3.性格开朗、活泼健谈，能与各机房处理好突发情况",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K·13薪",
+        "showSkills": [
+            "通信相关专业",
+            "Linux",
+            "网络工程",
+            "计算机相关专业",
+            "运维经验",
+            "IDC机房运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf79bd9b3563a39110dc53eb2ae66813496bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1gtlEHfcSrHuY-T1q4jnvZ87mumgnRIRxrX5JwWbM8W_ExtmqbnDWMwkFMwIynU41fXHyNFSHVuXFyTTVdRsy4rLBeMSdPAGvq7weCnlaiS_--llbY0~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_WrMGnM3pwhkK-v16odlOzmTwJaDgz-1V77NBhJofSZU4lSg9SESOJCjuIWTIh83-iE_9yOqWvgRS4gaZv4oiRxnhwv1H_BVHKJCSrPSlzruD-3q",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "01618257a9ade17b1HB939W4EVs~",
-      "encryptUserId": "7d2864d78bcdb75d0nBz2Nm1FVY~",
-      "invalidStatus": false,
-      "jobName": "LED 测试 安转",
-      "position": 100308,
-      "positionName": "硬件测试",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "LED 的安转 调试 基本做展会",
-      "encryptAddressId": "decd86beb794ffc41XBz29W8E1Q~",
-      "address": "武汉武汉国际博览中心",
-      "longitude": 114.241957,
-      "latitude": 30.506838,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0263cd80926c3180efe534fdf0cb68b9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/57c7fdf339a9571b16005da49a2589ac",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "可培养学习"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190225/42f8e4dd64f145794949464eecde0b1d11d39599a842324dfd004facd32_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "艺翔辉煌文化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a70557699098a5fd1HJ709S5Ew~~",
-      "brandName": "艺翔辉煌文化",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721559199637,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "艺翔辉煌文化",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "艺翔辉煌文化",
+        "certificated": true,
+        "large": null,
+        "name": "孟先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190225/42f8e4dd64f145794949464eecde0b1d11d39599a842324dfd004facd32_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721559199637,
+        "brandName": "艺翔辉煌文化",
+        "customerBrandName": "艺翔辉煌文化",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a70557699098a5fd1HJ709S5Ew~~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉武汉国际博览中心",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "decd86beb794ffc41XBz29W8E1Q~",
+        "encryptId": "01618257a9ade17b1HB939W4EVs~",
+        "encryptUserId": "7d2864d78bcdb75d0nBz2Nm1FVY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "LED 测试 安转",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.506838,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.241957,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/57c7fdf339a9571b16005da49a2589ac",
+        "position": 100308,
+        "positionName": "硬件测试",
+        "postDescription": "LED 的安转 调试 基本做展会",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "可培养学习"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0263cd80926c3180efe534fdf0cb68b9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_WrMGnM3pwhkK-v16odlOzmTwJaDgz-1V77NBhJofSZU4lSg9SESOJCjuIWTIh83-iE_9yOqWvgRS4gaZv4oiRxnhwv1H_BVHKJCSrPSlzruD-3q",
+    "selfAccess": false,
+    "sessionId": null
 }

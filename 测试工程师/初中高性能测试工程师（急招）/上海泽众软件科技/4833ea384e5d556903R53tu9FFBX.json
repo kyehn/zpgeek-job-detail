@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "otky8YC8Vw5fo-a1dRnQP_xasQJk60birzve3oHsI4Cg4obYQdYg_Z5gtIRYeHiYdR4G9G7izLbh_M4NLmPzwehXj5ZxZpMYutBTZFA5HQ-rZ4VsdgWzEIaywPD5mck4JzHlO9sqp3LBRFyjpNb1fv3dy5u5aw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4833ea384e5d556903R53tu9FFBX",
-      "encryptUserId": "a99660af98e5a4aa0nZz3tW4ElNT",
-      "invalidStatus": false,
-      "jobName": "初中高性能测试工程师（急招）",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟练掌握LoadRunner/Jmeter等性能测试工具；\n2、熟练使用Linux、AIX操作系统及云原生环境；\n3、熟悉Oracle、Mysql、TXSQL、openGauss等数据库的管理和监控分析，能够使用相关技术工具进行性能问题的定位及分析；\n4、具备金融类系统性能测试经验者优先。",
-      "encryptAddressId": "401d76c0c4063a490XF52Ni0FFZQw4q5Vvo~",
-      "address": "成都武侯区烟草兴业大厦1",
-      "longitude": 104.073944,
-      "latitude": 30.554597,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2cc2252fade234376a4134ce82ebc94",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/123ff80bc4fee58eab0199ef37054156",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "银行性能测试",
-        "性能测试",
-        "LoadRunner",
-        "JMeter"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "冉女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd0577854c2a7f1ed68ea78e72585e2eb6bf8e394c9fd934b121530e9af8b7bbd5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "上海泽众软件科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "30455cf959ae268b1Hd52dS7FVc~",
-      "brandName": "上海泽众软件科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733222056662,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海泽众软件科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海泽众软件科技",
+        "certificated": true,
+        "large": null,
+        "name": "冉女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd0577854c2a7f1ed68ea78e72585e2eb6bf8e394c9fd934b121530e9af8b7bbd5_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1733222056662,
+        "brandName": "上海泽众软件科技",
+        "customerBrandName": "上海泽众软件科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "30455cf959ae268b1Hd52dS7FVc~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区烟草兴业大厦1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "401d76c0c4063a490XF52Ni0FFZQw4q5Vvo~",
+        "encryptId": "4833ea384e5d556903R53tu9FFBX",
+        "encryptUserId": "a99660af98e5a4aa0nZz3tW4ElNT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初中高性能测试工程师（急招）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.554597,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.073944,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/123ff80bc4fee58eab0199ef37054156",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、熟练掌握LoadRunner/Jmeter等性能测试工具；\n2、熟练使用Linux、AIX操作系统及云原生环境；\n3、熟悉Oracle、Mysql、TXSQL、openGauss等数据库的管理和监控分析，能够使用相关技术工具进行性能问题的定位及分析；\n4、具备金融类系统性能测试经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "银行性能测试",
+            "性能测试",
+            "LoadRunner",
+            "JMeter"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2cc2252fade234376a4134ce82ebc94"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "otky8YC8Vw5fo-a1dRnQP_xasQJk60birzve3oHsI4Cg4obYQdYg_Z5gtIRYeHiYdR4G9G7izLbh_M4NLmPzwehXj5ZxZpMYutBTZFA5HQ-rZ4VsdgWzEIaywPD5mck4JzHlO9sqp3LBRFyjpNb1fv3dy5u5aw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

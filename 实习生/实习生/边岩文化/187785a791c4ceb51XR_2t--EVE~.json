@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "amk0-qgNzPKDb-y10VYb5jSdcvrd48giHNbH0y4P5tFQTB8LRi7h0FtxKdhNj_R3ZyzlZ2IVdy7Qbf1C5RQSQ5OrrcIffwH2TjtPU44dsCqnkOxU",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "187785a791c4ceb51XR_2t--EVE~",
-      "encryptUserId": "02d3ee6e35ce7fa71HB-0tu8FFY~",
-      "invalidStatus": false,
-      "jobName": "实习生",
-      "position": 270101,
-      "positionName": "实习生",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "设计助理 会ai ps id  等设计软件",
-      "encryptAddressId": "4350196a134219b41XB60t-0GVQ~",
-      "address": "上海徐汇区木及咖啡",
-      "longitude": 121.419697,
-      "latitude": 31.159781,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44ae07343e3a4a2114510fd284e9666c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d8fed7ccc31f85e871d7acba72833b9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "宋先生",
-      "title": "ceo",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180222/0ed6f8e3cc09586e368de5634ff521b600aec5346814fb108c191d6c29a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "边岩文化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f51e583b295571931nB82d-1Eg~~",
-      "brandName": "边岩文化",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721492639990,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "边岩文化",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "边岩文化",
+        "certificated": true,
+        "large": null,
+        "name": "宋先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180222/0ed6f8e3cc09586e368de5634ff521b600aec5346814fb108c191d6c29a_b.jpg",
+        "title": "ceo"
+    },
+    "brandComInfo": {
+        "activeTime": 1721492639990,
+        "brandName": "边岩文化",
+        "customerBrandName": "边岩文化",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f51e583b295571931nB82d-1Eg~~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区木及咖啡",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4350196a134219b41XB60t-0GVQ~",
+        "encryptId": "187785a791c4ceb51XR_2t--EVE~",
+        "encryptUserId": "02d3ee6e35ce7fa71HB-0tu8FFY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.159781,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.419697,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d8fed7ccc31f85e871d7acba72833b9",
+        "position": 270101,
+        "positionName": "实习生",
+        "postDescription": "设计助理 会ai ps id  等设计软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "软件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44ae07343e3a4a2114510fd284e9666c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "amk0-qgNzPKDb-y10VYb5jSdcvrd48giHNbH0y4P5tFQTB8LRi7h0FtxKdhNj_R3ZyzlZ2IVdy7Qbf1C5RQSQ5OrrcIffwH2TjtPU44dsCqnkOxU",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9cFlnMxO_U5Yy-21POh954HgL9aRSENwCwPO5mS9iqoZxHhfSTcNnPy1nEDUQCxbHaLnHs8uVgoxOOUj0LiysaCt9S9Mhj1YSOc4KejytYgO4XL3y89BnmFJWLB9so6CMjqsR4NFerkAPA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b80808a890917fb203R72t21EldQ",
-      "encryptUserId": "76e6e7bf427527b70HB82961FFQ~",
-      "invalidStatus": false,
-      "jobName": "测试工程师（应届生）",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "1. 负责测试台架搭建\n2. 测试工作执行：依据测试用例，按测试步骤执行测试，记录测试数据，判定测试结果\n3. 负责数据汇总，数据校验，报告整理",
-      "encryptAddressId": "1497ff5ed1d7e7170XN-2tm9F1VVxY23Vfg~",
-      "address": "苏州昆山市首智新能源科技A4",
-      "longitude": 121.10671,
-      "latitude": 31.321962,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230801/48ba41acc9cef1bf964c78089dc5f792f601c785798f94646bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230801/48ba41acc9cef1bf7602055fded2fc65b765c21727cc4f2f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "压力测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "谭女士",
-      "title": "高级人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201209/f438bb59aae042fcde05db6f5f71cbbc46fb49116bda1292ec7348242b8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "智掣新能源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a55fbcde6f6668b41HR_0ty5EVM~",
-      "brandName": "智掣新能源",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "餐补",
-        "五险一金"
-      ],
-      "activeTime": 1732178308696,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智掣新能源",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智掣新能源",
+        "certificated": true,
+        "large": null,
+        "name": "谭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201209/f438bb59aae042fcde05db6f5f71cbbc46fb49116bda1292ec7348242b8_b.jpg",
+        "title": "高级人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1732178308696,
+        "brandName": "智掣新能源",
+        "customerBrandName": "智掣新能源",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a55fbcde6f6668b41HR_0ty5EVM~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "餐补",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市首智新能源科技A4",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1497ff5ed1d7e7170XN-2tm9F1VVxY23Vfg~",
+        "encryptId": "b80808a890917fb203R72t21EldQ",
+        "encryptUserId": "76e6e7bf427527b70HB82961FFQ~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "测试工程师（应届生）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.321962,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.10671,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230801/48ba41acc9cef1bf7602055fded2fc65b765c21727cc4f2f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1. 负责测试台架搭建\n2. 测试工作执行：依据测试用例，按测试步骤执行测试，记录测试数据，判定测试结果\n3. 负责数据汇总，数据校验，报告整理",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K·14薪",
+        "showSkills": [
+            "性能测试",
+            "压力测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230801/48ba41acc9cef1bf964c78089dc5f792f601c785798f94646bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9cFlnMxO_U5Yy-21POh954HgL9aRSENwCwPO5mS9iqoZxHhfSTcNnPy1nEDUQCxbHaLnHs8uVgoxOOUj0LiysaCt9S9Mhj1YSOc4KejytYgO4XL3y89BnmFJWLB9so6CMjqsR4NFerkAPA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

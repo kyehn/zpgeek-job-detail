@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "72PcGfIIEB-il-o1iqMwOuTPdadCtdO7dT7lfTWub5GuNfbdzDcsnVTkjKyo1qRHuFdK6h3xWTttcPdrrWtxqpZcyDTBE3QBhkkfkVmOv21fWl83xt5kpPu62aUm7ACyb3FtQBBEZJip4CI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "980d7be72a91d3241nR_0921EVRU",
-      "encryptUserId": "ce639090edcd7db20nR-2Nm4GVdQ",
-      "invalidStatus": false,
-      "jobName": "技术支持",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "技术支持 ：具体工作：液晶广告机、拼接屏、全彩屏、触摸一体电脑等相关设备的调试工作。  要求熟练使用万用表,计算机的组装，系统和软件的安装，熟悉android软件  B/S构架的服务器软件，数量调试多屏拼接及图形处理器等相关的专业知识 。薪资待遇 ：6000以上。具体看工作能力",
-      "encryptAddressId": "8c7727ce436af00d1nR_0ty9FFc~",
-      "address": "上海嘉定区上海墨昌电子科技有限公司尚学路688号A幢5楼",
-      "longitude": 121.296471,
-      "latitude": 31.35696,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/96d2d0ab6e1f9420e3a8147998c15f2a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65bf910b49cd9e2d1d2bc26095c60f95",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "于先生",
-      "title": "公司总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "墨昌电子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "47c1e398580f19eb1nZ-3tq8GVc~",
-      "brandName": "墨昌电子科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725525878708,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "墨昌电子科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "墨昌电子科技",
+        "certificated": true,
+        "large": null,
+        "name": "于先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "公司总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725525878708,
+        "brandName": "墨昌电子科技",
+        "customerBrandName": "墨昌电子科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "47c1e398580f19eb1nZ-3tq8GVc~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海嘉定区上海墨昌电子科技有限公司尚学路688号A幢5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8c7727ce436af00d1nR_0ty9FFc~",
+        "encryptId": "980d7be72a91d3241nR_0921EVRU",
+        "encryptUserId": "ce639090edcd7db20nR-2Nm4GVdQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.35696,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.296471,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65bf910b49cd9e2d1d2bc26095c60f95",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "技术支持 ：具体工作：液晶广告机、拼接屏、全彩屏、触摸一体电脑等相关设备的调试工作。  要求熟练使用万用表,计算机的组装，系统和软件的安装，熟悉android软件  B/S构架的服务器软件，数量调试多屏拼接及图形处理器等相关的专业知识 。薪资待遇 ：6000以上。具体看工作能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施工程师/顾问"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/96d2d0ab6e1f9420e3a8147998c15f2a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "72PcGfIIEB-il-o1iqMwOuTPdadCtdO7dT7lfTWub5GuNfbdzDcsnVTkjKyo1qRHuFdK6h3xWTttcPdrrWtxqpZcyDTBE3QBhkkfkVmOv21fWl83xt5kpPu62aUm7ACyb3FtQBBEZJip4CI~",
+    "selfAccess": false,
+    "sessionId": null
 }

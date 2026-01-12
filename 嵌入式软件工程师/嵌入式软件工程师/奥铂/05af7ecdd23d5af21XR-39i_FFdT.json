@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "y6QpAz41bT-AF-11SjmR4BuHK7xWw_Qzjo1Pn9kGRGF8ky2ZVko0f9ueYxn1zzQ2rtGXHNEZgy5AYgLOOq6j1RpiFrNbFpWBCkaTcyx0MuAVTC-uamwbL49VTJQflLky03mqowHOJ_n1Ag~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "05af7ecdd23d5af21XR-39i_FFdT",
-      "encryptUserId": "643a76bb951845123nVy29i6E1I~",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "1、电子、通信、软件等相关专业，本科以上学历；\n2、3年以上STM32单片机软硬件开发经验，熟练掌握C语言编程；\n3、熟练掌握protel、AD等原理图和PCB绘制工具软件的使用；\n4、熟悉RS232、RS485、SPI等常见端口的通讯协议和使用；\n5、熟悉示波器等常见仪器设备的使用，能独立进行设备的编程和调试；\n6、有上位机的编程经验；\n7、积极向上、有良好的团队协作和学习能力；",
-      "encryptAddressId": "db4dd488fd2bc3c91nd70960EFo~",
-      "address": "杭州余杭区甲楠智创中心702",
-      "longitude": 119.926536,
-      "latitude": 30.243212,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9498e9819bdae87f065694e236e7287f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f189dd57d59331b64c5931201b5ff56",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信接口/总线",
-        "仪器仪表",
-        "C++",
-        "嵌入式技术",
-        "嵌入式软件开发",
-        "单片机开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210526/4adddae7b1793f0f2373f83d8c9cfd9dfb05c6d642a3fbe2fbd8e295a8c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "奥铂",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b83a1b7785e78a151nZ439m7FFQ~",
-      "brandName": "奥铂",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210805/d0c2a399a12ceaffc365761637405d0bfb05c6d642a3fbe2fbd8e295a8ca04f5.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "智能化仪器制造",
-      "labels": [],
-      "activeTime": 1724466792688,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "奥铂",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "奥铂",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210526/4adddae7b1793f0f2373f83d8c9cfd9dfb05c6d642a3fbe2fbd8e295a8c_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724466792688,
+        "brandName": "奥铂",
+        "customerBrandName": "奥铂",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "b83a1b7785e78a151nZ439m7FFQ~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "智能化仪器制造",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210805/d0c2a399a12ceaffc365761637405d0bfb05c6d642a3fbe2fbd8e295a8ca04f5.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区甲楠智创中心702",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "db4dd488fd2bc3c91nd70960EFo~",
+        "encryptId": "05af7ecdd23d5af21XR-39i_FFdT",
+        "encryptUserId": "643a76bb951845123nVy29i6E1I~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.243212,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.926536,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f189dd57d59331b64c5931201b5ff56",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1、电子、通信、软件等相关专业，本科以上学历；\n2、3年以上STM32单片机软硬件开发经验，熟练掌握C语言编程；\n3、熟练掌握protel、AD等原理图和PCB绘制工具软件的使用；\n4、熟悉RS232、RS485、SPI等常见端口的通讯协议和使用；\n5、熟悉示波器等常见仪器设备的使用，能独立进行设备的编程和调试；\n6、有上位机的编程经验；\n7、积极向上、有良好的团队协作和学习能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "通信接口/总线",
+            "仪器仪表",
+            "C++",
+            "嵌入式技术",
+            "嵌入式软件开发",
+            "单片机开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9498e9819bdae87f065694e236e7287f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "y6QpAz41bT-AF-11SjmR4BuHK7xWw_Qzjo1Pn9kGRGF8ky2ZVko0f9ueYxn1zzQ2rtGXHNEZgy5AYgLOOq6j1RpiFrNbFpWBCkaTcyx0MuAVTC-uamwbL49VTJQflLky03mqowHOJ_n1Ag~~",
+    "selfAccess": false,
+    "sessionId": null
 }

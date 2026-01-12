@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GN62nNSXirueF-Z1IefqBq8XsurHRclhFefKHb1v4SJv2pGxLu0u5nn_6kP9HfbUWeJONFKUzrVjYkUgXMt7i2NL8QZFTsCFCtb03CLP1Rgc_-gZdRPB",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ade4e3a01c6686231X1939i7EVpV",
-      "encryptUserId": "04810d0049f169f41nZ63Ni-FFpS",
-      "invalidStatus": false,
-      "jobName": "土木/土建/结构工程师",
-      "position": 220204,
-      "positionName": "土木/土建/结构工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、钢结构厂房荷载验算\n2、加固方案设计\n3、项目现场考察测绘",
-      "encryptAddressId": "7cd3b4072ab4e19d1nRz2di5EFRT",
-      "address": "苏州吴江区绿地复客智慧产业园B幢东楼402室",
-      "longitude": 120.592255,
-      "latitude": 31.131041,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230513/48ba41acc9cef1bf3be6547340911fcf7f219c0d0aaf77916bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf5e5108acb5a60706fb08f085b5a331706bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "公共建筑",
-        "天正",
-        "二级建造师",
-        "二级注册结构工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "马女士",
-      "title": "人事经理HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220301/607f1f3d68754fd057dae0d068c8c4d6d478412e3149b2e1d019c93b1fc3af8ee7f7f4b4947_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "苏州博天新能源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "67eef07328ae3a381XR82tu4EFQ~",
-      "brandName": "苏州博天新能源",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "我们公司主要做光伏支架，生产设计到施工，目前公司发展状况持续稳定，公司也在扩建",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "绩效奖金",
-        "全勤奖",
-        "带薪年假",
-        "员工旅游",
-        "团建聚餐",
-        "高温补贴",
-        "节日福利"
-      ],
-      "activeTime": 1732506774925,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州博天新能源",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州博天新能源",
+        "certificated": true,
+        "large": null,
+        "name": "马女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220301/607f1f3d68754fd057dae0d068c8c4d6d478412e3149b2e1d019c93b1fc3af8ee7f7f4b4947_b.jpg",
+        "title": "人事经理HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732506774925,
+        "brandName": "苏州博天新能源",
+        "customerBrandName": "苏州博天新能源",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "67eef07328ae3a381XR82tu4EFQ~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "我们公司主要做光伏支架，生产设计到施工，目前公司发展状况持续稳定，公司也在扩建",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "绩效奖金",
+            "全勤奖",
+            "带薪年假",
+            "员工旅游",
+            "团建聚餐",
+            "高温补贴",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴江区绿地复客智慧产业园B幢东楼402室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7cd3b4072ab4e19d1nRz2di5EFRT",
+        "encryptId": "ade4e3a01c6686231X1939i7EVpV",
+        "encryptUserId": "04810d0049f169f41nZ63Ni-FFpS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "土木/土建/结构工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.131041,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.592255,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf5e5108acb5a60706fb08f085b5a331706bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 220204,
+        "positionName": "土木/土建/结构工程师",
+        "postDescription": "1、钢结构厂房荷载验算\n2、加固方案设计\n3、项目现场考察测绘",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "公共建筑",
+            "天正",
+            "二级建造师",
+            "二级注册结构工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230513/48ba41acc9cef1bf3be6547340911fcf7f219c0d0aaf77916bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GN62nNSXirueF-Z1IefqBq8XsurHRclhFefKHb1v4SJv2pGxLu0u5nn_6kP9HfbUWeJONFKUzrVjYkUgXMt7i2NL8QZFTsCFCtb03CLP1Rgc_-gZdRPB",
+    "selfAccess": false,
+    "sessionId": null
 }

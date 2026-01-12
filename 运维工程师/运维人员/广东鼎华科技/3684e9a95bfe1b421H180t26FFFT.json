@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DGhsk7sm3UFmA-G1u9g9i5oGKjTiFmfAQ-hVoVL4htOcCc_bMQ4y2V0KrsgkURcMQnfDYvKdbHFfhcrknHIdHSbE8iqvzy8TCXweYoNPkMkDGfArjF3hQfgpjfT40ISyT_hAy2iPxPDi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3684e9a95bfe1b421H180t26FFFT",
-      "encryptUserId": "25d3695b6d92b9620HV-2tq4F1I~",
-      "invalidStatus": false,
-      "jobName": "运维人员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280800,
-      "locationName": "佛山",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责日常IT运维工作，例如维护网络安全、对各部门电脑、打印机等终端设备使用提供技术支持等；\n2.负责电脑系统、应用软件客户端安装;\n4.网络维护及硬件故障排除;\n5.完成上级或公司交与的其他任务;\n任职要求：\n1)计算机及网络相关专业(大专学历及以上)；\n2)熟悉电脑及网络技术知识；\n3)能够吃苦耐劳，有良好的沟通能力。\n\n另：该岗位招实习生，也招有经验的运维人员，具体薪资可谈，谢谢。",
-      "encryptAddressId": "be991d148f27c3820Xx63Nu_Fg~~",
-      "address": "佛山顺德区广东鼎华科技股份有限公司佛山市顺德区伦教街道羊额村委会翡翠路1号",
-      "longitude": 113.18003,
-      "latitude": 22.876614,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f34bba7761069b68faf52ec46bb9b074",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b0b15e827590e7c33f2d10919cecf49",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维",
-        "桌面运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "贺女士",
-      "title": "主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "广东鼎华科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "499394d810df679f0nZy39u1Ew~~",
-      "brandName": "广东鼎华科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "员工旅游"
-      ],
-      "activeTime": 1731050504238,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广东鼎华科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广东鼎华科技",
+        "certificated": true,
+        "large": null,
+        "name": "贺女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1731050504238,
+        "brandName": "广东鼎华科技",
+        "customerBrandName": "广东鼎华科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "499394d810df679f0nZy39u1Ew~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "员工旅游"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "佛山顺德区广东鼎华科技股份有限公司佛山市顺德区伦教街道羊额村委会翡翠路1号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "be991d148f27c3820Xx63Nu_Fg~~",
+        "encryptId": "3684e9a95bfe1b421H180t26FFFT",
+        "encryptUserId": "25d3695b6d92b9620HV-2tq4F1I~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维人员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.876614,
+        "location": 101280800,
+        "locationName": "佛山",
+        "longitude": 113.18003,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b0b15e827590e7c33f2d10919cecf49",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.负责日常IT运维工作，例如维护网络安全、对各部门电脑、打印机等终端设备使用提供技术支持等；\n2.负责电脑系统、应用软件客户端安装;\n4.网络维护及硬件故障排除;\n5.完成上级或公司交与的其他任务;\n任职要求：\n1)计算机及网络相关专业(大专学历及以上)；\n2)熟悉电脑及网络技术知识；\n3)能够吃苦耐劳，有良好的沟通能力。\n\n另：该岗位招实习生，也招有经验的运维人员，具体薪资可谈，谢谢。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K·13薪",
+        "showSkills": [
+            "网络运维",
+            "系统运维",
+            "桌面运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f34bba7761069b68faf52ec46bb9b074"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DGhsk7sm3UFmA-G1u9g9i5oGKjTiFmfAQ-hVoVL4htOcCc_bMQ4y2V0KrsgkURcMQnfDYvKdbHFfhcrknHIdHSbE8iqvzy8TCXweYoNPkMkDGfArjF3hQfgpjfT40ISyT_hAy2iPxPDi",
+    "selfAccess": false,
+    "sessionId": null
 }

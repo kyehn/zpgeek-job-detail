@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8GOG79Jb944O6-E1FwifqxYwj5HvYI9ChyjKSol-Y3LYNMX0RbOllxD5ec2mTcbXDRtviCp1m_t2g779CZbcdXS2mKX2DGeZT11ShFygJLRmrKnvbd2iLc236edNSwetLWhIcUS9lAVe",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fedf9edd997a00961H1-2Ni7E1RU",
-      "encryptUserId": "655f76847ecfd99d0HR609-1FFA~",
-      "invalidStatus": false,
-      "jobName": "系统诊断工程师（双休+Python/Shell）",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1.软件开发方向\n2.Python、Shell\n\n职位描述：\n1.学历要求:本科\n2.工作经验要求:1年以上系统诊断软件开发经验\n其他要求:\n1.熟悉Linux系统，熟练掌握Python、Shell，能够熟练运用Python、Shell编写测试模块和脚本.\n2.具备团队精神、质量意识、责任心强、工作积极\n3.具备良好的学习能力、抗压能力和沟通能力\n4.满足以下一到多项工作经验要求优先录用:\n    a.对服务器CPU、内存、硬盘、RAID卡、网卡等硬件设备了解，并有相关工作经验\n    b.具备诊断软件集成、联调、验证及导入工厂经验\n    c.具备PXE诊断测试网络搭建及维护经验\n    d.具备服务器、存储产品整机诊断测试方案制定、开发",
-      "encryptAddressId": "eabc99cb7559b72f1nB73N69FFdSyoW7Vf2f",
-      "address": "济南历城区浪潮产业园浪潮",
-      "longitude": 117.275646,
-      "latitude": 36.688929,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7085b0d8c1cece14ed60d26f95b10196",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee10bb87b43c4cf714e9113b732267e8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "爬虫经验",
-        "Redis",
-        "Linux开发/部署经验",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "任女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220518/607f1f3d68754fd0af6b02e7589632341fb03131817e46cc7619aade54f156b5c5fdf1143d8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "文德数慧",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8da6790b2e21a13b1Hx92Ni6Fg~~",
-      "brandName": "文德数慧",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190513/0d2c075b3cf16293346c5b1d2f86ea67f38617778da46bd78563a6b6c5b103b6_s.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "2017年文德公司成立,总部位于北京中关村，业务范围覆盖北京、上海、深圳、杭州、武汉、合肥，面向全国大力拓展企业数字化转型及数字运营等技术服务，在全国均具备完善的本地化、专业化交付能力，高效满足客户的服务要求。\n\n愿景宗旨：做最优秀的企业数字化转型服务商。\n\n服务能力：云计算和大数据，企业数字化转型和数字运营，科技金融。\n\n产品能力：金融大数据分析平台解决方案；银行一体化风控解决方案；支付结算解决方案；场外衍生品交易解决方案；智慧金融解决方案；电商平台系统解决方案。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "带薪年假",
-        "岗位津贴",
-        "绩效奖金"
-      ],
-      "activeTime": 1729850449055,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "文德数慧",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "文德数慧",
+        "certificated": true,
+        "large": null,
+        "name": "任女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220518/607f1f3d68754fd0af6b02e7589632341fb03131817e46cc7619aade54f156b5c5fdf1143d8_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1729850449055,
+        "brandName": "文德数慧",
+        "customerBrandName": "文德数慧",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "8da6790b2e21a13b1Hx92Ni6Fg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "2017年文德公司成立,总部位于北京中关村，业务范围覆盖北京、上海、深圳、杭州、武汉、合肥，面向全国大力拓展企业数字化转型及数字运营等技术服务，在全国均具备完善的本地化、专业化交付能力，高效满足客户的服务要求。\n\n愿景宗旨：做最优秀的企业数字化转型服务商。\n\n服务能力：云计算和大数据，企业数字化转型和数字运营，科技金融。\n\n产品能力：金融大数据分析平台解决方案；银行一体化风控解决方案；支付结算解决方案；场外衍生品交易解决方案；智慧金融解决方案；电商平台系统解决方案。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "带薪年假",
+            "岗位津贴",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190513/0d2c075b3cf16293346c5b1d2f86ea67f38617778da46bd78563a6b6c5b103b6_s.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南历城区浪潮产业园浪潮",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "eabc99cb7559b72f1nB73N69FFdSyoW7Vf2f",
+        "encryptId": "fedf9edd997a00961H1-2Ni7E1RU",
+        "encryptUserId": "655f76847ecfd99d0HR609-1FFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统诊断工程师（双休+Python/Shell）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 36.688929,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.275646,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee10bb87b43c4cf714e9113b732267e8",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "1.软件开发方向\n2.Python、Shell\n\n职位描述：\n1.学历要求:本科\n2.工作经验要求:1年以上系统诊断软件开发经验\n其他要求:\n1.熟悉Linux系统，熟练掌握Python、Shell，能够熟练运用Python、Shell编写测试模块和脚本.\n2.具备团队精神、质量意识、责任心强、工作积极\n3.具备良好的学习能力、抗压能力和沟通能力\n4.满足以下一到多项工作经验要求优先录用:\n    a.对服务器CPU、内存、硬盘、RAID卡、网卡等硬件设备了解，并有相关工作经验\n    b.具备诊断软件集成、联调、验证及导入工厂经验\n    c.具备PXE诊断测试网络搭建及维护经验\n    d.具备服务器、存储产品整机诊断测试方案制定、开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "爬虫经验",
+            "Redis",
+            "Linux开发/部署经验",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7085b0d8c1cece14ed60d26f95b10196"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8GOG79Jb944O6-E1FwifqxYwj5HvYI9ChyjKSol-Y3LYNMX0RbOllxD5ec2mTcbXDRtviCp1m_t2g779CZbcdXS2mKX2DGeZT11ShFygJLRmrKnvbd2iLc236edNSwetLWhIcUS9lAVe",
+    "selfAccess": false,
+    "sessionId": null
 }

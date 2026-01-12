@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uvBjUM8fvTFoj-P1SCN7IKeSW8rUCgV4XRvzhDl_WH8O5X2Sa5_2tNHT0YVrt7z2DCmngcG-t7w_X6tfRm__LLPyKFjWjCH1swp-4tVryWi8L_TcOtM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d15ca03479d2bfc1nJ70t6-GVJT",
-      "encryptUserId": "02a2eccfacc8c03003B909m5GVQ~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责设计测试方案，制定测试计划，设计测试用例，建立并维护测试环境，按照测试流程对软件产品进行全面规范的测试\n2.对软件质量问题进行跟踪并报告，推动测试问题合理及时解决\n3.和项目、产品、技术经理密切配合，保障产品质量，提升客户满意度。",
-      "encryptAddressId": "fab8c6d9699fc6e81nZ93Nm5Eg~~",
-      "address": "成都武侯区成都来福士广场T1",
-      "longitude": 104.067784,
-      "latitude": 30.631597,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08d9092c753f7f55238ebea0f998eafb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/429fd93b007f5d772e3bb61322e1bf6f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "功能测试",
-        "web端测试",
-        "移动端测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "柏女士",
-      "title": "人事主管 HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/356cee22fa76af7f1cd89d27af013db042df243599cf063ba7e9fa7d10a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "运泓",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d61b433ac01204591nB83d20EFU~",
-      "brandName": "运泓",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100504,
-      "industryName": "进出口贸易",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725313730621,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "运泓",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "运泓",
+        "certificated": true,
+        "large": null,
+        "name": "柏女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/356cee22fa76af7f1cd89d27af013db042df243599cf063ba7e9fa7d10a_b.jpg",
+        "title": "人事主管 HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725313730621,
+        "brandName": "运泓",
+        "customerBrandName": "运泓",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d61b433ac01204591nB83d20EFU~",
+        "focusBrand": false,
+        "industry": 100504,
+        "industryName": "进出口贸易",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区成都来福士广场T1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fab8c6d9699fc6e81nZ93Nm5Eg~~",
+        "encryptId": "1d15ca03479d2bfc1nJ70t6-GVJT",
+        "encryptUserId": "02a2eccfacc8c03003B909m5GVQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.631597,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.067784,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/429fd93b007f5d772e3bb61322e1bf6f",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.负责设计测试方案，制定测试计划，设计测试用例，建立并维护测试环境，按照测试流程对软件产品进行全面规范的测试\n2.对软件质量问题进行跟踪并报告，推动测试问题合理及时解决\n3.和项目、产品、技术经理密切配合，保障产品质量，提升客户满意度。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "软件测试",
+            "功能测试",
+            "web端测试",
+            "移动端测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08d9092c753f7f55238ebea0f998eafb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uvBjUM8fvTFoj-P1SCN7IKeSW8rUCgV4XRvzhDl_WH8O5X2Sa5_2tNHT0YVrt7z2DCmngcG-t7w_X6tfRm__LLPyKFjWjCH1swp-4tVryWi8L_TcOtM~",
+    "selfAccess": false,
+    "sessionId": null
 }

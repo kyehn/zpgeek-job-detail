@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "l5tmamxo9pnfo-y1RWJ0E9nkD4HoM3xRNUgwFPAe9xE5ssxZmM0MdCL2-oHu2aIlkFs6SktLRP09jdA7aVBHWO3CDY4mz68xY_hFYKdHdlw6scevjeQ9YdbAUkUJNxF_BRl0W3oCZus~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9127f77f4ef0579b1XV83N65GFA~",
-      "encryptUserId": "1b3433db7968cae61Hxy09-_EFE~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责产品的安装调试，维修维护。负责完成公司各项设备安装、调试和维护任务；\n2. 负责电子秤产品售后安装、维修工作；\n \n任职要求：\n1.了解各种计算机软硬件，可独立进行安装、调试及故障排除\n2.动手能力较好，能吃苦耐劳、有强烈的企图心（目标需要靠自己的付出去实现）\n3.有相关经验优先;\n4.有意向长期在这个行业发展；\n5.有良好的服务意识、综合素质（有营销行业经验者更加适合）\n \n福利待遇：\n1、薪资面议，提供五险及公司其他福利（旅游、聚会等等）。\n2.公事外出交通补贴。\n3.做五休二，享受国家法定节假日及带薪休假。\n4.完善的员工培训（内训及外训）和广阔的晋升空间。\n5.妇女节，及其他大小节日，公司统一发放礼品。\n \n公司简介：\n杭州通恒条码有限公司成立于2004年，现位于杭州市西湖区教工路上的百脑汇科技大厦,是浙江省商业POS系统、收款机、条码设备、一卡通等软硬件设备主要供应商之一，同时，杭州通恒也是梅特勒-托利多浙江地区总代理；广州中崎浙江地区总代理。\n主营业务：\n梅特勒·托利多电子秤、收银秤、一体秤，广州中崎商超收银设备及相关产品。",
-      "encryptAddressId": "07b5df7e131fbe2e1w~~",
-      "address": null,
-      "longitude": 0.0,
-      "latitude": 0.0,
-      "staticMapUrl": "",
-      "pcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施",
-        "项目管理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "葛女士",
-      "title": "内勤",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "通恒条码",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7ec67723d1e2a89e1n1539S0Ew~~",
-      "brandName": "通恒条码",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "杭州通恒条码有限公司成立于2004年，现位于杭州市西湖区教工路上的百脑汇科技大厦,是浙江省商业POS系统、收款机、条码设备、一卡通等软硬件设备主要供应商之一，同时，杭州通恒也是梅特勒-托利多浙江地区总代理；广州中崎浙江地区总代理。",
-      "labels": [],
-      "activeTime": 1725472565961,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "通恒条码",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "通恒条码",
+        "certificated": true,
+        "large": null,
+        "name": "葛女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "内勤"
+    },
+    "brandComInfo": {
+        "activeTime": 1725472565961,
+        "brandName": "通恒条码",
+        "customerBrandName": "通恒条码",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "7ec67723d1e2a89e1n1539S0Ew~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "杭州通恒条码有限公司成立于2004年，现位于杭州市西湖区教工路上的百脑汇科技大厦,是浙江省商业POS系统、收款机、条码设备、一卡通等软硬件设备主要供应商之一，同时，杭州通恒也是梅特勒-托利多浙江地区总代理；广州中崎浙江地区总代理。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": null,
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "07b5df7e131fbe2e1w~~",
+        "encryptId": "9127f77f4ef0579b1XV83N65GFA~",
+        "encryptUserId": "1b3433db7968cae61Hxy09-_EFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 0.0,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 0.0,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1.负责产品的安装调试，维修维护。负责完成公司各项设备安装、调试和维护任务；\n2. 负责电子秤产品售后安装、维修工作；\n \n任职要求：\n1.了解各种计算机软硬件，可独立进行安装、调试及故障排除\n2.动手能力较好，能吃苦耐劳、有强烈的企图心（目标需要靠自己的付出去实现）\n3.有相关经验优先;\n4.有意向长期在这个行业发展；\n5.有良好的服务意识、综合素质（有营销行业经验者更加适合）\n \n福利待遇：\n1、薪资面议，提供五险及公司其他福利（旅游、聚会等等）。\n2.公事外出交通补贴。\n3.做五休二，享受国家法定节假日及带薪休假。\n4.完善的员工培训（内训及外训）和广阔的晋升空间。\n5.妇女节，及其他大小节日，公司统一发放礼品。\n \n公司简介：\n杭州通恒条码有限公司成立于2004年，现位于杭州市西湖区教工路上的百脑汇科技大厦,是浙江省商业POS系统、收款机、条码设备、一卡通等软硬件设备主要供应商之一，同时，杭州通恒也是梅特勒-托利多浙江地区总代理；广州中崎浙江地区总代理。\n主营业务：\n梅特勒·托利多电子秤、收银秤、一体秤，广州中崎商超收银设备及相关产品。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施",
+            "项目管理"
+        ],
+        "staticMapUrl": ""
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "l5tmamxo9pnfo-y1RWJ0E9nkD4HoM3xRNUgwFPAe9xE5ssxZmM0MdCL2-oHu2aIlkFs6SktLRP09jdA7aVBHWO3CDY4mz68xY_hFYKdHdlw6scevjeQ9YdbAUkUJNxF_BRl0W3oCZus~",
+    "selfAccess": false,
+    "sessionId": null
 }

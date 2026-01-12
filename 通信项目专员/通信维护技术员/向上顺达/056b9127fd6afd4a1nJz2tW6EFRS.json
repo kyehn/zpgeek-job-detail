@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3NlG-G8vPT91e-w1gDY9VjK9Gwh_skdP-y5aCoWALEZHFYaQufCnStx48q9TWyp3Er8tr0hjlOyQ1T49pBj82THL6YCrP1touYcRNuxpflx2Mix8D8zLfydFP6E1Ogmc6gWDTjY-Kj9gIjc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "056b9127fd6afd4a1nJz2tW6EFRS",
-      "encryptUserId": "81c8805963c7dce00nZ93dW7FlBQ",
-      "invalidStatus": false,
-      "jobName": "通信维护技术员",
-      "position": 101011,
-      "positionName": "通信项目专员",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责怀柔区有线电视、网络室内、室外维修维护工作\n2、有线电视工程设计、竣工（相关计算机、机电专业），简单的CAD制图",
-      "encryptAddressId": "559c40a9e1dcac400XF90t-4Ew~~",
-      "address": "北京怀柔区广联盛农林技术开发有限公司苗木代育基地1",
-      "longitude": 116.659065,
-      "latitude": 40.335383,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83413d476ea9b971c8a4c3bf8b7aa999",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3fcaec42af85c522eb022227f3ffedd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据通信",
-        "数字信号处理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "向上顺达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0de29fbe60b4cd661nF80tu9FlU~",
-      "brandName": "向上顺达",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "主要从事歌华有线电视维修维护，安装，网络调试",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1725605219677,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "向上顺达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "向上顺达",
+        "certificated": true,
+        "large": null,
+        "name": "郭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725605219677,
+        "brandName": "向上顺达",
+        "customerBrandName": "向上顺达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0de29fbe60b4cd661nF80tu9FlU~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "主要从事歌华有线电视维修维护，安装，网络调试",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京怀柔区广联盛农林技术开发有限公司苗木代育基地1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "559c40a9e1dcac400XF90t-4Ew~~",
+        "encryptId": "056b9127fd6afd4a1nJz2tW6EFRS",
+        "encryptUserId": "81c8805963c7dce00nZ93dW7FlBQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "通信维护技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.335383,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.659065,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3fcaec42af85c522eb022227f3ffedd",
+        "position": 101011,
+        "positionName": "通信项目专员",
+        "postDescription": "1、负责怀柔区有线电视、网络室内、室外维修维护工作\n2、有线电视工程设计、竣工（相关计算机、机电专业），简单的CAD制图",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "数据通信",
+            "数字信号处理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83413d476ea9b971c8a4c3bf8b7aa999"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3NlG-G8vPT91e-w1gDY9VjK9Gwh_skdP-y5aCoWALEZHFYaQufCnStx48q9TWyp3Er8tr0hjlOyQ1T49pBj82THL6YCrP1touYcRNuxpflx2Mix8D8zLfydFP6E1Ogmc6gWDTjY-Kj9gIjc~",
+    "selfAccess": false,
+    "sessionId": null
 }

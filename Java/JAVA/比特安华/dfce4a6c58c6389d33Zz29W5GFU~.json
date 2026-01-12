@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yUcBx6RabJmgJ-G18uWKh7XXz202vXtLXicuhU9PwF2znc2nbLpXKKBHcLSCraq1uIu2kjB9P88UpM6DMlgSsDTrP-gmM-G9tE50zt4udmjZ6RWqw1Dwc69UFFlOImehxGPCSelvFW_x",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dfce4a6c58c6389d33Zz29W5GFU~",
-      "encryptUserId": "9cfb5b1d66046b441nV539-8FFRU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1. java程序开发维护\n2. 售后维护\n3. 需要出差\n4. 熟悉网络协议解析的优先",
-      "encryptAddressId": "bc75fcc6a054ff841HV52dS_FVI~",
-      "address": "北京海淀区东升大厦",
-      "longitude": 116.333633,
-      "latitude": 39.994194,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bda96dc091db3a1e7fa1bf7f8d61fd10",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0967027901c864935369fedc53520720",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "网络协议"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "比特安华",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3a4643eee6a5b2eb33x83d-0FA~~",
-      "brandName": "比特安华",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725600808159,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "比特安华",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "比特安华",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725600808159,
+        "brandName": "比特安华",
+        "customerBrandName": "比特安华",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3a4643eee6a5b2eb33x83d-0FA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区东升大厦",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "bc75fcc6a054ff841HV52dS_FVI~",
+        "encryptId": "dfce4a6c58c6389d33Zz29W5GFU~",
+        "encryptUserId": "9cfb5b1d66046b441nV539-8FFRU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.994194,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.333633,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0967027901c864935369fedc53520720",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1. java程序开发维护\n2. 售后维护\n3. 需要出差\n4. 熟悉网络协议解析的优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "Java",
+            "网络协议"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bda96dc091db3a1e7fa1bf7f8d61fd10"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yUcBx6RabJmgJ-G18uWKh7XXz202vXtLXicuhU9PwF2znc2nbLpXKKBHcLSCraq1uIu2kjB9P88UpM6DMlgSsDTrP-gmM-G9tE50zt4udmjZ6RWqw1Dwc69UFFlOImehxGPCSelvFW_x",
+    "selfAccess": false,
+    "sessionId": null
 }

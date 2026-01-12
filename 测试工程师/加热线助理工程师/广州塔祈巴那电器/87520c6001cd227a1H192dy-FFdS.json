@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "N07uM6MEYxlyI-a1Gc7_X3AXQH7hcBB6_MNd5ePRVcjfIFf0-YlJ3IQI44r7oMY4JtqayIf8Bs5lOM8v36hdPpKMvBfMhfnAglJLwR90U-mRgvgEjLDmzKOmlpVUo860JBuKX6VkMmuox5E~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "87520c6001cd227a1H192dy-FFdS",
-      "encryptUserId": "25eb129bd40115410nBy2968FFFR",
-      "invalidStatus": false,
-      "jobName": "加热线助理工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "【工作内容】\n- 新材料开发评价。\n- 新产品设计开发。\n- 技术资料的作成与维护\n【任职要求】\n- 本科以上学历，机电相关专业，优秀应届毕业生亦可考虑。\n- 熟悉掌握CAD绘图软件。\n- 良好的沟通协调能力，团队合作意识强。\n- 工作认真负责，具备较强的学习能力和解决问题的能力。",
-      "encryptAddressId": "88245b134b7c38f20XBy3N-_ElM~",
-      "address": "广州番禺区塔祈巴那塔祈巴那公司",
-      "longitude": 113.465881,
-      "latitude": 22.986321,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c31ab3c6ecc833ada5e35a45fc12d9f3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0170c4716ac5e6c5f642c8e5ae94c701",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "叶女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221026/607f1f3d68754fd08eae3dbab03704cd2631a0c784e78ebb6a692f61cd37e14f5f7a67752ed_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "广州塔祈巴那电器",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf8c1424980fb4051nN52tm-E1c~",
-      "brandName": "广州塔祈巴那电器",
-      "logo": "https://c-res.zhipin.com/jrs/5e3b9346fe1412b425fc5d1cc5076623.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "广州塔祈巴那电器有限公司成立于2002年，是一家由日本出资设立集设计、生产、销售一体的电器公司，主要生产汽车座垫加热器和家用电加热器等产品；是日本丰田、本田、松下和德国大众等著名企业的部件供应商，公司已获ISO9000、ISO14001、IATF16949以及ISO45001管理体系认证。于2020年取得CNAS认证。",
-      "labels": [
-        "带薪年假",
-        "员工旅游",
-        "免费班车",
-        "交通补助",
-        "包吃",
-        "住房补贴",
-        "生日福利",
-        "餐补",
-        "五险一金"
-      ],
-      "activeTime": 1730883720897,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州塔祈巴那电器",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州塔祈巴那电器",
+        "certificated": true,
+        "large": null,
+        "name": "叶女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221026/607f1f3d68754fd08eae3dbab03704cd2631a0c784e78ebb6a692f61cd37e14f5f7a67752ed_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730883720897,
+        "brandName": "广州塔祈巴那电器",
+        "customerBrandName": "广州塔祈巴那电器",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "cf8c1424980fb4051nN52tm-E1c~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "广州塔祈巴那电器有限公司成立于2002年，是一家由日本出资设立集设计、生产、销售一体的电器公司，主要生产汽车座垫加热器和家用电加热器等产品；是日本丰田、本田、松下和德国大众等著名企业的部件供应商，公司已获ISO9000、ISO14001、IATF16949以及ISO45001管理体系认证。于2020年取得CNAS认证。",
+        "labels": [
+            "带薪年假",
+            "员工旅游",
+            "免费班车",
+            "交通补助",
+            "包吃",
+            "住房补贴",
+            "生日福利",
+            "餐补",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/5e3b9346fe1412b425fc5d1cc5076623.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区塔祈巴那塔祈巴那公司",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "88245b134b7c38f20XBy3N-_ElM~",
+        "encryptId": "87520c6001cd227a1H192dy-FFdS",
+        "encryptUserId": "25eb129bd40115410nBy2968FFFR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "加热线助理工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.986321,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.465881,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0170c4716ac5e6c5f642c8e5ae94c701",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "【工作内容】\n- 新材料开发评价。\n- 新产品设计开发。\n- 技术资料的作成与维护\n【任职要求】\n- 本科以上学历，机电相关专业，优秀应届毕业生亦可考虑。\n- 熟悉掌握CAD绘图软件。\n- 良好的沟通协调能力，团队合作意识强。\n- 工作认真负责，具备较强的学习能力和解决问题的能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c31ab3c6ecc833ada5e35a45fc12d9f3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "N07uM6MEYxlyI-a1Gc7_X3AXQH7hcBB6_MNd5ePRVcjfIFf0-YlJ3IQI44r7oMY4JtqayIf8Bs5lOM8v36hdPpKMvBfMhfnAglJLwR90U-mRgvgEjLDmzKOmlpVUo860JBuKX6VkMmuox5E~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DtVE_uw45lFBf-e1c4gN9h4jgmoMuZNMlIEAGMNBQg9jJw8Ux5_tCICvGRRNjNTiZqA-pSKKufY52L-FGzCJqNcjtFAO7PBuNiiweDxMgE3AcdtKgWV7BbO8iqnUZVkBNm5KjnIxjc0qt_4HZ7GHCFLFeaGdmHmNJF160iXNjgQUorrM0r2PK9D8cKjmOg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2477e7391014f3cc1Hx63N-0E1BZ",
-      "encryptUserId": "2f763910f7cc4eca1HVy29q9EVs~",
-      "invalidStatus": false,
-      "jobName": "【西安】测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、技术人员职位，在上级的领导和监督下定期完成量化的工作要求；\n2、能独立处理和解决所负责的任务；\n3、根据开发进度和任务分配，完成相应模块软件的测试任务；\n4、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n5、进行编制项目文档和质量记录的工作；\n\n任职资格\n1、本科以上学历，2年以上测试经验，软件工程、计算机或相关理工科专业；\n2、熟悉测试流程和规范，掌握软件测试方法及常用工具；\n3、精通白盒测试，黑盒测试，灰盒测试、数据库、Linux命令；\n4、能够独立承担测试策略设计、用例执行等工作；\n5、良好的表达能力，钻研精神，注重团队协作，主动担责。",
-      "encryptAddressId": "51edd6ab89826a2c1nB82Ny8FVpWyoS5Vfqa",
-      "address": "西安雁塔区美百年科技中心903",
-      "longitude": 108.832388,
-      "latitude": 34.221104,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241025/48ba41acc9cef1bf1eec4d7659e4313885ff6f6c2074334e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241025/48ba41acc9cef1bf2f3a50dd85473b020581a8a91426e3476bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190424/fc9c9d73da1bd54e2e1c2c55a437866840eeaf550b11f1fc263f8140aec_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "陕西云鸟信息技术服务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0a7727cb4dfd4c241X180tS6E1o~",
-      "brandName": "陕西云鸟信息技术服务",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734422151627,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "陕西云鸟信息技术服务",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "陕西云鸟信息技术服务",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190424/fc9c9d73da1bd54e2e1c2c55a437866840eeaf550b11f1fc263f8140aec_b.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1734422151627,
+        "brandName": "陕西云鸟信息技术服务",
+        "customerBrandName": "陕西云鸟信息技术服务",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0a7727cb4dfd4c241X180tS6E1o~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区美百年科技中心903",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "51edd6ab89826a2c1nB82Ny8FVpWyoS5Vfqa",
+        "encryptId": "2477e7391014f3cc1Hx63N-0E1BZ",
+        "encryptUserId": "2f763910f7cc4eca1HVy29q9EVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "【西安】测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 34.221104,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.832388,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241025/48ba41acc9cef1bf2f3a50dd85473b020581a8a91426e3476bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责\n1、技术人员职位，在上级的领导和监督下定期完成量化的工作要求；\n2、能独立处理和解决所负责的任务；\n3、根据开发进度和任务分配，完成相应模块软件的测试任务；\n4、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n5、进行编制项目文档和质量记录的工作；\n\n任职资格\n1、本科以上学历，2年以上测试经验，软件工程、计算机或相关理工科专业；\n2、熟悉测试流程和规范，掌握软件测试方法及常用工具；\n3、精通白盒测试，黑盒测试，灰盒测试、数据库、Linux命令；\n4、能够独立承担测试策略设计、用例执行等工作；\n5、良好的表达能力，钻研精神，注重团队协作，主动担责。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Java",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241025/48ba41acc9cef1bf1eec4d7659e4313885ff6f6c2074334e6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DtVE_uw45lFBf-e1c4gN9h4jgmoMuZNMlIEAGMNBQg9jJw8Ux5_tCICvGRRNjNTiZqA-pSKKufY52L-FGzCJqNcjtFAO7PBuNiiweDxMgE3AcdtKgWV7BbO8iqnUZVkBNm5KjnIxjc0qt_4HZ7GHCFLFeaGdmHmNJF160iXNjgQUorrM0r2PK9D8cKjmOg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

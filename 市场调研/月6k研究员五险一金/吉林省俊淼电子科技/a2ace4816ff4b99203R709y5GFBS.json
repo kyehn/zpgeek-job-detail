@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WGRy0ElwGhMRZ-x1S7z941Bc52bAF6-IeA9Itc3SVtN1_Ds2iCty1eTXcqTFboFIF70a3epzEmOa6iVgVidtSrPCox3vNL93kqRjnH8XeCX1SdS3HZNQ9SJ_USk_3X9Nv7ahqNvoQJ8oBWY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a2ace4816ff4b99203R709y5GFBS",
-      "encryptUserId": "c3c32c2326ca9f270nZ-29-5E1dV",
-      "invalidStatus": false,
-      "jobName": "月6k研究员五险一金",
-      "position": 260109,
-      "positionName": "市场调研",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：1、通过公司的电话调查的方式研究客户的各种问题（无销售性质）；\r\n任职要求：1·学信网可查大专及以上学历；硬性；必须要有大专毕业证，学信网可查，不接受实习生\r\n2·年龄要求：20-35岁 性别不限\r\n薪资构成： 1、试用期2个月: 2540无责薪资+1500绩效保护=4040+补贴\r\n2、加班津贴：按照国家标准执行2-3倍加班工资，周末两倍，法定节假日3倍\r\n3、转正之后薪资基本薪资在4.5k-6.5k\r\n2520无责薪资+1500绩效保护=4020+补贴",
-      "encryptAddressId": "0b0332e48f4c9d0e1nF529q8F1VUxYi6Uv6X",
-      "address": "成都成华区国机西南大厦1",
-      "longitude": 104.17504,
-      "latitude": 30.687493,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40eb62504a7bafae574d6b8644b2d52e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e4b95db987c2e3c47eab463a22b925c6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全职"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "张经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240703/607f1f3d68754fd049f79cbf0490f434f5111c5f7037fbfbfb3b6842c7456c6ce4edc78054adeb4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "吉林省俊淼电子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "949147385fce20801Hx709q6FFU~",
-      "brandName": "吉林省俊淼电子科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100601,
-      "industryName": "咨询",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732540324312,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "吉林省俊淼电子科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "吉林省俊淼电子科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240703/607f1f3d68754fd049f79cbf0490f434f5111c5f7037fbfbfb3b6842c7456c6ce4edc78054adeb4_b.jpg",
+        "title": "张经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732540324312,
+        "brandName": "吉林省俊淼电子科技",
+        "customerBrandName": "吉林省俊淼电子科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "949147385fce20801Hx709q6FFU~",
+        "focusBrand": false,
+        "industry": 100601,
+        "industryName": "咨询",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都成华区国机西南大厦1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0b0332e48f4c9d0e1nF529q8F1VUxYi6Uv6X",
+        "encryptId": "a2ace4816ff4b99203R709y5GFBS",
+        "encryptUserId": "c3c32c2326ca9f270nZ-29-5E1dV",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "月6k研究员五险一金",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.687493,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.17504,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e4b95db987c2e3c47eab463a22b925c6",
+        "position": 260109,
+        "positionName": "市场调研",
+        "postDescription": "岗位职责：1、通过公司的电话调查的方式研究客户的各种问题（无销售性质）；\r\n任职要求：1·学信网可查大专及以上学历；硬性；必须要有大专毕业证，学信网可查，不接受实习生\r\n2·年龄要求：20-35岁 性别不限\r\n薪资构成： 1、试用期2个月: 2540无责薪资+1500绩效保护=4040+补贴\r\n2、加班津贴：按照国家标准执行2-3倍加班工资，周末两倍，法定节假日3倍\r\n3、转正之后薪资基本薪资在4.5k-6.5k\r\n2520无责薪资+1500绩效保护=4020+补贴",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-6K",
+        "showSkills": [
+            "全职"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40eb62504a7bafae574d6b8644b2d52e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WGRy0ElwGhMRZ-x1S7z941Bc52bAF6-IeA9Itc3SVtN1_Ds2iCty1eTXcqTFboFIF70a3epzEmOa6iVgVidtSrPCox3vNL93kqRjnH8XeCX1SdS3HZNQ9SJ_USk_3X9Nv7ahqNvoQJ8oBWY~",
+    "selfAccess": false,
+    "sessionId": null
 }

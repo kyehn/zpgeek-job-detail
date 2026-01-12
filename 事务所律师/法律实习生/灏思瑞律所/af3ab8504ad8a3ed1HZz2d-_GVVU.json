@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1YlUSG5Cm3p0N-R1Cyl7BO1Ss0k_gac0PmUneWr44GODgW6bN8t9FmQfL7IN0Ni52iVBW_HywjfROhQy5hCmD89SIkmZClHLfJVM8f9mnW0gOZ4xDmQb",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "af3ab8504ad8a3ed1HZz2d-_GVVU",
-      "encryptUserId": "c25246612a9473000Xd63tu7EVRQ",
-      "invalidStatus": false,
-      "jobName": "法律实习生",
-      "position": 260201,
-      "positionName": "事务所律师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "1、法律类专业本科以上学历，通过国家统一法律职业资格考试； \n2、熟练掌握常用办公软件； \n3、有较强的法律专业知识、文字书写和语言表达能力； \n4、有志于在律师行业长期发展，仅为获取实习鉴定表者勿扰。",
-      "encryptAddressId": "dce735a3dffbb1491HBy3t-0FldVwo-9Uvg~",
-      "address": "苏州姑苏区万达广场写字楼C座0",
-      "longitude": 120.613873,
-      "latitude": 31.343853,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fdaa4e587e15b34480e6e13392e6b4b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e12e7d5aa76f3ebddad919718b5d6acc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "专职律师",
-        "诉讼/非诉讼",
-        "A证"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "祝先生",
-      "title": "助理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "灏思瑞律所",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7173b3d6026735b11HZ709W-EFE~",
-      "brandName": "灏思瑞律所",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100602,
-      "industryName": "法律",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721529801342,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "灏思瑞律所",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "灏思瑞律所",
+        "certificated": true,
+        "large": null,
+        "name": "祝先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721529801342,
+        "brandName": "灏思瑞律所",
+        "customerBrandName": "灏思瑞律所",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7173b3d6026735b11HZ709W-EFE~",
+        "focusBrand": false,
+        "industry": 100602,
+        "industryName": "法律",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州姑苏区万达广场写字楼C座0",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "dce735a3dffbb1491HBy3t-0FldVwo-9Uvg~",
+        "encryptId": "af3ab8504ad8a3ed1HZz2d-_GVVU",
+        "encryptUserId": "c25246612a9473000Xd63tu7EVRQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "法律实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.343853,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.613873,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e12e7d5aa76f3ebddad919718b5d6acc",
+        "position": 260201,
+        "positionName": "事务所律师",
+        "postDescription": "1、法律类专业本科以上学历，通过国家统一法律职业资格考试； \n2、熟练掌握常用办公软件； \n3、有较强的法律专业知识、文字书写和语言表达能力； \n4、有志于在律师行业长期发展，仅为获取实习鉴定表者勿扰。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "专职律师",
+            "诉讼/非诉讼",
+            "A证"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fdaa4e587e15b34480e6e13392e6b4b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1YlUSG5Cm3p0N-R1Cyl7BO1Ss0k_gac0PmUneWr44GODgW6bN8t9FmQfL7IN0Ni52iVBW_HywjfROhQy5hCmD89SIkmZClHLfJVM8f9mnW0gOZ4xDmQb",
+    "selfAccess": false,
+    "sessionId": null
 }

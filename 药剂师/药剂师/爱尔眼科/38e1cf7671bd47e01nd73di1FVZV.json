@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4yWm0vEjZWkaf-V1Ue0tGbDBums1OtfGd_kpl2wAnb-6J6P3UQJGRt8iIdD9As6RJLOrVSjYMLCxaSYmWil8NzF2rYEfXI3DD-ieCS2yuCGsHo2g8HWZ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "38e1cf7671bd47e01nd73di1FVZV",
-      "encryptUserId": "602d4a25bf7a9b5e0nRy3Nq5E1ZY",
-      "invalidStatus": false,
-      "jobName": "药剂师",
-      "position": 210104,
-      "positionName": "药剂师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-7K",
-      "payTypeDesc": null,
-      "postDescription": "药剂师（黄陂）\n1，大专及以上学历，具有药士资格证书，职称不限；\n2，负责药品进出计划及管理；\n3，会使用计算机软件操作；\n4，认真负责有良好的团队精神。",
-      "encryptAddressId": "fef527eeba9e05f31X183921Fw~~",
-      "address": "武汉黄陂区武汉爱尔眼科黄陂医院11",
-      "longitude": 114.368857,
-      "latitude": 30.885324,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d579ab6ed928be4bf08a1dbb2d7b68e3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ccfbd959a327ca6e9cd51f7be7e785d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "执业药师",
-        "初级药师",
-        "药品管理",
-        "发药"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "严女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201127/69a1d67f8c89fcb8b1626b30f07e5d2a5f50c0250f2228eb02dfb8bc21c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "爱尔眼科",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "25e3b9f37cdb65261nBy39u6FVA~",
-      "brandName": "爱尔眼科",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100402,
-      "industryName": "医疗服务",
-      "introduce": "眼科专科共享医院",
-      "labels": [],
-      "activeTime": 1726315939837,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "爱尔眼科",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "爱尔眼科",
+        "certificated": true,
+        "large": null,
+        "name": "严女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201127/69a1d67f8c89fcb8b1626b30f07e5d2a5f50c0250f2228eb02dfb8bc21c_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1726315939837,
+        "brandName": "爱尔眼科",
+        "customerBrandName": "爱尔眼科",
+        "customerBrandStageName": "",
+        "encryptBrandId": "25e3b9f37cdb65261nBy39u6FVA~",
+        "focusBrand": false,
+        "industry": 100402,
+        "industryName": "医疗服务",
+        "introduce": "眼科专科共享医院",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉黄陂区武汉爱尔眼科黄陂医院11",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fef527eeba9e05f31X183921Fw~~",
+        "encryptId": "38e1cf7671bd47e01nd73di1FVZV",
+        "encryptUserId": "602d4a25bf7a9b5e0nRy3Nq5E1ZY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "药剂师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.885324,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.368857,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ccfbd959a327ca6e9cd51f7be7e785d",
+        "position": 210104,
+        "positionName": "药剂师",
+        "postDescription": "药剂师（黄陂）\n1，大专及以上学历，具有药士资格证书，职称不限；\n2，负责药品进出计划及管理；\n3，会使用计算机软件操作；\n4，认真负责有良好的团队精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-7K",
+        "showSkills": [
+            "执业药师",
+            "初级药师",
+            "药品管理",
+            "发药"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d579ab6ed928be4bf08a1dbb2d7b68e3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4yWm0vEjZWkaf-V1Ue0tGbDBums1OtfGd_kpl2wAnb-6J6P3UQJGRt8iIdD9As6RJLOrVSjYMLCxaSYmWil8NzF2rYEfXI3DD-ieCS2yuCGsHo2g8HWZ",
+    "selfAccess": false,
+    "sessionId": null
 }

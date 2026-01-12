@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-2kdw5Iy-CiE2-R142ug77N826_QbhVGN-k559eNFwqS0I-1Y7shu5iLinkvFR_eNMgZrtUS-DVI2L64d5qQ-IqhxjZqhAsZG20P40pTdYvEQKTO0ZUQ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "77df5111db27520b1HJ60t-0EVNX",
-      "encryptUserId": "8f8c2768f88787800XF539m_EVVS",
-      "invalidStatus": false,
-      "jobName": "软件设计",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101240100,
-      "locationName": "南昌",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "负责印刷机图像处理软件设计\n涉及TIF 的RAW等位图格式转换，分割\nPDF文件解析，转图",
-      "encryptAddressId": "18454e0e02cfe3c833F60967EVJVwIq7Wfg~",
-      "address": "南昌青山湖区南昌市印刷二厂1楼",
-      "longitude": 115.962353,
-      "latitude": 28.621996,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231224/48ba41acc9cef1bfdbc5e2fe2003ca2f088d2b6d7da2494d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231224/48ba41acc9cef1bf300a7d33cfa33ed8a8fb1b8afffb21766bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "C++",
-        "C#开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "冯先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240729/607f1f3d68754fd07a0b337e5f99b0e8a9371fa7bf7a90302fc4cf0ca3dbfcf827bcf7d6f07fd26_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "江西弘大数码",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b98a599d196dba6b1HBz2tS-F1Q~",
-      "brandName": "江西弘大数码",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100917,
-      "industryName": "其他制造业",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731047762563,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江西弘大数码",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江西弘大数码",
+        "certificated": true,
+        "large": null,
+        "name": "冯先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240729/607f1f3d68754fd07a0b337e5f99b0e8a9371fa7bf7a90302fc4cf0ca3dbfcf827bcf7d6f07fd26_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731047762563,
+        "brandName": "江西弘大数码",
+        "customerBrandName": "江西弘大数码",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b98a599d196dba6b1HBz2tS-F1Q~",
+        "focusBrand": false,
+        "industry": 100917,
+        "industryName": "其他制造业",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南昌青山湖区南昌市印刷二厂1楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "18454e0e02cfe3c833F60967EVJVwIq7Wfg~",
+        "encryptId": "77df5111db27520b1HJ60t-0EVNX",
+        "encryptUserId": "8f8c2768f88787800XF539m_EVVS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件设计",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.621996,
+        "location": 101240100,
+        "locationName": "南昌",
+        "longitude": 115.962353,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231224/48ba41acc9cef1bf300a7d33cfa33ed8a8fb1b8afffb21766bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "负责印刷机图像处理软件设计\n涉及TIF 的RAW等位图格式转换，分割\nPDF文件解析，转图",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "C#",
+            "C++",
+            "C#开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231224/48ba41acc9cef1bfdbc5e2fe2003ca2f088d2b6d7da2494d6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-2kdw5Iy-CiE2-R142ug77N826_QbhVGN-k559eNFwqS0I-1Y7shu5iLinkvFR_eNMgZrtUS-DVI2L64d5qQ-IqhxjZqhAsZG20P40pTdYvEQKTO0ZUQ",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0WuUXQ-G7m3iK-V1I196BovDgND9aJZXJdhM1jA6pYJr6og_w6l-WDR7CZPA58_qTuxFQa6zfzI_hoWG--TvaPbqWPvUCGli0GOuocms0EbcI1ZUeIj-",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f511eb750d21fa121nR62tq8GFBQ",
-      "encryptUserId": "1cb23c5c9ee18ae20nR73tS1EFpT",
-      "invalidStatus": false,
-      "jobName": "桥梁工程师",
-      "position": 220204,
-      "positionName": "土木/土建/结构工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "桥梁结构分析，静力计算\n力学基础扎实\n熟悉桥梁有限元分析软件",
-      "encryptAddressId": "ea7e3130d0c6080a1nZz2928EFtZxIu3VfKa",
-      "address": "成都金牛区西南交通大学九里校区土木楼",
-      "longitude": 104.053035,
-      "latitude": 30.698718,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230518/48ba41acc9cef1bff62cb67be9f39c2ff5aa35405590de636bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf3307853f4f4fa5b03c09d9b05bbd9f0c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "路桥工程师",
-        "CAD",
-        "Midas",
-        "Ansys",
-        "Abaqus"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "技术部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210402/15328f52e6efa6acdbcd2d67b88664fe9e48e49375c6c199ac9b1775c50_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "云会",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "569997701c321eab1nVy0ty_EVo~",
-      "brandName": "云会",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100703,
-      "industryName": "建筑设计",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727683903000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云会",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云会",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210402/15328f52e6efa6acdbcd2d67b88664fe9e48e49375c6c199ac9b1775c50_b.jpg",
+        "title": "技术部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727683903000,
+        "brandName": "云会",
+        "customerBrandName": "云会",
+        "customerBrandStageName": "",
+        "encryptBrandId": "569997701c321eab1nVy0ty_EVo~",
+        "focusBrand": false,
+        "industry": 100703,
+        "industryName": "建筑设计",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都金牛区西南交通大学九里校区土木楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ea7e3130d0c6080a1nZz2928EFtZxIu3VfKa",
+        "encryptId": "f511eb750d21fa121nR62tq8GFBQ",
+        "encryptUserId": "1cb23c5c9ee18ae20nR73tS1EFpT",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "桥梁工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 30.698718,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.053035,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf3307853f4f4fa5b03c09d9b05bbd9f0c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 220204,
+        "positionName": "土木/土建/结构工程师",
+        "postDescription": "桥梁结构分析，静力计算\n力学基础扎实\n熟悉桥梁有限元分析软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "路桥工程师",
+            "CAD",
+            "Midas",
+            "Ansys",
+            "Abaqus"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230518/48ba41acc9cef1bff62cb67be9f39c2ff5aa35405590de636bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0WuUXQ-G7m3iK-V1I196BovDgND9aJZXJdhM1jA6pYJr6og_w6l-WDR7CZPA58_qTuxFQa6zfzI_hoWG--TvaPbqWPvUCGli0GOuocms0EbcI1ZUeIj-",
+    "selfAccess": false,
+    "sessionId": null
 }

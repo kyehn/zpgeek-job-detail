@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0ErmWMn7p11gG-n1739mAZXWPPSqGiLnlUxDYIgI_2eFiCEzEQgEtd7ylrYZs8iBfzu5U-Xq9Od1mQMXWo6lWvtLJCvjcdj0WOeGzNlz0H69-MMezJGq",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2f59666d0fca16281XJ62Ny1GVNW",
-      "encryptUserId": "78ee76d051b0ca1e0nN42ty1ElNQ",
-      "invalidStatus": false,
-      "jobName": "实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.提供软件的后期实施及技术服务支持\n2.参与产品立项、业务需求分析、调研及交付工作。\n3.与相关人员沟通，配合项目经理进行项目的推进。\n4.撰写项目相关文档。",
-      "encryptAddressId": "8c17b736e91abb390HN72Nm7F1E~",
-      "address": "成都成华区东城国际商务广场1420",
-      "longitude": 104.110738,
-      "latitude": 30.671263,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb2f4866456fd49c493997c9acba2ccc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e81a0c394311c6e73f2878c692e61112",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "ERP",
-        "熟练掌握SQL语句",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "肖女士",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "互筑聚方",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "baa73253e7ebb9761XB52di7FlU~",
-      "brandName": "互筑聚方",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725305414035,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "互筑聚方",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "互筑聚方",
+        "certificated": true,
+        "large": null,
+        "name": "肖女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725305414035,
+        "brandName": "互筑聚方",
+        "customerBrandName": "互筑聚方",
+        "customerBrandStageName": "",
+        "encryptBrandId": "baa73253e7ebb9761XB52di7FlU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都成华区东城国际商务广场1420",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8c17b736e91abb390HN72Nm7F1E~",
+        "encryptId": "2f59666d0fca16281XJ62Ny1GVNW",
+        "encryptUserId": "78ee76d051b0ca1e0nN42ty1ElNQ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.671263,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.110738,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e81a0c394311c6e73f2878c692e61112",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "1.提供软件的后期实施及技术服务支持\n2.参与产品立项、业务需求分析、调研及交付工作。\n3.与相关人员沟通，配合项目经理进行项目的推进。\n4.撰写项目相关文档。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "软件实施经验",
+            "ERP",
+            "熟练掌握SQL语句",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb2f4866456fd49c493997c9acba2ccc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0ErmWMn7p11gG-n1739mAZXWPPSqGiLnlUxDYIgI_2eFiCEzEQgEtd7ylrYZs8iBfzu5U-Xq9Od1mQMXWo6lWvtLJCvjcdj0WOeGzNlz0H69-MMezJGq",
+    "selfAccess": false,
+    "sessionId": null
 }

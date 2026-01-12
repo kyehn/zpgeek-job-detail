@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FDpCmAKfirnKE-R1ABZse0iCvI1YucqcftLjWAyUNnFgstO0EXRJlZGqw3krqalCWpxBZKBiTBaVeG-kwsUDZztoBWzCU4JpT8r9xBJ41GrwxS9OvTKn-kTK42Fb6bwAJdDut5Va6goyAg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d1fb25340dfe5cb61Hxy09W_EFNY",
-      "encryptUserId": "77b14de846f88cd41XN_3NS-E1U~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟悉产品功能和测试方法。\n2.根据甲方测试验证需要做测试计划。\n3.对自动驾驶乘用车进行充分测试，发现潜在异常并记录。\n4.收集异常数据，使用甲方平台上报符合质量要求的bug，对bug进行预分析定位其所属模块，并每天跟踪bug的流转。\n5.根据甲方需要，每日主动汇报测试数据，如：测试时间、里程、路段、问题数等。\n6.其他协助性工作或外埠工作，服从甲方安排。\n\n【技能要求】\n1.熟练应用linux基本操作命令（此为必要技能）。\n2.善于发现问题提出好的意见。\n3.熟练使用至少一种项目管理软件，如：禅道、jira等。\n4.文字描述能力强，缺陷描述准确、报告行文标准。\n5.熟练使用word、excel等文档工具。\n6.了解集成测试流程。\n\n\n【其他】\n1.积极接受新技能和产品。\n2.对自动驾驶、机器人和汽车行业感兴趣的适宜。",
-      "encryptAddressId": "f3c77fff6425d65a1nd42tq_F1JUy4y3Ufmd",
-      "address": "南京江宁区江南环保大厦1",
-      "longitude": 118.810436,
-      "latitude": 31.907035,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/601d2416f6f5f555855866133147b982",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92ac9f639607f5ca0a31503b6373ea85",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "机器人测试",
-        "功能测试",
-        "自动驾驶行业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "芦女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190806/2e5275717f09214a254e6ecf52326d9d1304a796d1a83139648e3fa4e06_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "中环储越",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e9ee4e57cb07ef221HB73t--EFs~",
-      "brandName": "中环储越",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732619867588,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中环储越",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中环储越",
+        "certificated": true,
+        "large": null,
+        "name": "芦女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190806/2e5275717f09214a254e6ecf52326d9d1304a796d1a83139648e3fa4e06_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732619867588,
+        "brandName": "中环储越",
+        "customerBrandName": "中环储越",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e9ee4e57cb07ef221HB73t--EFs~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区江南环保大厦1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f3c77fff6425d65a1nd42tq_F1JUy4y3Ufmd",
+        "encryptId": "d1fb25340dfe5cb61Hxy09W_EFNY",
+        "encryptUserId": "77b14de846f88cd41XN_3NS-E1U~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.907035,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.810436,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92ac9f639607f5ca0a31503b6373ea85",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.熟悉产品功能和测试方法。\n2.根据甲方测试验证需要做测试计划。\n3.对自动驾驶乘用车进行充分测试，发现潜在异常并记录。\n4.收集异常数据，使用甲方平台上报符合质量要求的bug，对bug进行预分析定位其所属模块，并每天跟踪bug的流转。\n5.根据甲方需要，每日主动汇报测试数据，如：测试时间、里程、路段、问题数等。\n6.其他协助性工作或外埠工作，服从甲方安排。\n\n【技能要求】\n1.熟练应用linux基本操作命令（此为必要技能）。\n2.善于发现问题提出好的意见。\n3.熟练使用至少一种项目管理软件，如：禅道、jira等。\n4.文字描述能力强，缺陷描述准确、报告行文标准。\n5.熟练使用word、excel等文档工具。\n6.了解集成测试流程。\n\n\n【其他】\n1.积极接受新技能和产品。\n2.对自动驾驶、机器人和汽车行业感兴趣的适宜。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "测试工作经验",
+            "机器人测试",
+            "功能测试",
+            "自动驾驶行业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/601d2416f6f5f555855866133147b982"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FDpCmAKfirnKE-R1ABZse0iCvI1YucqcftLjWAyUNnFgstO0EXRJlZGqw3krqalCWpxBZKBiTBaVeG-kwsUDZztoBWzCU4JpT8r9xBJ41GrwxS9OvTKn-kTK42Fb6bwAJdDut5Va6goyAg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

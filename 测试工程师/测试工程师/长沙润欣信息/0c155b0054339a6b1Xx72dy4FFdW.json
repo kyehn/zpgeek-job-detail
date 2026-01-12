@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GP8M5nwCUixg8-A1kFcsv4STFCxdVwP-cF0fIIbxzHJXtywfckhGGab62o8JH1GRjQIfyqPDYrpohGu-A8G-94yI8UfpZDBoc5UQY0xaLVkGiMrlPwYw",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0c155b0054339a6b1Xx72dy4FFdW",
-      "encryptUserId": "1e9842a56f9fdc260nN929u5FVRW",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "主要工作职责：\n1、 根据需求编写测试用例、测试规范，对编写的文档进行分类管理；\n2、 部署和调试测试环境，维护合理的测试环境以满足测试需求；\n3、对软件产品进行功能测试，对测试问题进行分析和定位；\n4、针对现场反馈的问题进行模拟测试、问题复现和定位。\n\n任职条件：\n1、 应用电子、电气自动化、计算机信息、软件工程等相关专业本科及以上学历；\n2、 熟悉产品软件功能测试流程，有一定的文档编写能力；\n3、 有C/C++语言基础；\n4、有电力行业研发和测试经验者优先。",
-      "encryptAddressId": "b8c92886828eae3e0H1629S_E1o~",
-      "address": "长沙岳麓区麓谷·新长海中心B3栋407",
-      "longitude": 112.890351,
-      "latitude": 28.209528,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ae52cd73e430ad055eb33cd15689066",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0187dce48184cb6e0612541a99151e98",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "通信相关专业",
-        "性能测试",
-        "功能测试",
-        "嵌入式测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "长沙润欣信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "59752f0401fb0faf1XB90tq1GVQ~",
-      "brandName": "长沙润欣信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100913,
-      "industryName": "仪器仪表",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727589833931,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "长沙润欣信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "长沙润欣信息",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727589833931,
+        "brandName": "长沙润欣信息",
+        "customerBrandName": "长沙润欣信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "59752f0401fb0faf1XB90tq1GVQ~",
+        "focusBrand": false,
+        "industry": 100913,
+        "industryName": "仪器仪表",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区麓谷·新长海中心B3栋407",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b8c92886828eae3e0H1629S_E1o~",
+        "encryptId": "0c155b0054339a6b1Xx72dy4FFdW",
+        "encryptUserId": "1e9842a56f9fdc260nN929u5FVRW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.209528,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.890351,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0187dce48184cb6e0612541a99151e98",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "主要工作职责：\n1、 根据需求编写测试用例、测试规范，对编写的文档进行分类管理；\n2、 部署和调试测试环境，维护合理的测试环境以满足测试需求；\n3、对软件产品进行功能测试，对测试问题进行分析和定位；\n4、针对现场反馈的问题进行模拟测试、问题复现和定位。\n\n任职条件：\n1、 应用电子、电气自动化、计算机信息、软件工程等相关专业本科及以上学历；\n2、 熟悉产品软件功能测试流程，有一定的文档编写能力；\n3、 有C/C++语言基础；\n4、有电力行业研发和测试经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K·13薪",
+        "showSkills": [
+            "测试工作经验",
+            "通信相关专业",
+            "性能测试",
+            "功能测试",
+            "嵌入式测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ae52cd73e430ad055eb33cd15689066"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GP8M5nwCUixg8-A1kFcsv4STFCxdVwP-cF0fIIbxzHJXtywfckhGGab62o8JH1GRjQIfyqPDYrpohGu-A8G-94yI8UfpZDBoc5UQY0xaLVkGiMrlPwYw",
+    "selfAccess": false,
+    "sessionId": null
 }

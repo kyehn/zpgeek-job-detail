@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ilNO1h0Dz8dP9-Y1pW9ZUWJM5NJoTrGE656w9Nb4lRMYGcKTjrEA842a0XxntA3-UPR8z_yUo1UoXsOftalhm8KuSgEn8W0zRheBYAT0LDNCYXmjrHyHT9BJCeCdfHGCAD-nVC_W6axjJg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bb470dc7bd3e5e2a1nR_2ti5E1pU",
-      "encryptUserId": "f7fac59fe6cc7fda0nR-3dy1EldW",
-      "invalidStatus": false,
-      "jobName": "自动化工程师",
-      "position": 100402,
-      "positionName": "运维开发工程师",
-      "location": 101050900,
-      "locationName": "七台河",
-      "experienceName": "经验不限",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "电气自动化工程师   软件工程师   自动化   仪表    高低压配电柜",
-      "encryptAddressId": "e33de1a943b9413b1XB62Ny7GFc~",
-      "address": "七台河桃山区黑龙江百斯特自动化科技有限公司丰昌巷89号",
-      "longitude": 131.008026,
-      "latitude": 45.767662,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8f93dcc344a3647d516060fbc212b07",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1696a888c18bbe2465c7fa9caf153be",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电气自动化工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "熊先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "黑龙江百斯特自动化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9661d08ee4f440191nZ-2921EVM~",
-      "brandName": "黑龙江百斯特自动化",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1718807285000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "黑龙江百斯特自动化",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "黑龙江百斯特自动化",
+        "certificated": true,
+        "large": null,
+        "name": "熊先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1718807285000,
+        "brandName": "黑龙江百斯特自动化",
+        "customerBrandName": "黑龙江百斯特自动化",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9661d08ee4f440191nZ-2921EVM~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "七台河桃山区黑龙江百斯特自动化科技有限公司丰昌巷89号",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "e33de1a943b9413b1XB62Ny7GFc~",
+        "encryptId": "bb470dc7bd3e5e2a1nR_2ti5E1pU",
+        "encryptUserId": "f7fac59fe6cc7fda0nR-3dy1EldW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "自动化工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 45.767662,
+        "location": 101050900,
+        "locationName": "七台河",
+        "longitude": 131.008026,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1696a888c18bbe2465c7fa9caf153be",
+        "position": 100402,
+        "positionName": "运维开发工程师",
+        "postDescription": "电气自动化工程师   软件工程师   自动化   仪表    高低压配电柜",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "电气自动化工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8f93dcc344a3647d516060fbc212b07"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ilNO1h0Dz8dP9-Y1pW9ZUWJM5NJoTrGE656w9Nb4lRMYGcKTjrEA842a0XxntA3-UPR8z_yUo1UoXsOftalhm8KuSgEn8W0zRheBYAT0LDNCYXmjrHyHT9BJCeCdfHGCAD-nVC_W6axjJg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

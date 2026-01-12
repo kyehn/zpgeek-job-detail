@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Hus2ivNCEJ1wO-J1pWnCQ54oZYckqJ1LuH-cpTW-72Y_Fn675i6mBLfRjw5ufa1EFzbxH637GMVVSyxPqlnrK7t0xBKK18U-ZlNl5c6BSD44F0EdVtY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4dfcced73f64e94b1XN809i4FlRY",
-      "encryptUserId": "608f14893693e1841XJz0t65FFY~",
-      "invalidStatus": false,
-      "jobName": "数据标注专员",
-      "position": 130121,
-      "positionName": "数据标注/AI训练师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 根据任务要求，进行文本数据的标注和质检；\n2. 创作项目所需的对话、剧情等文本数据；\n3. 掌握数据标注和生产规则，确保标注质量及进度；\n4. 完成公司安排的其他临时任务。\n\n任职要求：\n1. 大专及以上学历，专业不限，工作经验不限；\n2. 能熟练操作和使用计算机及办公软件；\n3. 具备良好的团队精神和快速学习能力。",
-      "encryptAddressId": "3e330e93d785cda333N92925ElpXyoi7UfM~",
-      "address": "杭州余杭区浙江数智引擎创新园C座709室",
-      "longitude": 120.035331,
-      "latitude": 30.250007,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfd0f320e799a2c282ed8bee1a06bcbc376bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf864715a5f78fefb640090436647b2af86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据标注"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "人事及行政总监",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180820/5dba4899bd44275719cb53014b80c1e053f0345b5b076068fd0a6d88f74_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "深度好奇",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7c29f948689ff2331nRz2tm9F1Y~",
-      "brandName": "深度好奇",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "带薪年假"
-      ],
-      "activeTime": 1726306499531,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深度好奇",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深度好奇",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180820/5dba4899bd44275719cb53014b80c1e053f0345b5b076068fd0a6d88f74_b.jpg",
+        "title": "人事及行政总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1726306499531,
+        "brandName": "深度好奇",
+        "customerBrandName": "深度好奇",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7c29f948689ff2331nRz2tm9F1Y~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "带薪年假"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区浙江数智引擎创新园C座709室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3e330e93d785cda333N92925ElpXyoi7UfM~",
+        "encryptId": "4dfcced73f64e94b1XN809i4FlRY",
+        "encryptUserId": "608f14893693e1841XJz0t65FFY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据标注专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.250007,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.035331,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf864715a5f78fefb640090436647b2af86bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 130121,
+        "positionName": "数据标注/AI训练师",
+        "postDescription": "岗位职责：\n1. 根据任务要求，进行文本数据的标注和质检；\n2. 创作项目所需的对话、剧情等文本数据；\n3. 掌握数据标注和生产规则，确保标注质量及进度；\n4. 完成公司安排的其他临时任务。\n\n任职要求：\n1. 大专及以上学历，专业不限，工作经验不限；\n2. 能熟练操作和使用计算机及办公软件；\n3. 具备良好的团队精神和快速学习能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "数据标注"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfd0f320e799a2c282ed8bee1a06bcbc376bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Hus2ivNCEJ1wO-J1pWnCQ54oZYckqJ1LuH-cpTW-72Y_Fn675i6mBLfRjw5ufa1EFzbxH637GMVVSyxPqlnrK7t0xBKK18U-ZlNl5c6BSD44F0EdVtY~",
+    "selfAccess": false,
+    "sessionId": null
 }

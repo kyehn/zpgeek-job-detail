@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "XOAzD6thZo1te-W1tiKWxMqqgcOkdOZkFNLy1ummcifsogt7Pa1CL3MFnTbBUEKsWC49lxYZrPGwX2yElBwUgJPM_xWMg5gYs3McUqfHbqNchncFdA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "329e65507d7661ca1XV72tu1GVZT",
-      "encryptUserId": "2a0c1f678e085f1b0nR-29-7FVQ~",
-      "invalidStatus": false,
-      "jobName": "航测内页/数据处理工程师",
-      "position": 220219,
-      "positionName": "测绘/测量",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：  \n1、负责测绘、地理信息内外业数据采集、数据处理、建库、资料扫描归档等工作；  \n2、主要从事国土项目数据处理，包括三调数据编辑、房地一体内业建库、航测立体测图、数据转换等；\n3、无人机航测内业数据处理，外业航线规划、飞行、地面站控制及软硬件调试，航拍摄影； \n4.适应不定期/短期出差。\n任职要求：\n1、勤奋笃学、为人谦虚，有较好的自我学习和自主学习能力； \n2、注重团队配合，工作细心，认真负责；    \n3、熟悉GIS平台软件（如ArcGIS、AutoCAD、CASS、ENVI、ERDAS、PCI、MapGIS、SuperMap、PCI等其中一种或多种）、熟悉数据处理及建库流程；",
-      "encryptAddressId": "2cd04b043069cbe31nJ409y5EVI~",
-      "address": "武汉武昌区楚天都市花园C座1801",
-      "longitude": 114.337039,
-      "latitude": 30.54804,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef9f45e3a032b22b1aee6107abf04c37",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff3538ca4f94f8df0559a49f8a45b751",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测量/测绘工程师",
-        "CAD",
-        "数据处理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "智绘山河",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9a42341b2ae498bc0XR43d28GQ~~",
-      "brandName": "智绘山河",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724047319931,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智绘山河",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智绘山河",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724047319931,
+        "brandName": "智绘山河",
+        "customerBrandName": "智绘山河",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9a42341b2ae498bc0XR43d28GQ~~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉武昌区楚天都市花园C座1801",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "2cd04b043069cbe31nJ409y5EVI~",
+        "encryptId": "329e65507d7661ca1XV72tu1GVZT",
+        "encryptUserId": "2a0c1f678e085f1b0nR-29-7FVQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "航测内页/数据处理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.54804,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.337039,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff3538ca4f94f8df0559a49f8a45b751",
+        "position": 220219,
+        "positionName": "测绘/测量",
+        "postDescription": "岗位职责：  \n1、负责测绘、地理信息内外业数据采集、数据处理、建库、资料扫描归档等工作；  \n2、主要从事国土项目数据处理，包括三调数据编辑、房地一体内业建库、航测立体测图、数据转换等；\n3、无人机航测内业数据处理，外业航线规划、飞行、地面站控制及软硬件调试，航拍摄影； \n4.适应不定期/短期出差。\n任职要求：\n1、勤奋笃学、为人谦虚，有较好的自我学习和自主学习能力； \n2、注重团队配合，工作细心，认真负责；    \n3、熟悉GIS平台软件（如ArcGIS、AutoCAD、CASS、ENVI、ERDAS、PCI、MapGIS、SuperMap、PCI等其中一种或多种）、熟悉数据处理及建库流程；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-9K",
+        "showSkills": [
+            "测量/测绘工程师",
+            "CAD",
+            "数据处理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef9f45e3a032b22b1aee6107abf04c37"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "XOAzD6thZo1te-W1tiKWxMqqgcOkdOZkFNLy1ummcifsogt7Pa1CL3MFnTbBUEKsWC49lxYZrPGwX2yElBwUgJPM_xWMg5gYs3McUqfHbqNchncFdA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

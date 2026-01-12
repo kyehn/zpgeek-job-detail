@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "R8GTt7J5XW-c3-Y1Qgv7q1EJfckHaBx_uDWIIcVGtRSGrbh73EyQdlPlE87Us98-SfumEIqLPpxRTWF2uLH8ndk3wMUF6IywL4LFeN1i0NcZnDzd",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a2275cddd2b0a39e1XB53926F1o~",
-      "encryptUserId": "d6f3c6c2d3529b8f03d63t65Flc~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1.工作经验2年以上\n2.有仓储行业经验优先\n3.熟悉j2ee，oracle，sqlserver\n4.适应出差\n如果有丰富的仓储行业相关经验者以上条件可以放宽并优先录取。",
-      "encryptAddressId": "ae6517e13d8c7da71XJz29S_Eg~~",
-      "address": "上海徐汇区新业大楼1号楼12楼",
-      "longitude": 121.398563,
-      "latitude": 31.167192,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75890fbde24d488ae5e75adfcf38e5c8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a41edcd8608b860fa5ded79bc585bf5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Javascript",
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "华诠科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8a6a7ffd697496181Xd83t2-Ew~~",
-      "brandName": "华诠科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722072784988,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华诠科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华诠科技",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722072784988,
+        "brandName": "华诠科技",
+        "customerBrandName": "华诠科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8a6a7ffd697496181Xd83t2-Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区新业大楼1号楼12楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ae6517e13d8c7da71XJz29S_Eg~~",
+        "encryptId": "a2275cddd2b0a39e1XB53926F1o~",
+        "encryptUserId": "d6f3c6c2d3529b8f03d63t65Flc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.167192,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.398563,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a41edcd8608b860fa5ded79bc585bf5",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.工作经验2年以上\n2.有仓储行业经验优先\n3.熟悉j2ee，oracle，sqlserver\n4.适应出差\n如果有丰富的仓储行业相关经验者以上条件可以放宽并优先录取。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java",
+            "Javascript",
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75890fbde24d488ae5e75adfcf38e5c8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "R8GTt7J5XW-c3-Y1Qgv7q1EJfckHaBx_uDWIIcVGtRSGrbh73EyQdlPlE87Us98-SfumEIqLPpxRTWF2uLH8ndk3wMUF6IywL4LFeN1i0NcZnDzd",
+    "selfAccess": false,
+    "sessionId": null
 }

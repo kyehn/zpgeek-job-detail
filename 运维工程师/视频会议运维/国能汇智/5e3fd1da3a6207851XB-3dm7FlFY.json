@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_qOmFCJagAKds-41lPlFwyBUGNH60PEKi1PLWCDUFvnxUd-_vYgUG1vvPC8r3AsYrhEUJiVAo8kzk1lm6hB4T3WqW0SO8q0hJueAFeu-BQ26yr4w0ME~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5e3fd1da3a6207851XB-3dm7FlFY",
-      "encryptUserId": "d588de1576444fe90HZ93di5EVU~",
-      "invalidStatus": false,
-      "jobName": "视频会议运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "视频会议运维工程师，熟悉使用视频会议设备（保利通、华为均可），能够完成视频会议系统调试、运维等相关工作。\n负责视频会议硬件故障的检测和保修\n负责视频会议现场保障及重大会议现场值守\n\n做过音视频调音台的优先",
-      "encryptAddressId": "be0c183174e0965e0XF62Nu6EFo~",
-      "address": "北京朝阳区凯康海油大厦1101",
-      "longitude": 116.397574,
-      "latitude": 39.969274,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a8b1b1661c51c492c27d48de56494f5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b282fe6e5cec95cd466673bdee53109",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210710/0344fc90d955639a3f06877080b8eb911466133d0e67e6d5e36088cfc60_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "国能汇智",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf0cdd5aa8172caa1XVy2dq_FVM~",
-      "brandName": "国能汇智",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730165278363,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "国能汇智",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "国能汇智",
+        "certificated": true,
+        "large": null,
+        "name": "孟先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210710/0344fc90d955639a3f06877080b8eb911466133d0e67e6d5e36088cfc60_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730165278363,
+        "brandName": "国能汇智",
+        "customerBrandName": "国能汇智",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cf0cdd5aa8172caa1XVy2dq_FVM~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区凯康海油大厦1101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "be0c183174e0965e0XF62Nu6EFo~",
+        "encryptId": "5e3fd1da3a6207851XB-3dm7FlFY",
+        "encryptUserId": "d588de1576444fe90HZ93di5EVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "视频会议运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.969274,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.397574,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b282fe6e5cec95cd466673bdee53109",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "视频会议运维工程师，熟悉使用视频会议设备（保利通、华为均可），能够完成视频会议系统调试、运维等相关工作。\n负责视频会议硬件故障的检测和保修\n负责视频会议现场保障及重大会议现场值守\n\n做过音视频调音台的优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a8b1b1661c51c492c27d48de56494f5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_qOmFCJagAKds-41lPlFwyBUGNH60PEKi1PLWCDUFvnxUd-_vYgUG1vvPC8r3AsYrhEUJiVAo8kzk1lm6hB4T3WqW0SO8q0hJueAFeu-BQ26yr4w0ME~",
+    "selfAccess": false,
+    "sessionId": null
 }

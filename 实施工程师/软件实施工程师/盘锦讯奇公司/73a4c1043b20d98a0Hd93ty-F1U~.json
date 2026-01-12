@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bzry38BCo9CMX-n1LOVPWoALpEIzrQg-VwGX0LwuCxO_IQujRFlQ5pvlIDwgZXued3WRgM-sLzTQFrCSBCZhJf_ItisHmsYgUg7fpSbu9TfzL7c7eTECvpa17--DkI0KF93b63ct6Qyw",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "73a4c1043b20d98a0Hd93ty-F1U~",
-      "encryptUserId": "291d9667665fa8c31nR52d-_GFtX",
-      "invalidStatus": false,
-      "jobName": "软件实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101071300,
-      "locationName": "盘锦",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.计算机、软件等相关专业等；2.大专以上学历；3. 了解Oracle或Sybase等数据库，能够用SQL语句操作数据库。负责软件项目实施，技术支持等工作。",
-      "encryptAddressId": "76156da1c4b1e0b61X152dW7GVU~",
-      "address": "盘锦兴隆台区辽河数码公司联系人刘女士7800525—9920",
-      "longitude": 122.080569,
-      "latitude": 41.124282,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00c5d1d8da5e7dde46fcd2a741e8167f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81eb1d063d5117f574541778c54b9f70",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "盘锦讯奇公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "44f4f795184aa7ff0Hx62920GQ~~",
-      "brandName": "盘锦讯奇公司",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200410/47f155dd7c0719e76ee67b7670ed912258015182fa0023bd6e8bb2d84c02c745.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "盘锦讯奇科技有限公司是以软件开发、系统集成、工业控制、产品销售为主要业务的高新技术企业。",
-      "labels": [
-        "补充医疗保险",
-        "加班补助",
-        "员工旅游",
-        "餐补",
-        "节日福利"
-      ],
-      "activeTime": 1724325199134,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "盘锦讯奇公司",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "盘锦讯奇公司",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1724325199134,
+        "brandName": "盘锦讯奇公司",
+        "customerBrandName": "盘锦讯奇公司",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "44f4f795184aa7ff0Hx62920GQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "盘锦讯奇科技有限公司是以软件开发、系统集成、工业控制、产品销售为主要业务的高新技术企业。",
+        "labels": [
+            "补充医疗保险",
+            "加班补助",
+            "员工旅游",
+            "餐补",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200410/47f155dd7c0719e76ee67b7670ed912258015182fa0023bd6e8bb2d84c02c745.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "盘锦兴隆台区辽河数码公司联系人刘女士7800525—9920",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "76156da1c4b1e0b61X152dW7GVU~",
+        "encryptId": "73a4c1043b20d98a0Hd93ty-F1U~",
+        "encryptUserId": "291d9667665fa8c31nR52d-_GFtX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 41.124282,
+        "location": 101071300,
+        "locationName": "盘锦",
+        "longitude": 122.080569,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81eb1d063d5117f574541778c54b9f70",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1.计算机、软件等相关专业等；2.大专以上学历；3. 了解Oracle或Sybase等数据库，能够用SQL语句操作数据库。负责软件项目实施，技术支持等工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00c5d1d8da5e7dde46fcd2a741e8167f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bzry38BCo9CMX-n1LOVPWoALpEIzrQg-VwGX0LwuCxO_IQujRFlQ5pvlIDwgZXued3WRgM-sLzTQFrCSBCZhJf_ItisHmsYgUg7fpSbu9TfzL7c7eTECvpa17--DkI0KF93b63ct6Qyw",
+    "selfAccess": false,
+    "sessionId": null
 }

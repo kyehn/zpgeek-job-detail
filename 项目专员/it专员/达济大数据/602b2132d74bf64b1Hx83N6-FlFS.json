@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BWfxgHexffgdK-c1jTNNm89mzE8X7r-gP9eattzMfaT__fwlZiigk4bJWLk5OLgbTPUF5UuR-rGUodj8X1-ngG-biyjqP39ohLld_9HO3S2BKMSTLSA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "602b2132d74bf64b1Hx83N6-FlFS",
-      "encryptUserId": "d36e278ebb4cdccf0HNz3t26E1c~",
-      "invalidStatus": false,
-      "jobName": "it专员",
-      "position": 100604,
-      "positionName": "项目专员",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1. 负责和客户沟通IT服务监控事项，协调客户和公司IT人员时间，跟进部署进度。\n任职要求\n1、大专及以上学历；语言流畅、表达清晰；\n2、对计算机基础概念有一定了解，如服务器、数据库、邮件等；\n3、工作积极主动，认真负责。具备较强的责任心，团队合作能力；\n4、熟练使用办公软件，如Excel、Word、PowerPoint等；\n5、有销售经验优先；",
-      "encryptAddressId": "6cecab4cee79143b3nN72du_EVFWwoy_Uf4~",
-      "address": "深圳宝安区南昌第二工业区东区B座1楼",
-      "longitude": 113.843069,
-      "latitude": 22.599801,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6469b92a59b0e09767446afa21eece44",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ee584a7007f0a35e7056fac01bd7205",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "物流/仓储项目"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曾女士",
-      "title": "HRM",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191120/9d96050767a6ff98f3212dd5ef999b22ec9b0800648c299b8b22c1f6283_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "达济大数据",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "113b9a3bb08a67eb1HF82tq9Els~",
-      "brandName": "达济大数据",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731662222738,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "达济大数据",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "达济大数据",
+        "certificated": true,
+        "large": null,
+        "name": "曾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191120/9d96050767a6ff98f3212dd5ef999b22ec9b0800648c299b8b22c1f6283_b.jpg",
+        "title": "HRM"
+    },
+    "brandComInfo": {
+        "activeTime": 1731662222738,
+        "brandName": "达济大数据",
+        "customerBrandName": "达济大数据",
+        "customerBrandStageName": "",
+        "encryptBrandId": "113b9a3bb08a67eb1HF82tq9Els~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区南昌第二工业区东区B座1楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6cecab4cee79143b3nN72du_EVFWwoy_Uf4~",
+        "encryptId": "602b2132d74bf64b1Hx83N6-FlFS",
+        "encryptUserId": "d36e278ebb4cdccf0HNz3t26E1c~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "it专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.599801,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.843069,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ee584a7007f0a35e7056fac01bd7205",
+        "position": 100604,
+        "positionName": "项目专员",
+        "postDescription": "岗位职责\n1. 负责和客户沟通IT服务监控事项，协调客户和公司IT人员时间，跟进部署进度。\n任职要求\n1、大专及以上学历；语言流畅、表达清晰；\n2、对计算机基础概念有一定了解，如服务器、数据库、邮件等；\n3、工作积极主动，认真负责。具备较强的责任心，团队合作能力；\n4、熟练使用办公软件，如Excel、Word、PowerPoint等；\n5、有销售经验优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "物流/仓储项目"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6469b92a59b0e09767446afa21eece44"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BWfxgHexffgdK-c1jTNNm89mzE8X7r-gP9eattzMfaT__fwlZiigk4bJWLk5OLgbTPUF5UuR-rGUodj8X1-ngG-biyjqP39ohLld_9HO3S2BKMSTLSA~",
+    "selfAccess": false,
+    "sessionId": null
 }

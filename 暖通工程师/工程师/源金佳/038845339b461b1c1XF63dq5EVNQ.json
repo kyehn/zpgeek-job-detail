@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "43LcCHvN0wk8X-p1Eq2PDNOPjBUa_z0AnHoiohGFQwKVR2ouYlBYnbSyuBqN1yoN10fnZBpPirqOoTdVLdO7H07Gyj7mpYYDo_Za9VvjdZCAT2VihAZ1",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "038845339b461b1c1XF63dq5EVNQ",
-      "encryptUserId": "48993aeee1f23dcc0nR_3du7EVJR",
-      "invalidStatus": false,
-      "jobName": "工程师",
-      "position": 220215,
-      "positionName": "暖通工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "建筑、工民建、土木工程类相关专业工程师；\n有良好的沟通协调能力，工作责任心强。",
-      "encryptAddressId": "74b30eb32f57295d0HZ53di4E1M~",
-      "address": "苏州吴中区木渎凯马广场501",
-      "longitude": 120.545515,
-      "latitude": 31.256013,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab951099a379c4b6a403cecab015060b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11388e15ba3454b513dc1aa95bc26859",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "土木/土建工程师",
-        "暖通工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "源金佳",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "815a5e4cc49d6c141nB839-9EFI~",
-      "brandName": "源金佳",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100704,
-      "industryName": "装修装饰",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721715361332,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "源金佳",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "源金佳",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721715361332,
+        "brandName": "源金佳",
+        "customerBrandName": "源金佳",
+        "customerBrandStageName": "",
+        "encryptBrandId": "815a5e4cc49d6c141nB839-9EFI~",
+        "focusBrand": false,
+        "industry": 100704,
+        "industryName": "装修装饰",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区木渎凯马广场501",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "74b30eb32f57295d0HZ53di4E1M~",
+        "encryptId": "038845339b461b1c1XF63dq5EVNQ",
+        "encryptUserId": "48993aeee1f23dcc0nR_3du7EVJR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.256013,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.545515,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11388e15ba3454b513dc1aa95bc26859",
+        "position": 220215,
+        "positionName": "暖通工程师",
+        "postDescription": "建筑、工民建、土木工程类相关专业工程师；\n有良好的沟通协调能力，工作责任心强。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "土木/土建工程师",
+            "暖通工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab951099a379c4b6a403cecab015060b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "43LcCHvN0wk8X-p1Eq2PDNOPjBUa_z0AnHoiohGFQwKVR2ouYlBYnbSyuBqN1yoN10fnZBpPirqOoTdVLdO7H07Gyj7mpYYDo_Za9VvjdZCAT2VihAZ1",
+    "selfAccess": false,
+    "sessionId": null
 }

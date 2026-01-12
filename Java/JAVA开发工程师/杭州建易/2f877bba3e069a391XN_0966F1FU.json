@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IYBP9AErxw22C-q1TObkrdKyPkQGPrpChMDjTHWgdGn4XbQqUUq1nTI5GmH4Pj_N2Og6cUJFQEAFjMTrcNAtX5ELhkMB5FQ-xGAoMs70Cb7d_t6P-Go~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2f877bba3e069a391XN_0966F1FU",
-      "encryptUserId": "4b7c33ae015d70960Hx42Ny-ElE~",
-      "invalidStatus": false,
-      "jobName": "java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-15K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.熟练Java语言基础，熟悉J2EE体系架构，具有Jsp，JavaScript，Jquery，BootStrap，Servlet，Spring，MyBites，Xml等开发经验；\n2.熟练oracle、MySQL等数据库设计与开发，并熟练掌握SQL；\n3.熟悉使用Tomcat，Eclipse,IntelliJ，Jetty等应用服务器软件及开发工具；\n4.根据项目分配，快速完成开发任务。\n岗位要求：\n1.***本科及以上学历，计算机类、电子信息类等相关专业；\n2.35周岁及以下；\n3.1年以上使用Java语言进行大型网站及系统开发的经验；\n4.深入了解设计模式；工作认真，细心，有条理；积极性高，求知欲强；具有较强的沟通能力及团队合作精神；\n5.综合条件优秀者，可适当放宽条件。",
-      "encryptAddressId": "b2f39fb4a094732c33F70tS8GFY~",
-      "address": "杭州上城区蕙沣大厦B座13楼",
-      "longitude": 120.195273,
-      "latitude": 30.232329,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1e2a11a6046459f61577bb4fec8f98f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9845cb0af3233f6f8aea3cc95a3a4f81",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "Java",
-        "Java开发经验",
-        "计算机/软件工程相关经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "杭州建易",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9c647059658c53f01XJ429i-FVM~",
-      "brandName": "杭州建易",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721787364560,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州建易",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州建易",
+        "certificated": true,
+        "large": null,
+        "name": "唐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1721787364560,
+        "brandName": "杭州建易",
+        "customerBrandName": "杭州建易",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9c647059658c53f01XJ429i-FVM~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区蕙沣大厦B座13楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b2f39fb4a094732c33F70tS8GFY~",
+        "encryptId": "2f877bba3e069a391XN_0966F1FU",
+        "encryptUserId": "4b7c33ae015d70960Hx42Ny-ElE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.232329,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.195273,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9845cb0af3233f6f8aea3cc95a3a4f81",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1.熟练Java语言基础，熟悉J2EE体系架构，具有Jsp，JavaScript，Jquery，BootStrap，Servlet，Spring，MyBites，Xml等开发经验；\n2.熟练oracle、MySQL等数据库设计与开发，并熟练掌握SQL；\n3.熟悉使用Tomcat，Eclipse,IntelliJ，Jetty等应用服务器软件及开发工具；\n4.根据项目分配，快速完成开发任务。\n岗位要求：\n1.***本科及以上学历，计算机类、电子信息类等相关专业；\n2.35周岁及以下；\n3.1年以上使用Java语言进行大型网站及系统开发的经验；\n4.深入了解设计模式；工作认真，细心，有条理；积极性高，求知欲强；具有较强的沟通能力及团队合作精神；\n5.综合条件优秀者，可适当放宽条件。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-15K",
+        "showSkills": [
+            "后端工程师",
+            "Java",
+            "Java开发经验",
+            "计算机/软件工程相关经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1e2a11a6046459f61577bb4fec8f98f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IYBP9AErxw22C-q1TObkrdKyPkQGPrpChMDjTHWgdGn4XbQqUUq1nTI5GmH4Pj_N2Og6cUJFQEAFjMTrcNAtX5ELhkMB5FQ-xGAoMs70Cb7d_t6P-Go~",
+    "selfAccess": false,
+    "sessionId": null
 }

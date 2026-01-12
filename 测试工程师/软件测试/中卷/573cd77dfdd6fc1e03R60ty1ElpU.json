@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ydu9CWA4TJ2uJ-31qUCinKrIrwXiVFl3FFPO2r0szzqJKskXs-_8wZrKqIikFGfKr711GbkmsZMBgiyBTjwj5hGZROndTC7EfsrODHrc8g-TQ5mJvj2ia_ZlMr3_B6_65KQSqNPK2m2fHWk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "573cd77dfdd6fc1e03R60ty1ElpU",
-      "encryptUserId": "874a9a8bb69d2a350nF-2N-8EVZW",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101230200,
-      "locationName": "厦门",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责项目系统测试方案制定，并主导开展测试实施工作\n2、负责产品系统测试技术与方法的研究和实践\n3、负责维护测试环境\n4、负责项目测试报告，技术文档的编写\n5、负责支持现场测试及问题复现，分析、定位，跟进推动解决\n6、负责产品系统测试用例的构建、优化完善\n岗位要求：\n1、大专及以上学历，1年以上web手工测试相关经验\n2、了解Web站点工作原理和相关的网络协议，熟悉Web测试技术\n3、具有较强的手工测试能力，能进行需求分析、测试方案/测试场景用例设计、自动化测试数据设计、常用抓包工具（fiddler）使用等\n4、熟悉Mysql/Redis/MongoDB优先，熟悉基本SQL语句。\n5、具有较强的Bug分析能力，能自主或辅助开发快速定位问题，提升效率\n6、熟悉性能测试的实施，掌握一种性能测试工具，如JMeter、LR等",
-      "encryptAddressId": "1e1a8470d1a5125b0HZ509q9E1tTx4m5V_o~",
-      "address": "厦门思明区新景中心A栋509",
-      "longitude": 118.12052,
-      "latitude": 24.479815,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b17fadb217d7822daea78124bc9590e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0bfc52373bd07bb04630f821cc28519",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "叶女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd0af5d6490d16e5ec61658080b65f943253b0cfd7c55742b71a1b57975689eb17_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "中卷",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "899a727b168781a81ndy2tS7FFc~",
-      "brandName": "中卷",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100503,
-      "industryName": "批发/零售",
-      "introduce": "公司氛围好 同事好相处",
-      "labels": [
-        "交通补助",
-        "有无线网",
-        "团建聚餐",
-        "零食下午茶",
-        "全勤奖",
-        "节假日加班费",
-        "五险一金"
-      ],
-      "activeTime": 1732104687805,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中卷",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中卷",
+        "certificated": true,
+        "large": null,
+        "name": "叶女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd0af5d6490d16e5ec61658080b65f943253b0cfd7c55742b71a1b57975689eb17_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732104687805,
+        "brandName": "中卷",
+        "customerBrandName": "中卷",
+        "customerBrandStageName": "",
+        "encryptBrandId": "899a727b168781a81ndy2tS7FFc~",
+        "focusBrand": false,
+        "industry": 100503,
+        "industryName": "批发/零售",
+        "introduce": "公司氛围好 同事好相处",
+        "labels": [
+            "交通补助",
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "全勤奖",
+            "节假日加班费",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "厦门思明区新景中心A栋509",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1e1a8470d1a5125b0HZ509q9E1tTx4m5V_o~",
+        "encryptId": "573cd77dfdd6fc1e03R60ty1ElpU",
+        "encryptUserId": "874a9a8bb69d2a350nF-2N-8EVZW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 24.479815,
+        "location": 101230200,
+        "locationName": "厦门",
+        "longitude": 118.12052,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0bfc52373bd07bb04630f821cc28519",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、负责项目系统测试方案制定，并主导开展测试实施工作\n2、负责产品系统测试技术与方法的研究和实践\n3、负责维护测试环境\n4、负责项目测试报告，技术文档的编写\n5、负责支持现场测试及问题复现，分析、定位，跟进推动解决\n6、负责产品系统测试用例的构建、优化完善\n岗位要求：\n1、大专及以上学历，1年以上web手工测试相关经验\n2、了解Web站点工作原理和相关的网络协议，熟悉Web测试技术\n3、具有较强的手工测试能力，能进行需求分析、测试方案/测试场景用例设计、自动化测试数据设计、常用抓包工具（fiddler）使用等\n4、熟悉Mysql/Redis/MongoDB优先，熟悉基本SQL语句。\n5、具有较强的Bug分析能力，能自主或辅助开发快速定位问题，提升效率\n6、熟悉性能测试的实施，掌握一种性能测试工具，如JMeter、LR等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b17fadb217d7822daea78124bc9590e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ydu9CWA4TJ2uJ-31qUCinKrIrwXiVFl3FFPO2r0szzqJKskXs-_8wZrKqIikFGfKr711GbkmsZMBgiyBTjwj5hGZROndTC7EfsrODHrc8g-TQ5mJvj2ia_ZlMr3_B6_65KQSqNPK2m2fHWk~",
+    "selfAccess": false,
+    "sessionId": null
 }

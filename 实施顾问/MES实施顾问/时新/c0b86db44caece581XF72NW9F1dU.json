@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BzUX_JO5O6bQZ-k1R_uuuGj7taoMg4TLFF0UtuaZkOYpPb1RBd4Up7GFvVgWbjP6Y_OsYnv69Jc0PtBnffmP8dDYYgK98m-xksCD0diN-fvob2nHog~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c0b86db44caece581XF72NW9F1dU",
-      "encryptUserId": "e7ff371a63d7b1ba1XJ639--EFM~",
-      "invalidStatus": false,
-      "jobName": "MES实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、负责MES项目需求调研；\n2、负责业务蓝图设计，对MES系统方案优化；\n3、设计业务流程及功能描述并与客户确认；\n4、根据项目进度，完成功能模块测试、系统上线、用户培训等相关工作；\n5、负责对老项目进行维护。",
-      "encryptAddressId": "f0d2590b516f5b280XNy3du8Fw~~",
-      "address": "苏州相城区苏州时新集成技术有限公司平康路1号",
-      "longitude": 120.631204,
-      "latitude": 31.406792,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f40098b907a40dbff58c0fae7a50ad48",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e618ff6473d43925c03c7551a3000de4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "能够接受出差",
-        "计算机相关专业",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟先生",
-      "title": "开发",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "时新",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "63117c7c31922f6f3nB739u0Fg~~",
-      "brandName": "时新",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200914/60d46d68109b131f8280d91b2a74923f417fb6c640e82eb5a407803267d58f8e.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "包吃",
-        "年终奖",
-        "全勤奖",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1725310036084,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "时新",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "时新",
+        "certificated": true,
+        "large": null,
+        "name": "孟先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "开发"
+    },
+    "brandComInfo": {
+        "activeTime": 1725310036084,
+        "brandName": "时新",
+        "customerBrandName": "时新",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "63117c7c31922f6f3nB739u0Fg~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "包吃",
+            "年终奖",
+            "全勤奖",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200914/60d46d68109b131f8280d91b2a74923f417fb6c640e82eb5a407803267d58f8e.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州相城区苏州时新集成技术有限公司平康路1号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f0d2590b516f5b280XNy3du8Fw~~",
+        "encryptId": "c0b86db44caece581XF72NW9F1dU",
+        "encryptUserId": "e7ff371a63d7b1ba1XJ639--EFM~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "MES实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.406792,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.631204,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e618ff6473d43925c03c7551a3000de4",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "1、负责MES项目需求调研；\n2、负责业务蓝图设计，对MES系统方案优化；\n3、设计业务流程及功能描述并与客户确认；\n4、根据项目进度，完成功能模块测试、系统上线、用户培训等相关工作；\n5、负责对老项目进行维护。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K·13薪",
+        "showSkills": [
+            "ERP",
+            "能够接受出差",
+            "计算机相关专业",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f40098b907a40dbff58c0fae7a50ad48"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BzUX_JO5O6bQZ-k1R_uuuGj7taoMg4TLFF0UtuaZkOYpPb1RBd4Up7GFvVgWbjP6Y_OsYnv69Jc0PtBnffmP8dDYYgK98m-xksCD0diN-fvob2nHog~~",
+    "selfAccess": false,
+    "sessionId": null
 }

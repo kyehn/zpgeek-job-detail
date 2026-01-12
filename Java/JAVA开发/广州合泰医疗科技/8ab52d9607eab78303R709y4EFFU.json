@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9by0NiihF51VS-F1UlSVLVDlIVMLqB7UkZd2wU3OlbmuyiPJHx2rOUUyWwNtMnt5x9VI_LaAayxFaJsmZ7YDB-lkjPLJ-9siAYJQZCvfFqz2Et8ETY8DGs-ztKR-9PLXDIAOStD-KVjtqd7kHCiYcz4HlEKxqTHQESVPDYndu6Kt1_57z8o~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8ab52d9607eab78303R709y4EFFU",
-      "encryptUserId": "c632532bb68b77830Xx40tS5F1pS",
-      "invalidStatus": false,
-      "jobName": "java开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: \n负责公司内部管理系统维护及新功能开发，负责公司对外宣传网站的页面布局和样式特效的代码编写，熟悉Java基本框架使用\n任职要求: \n计算机相关专业，本科及以上学历\n时间：\n朝九晚六，周末双休",
-      "encryptAddressId": "2506c2bd9b19db741nB939q_EFpYwou4Uf2W",
-      "address": "广州海珠区南洲创业投资中心239",
-      "longitude": 113.302633,
-      "latitude": 23.064667,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bf0f4c30e9883b34f96ede2ae1df7dabb46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd1ec0117122ce3f9251d1842964b198d6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "其他",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "邹女士",
-      "title": "人事助理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "广州合泰医疗科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f394a5fbbc3da4901Hx53t28EFE~",
-      "brandName": "广州合泰医疗科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100006,
-      "industryName": "医疗健康",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732522551697,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州合泰医疗科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "广州合泰医疗科技",
+        "certificated": true,
+        "large": null,
+        "name": "邹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "人事助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732522551697,
+        "brandName": "广州合泰医疗科技",
+        "customerBrandName": "广州合泰医疗科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f394a5fbbc3da4901Hx53t28EFE~",
+        "focusBrand": false,
+        "industry": 100006,
+        "industryName": "医疗健康",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州海珠区南洲创业投资中心239",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2506c2bd9b19db741nB939q_EFpYwou4Uf2W",
+        "encryptId": "8ab52d9607eab78303R709y4EFFU",
+        "encryptUserId": "c632532bb68b77830Xx40tS5F1pS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java开发",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.064667,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.302633,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd1ec0117122ce3f9251d1842964b198d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责: \n负责公司内部管理系统维护及新功能开发，负责公司对外宣传网站的页面布局和样式特效的代码编写，熟悉Java基本框架使用\n任职要求: \n计算机相关专业，本科及以上学历\n时间：\n朝九晚六，周末双休",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "其他",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bf0f4c30e9883b34f96ede2ae1df7dabb46bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9by0NiihF51VS-F1UlSVLVDlIVMLqB7UkZd2wU3OlbmuyiPJHx2rOUUyWwNtMnt5x9VI_LaAayxFaJsmZ7YDB-lkjPLJ-9siAYJQZCvfFqz2Et8ETY8DGs-ztKR-9PLXDIAOStD-KVjtqd7kHCiYcz4HlEKxqTHQESVPDYndu6Kt1_57z8o~",
+    "selfAccess": false,
+    "sessionId": null
 }

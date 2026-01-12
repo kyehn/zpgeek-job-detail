@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2nnq8ebFOrWvW-G1_YZ61kPr9INMU-3rkgbws0DM7--vKQPZQnI1V6o0iHPcl5Hnx6dG4ChbDYS60tl_Z39dr0nJC7QmGs4M15DZCOkbO0B5Psg8RLEV4vn8tGKmHUKQPi77dNgOusgg3zTbKcbaeePy0FTPuGaw98jFyLkQk1tfwetiDGm7TSOAjyHqKjr6CBzFRRnGzdktcydbZ1kd9d4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3cd158f6252432f703V63t29FVVW",
-      "encryptUserId": "c318f5e27197a1c00HB_2ti9GVM~",
-      "invalidStatus": false,
-      "jobName": "自动化测试工程师",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n- 负责诺基亚贝尔网管软件自动化测试，能够快速定位并复现问题，协助开发团队进行问题修复。\n技术要求：\n- 至少1年的自动化测试经验，熟悉软件测试生命周期及自动化测试流程。\n- 掌握Selenium、JMeter、Robot Framework等至少一种自动化测试工具。\n- 有OpenStack组件使用经验。\n- 能够使用Python、Shell等编写测试脚本并调试。\n- 了解集成工具，能够配置自动化测试。\n该岗位为诺基亚外包岗",
-      "encryptAddressId": "0dde430fc7ad380003Bz2dW4EVI~",
-      "address": "成都双流区诺基亚通信(成都)有限公司天府新经济产业园A区1栋",
-      "longitude": 104.079316,
-      "latitude": 30.402768,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84132ffea7487e653154cd413e53ffbf",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c10ecf9a4e5c62c692bd37dbfcae510",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "唐盛",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5965fc740ad96a960nN42N2_FA~~",
-      "brandName": "唐盛",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1736142805454,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "唐盛",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "唐盛",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1736142805454,
+        "brandName": "唐盛",
+        "customerBrandName": "唐盛",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5965fc740ad96a960nN42N2_FA~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都双流区诺基亚通信(成都)有限公司天府新经济产业园A区1栋",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "0dde430fc7ad380003Bz2dW4EVI~",
+        "encryptId": "3cd158f6252432f703V63t29FVVW",
+        "encryptUserId": "c318f5e27197a1c00HB_2ti9GVM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.402768,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.079316,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c10ecf9a4e5c62c692bd37dbfcae510",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "职位描述：\n- 负责诺基亚贝尔网管软件自动化测试，能够快速定位并复现问题，协助开发团队进行问题修复。\n技术要求：\n- 至少1年的自动化测试经验，熟悉软件测试生命周期及自动化测试流程。\n- 掌握Selenium、JMeter、Robot Framework等至少一种自动化测试工具。\n- 有OpenStack组件使用经验。\n- 能够使用Python、Shell等编写测试脚本并调试。\n- 了解集成工具，能够配置自动化测试。\n该岗位为诺基亚外包岗",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84132ffea7487e653154cd413e53ffbf"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2nnq8ebFOrWvW-G1_YZ61kPr9INMU-3rkgbws0DM7--vKQPZQnI1V6o0iHPcl5Hnx6dG4ChbDYS60tl_Z39dr0nJC7QmGs4M15DZCOkbO0B5Psg8RLEV4vn8tGKmHUKQPi77dNgOusgg3zTbKcbaeePy0FTPuGaw98jFyLkQk1tfwetiDGm7TSOAjyHqKjr6CBzFRRnGzdktcydbZ1kd9d4~",
+    "selfAccess": false,
+    "sessionId": null
 }

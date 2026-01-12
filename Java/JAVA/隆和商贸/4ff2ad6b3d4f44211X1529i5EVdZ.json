@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "q8RlZtvnkbmfz-G1vckv_kmpXKPmdMRoNIaayg9bRbsFDH4dmtIRmrmZpKgcK5g2UhO0u_5TWNlmlsyfdywA-6gEi4Ff9Bif84HWKUHcdgkaNMaYtj4i",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4ff2ad6b3d4f44211X1529i5EVdZ",
-      "encryptUserId": "458817ac2fc3ac390XR_39q_EVJU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "15-16K",
-      "payTypeDesc": null,
-      "postDescription": "基于Java相关技术的软件设计与开发",
-      "encryptAddressId": "634a390ea1e3c1b03nN93N2_Els~",
-      "address": "武汉江夏区光谷生物医药园1楼",
-      "longitude": 114.535705,
-      "latitude": 30.487002,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bca4ef5dff4af50c8ef30afaef1c138c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eed4a47d8e726586c7b3af7cc01bc3d2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230624/607f1f3d68754fd0615b8896a839b1ef848335361a95e3145bea82d888cb6047e6c315a4e2f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "隆和商贸",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f4eaa72db5d37f281Xx53t25GFU~",
-      "brandName": "隆和商贸",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100017,
-      "industryName": "新零售",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721795207597,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "隆和商贸",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "隆和商贸",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230624/607f1f3d68754fd0615b8896a839b1ef848335361a95e3145bea82d888cb6047e6c315a4e2f_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721795207597,
+        "brandName": "隆和商贸",
+        "customerBrandName": "隆和商贸",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f4eaa72db5d37f281Xx53t25GFU~",
+        "focusBrand": false,
+        "industry": 100017,
+        "industryName": "新零售",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区光谷生物医药园1楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "634a390ea1e3c1b03nN93N2_Els~",
+        "encryptId": "4ff2ad6b3d4f44211X1529i5EVdZ",
+        "encryptUserId": "458817ac2fc3ac390XR_39q_EVJU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.487002,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.535705,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eed4a47d8e726586c7b3af7cc01bc3d2",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "基于Java相关技术的软件设计与开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "15-16K",
+        "showSkills": [
+            "Java",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bca4ef5dff4af50c8ef30afaef1c138c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "q8RlZtvnkbmfz-G1vckv_kmpXKPmdMRoNIaayg9bRbsFDH4dmtIRmrmZpKgcK5g2UhO0u_5TWNlmlsyfdywA-6gEi4Ff9Bif84HWKUHcdgkaNMaYtj4i",
+    "selfAccess": false,
+    "sessionId": null
 }

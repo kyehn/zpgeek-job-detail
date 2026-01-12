@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yCsZZIYggnAWz-d17CgaiZjwSsq3XreF-D9nX6d5JSaIqewdm3JbaQ9OkvPU5oMhwdOWs4qhkAVJ4mMCk6uyELNW6YFR3A2_rgaMB8VoF4gW8c1tcCj_f0TIdViv8XRqecgxK8swMPQURg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bf7a7c18b052e4551H1-2N29GVpZ",
-      "encryptUserId": "44dc4138cf3ab1321HF63tS_FVA~",
-      "invalidStatus": false,
-      "jobName": "应用运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、有值班，分白班中班和夜班；\n2、日常系统的监控和告警处理；\n3、日常版本的发布和环境部署；\n4、投产窗口的升级和维护；\n5、负责公司相关应用系统的运维工作；\n6、负责应用系统部署架构与变更方案的评审与实施；\n7、负责跟踪记录交易系统的性能指标，主动对系统云行情况进行性银分析；\n8、负责应用系统的部署手册、操作手册、运维手册、应急方案等技术与管理文档的编写与修订订；\n9、负责应用系统的监控与自动化的完善与优化，应急处置、问题分析、数据与备份管理。\n\n学历及专业:全日制本科（含)以上学历，计算机相关专业；\n1、熟悉资管行业投资交易、互联网电商等相关业务规则及信息系统运维工作；\n2、精通DB2、Mysql等关系型数据库，熟悉内存库运行及高可用机制；\n3、熟悉掌握一种或几种编程或脚本语言，如XTo0wDockerSHELL等；\nKubernetes、Etcd、Prometheus 、Harbor等具备较强的责任心、主动性和团队合作能力，具有良好的沟通能力，能承受较强的工作负荷。",
-      "encryptAddressId": "9920e1ef3ba7cf461nB73Ni0FFtYxIu7WP6W",
-      "address": "上海黄浦区BFC外滩金融中心南区S2座1",
-      "longitude": 121.498963,
-      "latitude": 31.225588,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240117/48ba41acc9cef1bf4d70a48866553d71d10e4dd30bd7b51a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240117/48ba41acc9cef1bf5a0924aedb6d936a6b11b9300d0f0e926bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Golang",
-        "Java",
-        "Python/Shell"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "金女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240529/607f1f3d68754fd06eaffe316139e333d0a6e34ae495c7a953df3768fddc58e389a8dc073696f64_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "济让",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3c2077714d5cbb651HZ72t66ElI~",
-      "brandName": "济让",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100601,
-      "industryName": "咨询",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730283308820,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "济让",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "济让",
+        "certificated": true,
+        "large": null,
+        "name": "金女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240529/607f1f3d68754fd06eaffe316139e333d0a6e34ae495c7a953df3768fddc58e389a8dc073696f64_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1730283308820,
+        "brandName": "济让",
+        "customerBrandName": "济让",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3c2077714d5cbb651HZ72t66ElI~",
+        "focusBrand": false,
+        "industry": 100601,
+        "industryName": "咨询",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海黄浦区BFC外滩金融中心南区S2座1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9920e1ef3ba7cf461nB73Ni0FFtYxIu7WP6W",
+        "encryptId": "bf7a7c18b052e4551H1-2N29GVpZ",
+        "encryptUserId": "44dc4138cf3ab1321HF63tS_FVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "应用运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.225588,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.498963,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240117/48ba41acc9cef1bf5a0924aedb6d936a6b11b9300d0f0e926bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、有值班，分白班中班和夜班；\n2、日常系统的监控和告警处理；\n3、日常版本的发布和环境部署；\n4、投产窗口的升级和维护；\n5、负责公司相关应用系统的运维工作；\n6、负责应用系统部署架构与变更方案的评审与实施；\n7、负责跟踪记录交易系统的性能指标，主动对系统云行情况进行性银分析；\n8、负责应用系统的部署手册、操作手册、运维手册、应急方案等技术与管理文档的编写与修订订；\n9、负责应用系统的监控与自动化的完善与优化，应急处置、问题分析、数据与备份管理。\n\n学历及专业:全日制本科（含)以上学历，计算机相关专业；\n1、熟悉资管行业投资交易、互联网电商等相关业务规则及信息系统运维工作；\n2、精通DB2、Mysql等关系型数据库，熟悉内存库运行及高可用机制；\n3、熟悉掌握一种或几种编程或脚本语言，如XTo0wDockerSHELL等；\nKubernetes、Etcd、Prometheus 、Harbor等具备较强的责任心、主动性和团队合作能力，具有良好的沟通能力，能承受较强的工作负荷。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Golang",
+            "Java",
+            "Python/Shell"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240117/48ba41acc9cef1bf4d70a48866553d71d10e4dd30bd7b51a6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yCsZZIYggnAWz-d17CgaiZjwSsq3XreF-D9nX6d5JSaIqewdm3JbaQ9OkvPU5oMhwdOWs4qhkAVJ4mMCk6uyELNW6YFR3A2_rgaMB8VoF4gW8c1tcCj_f0TIdViv8XRqecgxK8swMPQURg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

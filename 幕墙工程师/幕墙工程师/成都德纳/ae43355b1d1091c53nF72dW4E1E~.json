@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "dK58AmHhiGyHF-s1Zsdd-1ZI4F7HVN3RG3kIV0Pjv13x5k1hjpuZV7h5ajxrXjz3vkxlU7sMw05zri1yVKLx5J6faYQmhxZGEIu6mCiQ7EqLCCCHJOo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ae43355b1d1091c53nF72dW4E1E~",
-      "encryptUserId": "df1b881c617699d11nZ529-4EldT",
-      "invalidStatus": false,
-      "jobName": "幕墙工程师",
-      "position": 220216,
-      "positionName": "幕墙工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "1：独立完成平立面及大样图的深化设计；\n2：在项目负责人协助下完成节点图深化工作；\n3：会结构计算、三维优先考虑；\n4：五险一金、带薪年假",
-      "encryptAddressId": "092c9785cfc024801Hdz0ti7FlQ~",
-      "address": "成都成华区蓝润东悦荟(建设中)3栋A座3101",
-      "longitude": 104.135916,
-      "latitude": 30.626383,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7481e3524d4f3530f9fc2872fc48051a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/453a257fbbe34567bccd259b0ad5b818",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "幕墙工程师",
-        "幕墙设计师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "成都德纳",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "97b197bd7f583dcb1nV52d--FVA~",
-      "brandName": "成都德纳",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100704,
-      "industryName": "装修装饰",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727374970393,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "成都德纳",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "成都德纳",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727374970393,
+        "brandName": "成都德纳",
+        "customerBrandName": "成都德纳",
+        "customerBrandStageName": "",
+        "encryptBrandId": "97b197bd7f583dcb1nV52d--FVA~",
+        "focusBrand": false,
+        "industry": 100704,
+        "industryName": "装修装饰",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都成华区蓝润东悦荟(建设中)3栋A座3101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "092c9785cfc024801Hdz0ti7FlQ~",
+        "encryptId": "ae43355b1d1091c53nF72dW4E1E~",
+        "encryptUserId": "df1b881c617699d11nZ529-4EldT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "幕墙工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.626383,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.135916,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/453a257fbbe34567bccd259b0ad5b818",
+        "position": 220216,
+        "positionName": "幕墙工程师",
+        "postDescription": "1：独立完成平立面及大样图的深化设计；\n2：在项目负责人协助下完成节点图深化工作；\n3：会结构计算、三维优先考虑；\n4：五险一金、带薪年假",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "幕墙工程师",
+            "幕墙设计师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7481e3524d4f3530f9fc2872fc48051a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "dK58AmHhiGyHF-s1Zsdd-1ZI4F7HVN3RG3kIV0Pjv13x5k1hjpuZV7h5ajxrXjz3vkxlU7sMw05zri1yVKLx5J6faYQmhxZGEIu6mCiQ7EqLCCCHJOo~",
+    "selfAccess": false,
+    "sessionId": null
 }

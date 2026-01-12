@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_4RpLUat9I8P1-51rBdbFJtUY6UoX4ltcXHqztu-CPv6fwHUrXDzPLJN5Q4ziDmbhNbolOfHh4C_5iMoTQsYBueHeOq79y_hv6BXDHB5g9xpHrfjMCFG",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "68e4e238d907b2541nZz2ti_EFRV",
-      "encryptUserId": "14a7259c476e718d0nZ709S4GFZV",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "监控负责IT周边设备的安装和调试",
-      "encryptAddressId": "3d5bf44100c1830603Vz2N-9GFc~",
-      "address": "武汉洪山区丽岛紫园6栋1001",
-      "longitude": 114.343691,
-      "latitude": 30.501731,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87f54d40bd53f1bbcd573b32aae2cefd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc946f58dabda33924ead32518e39678",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT服务",
-        "应用运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "高女士",
-      "title": "人力资源经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "武汉瑞创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a1fc7c10431937541nB939W9E1E~",
-      "brandName": "武汉瑞创",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [
-        "带薪年假"
-      ],
-      "activeTime": 1727678426135,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉瑞创",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉瑞创",
+        "certificated": true,
+        "large": null,
+        "name": "高女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "人力资源经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727678426135,
+        "brandName": "武汉瑞创",
+        "customerBrandName": "武汉瑞创",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a1fc7c10431937541nB939W9E1E~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [
+            "带薪年假"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区丽岛紫园6栋1001",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3d5bf44100c1830603Vz2N-9GFc~",
+        "encryptId": "68e4e238d907b2541nZz2ti_EFRV",
+        "encryptUserId": "14a7259c476e718d0nZ709S4GFZV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.501731,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.343691,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc946f58dabda33924ead32518e39678",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "监控负责IT周边设备的安装和调试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "IT服务",
+            "应用运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87f54d40bd53f1bbcd573b32aae2cefd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_4RpLUat9I8P1-51rBdbFJtUY6UoX4ltcXHqztu-CPv6fwHUrXDzPLJN5Q4ziDmbhNbolOfHh4C_5iMoTQsYBueHeOq79y_hv6BXDHB5g9xpHrfjMCFG",
+    "selfAccess": false,
+    "sessionId": null
 }

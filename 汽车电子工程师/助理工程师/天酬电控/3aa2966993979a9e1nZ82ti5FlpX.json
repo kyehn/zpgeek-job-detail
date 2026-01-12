@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_1oTuBWSKLW96-R1H9MHDyaaF2L-Gjm2O5Q1ozXhNz2f9xb7FweP3dtjiEYWfFP47y1XPLcoGpoP-z46-TP0fdjIuM85VgeD71knsL-43wGEnFV4DNVA",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3aa2966993979a9e1nZ82ti5FlpX",
-      "encryptUserId": "21f4c6eb738d0b8f0nV909u-ElZZ",
-      "invalidStatus": false,
-      "jobName": "助理工程师",
-      "position": 230106,
-      "positionName": "汽车电子工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、大专及以上学历；汽车、电子、机械类专业；\n基础专业扎实，学习动手能力强，有责任心，工作认真。\n2、负责协助产品安装调试维修，以及摩托车发动机数据调试等",
-      "encryptAddressId": "17fba9dd820d2b641nxy0ty7Fg~~",
-      "address": "苏州吴江区苏州天浩汽车科技股份有限公司屯村东路181号",
-      "longitude": 120.779939,
-      "latitude": 31.136717,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7f68de75ff2659a7966ee4bb2ca162c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f891c7a95de3fba3daa479b2a29c90c7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "五险一金",
-        "包吃",
-        "包住",
-        "全勤奖",
-        "工龄奖"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "姜女士",
-      "title": "经理助理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "天酬电控",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cb9667cfd66c1f011nB709u8EVc~",
-      "brandName": "天酬电控",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725361596698,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "天酬电控",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "天酬电控",
+        "certificated": true,
+        "large": null,
+        "name": "姜女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "经理助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725361596698,
+        "brandName": "天酬电控",
+        "customerBrandName": "天酬电控",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cb9667cfd66c1f011nB709u8EVc~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴江区苏州天浩汽车科技股份有限公司屯村东路181号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "17fba9dd820d2b641nxy0ty7Fg~~",
+        "encryptId": "3aa2966993979a9e1nZ82ti5FlpX",
+        "encryptUserId": "21f4c6eb738d0b8f0nV909u-ElZZ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "助理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.136717,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.779939,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f891c7a95de3fba3daa479b2a29c90c7",
+        "position": 230106,
+        "positionName": "汽车电子工程师",
+        "postDescription": "1、大专及以上学历；汽车、电子、机械类专业；\n基础专业扎实，学习动手能力强，有责任心，工作认真。\n2、负责协助产品安装调试维修，以及摩托车发动机数据调试等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K·13薪",
+        "showSkills": [
+            "五险一金",
+            "包吃",
+            "包住",
+            "全勤奖",
+            "工龄奖"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7f68de75ff2659a7966ee4bb2ca162c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_1oTuBWSKLW96-R1H9MHDyaaF2L-Gjm2O5Q1ozXhNz2f9xb7FweP3dtjiEYWfFP47y1XPLcoGpoP-z46-TP0fdjIuM85VgeD71knsL-43wGEnFV4DNVA",
+    "selfAccess": false,
+    "sessionId": null
 }

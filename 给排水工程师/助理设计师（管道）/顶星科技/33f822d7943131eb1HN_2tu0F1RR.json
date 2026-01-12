@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6lKp-wloBtZUx-j1-sA80mV-ya37kcL3_2wb8ECXb5voTM4pga3ij2u3HCEw7zz3Sc9fZ3nwNs6KZdNVGGjs4GP1C61LFkPBjNjEkpsw4D3VBU5-FJU6eemzIRevJMdSdRAYAY92JVJtD-oQecOAvYTTSRcIOvRrXvy4XvF97Rrg7pyTH4kUB4NHcZ81dvYieQ9D-PtMrqSVJR3QVnao6PDzjw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "33f822d7943131eb1HN_2tu0F1RR",
-      "encryptUserId": "2156378136b9adcd0nZ92968GFVS",
-      "invalidStatus": false,
-      "jobName": "助理设计师（管道）",
-      "position": 220214,
-      "positionName": "给排水工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "海工、化工管道助理设计师。必须熟悉软件，有相关经验",
-      "encryptAddressId": "496d098b6349ab441nV93Ny6EFNXyoW2Wfme",
-      "address": "南京浦口区创展大厦A-811",
-      "longitude": 118.605678,
-      "latitude": 32.023973,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bff38bdf55fc1fcb7e0d172f55d0ad74096bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf2f546014692e54355fb192b0ae777c4f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "图纸出图"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd0c068e9e2a65ab52e24da282497eb720922eced441ae1d516d795deaf9f1635f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "顶星科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b0c66df98ade92461nx8092_EVM~",
-      "brandName": "顶星科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240626/7b5b554d84f9729cc068e9e2a65ab52e24da282497eb720922eced441ae1d516d795deaf9f1635f7.png.webp",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101201,
-      "industryName": "石油/石化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1736205322107,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "顶星科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "顶星科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd0c068e9e2a65ab52e24da282497eb720922eced441ae1d516d795deaf9f1635f_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1736205322107,
+        "brandName": "顶星科技",
+        "customerBrandName": "顶星科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b0c66df98ade92461nx8092_EVM~",
+        "focusBrand": false,
+        "industry": 101201,
+        "industryName": "石油/石化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240626/7b5b554d84f9729cc068e9e2a65ab52e24da282497eb720922eced441ae1d516d795deaf9f1635f7.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区创展大厦A-811",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "496d098b6349ab441nV93Ny6EFNXyoW2Wfme",
+        "encryptId": "33f822d7943131eb1HN_2tu0F1RR",
+        "encryptUserId": "2156378136b9adcd0nZ92968GFVS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "助理设计师（管道）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.023973,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.605678,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf2f546014692e54355fb192b0ae777c4f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 220214,
+        "positionName": "给排水工程师",
+        "postDescription": "海工、化工管道助理设计师。必须熟悉软件，有相关经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "图纸出图"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bff38bdf55fc1fcb7e0d172f55d0ad74096bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6lKp-wloBtZUx-j1-sA80mV-ya37kcL3_2wb8ECXb5voTM4pga3ij2u3HCEw7zz3Sc9fZ3nwNs6KZdNVGGjs4GP1C61LFkPBjNjEkpsw4D3VBU5-FJU6eemzIRevJMdSdRAYAY92JVJtD-oQecOAvYTTSRcIOvRrXvy4XvF97Rrg7pyTH4kUB4NHcZ81dvYieQ9D-PtMrqSVJR3QVnao6PDzjw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

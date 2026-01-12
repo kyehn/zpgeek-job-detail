@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FnItVMntjqf5p-g1O0XG9z8YGWybdHPnQe76BA2ACPdiemEEgSPBSK_fM4-B8XKZtUZBAo5fhAl832lMuoZ7iJOjWvEcsYGGbDdNxktCmT2ICDPwxC6KiSqcPzTI3sE0sZDlZ3zx49D5UzMBm85p2p6ipa4zvwXERgrugvUuQRx774NTV5A~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b1dfb1af89e9a3061nF_2du1F1NU",
-      "encryptUserId": "96efc531807237700nR42dS5FVJW",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1.大专或本科学历，计算机相关专业;\n2.能独立撰写测试计划书和相关的测试文档\n3.熟悉X86系统构架，具备一定的电脑主板硬件知识，熟悉主板功能，会安装备份常用系统、具备基础电脑故障分析能力者优先。\n4.熟悉linux 的基本操作、可以写简单的测试脚本\n5.有一年以上相关测试经验或系统测试经验",
-      "encryptAddressId": "5db44d0654c1fb3e1HV_3tS0Eg~~",
-      "address": "深圳宝安区深业U中心B栋6楼",
-      "longitude": 113.864986,
-      "latitude": 22.62529,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/881248fa48261f96c74a10e74dd18fdb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8cd325e030d6b4ec5dac53f534dd610",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "硬件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "余女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210817/ce75f66e71a164c119215cc348efb8038eb53226ce395e7070142ff7092_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "华北工控",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e47d8713adbb20fa1nV_2dm7ElY~",
-      "brandName": "华北工控",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200831/1b43c73a2cf3ce33fd4f05167098969033d70deba66557923f7f42a78368d267_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "作为一家集行业专用计算机产品的研发、生产、销售及服务为一体的国家级高新技术企业，公司产品涉及工业CPU卡、嵌入式工业主板、工业机箱、一体化工作站、工业平板电脑（PPC）、网络安全准系统、磁盘阵列、无源底板、工业电源及工业电脑配件等产品，广泛应用于工业自动化、通讯设备、电力设备、网络安全、智能交通、视频监控、医疗保健、军工/航天设备、自助终端、存储设备、数字标牌、车载电脑、3C应用等诸多领域。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "带薪年假",
-        "员工旅游"
-      ],
-      "activeTime": 1732604578560,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华北工控",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "华北工控",
+        "certificated": true,
+        "large": null,
+        "name": "余女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210817/ce75f66e71a164c119215cc348efb8038eb53226ce395e7070142ff7092_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1732604578560,
+        "brandName": "华北工控",
+        "customerBrandName": "华北工控",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "e47d8713adbb20fa1nV_2dm7ElY~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "作为一家集行业专用计算机产品的研发、生产、销售及服务为一体的国家级高新技术企业，公司产品涉及工业CPU卡、嵌入式工业主板、工业机箱、一体化工作站、工业平板电脑（PPC）、网络安全准系统、磁盘阵列、无源底板、工业电源及工业电脑配件等产品，广泛应用于工业自动化、通讯设备、电力设备、网络安全、智能交通、视频监控、医疗保健、军工/航天设备、自助终端、存储设备、数字标牌、车载电脑、3C应用等诸多领域。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "员工旅游"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200831/1b43c73a2cf3ce33fd4f05167098969033d70deba66557923f7f42a78368d267_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区深业U中心B栋6楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5db44d0654c1fb3e1HV_3tS0Eg~~",
+        "encryptId": "b1dfb1af89e9a3061nF_2du1F1NU",
+        "encryptUserId": "96efc531807237700nR42dS5FVJW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.62529,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.864986,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8cd325e030d6b4ec5dac53f534dd610",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "1.大专或本科学历，计算机相关专业;\n2.能独立撰写测试计划书和相关的测试文档\n3.熟悉X86系统构架，具备一定的电脑主板硬件知识，熟悉主板功能，会安装备份常用系统、具备基础电脑故障分析能力者优先。\n4.熟悉linux 的基本操作、可以写简单的测试脚本\n5.有一年以上相关测试经验或系统测试经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K·13薪",
+        "showSkills": [
+            "硬件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/881248fa48261f96c74a10e74dd18fdb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FnItVMntjqf5p-g1O0XG9z8YGWybdHPnQe76BA2ACPdiemEEgSPBSK_fM4-B8XKZtUZBAo5fhAl832lMuoZ7iJOjWvEcsYGGbDdNxktCmT2ICDPwxC6KiSqcPzTI3sE0sZDlZ3zx49D5UzMBm85p2p6ipa4zvwXERgrugvUuQRx774NTV5A~",
+    "selfAccess": false,
+    "sessionId": null
 }

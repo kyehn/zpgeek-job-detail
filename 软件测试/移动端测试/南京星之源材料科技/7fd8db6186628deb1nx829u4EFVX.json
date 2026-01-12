@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4L0GRsMUdlydA-a1EOypeVdRTrJwFG6s8G9qs9tyFsq4F29AJf87l9R7MZTWKAbjD7p5qz97eiq9OYPPdDMRAGi88kJ3Ja4oJnONK6dtJyL8jIIu2SSU",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7fd8db6186628deb1nx829u4EFVX",
-      "encryptUserId": "d866609ae897bf8c0nRz3NW9F1JX",
-      "invalidStatus": false,
-      "jobName": "移动端测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1工作内容:\n  每周提交微信小程序软件版本测试报告\n  收集已有客户小程序软件功能需求报告\n  熟悉编写软件使用教程、使用流程图、头条公众号运营等优先！\r\n\r\n培养计划\r\n市场部、项目部、技术部储备干部",
-      "encryptAddressId": "bd4c70808db422bf1nF72NS_ElU~",
-      "address": "南京秦淮区南京星之源材料科技有限公司苜蓿园大街52号金陵设计院216室",
-      "longitude": 118.832053,
-      "latitude": 32.034092,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7b0a1d1a62ae48a349e2a3a3f1b1c1f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e2e5c9f8bfc7056556ba9dbb0d93ef35",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "Python",
-        "功能测试",
-        "APP测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "南京星之源材料科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "db8aed7650010afa1nd42t--E1s~",
-      "brandName": "南京星之源材料科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100705,
-      "industryName": "建筑材料",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725365095825,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京星之源材料科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京星之源材料科技",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725365095825,
+        "brandName": "南京星之源材料科技",
+        "customerBrandName": "南京星之源材料科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "db8aed7650010afa1nd42t--E1s~",
+        "focusBrand": false,
+        "industry": 100705,
+        "industryName": "建筑材料",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京秦淮区南京星之源材料科技有限公司苜蓿园大街52号金陵设计院216室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "bd4c70808db422bf1nF72NS_ElU~",
+        "encryptId": "7fd8db6186628deb1nx829u4EFVX",
+        "encryptUserId": "d866609ae897bf8c0nRz3NW9F1JX",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "移动端测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 32.034092,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.832053,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e2e5c9f8bfc7056556ba9dbb0d93ef35",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "1工作内容:\n  每周提交微信小程序软件版本测试报告\n  收集已有客户小程序软件功能需求报告\n  熟悉编写软件使用教程、使用流程图、头条公众号运营等优先！\r\n\r\n培养计划\r\n市场部、项目部、技术部储备干部",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "SQL",
+            "Python",
+            "功能测试",
+            "APP测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7b0a1d1a62ae48a349e2a3a3f1b1c1f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4L0GRsMUdlydA-a1EOypeVdRTrJwFG6s8G9qs9tyFsq4F29AJf87l9R7MZTWKAbjD7p5qz97eiq9OYPPdDMRAGi88kJ3Ja4oJnONK6dtJyL8jIIu2SSU",
+    "selfAccess": false,
+    "sessionId": null
 }

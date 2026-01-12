@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "STOplM1m74-vP-U1CtkjdAn8FE2YBS30fp-lPPQrTLMuS4jeIojC59KFwScSmKPmWgzpviRnUIDkjfWFTwp18IkLk2jKP6WxbsOtdZDSqurBEM4b",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3d6aad224921b53c1nxz3d68GVY~",
-      "encryptUserId": "1fab1777c650447c1X140967FFQ~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.一年以上游戏或软件的测试工作经验\n2.工作积极主动，具备较强责任心\n3.熟悉整个测试的流程，能推动项目进程",
-      "encryptAddressId": "c72c30ec840bd2450n1z3ty0Fw~~",
-      "address": "上海徐汇区新漕河泾国际商务中心B座31楼",
-      "longitude": 121.4041,
-      "latitude": 31.16373,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed60415f9ecf50f156debf2d2c04cf00",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14ea79624398cc06b4665804caf6bdcd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试",
-        "功能测试",
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "方女士",
-      "title": "项目运营",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231101/607f1f3d68754fd0e21800ca0ce5ddf9b7a60030610f71e165af3e49cde4d04e4c261fe831fde30_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "酷睿网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "62bc32190b1115391nN62dy4GQ~~",
-      "brandName": "酷睿网络科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725375411329,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "酷睿网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "酷睿网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "方女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231101/607f1f3d68754fd0e21800ca0ce5ddf9b7a60030610f71e165af3e49cde4d04e4c261fe831fde30_b.jpg",
+        "title": "项目运营"
+    },
+    "brandComInfo": {
+        "activeTime": 1725375411329,
+        "brandName": "酷睿网络科技",
+        "customerBrandName": "酷睿网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "62bc32190b1115391nN62dy4GQ~~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区新漕河泾国际商务中心B座31楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c72c30ec840bd2450n1z3ty0Fw~~",
+        "encryptId": "3d6aad224921b53c1nxz3d68GVY~",
+        "encryptUserId": "1fab1777c650447c1X140967FFQ~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.16373,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.4041,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14ea79624398cc06b4665804caf6bdcd",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.一年以上游戏或软件的测试工作经验\n2.工作积极主动，具备较强责任心\n3.熟悉整个测试的流程，能推动项目进程",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "测试",
+            "功能测试",
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed60415f9ecf50f156debf2d2c04cf00"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "STOplM1m74-vP-U1CtkjdAn8FE2YBS30fp-lPPQrTLMuS4jeIojC59KFwScSmKPmWgzpviRnUIDkjfWFTwp18IkLk2jKP6WxbsOtdZDSqurBEM4b",
+    "selfAccess": false,
+    "sessionId": null
 }

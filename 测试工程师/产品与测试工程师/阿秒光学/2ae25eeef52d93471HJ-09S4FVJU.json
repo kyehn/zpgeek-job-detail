@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GoFKjnKf6SIpU-D1cEPJuXTEjz9a2LdYvZgImM1y_ypPpd6qlYJ6mjsBsoWivhKxnZWs8dRHnTfBPkOGM_dG5RN6TDW6KUswdq02I3u1yDwUTKz6Q6Yg",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2ae25eeef52d93471HJ-09S4FVJU",
-      "encryptUserId": "a023337547e0d5871nR40t-0FlBQ",
-      "invalidStatus": false,
-      "jobName": "产品与测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责新产品导入时测试流程的制定，测试资料的审核，异常处理:收集问题并反馈，确保量产顺利进行；\n2.负责编制各类技术文件，保证技术文件正确、完整、安全；\n3.大专及以上学历,2年以上相关工作经验。",
-      "encryptAddressId": "336f1f4b18f378001nZ609y_EVBYx4-2UvOY",
-      "address": "长沙雨花区旭辉国际广场-C1写字楼902",
-      "longitude": 113.031434,
-      "latitude": 28.156778,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08e6b221eed7ed4bd3b0d3e0316889c7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/203480a7d2676228cbf4c6a69ac3051e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何女士",
-      "title": "人力资源经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "阿秒光学",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9ea6d420a5a10d461nd_3d--F1c~",
-      "brandName": "阿秒光学",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9f04a10c838eb26654f820216dc40575bbe1249864cae7eee48494f8da7ec5775.png.webp",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "湖南阿秒光学科技有限公司成立于2019年，主要从事精密光学元器件、激光雷达光引擎系统、激光应用光学模组、激光扫描与全息系统，超精密玻璃压型机等人工智能装备的研发、设计、生产和销售。公司以玻璃非球面模压技术为己任，深度研发光学与激光应用技术，助力第四次工业革命智能时代的推进。 ",
-      "labels": [
-        "绩效奖金",
-        "股票期权",
-        "夜班补助",
-        "全勤奖",
-        "员工旅游",
-        "包吃",
-        "包住",
-        "宿舍有空调",
-        "住房补贴",
-        "节日福利",
-        "五险"
-      ],
-      "activeTime": 1725527937317,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "阿秒光学",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "阿秒光学",
+        "certificated": true,
+        "large": null,
+        "name": "何女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人力资源经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725527937317,
+        "brandName": "阿秒光学",
+        "customerBrandName": "阿秒光学",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "9ea6d420a5a10d461nd_3d--F1c~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "湖南阿秒光学科技有限公司成立于2019年，主要从事精密光学元器件、激光雷达光引擎系统、激光应用光学模组、激光扫描与全息系统，超精密玻璃压型机等人工智能装备的研发、设计、生产和销售。公司以玻璃非球面模压技术为己任，深度研发光学与激光应用技术，助力第四次工业革命智能时代的推进。 ",
+        "labels": [
+            "绩效奖金",
+            "股票期权",
+            "夜班补助",
+            "全勤奖",
+            "员工旅游",
+            "包吃",
+            "包住",
+            "宿舍有空调",
+            "住房补贴",
+            "节日福利",
+            "五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9f04a10c838eb26654f820216dc40575bbe1249864cae7eee48494f8da7ec5775.png.webp",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙雨花区旭辉国际广场-C1写字楼902",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "336f1f4b18f378001nZ609y_EVBYx4-2UvOY",
+        "encryptId": "2ae25eeef52d93471HJ-09S4FVJU",
+        "encryptUserId": "a023337547e0d5871nR40t-0FlBQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "产品与测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.156778,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.031434,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/203480a7d2676228cbf4c6a69ac3051e",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.负责新产品导入时测试流程的制定，测试资料的审核，异常处理:收集问题并反馈，确保量产顺利进行；\n2.负责编制各类技术文件，保证技术文件正确、完整、安全；\n3.大专及以上学历,2年以上相关工作经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "性能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08e6b221eed7ed4bd3b0d3e0316889c7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GoFKjnKf6SIpU-D1cEPJuXTEjz9a2LdYvZgImM1y_ypPpd6qlYJ6mjsBsoWivhKxnZWs8dRHnTfBPkOGM_dG5RN6TDW6KUswdq02I3u1yDwUTKz6Q6Yg",
+    "selfAccess": false,
+    "sessionId": null
 }

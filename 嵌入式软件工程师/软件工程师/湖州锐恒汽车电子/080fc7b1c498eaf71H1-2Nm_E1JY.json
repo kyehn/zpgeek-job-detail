@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BMzUVbBJGV5VP-m1WsJBcFTcQM2PmwXqJiGPPstJEmj-kIQuceakF2swrf6-2h9sud_gCfPTs8s3gONznuSXXJgYc-JvddwqgPNq-PbDqe50YjgsI1MKzg2HpY3SmzJlNqb1bkimV9T6Qlo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "080fc7b1c498eaf71H1-2Nm_E1JY",
-      "encryptUserId": "6872c538a52cfa200Xx72tu5FlpQ",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101210200,
-      "locationName": "湖州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、与项目组有效沟通，开展软件开发工作，限踪软件开发时间进度:\n2、根据客户或内部需求，按照公司开发流程，进行软件架构设计，并输出相关文档:\n3、负责 MCU 相关驱动开发,通信协议栈开发等工作,按照公司开发流程，完规模块测试.\n输出相关文档:\n4、负责天离电机控制算法的设计和实现，包括UDS和通信上层的软件实现和测试，按照\n公司开发流程,输出相关文档:\n5、按照架构设计文档，进行软件模块的集成工作,并完成软件集成测试,输出相关报告\n任职要求:\n1、本科及以上学历，计算机、电子、通信、自动化等相关专业:\n2、具备汽车电子相关的设计经验或者专业知识:\n3、熟练使用C语言，掌握建模软件:\n4、熟掌握 CAN、LIN网络通信、网络管理、网络诊断和Bootloader 的开发技能，熟悉\nUDS 协议、CAN通信以及网络管理\n5、有 NXP.Infineon等车规 MCU 开发经验;\n6、熟练使用 CANOE、PCAN等通信设备:\n7、了解 ASPICE 或CMMI 流程\n8、了解无刷电机控制算法，天离控制软件开发经验者优先。",
-      "encryptAddressId": "ba36f64263d2b61d1nB73Nq1E1tRxIu2Vv2a",
-      "address": "湖州长兴县湖州群友汽车电子有限公司1幢",
-      "longitude": 119.951511,
-      "latitude": 30.999854,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240928/48ba41acc9cef1bf72d8c68cee20fa84040ea1b336685ca46bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240928/48ba41acc9cef1bffd23e6a254636ff4c79113e4e50959db6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机械设计制造相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "蔺女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "湖州锐恒汽车电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ef5ee5218b65edeb1Hx63ti-EVc~",
-      "brandName": "湖州锐恒汽车电子",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100911,
-      "industryName": "橡胶/塑料制品",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729859814092,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖州锐恒汽车电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖州锐恒汽车电子",
+        "certificated": true,
+        "large": null,
+        "name": "蔺女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1729859814092,
+        "brandName": "湖州锐恒汽车电子",
+        "customerBrandName": "湖州锐恒汽车电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ef5ee5218b65edeb1Hx63ti-EVc~",
+        "focusBrand": false,
+        "industry": 100911,
+        "industryName": "橡胶/塑料制品",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "湖州长兴县湖州群友汽车电子有限公司1幢",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ba36f64263d2b61d1nB73Nq1E1tRxIu2Vv2a",
+        "encryptId": "080fc7b1c498eaf71H1-2Nm_E1JY",
+        "encryptUserId": "6872c538a52cfa200Xx72tu5FlpQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.999854,
+        "location": 101210200,
+        "locationName": "湖州",
+        "longitude": 119.951511,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240928/48ba41acc9cef1bffd23e6a254636ff4c79113e4e50959db6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1、与项目组有效沟通，开展软件开发工作，限踪软件开发时间进度:\n2、根据客户或内部需求，按照公司开发流程，进行软件架构设计，并输出相关文档:\n3、负责 MCU 相关驱动开发,通信协议栈开发等工作,按照公司开发流程，完规模块测试.\n输出相关文档:\n4、负责天离电机控制算法的设计和实现，包括UDS和通信上层的软件实现和测试，按照\n公司开发流程,输出相关文档:\n5、按照架构设计文档，进行软件模块的集成工作,并完成软件集成测试,输出相关报告\n任职要求:\n1、本科及以上学历，计算机、电子、通信、自动化等相关专业:\n2、具备汽车电子相关的设计经验或者专业知识:\n3、熟练使用C语言，掌握建模软件:\n4、熟掌握 CAN、LIN网络通信、网络管理、网络诊断和Bootloader 的开发技能，熟悉\nUDS 协议、CAN通信以及网络管理\n5、有 NXP.Infineon等车规 MCU 开发经验;\n6、熟练使用 CANOE、PCAN等通信设备:\n7、了解 ASPICE 或CMMI 流程\n8、了解无刷电机控制算法，天离控制软件开发经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "机械设计制造相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240928/48ba41acc9cef1bf72d8c68cee20fa84040ea1b336685ca46bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BMzUVbBJGV5VP-m1WsJBcFTcQM2PmwXqJiGPPstJEmj-kIQuceakF2swrf6-2h9sud_gCfPTs8s3gONznuSXXJgYc-JvddwqgPNq-PbDqe50YjgsI1MKzg2HpY3SmzJlNqb1bkimV9T6Qlo~",
+    "selfAccess": false,
+    "sessionId": null
 }

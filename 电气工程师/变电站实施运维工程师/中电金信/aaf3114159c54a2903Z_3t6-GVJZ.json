@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RaGT4ZsGMEFVc-E1-UT8TeMIQHGDAsrQffDEQNp_DDbBed-LEcRm9EdvYAyzMmeXxm9k-_48hjwGtO9q8DGYwHGNKuKKEzlbBtWUs91byRTUNgrhalBP2hlyM8s_9CW5NtmzFqU7ENWTbf3T8tOOkGibiLDdcA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "aaf3114159c54a2903Z_3t6-GVJZ",
-      "encryptUserId": "3e1421b9623f6e2e1nV_2N-6EldW",
-      "invalidStatus": false,
-      "jobName": "变电站实施运维工程师",
-      "position": 101402,
-      "positionName": "电气工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1.负责综自系统调试及维护工作\n2.负责综自系统新设备接入。\n3.负责变电站综自系统或者风电场实施运维\n4.负责处理变电站综自系统故障\n任职要求\n1. 电气工程、电力系统、继电保护、自动化等相关专业优先\n2．具有1年左右电力行业，风电场站调试经验\n3．熟悉电力系统基本知识，如电路、电力系统、继电保护、PLC等\n4．了解变电站综自系统\n5．有南瑞、四方、许继、南自等主流厂家综自系统及综保装置调试经验优先考虑\n6．熟悉modbus、CDT、61850、104等常用通讯协议\n7．富有团队精神，具有较强的组织、沟通、协调、管理和表达能力，能够同客户及团队成员进行有效的沟通",
-      "encryptAddressId": "96d481c5d6c307ad03Z52NS0ElJTxY67Wfo~",
-      "address": "南京江宁区中电金信3F",
-      "longitude": 118.818129,
-      "latitude": 31.945006,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/833601b51d1d9a604ccd245c7110e42b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8fcdc00ec6a2292929fc06b7e3b92aa",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通讯规约"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230816/607f1f3d68754fd052853928706361ab48534bc49fe11bc619f6be80f3e0e1ad9b0f5d2bf486a44_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1741947840193,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230816/607f1f3d68754fd052853928706361ab48534bc49fe11bc619f6be80f3e0e1ad9b0f5d2bf486a44_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1741947840193,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区中电金信3F",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "96d481c5d6c307ad03Z52NS0ElJTxY67Wfo~",
+        "encryptId": "aaf3114159c54a2903Z_3t6-GVJZ",
+        "encryptUserId": "3e1421b9623f6e2e1nV_2N-6EldW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "变电站实施运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.945006,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.818129,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8fcdc00ec6a2292929fc06b7e3b92aa",
+        "position": 101402,
+        "positionName": "电气工程师",
+        "postDescription": "岗位职责\n1.负责综自系统调试及维护工作\n2.负责综自系统新设备接入。\n3.负责变电站综自系统或者风电场实施运维\n4.负责处理变电站综自系统故障\n任职要求\n1. 电气工程、电力系统、继电保护、自动化等相关专业优先\n2．具有1年左右电力行业，风电场站调试经验\n3．熟悉电力系统基本知识，如电路、电力系统、继电保护、PLC等\n4．了解变电站综自系统\n5．有南瑞、四方、许继、南自等主流厂家综自系统及综保装置调试经验优先考虑\n6．熟悉modbus、CDT、61850、104等常用通讯协议\n7．富有团队精神，具有较强的组织、沟通、协调、管理和表达能力，能够同客户及团队成员进行有效的沟通",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "通讯规约"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/833601b51d1d9a604ccd245c7110e42b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RaGT4ZsGMEFVc-E1-UT8TeMIQHGDAsrQffDEQNp_DDbBed-LEcRm9EdvYAyzMmeXxm9k-_48hjwGtO9q8DGYwHGNKuKKEzlbBtWUs91byRTUNgrhalBP2hlyM8s_9CW5NtmzFqU7ENWTbf3T8tOOkGibiLDdcA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

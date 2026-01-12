@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "n0pxVfAKkHfJH-21XHEnvYuppn8OvZD_XeDSV9W06rls45jw13E7FAWaSbBQ34BnxzKAXcu1n17Xupa7Cco7BRsfiPjK_pfrTF_uOWgO1J5z3Lfa0bnPtTqvtkr-4RvXQoO5yGhQnMWF9eAqRckL4wlf9PI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "850d623019b2ed6503V639i5EVBU",
-      "encryptUserId": "1dc6174ef162bc6303J83t-9FlE~",
-      "invalidStatus": false,
-      "jobName": "GCS地面站开发工程师（java、python）",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位职责\n1.负责 GCS 地面站系统的需求分析与设计，与相关团队紧密合作，确保系统功能满足业务需求；\n2.使用Android开发和windows/Linux QT+python进行开发工作，参与业务需求讨论，梳理需求文档，将业务需求转化为技术实现方案，设计系统架构，包括数据库设计、接口设计、模块划分等。\n3.对 GCS 地面站系统进行性能优化和维护，分析系统性能瓶颈，提出优化方案并实施。持续改进系统，提升系统的可靠性和可维护性。\n4.对开源地面站（QGC）进行二次开发。\n二、岗位要求\n1.本科及以上学历，计算机科学、软件工程或相关专业。\n2.具有 2 年以上 Java 和 Python 开发经验。\n3.熟悉常见的开发框架和工具，如 Spring、Spring Boot、Django、Flask 等。\n4.掌握数据库设计和开发，熟悉 MySQL、Oracle、PostgreSQL 等数据库。\n5.了解前端开发技术，如 HTML、CSS、JavaScript、Vue.js 等。\n6.熟悉GIS，具有QGC二次开发的工作经验。\n7.具备良好的算法和数据结构基础，有较强的问题解决能力。\n8.有无人机GCS地面站开发经验者优先。\n9.具备良好的团队合作精神和沟通能力，能够承受工作压力。",
-      "encryptAddressId": "3e8fde8d69e8d77f1Hx929i1FA~~",
-      "address": "成都武侯区茂业中心B3007",
-      "longitude": 104.06675,
-      "latitude": 30.589955,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9a1e34da398479c9c69eca2956c40e9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f3c5d9d3ed9e69e1e2315d302f5d605",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "GCS",
-        "无人机",
-        "QGC",
-        "地面站",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "综管副总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240323/607f1f3d68754fd0ad3bc2e0aec09dfc30c363218f2445ca55c46e72daa0b3edcb9f01080ea3ace_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "振芯自强电子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3fd1b3f3605c9c5133F62N-4GA~~",
-      "brandName": "振芯自强电子科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240329/7bf6f160950405e939d8c9b19c6807c16cf9118b98bdc16055c46e72daa0b3edcb9f01080ea3aced.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100905,
-      "industryName": "铁路/船舶/航空/航天制造",
-      "introduce": "成都振芯自强电子科技有限公司成立于2014年，是一家民营军工研发、生产企业。其业务涉及航天、航空、船舶等相关领域。",
-      "labels": [
-        "定期体检",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1736135431000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "振芯自强电子科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "振芯自强电子科技",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240323/607f1f3d68754fd0ad3bc2e0aec09dfc30c363218f2445ca55c46e72daa0b3edcb9f01080ea3ace_b.jpg",
+        "title": "综管副总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1736135431000,
+        "brandName": "振芯自强电子科技",
+        "customerBrandName": "振芯自强电子科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "3fd1b3f3605c9c5133F62N-4GA~~",
+        "focusBrand": false,
+        "industry": 100905,
+        "industryName": "铁路/船舶/航空/航天制造",
+        "introduce": "成都振芯自强电子科技有限公司成立于2014年，是一家民营军工研发、生产企业。其业务涉及航天、航空、船舶等相关领域。",
+        "labels": [
+            "定期体检",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240329/7bf6f160950405e939d8c9b19c6807c16cf9118b98bdc16055c46e72daa0b3edcb9f01080ea3aced.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区茂业中心B3007",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "3e8fde8d69e8d77f1Hx929i1FA~~",
+        "encryptId": "850d623019b2ed6503V639i5EVBU",
+        "encryptUserId": "1dc6174ef162bc6303J83t-9FlE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "GCS地面站开发工程师（java、python）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.589955,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.06675,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f3c5d9d3ed9e69e1e2315d302f5d605",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "一、岗位职责\n1.负责 GCS 地面站系统的需求分析与设计，与相关团队紧密合作，确保系统功能满足业务需求；\n2.使用Android开发和windows/Linux QT+python进行开发工作，参与业务需求讨论，梳理需求文档，将业务需求转化为技术实现方案，设计系统架构，包括数据库设计、接口设计、模块划分等。\n3.对 GCS 地面站系统进行性能优化和维护，分析系统性能瓶颈，提出优化方案并实施。持续改进系统，提升系统的可靠性和可维护性。\n4.对开源地面站（QGC）进行二次开发。\n二、岗位要求\n1.本科及以上学历，计算机科学、软件工程或相关专业。\n2.具有 2 年以上 Java 和 Python 开发经验。\n3.熟悉常见的开发框架和工具，如 Spring、Spring Boot、Django、Flask 等。\n4.掌握数据库设计和开发，熟悉 MySQL、Oracle、PostgreSQL 等数据库。\n5.了解前端开发技术，如 HTML、CSS、JavaScript、Vue.js 等。\n6.熟悉GIS，具有QGC二次开发的工作经验。\n7.具备良好的算法和数据结构基础，有较强的问题解决能力。\n8.有无人机GCS地面站开发经验者优先。\n9.具备良好的团队合作精神和沟通能力，能够承受工作压力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K·13薪",
+        "showSkills": [
+            "Java",
+            "GCS",
+            "无人机",
+            "QGC",
+            "地面站",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9a1e34da398479c9c69eca2956c40e9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "n0pxVfAKkHfJH-21XHEnvYuppn8OvZD_XeDSV9W06rls45jw13E7FAWaSbBQ34BnxzKAXcu1n17Xupa7Cco7BRsfiPjK_pfrTF_uOWgO1J5z3Lfa0bnPtTqvtkr-4RvXQoO5yGhQnMWF9eAqRckL4wlf9PI~",
+    "selfAccess": false,
+    "sessionId": null
 }

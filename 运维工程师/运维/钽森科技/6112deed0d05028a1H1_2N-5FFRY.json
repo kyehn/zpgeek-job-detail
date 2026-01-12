@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Yk0q-LZIsUfy7-p1HwZ7O_WGahiDHzyKT8C4iaO9YmWH506NLk2qtBdAQYDc4Wjb5iupDaNHripZDwdLoCLBPBNoPBMRsQ4oIphCK4FmAevKlfSDqQdH-ZTiYJLCKLQAqXqOQ0VpQ5RAZg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6112deed0d05028a1H1_2N-5FFRY",
-      "encryptUserId": "9f5176e4eca4d6801HB83ti6ElQ~",
-      "invalidStatus": false,
-      "jobName": "运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、生产及测试服务器环境搭建，部署，维护\n2、监控及分析环境服务性能，保障服务稳定安全可用\n3、负责数据库维护，数据备份，安全管理，日志分析，性能调优等\n4、配合开发人员测试，发现各种问题，解决问题\n5、保证线上项目的正常运行，解决线上遇到的各类问题\n专业知识与业务技能要求\n1、具有软件编程能力，熟悉php/java或其它语言\n2、能熟练解决上线系统遇到的问题；\n3、熟悉各类服务器的各种操作，各种插件的原理\n4、精通mysql数据库优化技巧，能够定位遇到的性能问题，定位慢sql,并配合开发人员调优\n5、熟悉网络相关理论，了解TCP/IP,HTTP等协议",
-      "encryptAddressId": "7b92baefc2bd5c1e1nVy0928E1RXw4W9UviY",
-      "address": "长沙芙蓉区湘域国际中心2701",
-      "longitude": 112.983359,
-      "latitude": 28.193836,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fcd58bad88fa71675aa9d3cda4e85ba8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/acd7cb71ba976d61beb832c17340a4cb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "何女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "钽森科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "68094e8bcc3207971HB93ty1E1s~",
-      "brandName": "钽森科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730378522876,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "钽森科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "钽森科技",
+        "certificated": true,
+        "large": null,
+        "name": "何女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1730378522876,
+        "brandName": "钽森科技",
+        "customerBrandName": "钽森科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "68094e8bcc3207971HB93ty1E1s~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙芙蓉区湘域国际中心2701",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7b92baefc2bd5c1e1nVy0928E1RXw4W9UviY",
+        "encryptId": "6112deed0d05028a1H1_2N-5FFRY",
+        "encryptUserId": "9f5176e4eca4d6801HB83ti6ElQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.193836,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.983359,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/acd7cb71ba976d61beb832c17340a4cb",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责\n1、生产及测试服务器环境搭建，部署，维护\n2、监控及分析环境服务性能，保障服务稳定安全可用\n3、负责数据库维护，数据备份，安全管理，日志分析，性能调优等\n4、配合开发人员测试，发现各种问题，解决问题\n5、保证线上项目的正常运行，解决线上遇到的各类问题\n专业知识与业务技能要求\n1、具有软件编程能力，熟悉php/java或其它语言\n2、能熟练解决上线系统遇到的问题；\n3、熟悉各类服务器的各种操作，各种插件的原理\n4、精通mysql数据库优化技巧，能够定位遇到的性能问题，定位慢sql,并配合开发人员调优\n5、熟悉网络相关理论，了解TCP/IP,HTTP等协议",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "网络运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fcd58bad88fa71675aa9d3cda4e85ba8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Yk0q-LZIsUfy7-p1HwZ7O_WGahiDHzyKT8C4iaO9YmWH506NLk2qtBdAQYDc4Wjb5iupDaNHripZDwdLoCLBPBNoPBMRsQ4oIphCK4FmAevKlfSDqQdH-ZTiYJLCKLQAqXqOQ0VpQ5RAZg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

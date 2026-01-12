@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "R1NBXNUTBSSd5-L1cAt_VoEqoFxDxXRIbuu_YlHy2KHN5kCzS2-3lK19yaDYmt18GYMmxoi27nVmgXhV6zIz_-OV_z669AsJU21HRAwSQm6xd-m0O_J8CQtGPxsuhLV5yPevGCowPpd5NA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "077db6d3f8a8141e03R42ti1EVdR",
-      "encryptUserId": "4f12047bbb0596141HZ609u4ElQ~",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、根据产品类型来制订测试计划，要求测试方案详细、全面；\n2、按产品的测试要求搭建环境，并对测试环境进行维护；\n3、按规定进行测试工作，负责编写测试用脚本，方便对测试过程进行完整记录，并提交测试记录；\n4、对于测试中已出现或潜在的问题进行分析讨论，及时向开发部门反馈，并讨论解决方案；\n5、测试过程中，对于测试产品提出有关改进要求，改进要求需要合理；\n6、为有关部门提供技术支持，确保软件质量达到要求。\n7、完成各种文档编写，数据录入，产品巡检，数据核对数据等工作。\n\n任职资格：（包括学历、专业、经验和技能等）\n学历与专业：\n1、本科及以上学历，计算机科学、软件工程或相关专业。\n经验要求：\n1、1~3年软件测试工作经验，具备完整的软件开发生命周期经验。\n技能与能力：\n1、熟悉常见的软件测试方法和技术，包括功能测试、性能测试、安全测试等。\n2、能够独立制定测试计划和测试策略，编写测试用例和执行测试任务。\n3、具备良好的问题分析和解决能力，能够有效地管理和跟踪缺陷。\n4、熟悉至少一种自动化测试工具，能够开发和维护自动化测试脚本。\n7、出色的团队合作精神和沟通能力，能够与开发团队和产品团队密切配合。\n6、具备良好的文档编写能力，能够撰写清晰、详细的测试文档和报告。\n加分项：\n1、具备云计算、大数据或数字农业等相关领域的测试经验。\n2、获得软件测试相关的认证（如ISTQB认证）。\n个人特质：\n1、对技术充满热情，具备快速学习和适应新技术的能力。\n2、良好的时间管理和组织能力，能够在压力下有效地工作和交付。",
-      "encryptAddressId": "70d14bb454a5a72c1nd92ty-ElBWxIm3VPyb",
-      "address": "成都武侯区茂业中心C座2810",
-      "longitude": 104.066587,
-      "latitude": 30.58936,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe48a104939b99fbb3abb506fb831dea",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6669f38dfd1cab6f46f1a33c1e763ac",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220429/607f1f3d68754fd0a6e1516437eadd976fd797a7e1619c164a687c3ddaf94328bf7340f34ca_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "吉米数字",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "73d0e1a011ccad511XZ-3ty4E1Y~",
-      "brandName": "吉米数字",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "成都吉米数字农业发展有限公司成立于2021年，是一家从事智能农业及农田管理。",
-      "labels": [
-        "零食下午茶",
-        "餐补",
-        "五险一金"
-      ],
-      "activeTime": 1732617714506,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "吉米数字",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "吉米数字",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220429/607f1f3d68754fd0a6e1516437eadd976fd797a7e1619c164a687c3ddaf94328bf7340f34ca_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1732617714506,
+        "brandName": "吉米数字",
+        "customerBrandName": "吉米数字",
+        "customerBrandStageName": "",
+        "encryptBrandId": "73d0e1a011ccad511XZ-3ty4E1Y~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "成都吉米数字农业发展有限公司成立于2021年，是一家从事智能农业及农田管理。",
+        "labels": [
+            "零食下午茶",
+            "餐补",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区茂业中心C座2810",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "70d14bb454a5a72c1nd92ty-ElBWxIm3VPyb",
+        "encryptId": "077db6d3f8a8141e03R42ti1EVdR",
+        "encryptUserId": "4f12047bbb0596141HZ609u4ElQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.58936,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.066587,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6669f38dfd1cab6f46f1a33c1e763ac",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、根据产品类型来制订测试计划，要求测试方案详细、全面；\n2、按产品的测试要求搭建环境，并对测试环境进行维护；\n3、按规定进行测试工作，负责编写测试用脚本，方便对测试过程进行完整记录，并提交测试记录；\n4、对于测试中已出现或潜在的问题进行分析讨论，及时向开发部门反馈，并讨论解决方案；\n5、测试过程中，对于测试产品提出有关改进要求，改进要求需要合理；\n6、为有关部门提供技术支持，确保软件质量达到要求。\n7、完成各种文档编写，数据录入，产品巡检，数据核对数据等工作。\n\n任职资格：（包括学历、专业、经验和技能等）\n学历与专业：\n1、本科及以上学历，计算机科学、软件工程或相关专业。\n经验要求：\n1、1~3年软件测试工作经验，具备完整的软件开发生命周期经验。\n技能与能力：\n1、熟悉常见的软件测试方法和技术，包括功能测试、性能测试、安全测试等。\n2、能够独立制定测试计划和测试策略，编写测试用例和执行测试任务。\n3、具备良好的问题分析和解决能力，能够有效地管理和跟踪缺陷。\n4、熟悉至少一种自动化测试工具，能够开发和维护自动化测试脚本。\n7、出色的团队合作精神和沟通能力，能够与开发团队和产品团队密切配合。\n6、具备良好的文档编写能力，能够撰写清晰、详细的测试文档和报告。\n加分项：\n1、具备云计算、大数据或数字农业等相关领域的测试经验。\n2、获得软件测试相关的认证（如ISTQB认证）。\n个人特质：\n1、对技术充满热情，具备快速学习和适应新技术的能力。\n2、良好的时间管理和组织能力，能够在压力下有效地工作和交付。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "自动化测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe48a104939b99fbb3abb506fb831dea"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "R1NBXNUTBSSd5-L1cAt_VoEqoFxDxXRIbuu_YlHy2KHN5kCzS2-3lK19yaDYmt18GYMmxoi27nVmgXhV6zIz_-OV_z669AsJU21HRAwSQm6xd-m0O_J8CQtGPxsuhLV5yPevGCowPpd5NA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

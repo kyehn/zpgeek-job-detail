@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "hEvbTkhQ08OXe-D1ESxDGzOF0kr4fZIVx3nfAlbrobfR6cxhITR4bIUya1ts_MooI4aHOKxZDJKBKarwoXPWz9br9N4z12_U-M0YlIYwrQNO6-VA9Gn8",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fa21ba69687d52dd1H193t6-GVJQ",
-      "encryptUserId": "3be4fbff998a23670nR-3Nu_FlJR",
-      "invalidStatus": false,
-      "jobName": "管培生",
-      "position": 130118,
-      "positionName": "运营助理/专员",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "实习生/管培生主要 市场、运营、人力资源等岗位进行轮岗，职业规划为市场营销，市场运营，人力资源 \n\n任职要求：\n1.本科以上全日制学历，年龄20-23岁；\n2. 应届毕业生或半年以上实习工作经验，市场营销、工商管理、电商运营，自媒体，互联网等专业优先；\n3.在校期间获得奖学金，或担任学校主席/干部者优先，英语优先\n4.熟练使用办公软件，如Word、Excel，PPT等，能够进行基本的数据录入和处理\n5.阳光，活泼，表达能力和执行能力强",
-      "encryptAddressId": "823d9cfb1b1dd57d1nd93t29FlRWyoq3VfKe",
-      "address": "苏州吴江区敏华聚珑商务中心2幢211",
-      "longitude": 120.662047,
-      "latitude": 31.149261,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230825/48ba41acc9cef1bff44b91109c5f23daca5082d8d6d1750d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230825/48ba41acc9cef1bf545ce61b68a2c0bd2f8cd9d4559836d16bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "市场",
-        "运营"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HR Manager",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230509/607f1f3d68754fd040861ab5f8fe5a455aa578d22427ebf6fc468558b20c457d6fd06bc990b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "苏州悦颜馨中医诊所",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ce0d66177e8eae191HN_09-9EFQ~",
-      "brandName": "苏州悦颜馨中医诊所",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241012/7b5b554d84f9729c50998c58d6d0c890f6fef86cc70e84eefc468558b20c457d6fd06bc990bcd15a.jpg.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100404,
-      "industryName": "医美服务",
-      "introduce": "融合传统中医与现代技术\n致力于提供全方位的健康与美容服务\n我们关注每一位客户的内外双重需求\n通过专业的服务和个性化的疗程设计\n帮助每位客户实现健康与美丽的全面提升",
-      "labels": [
-        "五险",
-        "包住",
-        "零食下午茶",
-        "包吃"
-      ],
-      "activeTime": 1731753480295,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州悦颜馨中医诊所",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州悦颜馨中医诊所",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230509/607f1f3d68754fd040861ab5f8fe5a455aa578d22427ebf6fc468558b20c457d6fd06bc990b_b.jpg",
+        "title": "HR Manager"
+    },
+    "brandComInfo": {
+        "activeTime": 1731753480295,
+        "brandName": "苏州悦颜馨中医诊所",
+        "customerBrandName": "苏州悦颜馨中医诊所",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "ce0d66177e8eae191HN_09-9EFQ~",
+        "focusBrand": false,
+        "industry": 100404,
+        "industryName": "医美服务",
+        "introduce": "融合传统中医与现代技术\n致力于提供全方位的健康与美容服务\n我们关注每一位客户的内外双重需求\n通过专业的服务和个性化的疗程设计\n帮助每位客户实现健康与美丽的全面提升",
+        "labels": [
+            "五险",
+            "包住",
+            "零食下午茶",
+            "包吃"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241012/7b5b554d84f9729c50998c58d6d0c890f6fef86cc70e84eefc468558b20c457d6fd06bc990bcd15a.jpg.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴江区敏华聚珑商务中心2幢211",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "823d9cfb1b1dd57d1nd93t29FlRWyoq3VfKe",
+        "encryptId": "fa21ba69687d52dd1H193t6-GVJQ",
+        "encryptUserId": "3be4fbff998a23670nR-3Nu_FlJR",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "管培生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.149261,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.662047,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230825/48ba41acc9cef1bf545ce61b68a2c0bd2f8cd9d4559836d16bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 130118,
+        "positionName": "运营助理/专员",
+        "postDescription": "实习生/管培生主要 市场、运营、人力资源等岗位进行轮岗，职业规划为市场营销，市场运营，人力资源 \n\n任职要求：\n1.本科以上全日制学历，年龄20-23岁；\n2. 应届毕业生或半年以上实习工作经验，市场营销、工商管理、电商运营，自媒体，互联网等专业优先；\n3.在校期间获得奖学金，或担任学校主席/干部者优先，英语优先\n4.熟练使用办公软件，如Word、Excel，PPT等，能够进行基本的数据录入和处理\n5.阳光，活泼，表达能力和执行能力强",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "市场",
+            "运营"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230825/48ba41acc9cef1bff44b91109c5f23daca5082d8d6d1750d6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "hEvbTkhQ08OXe-D1ESxDGzOF0kr4fZIVx3nfAlbrobfR6cxhITR4bIUya1ts_MooI4aHOKxZDJKBKarwoXPWz9br9N4z12_U-M0YlIYwrQNO6-VA9Gn8",
+    "selfAccess": false,
+    "sessionId": null
 }

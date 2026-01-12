@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4xBwr9T2gUY9m-31f_NTmdbnnepGwg-Q6vsJFF1EhQzoiCRly21Ji7AU7d2XV42pr1Q0Ci5kV1C78M8jWPwNIf8Iqudefc3JLSboSECil3niwxNyxLIe",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3a0f56cd0c6190e71HRy09W0GFRV",
-      "encryptUserId": "f3558728b1460f810nZ70tu0F1tX",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190900,
-      "locationName": "淮安",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "小程序和App开发搭建维护",
-      "encryptAddressId": "816399ba12de3adb3nx62Ni6FVc~",
-      "address": "淮安清江浦区金融中心B4",
-      "longitude": 119.054277,
-      "latitude": 33.6009,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77a40d352a3d4a2d3f55726a0e70fca9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ea56af338995849a0dbdb74c03c4bb06",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "全栈工程师",
-        "架构师",
-        "Java",
-        "C/C++",
-        "Java开发经验",
-        "中大型项目架构设计经验",
-        "大数据处理经验",
-        "不接受居家办公"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210312/b3f30139d27f4ecc5cd84e546aa357ddeb4d4fccb7e462b247bf6782fd3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "江苏租小蚁信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9b3ed6839a2f217e1Xx509i6E1E~",
-      "brandName": "江苏租小蚁信息科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "高温补贴",
-        "通讯补贴",
-        "节假日加班费",
-        "底薪加提成",
-        "绩效奖金"
-      ],
-      "activeTime": 1721461917802,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江苏租小蚁信息科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江苏租小蚁信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210312/b3f30139d27f4ecc5cd84e546aa357ddeb4d4fccb7e462b247bf6782fd3_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1721461917802,
+        "brandName": "江苏租小蚁信息科技",
+        "customerBrandName": "江苏租小蚁信息科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9b3ed6839a2f217e1Xx509i6E1E~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "高温补贴",
+            "通讯补贴",
+            "节假日加班费",
+            "底薪加提成",
+            "绩效奖金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "淮安清江浦区金融中心B4",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "816399ba12de3adb3nx62Ni6FVc~",
+        "encryptId": "3a0f56cd0c6190e71HRy09W0GFRV",
+        "encryptUserId": "f3558728b1460f810nZ70tu0F1tX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 33.6009,
+        "location": 101190900,
+        "locationName": "淮安",
+        "longitude": 119.054277,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ea56af338995849a0dbdb74c03c4bb06",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "小程序和App开发搭建维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "后端工程师",
+            "全栈工程师",
+            "架构师",
+            "Java",
+            "C/C++",
+            "Java开发经验",
+            "中大型项目架构设计经验",
+            "大数据处理经验",
+            "不接受居家办公"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77a40d352a3d4a2d3f55726a0e70fca9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4xBwr9T2gUY9m-31f_NTmdbnnepGwg-Q6vsJFF1EhQzoiCRly21Ji7AU7d2XV42pr1Q0Ci5kV1C78M8jWPwNIf8Iqudefc3JLSboSECil3niwxNyxLIe",
+    "selfAccess": false,
+    "sessionId": null
 }

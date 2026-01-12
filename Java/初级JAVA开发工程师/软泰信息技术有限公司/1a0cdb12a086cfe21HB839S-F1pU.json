@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "U5s7GxMs3V5dz-E1TMtQ7oaDBg2hWAResHy8K1POKO7HG4JLzcY2ZOsn5d8XUGbDG4xaT4dEUl-zxvT0jmUzr_bWAltRdHRfu2SqwARKpIWkr2hpBp6k9-w_jLWxfvqih2YvZkTBOEQwyg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1a0cdb12a086cfe21HB839S-F1pU",
-      "encryptUserId": "2c003f5d9a9140453nB53N60E1M~",
-      "invalidStatus": false,
-      "jobName": "初级java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101250300,
-      "locationName": "株洲",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、企业级管理系统开发。\n岗位职责：负责功能模块的代码实现，优化设计，测试及bug修改。能够适应出差。\n任职要求：计算机信息与技术或者相关软件专业。全日制本科及以上学历。\n岗位福利：五险一金，午餐补助，车贴补助\n岗位经验：java基础知识扎实，熟悉前后台开发流程与规范，熟悉jee体系架构，熟悉主流的开源框架架构，熟悉常用的数据库技术。",
-      "encryptAddressId": "6428ebcd8765b9fe1Xx42Ni5EVE~",
-      "address": "株洲天元区尚格名城花好悦园4期",
-      "longitude": 113.118018,
-      "latitude": 27.84008,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/099b2d440ba6c13d04fb2527bb9b1f73",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/80c98f9376dc787191135e8800c5fcfe",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "SpringCloud",
-        "MyBatis",
-        "Redis",
-        "Oracle",
-        "SQL Server"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200218/c005b62b6e27758864e78810c92f71d8219bc7b0836f29846d5a7d4ecc2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "软泰信息技术有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6f7f9e8d8c01ec861n1y2t29GVQ~",
-      "brandName": "软泰信息技术有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723627864000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "软泰信息技术有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "软泰信息技术有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200218/c005b62b6e27758864e78810c92f71d8219bc7b0836f29846d5a7d4ecc2_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1723627864000,
+        "brandName": "软泰信息技术有限公司",
+        "customerBrandName": "软泰信息技术有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6f7f9e8d8c01ec861n1y2t29GVQ~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "株洲天元区尚格名城花好悦园4期",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6428ebcd8765b9fe1Xx42Ni5EVE~",
+        "encryptId": "1a0cdb12a086cfe21HB839S-F1pU",
+        "encryptUserId": "2c003f5d9a9140453nB53N60E1M~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 27.84008,
+        "location": 101250300,
+        "locationName": "株洲",
+        "longitude": 113.118018,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/80c98f9376dc787191135e8800c5fcfe",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、企业级管理系统开发。\n岗位职责：负责功能模块的代码实现，优化设计，测试及bug修改。能够适应出差。\n任职要求：计算机信息与技术或者相关软件专业。全日制本科及以上学历。\n岗位福利：五险一金，午餐补助，车贴补助\n岗位经验：java基础知识扎实，熟悉前后台开发流程与规范，熟悉jee体系架构，熟悉主流的开源框架架构，熟悉常用的数据库技术。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-7K",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "SpringCloud",
+            "MyBatis",
+            "Redis",
+            "Oracle",
+            "SQL Server"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/099b2d440ba6c13d04fb2527bb9b1f73"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "U5s7GxMs3V5dz-E1TMtQ7oaDBg2hWAResHy8K1POKO7HG4JLzcY2ZOsn5d8XUGbDG4xaT4dEUl-zxvT0jmUzr_bWAltRdHRfu2SqwARKpIWkr2hpBp6k9-w_jLWxfvqih2YvZkTBOEQwyg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

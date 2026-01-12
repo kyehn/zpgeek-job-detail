@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rwDtSHVVplQUE-z1_Oy8xApQdQWjd5fTET3EXeDBtAgtsrtD2EZeBYPlR3h07Z3a-j_0jj095r3ksjYXgOym8wuRKA8SYoIRl6wFbYN5bmoSpg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d55b37b444852ddb1XF_2d25GFY~",
-      "encryptUserId": "f02f1c870b6722be03Z5292_Eg~~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100305,
-      "positionName": "测试开发",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司产品的软件测试工作，同时需具备脚本开发能力，可以独立完成模块化测试脚本和测试工具的编写，如从事过Tcl、shell、python等语言开发自动测试脚本或工具，则更优了。",
-      "encryptAddressId": "d9c5953bf7a64b1a3nd-29W9Fw~~",
-      "address": "北京海淀区上地国际创业园西区1号楼",
-      "longitude": 116.30402,
-      "latitude": 40.046098,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35e1fac3a6e05b3e46bf6f8e8ff75877",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88e20b35b73c0f93eda1a66631b665ec",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "测试开发",
-        "web测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "秦先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "北京纬信无线",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b84a50adb7f130071Xx63tW6",
-      "brandName": "北京纬信无线",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170214/70a6eb95a68f1184d2e27fd2c347453bbf0de72dadf2ab8842c9d94a9bd21809.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725381643317,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京纬信无线",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京纬信无线",
+        "certificated": true,
+        "large": null,
+        "name": "秦先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725381643317,
+        "brandName": "北京纬信无线",
+        "customerBrandName": "北京纬信无线",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "b84a50adb7f130071Xx63tW6",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170214/70a6eb95a68f1184d2e27fd2c347453bbf0de72dadf2ab8842c9d94a9bd21809.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区上地国际创业园西区1号楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "d9c5953bf7a64b1a3nd-29W9Fw~~",
+        "encryptId": "d55b37b444852ddb1XF_2d25GFY~",
+        "encryptUserId": "f02f1c870b6722be03Z5292_Eg~~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.046098,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.30402,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88e20b35b73c0f93eda1a66631b665ec",
+        "position": 100305,
+        "positionName": "测试开发",
+        "postDescription": "负责公司产品的软件测试工作，同时需具备脚本开发能力，可以独立完成模块化测试脚本和测试工具的编写，如从事过Tcl、shell、python等语言开发自动测试脚本或工具，则更优了。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "软件测试",
+            "测试开发",
+            "web测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35e1fac3a6e05b3e46bf6f8e8ff75877"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rwDtSHVVplQUE-z1_Oy8xApQdQWjd5fTET3EXeDBtAgtsrtD2EZeBYPlR3h07Z3a-j_0jj095r3ksjYXgOym8wuRKA8SYoIRl6wFbYN5bmoSpg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

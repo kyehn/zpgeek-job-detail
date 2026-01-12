@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eR_0HAPXtOc6n-P1ODEOH4QvoKLOC1wxCjWNaA-HtmdfPV5TUu3xzcr2uetAwlb7gthchRBmY64HknuUoE3AJGKultLRNXFs-e9yv6Ej1EUdDQyew8asRol0FcDN3WRclsNpsF6keP8Wqyc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "77160beacd3b797c1HFz2Nq9FlZZ",
-      "encryptUserId": "3d0311eff423883e0nV93NW1GVRR",
-      "invalidStatus": false,
-      "jobName": "计算机网络工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "招聘计算机网络工程师的岗位要求： 1. 学历背景：本科及以上学历，计算机科学、信息技术或相关专业。 2. 工作经验：具有一定的计算机网络工程或弱电系统集成项目实施相关工作经验。\n3. 专业技能：熟悉计算机软硬件并会熟练安装计算机软硬件、办公打印设备安装调试、机房网络相关设备（如路由器、交换机、服务器、存储、防火墙、上网行为管理等）的安装、配置和实施，了解网络架构和协议。了解服务器、存储虚拟化的应用。能现场判断和解决网络故障问题。能独立完成网络架构设计方案和项目现场考察并制定合理可行的实施计划。为用户提供最优化的解决方案和技术参数配置清单。\n4. 个人素质：具有较强的责任心、事业心和执行力，具有综合解决问题能力。 5.沟通能力：善于表达，需要给用户现场讲解实施方案、具备良好的沟通能力和处理问题协调能力。\n6. 学习能力：具备较强的学习能力，面对新产品新应用场景能积极主动学习，不局限于网络相关产品，包括机器人、无人机类教育、医疗行业相关新产品的学习和应用。\n7. 其他要求：有相关证书及项目实施经验者优先考虑。年龄35周岁以下。",
-      "encryptAddressId": "f308510609981d2533N53Ni0GFFSwYW2UvM~",
-      "address": "南京玄武区谷阳世纪大厦20楼",
-      "longitude": 118.801452,
-      "latitude": 32.047068,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230415/48ba41acc9cef1bf58a0f24fd38c3cfa0ada7ff90ec9a1746bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfdface88a261a40b8ad09757b78552d766bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业",
-        "网络建设/系统集成经验",
-        "网络运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230123/607f1f3d68754fd02a10cf16fd4b7934dc9f34d9e2bda90ce8e8c0a05c7f27cde322d6f68f1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "舜达亚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "eb4095799dda885b1nB73NS_F1o~",
-      "brandName": "舜达亚",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728798518000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "舜达亚",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "舜达亚",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230123/607f1f3d68754fd02a10cf16fd4b7934dc9f34d9e2bda90ce8e8c0a05c7f27cde322d6f68f1_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1728798518000,
+        "brandName": "舜达亚",
+        "customerBrandName": "舜达亚",
+        "customerBrandStageName": "",
+        "encryptBrandId": "eb4095799dda885b1nB73NS_F1o~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京玄武区谷阳世纪大厦20楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f308510609981d2533N53Ni0GFFSwYW2UvM~",
+        "encryptId": "77160beacd3b797c1HFz2Nq9FlZZ",
+        "encryptUserId": "3d0311eff423883e0nV93NW1GVRR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "计算机网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.047068,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.801452,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfdface88a261a40b8ad09757b78552d766bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "招聘计算机网络工程师的岗位要求： 1. 学历背景：本科及以上学历，计算机科学、信息技术或相关专业。 2. 工作经验：具有一定的计算机网络工程或弱电系统集成项目实施相关工作经验。\n3. 专业技能：熟悉计算机软硬件并会熟练安装计算机软硬件、办公打印设备安装调试、机房网络相关设备（如路由器、交换机、服务器、存储、防火墙、上网行为管理等）的安装、配置和实施，了解网络架构和协议。了解服务器、存储虚拟化的应用。能现场判断和解决网络故障问题。能独立完成网络架构设计方案和项目现场考察并制定合理可行的实施计划。为用户提供最优化的解决方案和技术参数配置清单。\n4. 个人素质：具有较强的责任心、事业心和执行力，具有综合解决问题能力。 5.沟通能力：善于表达，需要给用户现场讲解实施方案、具备良好的沟通能力和处理问题协调能力。\n6. 学习能力：具备较强的学习能力，面对新产品新应用场景能积极主动学习，不局限于网络相关产品，包括机器人、无人机类教育、医疗行业相关新产品的学习和应用。\n7. 其他要求：有相关证书及项目实施经验者优先考虑。年龄35周岁以下。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "计算机相关专业",
+            "网络建设/系统集成经验",
+            "网络运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230415/48ba41acc9cef1bf58a0f24fd38c3cfa0ada7ff90ec9a1746bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eR_0HAPXtOc6n-P1ODEOH4QvoKLOC1wxCjWNaA-HtmdfPV5TUu3xzcr2uetAwlb7gthchRBmY64HknuUoE3AJGKultLRNXFs-e9yv6Ej1EUdDQyew8asRol0FcDN3WRclsNpsF6keP8Wqyc~",
+    "selfAccess": false,
+    "sessionId": null
 }

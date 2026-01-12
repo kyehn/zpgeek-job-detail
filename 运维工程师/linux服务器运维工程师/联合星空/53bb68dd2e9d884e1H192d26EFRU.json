@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9eS24GQq_83DS-d1glLXlnvnVVw4EZe2lZk5JJeIIMkUyIIkCalIeNxL8frFvG6f0_fv3tLrPtCERgrcT5CrP5iIY_rmb0C2kvEgwqE5Z92-MQkwuG0Eg5vvSeznzqTHJWaqwhmuoFqzJQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "53bb68dd2e9d884e1H192d26EFRU",
-      "encryptUserId": "a7c81efe6f59d0720n1629W-FFZR",
-      "invalidStatus": false,
-      "jobName": "linux服务器运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "【工作职责】\n1、服务器部署：负责Linux服务器日常运维，包括安装部署、日常巡检、故障排查、系统优化等；\n2、系统维护：负责Linux服务器容量规划、资源利用率运营、服务器性能指标维护工作；\n3、性能监控：使用监控工具对服务器性能进行实时监控，确保系统性能达到最优。\n4、故障响应：快速响应服务器故障，进行有效的故障诊断和恢复工作。\n5、数据管理：负责服务器数据的备份、恢复和归档工作，确保数据安全。\n6、安全管理：执行服务器安全策略，监控和防止未授权访问。\n7、配置管理：维护服务器配置信息，确保配置的一致性和可追踪性。\n8、文档编写：编写和更新服务器运维文档，包括操作手册、配置指南和故障处理流程。\n9、技术支持：为内部用户提供技术支持和咨询，帮助解决技术问题。\n\n【薪资及待遇】\n8000-10000元，五险一金\n提供三餐\n\n【任职要求】\n1、教育背景：计算机科学、信息技术或相关领域的本科及以上学历。\n2、专业经验：至少3年的服务器运维或相关领域的工作经验。\n3、技术知识：熟悉Linux/Unix操作系统和常用服务（如Web服务器、数据库、缓存服务等）。\n4、技能要求：具备脚本编程能力，熟练使用Shell、Python等脚本语言。\n5、系统管理：熟悉系统管理工具和实践，如Ansible、Puppet、Chef等自动化工具。\n6、网络知识：了解TCP/IP网络协议，能够进行基本的网络故障诊断。\n7、安全意识：对服务器安全和网络安全有深刻理解，熟悉常见的安全防护措施。\n8、问题解决：具备出色的问题解决能力，能够迅速准确地定位问题并提供解决方案。",
-      "encryptAddressId": "56e763b21749fce133F42Nm5ElU~",
-      "address": "深圳南山区中油大厦(南山大道)24层",
-      "longitude": 113.922906,
-      "latitude": 22.519436,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93d2ca6116217a8153aec8543c2a85db",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d000d899a89568b9888836e75a7f33c9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Nginx",
-        "MySQL/Oracle",
-        "Docker",
-        "系统运维",
-        "Redis",
-        "Python/Shell",
-        "计算机相关专业",
-        "运维经验",
-        "IDC机房运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "联合星空",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "af6b162fdec35e651HR42Ni0Ew~~",
-      "brandName": "联合星空",
-      "logo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "本公司主要为国企、上市公司提供IT服务。",
-      "labels": [
-        "五险一金",
-        "绩效奖金",
-        "包吃",
-        "提供三餐"
-      ],
-      "activeTime": 1731600506032,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "联合星空",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "联合星空",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1731600506032,
+        "brandName": "联合星空",
+        "customerBrandName": "联合星空",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "af6b162fdec35e651HR42Ni0Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "本公司主要为国企、上市公司提供IT服务。",
+        "labels": [
+            "五险一金",
+            "绩效奖金",
+            "包吃",
+            "提供三餐"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区中油大厦(南山大道)24层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "56e763b21749fce133F42Nm5ElU~",
+        "encryptId": "53bb68dd2e9d884e1H192d26EFRU",
+        "encryptUserId": "a7c81efe6f59d0720n1629W-FFZR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "linux服务器运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.519436,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.922906,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d000d899a89568b9888836e75a7f33c9",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "【工作职责】\n1、服务器部署：负责Linux服务器日常运维，包括安装部署、日常巡检、故障排查、系统优化等；\n2、系统维护：负责Linux服务器容量规划、资源利用率运营、服务器性能指标维护工作；\n3、性能监控：使用监控工具对服务器性能进行实时监控，确保系统性能达到最优。\n4、故障响应：快速响应服务器故障，进行有效的故障诊断和恢复工作。\n5、数据管理：负责服务器数据的备份、恢复和归档工作，确保数据安全。\n6、安全管理：执行服务器安全策略，监控和防止未授权访问。\n7、配置管理：维护服务器配置信息，确保配置的一致性和可追踪性。\n8、文档编写：编写和更新服务器运维文档，包括操作手册、配置指南和故障处理流程。\n9、技术支持：为内部用户提供技术支持和咨询，帮助解决技术问题。\n\n【薪资及待遇】\n8000-10000元，五险一金\n提供三餐\n\n【任职要求】\n1、教育背景：计算机科学、信息技术或相关领域的本科及以上学历。\n2、专业经验：至少3年的服务器运维或相关领域的工作经验。\n3、技术知识：熟悉Linux/Unix操作系统和常用服务（如Web服务器、数据库、缓存服务等）。\n4、技能要求：具备脚本编程能力，熟练使用Shell、Python等脚本语言。\n5、系统管理：熟悉系统管理工具和实践，如Ansible、Puppet、Chef等自动化工具。\n6、网络知识：了解TCP/IP网络协议，能够进行基本的网络故障诊断。\n7、安全意识：对服务器安全和网络安全有深刻理解，熟悉常见的安全防护措施。\n8、问题解决：具备出色的问题解决能力，能够迅速准确地定位问题并提供解决方案。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "Nginx",
+            "MySQL/Oracle",
+            "Docker",
+            "系统运维",
+            "Redis",
+            "Python/Shell",
+            "计算机相关专业",
+            "运维经验",
+            "IDC机房运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93d2ca6116217a8153aec8543c2a85db"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9eS24GQq_83DS-d1glLXlnvnVVw4EZe2lZk5JJeIIMkUyIIkCalIeNxL8frFvG6f0_fv3tLrPtCERgrcT5CrP5iIY_rmb0C2kvEgwqE5Z92-MQkwuG0Eg5vvSeznzqTHJWaqwhmuoFqzJQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

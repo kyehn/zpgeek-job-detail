@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7RZ4kL4maiNIg-71piCizWG7HIVJ44DqQL6YTOFPjyhI2zO4drXH7GBGRNJxG3uuZJQ1W1nGT-UoL1rCZ62PqpFvUPVJXepeiVCi7RjM7zDSzy_I",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6ae2d22b18b1feac1Hx-0tS-EVs~",
-      "encryptUserId": "a7b459f9ac5002d00n152Ni5FFo~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "配合公司前端、UI，完成后端WEB平台开发",
-      "encryptAddressId": "3ffc075c2a6212e533x53tW8Fw~~",
-      "address": "上海奉贤区上海翼枭航空科技有限公司江海601-602",
-      "longitude": 121.447233,
-      "latitude": 30.892927,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/199bf9936b16b35d22b12ca6f80214b8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d60b7925cc6d3d219c77db63df2d3016",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端开发",
-        "Java",
-        "前端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "钱先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200507/ca00523135d871d061c67412158e9a5bd81616e1d2544ed82404b5f58fc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "翼枭科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "248d157583739fbb1ndz3Nq6Eg~~",
-      "brandName": "翼枭科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190819/4d7b0ede6504506d05a0d618f6bf23dc19e257dcf7a2030157216be8a0d0cbc9.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "翼枭科技主营两块业务：无人机培训、行业应用及智能化弱电项目",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "包吃",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1725375739199,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "翼枭科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "翼枭科技",
+        "certificated": true,
+        "large": null,
+        "name": "钱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200507/ca00523135d871d061c67412158e9a5bd81616e1d2544ed82404b5f58fc_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725375739199,
+        "brandName": "翼枭科技",
+        "customerBrandName": "翼枭科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "248d157583739fbb1ndz3Nq6Eg~~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "翼枭科技主营两块业务：无人机培训、行业应用及智能化弱电项目",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "包吃",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190819/4d7b0ede6504506d05a0d618f6bf23dc19e257dcf7a2030157216be8a0d0cbc9.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海奉贤区上海翼枭航空科技有限公司江海601-602",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3ffc075c2a6212e533x53tW8Fw~~",
+        "encryptId": "6ae2d22b18b1feac1Hx-0tS-EVs~",
+        "encryptUserId": "a7b459f9ac5002d00n152Ni5FFo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.892927,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.447233,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d60b7925cc6d3d219c77db63df2d3016",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "配合公司前端、UI，完成后端WEB平台开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "后端开发",
+            "Java",
+            "前端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/199bf9936b16b35d22b12ca6f80214b8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7RZ4kL4maiNIg-71piCizWG7HIVJ44DqQL6YTOFPjyhI2zO4drXH7GBGRNJxG3uuZJQ1W1nGT-UoL1rCZ62PqpFvUPVJXepeiVCi7RjM7zDSzy_I",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HEr0ndbJXe-rS-Q1xjAwMWwrZ3CaVQD6PPTbQr2zSiJrGJyXDRAySbotIvx6EyvcdShF2PoDPXwblqqKvhjaRZEAQZl8jV7qfTbh-XiMrcgiYB9GuYd5Eheq50rt5SsraRDn3maAMWT_4FQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a3a96d986dc309711HZ50tS_FFtS",
-      "encryptUserId": "3bb3e95a6a0848de0XVy3dq8EVtS",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "小程序 app测试  可以接受兼职",
-      "encryptAddressId": "82659bf0049ab37f1nZ63di4GVNY",
-      "address": "成都武侯区长虹科技大厦B座704",
-      "longitude": 104.06335,
-      "latitude": 30.540802,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf3acc2252c52a4679daf6c4abd1af8d826bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bfce63a21c639a08cf3151ab7fe61cc5b96bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "性能测试",
-        "压力测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "熊先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230911/607f1f3d68754fd0ffb2762147c6d45f22055f258e146dff2d5e62ce8884875630ad50da3f1770a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "成都智融星辰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "43afb4be32e9fbe21HR42d29ElY~",
-      "brandName": "成都智融星辰科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100103,
-      "industryName": "广播/影视",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727924278157,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "成都智融星辰科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "成都智融星辰科技",
+        "certificated": true,
+        "large": null,
+        "name": "熊先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230911/607f1f3d68754fd0ffb2762147c6d45f22055f258e146dff2d5e62ce8884875630ad50da3f1770a_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727924278157,
+        "brandName": "成都智融星辰科技",
+        "customerBrandName": "成都智融星辰科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "43afb4be32e9fbe21HR42d29ElY~",
+        "focusBrand": false,
+        "industry": 100103,
+        "industryName": "广播/影视",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区长虹科技大厦B座704",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "82659bf0049ab37f1nZ63di4GVNY",
+        "encryptId": "a3a96d986dc309711HZ50tS_FFtS",
+        "encryptUserId": "3bb3e95a6a0848de0XVy3dq8EVtS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.540802,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.06335,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bfce63a21c639a08cf3151ab7fe61cc5b96bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "小程序 app测试  可以接受兼职",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "Java",
+            "性能测试",
+            "压力测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf3acc2252c52a4679daf6c4abd1af8d826bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HEr0ndbJXe-rS-Q1xjAwMWwrZ3CaVQD6PPTbQr2zSiJrGJyXDRAySbotIvx6EyvcdShF2PoDPXwblqqKvhjaRZEAQZl8jV7qfTbh-XiMrcgiYB9GuYd5Eheq50rt5SsraRDn3maAMWT_4FQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

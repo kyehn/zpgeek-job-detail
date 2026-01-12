@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-biFc9XRaCoW3-t1TMe0LLC5U0-dW-jWtpxniRCWKG4OuUJn5HW1D1GFEDflF5lyLtpsIpsr54Y-t1xmnrY8pWY6FP8mAUCvlyZZcJqjrD4kChdJsFht",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9d3d6c419b313cdb1Hdy2NW5GVtQ",
-      "encryptUserId": "e76ec8562550bb680Xd93N-4FFJU",
-      "invalidStatus": false,
-      "jobName": "软件开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101161000,
-      "locationName": "白银",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "软件开发\n项目对接\n售后维护",
-      "encryptAddressId": "36de3d2e293b13910nJ_39-_GFZVwo24VvI~",
-      "address": "白银白银区气象局小区一楼一单元102",
-      "longitude": 104.191855,
-      "latitude": 36.555956,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240226/48ba41acc9cef1bffaaae788b3579b1773441902c6241cb06bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240226/48ba41acc9cef1bfc592096a230ed02c5fb8f5988d88f72b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "可兼职"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "他女士",
-      "title": "人力资源部长",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240226/607f1f3d68754fd0a622187ff25394ef0f9ee1746b9f0e6233f0a83e90ac0bb6dee0ced23ae1944_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "兰州橄榄树信息技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "07e3827b5b2cd1211Hd63d67EFY~",
-      "brandName": "兰州橄榄树信息技术",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727330761946,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "兰州橄榄树信息技术",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "兰州橄榄树信息技术",
+        "certificated": true,
+        "large": null,
+        "name": "他女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240226/607f1f3d68754fd0a622187ff25394ef0f9ee1746b9f0e6233f0a83e90ac0bb6dee0ced23ae1944_b.jpg",
+        "title": "人力资源部长"
+    },
+    "brandComInfo": {
+        "activeTime": 1727330761946,
+        "brandName": "兰州橄榄树信息技术",
+        "customerBrandName": "兰州橄榄树信息技术",
+        "customerBrandStageName": "",
+        "encryptBrandId": "07e3827b5b2cd1211Hd63d67EFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "白银白银区气象局小区一楼一单元102",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "36de3d2e293b13910nJ_39-_GFZVwo24VvI~",
+        "encryptId": "9d3d6c419b313cdb1Hdy2NW5GVtQ",
+        "encryptUserId": "e76ec8562550bb680Xd93N-4FFJU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.555956,
+        "location": 101161000,
+        "locationName": "白银",
+        "longitude": 104.191855,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240226/48ba41acc9cef1bfc592096a230ed02c5fb8f5988d88f72b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "软件开发\n项目对接\n售后维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "可兼职"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240226/48ba41acc9cef1bffaaae788b3579b1773441902c6241cb06bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-biFc9XRaCoW3-t1TMe0LLC5U0-dW-jWtpxniRCWKG4OuUJn5HW1D1GFEDflF5lyLtpsIpsr54Y-t1xmnrY8pWY6FP8mAUCvlyZZcJqjrD4kChdJsFht",
+    "selfAccess": false,
+    "sessionId": null
 }

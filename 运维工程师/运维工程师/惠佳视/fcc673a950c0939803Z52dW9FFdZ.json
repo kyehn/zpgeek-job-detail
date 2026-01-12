@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Jqoq1bnxoNytO-u186lRVKz9jmwkz_2josuxvX9Ns8aXUCcPMUF0-8FPkGn7vfkvbYrf_t0w6zdndIhc9V9Kf8uYZeaidzO_l7x_ZBC9slwia4o5LUdYQaiu47hY8AQ9vlnZADsWV5KZLYm9ixK0FpT6Jx6RkQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fcc673a950c0939803Z52dW9FFdZ",
-      "encryptUserId": "b3c40a8b8c4da3b20nJ73du0EVpQ",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270200,
-      "locationName": "攀枝花",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责维护和优化系统运行，确保服务质量。\n2、监控系统性能，及时发现并处理潜在的运维问题。\n3、与团队合作，完成既定的运维任务和项目。\n\n任职要求\n1、具备良好的系统运维能力和问题解决技巧。\n2、能够熟练使用常见的运维工具和软件。\n3、具有团队合作精神，能够有效沟通和协作。",
-      "encryptAddressId": "3f06c0ec9416d10233N62tS9EVJVw4m4UP4~",
-      "address": "攀枝花东区佰腾数码广场(温州商城店)2-2",
-      "longitude": 101.712169,
-      "latitude": 26.578093,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bf89ded6edd47caff1ad13b00972f668556bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230819/48ba41acc9cef1bf02faea099697d734de4c433e2650334b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "系统运维",
-        "运维开发经验",
-        "Python/Shell",
-        "计算机相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "温先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "惠佳视",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4288cba993e9de911HF62Nq8FlQ~",
-      "brandName": "惠佳视",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [
-        "交通补助",
-        "有无线网",
-        "团建聚餐",
-        "全勤奖",
-        "加班补助",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1741189469867,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "惠佳视",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "惠佳视",
+        "certificated": true,
+        "large": null,
+        "name": "温先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1741189469867,
+        "brandName": "惠佳视",
+        "customerBrandName": "惠佳视",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "4288cba993e9de911HF62Nq8FlQ~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [
+            "交通补助",
+            "有无线网",
+            "团建聚餐",
+            "全勤奖",
+            "加班补助",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "攀枝花东区佰腾数码广场(温州商城店)2-2",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "3f06c0ec9416d10233N62tS9EVJVw4m4UP4~",
+        "encryptId": "fcc673a950c0939803Z52dW9FFdZ",
+        "encryptUserId": "b3c40a8b8c4da3b20nJ73du0EVpQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 26.578093,
+        "location": 101270200,
+        "locationName": "攀枝花",
+        "longitude": 101.712169,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230819/48ba41acc9cef1bf02faea099697d734de4c433e2650334b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容\n1、负责维护和优化系统运行，确保服务质量。\n2、监控系统性能，及时发现并处理潜在的运维问题。\n3、与团队合作，完成既定的运维任务和项目。\n\n任职要求\n1、具备良好的系统运维能力和问题解决技巧。\n2、能够熟练使用常见的运维工具和软件。\n3、具有团队合作精神，能够有效沟通和协作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Java",
+            "系统运维",
+            "运维开发经验",
+            "Python/Shell",
+            "计算机相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bf89ded6edd47caff1ad13b00972f668556bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Jqoq1bnxoNytO-u186lRVKz9jmwkz_2josuxvX9Ns8aXUCcPMUF0-8FPkGn7vfkvbYrf_t0w6zdndIhc9V9Kf8uYZeaidzO_l7x_ZBC9slwia4o5LUdYQaiu47hY8AQ9vlnZADsWV5KZLYm9ixK0FpT6Jx6RkQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

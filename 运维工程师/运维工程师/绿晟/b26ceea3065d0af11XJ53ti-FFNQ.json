@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YBn7Bp24m9MXD-T10ecpZE8o0n4C8PAou_clfFpxQDMt1lmFv2VkjMCQhvzoEXGZ-amCwoRZxKQ2o0siuawkdOAd1G5oSMS-H7_JxiEdArm3ABcLMss~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b26ceea3065d0af11XJ53ti-FFNQ",
-      "encryptUserId": "0a5a7430a486b7960XV52tq6E1Q~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101290200,
-      "locationName": "曲靖",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责对水质/废气监测站的在线监测系统运维:\n2、分析系统的日常维护、系统调试，及时排除与\n解决故障，保证系统正常稳定运行，保证主管部门\n要求的联网率和准确率，提升客户满意度:\n2、完善运维过程中的设备档案、技术资料及日常\n设备记录，与客户进行现场交流并做技术指导:\n3、收集和整理相关系统的市场信息，协助进行市场调研，提供销售信息和研发方向的信息，\n4、上级安排的其它临时工作。",
-      "encryptAddressId": "6dc5b28194d0089b1X1929y8FFE~",
-      "address": "曲靖麒麟区沃尔玛(曲靖交通路分店)一层商铺",
-      "longitude": 103.799276,
-      "latitude": 25.503199,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7131bacde7269c4e168b0528f8bc694a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e1191231daded763a183c46fe7018b3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "代女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211105/607f1f3d68754fd07333d3cb22a294b566bd4e6f633312b5a8081dd26e0c41198d7d08c11b2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "绿晟",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "46bbe40b984d40381n183Ny9FlE~",
-      "brandName": "绿晟",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727330250594,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绿晟",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绿晟",
+        "certificated": true,
+        "large": null,
+        "name": "代女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211105/607f1f3d68754fd07333d3cb22a294b566bd4e6f633312b5a8081dd26e0c41198d7d08c11b2_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727330250594,
+        "brandName": "绿晟",
+        "customerBrandName": "绿晟",
+        "customerBrandStageName": "",
+        "encryptBrandId": "46bbe40b984d40381n183Ny9FlE~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "曲靖麒麟区沃尔玛(曲靖交通路分店)一层商铺",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6dc5b28194d0089b1X1929y8FFE~",
+        "encryptId": "b26ceea3065d0af11XJ53ti-FFNQ",
+        "encryptUserId": "0a5a7430a486b7960XV52tq6E1Q~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 25.503199,
+        "location": 101290200,
+        "locationName": "曲靖",
+        "longitude": 103.799276,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e1191231daded763a183c46fe7018b3",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责对水质/废气监测站的在线监测系统运维:\n2、分析系统的日常维护、系统调试，及时排除与\n解决故障，保证系统正常稳定运行，保证主管部门\n要求的联网率和准确率，提升客户满意度:\n2、完善运维过程中的设备档案、技术资料及日常\n设备记录，与客户进行现场交流并做技术指导:\n3、收集和整理相关系统的市场信息，协助进行市场调研，提供销售信息和研发方向的信息，\n4、上级安排的其它临时工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施交付运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7131bacde7269c4e168b0528f8bc694a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YBn7Bp24m9MXD-T10ecpZE8o0n4C8PAou_clfFpxQDMt1lmFv2VkjMCQhvzoEXGZ-amCwoRZxKQ2o0siuawkdOAd1G5oSMS-H7_JxiEdArm3ABcLMss~",
+    "selfAccess": false,
+    "sessionId": null
 }

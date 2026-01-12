@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8WEq0zGkLxban-510dqSE01w2DcoJIVP0weyanXDQHb8rWu37JnwHcimiEx12-Wb5BuSbDfRMZGeFgw-vVuYn-Saxs_AlG-2STXFWLWCWE1VRCWa",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a82edffa8845347a03Zy3tS0EFI~",
-      "encryptUserId": "ebf17db16b074f770XZ-3d26E1I~",
-      "invalidStatus": false,
-      "jobName": "自动化",
-      "position": 100803,
-      "positionName": "自动化",
-      "location": 101100400,
-      "locationName": "晋中",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "软件开发，硬件开发，机械设计等",
-      "encryptAddressId": "6c52fd3477cb42011nZ42d65EVE~",
-      "address": "晋中榆次区晋中经济技术开发区金利恒商务楼5号楼103",
-      "longitude": 112.710641,
-      "latitude": 37.696967,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93604259b3019ac5f407e2fcf26b29c8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c01e6f3bc0a60447be2a273b12f9d7d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "单片机",
-        "DSP",
-        "智能硬件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190512/2e4f106ecd152f26de13229395da643246ada459750728c40d537ce895f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "新异自动化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9efc0fc275c5ed0203B43dm0EA~~",
-      "brandName": "新异自动化",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/35b1e317869230c9e43d5b4e6617b13d46ada459750728c40d537ce895fbc864.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "山西新异自动化科技有限公司是一家致力于提供物联网及工业自动化解决方案的高新技术企业，专注于工业企业数据采集平台、物联网终端设备的研发和接入服务，可为用户提供集设计、研发、生产、销售、服务为一体的专业整线整厂自动化方案设计、各种电气自动化控制产品、智能控制类电子产品、智慧管理系统及物联网相关软硬件解决方案和产品。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "全勤奖",
-        "年终奖",
-        "员工旅游"
-      ],
-      "activeTime": 1722925408763,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "新异自动化",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "新异自动化",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190512/2e4f106ecd152f26de13229395da643246ada459750728c40d537ce895f_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722925408763,
+        "brandName": "新异自动化",
+        "customerBrandName": "新异自动化",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9efc0fc275c5ed0203B43dm0EA~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "山西新异自动化科技有限公司是一家致力于提供物联网及工业自动化解决方案的高新技术企业，专注于工业企业数据采集平台、物联网终端设备的研发和接入服务，可为用户提供集设计、研发、生产、销售、服务为一体的专业整线整厂自动化方案设计、各种电气自动化控制产品、智能控制类电子产品、智慧管理系统及物联网相关软硬件解决方案和产品。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "全勤奖",
+            "年终奖",
+            "员工旅游"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/35b1e317869230c9e43d5b4e6617b13d46ada459750728c40d537ce895fbc864.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "晋中榆次区晋中经济技术开发区金利恒商务楼5号楼103",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6c52fd3477cb42011nZ42d65EVE~",
+        "encryptId": "a82edffa8845347a03Zy3tS0EFI~",
+        "encryptUserId": "ebf17db16b074f770XZ-3d26E1I~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "自动化",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.696967,
+        "location": 101100400,
+        "locationName": "晋中",
+        "longitude": 112.710641,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c01e6f3bc0a60447be2a273b12f9d7d",
+        "position": 100803,
+        "positionName": "自动化",
+        "postDescription": "软件开发，硬件开发，机械设计等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "单片机",
+            "DSP",
+            "智能硬件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93604259b3019ac5f407e2fcf26b29c8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8WEq0zGkLxban-510dqSE01w2DcoJIVP0weyanXDQHb8rWu37JnwHcimiEx12-Wb5BuSbDfRMZGeFgw-vVuYn-Saxs_AlG-2STXFWLWCWE1VRCWa",
+    "selfAccess": false,
+    "sessionId": null
 }

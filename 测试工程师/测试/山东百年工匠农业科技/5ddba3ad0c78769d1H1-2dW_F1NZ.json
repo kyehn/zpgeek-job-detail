@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "AWZOAjUFI7Bc_-51tM7NMM7IDkOonubyLDjIM6dKdN2eG5aZf0OzGIZZVO30SxkAwD4WLLGezHpQtusrx3T6aNuLM2mC4qIQiDwv7NDMD66I7EHY5XaLSF6RtzYwI1EObdFbUM-j4N5quJE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5ddba3ad0c78769d1H1-2dW_F1NZ",
-      "encryptUserId": "5f78ea0927ddacdc0nR-3ty_GVZX",
-      "invalidStatus": false,
-      "jobName": "测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101120600,
-      "locationName": "潍坊",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：测试公司app产品",
-      "encryptAddressId": "ed5b23c70a1c287b1nVz3Nu1EVJWyoi_Wf-a",
-      "address": "潍坊奎文区万达广场(潍坊店)1100",
-      "longitude": 119.128921,
-      "latitude": 36.717747,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfff4f3f2d2e876d3ce90f8b3057b102cc6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf985837f641c74cb450e6b73f25fd78566bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "山东百年工匠农业科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1e647e2d26187ce61HJ53tS1EVA~",
-      "brandName": "山东百年工匠农业科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101303,
-      "industryName": "农/林/牧/渔",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730677138450,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东百年工匠农业科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东百年工匠农业科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1730677138450,
+        "brandName": "山东百年工匠农业科技",
+        "customerBrandName": "山东百年工匠农业科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1e647e2d26187ce61HJ53tS1EVA~",
+        "focusBrand": false,
+        "industry": 101303,
+        "industryName": "农/林/牧/渔",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "潍坊奎文区万达广场(潍坊店)1100",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ed5b23c70a1c287b1nVz3Nu1EVJWyoi_Wf-a",
+        "encryptId": "5ddba3ad0c78769d1H1-2dW_F1NZ",
+        "encryptUserId": "5f78ea0927ddacdc0nR-3ty_GVZX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.717747,
+        "location": 101120600,
+        "locationName": "潍坊",
+        "longitude": 119.128921,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf985837f641c74cb450e6b73f25fd78566bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：测试公司app产品",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-7K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfff4f3f2d2e876d3ce90f8b3057b102cc6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "AWZOAjUFI7Bc_-51tM7NMM7IDkOonubyLDjIM6dKdN2eG5aZf0OzGIZZVO30SxkAwD4WLLGezHpQtusrx3T6aNuLM2mC4qIQiDwv7NDMD66I7EHY5XaLSF6RtzYwI1EObdFbUM-j4N5quJE~",
+    "selfAccess": false,
+    "sessionId": null
 }

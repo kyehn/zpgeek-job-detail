@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xNFjTmybuZxY3-41ImfaxyMgTKAXYQ0lq3C-WaLjlRS_MnFkSHMiky0GQpDaEA4UHyIxQHLhxl0VV6eIWTt-UbJNG-wZ3dUajXZ6vpGfAmsfReAbX2PB6qc_anJ4GRJ_K8noQQsDnA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "70e2ab3f712e30f41nd83NS9FlE~",
-      "encryptUserId": "e2ae0370c37d997b1nZ829W7E1U~",
-      "invalidStatus": false,
-      "jobName": "技术员",
-      "position": 300701,
-      "positionName": "其他生产制造职位",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "负责项目书等技术文件的编写",
-      "encryptAddressId": "63b66a6c59c1b1b61Xdz3ty0FFI~",
-      "address": "北京顺义区国翼中心",
-      "longitude": 116.641374,
-      "latitude": 40.045376,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/123ba00b4bc4efe1c9686b9db93ae559",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79689cb710bfaaed33bec1f4924cee0c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "锅炉",
-        "发电",
-        "水泥"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160727/ce43580c6e54546fffb7f382e1d33f1a1f8b58a29255f463f40c54359f8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "振发金峰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "26a8eb91ff1180421HJz39u_",
-      "brandName": "振发金峰",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725605219612,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "振发金峰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "振发金峰",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160727/ce43580c6e54546fffb7f382e1d33f1a1f8b58a29255f463f40c54359f8_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725605219612,
+        "brandName": "振发金峰",
+        "customerBrandName": "振发金峰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "26a8eb91ff1180421HJz39u_",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京顺义区国翼中心",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "63b66a6c59c1b1b61Xdz3ty0FFI~",
+        "encryptId": "70e2ab3f712e30f41nd83NS9FlE~",
+        "encryptUserId": "e2ae0370c37d997b1nZ829W7E1U~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 40.045376,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.641374,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79689cb710bfaaed33bec1f4924cee0c",
+        "position": 300701,
+        "positionName": "其他生产制造职位",
+        "postDescription": "负责项目书等技术文件的编写",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "锅炉",
+            "发电",
+            "水泥"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/123ba00b4bc4efe1c9686b9db93ae559"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xNFjTmybuZxY3-41ImfaxyMgTKAXYQ0lq3C-WaLjlRS_MnFkSHMiky0GQpDaEA4UHyIxQHLhxl0VV6eIWTt-UbJNG-wZ3dUajXZ6vpGfAmsfReAbX2PB6qc_anJ4GRJ_K8noQQsDnA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

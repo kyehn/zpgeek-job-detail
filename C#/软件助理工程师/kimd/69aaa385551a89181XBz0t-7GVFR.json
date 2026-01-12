@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8I3QRtpO5M8nV-B17GugigZNiHS0w8kxv-Xw-UHQmBoRXLINLkwCFW1z2z7qI-arye7Ac5PDaqnDBWB0sGK0F0ZBOS0-DdjWJb7ycTOfV_NTyOOsunI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "69aaa385551a89181XBz0t-7GVFR",
-      "encryptUserId": "5468a6c74f51278303Z73dW5F1c~",
-      "invalidStatus": false,
-      "jobName": "软件助理工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1.计算机软件、电子信息工程、电气自动化等相关专业，本科及以上学历;\n\n2.精通C#/C++/VB等编程语言 ，熟练掌握程序开发工具;\n\n3.熟悉使用RS232/485、TCP/IP、Modbus等工控通讯协议优先;\n\n4.熟悉自动化设备、运动控制系统优先录用;\n\n5.工作积极主动，良好的团队合作精神，能够承受较强的工作压力，适应出差;\n\n6.英语四级以上，能独立与国外客户进行技术交流者优先。",
-      "encryptAddressId": "5f7daf56c799ce3d0Xx63Nq9FlU~",
-      "address": "苏州昆山市昆山龙雨智能科技有限公司299",
-      "longitude": 120.936846,
-      "latitude": 31.44905,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/548e7468bcfb23c1b777172e01792c16",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72fcec2fca1749aebed5108894f4b73e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd068041f9178d26f21b01de31e326560ca48c85a640c8d223d675e54c34f7de97_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "kimd",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "69f93d0ab60437d81nZ80ty4FFY~",
-      "brandName": "kimd",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "零食下午茶",
-        "餐补",
-        "包吃",
-        "员工旅游",
-        "带薪年假",
-        "全勤奖",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1727936077648,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "kimd",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "kimd",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd068041f9178d26f21b01de31e326560ca48c85a640c8d223d675e54c34f7de97_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727936077648,
+        "brandName": "kimd",
+        "customerBrandName": "kimd",
+        "customerBrandStageName": "",
+        "encryptBrandId": "69f93d0ab60437d81nZ80ty4FFY~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "零食下午茶",
+            "餐补",
+            "包吃",
+            "员工旅游",
+            "带薪年假",
+            "全勤奖",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市昆山龙雨智能科技有限公司299",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5f7daf56c799ce3d0Xx63Nq9FlU~",
+        "encryptId": "69aaa385551a89181XBz0t-7GVFR",
+        "encryptUserId": "5468a6c74f51278303Z73dW5F1c~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "软件助理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.44905,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.936846,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72fcec2fca1749aebed5108894f4b73e",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "1.计算机软件、电子信息工程、电气自动化等相关专业，本科及以上学历;\n\n2.精通C#/C++/VB等编程语言 ，熟练掌握程序开发工具;\n\n3.熟悉使用RS232/485、TCP/IP、Modbus等工控通讯协议优先;\n\n4.熟悉自动化设备、运动控制系统优先录用;\n\n5.工作积极主动，良好的团队合作精神，能够承受较强的工作压力，适应出差;\n\n6.英语四级以上，能独立与国外客户进行技术交流者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K·13薪",
+        "showSkills": [
+            "C#"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/548e7468bcfb23c1b777172e01792c16"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8I3QRtpO5M8nV-B17GugigZNiHS0w8kxv-Xw-UHQmBoRXLINLkwCFW1z2z7qI-arye7Ac5PDaqnDBWB0sGK0F0ZBOS0-DdjWJb7ycTOfV_NTyOOsunI~",
+    "selfAccess": false,
+    "sessionId": null
 }

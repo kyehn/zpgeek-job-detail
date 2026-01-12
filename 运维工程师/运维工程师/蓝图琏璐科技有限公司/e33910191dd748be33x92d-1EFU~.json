@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JDzAiqjpgMGYe-N10e4GES1OVseH0Rw9reaAVfv4I2B-buJx-W_svNwWsOhOYh6mJ-z2ROhWLFIA845NEZXKIzpdvTPa7f9s5AkswqBLuRbJxIyxHmVU-3jLcZ1ZU-NwoofOQVYVqw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e33910191dd748be33x92d-1EFU~",
-      "encryptUserId": "7d91c746a6d5b6700nd72dm0EFY~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1. 好学，有上进心，有责任心，有担当，能独挡一面者优先（看的懂的请来电，谢谢！！）2.熟悉Solidworks、AutoCAD设计软件 3.优秀的应届生也可！",
-      "encryptAddressId": "e66a940878e2f4421HZ_3t60GVc~",
-      "address": "深圳龙岗区进贤宾馆(中海怡翠社区健康服务中心南)",
-      "longitude": 114.108635,
-      "latitude": 22.620178,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9c7daf8acee3d4ac71d6267d5fc7288",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad4e7209394550e139332277e9cea635",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维工程师",
-        "网络运维",
-        "安全运维",
-        "运维开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曾女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200720/9d143df43d2aac847553b8c03e6873bd139527971c20688c9468e8a72bd_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "蓝图琏璐科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "234e7d572409719803F52tq-FA~~",
-      "brandName": "蓝图琏璐科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1717752490587,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "蓝图琏璐科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "蓝图琏璐科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "曾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200720/9d143df43d2aac847553b8c03e6873bd139527971c20688c9468e8a72bd_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1717752490587,
+        "brandName": "蓝图琏璐科技有限公司",
+        "customerBrandName": "蓝图琏璐科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "234e7d572409719803F52tq-FA~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区进贤宾馆(中海怡翠社区健康服务中心南)",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e66a940878e2f4421HZ_3t60GVc~",
+        "encryptId": "e33910191dd748be33x92d-1EFU~",
+        "encryptUserId": "7d91c746a6d5b6700nd72dm0EFY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.620178,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.108635,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad4e7209394550e139332277e9cea635",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1. 好学，有上进心，有责任心，有担当，能独挡一面者优先（看的懂的请来电，谢谢！！）2.熟悉Solidworks、AutoCAD设计软件 3.优秀的应届生也可！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "运维工程师",
+            "网络运维",
+            "安全运维",
+            "运维开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9c7daf8acee3d4ac71d6267d5fc7288"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JDzAiqjpgMGYe-N10e4GES1OVseH0Rw9reaAVfv4I2B-buJx-W_svNwWsOhOYh6mJ-z2ROhWLFIA845NEZXKIzpdvTPa7f9s5AkswqBLuRbJxIyxHmVU-3jLcZ1ZU-NwoofOQVYVqw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

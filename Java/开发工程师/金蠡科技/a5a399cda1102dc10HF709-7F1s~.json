@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TUGgpY4okEuwi-D14VT3rErNZVcX2uIUtT_wvHDNrfz-LzeiqYuEmJtl9YvoPKMlJl7oP1OcG8jIM_NERW9m3UwnZ8eooZUkEASU7P-tr_pFeBDf99CRlFg-qhXb8fo0o3PutDkc2r-K",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a5a399cda1102dc10HF709-7F1s~",
-      "encryptUserId": "ba4269d58114f16b1nR_3921FVdU",
-      "invalidStatus": false,
-      "jobName": "开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.\t负责微信小程序的开发，根据设计需求完成微信小程序功能设计和代码实现，确保软件开发进度；\n2.\t负责微信小程序上线后的优化和迭代开发；\n3.\t负责后端管理平台的系统架构设计及后台服务程序研发；\n4.\t参与WEB网站建设；\n5.\t负责运营支持系统的建设和研发工作，确保相关系统稳定可靠运行；\n\n岗位要求：\n1.\t大专及以上学历，计算机或相关专业优先；\n2.\t精通Java及Spring,有一定的架构能力和良好代码规范，有高性能大容量服务平台开发经验者优先；\n3.\t熟悉HTML以及 CSS 方面的技术，能够高效高质量完成小程序的页面布局；\n4.\t熟悉JS框架；\n5.\t有微信相关的开发经验，熟悉微信平台接口，尤其是小程序方面；\n6.\t有移动端页面开发经验；\n7.\t具备较好的问题分析与解决能力，能够独立处理问题；\n8.\t学习能力强，喜欢尝试新知识。",
-      "encryptAddressId": "f3d7d1e378d8c1f91X183t28EVE~",
-      "address": "上海浦东新区裕景国际商务广场-B座办公楼2604",
-      "longitude": 121.521123,
-      "latitude": 31.240833,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a6dc510a6045a242d19fbfd5f2462a4a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40e412f1035683e9d12a62c522d69320",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端开发",
-        "小程序",
-        "Web端"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "产品经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "金蠡科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0cf84b7a893931da0HN739y9EQ~~",
-      "brandName": "金蠡科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200422/ccff9472e48df2933182649c0ca40fb4ef66161f2a8f6e07018c25d7b66cdfd0_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "金蠡科技是一家第三方小程序开发服务商。\n我们提供覆盖多行业的小程序模板，以及专业的小程序定制开发服务，我们致力于帮助小白用户通过我们的平台轻松快速的分布属于自己的小程序。\n这是个从零到一的初创团队，我们欢迎你的加入，来一起改变世界。",
-      "labels": [],
-      "activeTime": 1723910134531,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金蠡科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金蠡科技",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "产品经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723910134531,
+        "brandName": "金蠡科技",
+        "customerBrandName": "金蠡科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "0cf84b7a893931da0HN739y9EQ~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "金蠡科技是一家第三方小程序开发服务商。\n我们提供覆盖多行业的小程序模板，以及专业的小程序定制开发服务，我们致力于帮助小白用户通过我们的平台轻松快速的分布属于自己的小程序。\n这是个从零到一的初创团队，我们欢迎你的加入，来一起改变世界。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200422/ccff9472e48df2933182649c0ca40fb4ef66161f2a8f6e07018c25d7b66cdfd0_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区裕景国际商务广场-B座办公楼2604",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f3d7d1e378d8c1f91X183t28EVE~",
+        "encryptId": "a5a399cda1102dc10HF709-7F1s~",
+        "encryptUserId": "ba4269d58114f16b1nR_3921FVdU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.240833,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.521123,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40e412f1035683e9d12a62c522d69320",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1.\t负责微信小程序的开发，根据设计需求完成微信小程序功能设计和代码实现，确保软件开发进度；\n2.\t负责微信小程序上线后的优化和迭代开发；\n3.\t负责后端管理平台的系统架构设计及后台服务程序研发；\n4.\t参与WEB网站建设；\n5.\t负责运营支持系统的建设和研发工作，确保相关系统稳定可靠运行；\n\n岗位要求：\n1.\t大专及以上学历，计算机或相关专业优先；\n2.\t精通Java及Spring,有一定的架构能力和良好代码规范，有高性能大容量服务平台开发经验者优先；\n3.\t熟悉HTML以及 CSS 方面的技术，能够高效高质量完成小程序的页面布局；\n4.\t熟悉JS框架；\n5.\t有微信相关的开发经验，熟悉微信平台接口，尤其是小程序方面；\n6.\t有移动端页面开发经验；\n7.\t具备较好的问题分析与解决能力，能够独立处理问题；\n8.\t学习能力强，喜欢尝试新知识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "后端开发",
+            "小程序",
+            "Web端"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a6dc510a6045a242d19fbfd5f2462a4a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TUGgpY4okEuwi-D14VT3rErNZVcX2uIUtT_wvHDNrfz-LzeiqYuEmJtl9YvoPKMlJl7oP1OcG8jIM_NERW9m3UwnZ8eooZUkEASU7P-tr_pFeBDf99CRlFg-qhXb8fo0o3PutDkc2r-K",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "aT6jJZvGLwpTo--10oSv_xioBtKomEdnNm3dHGtB4AUEuDDKRfaA81fcJ-WHRTr06ghk3glEidZYZn6fQVJxwRR8HZlGozQkbg8Br1iPNSgOgOxjVOv0sJHMxtnai4VPYDR0xvnsDhOUW-KL2ahT1fMoaRfap8Z2tacusRHXXsagMKU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "11b449c26ca0b3591H1y3N-0GVNU",
-      "encryptUserId": "728e22398d1df81c1XJ-2dy-FFs~",
-      "invalidStatus": false,
-      "jobName": "运维工程师[深圳]",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责要求：\n1、大专及以上学历，计算机等相关专业，it运维相关工作经验；\n2、熟悉计算机硬件、操作系统及基本网络，有一定的软硬件维护能力；\n3、熟悉办公周边产品维护，如激光打印机、视频会议设备等；\n4、熟悉Linux、mysql，优先考虑；\n5、要求不晕车，需要到客户现场做上门运维服务；\n6、较强的协调沟通能力和职业保密意识；\n7、能够接受公司合理的短期差旅要求。",
-      "encryptAddressId": "41abafd08a39e08d1nBy39i9F1BWx4q7V_-Z",
-      "address": "深圳罗湖区中国石化田贝加油站1",
-      "longitude": 114.12412,
-      "latitude": 22.560334,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bfe4b6553ebb046c0c3f4b2bb6ae759bed6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bfaa2e3c894813e3f0db64ec582be412e86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维",
-        "MySQL/Oracle",
-        "Linux",
-        "系统运维",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170331/cf8e011c1d8cc12ce7777999c3b55b498c7dd922ad47494fc02c388e12c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "尚博信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3ebdaa0c5d086e981nV_0ty7",
-      "brandName": "尚博信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190218/c1bea54bf2dbf3052d110ab10aba42d49022dd3cb549fb5a9278e5540b62cf08.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "北京尚博信科技有限公司创立于2008年，总部位于北京，在广州、济南、南京、西安设有分公司，拥有CMMI5级、ISO9001、ISO20000、ISO27001等资质，是北京市科委认定的高新技术企业。经过多年发展，秉承“客户第一、激情敬业、持续创新”的经营理念，尚博信已成为中国领先的数字化运营服务提供商，专注于以科技创新赋能大中型企业智慧化转型发展，公司客户遍布石油、石化、电力、零售、免税、银行、保险、房地产等行业。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1731387386440,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "尚博信",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "尚博信",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170331/cf8e011c1d8cc12ce7777999c3b55b498c7dd922ad47494fc02c388e12c_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1731387386440,
+        "brandName": "尚博信",
+        "customerBrandName": "尚博信",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "3ebdaa0c5d086e981nV_0ty7",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "北京尚博信科技有限公司创立于2008年，总部位于北京，在广州、济南、南京、西安设有分公司，拥有CMMI5级、ISO9001、ISO20000、ISO27001等资质，是北京市科委认定的高新技术企业。经过多年发展，秉承“客户第一、激情敬业、持续创新”的经营理念，尚博信已成为中国领先的数字化运营服务提供商，专注于以科技创新赋能大中型企业智慧化转型发展，公司客户遍布石油、石化、电力、零售、免税、银行、保险、房地产等行业。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "员工旅游",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190218/c1bea54bf2dbf3052d110ab10aba42d49022dd3cb549fb5a9278e5540b62cf08.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳罗湖区中国石化田贝加油站1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "41abafd08a39e08d1nBy39i9F1BWx4q7V_-Z",
+        "encryptId": "11b449c26ca0b3591H1y3N-0GVNU",
+        "encryptUserId": "728e22398d1df81c1XJ-2dy-FFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师[深圳]",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.560334,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.12412,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bfaa2e3c894813e3f0db64ec582be412e86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责要求：\n1、大专及以上学历，计算机等相关专业，it运维相关工作经验；\n2、熟悉计算机硬件、操作系统及基本网络，有一定的软硬件维护能力；\n3、熟悉办公周边产品维护，如激光打印机、视频会议设备等；\n4、熟悉Linux、mysql，优先考虑；\n5、要求不晕车，需要到客户现场做上门运维服务；\n6、较强的协调沟通能力和职业保密意识；\n7、能够接受公司合理的短期差旅要求。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-7K",
+        "showSkills": [
+            "实施交付运维",
+            "MySQL/Oracle",
+            "Linux",
+            "系统运维",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bfe4b6553ebb046c0c3f4b2bb6ae759bed6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "aT6jJZvGLwpTo--10oSv_xioBtKomEdnNm3dHGtB4AUEuDDKRfaA81fcJ-WHRTr06ghk3glEidZYZn6fQVJxwRR8HZlGozQkbg8Br1iPNSgOgOxjVOv0sJHMxtnai4VPYDR0xvnsDhOUW-KL2ahT1fMoaRfap8Z2tacusRHXXsagMKU~",
+    "selfAccess": false,
+    "sessionId": null
 }

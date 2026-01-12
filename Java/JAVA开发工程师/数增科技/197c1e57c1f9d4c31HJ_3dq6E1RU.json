@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "5ZrjrczeOi1c3-G1WbI7DnvYgU5ePQiSB0zGaVbsijac05kSVp-xnd_vQcc6iV-uwOCwOivwepcPahZFyf5nE3uGKNKnlxcgutAAyu42JPi4g1586hyR",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "197c1e57c1f9d4c31HJ_3dq6E1RU",
-      "encryptUserId": "6bc63e5ffae30a2f0nNy0t-9FVVS",
-      "invalidStatus": false,
-      "jobName": "java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、掌握springboot/springcloud\n2、了解eureka、redis、rabbitmq、zookeeper的基本用法\n3、积极向上，注意细节\n4、熟悉mysql数据库使用方式\n5、了解使用nginx中间件\n6、有很强的责任感，较强的学习能力，乐于沟通和协作\n7、同时了解python，并掌握一定相关知识的优先考虑\n8、了解常用大数据组件的用法，能够配合后端完成功能开发\n9、前端有一定的编写基础，能够进行接口的对接",
-      "encryptAddressId": "4a21261207553d783nN60tu_EVNZyo2_V_s~",
-      "address": "上海浦东新区天纳商汇500号3号楼406",
-      "longitude": 121.568251,
-      "latitude": 31.096541,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bf476303962b4ab52e4131546a6d8a88666bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bff88dbe8d85f3899345460960ffb9ad476bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Python",
-        "MySQL",
-        "Nginx",
-        "SpringCloud",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "谭先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230209/607f1f3d68754fd0adf9bce1ae9c71306d7b57fd997e900ef7261ffa476b394a49c49b45567_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "数增科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e7e597922bb0c13a1n143N26EFc~",
-      "brandName": "数增科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100601,
-      "industryName": "咨询",
-      "introduce": "数增科技是一家大数据咨询及产品服务商。公司具有在大数据行业20年的经验。",
-      "labels": [
-        "零食下午茶",
-        "带薪年假",
-        "加班补助",
-        "股票期权",
-        "五险一金"
-      ],
-      "activeTime": 1719751297802,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "数增科技",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "数增科技",
+        "certificated": true,
+        "large": null,
+        "name": "谭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230209/607f1f3d68754fd0adf9bce1ae9c71306d7b57fd997e900ef7261ffa476b394a49c49b45567_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1719751297802,
+        "brandName": "数增科技",
+        "customerBrandName": "数增科技",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "e7e597922bb0c13a1n143N26EFc~",
+        "focusBrand": false,
+        "industry": 100601,
+        "industryName": "咨询",
+        "introduce": "数增科技是一家大数据咨询及产品服务商。公司具有在大数据行业20年的经验。",
+        "labels": [
+            "零食下午茶",
+            "带薪年假",
+            "加班补助",
+            "股票期权",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区天纳商汇500号3号楼406",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4a21261207553d783nN60tu_EVNZyo2_V_s~",
+        "encryptId": "197c1e57c1f9d4c31HJ_3dq6E1RU",
+        "encryptUserId": "6bc63e5ffae30a2f0nNy0t-9FVVS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.096541,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.568251,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bff88dbe8d85f3899345460960ffb9ad476bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、掌握springboot/springcloud\n2、了解eureka、redis、rabbitmq、zookeeper的基本用法\n3、积极向上，注意细节\n4、熟悉mysql数据库使用方式\n5、了解使用nginx中间件\n6、有很强的责任感，较强的学习能力，乐于沟通和协作\n7、同时了解python，并掌握一定相关知识的优先考虑\n8、了解常用大数据组件的用法，能够配合后端完成功能开发\n9、前端有一定的编写基础，能够进行接口的对接",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Java",
+            "Python",
+            "MySQL",
+            "Nginx",
+            "SpringCloud",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bf476303962b4ab52e4131546a6d8a88666bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "5ZrjrczeOi1c3-G1WbI7DnvYgU5ePQiSB0zGaVbsijac05kSVp-xnd_vQcc6iV-uwOCwOivwepcPahZFyf5nE3uGKNKnlxcgutAAyu42JPi4g1586hyR",
+    "selfAccess": false,
+    "sessionId": null
 }

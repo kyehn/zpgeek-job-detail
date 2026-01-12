@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fMgUsnDt3IZVf-Z1T9tURS-a7Ru6wAeXftwgeAOP0BS5Iyat_FBcwl1LZmqc7ZirlypHInN2Fe4Dck7qE0bR5kY9TeBGGmP3EOlDsUvpA7gIUm43bqm-5FmSz0Ixyns~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "72db70e197208f3d03R-39-9ElFY",
-      "encryptUserId": "94da1ea1f659627e1XV839i4FVQ~",
-      "invalidStatus": false,
-      "jobName": "家具设计",
-      "position": 120604,
-      "positionName": "家具设计",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：家具设计 或模具设计 相关专业，熟练使用CAD，SOLIDWORK等软件，\n岗位职责：道具结构设计，BOM表拆分",
-      "encryptAddressId": "a50a3a91b203c5861Xd82d-6ElA~",
-      "address": "苏州苏州汉德威展示道具有限公司",
-      "longitude": 120.99833,
-      "latitude": 31.310926,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3f9618637692d09cc321b7281075623",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4527ab11148ffbcb34f27504f465cdd2",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "熟悉施工工艺",
-        "AutoCAD",
-        "良好的方案沟通能力",
-        "熟悉装修材料"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "汉德威",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9997f7b9ef204e7d1XR92du_",
-      "brandName": "汉德威",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "我公司是一家专业为各品牌企业提供全面店铺拓展服务的服务型企业。\r\n从展示道具的设计开发，店铺空间规划，展示道具制造到全球范围店铺装修和道具安装工程的执行与管理。\r\n公司位于昆山陆家镇天鹅路818号。",
-      "labels": [],
-      "activeTime": 1737270932410,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "汉德威",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "汉德威",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1737270932410,
+        "brandName": "汉德威",
+        "customerBrandName": "汉德威",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9997f7b9ef204e7d1XR92du_",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "我公司是一家专业为各品牌企业提供全面店铺拓展服务的服务型企业。\r\n从展示道具的设计开发，店铺空间规划，展示道具制造到全球范围店铺装修和道具安装工程的执行与管理。\r\n公司位于昆山陆家镇天鹅路818号。",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州汉德威展示道具有限公司",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "a50a3a91b203c5861Xd82d-6ElA~",
+        "encryptId": "72db70e197208f3d03R-39-9ElFY",
+        "encryptUserId": "94da1ea1f659627e1XV839i4FVQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "家具设计",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.310926,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.99833,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4527ab11148ffbcb34f27504f465cdd2",
+        "position": 120604,
+        "positionName": "家具设计",
+        "postDescription": "任职要求：家具设计 或模具设计 相关专业，熟练使用CAD，SOLIDWORK等软件，\n岗位职责：道具结构设计，BOM表拆分",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "熟悉施工工艺",
+            "AutoCAD",
+            "良好的方案沟通能力",
+            "熟悉装修材料"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3f9618637692d09cc321b7281075623"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fMgUsnDt3IZVf-Z1T9tURS-a7Ru6wAeXftwgeAOP0BS5Iyat_FBcwl1LZmqc7ZirlypHInN2Fe4Dck7qE0bR5kY9TeBGGmP3EOlDsUvpA7gIUm43bqm-5FmSz0Ixyns~",
+    "selfAccess": false,
+    "sessionId": null
 }

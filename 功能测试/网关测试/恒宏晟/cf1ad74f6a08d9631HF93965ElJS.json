@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CcQsFdCVnaQAu-e1JeYS-I4ZR2VWIZC5GIVAcTM4TcsVwquONByW5DGsrK3ZgiP0BgCeNRcMquKhc6MnqGTjMpG49VHgi9LAIn57TH0rVQVYg2z05YBT97yJ5C_AaBXmRryllOSquwBHqw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cf1ad74f6a08d9631HF93965ElJS",
-      "encryptUserId": "857146d84da2693f1H1y2tm7EFE~",
-      "invalidStatus": false,
-      "jobName": "网关测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：岗位职责: \n1.知识要求： 了解软件和硬件架构，熟悉测试理论，有较丰富的测试经验。\n2.技能要求： 2.1 熟悉CAN/CANFD,车载以太网相关协议\n2.2 会使用 Vector 工具链，熟练使用CAPL/C或Python语言。\n2.3 有完整的整车或零部件软件测试项目交付经验。\n2.4 良好的汇报能力\n2.5 有TBOX和网关等通信产品测试经验     \n2.6 有一定的英语基础",
-      "encryptAddressId": "0db8e2560c72dca70HJz3N6_FlBWx46-V_o~",
-      "address": "重庆渝北区中瑞(重庆两江)产业园1",
-      "longitude": 106.501516,
-      "latitude": 29.647095,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2397959204296482d7181978e5715978",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f192b2d5ce4b056d4154b977a006d0d7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CAN/CANFD,以太网"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事经理HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240423/607f1f3d68754fd00ab960b042cdf6dd398b54cb7c45bbb4fc728c16f0fe3c4129ad117ef2e480e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "恒宏晟",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2301615354b9d56f1XZ43ti0GFo~",
-      "brandName": "恒宏晟",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "免费班车",
-        "有无线网",
-        "团建聚餐",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1727686827812,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "恒宏晟",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "恒宏晟",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240423/607f1f3d68754fd00ab960b042cdf6dd398b54cb7c45bbb4fc728c16f0fe3c4129ad117ef2e480e_b.jpg",
+        "title": "人事经理HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1727686827812,
+        "brandName": "恒宏晟",
+        "customerBrandName": "恒宏晟",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "2301615354b9d56f1XZ43ti0GFo~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "免费班车",
+            "有无线网",
+            "团建聚餐",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆渝北区中瑞(重庆两江)产业园1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0db8e2560c72dca70HJz3N6_FlBWx46-V_o~",
+        "encryptId": "cf1ad74f6a08d9631HF93965ElJS",
+        "encryptUserId": "857146d84da2693f1H1y2tm7EFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "网关测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.647095,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.501516,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f192b2d5ce4b056d4154b977a006d0d7",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "岗位职责：岗位职责: \n1.知识要求： 了解软件和硬件架构，熟悉测试理论，有较丰富的测试经验。\n2.技能要求： 2.1 熟悉CAN/CANFD,车载以太网相关协议\n2.2 会使用 Vector 工具链，熟练使用CAPL/C或Python语言。\n2.3 有完整的整车或零部件软件测试项目交付经验。\n2.4 良好的汇报能力\n2.5 有TBOX和网关等通信产品测试经验     \n2.6 有一定的英语基础",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "CAN/CANFD,以太网"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2397959204296482d7181978e5715978"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CcQsFdCVnaQAu-e1JeYS-I4ZR2VWIZC5GIVAcTM4TcsVwquONByW5DGsrK3ZgiP0BgCeNRcMquKhc6MnqGTjMpG49VHgi9LAIn57TH0rVQVYg2z05YBT97yJ5C_AaBXmRryllOSquwBHqw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

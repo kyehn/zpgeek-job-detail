@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6jZZUCS5S6pzd-n16xntFsKJDuQF2QzfNGBymivgF1e8rLCAux8smOn_g2MKUOiYVW92XkiDans9aPZx_uCDVN5qjSRoJb6QWMeObMhyG7vyx-4_-GyqrJ_4Ni9vy9xcuA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0d9fe1f9c28020da03V709u9EVNX",
-      "encryptUserId": "76bc5fd124d3a8140nB839S4FVNV",
-      "invalidStatus": false,
-      "jobName": "运维工程师（苏州）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：负责网络及其设备的维护、管理、故障排除等日常工作\n任职要求：1，会基础的桌面运维工作\n                  2，会系统的安装，打印机的调试及链接\n                  3，会会议支持等简单操作\n                  4，有外企经验",
-      "encryptAddressId": "1c0b6e59b445f79a1nN63NW1GFVYwYm4Uvqd",
-      "address": "苏州虎丘区必胜益康家居用品附近",
-      "longitude": 120.518625,
-      "latitude": 31.343325,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bf5f93ef7d25d10c5e345794d5403017426bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bf687087773df2a17a84618262952a25766bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bf49828e23637e17f587ab623fa64307296bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bfa185c4c35bb916e9cdfc6dba74b4be0a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "桌面运维",
-        "计算机相关专业",
-        "网络安全相关经验",
-        "打印机/复印机维修经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "胡女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241105/607f1f3d68754fd0e55d287d9fba58ece531fb8985489a18ca836f3739727f0b98555a7aa3018b9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "汪洋网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "654ec690b70ac6271n162NW5Eg~~",
-      "brandName": "汪洋网络",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200323/8a7bd3827f5ae92c79f8d7837ad7531891aae25eac0c870dd0e7671459f62289.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "汪洋网络是一家专业IT服务提供商，面向广大企事业单位提供全方位的IT技术服务。我们立足服务全国，为各类企业提供快速、专业、高效IT服务。\r\n公司拥有全面的技术实力、丰富的服务经验、高效的响应机制、强大的渠道网络、优秀的年轻团队、和谐的企业文化。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "加班补助",
-        "节日福利"
-      ],
-      "activeTime": 1736847192379,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "汪洋网络",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "汪洋网络",
+        "certificated": true,
+        "large": null,
+        "name": "胡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241105/607f1f3d68754fd0e55d287d9fba58ece531fb8985489a18ca836f3739727f0b98555a7aa3018b9_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1736847192379,
+        "brandName": "汪洋网络",
+        "customerBrandName": "汪洋网络",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "654ec690b70ac6271n162NW5Eg~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "汪洋网络是一家专业IT服务提供商，面向广大企事业单位提供全方位的IT技术服务。我们立足服务全国，为各类企业提供快速、专业、高效IT服务。\r\n公司拥有全面的技术实力、丰富的服务经验、高效的响应机制、强大的渠道网络、优秀的年轻团队、和谐的企业文化。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "加班补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200323/8a7bd3827f5ae92c79f8d7837ad7531891aae25eac0c870dd0e7671459f62289.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州虎丘区必胜益康家居用品附近",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bfa185c4c35bb916e9cdfc6dba74b4be0a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bf49828e23637e17f587ab623fa64307296bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "1c0b6e59b445f79a1nN63NW1GFVYwYm4Uvqd",
+        "encryptId": "0d9fe1f9c28020da03V709u9EVNX",
+        "encryptUserId": "76bc5fd124d3a8140nB839S4FVNV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师（苏州）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.343325,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.518625,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bf687087773df2a17a84618262952a25766bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：负责网络及其设备的维护、管理、故障排除等日常工作\n任职要求：1，会基础的桌面运维工作\n                  2，会系统的安装，打印机的调试及链接\n                  3，会会议支持等简单操作\n                  4，有外企经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "网络运维",
+            "桌面运维",
+            "计算机相关专业",
+            "网络安全相关经验",
+            "打印机/复印机维修经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250114/48ba41acc9cef1bf5f93ef7d25d10c5e345794d5403017426bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6jZZUCS5S6pzd-n16xntFsKJDuQF2QzfNGBymivgF1e8rLCAux8smOn_g2MKUOiYVW92XkiDans9aPZx_uCDVN5qjSRoJb6QWMeObMhyG7vyx-4_-GyqrJ_4Ni9vy9xcuA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

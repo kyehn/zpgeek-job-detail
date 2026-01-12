@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "z442T0PJOqOkt-u1_8mrEdgaZkMHQH3Vn9Kf6J5TJmBTwiBLB5wGBaUvHqkzMttXZvQQ3MqBWSuWn8E2K8s6YTz8oV_E0fnJLKJ25IMMHZoK5vgNCBZAOUqBF_SZjBt67enXt2yHH5ENokE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4cc49da6cd61bef31H1_3d-7ElVS",
-      "encryptUserId": "1c0e4b56557264390n172N60ElBX",
-      "invalidStatus": false,
-      "jobName": "系统运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、网络运维：根据客户需求负责网络设备的配置、调整、优化、监控与故障排查，确保网络稳定、高效运行，以及优化网络环境；\n2、系统运维：负责后台系统的平稳运行，能够编写运维脚本，解决软件运行问题，并且反馈故障原因；\n3、设备运维：负责机房内网络设备、服务器、储存等设备的日常巡检、设备故障排查与解决，确保网络设备的正常运行；\n4、在有任务的情况下，会有夜班运维工作；\n\n任职要求\n1、计算机、信息技术、网络相关专业本科及以上学历；\n2、有2年以上运维经验，能够应对各种故障定位故障原因，具有较强的学习能力；\n3、熟悉数通基础，具备HCIE/HCIP等相关证书。\n4、熟悉服务器windows、linux系统的运维，了解虚拟机的搭建、管理，能够编写shell脚本。\n5、熟悉工业互联网，了解使用的网络协议，有石油行业网络运维的工程师优先考虑。",
-      "encryptAddressId": "9de8fbea487c7ca41nB509i8EFdXx4W-UPmb",
-      "address": "成都新都区尚城逸品1-1",
-      "longitude": 104.170028,
-      "latitude": 30.834751,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bfab6c322aab1ecbab971a067d85b9e9626bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bfb9d12bd5250362c6bef637916a6d1e7f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "系统运维",
-        "Python/Shell",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "肖先生",
-      "title": "部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241030/607f1f3d68754fd08f1460de1a40ed4be6e82a1a92490833ed9d72469c2989655daff5526d62ca0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "南京慧油科技发展",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a36c825208af66781Hx73d-_FFI~",
-      "brandName": "南京慧油科技发展",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730546228233,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京慧油科技发展",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京慧油科技发展",
+        "certificated": true,
+        "large": null,
+        "name": "肖先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241030/607f1f3d68754fd08f1460de1a40ed4be6e82a1a92490833ed9d72469c2989655daff5526d62ca0_b.jpg",
+        "title": "部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730546228233,
+        "brandName": "南京慧油科技发展",
+        "customerBrandName": "南京慧油科技发展",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a36c825208af66781Hx73d-_FFI~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都新都区尚城逸品1-1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "9de8fbea487c7ca41nB509i8EFdXx4W-UPmb",
+        "encryptId": "4cc49da6cd61bef31H1_3d-7ElVS",
+        "encryptUserId": "1c0e4b56557264390n172N60ElBX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.834751,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.170028,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bfb9d12bd5250362c6bef637916a6d1e7f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容\n1、网络运维：根据客户需求负责网络设备的配置、调整、优化、监控与故障排查，确保网络稳定、高效运行，以及优化网络环境；\n2、系统运维：负责后台系统的平稳运行，能够编写运维脚本，解决软件运行问题，并且反馈故障原因；\n3、设备运维：负责机房内网络设备、服务器、储存等设备的日常巡检、设备故障排查与解决，确保网络设备的正常运行；\n4、在有任务的情况下，会有夜班运维工作；\n\n任职要求\n1、计算机、信息技术、网络相关专业本科及以上学历；\n2、有2年以上运维经验，能够应对各种故障定位故障原因，具有较强的学习能力；\n3、熟悉数通基础，具备HCIE/HCIP等相关证书。\n4、熟悉服务器windows、linux系统的运维，了解虚拟机的搭建、管理，能够编写shell脚本。\n5、熟悉工业互联网，了解使用的网络协议，有石油行业网络运维的工程师优先考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K·13薪",
+        "showSkills": [
+            "通信相关专业",
+            "系统运维",
+            "Python/Shell",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bfab6c322aab1ecbab971a067d85b9e9626bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "z442T0PJOqOkt-u1_8mrEdgaZkMHQH3Vn9Kf6J5TJmBTwiBLB5wGBaUvHqkzMttXZvQQ3MqBWSuWn8E2K8s6YTz8oV_E0fnJLKJ25IMMHZoK5vgNCBZAOUqBF_SZjBt67enXt2yHH5ENokE~",
+    "selfAccess": false,
+    "sessionId": null
 }

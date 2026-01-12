@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IB51hdHJ7e3Mg-U1I9JODm4SPSgXZs37PxHpGeNHa_Hjj-bwwmkJzIRao2UYsdLXK0x2N3IIVQOFIBPHh41jnGU7-KyMGMeipmwqLHOr0lzjvEdIaItuCZQcUF538itDRqq4Y7sf_f7iVSI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0342eae17388997e1H1_0tS8FVVV",
-      "encryptUserId": "fa91bacaf8d926ef0XVy3NW4FFRT",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟练掌握公司产品业务，并按照公司实施规范完成产品的实施及培训工作；\n2、负责整个项目实施过程中的安装环境的调试、测试；\n3、负责客户需求的收集，并整理成需求分析报告递交公司进行产品开发维护。\n任职资格：\n1、了解实施的基本流程方法;\n2、熟悉Oracle或SQL Server数据库的基本应用，熟练运用SQL语句;\n3、熟练医院业务流程及常用医疗应用系统（HIS，EMR，LIS 等）优先;\n4、能接受出差；\n5、具有1-3年医疗项目实施经验者优先。\n6、偏医疗数据，对数据感兴趣择优。",
-      "encryptAddressId": "4a6701c6fec417ff1nVz3Nm6GFpT",
-      "address": "长沙岳麓区长沙中电软件园9栋",
-      "longitude": 112.883009,
-      "latitude": 28.228608,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fc6b934d33a380e2268c12e9c8244de",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c421a911e870e0b58c20308ac403e66",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "HIS",
-        "熟练掌握SQL语句",
-        "计算机相关专业",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "龚先生",
-      "title": "实施工程师",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "安康汇",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d3e6cdbaa8470b851HR42NW-FVU~",
-      "brandName": "安康汇",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730644841463,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安康汇",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安康汇",
+        "certificated": true,
+        "large": null,
+        "name": "龚先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "实施工程师"
+    },
+    "brandComInfo": {
+        "activeTime": 1730644841463,
+        "brandName": "安康汇",
+        "customerBrandName": "安康汇",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d3e6cdbaa8470b851HR42NW-FVU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区长沙中电软件园9栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4a6701c6fec417ff1nVz3Nm6GFpT",
+        "encryptId": "0342eae17388997e1H1_0tS8FVVV",
+        "encryptUserId": "fa91bacaf8d926ef0XVy3NW4FFRT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.228608,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.883009,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c421a911e870e0b58c20308ac403e66",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1、熟练掌握公司产品业务，并按照公司实施规范完成产品的实施及培训工作；\n2、负责整个项目实施过程中的安装环境的调试、测试；\n3、负责客户需求的收集，并整理成需求分析报告递交公司进行产品开发维护。\n任职资格：\n1、了解实施的基本流程方法;\n2、熟悉Oracle或SQL Server数据库的基本应用，熟练运用SQL语句;\n3、熟练医院业务流程及常用医疗应用系统（HIS，EMR，LIS 等）优先;\n4、能接受出差；\n5、具有1-3年医疗项目实施经验者优先。\n6、偏医疗数据，对数据感兴趣择优。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "HIS",
+            "熟练掌握SQL语句",
+            "计算机相关专业",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fc6b934d33a380e2268c12e9c8244de"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IB51hdHJ7e3Mg-U1I9JODm4SPSgXZs37PxHpGeNHa_Hjj-bwwmkJzIRao2UYsdLXK0x2N3IIVQOFIBPHh41jnGU7-KyMGMeipmwqLHOr0lzjvEdIaItuCZQcUF538itDRqq4Y7sf_f7iVSI~",
+    "selfAccess": false,
+    "sessionId": null
 }

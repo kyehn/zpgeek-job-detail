@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "5fUiGWpWmdOJM-r18x5nDrq0y75dHQOQ7TWjqkkSbP5V32EKoM6wNhd3Gne7kULfFJsxDX6ehvmMzFItRd2SAV41HQKcV_6w57BpC2q2n18e7N93kDJMmLZwMZuagrzhO36ztnj2CF9-dw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dd925dc3b104e3071XZ-29W1EFNX",
-      "encryptUserId": "f23ff47fa8a1964e0Hx43t-5E1I~",
-      "invalidStatus": false,
-      "jobName": "电控测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101281700,
-      "locationName": "中山",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1、电控测试；\n2、技术文档的编写与下发；\n3、协助软件工程师进行产品功能标准化、测试方法的制定；\n\n任职资格:\n1、本科学历，电子或自动化相关专业；\n2、 有一定的电子电路和电气电路分析能力；\n3、能熟练使用万用表、示波器等仪器；\n4、为人踏实稳重、工作认真负责、有团队合作意识；\n5、有产品系统测试经验优先考虑；",
-      "encryptAddressId": "0bcef47e4a649b390nV62tu6EFY~",
-      "address": "中山格兰仕电器有限公司中心大楼东3号",
-      "longitude": 113.382235,
-      "latitude": 22.689668,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0c0f5e2e4ebce0ffcbb0346f2019d53",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e14ca36fc89dfbd523bfde620aef8e2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "硬件测试",
-        "软件测试",
-        "黑盒测试",
-        "白盒测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "苏女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd01b1a5550b8569be16193af2462447abf4e12083aed3028d59c22363f4c9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广东格兰仕微波生...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9a9c81e455da25531XR_39u_FVc~",
-      "brandName": "广东格兰仕微波生...",
-      "logo": "https://c-res.zhipin.com/jrs/876f5169bb48e8b5af7de39ca175fe5a.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 101010,
-      "industryName": "家用电器",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724385257303,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广东格兰仕微波生...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广东格兰仕微波生...",
+        "certificated": true,
+        "large": null,
+        "name": "苏女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd01b1a5550b8569be16193af2462447abf4e12083aed3028d59c22363f4c9_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724385257303,
+        "brandName": "广东格兰仕微波生...",
+        "customerBrandName": "广东格兰仕微波生...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9a9c81e455da25531XR_39u_FVc~",
+        "focusBrand": false,
+        "industry": 101010,
+        "industryName": "家用电器",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://c-res.zhipin.com/jrs/876f5169bb48e8b5af7de39ca175fe5a.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "中山格兰仕电器有限公司中心大楼东3号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "0bcef47e4a649b390nV62tu6EFY~",
+        "encryptId": "dd925dc3b104e3071XZ-29W1EFNX",
+        "encryptUserId": "f23ff47fa8a1964e0Hx43t-5E1I~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "电控测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.689668,
+        "location": 101281700,
+        "locationName": "中山",
+        "longitude": 113.382235,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e14ca36fc89dfbd523bfde620aef8e2",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责:\n1、电控测试；\n2、技术文档的编写与下发；\n3、协助软件工程师进行产品功能标准化、测试方法的制定；\n\n任职资格:\n1、本科学历，电子或自动化相关专业；\n2、 有一定的电子电路和电气电路分析能力；\n3、能熟练使用万用表、示波器等仪器；\n4、为人踏实稳重、工作认真负责、有团队合作意识；\n5、有产品系统测试经验优先考虑；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "功能测试",
+            "硬件测试",
+            "软件测试",
+            "黑盒测试",
+            "白盒测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0c0f5e2e4ebce0ffcbb0346f2019d53"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "5fUiGWpWmdOJM-r18x5nDrq0y75dHQOQ7TWjqkkSbP5V32EKoM6wNhd3Gne7kULfFJsxDX6ehvmMzFItRd2SAV41HQKcV_6w57BpC2q2n18e7N93kDJMmLZwMZuagrzhO36ztnj2CF9-dw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

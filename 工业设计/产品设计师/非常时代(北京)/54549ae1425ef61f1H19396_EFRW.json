@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4gV218BO4eVII-51eIYidOd4VvJNjKNXOuH9cmQBzLNrxA0aOhX8AUrvyFFnT6DvkZwTyvCQL5IuUk-x3SOL0XBAV74aNk6tDCN6WtTcya8NR40tnY5MqE_HCX3XM9L5lOPWn_ITZurzvA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "54549ae1425ef61f1H19396_EFRW",
-      "encryptUserId": "0d5adcc06e8e1fdc1Xxy0967ElI~",
-      "invalidStatus": false,
-      "jobName": "产品设计师",
-      "position": 120602,
-      "positionName": "工业设计",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "产品设计师一名，兼职、全职均可，承担文化创意产品设计，包装设计，有创新，可熟练操作平面及产品设计软件 工作时间、地点自由度高。",
-      "encryptAddressId": "59f6553107d3be221nB83925FlJXxYq8U_qd",
-      "address": "北京东城区鼓楼园108号",
-      "longitude": 116.399,
-      "latitude": 39.940577,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240304/48ba41acc9cef1bf8655223e5a137ff56dd9efa31c1fe3e46bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240304/48ba41acc9cef1bf3cfe6d35e2eed9a3d3c4ee57f78735336bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "3ds MAX",
-        "熟悉施工工艺",
-        "SketchUp",
-        "AutoCAD",
-        "AI",
-        "生活用品类",
-        "Corona",
-        "良好的方案沟通能力",
-        "文具",
-        "接受居家办公",
-        "日常用品"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220227/607f1f3d68754fd0e68ecc5d09e4d87d1cc4ab03e6ce07a80fa9172a7ab74ce5b7a82347141_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "非常时代(北京)",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "79ac4530d6e173e31nV42Nm4GFU~",
-      "brandName": "非常时代(北京)",
-      "logo": "https://c-res.zhipin.com/jrs/90e38449ebedd8c1a1439e387781d004.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "公司官网：supertimes.cn",
-      "labels": [
-        "五险一金",
-        "带薪年假"
-      ],
-      "activeTime": 1730907611390,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "非常时代(北京)",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "非常时代(北京)",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220227/607f1f3d68754fd0e68ecc5d09e4d87d1cc4ab03e6ce07a80fa9172a7ab74ce5b7a82347141_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730907611390,
+        "brandName": "非常时代(北京)",
+        "customerBrandName": "非常时代(北京)",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "79ac4530d6e173e31nV42Nm4GFU~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "公司官网：supertimes.cn",
+        "labels": [
+            "五险一金",
+            "带薪年假"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/90e38449ebedd8c1a1439e387781d004.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京东城区鼓楼园108号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "59f6553107d3be221nB83925FlJXxYq8U_qd",
+        "encryptId": "54549ae1425ef61f1H19396_EFRW",
+        "encryptUserId": "0d5adcc06e8e1fdc1Xxy0967ElI~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "产品设计师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.940577,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.399,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240304/48ba41acc9cef1bf3cfe6d35e2eed9a3d3c4ee57f78735336bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 120602,
+        "positionName": "工业设计",
+        "postDescription": "产品设计师一名，兼职、全职均可，承担文化创意产品设计，包装设计，有创新，可熟练操作平面及产品设计软件 工作时间、地点自由度高。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "3ds MAX",
+            "熟悉施工工艺",
+            "SketchUp",
+            "AutoCAD",
+            "AI",
+            "生活用品类",
+            "Corona",
+            "良好的方案沟通能力",
+            "文具",
+            "接受居家办公",
+            "日常用品"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240304/48ba41acc9cef1bf8655223e5a137ff56dd9efa31c1fe3e46bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4gV218BO4eVII-51eIYidOd4VvJNjKNXOuH9cmQBzLNrxA0aOhX8AUrvyFFnT6DvkZwTyvCQL5IuUk-x3SOL0XBAV74aNk6tDCN6WtTcya8NR40tnY5MqE_HCX3XM9L5lOPWn_ITZurzvA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

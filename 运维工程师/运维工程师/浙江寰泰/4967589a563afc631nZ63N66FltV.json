@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "67gH6cQyyhLOZ-01F608ipGibhTrx6pjbJ7upd9pgQU1gQbfNU3shs-HHjb5M6dl0r_r1V-8Waqg_eXMJrdHQSn5z-U7WV4cB6v5DjcYMshA2EkilxCj",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4967589a563afc631nZ63N66FltV",
-      "encryptUserId": "6888274223c6b4a90nV-2N2-EFBR",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "负责日常电主站的日常维护，负责电站抄表和电费回款，负责电主站负责故障处理。具有电工上岗证。责任心强，注重安全意识，爱岗敬业，能吃苦耐劳。",
-      "encryptAddressId": "960d87c05e490b571H1y2t27FVY~",
-      "address": "杭州余杭区余杭经济技术开发区创新创业产业园503",
-      "longitude": 120.242145,
-      "latitude": 30.454086,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff4cc0d590d3af097475fbde9e504964",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75317e4b64d8bf622ff869cb70ad5f1a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "分布式技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "欧女士",
-      "title": "总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "浙江寰泰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "280d16dae20ba6881nd93dy4FFI~",
-      "brandName": "浙江寰泰",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725252594748,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江寰泰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江寰泰",
+        "certificated": true,
+        "large": null,
+        "name": "欧女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725252594748,
+        "brandName": "浙江寰泰",
+        "customerBrandName": "浙江寰泰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "280d16dae20ba6881nd93dy4FFI~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区余杭经济技术开发区创新创业产业园503",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "960d87c05e490b571H1y2t27FVY~",
+        "encryptId": "4967589a563afc631nZ63N66FltV",
+        "encryptUserId": "6888274223c6b4a90nV-2N2-EFBR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.454086,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.242145,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75317e4b64d8bf622ff869cb70ad5f1a",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "负责日常电主站的日常维护，负责电站抄表和电费回款，负责电主站负责故障处理。具有电工上岗证。责任心强，注重安全意识，爱岗敬业，能吃苦耐劳。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "分布式技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff4cc0d590d3af097475fbde9e504964"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "67gH6cQyyhLOZ-01F608ipGibhTrx6pjbJ7upd9pgQU1gQbfNU3shs-HHjb5M6dl0r_r1V-8Waqg_eXMJrdHQSn5z-U7WV4cB6v5DjcYMshA2EkilxCj",
+    "selfAccess": false,
+    "sessionId": null
 }

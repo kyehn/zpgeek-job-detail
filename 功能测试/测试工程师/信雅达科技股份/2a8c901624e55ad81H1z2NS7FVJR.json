@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Axdqar0x5jdAQ-k1lahCZ8Mj1qiM1PAtcIc9XKfXGGLFFsocXILcWr1CRAyf4Ln-00GQqyC4MLRYXbIScFlhDo782lA3_bwZ-diQcmnv8B6VZ8U9obMb8GviZo30K0Opm3ijY9vqJQvx4w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2a8c901624e55ad81H1z2NS7FVJR",
-      "encryptUserId": "a6dd94c2e06d36001HV50ty8EFE~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101260100,
-      "locationName": "贵阳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "农信\n\n信贷测试--对应社保",
-      "encryptAddressId": "325157c865ef97070nV-29q4FlE~",
-      "address": "贵阳观山湖区贵州省农村信用社1",
-      "longitude": 106.645851,
-      "latitude": 26.635699,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95699e56339fc57895cbadd0a42d535e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ff1d695b9f00adcae003da84be58c6f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Fiddler",
-        "JMeter",
-        "信贷",
-        "Postman",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd02a16dbb65dbd9261cdd8ddc7940170a3f8b6c711cbbe92fc1437e82418fffae_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "信雅达科技股份",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "57516d195c7b21a21nd92dq0E1Q~",
-      "brandName": "信雅达科技股份",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210225/b6b6ab0f3ef5f7019da68e400b0c4f62945e4ac3ee86eefc9077d03e2bf809a2_s.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "信雅达，金融科技创新先锋，1996 年成立于中国杭州，2002 年公司股票在上海证券交易所主板上市（股票代码 600571.SH）。\n成立以来，信雅达始终致力于新技术和金融业务的深度融合，专注为银行、保险等金融客户提供完整的金融科技产品解决方案、技术和服务。现已为 3 大政策性银行、6 大国有商业银行、12家全国股份制银行，20 余家外资银行，数百家城市商业银行、农村信用社和民营银行，以及保险等金融客户提供完整的解决方案和服务，并为向俄罗斯、印度、马来西亚、新西兰、伊拉克等全球 40 余个国家和地区提供相关服务和产品。\n2021 年，信雅达更名为“信雅达科技股份有限公司”，聚焦金融科技，向“卓越的金融科技公司”这一目标发起冲锋。\n\n信雅达是1996年成立的，2002年上市，是浙江省首家主板上市的金融IT企业（股票代码：SH600571）。作为金融科技先锋，信雅达流程银行、电子银行、全面风险、信息安全等产品始终领跑市场，现为中国人民银行、四大政策性银行、六大国有商业银行、十二家全国股份制银行、二十余家外资银行和数百家城市商业银行、农村信用社和民营银行，以及保险、证券等大金融客户提供完整的产品、技术和解决方案。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "餐补",
-        "节日福利",
-        "股票期权",
-        "年终奖"
-      ],
-      "activeTime": 1731579156815,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "信雅达科技股份",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "信雅达科技股份",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd02a16dbb65dbd9261cdd8ddc7940170a3f8b6c711cbbe92fc1437e82418fffae_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731579156815,
+        "brandName": "信雅达科技股份",
+        "customerBrandName": "信雅达科技股份",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "57516d195c7b21a21nd92dq0E1Q~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "信雅达，金融科技创新先锋，1996 年成立于中国杭州，2002 年公司股票在上海证券交易所主板上市（股票代码 600571.SH）。\n成立以来，信雅达始终致力于新技术和金融业务的深度融合，专注为银行、保险等金融客户提供完整的金融科技产品解决方案、技术和服务。现已为 3 大政策性银行、6 大国有商业银行、12家全国股份制银行，20 余家外资银行，数百家城市商业银行、农村信用社和民营银行，以及保险等金融客户提供完整的解决方案和服务，并为向俄罗斯、印度、马来西亚、新西兰、伊拉克等全球 40 余个国家和地区提供相关服务和产品。\n2021 年，信雅达更名为“信雅达科技股份有限公司”，聚焦金融科技，向“卓越的金融科技公司”这一目标发起冲锋。\n\n信雅达是1996年成立的，2002年上市，是浙江省首家主板上市的金融IT企业（股票代码：SH600571）。作为金融科技先锋，信雅达流程银行、电子银行、全面风险、信息安全等产品始终领跑市场，现为中国人民银行、四大政策性银行、六大国有商业银行、十二家全国股份制银行、二十余家外资银行和数百家城市商业银行、农村信用社和民营银行，以及保险、证券等大金融客户提供完整的产品、技术和解决方案。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "餐补",
+            "节日福利",
+            "股票期权",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210225/b6b6ab0f3ef5f7019da68e400b0c4f62945e4ac3ee86eefc9077d03e2bf809a2_s.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "贵阳观山湖区贵州省农村信用社1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "325157c865ef97070nV-29q4FlE~",
+        "encryptId": "2a8c901624e55ad81H1z2NS7FVJR",
+        "encryptUserId": "a6dd94c2e06d36001HV50ty8EFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 26.635699,
+        "location": 101260100,
+        "locationName": "贵阳",
+        "longitude": 106.645851,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ff1d695b9f00adcae003da84be58c6f",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "农信\n\n信贷测试--对应社保",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "Fiddler",
+            "JMeter",
+            "信贷",
+            "Postman",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95699e56339fc57895cbadd0a42d535e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Axdqar0x5jdAQ-k1lahCZ8Mj1qiM1PAtcIc9XKfXGGLFFsocXILcWr1CRAyf4Ln-00GQqyC4MLRYXbIScFlhDo782lA3_bwZ-diQcmnv8B6VZ8U9obMb8GviZo30K0Opm3ijY9vqJQvx4w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zo3R09V2MtdJT-b1m3Oq3JxrwVXY6RbwWECRXimMlqXTf_gj9TIpmWQh3-nrf9l1iTLM9qVaDDOaT7nB509K22ivI-CrN9_ihfwv0t1qPLU0PBXhSPJ6avIdt21jECF-213xfsvpJ0hWtQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0465a696a20fa86c1nx-29y0EFBY",
-      "encryptUserId": "3dd097d7eba8f1d70HF-3NW9EFE~",
-      "invalidStatus": false,
-      "jobName": "数据分析程序员",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "分析基础数据，改进算法模型，开发应用程序。\n \n任职要求\n\n1、本科及以上学历，数学、物理、计算机等专业优先；\n2、扎实的数学和统计功底； \n3、熟练掌握Python或C++；",
-      "encryptAddressId": "0fc687ee74ce3db61n1439m5F1Y~",
-      "address": "杭州佳宝科创中心4号楼602",
-      "longitude": 120.369278,
-      "latitude": 30.310711,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e84ed49715d1f6fb86a215b99535ddc6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e4242eb42bed385422ed85719845a98",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "人力",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210228/b23aabbaf2f9f5df37783f8910169438c1c5377bcfdcb5c88b8d20c7f3d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "大一亿",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5b1b9483301170441nB929i_ElA~",
-      "brandName": "大一亿",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "年终奖",
-        "零食下午茶"
-      ],
-      "activeTime": 1725470851257,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大一亿",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "大一亿",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210228/b23aabbaf2f9f5df37783f8910169438c1c5377bcfdcb5c88b8d20c7f3d_b.jpg",
+        "title": "人力"
+    },
+    "brandComInfo": {
+        "activeTime": 1725470851257,
+        "brandName": "大一亿",
+        "customerBrandName": "大一亿",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "5b1b9483301170441nB929i_ElA~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "年终奖",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州佳宝科创中心4号楼602",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "0fc687ee74ce3db61n1439m5F1Y~",
+        "encryptId": "0465a696a20fa86c1nx-29y0EFBY",
+        "encryptUserId": "3dd097d7eba8f1d70HF-3NW9EFE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据分析程序员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.310711,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.369278,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e4242eb42bed385422ed85719845a98",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "分析基础数据，改进算法模型，开发应用程序。\n \n任职要求\n\n1、本科及以上学历，数学、物理、计算机等专业优先；\n2、扎实的数学和统计功底； \n3、熟练掌握Python或C++；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e84ed49715d1f6fb86a215b99535ddc6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zo3R09V2MtdJT-b1m3Oq3JxrwVXY6RbwWECRXimMlqXTf_gj9TIpmWQh3-nrf9l1iTLM9qVaDDOaT7nB509K22ivI-CrN9_ihfwv0t1qPLU0PBXhSPJ6avIdt21jECF-213xfsvpJ0hWtQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

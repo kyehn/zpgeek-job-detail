@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "dcoe7vhFUsroV-j17NPANjHORv7u7ews3bNkcUjyYsR-oYZm1Y0XOV8teBNdCw8sMOCQw57hkJY6gOjlevGmnzreZXYCcJzEdkquyARZhMN7oDYBDm8e",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "494765236721a7901HF73dm8FVpU",
-      "encryptUserId": "58c35dad24c41c350Xd62t-0GVpS",
-      "invalidStatus": false,
-      "jobName": "自动化",
-      "position": 100803,
-      "positionName": "自动化",
-      "location": 101030100,
-      "locationName": "天津",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "电气工程师，自动化工程师，IT软件工工程师",
-      "encryptAddressId": "5109969ff04e6bd00HF_2d68FlFZxIy_V_M~",
-      "address": "天津滨海新区天津经济技术开发区俊安发展大厦(南海路)100号",
-      "longitude": 117.701593,
-      "latitude": 39.028216,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfe1d46621deec8caebdcf592e37b8743a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230801/48ba41acc9cef1bf9e20d8d41576a9bfe9191cfaed9b752b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CAD",
-        "PLC编程",
-        "计算机相关专业",
-        "通信相关专业",
-        "电子电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨先生",
-      "title": "工程部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "哈尔滨英硕自动化科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ca7ab3d3c106e29c1HZ72tm1EFA~",
-      "brandName": "哈尔滨英硕自动化科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724563578000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "哈尔滨英硕自动化科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "哈尔滨英硕自动化科技",
+        "certificated": true,
+        "large": null,
+        "name": "杨先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "工程部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724563578000,
+        "brandName": "哈尔滨英硕自动化科技",
+        "customerBrandName": "哈尔滨英硕自动化科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ca7ab3d3c106e29c1HZ72tm1EFA~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "天津滨海新区天津经济技术开发区俊安发展大厦(南海路)100号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5109969ff04e6bd00HF_2d68FlFZxIy_V_M~",
+        "encryptId": "494765236721a7901HF73dm8FVpU",
+        "encryptUserId": "58c35dad24c41c350Xd62t-0GVpS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "自动化",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.028216,
+        "location": 101030100,
+        "locationName": "天津",
+        "longitude": 117.701593,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230801/48ba41acc9cef1bf9e20d8d41576a9bfe9191cfaed9b752b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100803,
+        "positionName": "自动化",
+        "postDescription": "电气工程师，自动化工程师，IT软件工工程师",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "CAD",
+            "PLC编程",
+            "计算机相关专业",
+            "通信相关专业",
+            "电子电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfe1d46621deec8caebdcf592e37b8743a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "dcoe7vhFUsroV-j17NPANjHORv7u7ews3bNkcUjyYsR-oYZm1Y0XOV8teBNdCw8sMOCQw57hkJY6gOjlevGmnzreZXYCcJzEdkquyARZhMN7oDYBDm8e",
+    "selfAccess": false,
+    "sessionId": null
 }

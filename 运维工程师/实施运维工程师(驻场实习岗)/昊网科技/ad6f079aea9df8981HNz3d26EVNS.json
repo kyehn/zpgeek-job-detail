@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "twl8mxYkCge6i-f1neNcF4N4zYsdB0tD8s1MUFk5XKIG3Ug_-FutlpMJHyPQpbvx3QSPj3xZ5GTd052Am7SWgb7ifQS2Sai-g8acpsC_0ot6EKtoasqOlW1L57EkaEwEWICxznxkX98Pew~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ad6f079aea9df8981HNz3d26EVNS",
-      "encryptUserId": "619a848c8a4380fe0XB52Ny4F1ZY",
-      "invalidStatus": false,
-      "jobName": "实施/运维工程师(驻场实习岗)",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "薪资：3k、提供住宿\n地点：北京青龙湖收费站\n人数：5人\n\n岗位职责：\n1、负责智慧化车道实施、运维。\n2、主要负责外场高速收费站现场实施、调试工作。\n\n任职要求：\n1、熟练掌握计算机的常规操作；\n2、熟练掌握linux的常用命令，能够进行系统升级实施、分析日志等；\n3、具备良好沟通、表达能力；\n4、能够适应高速收费站外场实施环境，进行相关实施工作。\n5、适应较高强度的工作压力，具有较强的责任心和工作责任感。\n6、能够在工作驻地住宿，临时问题可以现场处理。\n7、最好有驾照。",
-      "encryptAddressId": "447545c8e33909b41nVy2Ni1EVFUwI2-Uv-a",
-      "address": "北京房山区青龙湖主站收费站(S66京昆联络线入口)1",
-      "longitude": 116.112846,
-      "latitude": 39.773495,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240323/48ba41acc9cef1bff81677c5926a53ee8c3b6f0d805b01b36bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240323/48ba41acc9cef1bf5a4ef558185786e9d2b642247a26d6696bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "计算机相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "郭女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240319/607f1f3d68754fd0f98f1e59267c55a6930ce655534675e9ab6bc8ab39f52bd402efbdd570f92f6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "昊网科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2a2d00c93fe753311nJz2NS_FA~~",
-      "brandName": "昊网科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240329/7bf6f160950405e9796cacd5c30237f497e754e15239167aa3bf7dadffd2736a8336bbff8c51de99.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "北京昊网科技有限公司成立于2011年，注册资金为2000万元，拥有一支由多位云计算、大数据、网络安全方向的专家组成的团队；公司经营范围：安全开发与咨询、信息安全服务、云安全技术服务、大数据安全技术服务、区块链技术服务、智慧城市建设、智慧交通运维等。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1724059888246,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昊网科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昊网科技",
+        "certificated": true,
+        "large": null,
+        "name": "郭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240319/607f1f3d68754fd0f98f1e59267c55a6930ce655534675e9ab6bc8ab39f52bd402efbdd570f92f6_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1724059888246,
+        "brandName": "昊网科技",
+        "customerBrandName": "昊网科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "2a2d00c93fe753311nJz2NS_FA~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "北京昊网科技有限公司成立于2011年，注册资金为2000万元，拥有一支由多位云计算、大数据、网络安全方向的专家组成的团队；公司经营范围：安全开发与咨询、信息安全服务、云安全技术服务、大数据安全技术服务、区块链技术服务、智慧城市建设、智慧交通运维等。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240329/7bf6f160950405e9796cacd5c30237f497e754e15239167aa3bf7dadffd2736a8336bbff8c51de99.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京房山区青龙湖主站收费站(S66京昆联络线入口)1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "447545c8e33909b41nVy2Ni1EVFUwI2-Uv-a",
+        "encryptId": "ad6f079aea9df8981HNz3d26EVNS",
+        "encryptUserId": "619a848c8a4380fe0XB52Ny4F1ZY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施/运维工程师(驻场实习岗)",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.773495,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.112846,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240323/48ba41acc9cef1bf5a4ef558185786e9d2b642247a26d6696bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "薪资：3k、提供住宿\n地点：北京青龙湖收费站\n人数：5人\n\n岗位职责：\n1、负责智慧化车道实施、运维。\n2、主要负责外场高速收费站现场实施、调试工作。\n\n任职要求：\n1、熟练掌握计算机的常规操作；\n2、熟练掌握linux的常用命令，能够进行系统升级实施、分析日志等；\n3、具备良好沟通、表达能力；\n4、能够适应高速收费站外场实施环境，进行相关实施工作。\n5、适应较高强度的工作压力，具有较强的责任心和工作责任感。\n6、能够在工作驻地住宿，临时问题可以现场处理。\n7、最好有驾照。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "网络运维",
+            "计算机相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240323/48ba41acc9cef1bff81677c5926a53ee8c3b6f0d805b01b36bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "twl8mxYkCge6i-f1neNcF4N4zYsdB0tD8s1MUFk5XKIG3Ug_-FutlpMJHyPQpbvx3QSPj3xZ5GTd052Am7SWgb7ifQS2Sai-g8acpsC_0ot6EKtoasqOlW1L57EkaEwEWICxznxkX98Pew~~",
+    "selfAccess": false,
+    "sessionId": null
 }

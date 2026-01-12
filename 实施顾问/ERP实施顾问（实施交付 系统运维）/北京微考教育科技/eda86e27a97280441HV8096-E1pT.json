@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "aGcJ1DfI5OeW6-C1wQvG0EZnIMFKZsNrjm_BetRa201wKmT6EPcE8kL94FbrigrWDlpOjfppweLnqhjvvukBRH17kv2NQiQRNs-EkGZkGkjpepoynDqt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "eda86e27a97280441HV8096-E1pT",
-      "encryptUserId": "1dc0a00ef1dbb5800n182tW7FVBZ",
-      "invalidStatus": false,
-      "jobName": "ERP实施顾问（实施交付 系统运维）",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1.日常处理bug定位排查工作，对问题做出及时响应\n2.对重大问题发出及时预警\n3.协同各部门资源对整条业务链上下游的问题进行高效的处理流转，不断推动产品的优化迭代\n4.协助整个团队达到问题解决率目标，做好问题解决的过程支撑\n5.周期做出复盘，以数据分析方式呈现各节点的处理效率，提出优化建议和流程改进岗位要求",
-      "encryptAddressId": "168149ca660d55691nd62Nm0FVdY",
-      "address": "北京昌平区南国苑2楼205",
-      "longitude": 116.254199,
-      "latitude": 40.145957,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bf7d3048a04c253797958f886cd2707d3e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bfda40dd15ed24519446d097ca242a96276bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "财务相关专业",
-        "计算机相关专业",
-        "管理相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "罗女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230914/607f1f3d68754fd015be8e0782642093a1b7b47a467f705b7d7943b3c68b15ba70285387aa85fbd_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "北京微考教育科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0c9f48bf23ccb17e1HR62Nq6ElA~",
-      "brandName": "北京微考教育科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "零食下午茶",
-        "包吃",
-        "五险一金"
-      ],
-      "activeTime": 1729752882757,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京微考教育科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京微考教育科技",
+        "certificated": true,
+        "large": null,
+        "name": "罗女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230914/607f1f3d68754fd015be8e0782642093a1b7b47a467f705b7d7943b3c68b15ba70285387aa85fbd_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1729752882757,
+        "brandName": "北京微考教育科技",
+        "customerBrandName": "北京微考教育科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0c9f48bf23ccb17e1HR62Nq6ElA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "零食下午茶",
+            "包吃",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京昌平区南国苑2楼205",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "168149ca660d55691nd62Nm0FVdY",
+        "encryptId": "eda86e27a97280441HV8096-E1pT",
+        "encryptUserId": "1dc0a00ef1dbb5800n182tW7FVBZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "ERP实施顾问（实施交付 系统运维）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.145957,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.254199,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bfda40dd15ed24519446d097ca242a96276bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "1.日常处理bug定位排查工作，对问题做出及时响应\n2.对重大问题发出及时预警\n3.协同各部门资源对整条业务链上下游的问题进行高效的处理流转，不断推动产品的优化迭代\n4.协助整个团队达到问题解决率目标，做好问题解决的过程支撑\n5.周期做出复盘，以数据分析方式呈现各节点的处理效率，提出优化建议和流程改进岗位要求",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K·13薪",
+        "showSkills": [
+            "ERP",
+            "财务相关专业",
+            "计算机相关专业",
+            "管理相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230809/48ba41acc9cef1bf7d3048a04c253797958f886cd2707d3e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "aGcJ1DfI5OeW6-C1wQvG0EZnIMFKZsNrjm_BetRa201wKmT6EPcE8kL94FbrigrWDlpOjfppweLnqhjvvukBRH17kv2NQiQRNs-EkGZkGkjpepoynDqt",
+    "selfAccess": false,
+    "sessionId": null
 }

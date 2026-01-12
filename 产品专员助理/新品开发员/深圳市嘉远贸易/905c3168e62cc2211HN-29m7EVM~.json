@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "MarkGlYNrJnv6-_1L18eO9NJfaxqRIVy6-WpsUTe3RTU5wRPPrl1vypd2u0HPLW_JTZIz5uIWB4qcM2TXaD1Qt767e_ZCiGq9-llNtClJfIECrk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "905c3168e62cc2211HN-29m7EVM~",
-      "encryptUserId": "e58855607d6fb33e1XJ60tu8Fls~",
-      "invalidStatus": false,
-      "jobName": "新品开发员",
-      "position": 110108,
-      "positionName": "产品专员/助理",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "敦煌及速卖通开发新品及产品上新\n底薪+提成\n薪资面谈 有意向联系",
-      "encryptAddressId": "07b5df7e131fbe2e1w~~",
-      "address": null,
-      "longitude": 0.0,
-      "latitude": 0.0,
-      "staticMapUrl": "",
-      "pcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "产品助理",
-        "产品经理",
-        "电子商务"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170317/a389f8d49028e226f5961d45b997e1a08c7dd922ad47494fc02c388e12c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "深圳市嘉远贸易",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "aa1b1d62e58e763f0nF_39m0",
-      "brandName": "深圳市嘉远贸易",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170704/dfbe25fe46008079294ae008bf193d06a14d05c5446a94adf5653ecabeb0dcbf.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721571351797,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市嘉远贸易",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳市嘉远贸易",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170317/a389f8d49028e226f5961d45b997e1a08c7dd922ad47494fc02c388e12c_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721571351797,
+        "brandName": "深圳市嘉远贸易",
+        "customerBrandName": "深圳市嘉远贸易",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "aa1b1d62e58e763f0nF_39m0",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170704/dfbe25fe46008079294ae008bf193d06a14d05c5446a94adf5653ecabeb0dcbf.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": null,
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "07b5df7e131fbe2e1w~~",
+        "encryptId": "905c3168e62cc2211HN-29m7EVM~",
+        "encryptUserId": "e58855607d6fb33e1XJ60tu8Fls~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "新品开发员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 0.0,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 0.0,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "",
+        "position": 110108,
+        "positionName": "产品专员/助理",
+        "postDescription": "敦煌及速卖通开发新品及产品上新\n底薪+提成\n薪资面谈 有意向联系",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "产品助理",
+            "产品经理",
+            "电子商务"
+        ],
+        "staticMapUrl": ""
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "MarkGlYNrJnv6-_1L18eO9NJfaxqRIVy6-WpsUTe3RTU5wRPPrl1vypd2u0HPLW_JTZIz5uIWB4qcM2TXaD1Qt767e_ZCiGq9-llNtClJfIECrk~",
+    "selfAccess": false,
+    "sessionId": null
 }

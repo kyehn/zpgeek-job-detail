@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RJXjsKNmaTtgZ-s1tLhNQSys10xCGYD_pC98WaYKMaG1CvLQSaafTtWGPyW2b_zvySYDlWzpyPpCB4wzg8rjZz3giD8iCOuI9qsdengZ_jPrGr_1s8clAlZkdn0NAuYbRJIePZPcxBdbqMg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5e30068678eb8b401XBy0t66FFZQ",
-      "encryptUserId": "6342be0bf56273e00nF809i1FVJQ",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-15K",
-      "payTypeDesc": null,
-      "postDescription": "1.计算机、软件、电子、自动化及相关专业本科及以上学历\n2.精通主流软件测试方法（静态测试、动态测试、功能测试、性能测试、压力测试等），拥有至少2年嵌入式软件测试经验；\n3.熟练掌握C++/Python开发语言，熟悉数据结构及常见的设计模式，具备良好的编程能力\n4.熟悉linux\\Unix\\QNX等操作系统基础原理，有shell脚本编写能力优先\n5.熟悉Git/Docker/Cmake/CANoe等工具优先\n6.具备汽车行业软件开发及测试经验者优先\n7.有ROS相关经验者以及熟悉AUTOSAR标准优先。",
-      "encryptAddressId": "2c389d62c7ad1e5d0Xxy39W-F1A~",
-      "address": "上海嘉定区智能网联新能源汽车创新孵化中心602",
-      "longitude": 121.18158,
-      "latitude": 31.280245,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7766955cc2014ef0e617d39e406d2dcb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0813d430481f691ec5157cb91eabc9f1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业",
-        "通信相关专业",
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐女士",
-      "title": "人力总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220824/607f1f3d68754fd0d9b0874c55c6628e10792ea57002b5257496bbe6eb90d4b65ee83135a21_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "苏州碣石汽车科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "efc830aed2abd99f1XZ80927FVM~",
-      "brandName": "苏州碣石汽车科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100801,
-      "industryName": "汽车研发/制造",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721798723952,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州碣石汽车科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州碣石汽车科技",
+        "certificated": true,
+        "large": null,
+        "name": "徐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220824/607f1f3d68754fd0d9b0874c55c6628e10792ea57002b5257496bbe6eb90d4b65ee83135a21_b.jpg",
+        "title": "人力总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1721798723952,
+        "brandName": "苏州碣石汽车科技",
+        "customerBrandName": "苏州碣石汽车科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "efc830aed2abd99f1XZ80927FVM~",
+        "focusBrand": false,
+        "industry": 100801,
+        "industryName": "汽车研发/制造",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海嘉定区智能网联新能源汽车创新孵化中心602",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2c389d62c7ad1e5d0Xxy39W-F1A~",
+        "encryptId": "5e30068678eb8b401XBy0t66FFZQ",
+        "encryptUserId": "6342be0bf56273e00nF809i1FVJQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.280245,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.18158,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0813d430481f691ec5157cb91eabc9f1",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.计算机、软件、电子、自动化及相关专业本科及以上学历\n2.精通主流软件测试方法（静态测试、动态测试、功能测试、性能测试、压力测试等），拥有至少2年嵌入式软件测试经验；\n3.熟练掌握C++/Python开发语言，熟悉数据结构及常见的设计模式，具备良好的编程能力\n4.熟悉linux\\Unix\\QNX等操作系统基础原理，有shell脚本编写能力优先\n5.熟悉Git/Docker/Cmake/CANoe等工具优先\n6.具备汽车行业软件开发及测试经验者优先\n7.有ROS相关经验者以及熟悉AUTOSAR标准优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-15K",
+        "showSkills": [
+            "计算机相关专业",
+            "通信相关专业",
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7766955cc2014ef0e617d39e406d2dcb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RJXjsKNmaTtgZ-s1tLhNQSys10xCGYD_pC98WaYKMaG1CvLQSaafTtWGPyW2b_zvySYDlWzpyPpCB4wzg8rjZz3giD8iCOuI9qsdengZ_jPrGr_1s8clAlZkdn0NAuYbRJIePZPcxBdbqMg~",
+    "selfAccess": false,
+    "sessionId": null
 }

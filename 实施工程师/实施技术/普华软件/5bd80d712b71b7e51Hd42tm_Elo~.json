@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "z1l1T0_FZmcFF-11zqf6Zwpnopd9AL98blm7U_82TkcjQVISQ4KKaICLjROMho_QIm2YKhgK2rVANXDofNDoTrcrB7mfKBRqqCACkYeAc_B0U1ys4h9VKp05QtPmC6QScyvoM02w84g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5bd80d712b71b7e51Hd42tm_Elo~",
-      "encryptUserId": "5c6b86a683939a6603B839u1Flc~",
-      "invalidStatus": false,
-      "jobName": "实施技术",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101300300,
-      "locationName": "柳州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-6K",
-      "payTypeDesc": null,
-      "postDescription": "1:实施安装培训教客户使用软件，主要是实施进销存、财务软件，餐饮点餐软件，零售收银软件，加平时跟进维护。2:计算机专业毕业优先，能吃苦耐劳，有责任心，有耐心，性格活泼开朗，有较好执行能力与态度，财务专科或者有一定财务知识的经验优先。",
-      "encryptAddressId": "eaac11922adc26f23nZ_3N2-FQ~~",
-      "address": "柳州柳北区好机汇电脑城(团市委大院北)好机汇电脑城2048铺",
-      "longitude": 109.415162,
-      "latitude": 24.325478,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/230328590ef764f3b595faa90e07c891",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c51a288bfece83a8b9b29dc87f3bc82",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施",
-        "敏捷",
-        "数据库"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "普华软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5051e76965b1600c1nJ-0ty0GQ~~",
-      "brandName": "普华软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725447176540,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "普华软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "普华软件",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725447176540,
+        "brandName": "普华软件",
+        "customerBrandName": "普华软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5051e76965b1600c1nJ-0ty0GQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "柳州柳北区好机汇电脑城(团市委大院北)好机汇电脑城2048铺",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "eaac11922adc26f23nZ_3N2-FQ~~",
+        "encryptId": "5bd80d712b71b7e51Hd42tm_Elo~",
+        "encryptUserId": "5c6b86a683939a6603B839u1Flc~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施技术",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.325478,
+        "location": 101300300,
+        "locationName": "柳州",
+        "longitude": 109.415162,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c51a288bfece83a8b9b29dc87f3bc82",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1:实施安装培训教客户使用软件，主要是实施进销存、财务软件，餐饮点餐软件，零售收银软件，加平时跟进维护。2:计算机专业毕业优先，能吃苦耐劳，有责任心，有耐心，性格活泼开朗，有较好执行能力与态度，财务专科或者有一定财务知识的经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-6K",
+        "showSkills": [
+            "实施",
+            "敏捷",
+            "数据库"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/230328590ef764f3b595faa90e07c891"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "z1l1T0_FZmcFF-11zqf6Zwpnopd9AL98blm7U_82TkcjQVISQ4KKaICLjROMho_QIm2YKhgK2rVANXDofNDoTrcrB7mfKBRqqCACkYeAc_B0U1ys4h9VKp05QtPmC6QScyvoM02w84g~",
+    "selfAccess": false,
+    "sessionId": null
 }

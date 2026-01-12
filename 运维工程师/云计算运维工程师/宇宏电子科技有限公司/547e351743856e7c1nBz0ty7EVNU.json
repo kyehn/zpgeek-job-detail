@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Gu5If0fnERziM-o1p8u7PCA4yONUs3ty84O0xr3ZU6Cwx46RfcK2_FAcngk3TSbHMecO1_0SKHkryQICiurMjldqP7234wLRT40XCCGK2hVmY6nj2A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "547e351743856e7c1nBz0ty7EVNU",
-      "encryptUserId": "1e350b1aa20dea3d03J42tm1E1I~",
-      "invalidStatus": false,
-      "jobName": "云计算运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：1.负责项目驻场运维工作；2.负责提供云平台组件及硬件设备的运维监控，按要求完成日常巡检，处理日常问题；3.负责提供云平台的资源申请、变更等服务；4.负责整理、更新平台的配置信息档案，按要求出具相关报表。\n任职要求：1.大专及以上学历，计算机相关专业；2.熟悉Linux、WindowsServer等服务器操作系统的使用；3.了解阿里云、华为云等云计算产品，了解OpenStack架构组件，具备独立分析问题的能力；4.具备处理服务器、网络、安全等基础硬件设备故障及配置调优的能力；5.拥有主流云厂商相关认证者优先。",
-      "encryptAddressId": "e77b435bb19615d533162d2_Ew~~",
-      "address": "合肥蜀山区蔚蓝商务港C座1407",
-      "longitude": 117.233801,
-      "latitude": 31.813306,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44f1c229343d9eaa195ac6e93b6fbe08",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e84bc4aa8f06ccec542f78e4855daafa",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "大数据运维",
-        "机房运维",
-        "Linux",
-        "Windows",
-        "分布式技术",
-        "服务器配置"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "方先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "宇宏电子科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e3f9f2c507053b8d0nd-39S4Fg~~",
-      "brandName": "宇宏电子科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191219/b0c416301fff60449983f47a246b6e2288acc3d69e6f2eea61e0ce4d94a4cbd4.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "安徽宇宏电子科技有限公司成立于2011年，致力于呼叫中心和网络信息安全领域。公司成立以来一直稳步发展， 产品应用范围已经涉及政府、金融、教育等诸多行业， 目前已经和多家行业机构保持密切联系与深入合作。\n针对企业客户服务过程的各种痛点，公司自建有云呼叫中心平台，帮助企业彻底颠覆传统通讯服务体验，快速部署上线，降低运营成本，提升企业与客户的沟通效率，为企业带来极致的用户体验和超预期的使用价值，为沟通创造价值。经过几年的不懈努力，平台用户数每年都在稳步上升。未来，我们将持续专注于云呼叫应用领域，全力打造更好的平台和服务，帮助企业改变营销和服务模式，为推动企业业务转型和快速增长创造更大的价值。\n公司在网络安全领域与等多家上市安全公司有紧密合作，在信息安全，运维保障，数据库安全防护，网站防护，办公移动化等方面尽心为客户提供专业优质的产品，服务和解决方案。",
-      "labels": [
-        "全勤奖",
-        "年终奖",
-        "住房补贴",
-        "五险"
-      ],
-      "activeTime": 1729883059706,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宇宏电子科技有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宇宏电子科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "方先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729883059706,
+        "brandName": "宇宏电子科技有限公司",
+        "customerBrandName": "宇宏电子科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "e3f9f2c507053b8d0nd-39S4Fg~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "安徽宇宏电子科技有限公司成立于2011年，致力于呼叫中心和网络信息安全领域。公司成立以来一直稳步发展， 产品应用范围已经涉及政府、金融、教育等诸多行业， 目前已经和多家行业机构保持密切联系与深入合作。\n针对企业客户服务过程的各种痛点，公司自建有云呼叫中心平台，帮助企业彻底颠覆传统通讯服务体验，快速部署上线，降低运营成本，提升企业与客户的沟通效率，为企业带来极致的用户体验和超预期的使用价值，为沟通创造价值。经过几年的不懈努力，平台用户数每年都在稳步上升。未来，我们将持续专注于云呼叫应用领域，全力打造更好的平台和服务，帮助企业改变营销和服务模式，为推动企业业务转型和快速增长创造更大的价值。\n公司在网络安全领域与等多家上市安全公司有紧密合作，在信息安全，运维保障，数据库安全防护，网站防护，办公移动化等方面尽心为客户提供专业优质的产品，服务和解决方案。",
+        "labels": [
+            "全勤奖",
+            "年终奖",
+            "住房补贴",
+            "五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191219/b0c416301fff60449983f47a246b6e2288acc3d69e6f2eea61e0ce4d94a4cbd4.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区蔚蓝商务港C座1407",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e77b435bb19615d533162d2_Ew~~",
+        "encryptId": "547e351743856e7c1nBz0ty7EVNU",
+        "encryptUserId": "1e350b1aa20dea3d03J42tm1E1I~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "云计算运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.813306,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.233801,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e84bc4aa8f06ccec542f78e4855daafa",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容：1.负责项目驻场运维工作；2.负责提供云平台组件及硬件设备的运维监控，按要求完成日常巡检，处理日常问题；3.负责提供云平台的资源申请、变更等服务；4.负责整理、更新平台的配置信息档案，按要求出具相关报表。\n任职要求：1.大专及以上学历，计算机相关专业；2.熟悉Linux、WindowsServer等服务器操作系统的使用；3.了解阿里云、华为云等云计算产品，了解OpenStack架构组件，具备独立分析问题的能力；4.具备处理服务器、网络、安全等基础硬件设备故障及配置调优的能力；5.拥有主流云厂商相关认证者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "系统运维",
+            "大数据运维",
+            "机房运维",
+            "Linux",
+            "Windows",
+            "分布式技术",
+            "服务器配置"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44f1c229343d9eaa195ac6e93b6fbe08"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Gu5If0fnERziM-o1p8u7PCA4yONUs3ty84O0xr3ZU6Cwx46RfcK2_FAcngk3TSbHMecO1_0SKHkryQICiurMjldqP7234wLRT40XCCGK2hVmY6nj2A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

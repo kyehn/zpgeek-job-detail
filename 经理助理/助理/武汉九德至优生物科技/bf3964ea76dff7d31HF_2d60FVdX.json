@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Y0MAXN7ocERsY-v1yDnEgHe7AbY695D2z3CT1OuCz-9GsinL_plB5cDdBVJzb3gtIvPKWGmQtf6Qjk5Fa_jTuJM46l3zrLbioOl_c1yEoOAqrMQQWQYZpRcbkFQ8tI8jrA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bf3964ea76dff7d31HF_2d60FVdX",
-      "encryptUserId": "ea76a66d2158032e3nF-29q0EVo~",
-      "invalidStatus": false,
-      "jobName": "助理",
-      "position": 150205,
-      "positionName": "经理助理",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1.作为领导与店面之间的桥梁，负责与店面的沟通工作\n2.负责每天人数表格及销售期间的数据表格填报工作\n3.起草和修改报告、通知、制度、文稿等\n4.简单的视频剪辑操作\n5.完成上级领导交代的一切工作\n任职资格：\n1.文秘、行政管理等相关专业，中专以上学历，1-3年文员工作经历；可接受应届毕业生\n2.熟悉并熟练操作办公软件\n3.待人接物大方得体，具备良好的服务意识，并有良好的协调能力与沟通能力\n4.协调与市场销售等其他部门的工作，提供客服工作的支持",
-      "encryptAddressId": "0e9ee8e2193701ba33Vy09m4F1NRwYq4Vv0~",
-      "address": "武汉蔡甸区中核·锦城25栋3202",
-      "longitude": 114.055741,
-      "latitude": 30.561308,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230420/48ba41acc9cef1bf0ec36b9f49cfcfedb4ca34991f39dba26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230720/48ba41acc9cef1bf7d0e99c696f60698886b263736af42af6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "良好的沟通能力",
-        "3年以上秘书/助理经验",
-        "应急处置经验丰富"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "行政主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "武汉九德至优生物科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "39f12be4f97b976f1HB92t6-F1E~",
-      "brandName": "武汉九德至优生物科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 101114,
-      "industryName": "保健/养生",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735376835621,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉九德至优生物科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉九德至优生物科技",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "行政主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1735376835621,
+        "brandName": "武汉九德至优生物科技",
+        "customerBrandName": "武汉九德至优生物科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "39f12be4f97b976f1HB92t6-F1E~",
+        "focusBrand": false,
+        "industry": 101114,
+        "industryName": "保健/养生",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉蔡甸区中核·锦城25栋3202",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "0e9ee8e2193701ba33Vy09m4F1NRwYq4Vv0~",
+        "encryptId": "bf3964ea76dff7d31HF_2d60FVdX",
+        "encryptUserId": "ea76a66d2158032e3nF-29q0EVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.561308,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.055741,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230720/48ba41acc9cef1bf7d0e99c696f60698886b263736af42af6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 150205,
+        "positionName": "经理助理",
+        "postDescription": "工作内容：\n1.作为领导与店面之间的桥梁，负责与店面的沟通工作\n2.负责每天人数表格及销售期间的数据表格填报工作\n3.起草和修改报告、通知、制度、文稿等\n4.简单的视频剪辑操作\n5.完成上级领导交代的一切工作\n任职资格：\n1.文秘、行政管理等相关专业，中专以上学历，1-3年文员工作经历；可接受应届毕业生\n2.熟悉并熟练操作办公软件\n3.待人接物大方得体，具备良好的服务意识，并有良好的协调能力与沟通能力\n4.协调与市场销售等其他部门的工作，提供客服工作的支持",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "良好的沟通能力",
+            "3年以上秘书/助理经验",
+            "应急处置经验丰富"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230420/48ba41acc9cef1bf0ec36b9f49cfcfedb4ca34991f39dba26bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Y0MAXN7ocERsY-v1yDnEgHe7AbY695D2z3CT1OuCz-9GsinL_plB5cDdBVJzb3gtIvPKWGmQtf6Qjk5Fa_jTuJM46l3zrLbioOl_c1yEoOAqrMQQWQYZpRcbkFQ8tI8jrA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

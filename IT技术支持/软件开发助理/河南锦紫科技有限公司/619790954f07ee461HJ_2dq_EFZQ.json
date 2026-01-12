@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IcM8wEqqMdgLh-81f2XtZFmzI7oPc1jEazcH-b0AKdmI8j03AFYxSMmbIOXNlNHLLonn4ObfxyCOXjXOx3TrT5VlkZav5Yi8-gv-Iu9D_X7v0N2GDYxH",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "619790954f07ee461HJ_2dq_EFZQ",
-      "encryptUserId": "c8d6545124e40a911nV_0924GVBS",
-      "invalidStatus": false,
-      "jobName": "软件开发助理",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101180900,
-      "locationName": "洛阳",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "负责软件开发技术与客户的对接。\n需要踏实能干，勤奋好学\n具体请详聊\n会前端开发对htnl css js 或者vue react熟悉优先",
-      "encryptAddressId": "d54f715d7e4cc1de33193ti9ElA~",
-      "address": "洛阳瀍河回族区馨苑小区11-1-2703",
-      "longitude": 112.533007,
-      "latitude": 34.697042,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c2bad23f66091873795a9026fde7adb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e7f3fcb1ad1d9c70bed032986ce7ce9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机/通信相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "人事HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "河南锦紫科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "df009ce71ad068081XN70tm-GVs~",
-      "brandName": "河南锦紫科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230506/7b5b554d84f9729c529d3ea346fe87e7d585e509c4bb41c94c9819d85b821cced9d02cdd53e06ccd.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1724661331000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河南锦紫科技有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "河南锦紫科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "人事HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1724661331000,
+        "brandName": "河南锦紫科技有限公司",
+        "customerBrandName": "河南锦紫科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "df009ce71ad068081XN70tm-GVs~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230506/7b5b554d84f9729c529d3ea346fe87e7d585e509c4bb41c94c9819d85b821cced9d02cdd53e06ccd.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "洛阳瀍河回族区馨苑小区11-1-2703",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "d54f715d7e4cc1de33193ti9ElA~",
+        "encryptId": "619790954f07ee461HJ_2dq_EFZQ",
+        "encryptUserId": "c8d6545124e40a911nV_0924GVBS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件开发助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.697042,
+        "location": 101180900,
+        "locationName": "洛阳",
+        "longitude": 112.533007,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e7f3fcb1ad1d9c70bed032986ce7ce9",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "负责软件开发技术与客户的对接。\n需要踏实能干，勤奋好学\n具体请详聊\n会前端开发对htnl css js 或者vue react熟悉优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "计算机/通信相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c2bad23f66091873795a9026fde7adb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IcM8wEqqMdgLh-81f2XtZFmzI7oPc1jEazcH-b0AKdmI8j03AFYxSMmbIOXNlNHLLonn4ObfxyCOXjXOx3TrT5VlkZav5Yi8-gv-Iu9D_X7v0N2GDYxH",
+    "selfAccess": false,
+    "sessionId": null
 }

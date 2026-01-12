@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "kh-yoMuQr9DF2-61ZcYceVxNWw0yWSq6okYCGfPSak5vjfUQlDRpwT4Mw4VPCuF0EG2TBpydb0hl79DGKvxFiyL9WgIhSqV1hgKcQ-HNtYqNGTg3Ux7bqIxFhIMySfJoHw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "11821737f817719303Ry0tq0GVVW",
-      "encryptUserId": "d29368bd56db43440Xx73dS9GFVV",
-      "invalidStatus": false,
-      "jobName": "dcc文控专员",
-      "position": 150201,
-      "positionName": "行政专员/助理",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1、负责公司DCC文控相关工作；\n2、管理和维护文档控制体系，确保信息准确性和安全性；\n3、协助处理文档相关的行政事务，提高工作效率。\n\n岗位要求：\n1、具备良好的组织和管理能力；\n2、能够熟练操作办公软件及相关文控系统；\n3、具有较强的沟通和协调能力。",
-      "encryptAddressId": "ec0f7759690fdce71nB539S9F1pQyoW3Uf-d",
-      "address": "杭州临平区杭州达维先医药科技有限公司东湖北路488-1号13幢",
-      "longitude": 120.301775,
-      "latitude": 30.451189,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230619/48ba41acc9cef1bf62609fd9028be92164d9da3499849b206bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230619/48ba41acc9cef1bfced14fabaab716d2e7f1d2c3b14eb22c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "档案管理",
-        "文字功底扎实",
-        "保密管理",
-        "印章管理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蓝女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "达维先/医药",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f4765a0711be921d0nd72di5Eg~~",
-      "brandName": "达维先/医药",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190802/78d965aee2f9439bbb1573b6a3595851614ca77753fad9603d109d572cc9f036_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100401,
-      "industryName": "生物/制药",
-      "introduce": "杭州达维先医药科技有限公司座落在历史悠久、景色秀丽的西子湖畔，是一家集科研、生产和销售为一体的高新科技型企业。主要从事皮肤、粘膜疾病的防治与研究及相关产品的研发、生产。公司自创建以来，一直秉承“崇尚科学、诚信服务、不断创新、质量求精”的核心价值观和市场指导理念，对自身的原材料采购、产品的生产和销售等方面进行严格把关，并引入GMP认证标准增强自身的生产执行力，积极与国际化接轨。经过几年的辛勤开拓，公司产品销往全国各地，优质的产品及高效的服务在社会上树立起了良好的企业形象，受到了社会各界与广大客户的普遍依赖与赞扬。",
-      "labels": [],
-      "activeTime": 1735894555632,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "达维先/医药",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "达维先/医药",
+        "certificated": true,
+        "large": null,
+        "name": "蓝女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1735894555632,
+        "brandName": "达维先/医药",
+        "customerBrandName": "达维先/医药",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f4765a0711be921d0nd72di5Eg~~",
+        "focusBrand": false,
+        "industry": 100401,
+        "industryName": "生物/制药",
+        "introduce": "杭州达维先医药科技有限公司座落在历史悠久、景色秀丽的西子湖畔，是一家集科研、生产和销售为一体的高新科技型企业。主要从事皮肤、粘膜疾病的防治与研究及相关产品的研发、生产。公司自创建以来，一直秉承“崇尚科学、诚信服务、不断创新、质量求精”的核心价值观和市场指导理念，对自身的原材料采购、产品的生产和销售等方面进行严格把关，并引入GMP认证标准增强自身的生产执行力，积极与国际化接轨。经过几年的辛勤开拓，公司产品销往全国各地，优质的产品及高效的服务在社会上树立起了良好的企业形象，受到了社会各界与广大客户的普遍依赖与赞扬。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190802/78d965aee2f9439bbb1573b6a3595851614ca77753fad9603d109d572cc9f036_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州临平区杭州达维先医药科技有限公司东湖北路488-1号13幢",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "ec0f7759690fdce71nB539S9F1pQyoW3Uf-d",
+        "encryptId": "11821737f817719303Ry0tq0GVVW",
+        "encryptUserId": "d29368bd56db43440Xx73dS9GFVV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "dcc文控专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.451189,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.301775,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230619/48ba41acc9cef1bfced14fabaab716d2e7f1d2c3b14eb22c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 150201,
+        "positionName": "行政专员/助理",
+        "postDescription": "工作内容：\n1、负责公司DCC文控相关工作；\n2、管理和维护文档控制体系，确保信息准确性和安全性；\n3、协助处理文档相关的行政事务，提高工作效率。\n\n岗位要求：\n1、具备良好的组织和管理能力；\n2、能够熟练操作办公软件及相关文控系统；\n3、具有较强的沟通和协调能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "档案管理",
+            "文字功底扎实",
+            "保密管理",
+            "印章管理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230619/48ba41acc9cef1bf62609fd9028be92164d9da3499849b206bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "kh-yoMuQr9DF2-61ZcYceVxNWw0yWSq6okYCGfPSak5vjfUQlDRpwT4Mw4VPCuF0EG2TBpydb0hl79DGKvxFiyL9WgIhSqV1hgKcQ-HNtYqNGTg3Ux7bqIxFhIMySfJoHw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

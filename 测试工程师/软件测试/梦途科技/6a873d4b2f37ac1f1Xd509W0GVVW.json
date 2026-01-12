@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rkwWvbtl2T3SS-W1KdKXN7eRQpbLRy57TEQ6yz_tOt7HAnkStoQQhFKF4bogs2qETWfzbV-otXj2oEFKlLb5HVaODndfSvci0OulSJYeuXiNOavqfO9QE5BB-NPFaXeLM8AoKH5HgrIqfQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6a873d4b2f37ac1f1Xd509W0GVVW",
-      "encryptUserId": "e321b80b9a31463603dy2N-6FFQ~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、 深入理解业务需求，根据系统设计可独立完成测试方案、测试用例设计、测试报告等工作；\n2、 搭建测试环境，能根据测试用例独立进行测试脚本的开发并执行，规范提交缺陷；\n3、 对测试中发现的问题进行详细分析和准确定位，与开发人员讨论缺陷解决方案，推动问题及时合理的解决；\n4、 负责跟踪分析项目测试情况及项目整体进展，及时对项目可预见的风险提供警告及分析，并提出可行性建议；\n5、 根据项目实际运行特点，提出效率提升建议，敢于尝试新方法提高测试效率和提升测试深度；\n6. 和产品经理，项目经理，开发，运维等角色进行良好的沟通协助，共同推进产品的客户满意度；",
-      "encryptAddressId": "8dd15547220392610XB42tW8EVc~",
-      "address": "无锡滨湖区无锡梦途科技有限公司二楼",
-      "longitude": 120.321873,
-      "latitude": 31.483288,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82fc11c26c4a8f8c82a7d40e53e169f9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d48f6f50c4515bd16c10d99e86e469dd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试开发",
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190421/56aaa655e523785a5aa12474cf6ad37e960f40e258c0d68d6a02b0b83ce_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "梦途科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "978fc4cafbc421481XV839m8F1c~",
-      "brandName": "梦途科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "生日福利",
-        "团建聚餐",
-        "全勤奖",
-        "节假日加班费",
-        "加班补助"
-      ],
-      "activeTime": 1725465910000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "梦途科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "梦途科技",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190421/56aaa655e523785a5aa12474cf6ad37e960f40e258c0d68d6a02b0b83ce_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725465910000,
+        "brandName": "梦途科技",
+        "customerBrandName": "梦途科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "978fc4cafbc421481XV839m8F1c~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "生日福利",
+            "团建聚餐",
+            "全勤奖",
+            "节假日加班费",
+            "加班补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡滨湖区无锡梦途科技有限公司二楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8dd15547220392610XB42tW8EVc~",
+        "encryptId": "6a873d4b2f37ac1f1Xd509W0GVVW",
+        "encryptUserId": "e321b80b9a31463603dy2N-6FFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.483288,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.321873,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d48f6f50c4515bd16c10d99e86e469dd",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、 深入理解业务需求，根据系统设计可独立完成测试方案、测试用例设计、测试报告等工作；\n2、 搭建测试环境，能根据测试用例独立进行测试脚本的开发并执行，规范提交缺陷；\n3、 对测试中发现的问题进行详细分析和准确定位，与开发人员讨论缺陷解决方案，推动问题及时合理的解决；\n4、 负责跟踪分析项目测试情况及项目整体进展，及时对项目可预见的风险提供警告及分析，并提出可行性建议；\n5、 根据项目实际运行特点，提出效率提升建议，敢于尝试新方法提高测试效率和提升测试深度；\n6. 和产品经理，项目经理，开发，运维等角色进行良好的沟通协助，共同推进产品的客户满意度；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "测试开发",
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82fc11c26c4a8f8c82a7d40e53e169f9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rkwWvbtl2T3SS-W1KdKXN7eRQpbLRy57TEQ6yz_tOt7HAnkStoQQhFKF4bogs2qETWfzbV-otXj2oEFKlLb5HVaODndfSvci0OulSJYeuXiNOavqfO9QE5BB-NPFaXeLM8AoKH5HgrIqfQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

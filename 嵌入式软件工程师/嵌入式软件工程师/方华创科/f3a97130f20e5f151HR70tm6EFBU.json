@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vHRdWc8OQ5uc_-u1z6I1cKVLkLMPWuNsoioIrPgSB0a7hQNclLnMKGqqfadgLsgOkSLPDMJJgMnxQ1Tr-69lGpwNNKnz9QdotpwzPHN6vz0pPhqvFOc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f3a97130f20e5f151HR70tm6EFBU",
-      "encryptUserId": "c2360061a8ebee1f0HR72dm0EFI~",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "职责描述： \n1、方案设计，负责或参与项目的总体设计方案及方案评审，进行项目方案完善或修正； \n2、模块设计，对总体设计方案中的软件功能模块进行细化，编写模块设计说明书； \n3、代码编写，依据模块设计说明书中的描述编写代码，并对每个模块进行白盒测试； \n4、功能调试，依据方案设计说明书对模块功能进行调试，调试结束后撰写调试记录； \n5、文档编写，软件开发过程中同步整理程序说明、配置说明，开发完成后提供用户使用说明书； \n\n任职要求： \n1、本科学历，电机与电器、控制工程、自动化等相关专业；\n2、有2年以上控制器、控制卡相关开发经验，有从事驱动器产品开发及算法的开发经验者优先 ； \n3、熟悉C语言开发，有了解DSP、ARM、FPGA、CPLD等的硬件架构和编程； \n4、熟悉MATLAB仿真者优先； \n5、良好的团队协作精神、沟通协调能力；有强烈的进取心和敬业精神。",
-      "encryptAddressId": "87fd7e86effea51f1nRy2tS_EFVV",
-      "address": "长沙岳麓区梅溪湖西1",
-      "longitude": 112.881778,
-      "latitude": 28.186164,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c09f7512bc114660a0401e65a8dab680",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5bc6b624728d8ef88e94d9e2f5c535a0",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "嵌入式/单片机开发经验",
-        "英语读写能力良好"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190717/cff1b17de264368fb8dfe21ceac165a77375217f3701637d90ef1e89b10_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "方华创科",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2d1eb04d308db53f1X1439-1GFE~",
-      "brandName": "方华创科",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721696820528,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "方华创科",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "方华创科",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190717/cff1b17de264368fb8dfe21ceac165a77375217f3701637d90ef1e89b10_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1721696820528,
+        "brandName": "方华创科",
+        "customerBrandName": "方华创科",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2d1eb04d308db53f1X1439-1GFE~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区梅溪湖西1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "87fd7e86effea51f1nRy2tS_EFVV",
+        "encryptId": "f3a97130f20e5f151HR70tm6EFBU",
+        "encryptUserId": "c2360061a8ebee1f0HR72dm0EFI~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.186164,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.881778,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5bc6b624728d8ef88e94d9e2f5c535a0",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "职责描述： \n1、方案设计，负责或参与项目的总体设计方案及方案评审，进行项目方案完善或修正； \n2、模块设计，对总体设计方案中的软件功能模块进行细化，编写模块设计说明书； \n3、代码编写，依据模块设计说明书中的描述编写代码，并对每个模块进行白盒测试； \n4、功能调试，依据方案设计说明书对模块功能进行调试，调试结束后撰写调试记录； \n5、文档编写，软件开发过程中同步整理程序说明、配置说明，开发完成后提供用户使用说明书； \n\n任职要求： \n1、本科学历，电机与电器、控制工程、自动化等相关专业；\n2、有2年以上控制器、控制卡相关开发经验，有从事驱动器产品开发及算法的开发经验者优先 ； \n3、熟悉C语言开发，有了解DSP、ARM、FPGA、CPLD等的硬件架构和编程； \n4、熟悉MATLAB仿真者优先； \n5、良好的团队协作精神、沟通协调能力；有强烈的进取心和敬业精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "嵌入式/单片机开发经验",
+            "英语读写能力良好"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c09f7512bc114660a0401e65a8dab680"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vHRdWc8OQ5uc_-u1z6I1cKVLkLMPWuNsoioIrPgSB0a7hQNclLnMKGqqfadgLsgOkSLPDMJJgMnxQ1Tr-69lGpwNNKnz9QdotpwzPHN6vz0pPhqvFOc~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZxF7v6QeYQXB_-I1flCdauSNfPvHaQscxdfpz7QskcwKYpzyqrtQhiQvp7Y8_4d35N8PzTs9WX72oovSaLusoBQ-kbwb9-jPE0lpZjlXH63yB6SUJENaYaRVDm8NX_gJ3j7f9cLYVV-Di38A0ZE318_AqhPH",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a7a354fa023da5ef1Xd-39-5GVNW",
-      "encryptUserId": "b8b742e0d6a5d0a603B639i1E1I~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "​岗位职责：\n    ​    ​    ​    ​1、处理所有来自市场、网络运行、产品的算法Demo需求处理；\n    ​    ​    ​    ​2、软件运维现场反馈算法Bug验证分析；\n                3、驻场测试、数据采集、需求对接；\n    ​    ​    ​    ​4、网络数据收集、模拟数据录制；\n                5、熟悉Python编程语言；",
-      "encryptAddressId": "a4cfef8825574eff1nN-3t-7F1E~",
-      "address": "西安雁塔区创业研发园瞪羚谷A座301",
-      "longitude": 108.860384,
-      "latitude": 34.195221,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19791f03456eb18c6525554ceee8c2be",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6affe6b140f12404bb80ee613b109576",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180807/8099f6cd19f2b1dd3d9aa97b929ff8c4cfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "圣瞳",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "adc870daae696e0c1Hx83d6_FlQ~",
-      "brandName": "圣瞳",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241128/7bf6f160950405e92c87f2d7fdf087f751402d13377e8218ae43fb7c38f01381e92c144fdd635a06.png.webp",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "圣瞳科技致力于打造新一代工业巡检大模型，专注于做工业领域的Al大模型创新。自主研发30亿级参数的预训练模型\"圣瞳智巡\"，并基于此推出了电力、煤矿、化工等7亿级参数的行业大模型。同时还打造了AI产品矩阵，为工业客户提供全链路Al解决方案，建设基于工业AI巡检平台的数据管理．模型训练、模型应用、设备接入等服务。满足工业场景下对于人员安全、设备状态、生产流程、现场环境的巡检需求，推动Al技术与业务场景的深度融合，实现企业业务链、技术链、数据链三链贯通，加速迈向工业智能化的时代。\n●以“云边智慧赋能工业巡检”为使命\n●以“减少每一起工业事故”为愿景",
-      "labels": [
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1735644625444,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "圣瞳",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "圣瞳",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180807/8099f6cd19f2b1dd3d9aa97b929ff8c4cfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1735644625444,
+        "brandName": "圣瞳",
+        "customerBrandName": "圣瞳",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "adc870daae696e0c1Hx83d6_FlQ~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "圣瞳科技致力于打造新一代工业巡检大模型，专注于做工业领域的Al大模型创新。自主研发30亿级参数的预训练模型\"圣瞳智巡\"，并基于此推出了电力、煤矿、化工等7亿级参数的行业大模型。同时还打造了AI产品矩阵，为工业客户提供全链路Al解决方案，建设基于工业AI巡检平台的数据管理．模型训练、模型应用、设备接入等服务。满足工业场景下对于人员安全、设备状态、生产流程、现场环境的巡检需求，推动Al技术与业务场景的深度融合，实现企业业务链、技术链、数据链三链贯通，加速迈向工业智能化的时代。\n●以“云边智慧赋能工业巡检”为使命\n●以“减少每一起工业事故”为愿景",
+        "labels": [
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241128/7bf6f160950405e92c87f2d7fdf087f751402d13377e8218ae43fb7c38f01381e92c144fdd635a06.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区创业研发园瞪羚谷A座301",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "a4cfef8825574eff1nN-3t-7F1E~",
+        "encryptId": "a7a354fa023da5ef1Xd-39-5GVNW",
+        "encryptUserId": "b8b742e0d6a5d0a603B639i1E1I~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.195221,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.860384,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6affe6b140f12404bb80ee613b109576",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "岗位职责：\n                1、处理所有来自市场、网络运行、产品的算法Demo需求处理；\n                2、软件运维现场反馈算法Bug验证分析；\n                3、驻场测试、数据采集、需求对接；\n                4、网络数据收集、模拟数据录制；\n                5、熟悉Python编程语言；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K·13薪",
+        "showSkills": [
+            "Linux"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19791f03456eb18c6525554ceee8c2be"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZxF7v6QeYQXB_-I1flCdauSNfPvHaQscxdfpz7QskcwKYpzyqrtQhiQvp7Y8_4d35N8PzTs9WX72oovSaLusoBQ-kbwb9-jPE0lpZjlXH63yB6SUJENaYaRVDm8NX_gJ3j7f9cLYVV-Di38A0ZE318_AqhPH",
+    "selfAccess": false,
+    "sessionId": null
 }

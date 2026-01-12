@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Wo-oprTwEwkoN-L1mPVcm5b7izcRb7AthGlDSMKkPrfxtZaBIHT3v19ieADCt6I1UGh_zwnu0YQPhVGdwQvo0emQHJnYHfP6uYZOxLhcy6WlrAsr4wuy",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "45e018fc6afd28281nF73tq7GFZU",
-      "encryptUserId": "3aefb7fe77b709190nZ939S0FVJY",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、从事基于J2EE的HR、OA等系统的企业应用平台开发工作。\n2、依据项目要求和相关规范，参与开发的详细设计和相应文档的编写。\n3、根据项目要求和编码规范，基于J2EE平台完成对应的开发工作。\n4、根据项目要求，配合其他项目人员完成集成测试、系统测试和系统交付等工作。\n任职资格：\n1、计算机或相关专业大专或者大专以上学历；\n2、具备较扎实的JAVA编程基本功，熟悉常用的数据结构, 算法知识；\n3、熟悉使用Eclipse、Tomcat等开发工具，了解Java网络编程技术和多线程技术；\n4、熟悉J2EE技术平台; 熟悉Spring，Hibernate等主流的开发框架；\n5、熟悉基于MySQL或Oracle的设计和开发、SVN操作；\n6、具备较强的学习能力和良好的英语阅读能力，适应力强、能快速进入工作状态；\n具有较强的敬业精神，对工作认真、细致、负责；积极主动；具备较好的语言表达和沟通能力，较强的逻辑思维能力和团队合作精神，并能在一定压力下完成工作。",
-      "encryptAddressId": "bf57aa842184096803dy09y7EFQ~",
-      "address": "广州番禺区恒达工业园(南门)创意中心510室",
-      "longitude": 113.296887,
-      "latitude": 23.034947,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60c76bd456bcaa17098bdfd401dc6a7d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfd3ae83129ea7ba16b91d6f90cbe1ee",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "服务器配置",
-        "分布式技术",
-        "SpringMVC",
-        "MySQL",
-        "后端开发",
-        "WEB开发",
-        "Linux",
-        "软件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "童女士",
-      "title": "HRD",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "广州联成",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "925d4ad8c33752581nF_3du7GVM~",
-      "brandName": "广州联成",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "通讯补贴",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1721548494396,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州联成",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州联成",
+        "certificated": true,
+        "large": null,
+        "name": "童女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "HRD"
+    },
+    "brandComInfo": {
+        "activeTime": 1721548494396,
+        "brandName": "广州联成",
+        "customerBrandName": "广州联成",
+        "customerBrandStageName": "",
+        "encryptBrandId": "925d4ad8c33752581nF_3du7GVM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "通讯补贴",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区恒达工业园(南门)创意中心510室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bf57aa842184096803dy09y7EFQ~",
+        "encryptId": "45e018fc6afd28281nF73tq7GFZU",
+        "encryptUserId": "3aefb7fe77b709190nZ939S0FVJY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.034947,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.296887,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfd3ae83129ea7ba16b91d6f90cbe1ee",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作职责：\n1、从事基于J2EE的HR、OA等系统的企业应用平台开发工作。\n2、依据项目要求和相关规范，参与开发的详细设计和相应文档的编写。\n3、根据项目要求和编码规范，基于J2EE平台完成对应的开发工作。\n4、根据项目要求，配合其他项目人员完成集成测试、系统测试和系统交付等工作。\n任职资格：\n1、计算机或相关专业大专或者大专以上学历；\n2、具备较扎实的JAVA编程基本功，熟悉常用的数据结构, 算法知识；\n3、熟悉使用Eclipse、Tomcat等开发工具，了解Java网络编程技术和多线程技术；\n4、熟悉J2EE技术平台; 熟悉Spring，Hibernate等主流的开发框架；\n5、熟悉基于MySQL或Oracle的设计和开发、SVN操作；\n6、具备较强的学习能力和良好的英语阅读能力，适应力强、能快速进入工作状态；\n具有较强的敬业精神，对工作认真、细致、负责；积极主动；具备较好的语言表达和沟通能力，较强的逻辑思维能力和团队合作精神，并能在一定压力下完成工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "服务器配置",
+            "分布式技术",
+            "SpringMVC",
+            "MySQL",
+            "后端开发",
+            "WEB开发",
+            "Linux",
+            "软件工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60c76bd456bcaa17098bdfd401dc6a7d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Wo-oprTwEwkoN-L1mPVcm5b7izcRb7AthGlDSMKkPrfxtZaBIHT3v19ieADCt6I1UGh_zwnu0YQPhVGdwQvo0emQHJnYHfP6uYZOxLhcy6WlrAsr4wuy",
+    "selfAccess": false,
+    "sessionId": null
 }

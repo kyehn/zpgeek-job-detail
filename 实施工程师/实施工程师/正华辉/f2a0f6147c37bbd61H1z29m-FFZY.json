@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bmwr8Bc4rwYt7-I1J8O9ZPZKsxifNPsCFFBk9-24Tveoq7SGyX4tExEGiaTSkGA__VeDP0g4wgtnrUUvJ-Nfg8ke9wI30V2sNxNboH_Zfjv_rzqpojNrMZtwUssmK2vngRFcK75R0-Z2",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f2a0f6147c37bbd61H1z29m-FFZY",
-      "encryptUserId": "1cf5beef4cffe1150Hx809S6F1o~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "地铁机电系统检修维护\r\n\r\n加分项\r\n有以下行业经验：通信/网络设备",
-      "encryptAddressId": "6b5d104837d38d4f1nBy0924GFJTwIS8U_mf",
-      "address": "深圳南山区深圳市正华辉机电设备有限公司木棉坑工业区号48号101",
-      "longitude": 113.973308,
-      "latitude": 22.627156,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241113/48ba41acc9cef1bf076244108a98b03c7980e36d9034d3356bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241113/48ba41acc9cef1bf84dcb69e3392ffaddfce2d51b23209c26bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机电自动化"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "何女士",
-      "title": "综合部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "正华辉",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "82680181902b5a611XBz092-EA~~",
-      "brandName": "正华辉",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190716/257ee97bedb194906c7ff4bda69e48beb4e0395444a1b2319257397063f1b9ae.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "公司成立于2002年，在计算机网络信息系统、建筑智能化系统、城市轨道交通等系统项目有着丰富的工程施工和管理经验，其中包括办公自动化系统、综合布线系统、计算机网络系统、楼宇自动控制系统、保安监控及防盗报警系统、一卡通系统、广播系统、多媒体数字会议系统、视频点播系统、智能化小区综合物业管理系统、智能灯光、音响控制系统、火灾报警系统、计算机技防项目等智能化项目及计算机集成项目的设计、安装及维护服务等。\n正华辉机电设备有限公司极致创新、智慧共享——从核心技术自主研发、方案设计到运维实施，从整体构架设计到系统方案解决，从集成管理平台到项目施工管理，使我们成为卓越的行业优质服务商的引领者。\n此外，公司专业从事低压配电柜、工业自动化系统控制柜、智能化系统控制柜等机电类设备的设计、生产和维护等工作。公司控制柜成套产品及其他机电设备，服务范围涵盖大型楼宇、公路、隧道、桥梁、铁路、轨道交通、机场航空、广播电视等领域，并取得了骄人的业绩，得到顾客的一致好评。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1731592868113,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "正华辉",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "正华辉",
+        "certificated": true,
+        "large": null,
+        "name": "何女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "综合部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731592868113,
+        "brandName": "正华辉",
+        "customerBrandName": "正华辉",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "82680181902b5a611XBz092-EA~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "公司成立于2002年，在计算机网络信息系统、建筑智能化系统、城市轨道交通等系统项目有着丰富的工程施工和管理经验，其中包括办公自动化系统、综合布线系统、计算机网络系统、楼宇自动控制系统、保安监控及防盗报警系统、一卡通系统、广播系统、多媒体数字会议系统、视频点播系统、智能化小区综合物业管理系统、智能灯光、音响控制系统、火灾报警系统、计算机技防项目等智能化项目及计算机集成项目的设计、安装及维护服务等。\n正华辉机电设备有限公司极致创新、智慧共享——从核心技术自主研发、方案设计到运维实施，从整体构架设计到系统方案解决，从集成管理平台到项目施工管理，使我们成为卓越的行业优质服务商的引领者。\n此外，公司专业从事低压配电柜、工业自动化系统控制柜、智能化系统控制柜等机电类设备的设计、生产和维护等工作。公司控制柜成套产品及其他机电设备，服务范围涵盖大型楼宇、公路、隧道、桥梁、铁路、轨道交通、机场航空、广播电视等领域，并取得了骄人的业绩，得到顾客的一致好评。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190716/257ee97bedb194906c7ff4bda69e48beb4e0395444a1b2319257397063f1b9ae.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区深圳市正华辉机电设备有限公司木棉坑工业区号48号101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6b5d104837d38d4f1nBy0924GFJTwIS8U_mf",
+        "encryptId": "f2a0f6147c37bbd61H1z29m-FFZY",
+        "encryptUserId": "1cf5beef4cffe1150Hx809S6F1o~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.627156,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.973308,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241113/48ba41acc9cef1bf84dcb69e3392ffaddfce2d51b23209c26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "地铁机电系统检修维护\r\n\r\n加分项\r\n有以下行业经验：通信/网络设备",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "机电自动化"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241113/48ba41acc9cef1bf076244108a98b03c7980e36d9034d3356bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bmwr8Bc4rwYt7-I1J8O9ZPZKsxifNPsCFFBk9-24Tveoq7SGyX4tExEGiaTSkGA__VeDP0g4wgtnrUUvJ-Nfg8ke9wI30V2sNxNboH_Zfjv_rzqpojNrMZtwUssmK2vngRFcK75R0-Z2",
+    "selfAccess": false,
+    "sessionId": null
 }

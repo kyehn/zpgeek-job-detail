@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "aoiRRGJjiXBkh-11kx7qxl5R4urdP70HNxbbvda-RaJEfCBJGsznWDZodRgMj8OykW4e0Wk1LmquD1KQKXOuBAivnHqZiHoj8zQCQkuNBGI3QUDGpYg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d8bd2600a23201d23nZy3dW1EVo~",
-      "encryptUserId": "dfd89e23de9629561nZ70928GVtV",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "精通Java常规架构开发\n按时完成任务",
-      "encryptAddressId": "d7ae3c4b5fb3b00d1Hd_29u4GVs~",
-      "address": "深圳龙华区靖轩(龙华)工业园德宝公寓709室",
-      "longitude": 114.049119,
-      "latitude": 22.640012,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9cfbceffb76f0dd487704f9291466382",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7f32a49a48db4ed9aa9d03d01fdfbbf",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "罗先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200811/9a6a30ea11baef84a8b7ac6e94f41b5a451dce6cc0c5d7b5bd127e4baf8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "泰达兴",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c31d4c86fcb71dfa1nV63Nm9EVs~",
-      "brandName": "泰达兴",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725301112577,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "泰达兴",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "泰达兴",
+        "certificated": true,
+        "large": null,
+        "name": "罗先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200811/9a6a30ea11baef84a8b7ac6e94f41b5a451dce6cc0c5d7b5bd127e4baf8_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725301112577,
+        "brandName": "泰达兴",
+        "customerBrandName": "泰达兴",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c31d4c86fcb71dfa1nV63Nm9EVs~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙华区靖轩(龙华)工业园德宝公寓709室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d7ae3c4b5fb3b00d1Hd_29u4GVs~",
+        "encryptId": "d8bd2600a23201d23nZy3dW1EVo~",
+        "encryptUserId": "dfd89e23de9629561nZ70928GVtV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.640012,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.049119,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7f32a49a48db4ed9aa9d03d01fdfbbf",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "精通Java常规架构开发\n按时完成任务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9cfbceffb76f0dd487704f9291466382"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "aoiRRGJjiXBkh-11kx7qxl5R4urdP70HNxbbvda-RaJEfCBJGsznWDZodRgMj8OykW4e0Wk1LmquD1KQKXOuBAivnHqZiHoj8zQCQkuNBGI3QUDGpYg~",
+    "selfAccess": false,
+    "sessionId": null
 }

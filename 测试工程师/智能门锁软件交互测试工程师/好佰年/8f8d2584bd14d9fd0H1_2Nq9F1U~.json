@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "NCHjUm8aWJFk0-E10wOetem4Ctmp02r95zn4zsInDyoxdYLm7vD_GUpWzfNn7xSO51zqO1W-XDQ_HRJjD4zh7dlS4eaKYPYzpibXdUMsCiz3t7w_uA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8f8d2584bd14d9fd0H1_2Nq9F1U~",
-      "encryptUserId": "7fcdcfea6a0041971nV62dm-FlFS",
-      "invalidStatus": false,
-      "jobName": "智能门锁软件交互测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "测试智能门锁软件交互逻辑，能独立思考应用场景。\n通过产品的使用体验，提出优化方案，提升用户体验感。",
-      "encryptAddressId": "a8015fce0d62364e1HR82t29GFo~",
-      "address": "东莞中信宝·凤岗智慧制造创新产业园7楼701",
-      "longitude": 114.15158,
-      "latitude": 22.726909,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29165326af15381d1af41d861e2896af",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7de22f5fbfa6529059c3d93ee3b47838",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试开发",
-        "测试工程师",
-        "物联网",
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210718/97bd2e2308fcda8d190f03f2441c96d434974e6f49b185d6ad063c2baba_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "好佰年",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "106b29464c94089833B93dq9EQ~~",
-      "brandName": "好佰年",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101004,
-      "industryName": "家具/家电/家居",
-      "introduce": "主要生产 研发  高端智能锁  智能家居  智能门方案",
-      "labels": [],
-      "activeTime": 1725338355810,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "好佰年",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "好佰年",
+        "certificated": true,
+        "large": null,
+        "name": "杨先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210718/97bd2e2308fcda8d190f03f2441c96d434974e6f49b185d6ad063c2baba_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725338355810,
+        "brandName": "好佰年",
+        "customerBrandName": "好佰年",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "106b29464c94089833B93dq9EQ~~",
+        "focusBrand": false,
+        "industry": 101004,
+        "industryName": "家具/家电/家居",
+        "introduce": "主要生产 研发  高端智能锁  智能家居  智能门方案",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞中信宝·凤岗智慧制造创新产业园7楼701",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a8015fce0d62364e1HR82t29GFo~",
+        "encryptId": "8f8d2584bd14d9fd0H1_2Nq9F1U~",
+        "encryptUserId": "7fcdcfea6a0041971nV62dm-FlFS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "智能门锁软件交互测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.726909,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 114.15158,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7de22f5fbfa6529059c3d93ee3b47838",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "测试智能门锁软件交互逻辑，能独立思考应用场景。\n通过产品的使用体验，提出优化方案，提升用户体验感。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "测试开发",
+            "测试工程师",
+            "物联网",
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29165326af15381d1af41d861e2896af"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "NCHjUm8aWJFk0-E10wOetem4Ctmp02r95zn4zsInDyoxdYLm7vD_GUpWzfNn7xSO51zqO1W-XDQ_HRJjD4zh7dlS4eaKYPYzpibXdUMsCiz3t7w_uA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

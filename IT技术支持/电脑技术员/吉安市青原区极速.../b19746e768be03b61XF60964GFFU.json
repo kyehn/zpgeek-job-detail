@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "LkcRWfpRImE8_-01MOF2Hb_ikeqzJvLoggFSD39SZWcXOyEhMDg6ylF0yv5SLljTVRQJf8DmLogni3he2759R9dIr6PfIC4H0S-wshnecsg8Go2VdcsI",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b19746e768be03b61XF60964GFFU",
-      "encryptUserId": "9f958b4e518bbdcb1XR-2Nq1GVtT",
-      "invalidStatus": false,
-      "jobName": "电脑技术员",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101240600,
-      "locationName": "吉安",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "协助本店进行电脑打印机维修销售",
-      "encryptAddressId": "29b69dd3015255d40HZ-39u7Elo~",
-      "address": "吉安青原区极速电脑1楼门面",
-      "longitude": 115.022335,
-      "latitude": 27.110597,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ff13e29053567f7796a41e14b67c96e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/691bcc765f92932ac76f20546db32d92",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "售前/售后技术支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "雷先生",
-      "title": "招聘者",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=c2d0c8c791ae2700jzA-m563D00Jn9uhBaPOG676zqmHfEg7nv4NhOyzeJ3mBExXeaHUh7gqYIH4qgVxQI8NyD507IV-6YxxSAe8kLUxNu7vepgHtby5XD8gMlhQoHVZ96n1FnMfErW3X0Q-l49IHg2Mj7FXvQw~&radius=15",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "吉安市青原区极速...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a97f4dcde15603201Xd-09q4F1E~",
-      "brandName": "吉安市青原区极速...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724925492532,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "吉安市青原区极速...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "吉安市青原区极速...",
+        "certificated": true,
+        "large": null,
+        "name": "雷先生",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=c2d0c8c791ae2700jzA-m563D00Jn9uhBaPOG676zqmHfEg7nv4NhOyzeJ3mBExXeaHUh7gqYIH4qgVxQI8NyD507IV-6YxxSAe8kLUxNu7vepgHtby5XD8gMlhQoHVZ96n1FnMfErW3X0Q-l49IHg2Mj7FXvQw~&radius=15",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724925492532,
+        "brandName": "吉安市青原区极速...",
+        "customerBrandName": "吉安市青原区极速...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a97f4dcde15603201Xd-09q4F1E~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "吉安青原区极速电脑1楼门面",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "29b69dd3015255d40HZ-39u7Elo~",
+        "encryptId": "b19746e768be03b61XF60964GFFU",
+        "encryptUserId": "9f958b4e518bbdcb1XR-2Nq1GVtT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "电脑技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 27.110597,
+        "location": 101240600,
+        "locationName": "吉安",
+        "longitude": 115.022335,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/691bcc765f92932ac76f20546db32d92",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "协助本店进行电脑打印机维修销售",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "售前/售后技术支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ff13e29053567f7796a41e14b67c96e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "LkcRWfpRImE8_-01MOF2Hb_ikeqzJvLoggFSD39SZWcXOyEhMDg6ylF0yv5SLljTVRQJf8DmLogni3he2759R9dIr6PfIC4H0S-wshnecsg8Go2VdcsI",
+    "selfAccess": false,
+    "sessionId": null
 }

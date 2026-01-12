@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "o7CzcnsgFDdw0-i1esym3WrgwpGapWqF5mbjgyuuTv5tQ4zxrjY_jwvwttmj-KCkiMMDWlYLb-xi8t48OKDyf1PE8Yi2iWq0LMmYLiyRMAVoaGMdFxw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "10684163734bcd223nR729i0GVI~",
-      "encryptUserId": "b49dac5ef39bc5181nVz0tW0FVpQ",
-      "invalidStatus": false,
-      "jobName": "网络工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司服务号及视频方案设计制作和维护",
-      "encryptAddressId": "59eb42a8b29482621HZy396_E1c~",
-      "address": "上海松江区大济商务中心809室",
-      "longitude": 121.254121,
-      "latitude": 31.017026,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce8260410e1751d9d9fc62f2e142fe4b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50242110b4144c838cbe451979a1a09b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "视频制作服务号维护"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200728/db6da33e78d0803f539f4d93a753ce0e3e2c6f7a8ae927d75dd9cd6ffaf_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "盈王(上海)财务...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "79a829f5bc74685e1nR82t64EFY~",
-      "brandName": "盈王(上海)财务...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100605,
-      "industryName": "财务/审计/税务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722136316692,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "盈王(上海)财务...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "盈王(上海)财务...",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200728/db6da33e78d0803f539f4d93a753ce0e3e2c6f7a8ae927d75dd9cd6ffaf_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722136316692,
+        "brandName": "盈王(上海)财务...",
+        "customerBrandName": "盈王(上海)财务...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "79a829f5bc74685e1nR82t64EFY~",
+        "focusBrand": false,
+        "industry": 100605,
+        "industryName": "财务/审计/税务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海松江区大济商务中心809室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "59eb42a8b29482621HZy396_E1c~",
+        "encryptId": "10684163734bcd223nR729i0GVI~",
+        "encryptUserId": "b49dac5ef39bc5181nVz0tW0FVpQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.017026,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.254121,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50242110b4144c838cbe451979a1a09b",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "负责公司服务号及视频方案设计制作和维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "网络运维",
+            "视频制作服务号维护"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce8260410e1751d9d9fc62f2e142fe4b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "o7CzcnsgFDdw0-i1esym3WrgwpGapWqF5mbjgyuuTv5tQ4zxrjY_jwvwttmj-KCkiMMDWlYLb-xi8t48OKDyf1PE8Yi2iWq0LMmYLiyRMAVoaGMdFxw~",
+    "selfAccess": false,
+    "sessionId": null
 }

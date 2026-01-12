@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YaXe9lJZSd053-D15U76dc88ipn0AMOZX_Cjgl6pCuhIMCfNRBNDtm1kfbKfY32ExkXT9V1i3EmoigzeR9tTHcnXouhuHTRxcCJPHZbq8uPAK70PfxfHX2fAzJitp3ZRqxZN6alIUB0a1J4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6fd987a62aa62d611XJ839i_GVBU",
-      "encryptUserId": "f3b0446fabdb15490nF42Nq-F1BT",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师 本科",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：负责Devops平台  JAVA后端系统的代码开发，代码单元测试,Bug修复，代码流程文档的编写及其系统上线支持\n岗位要求：\n1、1-3年Java开发经验，熟练掌握Java开发语言，熟悉Java主流开发框架，熟悉springboot框架，熟练掌握Mybatis\\MybatisPlus等技术；\n2、熟练使用Redis,Kafka等中间件，熟悉mysql、oracle数据库；\n3、熟悉Linux基本命令，熟练使用Git；\n4、对技术有持续的热情，逻辑性强，具备良好的沟通理解能力",
-      "encryptAddressId": "c77c9722f94bddc60X172926EFo~",
-      "address": "武汉江汉区福星国际商会大厦1805",
-      "longitude": 114.275581,
-      "latitude": 30.588618,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54fbc8d726bad67188204dfc841b13cb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4556b6bbfcfaeb39508c5f2f0e2974bc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "git",
-        "kafka",
-        "springboot"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "麒芯科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ecc6c9c7e11848ba1XZ72dq6F1I~",
-      "brandName": "麒芯科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726734187000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "麒芯科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "麒芯科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1726734187000,
+        "brandName": "麒芯科技",
+        "customerBrandName": "麒芯科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ecc6c9c7e11848ba1XZ72dq6F1I~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江汉区福星国际商会大厦1805",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c77c9722f94bddc60X172926EFo~",
+        "encryptId": "6fd987a62aa62d611XJ839i_GVBU",
+        "encryptUserId": "f3b0446fabdb15490nF42Nq-F1BT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师 本科",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.588618,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.275581,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4556b6bbfcfaeb39508c5f2f0e2974bc",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：负责Devops平台  JAVA后端系统的代码开发，代码单元测试,Bug修复，代码流程文档的编写及其系统上线支持\n岗位要求：\n1、1-3年Java开发经验，熟练掌握Java开发语言，熟悉Java主流开发框架，熟悉springboot框架，熟练掌握Mybatis\\MybatisPlus等技术；\n2、熟练使用Redis,Kafka等中间件，熟悉mysql、oracle数据库；\n3、熟悉Linux基本命令，熟练使用Git；\n4、对技术有持续的热情，逻辑性强，具备良好的沟通理解能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "git",
+            "kafka",
+            "springboot"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54fbc8d726bad67188204dfc841b13cb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YaXe9lJZSd053-D15U76dc88ipn0AMOZX_Cjgl6pCuhIMCfNRBNDtm1kfbKfY32ExkXT9V1i3EmoigzeR9tTHcnXouhuHTRxcCJPHZbq8uPAK70PfxfHX2fAzJitp3ZRqxZN6alIUB0a1J4~",
+    "selfAccess": false,
+    "sessionId": null
 }

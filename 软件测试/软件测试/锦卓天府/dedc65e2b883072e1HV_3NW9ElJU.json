@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pw23-qGgWevaL-T1PKgImC7W_1KDPrf2Jl0LfqJTBwd43prSoUInxYiA9X-BVUkMu3JKVb18ofYfEkINT-91cyZHcU85bUiDfXq0XVoL_PjEtNeXwSm2HdClgfE8zafPliqHRW3v_WPvkQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dedc65e2b883072e1HV_3NW9ElJU",
-      "encryptUserId": "91095e8260fa7af40XR_39y7FVRU",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "计算机专业毕业，有两年以上银行系统工作经验",
-      "encryptAddressId": "e7a4be1cbb4ecc003nNy3dy1F1M~",
-      "address": "成都武侯区成都职业技术学院高新校区创业学院2楼",
-      "longitude": 104.062076,
-      "latitude": 30.592835,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf77d36ddfdd6a1e426d48dd619037a7a96bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf69c21d95699c2c4c6e845bb5897265c96bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试",
-        "Java",
-        "C++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "锦卓天府",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4b2a83c344aa9d071Xx43Nq8EVQ~",
-      "brandName": "锦卓天府",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1718607553000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "锦卓天府",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "锦卓天府",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1718607553000,
+        "brandName": "锦卓天府",
+        "customerBrandName": "锦卓天府",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4b2a83c344aa9d071Xx43Nq8EVQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区成都职业技术学院高新校区创业学院2楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e7a4be1cbb4ecc003nNy3dy1F1M~",
+        "encryptId": "dedc65e2b883072e1HV_3NW9ElJU",
+        "encryptUserId": "91095e8260fa7af40XR_39y7FVRU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.592835,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.062076,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf69c21d95699c2c4c6e845bb5897265c96bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "计算机专业毕业，有两年以上银行系统工作经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "自动化测试",
+            "Java",
+            "C++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf77d36ddfdd6a1e426d48dd619037a7a96bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pw23-qGgWevaL-T1PKgImC7W_1KDPrf2Jl0LfqJTBwd43prSoUInxYiA9X-BVUkMu3JKVb18ofYfEkINT-91cyZHcU85bUiDfXq0XVoL_PjEtNeXwSm2HdClgfE8zafPliqHRW3v_WPvkQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

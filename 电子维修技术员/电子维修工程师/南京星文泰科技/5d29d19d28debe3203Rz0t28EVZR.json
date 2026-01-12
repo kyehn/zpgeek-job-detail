@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RztBHZYxycMmQ-k1v5bWkOJuly2IKr7vKQ1GdyXkzOKJlcCW-0d1_9uMI0-UwpEOs8p859kVFbrQ3Uf5LPKByT0XinUyglqjMKpnUAKdBkY-ugj9sYqqL3b0ELtpoA-oKwYaeSL5XIGqrQIn0yM59wJn0xcU",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5d29d19d28debe3203Rz0t28EVZR",
-      "encryptUserId": "31c8243d0789de891XN40927F1c~",
-      "invalidStatus": false,
-      "jobName": "电子维修工程师",
-      "position": 101408,
-      "positionName": "电子维修技术员",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-10K",
-      "payTypeDesc": null,
-      "postDescription": "人员要求：大专及以上学历，有良好的沟通能力、动手能力和抗压能力，能够熟练操作电脑。\n工作内容：负责海康江苏区域的产品售后维修与服务，与客户建立且维护好关系。\n工作地点：南京市江宁区百家湖科技产业园18幢1楼南\n上班时间：9点到5点半，弹性加班。法定假日正常休息。\n福利待遇：试用期3个月，保底3500元。能力较强者可提前按照正式员工结算工资（综合薪资6K-10K），正常缴纳五险。\n其他福利：过节费，聚餐，团建，下午茶等。",
-      "encryptAddressId": "c0a4438a34ba4d561nJ_09-7GFVSyo63V_Oc",
-      "address": "南京江宁区海康威视南京售后服务中心18栋1层南",
-      "longitude": 118.820094,
-      "latitude": 31.918865,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bf681d536f62c61720c5116679f8fa72bf6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bf254ea4542b469922b87531ab7e3e76586bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241231/48ba41acc9cef1bfda9fc2eb3177dfd17bb2f83f48cacf476bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241231/48ba41acc9cef1bffc587a4e3e90c71e4714fb1216110cc66bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "维修",
-        "售后",
-        "仓储",
-        "技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "孙女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200429/9cbe59800807e9a0c99f4ea261bd6d67fdcc7f537c53a4f702cccb30a9e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "南京星文泰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "10ffb33c9497d2da1H1739i0EFY~",
-      "brandName": "南京星文泰科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100915,
-      "industryName": "计算机/通信/其他电子设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735817592550,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京星文泰科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京星文泰科技",
+        "certificated": true,
+        "large": null,
+        "name": "孙女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200429/9cbe59800807e9a0c99f4ea261bd6d67fdcc7f537c53a4f702cccb30a9e_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1735817592550,
+        "brandName": "南京星文泰科技",
+        "customerBrandName": "南京星文泰科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "10ffb33c9497d2da1H1739i0EFY~",
+        "focusBrand": false,
+        "industry": 100915,
+        "industryName": "计算机/通信/其他电子设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区海康威视南京售后服务中心18栋1层南",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241231/48ba41acc9cef1bffc587a4e3e90c71e4714fb1216110cc66bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241231/48ba41acc9cef1bfda9fc2eb3177dfd17bb2f83f48cacf476bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "c0a4438a34ba4d561nJ_09-7GFVSyo63V_Oc",
+        "encryptId": "5d29d19d28debe3203Rz0t28EVZR",
+        "encryptUserId": "31c8243d0789de891XN40927F1c~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "电子维修工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.918865,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.820094,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bf254ea4542b469922b87531ab7e3e76586bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 101408,
+        "positionName": "电子维修技术员",
+        "postDescription": "人员要求：大专及以上学历，有良好的沟通能力、动手能力和抗压能力，能够熟练操作电脑。\n工作内容：负责海康江苏区域的产品售后维修与服务，与客户建立且维护好关系。\n工作地点：南京市江宁区百家湖科技产业园18幢1楼南\n上班时间：9点到5点半，弹性加班。法定假日正常休息。\n福利待遇：试用期3个月，保底3500元。能力较强者可提前按照正式员工结算工资（综合薪资6K-10K），正常缴纳五险。\n其他福利：过节费，聚餐，团建，下午茶等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-10K",
+        "showSkills": [
+            "维修",
+            "售后",
+            "仓储",
+            "技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bf681d536f62c61720c5116679f8fa72bf6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RztBHZYxycMmQ-k1v5bWkOJuly2IKr7vKQ1GdyXkzOKJlcCW-0d1_9uMI0-UwpEOs8p859kVFbrQ3Uf5LPKByT0XinUyglqjMKpnUAKdBkY-ugj9sYqqL3b0ELtpoA-oKwYaeSL5XIGqrQIn0yM59wJn0xcU",
+    "selfAccess": false,
+    "sessionId": null
 }

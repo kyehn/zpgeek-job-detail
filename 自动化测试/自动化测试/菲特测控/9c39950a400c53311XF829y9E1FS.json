@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GRqLIFDk5P-kn-A1mmsFRNkxyzr2vvzgmCHoqO4CmgU3HgD7UukqaQ9Rs1GpNMXUwlLu_NHAc1YG92D8-BInPvghBgPlsX4MDIrpCpzT4eyaffd92wSj",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9c39950a400c53311XF829y9E1FS",
-      "encryptUserId": "2a81653efd3d1d560nJy2t61FFpZ",
-      "invalidStatus": false,
-      "jobName": "自动化测试",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、电气工程或自动化专业，本科及以上文化水平，主要负责与用户相关自控人员工作对接；\n2、熟悉PLC、DCS集散式控制程序。",
-      "encryptAddressId": "ea76eb6daf91fdc50HF6296_FFo~",
-      "address": "青岛城阳区青岛凯建创新工业园天风北路366号",
-      "longitude": 120.457098,
-      "latitude": 36.296601,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad9f637c62aa729f5662aa3f8f90e0a7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfca34bc7e6592563aed50c52cff7510",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "聂女士",
-      "title": "人事总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "菲特测控",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "98cd60d07e02e76b1Xdz39u-ElM~",
-      "brandName": "菲特测控",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725226698896,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "菲特测控",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "菲特测控",
+        "certificated": true,
+        "large": null,
+        "name": "聂女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725226698896,
+        "brandName": "菲特测控",
+        "customerBrandName": "菲特测控",
+        "customerBrandStageName": "",
+        "encryptBrandId": "98cd60d07e02e76b1Xdz39u-ElM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛城阳区青岛凯建创新工业园天风北路366号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ea76eb6daf91fdc50HF6296_FFo~",
+        "encryptId": "9c39950a400c53311XF829y9E1FS",
+        "encryptUserId": "2a81653efd3d1d560nJy2t61FFpZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.296601,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.457098,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfca34bc7e6592563aed50c52cff7510",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "1、电气工程或自动化专业，本科及以上文化水平，主要负责与用户相关自控人员工作对接；\n2、熟悉PLC、DCS集散式控制程序。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "自动化测试经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad9f637c62aa729f5662aa3f8f90e0a7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GRqLIFDk5P-kn-A1mmsFRNkxyzr2vvzgmCHoqO4CmgU3HgD7UukqaQ9Rs1GpNMXUwlLu_NHAc1YG92D8-BInPvghBgPlsX4MDIrpCpzT4eyaffd92wSj",
+    "selfAccess": false,
+    "sessionId": null
 }

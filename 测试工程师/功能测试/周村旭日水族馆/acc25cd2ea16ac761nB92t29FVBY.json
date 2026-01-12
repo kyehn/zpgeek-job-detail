@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rxXOUywQyJEEH-31d2uGzam5LVnsBLiem5Su44W2RTS-eYKHah9ALiDYghTqfknD8fHOFsyrIX6sdAp9geVhkhk-5ClBNat_QC3xRciRkFWEpo4M66eX4LMib-BpJ7qDYbqOWJxj7xIjWi0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "acc25cd2ea16ac761nB92t29FVBY",
-      "encryptUserId": "248f408f14fb12b10nZ92d64FlVY",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101120300,
-      "locationName": "淄博",
-      "experienceName": "1-3年",
-      "degreeName": "高中",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "热爱软件测试工作，细致认真有耐心",
-      "encryptAddressId": "d517aab68378bfd003d93N-9GFE~",
-      "address": "淄博张店区财富广场(金晶大道)三联家电",
-      "longitude": 118.061161,
-      "latitude": 36.804295,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c49392bd568dac57e1c58eada7c4fb4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e4395f81a95d7913015ce46e51cddf9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "性能测试",
-        "手机测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "韩先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210412/077fd9f8f3cd6d79c22480ba1809d0762b70cbb8dbbdf2da586e6866575_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "周村旭日水族馆",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e7c851cbe91bb3db1nF82t-7FVM~",
-      "brandName": "周村旭日水族馆",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721553138292,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "周村旭日水族馆",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "周村旭日水族馆",
+        "certificated": true,
+        "large": null,
+        "name": "韩先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210412/077fd9f8f3cd6d79c22480ba1809d0762b70cbb8dbbdf2da586e6866575_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721553138292,
+        "brandName": "周村旭日水族馆",
+        "customerBrandName": "周村旭日水族馆",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e7c851cbe91bb3db1nF82t-7FVM~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "淄博张店区财富广场(金晶大道)三联家电",
+        "anonymous": 0,
+        "degreeName": "高中",
+        "encryptAddressId": "d517aab68378bfd003d93N-9GFE~",
+        "encryptId": "acc25cd2ea16ac761nB92t29FVBY",
+        "encryptUserId": "248f408f14fb12b10nZ92d64FlVY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.804295,
+        "location": 101120300,
+        "locationName": "淄博",
+        "longitude": 118.061161,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e4395f81a95d7913015ce46e51cddf9",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "热爱软件测试工作，细致认真有耐心",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "软件测试",
+            "性能测试",
+            "手机测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c49392bd568dac57e1c58eada7c4fb4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rxXOUywQyJEEH-31d2uGzam5LVnsBLiem5Su44W2RTS-eYKHah9ALiDYghTqfknD8fHOFsyrIX6sdAp9geVhkhk-5ClBNat_QC3xRciRkFWEpo4M66eX4LMib-BpJ7qDYbqOWJxj7xIjWi0~",
+    "selfAccess": false,
+    "sessionId": null
 }

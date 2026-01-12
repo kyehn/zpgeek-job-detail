@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_dzYwl02NJsfd-X1NEJE7tA2rHJsUFHCB1eYS8moh7h9hmIc_QXlA71PGCS8KstHBqB1mOKhzXUm5eqCjT5kqzCLEqPPg4o7VgjOWDGu58xm5ObmuLRNl9WOK7SARJ_i3CMrp2Qz0Mz3xw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d96a76e3ec20ed61X1_2Nq1GVVV",
-      "encryptUserId": "cf724a503a490ed71nZ42Nu-F1o~",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "每天工作8小时（可居家办公）；\n在线数据监测（公司提供系统）；\n简单的数据简报推送。",
-      "encryptAddressId": "cfe5d579c97901fd0Xx62dW7E1s~",
-      "address": "北京大兴区熙兆大厦3-937",
-      "longitude": 116.319096,
-      "latitude": 39.674887,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/753a58b788fa47731f9f6d9f252f0a67",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4842de991faa7fc4d3f124a1b76725d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Power BI",
-        "数据分析/挖掘经验",
-        "Tableau",
-        "计算机相关专业",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "闪先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160630/819825b0c9f7d74cb430bfbd00b5c6378c7dd922ad47494fc02c388e12c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "新华海量",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "be809fe9adf8a9e21XZ-0ti_EVY~",
-      "brandName": "新华海量",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725941514000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "新华海量",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "新华海量",
+        "certificated": true,
+        "large": null,
+        "name": "闪先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160630/819825b0c9f7d74cb430bfbd00b5c6378c7dd922ad47494fc02c388e12c_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725941514000,
+        "brandName": "新华海量",
+        "customerBrandName": "新华海量",
+        "customerBrandStageName": "",
+        "encryptBrandId": "be809fe9adf8a9e21XZ-0ti_EVY~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京大兴区熙兆大厦3-937",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cfe5d579c97901fd0Xx62dW7E1s~",
+        "encryptId": "1d96a76e3ec20ed61X1_2Nq1GVVV",
+        "encryptUserId": "cf724a503a490ed71nZ42Nu-F1o~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.674887,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.319096,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4842de991faa7fc4d3f124a1b76725d",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "每天工作8小时（可居家办公）；\n在线数据监测（公司提供系统）；\n简单的数据简报推送。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "Power BI",
+            "数据分析/挖掘经验",
+            "Tableau",
+            "计算机相关专业",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/753a58b788fa47731f9f6d9f252f0a67"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_dzYwl02NJsfd-X1NEJE7tA2rHJsUFHCB1eYS8moh7h9hmIc_QXlA71PGCS8KstHBqB1mOKhzXUm5eqCjT5kqzCLEqPPg4o7VgjOWDGu58xm5ObmuLRNl9WOK7SARJ_i3CMrp2Qz0Mz3xw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

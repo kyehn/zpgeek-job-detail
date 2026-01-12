@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QLx5Oc0qwF08U-f1SzLLDs9yhcGKKkDo5UQ7Y_CBPAlA7B3XOTeeAmRqIo6V24aRx_xQSBx3SVeEcWFn8srMvV6ci9j2A_-dzr4SQGM9snhq_6birC55yt-Fq6LClLjHwTF-jyc8RB4L_Ubk--g85hk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cfe066c786c3ae211HF40ty7F1FX",
-      "encryptUserId": "b5f2715abc8e8f080XB-29y9GFM~",
-      "invalidStatus": false,
-      "jobName": "产品运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责解答客户问题，能够及时发现客户问题并给到正确和满意的回复；\n2、合理安排服务资源，投诉处理、客户咨询等相关业务，记录并及时反馈客户信息；\n3、熟练运用公司产品，解答客户提问并落实问题；\n4、与相关部门紧密配合，协调沟通；\n5、负责建立并维护良好的客户关系，并按照规范的服务流程及时有效的为客户提供耐心周到的服务，致力于建立客户对公司品牌的忠诚度；\n任职要求：\n一、工作经验：本科1年以上、大专2年以上助理工作经验，做过运维工作优先；\n二、具有良好的语言表达能力、沟通能力、理解能力；\n三、较强的学习与总结能力，善于从实施工作中发现问题找到方法；\n四、熟练使用办公软件；",
-      "encryptAddressId": "1d43f2e04790c8020XZ73dy5FlFTwIW6UvM~",
-      "address": "北京丰台区汉威国际广场2区A",
-      "longitude": 116.295175,
-      "latitude": 39.82643,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0df208e55142ce1e065bfe47a1f389d4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b241e15e73ee28b689bb4764e53eaffe",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "智能AI",
-        "工厂安防项目",
-        "运维经验",
-        "沟通表达"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220121/607f1f3d68754fd041352eba2aaf3ac677503da4a4faed4773c29f9070633e37882a29977fc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "钟元科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "76746a9af152cb821nJ-39S-EFY~",
-      "brandName": "钟元科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732600988000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "钟元科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "钟元科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220121/607f1f3d68754fd041352eba2aaf3ac677503da4a4faed4773c29f9070633e37882a29977fc_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732600988000,
+        "brandName": "钟元科技",
+        "customerBrandName": "钟元科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "76746a9af152cb821nJ-39S-EFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京丰台区汉威国际广场2区A",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1d43f2e04790c8020XZ73dy5FlFTwIW6UvM~",
+        "encryptId": "cfe066c786c3ae211HF40ty7F1FX",
+        "encryptUserId": "b5f2715abc8e8f080XB-29y9GFM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "产品运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.82643,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.295175,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b241e15e73ee28b689bb4764e53eaffe",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责解答客户问题，能够及时发现客户问题并给到正确和满意的回复；\n2、合理安排服务资源，投诉处理、客户咨询等相关业务，记录并及时反馈客户信息；\n3、熟练运用公司产品，解答客户提问并落实问题；\n4、与相关部门紧密配合，协调沟通；\n5、负责建立并维护良好的客户关系，并按照规范的服务流程及时有效的为客户提供耐心周到的服务，致力于建立客户对公司品牌的忠诚度；\n任职要求：\n一、工作经验：本科1年以上、大专2年以上助理工作经验，做过运维工作优先；\n二、具有良好的语言表达能力、沟通能力、理解能力；\n三、较强的学习与总结能力，善于从实施工作中发现问题找到方法；\n四、熟练使用办公软件；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "智能AI",
+            "工厂安防项目",
+            "运维经验",
+            "沟通表达"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0df208e55142ce1e065bfe47a1f389d4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QLx5Oc0qwF08U-f1SzLLDs9yhcGKKkDo5UQ7Y_CBPAlA7B3XOTeeAmRqIo6V24aRx_xQSBx3SVeEcWFn8srMvV6ci9j2A_-dzr4SQGM9snhq_6birC55yt-Fq6LClLjHwTF-jyc8RB4L_Ubk--g85hk~",
+    "selfAccess": false,
+    "sessionId": null
 }

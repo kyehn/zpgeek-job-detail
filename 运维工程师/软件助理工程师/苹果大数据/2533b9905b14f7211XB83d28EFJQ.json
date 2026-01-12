@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7ftCpE7WjLY3f-r12BkGogMZuFoleGC1xxmN2IpBHQoV1tO_OadldfI37MRgkOOyGuOCogcqMJIBd-x3cCWcuo5ZLlJiP9hvAr5QVvhkgjxlV7oeTmrG",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2533b9905b14f7211XB83d28EFJQ",
-      "encryptUserId": "3453f8380637f0910nBy2dm5EFtT",
-      "invalidStatus": false,
-      "jobName": "软件助理工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101120500,
-      "locationName": "烟台",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "协助工程师进行软件编程，后期维护。",
-      "encryptAddressId": "00eaf5d1eb8c646e0HR-39i1FFQ~",
-      "address": "烟台莱山区蓝海软件园E座605",
-      "longitude": 121.482121,
-      "latitude": 37.45362,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa7d63e36727019be035f0beaebd1f25",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92edb32018ddbc285a1224dde3e12661",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221003/607f1f3d68754fd0abfa528b77b5cd5f9295f0b62a496d659cfae327f58f441e3e2f38be185_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "苹果大数据",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "82f80e7d83e9a8991XZ90968F1E~",
-      "brandName": "苹果大数据",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "公司主要从事物联网业务，软件的开发",
-      "labels": [
-        "餐补",
-        "全勤奖",
-        "工龄奖",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1722938047487,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苹果大数据",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苹果大数据",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221003/607f1f3d68754fd0abfa528b77b5cd5f9295f0b62a496d659cfae327f58f441e3e2f38be185_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1722938047487,
+        "brandName": "苹果大数据",
+        "customerBrandName": "苹果大数据",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "82f80e7d83e9a8991XZ90968F1E~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "公司主要从事物联网业务，软件的开发",
+        "labels": [
+            "餐补",
+            "全勤奖",
+            "工龄奖",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "烟台莱山区蓝海软件园E座605",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "00eaf5d1eb8c646e0HR-39i1FFQ~",
+        "encryptId": "2533b9905b14f7211XB83d28EFJQ",
+        "encryptUserId": "3453f8380637f0910nBy2dm5EFtT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件助理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.45362,
+        "location": 101120500,
+        "locationName": "烟台",
+        "longitude": 121.482121,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92edb32018ddbc285a1224dde3e12661",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "协助工程师进行软件编程，后期维护。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "Java",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa7d63e36727019be035f0beaebd1f25"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7ftCpE7WjLY3f-r12BkGogMZuFoleGC1xxmN2IpBHQoV1tO_OadldfI37MRgkOOyGuOCogcqMJIBd-x3cCWcuo5ZLlJiP9hvAr5QVvhkgjxlV7oeTmrG",
+    "selfAccess": false,
+    "sessionId": null
 }

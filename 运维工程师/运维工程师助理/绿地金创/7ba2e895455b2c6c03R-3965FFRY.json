@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JIAAdoeqixnJ8-X1WppeeXwVTKo8MjDCrrntZ2HysBexoAHJzzcj8vdA0c-bixf-uZeRUakDsjm0M2fdb-b6xPwt1eMgUG3N9ymLHYCTyRDRjx2_8vqaPI__dQfOiUelqSY3iwu80EogBLUBjl7ee9IjqyXn",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7ba2e895455b2c6c03R-3965FFRY",
-      "encryptUserId": "0903b0c5ad4d49d71XV62d20FFA~",
-      "invalidStatus": false,
-      "jobName": "运维工程师助理",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K·16薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.能够7X24全天候待命，以备紧急/应急IT事件管理\n上报\n2. 上报超出标准和过期事件/问题以及任何需要注意的缺失或不正确信息。\n3. 答复任何审计信息要求。\n4. 审核记录单以确保流程符合性，并协助纠正事件记录单（风险类别、停机、优先级、重新设置审批人、估计持续时间等）、错误分配的更改、重新安排问题和评估加急的事项。\n5. 必要时进行升级，以确保遵循事件应急管理流程和程序，并准确填写所需信息。\n6. 确保与审核流程符合全球应急和变更流程对事件记录要求。\n\n任职要求：\n1. 学士学位及以上\n2. 熟悉全球性公司通用的IT系统的功能和特点。\n3. 熟悉事件管理和处理流程。\n4.至少2年在全球公司事件管理方面的工作经验。\n5. 有国际知名ITSM系统使用的经验优先考虑，如ServiceNow, Remedy*\n6.英语口语流利，大学英语四级以上。\n7. 工作效率高，注重工作表现。\n8. 吃苦耐劳，良好的沟通和人际交往能力；良好的解决问题的能力。",
-      "encryptAddressId": "c1b8d592a54576d30HJ83N--E1c~",
-      "address": "杭州临平区临平商会大厦3A",
-      "longitude": 120.298066,
-      "latitude": 30.390212,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5950a6cf95567192af0db821ff33f4c6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94392efa41f37307a2b634b880e6cd8e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信相关专业",
-        "系统运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200330/80602d6a92de5088bb1423c723b892f1db664871a65af84ab27a3e41e5b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "绿地金创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "214796fcb9160b9e1XR42di0E1E~",
-      "brandName": "绿地金创",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220118/7bf6f160950405e9e5de1870d7a3f3d764697943660e6b66f9aa894e81e017c3156d552e17ed2ef1.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100206,
-      "industryName": "互联网金融",
-      "introduce": "绿地金创科技集团有限公司（简称为“绿地金创”或“绿地金创科技集团”）是一家全球经营的金融科技企业集团，总部设立于中国上海，是世界500强企业—绿地集团旗下聚焦数字科技、金融、教育、康养、科创等多元产业推进数字化升级的核心载体。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1733466993739,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绿地金创",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绿地金创",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200330/80602d6a92de5088bb1423c723b892f1db664871a65af84ab27a3e41e5b_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1733466993739,
+        "brandName": "绿地金创",
+        "customerBrandName": "绿地金创",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "214796fcb9160b9e1XR42di0E1E~",
+        "focusBrand": false,
+        "industry": 100206,
+        "industryName": "互联网金融",
+        "introduce": "绿地金创科技集团有限公司（简称为“绿地金创”或“绿地金创科技集团”）是一家全球经营的金融科技企业集团，总部设立于中国上海，是世界500强企业—绿地集团旗下聚焦数字科技、金融、教育、康养、科创等多元产业推进数字化升级的核心载体。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220118/7bf6f160950405e9e5de1870d7a3f3d764697943660e6b66f9aa894e81e017c3156d552e17ed2ef1.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州临平区临平商会大厦3A",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c1b8d592a54576d30HJ83N--E1c~",
+        "encryptId": "7ba2e895455b2c6c03R-3965FFRY",
+        "encryptUserId": "0903b0c5ad4d49d71XV62d20FFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.390212,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.298066,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94392efa41f37307a2b634b880e6cd8e",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.能够7X24全天候待命，以备紧急/应急IT事件管理\n上报\n2. 上报超出标准和过期事件/问题以及任何需要注意的缺失或不正确信息。\n3. 答复任何审计信息要求。\n4. 审核记录单以确保流程符合性，并协助纠正事件记录单（风险类别、停机、优先级、重新设置审批人、估计持续时间等）、错误分配的更改、重新安排问题和评估加急的事项。\n5. 必要时进行升级，以确保遵循事件应急管理流程和程序，并准确填写所需信息。\n6. 确保与审核流程符合全球应急和变更流程对事件记录要求。\n\n任职要求：\n1. 学士学位及以上\n2. 熟悉全球性公司通用的IT系统的功能和特点。\n3. 熟悉事件管理和处理流程。\n4.至少2年在全球公司事件管理方面的工作经验。\n5. 有国际知名ITSM系统使用的经验优先考虑，如ServiceNow, Remedy*\n6.英语口语流利，大学英语四级以上。\n7. 工作效率高，注重工作表现。\n8. 吃苦耐劳，良好的沟通和人际交往能力；良好的解决问题的能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K·16薪",
+        "showSkills": [
+            "通信相关专业",
+            "系统运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5950a6cf95567192af0db821ff33f4c6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JIAAdoeqixnJ8-X1WppeeXwVTKo8MjDCrrntZ2HysBexoAHJzzcj8vdA0c-bixf-uZeRUakDsjm0M2fdb-b6xPwt1eMgUG3N9ymLHYCTyRDRjx2_8vqaPI__dQfOiUelqSY3iwu80EogBLUBjl7ee9IjqyXn",
+    "selfAccess": false,
+    "sessionId": null
 }

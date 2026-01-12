@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "AjrJqbTBE9Zgb-M1k6HkdjbBE0ZwIWfXqjouJrT5FvbB3yyXecT4qnlJoaYUF8c2mRHe7RvAXdm-yLPmJHCbbmT1mGLXvt6iVJ3mqV1MaFrOr2816zPLEjchGTsuhCGkH5Upo1PoKR9nlw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "30261d0b71f5aed01H192tu_E1ZZ",
-      "encryptUserId": "4320613c1baeec9e0XF60ti9GFo~",
-      "invalidStatus": false,
-      "jobName": "app测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求：\n1、移动端app功能测试，T2-T3级别；计算机专业优先；\n2、T2：2年经验，T3：2-5年工作经验，最好能直接上手工作；\n3、具备较好的case设计能力、问题定位能力；\n4、具有较好的沟通协作和解决问题能力，良好的执行力；\n5、责任心强，吃苦耐劳，良好的抗压能力，能适应高强度的工作；\n6、有接口或UI自动化测试经验优先，熟悉python等编程语言优先；\n7、有视频类app测试经验优先\n\n工作职责：\n1、 负责APP的质量保障工作，包括Android端、iOS端等领域；\n2、参与项目需求、技术评审，负责测试用例设计和执行，把控业务质量，确保业务按时高质量交付；\n3、线上线下缺陷跟踪、分析，并能主动提出质量改进方案并完成实施；",
-      "encryptAddressId": "ea84d3e56f2de7581nB829q8E1BTx4S4Uvyf",
-      "address": "北京海淀区抖音方恒广场大钟寺",
-      "longitude": 116.340805,
-      "latitude": 39.968286,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf38c46afc44c9fab1df5ea24c240ee1c56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf679bac9ff35293a3193c3fa3cb07d4a16bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "app",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HRM",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220917/607f1f3d68754fd0b8b873a72565ebcc22acbcfe1033dd2fa6ad8663085f87384270db33296_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "节日福利"
-      ],
-      "activeTime": 1730888580318,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220917/607f1f3d68754fd0b8b873a72565ebcc22acbcfe1033dd2fa6ad8663085f87384270db33296_b.jpg",
+        "title": "HRM"
+    },
+    "brandComInfo": {
+        "activeTime": 1730888580318,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区抖音方恒广场大钟寺",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ea84d3e56f2de7581nB829q8E1BTx4S4Uvyf",
+        "encryptId": "30261d0b71f5aed01H192tu_E1ZZ",
+        "encryptUserId": "4320613c1baeec9e0XF60ti9GFo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "app测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.968286,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.340805,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf679bac9ff35293a3193c3fa3cb07d4a16bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位要求：\n1、移动端app功能测试，T2-T3级别；计算机专业优先；\n2、T2：2年经验，T3：2-5年工作经验，最好能直接上手工作；\n3、具备较好的case设计能力、问题定位能力；\n4、具有较好的沟通协作和解决问题能力，良好的执行力；\n5、责任心强，吃苦耐劳，良好的抗压能力，能适应高强度的工作；\n6、有接口或UI自动化测试经验优先，熟悉python等编程语言优先；\n7、有视频类app测试经验优先\n\n工作职责：\n1、 负责APP的质量保障工作，包括Android端、iOS端等领域；\n2、参与项目需求、技术评审，负责测试用例设计和执行，把控业务质量，确保业务按时高质量交付；\n3、线上线下缺陷跟踪、分析，并能主动提出质量改进方案并完成实施；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "app",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf38c46afc44c9fab1df5ea24c240ee1c56bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "AjrJqbTBE9Zgb-M1k6HkdjbBE0ZwIWfXqjouJrT5FvbB3yyXecT4qnlJoaYUF8c2mRHe7RvAXdm-yLPmJHCbbmT1mGLXvt6iVJ3mqV1MaFrOr2816zPLEjchGTsuhCGkH5Upo1PoKR9nlw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

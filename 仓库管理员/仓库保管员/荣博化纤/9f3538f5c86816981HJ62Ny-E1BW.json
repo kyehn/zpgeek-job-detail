@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TMJ8eYBfE3JFZ-u12WdWc0_iRE-WtR1WTPCV55BJzjNlS1e34JI_a79tYFlnQ_lyLXm5Xdj-i35YeP1lS1GSVne46raszVboL5IEGA9YSJl9JwMlhx0JvTDz3GU6E7Yf1evjiHSrxnmnVg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9f3538f5c86816981HJ62Ny-E1BW",
-      "encryptUserId": "f9d3fc8871303a900nN-39m1GVRQ",
-      "invalidStatus": false,
-      "jobName": "仓库保管员",
-      "position": 240204,
-      "positionName": "仓库管理员",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "成品库须按发货单发货，手续不全不与，负责盘点库存原材料和成品，熟练使用电脑办公软件，整理仓库卫生环境，保持整洁，有财会经验的优先",
-      "encryptAddressId": "9a5d3751dc271bba331629i1EFpYy4y5VP0~",
-      "address": "杭州萧山区法诺装饰有限公司荣博化纤",
-      "longitude": 120.569662,
-      "latitude": 30.17722,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231014/48ba41acc9cef1bf75877f28c0767834545b0b27181c60de6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231014/48ba41acc9cef1bf0843d64ff4491f99cc97f7a8992c327d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "货物验收/入库",
-        "货物出库",
-        "库存控制/盘点"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230123/607f1f3d68754fd00057337e90675347bf894160f9df88f3cebccb0248fe59ffb3b63cfccc5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "荣博化纤",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4beb6e012470f1871XB_2NW9FFQ~",
-      "brandName": "荣博化纤",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100903,
-      "industryName": "原材料及加工/模具",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719816012858,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "荣博化纤",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "荣博化纤",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230123/607f1f3d68754fd00057337e90675347bf894160f9df88f3cebccb0248fe59ffb3b63cfccc5_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1719816012858,
+        "brandName": "荣博化纤",
+        "customerBrandName": "荣博化纤",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "4beb6e012470f1871XB_2NW9FFQ~",
+        "focusBrand": false,
+        "industry": 100903,
+        "industryName": "原材料及加工/模具",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区法诺装饰有限公司荣博化纤",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "9a5d3751dc271bba331629i1EFpYy4y5VP0~",
+        "encryptId": "9f3538f5c86816981HJ62Ny-E1BW",
+        "encryptUserId": "f9d3fc8871303a900nN-39m1GVRQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "仓库保管员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.17722,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.569662,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231014/48ba41acc9cef1bf0843d64ff4491f99cc97f7a8992c327d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 240204,
+        "positionName": "仓库管理员",
+        "postDescription": "成品库须按发货单发货，手续不全不与，负责盘点库存原材料和成品，熟练使用电脑办公软件，整理仓库卫生环境，保持整洁，有财会经验的优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "货物验收/入库",
+            "货物出库",
+            "库存控制/盘点"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231014/48ba41acc9cef1bf75877f28c0767834545b0b27181c60de6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TMJ8eYBfE3JFZ-u12WdWc0_iRE-WtR1WTPCV55BJzjNlS1e34JI_a79tYFlnQ_lyLXm5Xdj-i35YeP1lS1GSVne46raszVboL5IEGA9YSJl9JwMlhx0JvTDz3GU6E7Yf1evjiHSrxnmnVg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

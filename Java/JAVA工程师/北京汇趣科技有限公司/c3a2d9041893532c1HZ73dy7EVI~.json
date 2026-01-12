@@ -1,196 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YvMXT3SvQn-9w-D1NpedGjTDw8jAP2GN5jUbVSTu8zD3rPZjRMYrmAXToRm8SL9lP4hR0Xwt0zhU6quTSG3Kn4NgWJQn0lMUCqnXrMxJWqR4OW0qjibKjA1lnQlzlg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c3a2d9041893532c1HZ73dy7EVI~",
-      "encryptUserId": "7f1f88e550146dec1XJ93Nq-GVc~",
-      "invalidStatus": false,
-      "jobName": "java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.基于linux及安卓系统的智能硬件嵌入式开发。\r\n2.根据需求文档进行独立开发。\r\n3.撰写相关文档。\r\n4.具有3年及以上java 开发经验，理解面向对象设计思想。\r\n5.熟悉微服务架构（spring cloud ）",
-      "encryptAddressId": "134e4e86a74e2d8f1nR40ty7GVE~",
-      "address": "北京海淀区富海大厦502",
-      "longitude": 116.335098,
-      "latitude": 39.953966,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/601e3b65bbdbcb686bca3326e4b9ea24",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5921d291f7d6c324229bd7d71afa41e",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Linux",
-        "Android"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "崔先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "北京汇趣科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "46cac9d17766cc0a03F639W_",
-      "brandName": "北京汇趣科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170417/58347e740f37fad2c6e7c09edc6d793fab8331f52808912fa2f00fcdf0b495c2.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "1 智慧校园产品方案解决提供商。\n2 智慧物业产品方案解决提供商。\n3 支付宝核心isv软硬件服务商。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假"
-      ],
-      "activeTime": 1734384912455,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京汇趣科技有限公司",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  },
-  "appendixInfo": {
-    "canFeedback": false,
-    "chatBubble": null
-  },
-  "atsOnlineApplyInfo": {
-    "inviteType": 0,
-    "alreadyApply": false
-  },
-  "bossInfo": {
-    "name": "崔先生",
-    "title": "招聘者",
-    "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-    "large": null,
-    "activeTimeDesc": "近半年活跃",
-    "bossOnline": false,
-    "brandName": "北京汇趣科技有限公司",
-    "bossSource": 0,
-    "certificated": true,
-    "tagIconUrl": null,
-    "avatarStickerUrl": null
-  },
-  "brandComInfo": {
-    "encryptBrandId": "46cac9d17766cc0a03F639W_",
-    "brandName": "北京汇趣科技有限公司",
-    "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170417/58347e740f37fad2c6e7c09edc6d793fab8331f52808912fa2f00fcdf0b495c2.jpg",
-    "stage": 808,
-    "stageName": "不需要融资",
-    "scale": 302,
-    "scaleName": "20-99人",
-    "industry": 100021,
-    "industryName": "计算机软件",
-    "introduce": "1 智慧校园产品方案解决提供商。\n2 智慧物业产品方案解决提供商。\n3 支付宝核心isv软硬件服务商。",
-    "labels": [
-      "带薪年假",
-      "年终奖",
-      "五险一金"
-    ],
-    "activeTime": 1741228571876,
-    "visibleBrandInfo": true,
-    "focusBrand": false,
-    "customerBrandName": "北京汇趣科技有限公司",
-    "customerBrandStageName": "不需要融资"
-  },
-  "handicappedInfo": null,
-  "jobInfo": {
-    "encryptId": "c3a2d9041893532c1HZ73dy7EVI~",
-    "encryptUserId": "7f1f88e550146dec1XJ93Nq-GVc~",
-    "invalidStatus": false,
-    "jobName": "java工程师",
-    "position": 100101,
-    "positionName": "Java",
-    "location": 101010100,
-    "locationName": "北京",
-    "experienceName": "1-3年",
-    "degreeName": "本科",
-    "jobType": 0,
-    "proxyJob": 0,
-    "proxyType": 0,
-    "salaryDesc": "5-9K",
-    "payTypeDesc": null,
-    "postDescription": "1.基于linux及安卓系统的智能硬件嵌入式开发。\r\n2.根据需求文档进行独立开发。\r\n3.撰写相关文档。\r\n4.具有3年及以上java 开发经验，理解面向对象设计思想。\r\n5.熟悉微服务架构（spring cloud ）",
-    "encryptAddressId": "134e4e86a74e2d8f1nR40ty7GVE~",
-    "address": "北京海淀区富海大厦502",
-    "longitude": 116.335098,
-    "latitude": 39.953966,
-    "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/601e3b65bbdbcb686bca3326e4b9ea24",
-    "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5921d291f7d6c324229bd7d71afa41e",
-    "baiduStaticMapUrl": "",
-    "baiduPcStaticMapUrl": "",
-    "overseasAddressList": [],
-    "overseasInfo": null,
-    "showSkills": [
-      "Java",
-      "Linux",
-      "Android"
-    ],
-    "anonymous": 0,
-    "jobStatusDesc": "招聘中"
-  },
-  "lid": "",
-  "oneKeyResumeInfo": {
-    "inviteType": 0,
-    "alreadySend": false,
-    "canSendResume": false,
-    "canSendPhone": false,
-    "canSendWechat": false
-  },
-  "pageType": 0,
-  "relationInfo": {
-    "interestJob": false,
-    "beFriend": false
-  },
-  "securityId": "R0wTK82FzxrUs-31Wb2NIj6WiEfQLBdLaMsv1XuGxMseRUUBL0piVJCbVMkiLuDpWMVL-f31WV_H2Bsc4rwC-UAMDGOHfr6zFligSqfNmY7g-rzJc10M9gNe9XfT4iXrcDebsjA-6-83Zj1Ow_PwsLLg",
-  "selfAccess": false,
-  "sessionId": null
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京汇趣科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "崔先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734384912455,
+        "brandName": "北京汇趣科技有限公司",
+        "customerBrandName": "北京汇趣科技有限公司",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "46cac9d17766cc0a03F639W_",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "1 智慧校园产品方案解决提供商。\n2 智慧物业产品方案解决提供商。\n3 支付宝核心isv软硬件服务商。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170417/58347e740f37fad2c6e7c09edc6d793fab8331f52808912fa2f00fcdf0b495c2.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区富海大厦502",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "134e4e86a74e2d8f1nR40ty7GVE~",
+        "encryptId": "c3a2d9041893532c1HZ73dy7EVI~",
+        "encryptUserId": "7f1f88e550146dec1XJ93Nq-GVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.953966,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.335098,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5921d291f7d6c324229bd7d71afa41e",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.基于linux及安卓系统的智能硬件嵌入式开发。\r\n2.根据需求文档进行独立开发。\r\n3.撰写相关文档。\r\n4.具有3年及以上java 开发经验，理解面向对象设计思想。\r\n5.熟悉微服务架构（spring cloud ）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-9K",
+        "showSkills": [
+            "Java",
+            "Linux",
+            "Android"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/601e3b65bbdbcb686bca3326e4b9ea24"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YvMXT3SvQn-9w-D1NpedGjTDw8jAP2GN5jUbVSTu8zD3rPZjRMYrmAXToRm8SL9lP4hR0Xwt0zhU6quTSG3Kn4NgWJQn0lMUCqnXrMxJWqR4OW0qjibKjA1lnQlzlg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

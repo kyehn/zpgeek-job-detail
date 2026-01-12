@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fi_u7SmsqTFZy-c10oT-ynqUTAbiFakvqdoXXJ-bq04Y8dyRC98ykfWnWxL9UWFvtjgs5_d4iEQp8tbFLvlsgKsf5LTvTuoLpAMywN_69ELwUghvvVAuCaHjGLkgajz8GTOtYPRS7-2zqQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "da25e124ea76f3e11XF4296_EVVW",
-      "encryptUserId": "868ca53f552d1e240nJ-09m8ElZR",
-      "invalidStatus": false,
-      "jobName": "软件开发",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101121400,
-      "locationName": "枣庄",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "制作公司app,以及维护",
-      "encryptAddressId": "89a103549cbadc070Hd629W-F1U~",
-      "address": "枣庄薛城区薛城医疗智谷大健康产业园九号楼",
-      "longitude": 117.252593,
-      "latitude": 34.766378,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/265fcc485cdcaaef2abc90f01d0cb45c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04122ac370e2f296e56b0939bddb4500",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机/软件工程相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "林女士",
-      "title": "人力资源",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221020/607f1f3d68754fd0b0b804630e20cbe7b3b4f3dfcf1f0275878d4bd7dbc363c3dd87783c15a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "春禾健康",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "30ce5da1116b37211Xd_0t-7FlY~",
-      "brandName": "春禾健康",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101301,
-      "industryName": "政府/公共事业",
-      "introduce": "",
-      "labels": [
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1717152289567,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "春禾健康",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "春禾健康",
+        "certificated": true,
+        "large": null,
+        "name": "林女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221020/607f1f3d68754fd0b0b804630e20cbe7b3b4f3dfcf1f0275878d4bd7dbc363c3dd87783c15a_b.jpg",
+        "title": "人力资源"
+    },
+    "brandComInfo": {
+        "activeTime": 1717152289567,
+        "brandName": "春禾健康",
+        "customerBrandName": "春禾健康",
+        "customerBrandStageName": "",
+        "encryptBrandId": "30ce5da1116b37211Xd_0t-7FlY~",
+        "focusBrand": false,
+        "industry": 101301,
+        "industryName": "政府/公共事业",
+        "introduce": "",
+        "labels": [
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "枣庄薛城区薛城医疗智谷大健康产业园九号楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "89a103549cbadc070Hd629W-F1U~",
+        "encryptId": "da25e124ea76f3e11XF4296_EVVW",
+        "encryptUserId": "868ca53f552d1e240nJ-09m8ElZR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.766378,
+        "location": 101121400,
+        "locationName": "枣庄",
+        "longitude": 117.252593,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04122ac370e2f296e56b0939bddb4500",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "制作公司app,以及维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "计算机/软件工程相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/265fcc485cdcaaef2abc90f01d0cb45c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fi_u7SmsqTFZy-c10oT-ynqUTAbiFakvqdoXXJ-bq04Y8dyRC98ykfWnWxL9UWFvtjgs5_d4iEQp8tbFLvlsgKsf5LTvTuoLpAMywN_69ELwUghvvVAuCaHjGLkgajz8GTOtYPRS7-2zqQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

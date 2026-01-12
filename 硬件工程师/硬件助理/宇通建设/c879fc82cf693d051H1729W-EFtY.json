@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "t9m4IrIaqQ0Ge-41tO1Xe5G37K7PoS-OwbTpGSs8mZfkWDNBPVA7whF26c916KDLma_Tm2ZKJDLqpGnVRJ5iuPJftpVNqUR1htsrozaoSZJ-ZL8_Stb0",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c879fc82cf693d051H1729W-EFtY",
-      "encryptUserId": "701e488dee5b9ed90nJ93NW5FFZT",
-      "invalidStatus": false,
-      "jobName": "硬件助理",
-      "position": 100801,
-      "positionName": "硬件工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、根据产品需求以及电子设计规范协助工程师完成图纸制作。\n2、负责搭建可靠性数据跟进，生产进度跟进。\n3、协助解决产品在量产阶段出现的各类问题。\n4、完成上级领导分配的其他工作。",
-      "encryptAddressId": "bab7f7e93d867a533n1539S_GFpUxoS4V_M~",
-      "address": "深圳宝安区宝安区衙边社区世纪云芯岗头工业区3栋2楼",
-      "longitude": 113.819964,
-      "latitude": 22.747945,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230507/48ba41acc9cef1bf66de268e81c1c887409a0a995fceaae26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bfa501fceabdd210bf48a4053c64144fc56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "芯片/半导体/集成电路",
-        "交通便利",
-        "应届生",
-        "电子电气/自动化相关专业",
-        "无经验可"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "古先生",
-      "title": "工程部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240627/607f1f3d68754fd04776ee78f8938f141922719d0f49df01e84fcb0db0b696a8d1c7cff71af0062_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "宇通建设",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2957aeb3a3e432141HF939q-E1M~",
-      "brandName": "宇通建设",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101402,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731750868840,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宇通建设",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宇通建设",
+        "certificated": true,
+        "large": null,
+        "name": "古先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240627/607f1f3d68754fd04776ee78f8938f141922719d0f49df01e84fcb0db0b696a8d1c7cff71af0062_b.jpg",
+        "title": "工程部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731750868840,
+        "brandName": "宇通建设",
+        "customerBrandName": "宇通建设",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2957aeb3a3e432141HF939q-E1M~",
+        "focusBrand": false,
+        "industry": 101402,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区宝安区衙边社区世纪云芯岗头工业区3栋2楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bab7f7e93d867a533n1539S_GFpUxoS4V_M~",
+        "encryptId": "c879fc82cf693d051H1729W-EFtY",
+        "encryptUserId": "701e488dee5b9ed90nJ93NW5FFZT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "硬件助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.747945,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.819964,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bfa501fceabdd210bf48a4053c64144fc56bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100801,
+        "positionName": "硬件工程师",
+        "postDescription": "工作职责：\n1、根据产品需求以及电子设计规范协助工程师完成图纸制作。\n2、负责搭建可靠性数据跟进，生产进度跟进。\n3、协助解决产品在量产阶段出现的各类问题。\n4、完成上级领导分配的其他工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "芯片/半导体/集成电路",
+            "交通便利",
+            "应届生",
+            "电子电气/自动化相关专业",
+            "无经验可"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230507/48ba41acc9cef1bf66de268e81c1c887409a0a995fceaae26bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "t9m4IrIaqQ0Ge-41tO1Xe5G37K7PoS-OwbTpGSs8mZfkWDNBPVA7whF26c916KDLma_Tm2ZKJDLqpGnVRJ5iuPJftpVNqUR1htsrozaoSZJ-ZL8_Stb0",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mYwTEDp51GSOv-W1_kKopYPmrw6qrSwdZLJ0oc6UgtWGNxGL-9-nqMktAMUO_vmW5TeU8RodB8flG1uMsw8V2x9vlUKz-xuUq0gwvQqNkuskFDUo_OW_3wJt72hQ-rvxaSb67aLIVSXtKy4LKUmIk2-Gg28Gtw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fb33be063b99611403R_39i4FlpZ",
-      "encryptUserId": "62f4bebee704fd980nRz29q1FlFT",
-      "invalidStatus": false,
-      "jobName": "银行测试工程师（外包宁波",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "学历：学信网可查的本科\n三个需求：1：保险   2：理财   3：个贷",
-      "encryptAddressId": "c2cc2b61e13d305c1nB90t6-ElVZ",
-      "address": "上海浦东新区上海银行大厦1",
-      "longitude": 121.504577,
-      "latitude": 31.239896,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a42538507955b76fe29af3959616c0a1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f7457562ab3651f0918638c915662e0",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "杨先生",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220414/607f1f3d68754fd0a239f2c1a630b1645c1feac74ca0d053ef86abcbabcb0d066563be31163_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "汉克时代",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a91b61cb47aed5e31n1y0tm6GVo~",
-      "brandName": "汉克时代",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/de3e0eb0a53b18e76249177df5841ce2cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "1.  汉克时代公司成立至今12年，注册资金1亿元，现有人员规模超过4100人。\n2.  是一家集咨询规划、产品实施、解决方案、系统集成、软件服务的IT提供商。\n3.  集团总部设于北京，下设：\n10个分子公司：香港、新加坡、深圳、上海、杭州、天津、成都、广州、珠海、合肥。9个办事处：武汉、西安、南京、重庆、郑州、烟台、常州、长沙、宁波。\n4.  公司拥有42个软件著作权。\n5.  为客户提供产品/解决方案：用户中心中台、企业行为分析、企业微信、生产制造MES系统、物业云等产品。\n6.  近十年来，我们服务的客户不仅限于：\n互联网：阿里巴巴、蚂蚁金服、京东、字节跳动、网易等。\n金融：中国工商银行、中国银行、香港交易所、民生银行、中信银行、恒丰银行、华夏银行、杭州银行、广州银行、广发银行、上海证券交易所、河北农信、泰康保险、重庆农商、中信建投、方正证券等。\n其他：联想、华三通信、国家电网、中国体育彩票、大唐集团、中国石化、中国石油等。\n欢迎登陆公司主页了解更多：www.hunktimes.com",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "带薪年假",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1734146864986,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "汉克时代",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "汉克时代",
+        "certificated": true,
+        "large": null,
+        "name": "杨先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220414/607f1f3d68754fd0a239f2c1a630b1645c1feac74ca0d053ef86abcbabcb0d066563be31163_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1734146864986,
+        "brandName": "汉克时代",
+        "customerBrandName": "汉克时代",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "a91b61cb47aed5e31n1y0tm6GVo~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "1.  汉克时代公司成立至今12年，注册资金1亿元，现有人员规模超过4100人。\n2.  是一家集咨询规划、产品实施、解决方案、系统集成、软件服务的IT提供商。\n3.  集团总部设于北京，下设：\n10个分子公司：香港、新加坡、深圳、上海、杭州、天津、成都、广州、珠海、合肥。9个办事处：武汉、西安、南京、重庆、郑州、烟台、常州、长沙、宁波。\n4.  公司拥有42个软件著作权。\n5.  为客户提供产品/解决方案：用户中心中台、企业行为分析、企业微信、生产制造MES系统、物业云等产品。\n6.  近十年来，我们服务的客户不仅限于：\n互联网：阿里巴巴、蚂蚁金服、京东、字节跳动、网易等。\n金融：中国工商银行、中国银行、香港交易所、民生银行、中信银行、恒丰银行、华夏银行、杭州银行、广州银行、广发银行、上海证券交易所、河北农信、泰康保险、重庆农商、中信建投、方正证券等。\n其他：联想、华三通信、国家电网、中国体育彩票、大唐集团、中国石化、中国石油等。\n欢迎登陆公司主页了解更多：www.hunktimes.com",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "带薪年假",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/de3e0eb0a53b18e76249177df5841ce2cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区上海银行大厦1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "c2cc2b61e13d305c1nB90t6-ElVZ",
+        "encryptId": "fb33be063b99611403R_39i4FlpZ",
+        "encryptUserId": "62f4bebee704fd980nRz29q1FlFT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "银行测试工程师（外包宁波",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.239896,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.504577,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f7457562ab3651f0918638c915662e0",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "学历：学信网可查的本科\n三个需求：1：保险   2：理财   3：个贷",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a42538507955b76fe29af3959616c0a1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mYwTEDp51GSOv-W1_kKopYPmrw6qrSwdZLJ0oc6UgtWGNxGL-9-nqMktAMUO_vmW5TeU8RodB8flG1uMsw8V2x9vlUKz-xuUq0gwvQqNkuskFDUo_OW_3wJt72hQ-rvxaSb67aLIVSXtKy4LKUmIk2-Gg28Gtw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

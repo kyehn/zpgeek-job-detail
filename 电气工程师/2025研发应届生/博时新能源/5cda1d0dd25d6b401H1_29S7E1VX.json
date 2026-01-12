@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zj70NwtekCQ6G-11fcdDFkCI8Xc4J_UgRXf4U9jNtGZTsBG_Z4yqMo6s-kxEhKXHk6_LvSgOIMNHP6ZiKextomz-6BhP3aAHTDfBUyvjTTcKkuG9QkqkPyYL7bKkOML4RtuKy49Tj1BLhg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5cda1d0dd25d6b401H1_29S7E1VX",
-      "encryptUserId": "02fc6f3dfdc010020nx62N--EFY~",
-      "invalidStatus": false,
-      "jobName": "2025研发应届生",
-      "position": 101402,
-      "positionName": "电气工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "1、该岗位为应届生培养岗，岗位培养方向为机械工程师、电气工程师、前端工程师、后端工程师、测试工程师、项目工程师；\n2、专业：机械类、电气类、计算机类、自动化等专业；",
-      "encryptAddressId": "ac9b8bd29bd6f8b333V73NW7FVdXwo-3V_k~",
-      "address": "杭州上城区西子智慧产业园21号楼9楼",
-      "longitude": 120.207821,
-      "latitude": 30.350692,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffc4e44bfb437ffbe79e964080a5009386bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf3da8b071c98a8480b28727976f967f5f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CAD"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "HR招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230605/607f1f3d68754fd0c00fb221b36d4be8a42f9498d526e4fd3d8944acd3fd4cc28d2d4fe7520_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "博时新能源",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "61fb0a1a97aa08381nN42d26FVI~",
-      "brandName": "博时新能源",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240106/7b5b554d84f9729c88c6cedf551d6275da7c76f6c43be9c0e61f16b9f9ea46fc69a86582465c84c4.jpg.webp",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "浙江博时新能源技术有限公司成立于2015年，落户于美丽的天堂杭州，注册资本1000万元，是一家专业从事新能源产品研发、生产、销售的国家级高新技术企业。 公司研发中心位于上城区同协路西子智慧产业园，拥有一支高素质的技术、管理和销售团队，专注新能源领域十余年，拥有包括自主开发微储、家储、大储系列产品、以及BMS电池管理系统等多项核心技术，具备新能源设备研发设计、电池PACK、关键核心部件自主开发能力。引领绿色能源遍布全球。成为全球领先的电池储能系统及解决方案供应商。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "绩效奖金",
-        "加班补助",
-        "夜班补助",
-        "餐补",
-        "团建聚餐",
-        "免费工装",
-        "高温补贴",
-        "节日福利",
-        "生日福利"
-      ],
-      "activeTime": 1731058131153,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "博时新能源",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "博时新能源",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230605/607f1f3d68754fd0c00fb221b36d4be8a42f9498d526e4fd3d8944acd3fd4cc28d2d4fe7520_b.jpg",
+        "title": "HR招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731058131153,
+        "brandName": "博时新能源",
+        "customerBrandName": "博时新能源",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "61fb0a1a97aa08381nN42d26FVI~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "浙江博时新能源技术有限公司成立于2015年，落户于美丽的天堂杭州，注册资本1000万元，是一家专业从事新能源产品研发、生产、销售的国家级高新技术企业。 公司研发中心位于上城区同协路西子智慧产业园，拥有一支高素质的技术、管理和销售团队，专注新能源领域十余年，拥有包括自主开发微储、家储、大储系列产品、以及BMS电池管理系统等多项核心技术，具备新能源设备研发设计、电池PACK、关键核心部件自主开发能力。引领绿色能源遍布全球。成为全球领先的电池储能系统及解决方案供应商。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "绩效奖金",
+            "加班补助",
+            "夜班补助",
+            "餐补",
+            "团建聚餐",
+            "免费工装",
+            "高温补贴",
+            "节日福利",
+            "生日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240106/7b5b554d84f9729c88c6cedf551d6275da7c76f6c43be9c0e61f16b9f9ea46fc69a86582465c84c4.jpg.webp",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区西子智慧产业园21号楼9楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ac9b8bd29bd6f8b333V73NW7FVdXwo-3V_k~",
+        "encryptId": "5cda1d0dd25d6b401H1_29S7E1VX",
+        "encryptUserId": "02fc6f3dfdc010020nx62N--EFY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "2025研发应届生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.350692,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.207821,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf3da8b071c98a8480b28727976f967f5f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 101402,
+        "positionName": "电气工程师",
+        "postDescription": "1、该岗位为应届生培养岗，岗位培养方向为机械工程师、电气工程师、前端工程师、后端工程师、测试工程师、项目工程师；\n2、专业：机械类、电气类、计算机类、自动化等专业；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "CAD"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffc4e44bfb437ffbe79e964080a5009386bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zj70NwtekCQ6G-11fcdDFkCI8Xc4J_UgRXf4U9jNtGZTsBG_Z4yqMo6s-kxEhKXHk6_LvSgOIMNHP6ZiKextomz-6BhP3aAHTDfBUyvjTTcKkuG9QkqkPyYL7bKkOML4RtuKy49Tj1BLhg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

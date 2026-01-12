@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OMqcewKJflT8t-H1qEKRQbbXjmwsYrWr4nD-qRd83M1cx7uWUip5R5qL5fRVVxb12ILu4sgXyi-cEzUAaQlE6dssq2vNaB37exTrc8eO-4lFz4tXg5gMCds0Ti9hYJT5IQw86fBvUhvxY-r5i6fOoyk0asOjL1WmJZcBI8guMfrCd-l4Pg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7f2ae38427be9d701Xd93t69GVtR",
-      "encryptUserId": "86b5eec16daa69e90nF429W-EVU~",
-      "invalidStatus": false,
-      "jobName": "系统运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、负责线上业务系统7x24的运维保障工作，及时处理系统故障问题，恢复系统运作状态；\n2、负责业务系统的部署、优化、数据备份、日常巡检、安全监控等相关工作；\n3、负责自动化运维相关工具的搭建和维护，以及运维场景的需求梳理、开发工作；\n4、配合研发其他业务模块进行业务系统架构和服务的持续优化与建设，保证业务的运维质量，提供一定的技术支持。\n\n任职资格：\n1、本科及以上学历，计算机相关专业，2年以上系统运维工作经验；\n2、精通Linux操作系统以及常用命令和工具，熟练使用shell/python等至少1门开发语言，具有良好的脚本和文档的编写能力；\n3、熟悉Nginx/Jenkins/MySQL/Redis/Apache/Mongo/Redis/Flink 等常用应用服务，以及相关的应用服务组合和容器部署；\n4、了解js/css/html等相关技术，具有良好的网络/存储/安全等计算机体系结构和运维基本概念；\n5、具有很好的网络基础，熟悉网络协议：TCP/IP, HTTP, DNS,FTP, 熟悉网络路由相关协议；\n6、良好的文档撰写和语言表达能力，良好的团队精神和责任心。",
-      "encryptAddressId": "caa52512518cb4b41nB42dW1FFJR",
-      "address": "广州黄埔区广州国际港航中心11楼",
-      "longitude": 113.434752,
-      "latitude": 23.09681,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c0af6c3d5793a1f8261e130957ee6f2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5bdd63a718d16a7210d33bc9c05604b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Nginx",
-        "系统运维",
-        "Redis",
-        "Python/Shell"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190603/80fc7d2854d365ca2056a919e89c6067cd229fd0b1985385f4103c2a6ab_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "广州信天翁科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "35d2bfdd26bc25081n180tm7FVE~",
-      "brandName": "广州信天翁科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "广州信天翁信息科技有限公司成立于2013年12月10日，位于广州市黄埔区黄埔大道东983号1116、1117、1119室，我司旗下网站（gdxtw.com）主要运营软件开发运维服务，详细可在网站内搜索相关软件服务进行咨询。",
-      "labels": [
-        "节日福利",
-        "员工旅游",
-        "带薪年假",
-        "年终奖",
-        "加班补助",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1732616466593,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州信天翁科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "广州信天翁科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190603/80fc7d2854d365ca2056a919e89c6067cd229fd0b1985385f4103c2a6ab_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1732616466593,
+        "brandName": "广州信天翁科技",
+        "customerBrandName": "广州信天翁科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "35d2bfdd26bc25081n180tm7FVE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "广州信天翁信息科技有限公司成立于2013年12月10日，位于广州市黄埔区黄埔大道东983号1116、1117、1119室，我司旗下网站（gdxtw.com）主要运营软件开发运维服务，详细可在网站内搜索相关软件服务进行咨询。",
+        "labels": [
+            "节日福利",
+            "员工旅游",
+            "带薪年假",
+            "年终奖",
+            "加班补助",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州黄埔区广州国际港航中心11楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "caa52512518cb4b41nB42dW1FFJR",
+        "encryptId": "7f2ae38427be9d701Xd93t69GVtR",
+        "encryptUserId": "86b5eec16daa69e90nF429W-EVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.09681,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.434752,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5bdd63a718d16a7210d33bc9c05604b",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作职责：\n1、负责线上业务系统7x24的运维保障工作，及时处理系统故障问题，恢复系统运作状态；\n2、负责业务系统的部署、优化、数据备份、日常巡检、安全监控等相关工作；\n3、负责自动化运维相关工具的搭建和维护，以及运维场景的需求梳理、开发工作；\n4、配合研发其他业务模块进行业务系统架构和服务的持续优化与建设，保证业务的运维质量，提供一定的技术支持。\n\n任职资格：\n1、本科及以上学历，计算机相关专业，2年以上系统运维工作经验；\n2、精通Linux操作系统以及常用命令和工具，熟练使用shell/python等至少1门开发语言，具有良好的脚本和文档的编写能力；\n3、熟悉Nginx/Jenkins/MySQL/Redis/Apache/Mongo/Redis/Flink 等常用应用服务，以及相关的应用服务组合和容器部署；\n4、了解js/css/html等相关技术，具有良好的网络/存储/安全等计算机体系结构和运维基本概念；\n5、具有很好的网络基础，熟悉网络协议：TCP/IP, HTTP, DNS,FTP, 熟悉网络路由相关协议；\n6、良好的文档撰写和语言表达能力，良好的团队精神和责任心。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Nginx",
+            "系统运维",
+            "Redis",
+            "Python/Shell"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c0af6c3d5793a1f8261e130957ee6f2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OMqcewKJflT8t-H1qEKRQbbXjmwsYrWr4nD-qRd83M1cx7uWUip5R5qL5fRVVxb12ILu4sgXyi-cEzUAaQlE6dssq2vNaB37exTrc8eO-4lFz4tXg5gMCds0Ti9hYJT5IQw86fBvUhvxY-r5i6fOoyk0asOjL1WmJZcBI8guMfrCd-l4Pg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

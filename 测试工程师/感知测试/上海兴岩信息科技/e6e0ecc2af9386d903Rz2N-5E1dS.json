@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zImVoiqp1DLZo-g1-xkrsX_aGx6k9_LDmdOuOxYMnFcF9BSlStSfI8b8_UztfZUGyaKeCxFsn-uQ1WY0opDHsGrqtv_E5koVPZnWlRqbQLQJaJs3Ze7wsA88d748kuGYeZag24BIop8m6cCL14CrU2NEN0E~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e6e0ecc2af9386d903Rz2N-5E1dS",
-      "encryptUserId": "4cb755d99771f0550nZ609W1F1BQ",
-      "invalidStatus": false,
-      "jobName": "感知测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；\n任职资格\n统招大专及以上学历\n负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；",
-      "encryptAddressId": "6f60cc5b47e246071nZ82tm5GFtV",
-      "address": "杭州滨江区聚光中心B座",
-      "longitude": 120.22132,
-      "latitude": 30.207384,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18e271afa36f6d1681b703ba6dfe63ad",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ec67d179719cd08701dff1fa0dc001d",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "感知标注",
-        "功能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241220/607f1f3d68754fd0759ceda404bbe312e773fe7e921ffae9c2984a21d50fb500b8f868d546041a0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "上海兴岩信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "436bcf494f92a2210nd-3dq-",
-      "brandName": "上海兴岩信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180503/b4833e165ebd3ac4a94f98fbba4c27f0cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "兴岩科技的服务遍布全国主要城市，在北京、深圳、杭州、南京，成都，武汉等地均有分支机构，专注为金融，互联网，制造业，物流，智能产业等领域的客户提供各类IT人才外包服务，软件产品开发，实施，运维、测试，知识技能培训等服务.",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1735554139496,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海兴岩信息科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海兴岩信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241220/607f1f3d68754fd0759ceda404bbe312e773fe7e921ffae9c2984a21d50fb500b8f868d546041a0_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1735554139496,
+        "brandName": "上海兴岩信息科技",
+        "customerBrandName": "上海兴岩信息科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "436bcf494f92a2210nd-3dq-",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "兴岩科技的服务遍布全国主要城市，在北京、深圳、杭州、南京，成都，武汉等地均有分支机构，专注为金融，互联网，制造业，物流，智能产业等领域的客户提供各类IT人才外包服务，软件产品开发，实施，运维、测试，知识技能培训等服务.",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "员工旅游",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180503/b4833e165ebd3ac4a94f98fbba4c27f0cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区聚光中心B座",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "6f60cc5b47e246071nZ82tm5GFtV",
+        "encryptId": "e6e0ecc2af9386d903Rz2N-5E1dS",
+        "encryptUserId": "4cb755d99771f0550nZ609W1F1BQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "感知测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.207384,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.22132,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ec67d179719cd08701dff1fa0dc001d",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；\n任职资格\n统招大专及以上学历\n负责感知模型评测工作；\n负责感知问题收集和数据分析；\n有感知标注经验优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "测试工作经验",
+            "感知标注",
+            "功能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18e271afa36f6d1681b703ba6dfe63ad"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zImVoiqp1DLZo-g1-xkrsX_aGx6k9_LDmdOuOxYMnFcF9BSlStSfI8b8_UztfZUGyaKeCxFsn-uQ1WY0opDHsGrqtv_E5koVPZnWlRqbQLQJaJs3Ze7wsA88d748kuGYeZag24BIop8m6cCL14CrU2NEN0E~",
+    "selfAccess": false,
+    "sessionId": null
 }

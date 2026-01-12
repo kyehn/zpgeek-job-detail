@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Z30JRCxt7gnJG-y1IGreD6eiuJ0cIuAOnTwDMQucZINtKPVJniBvkO6QFrt_XTFBg4Nzn0dXbQ7opu4bsvBHQRUKeJWvjYAaSI3-jyEWjYcjxpYcYQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2860f79b47f36c391nx42dy9E1pU",
-      "encryptUserId": "1e52465dd394effc03dz0tu9E1o~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "要求：2年以上开发经验，能独立完成开发任务\n具有较强的沟通能力和团队协作能力\n熟悉spring、springmvc、mybatis框架\n熟练掌握mysql；",
-      "encryptAddressId": "f56a4ed0dddae1fa1nZ43ti1FlA~",
-      "address": "西安雁塔区创业广场一楼",
-      "longitude": 108.893829,
-      "latitude": 34.23507,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bef060bf3e5c1fc2c3df7d28d431c3e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19a9c52d6a88b1fb31da2641daa29fbf",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端开发",
-        "Linux",
-        "Windows"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郑先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "臻融智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cd4140f9e5761f9503F82NS-Ew~~",
-      "brandName": "臻融智能",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190916/0c9d78e24138368805983b453e6223cbf97d7cbcf13e3be131c3037691d22122_s.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723425853000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "臻融智能",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "臻融智能",
+        "certificated": true,
+        "large": null,
+        "name": "郑先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723425853000,
+        "brandName": "臻融智能",
+        "customerBrandName": "臻融智能",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "cd4140f9e5761f9503F82NS-Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190916/0c9d78e24138368805983b453e6223cbf97d7cbcf13e3be131c3037691d22122_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区创业广场一楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f56a4ed0dddae1fa1nZ43ti1FlA~",
+        "encryptId": "2860f79b47f36c391nx42dy9E1pU",
+        "encryptUserId": "1e52465dd394effc03dz0tu9E1o~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.23507,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.893829,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19a9c52d6a88b1fb31da2641daa29fbf",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "要求：2年以上开发经验，能独立完成开发任务\n具有较强的沟通能力和团队协作能力\n熟悉spring、springmvc、mybatis框架\n熟练掌握mysql；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "后端开发",
+            "Linux",
+            "Windows"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bef060bf3e5c1fc2c3df7d28d431c3e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Z30JRCxt7gnJG-y1IGreD6eiuJ0cIuAOnTwDMQucZINtKPVJniBvkO6QFrt_XTFBg4Nzn0dXbQ7opu4bsvBHQRUKeJWvjYAaSI3-jyEWjYcjxpYcYQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8v0Xam5j9GecD-b1Nx8kBgvK-DhpTdzA_PTjnJgVgOeYITJGkaf09DchTsm4r_CR8pRj2O5uw6GuhTE7m9antXsRECx5-kwk8_0MbzJbYuzHksPIYw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cb27a95a8a0758861XJ92Ni6FlRZ",
-      "encryptUserId": "0d64941d7b5f4dd11HNz3dW0GVc~",
-      "invalidStatus": false,
-      "jobName": "渗透测试工程师",
-      "position": 100310,
-      "positionName": "渗透测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责对客户系统进行渗透测试工作，尽可能发现安全漏洞及风险，并提供修复建议；\n2、协助客户应急处置安全事件并修复安全漏洞；\n3、跟踪国内外信息安全动态，必要时进行安全攻防技术研究；\n4、能够对客户技术人员进行相关的技术安全培训；\n5、编写相关文档。\n岗位要求：\n1、了解asp、php、java、python等主流的Web语言的一种或者多种，并且熟练掌握其安全测试或安全攻击的方式，例如：SQL注入、XSS、CSRF、命令执行、越权等常见的安全漏洞的原理及利用方法；\n2、了解常用安全工具的使用技巧，如：AppScan、wvs、Burp suite、Nmap、Sqlmap等安全工具。\n3、了解掌握Windows、Linux等平台的使用及攻击的技巧。",
-      "encryptAddressId": "34192dfff0355e371XN739q-EA~~",
-      "address": "北京朝阳区金盟大厦408",
-      "longitude": 116.423375,
-      "latitude": 39.992062,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5c276e7953e14ac617fe35ddad951cd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f86d3c04318bddade09aab1cbdb0753",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "渗透测试",
-        "信息安全"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "禹宏信安",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f365b02b9abdbc1f33d42t25Fg~~",
-      "brandName": "禹宏信安",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200515/9e3a9753a19e768d3c394f66dbe766937d2187fbe4291885728662c312bd17f0_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "禹宏信安（ChaoSEC）是业内首家专注于信息安全事件的预防、检测、处置及追踪的信息安全服务提供商，能够提供多层次、全方位的信息安全服务；公司拥有一批在信息安全事件处置、黑客攻防和等级保护等领域具有很深造诣的专业人才。公司积极实践国家“互联网+”战略，致力于为客户提供最有效的信息安全解决方案。公司主要业务包括：安全咨询、风险评估、渗透测试、安全运维、应急响应、安全预警、安全加固、安全集成、等级保护和安全培训。\n\n公司已获得“信息安全服务资质证书（安全工程类一级）”以及“ISO9000质量管理体系认证证书”。\n\n与政府、教育、金融、互联网等多个行业客户建立良好合作关系；多次配合公安机关的对信息安全事件进行应急响应、事件处置，破获多起黑客攻击及诈骗勒索案件。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
-        "带薪年假",
-        "交通补助",
-        "节日福利",
-        "加班补助",
-        "绩效奖金"
-      ],
-      "activeTime": 1730800827652,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "禹宏信安",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "禹宏信安",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730800827652,
+        "brandName": "禹宏信安",
+        "customerBrandName": "禹宏信安",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f365b02b9abdbc1f33d42t25Fg~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "禹宏信安（ChaoSEC）是业内首家专注于信息安全事件的预防、检测、处置及追踪的信息安全服务提供商，能够提供多层次、全方位的信息安全服务；公司拥有一批在信息安全事件处置、黑客攻防和等级保护等领域具有很深造诣的专业人才。公司积极实践国家“互联网+”战略，致力于为客户提供最有效的信息安全解决方案。公司主要业务包括：安全咨询、风险评估、渗透测试、安全运维、应急响应、安全预警、安全加固、安全集成、等级保护和安全培训。\n\n公司已获得“信息安全服务资质证书（安全工程类一级）”以及“ISO9000质量管理体系认证证书”。\n\n与政府、教育、金融、互联网等多个行业客户建立良好合作关系；多次配合公安机关的对信息安全事件进行应急响应、事件处置，破获多起黑客攻击及诈骗勒索案件。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "交通补助",
+            "节日福利",
+            "加班补助",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200515/9e3a9753a19e768d3c394f66dbe766937d2187fbe4291885728662c312bd17f0_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区金盟大厦408",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "34192dfff0355e371XN739q-EA~~",
+        "encryptId": "cb27a95a8a0758861XJ92Ni6FlRZ",
+        "encryptUserId": "0d64941d7b5f4dd11HNz3dW0GVc~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "渗透测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 39.992062,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.423375,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f86d3c04318bddade09aab1cbdb0753",
+        "position": 100310,
+        "positionName": "渗透测试",
+        "postDescription": "岗位职责：\n1、负责对客户系统进行渗透测试工作，尽可能发现安全漏洞及风险，并提供修复建议；\n2、协助客户应急处置安全事件并修复安全漏洞；\n3、跟踪国内外信息安全动态，必要时进行安全攻防技术研究；\n4、能够对客户技术人员进行相关的技术安全培训；\n5、编写相关文档。\n岗位要求：\n1、了解asp、php、java、python等主流的Web语言的一种或者多种，并且熟练掌握其安全测试或安全攻击的方式，例如：SQL注入、XSS、CSRF、命令执行、越权等常见的安全漏洞的原理及利用方法；\n2、了解常用安全工具的使用技巧，如：AppScan、wvs、Burp suite、Nmap、Sqlmap等安全工具。\n3、了解掌握Windows、Linux等平台的使用及攻击的技巧。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "渗透测试",
+            "信息安全"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5c276e7953e14ac617fe35ddad951cd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8v0Xam5j9GecD-b1Nx8kBgvK-DhpTdzA_PTjnJgVgOeYITJGkaf09DchTsm4r_CR8pRj2O5uw6GuhTE7m9antXsRECx5-kwk8_0MbzJbYuzHksPIYw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

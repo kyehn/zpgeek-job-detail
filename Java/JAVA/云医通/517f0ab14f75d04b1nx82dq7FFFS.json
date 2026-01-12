@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ETOvR8ZWcAYFG-y1VQonRwyy2uJpi44mDQGP4dLqemgd72hqsk0hqkZDdelGTgtWFcFoMVYb6yumYoquS4l0ZHdhaSe4NKSvgwdcewAMnQnx-83ZnRU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "517f0ab14f75d04b1nx82dq7FFFS",
-      "encryptUserId": "d157b5938063da5b0HNz09m_E1E~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101091000,
-      "locationName": "邯郸",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-10K",
-      "payTypeDesc": null,
-      "postDescription": "医疗软件开发，有1–3年工作经验",
-      "encryptAddressId": "f6a73b27e52ce6881XR72dS8FVs~",
-      "address": "邯郸复兴区宝利大厦销售中心A座21层",
-      "longitude": 114.46853,
-      "latitude": 36.612449,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a11d1767fb95ded5cc40f731b30b24de",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c93845186f4e1850a9794b87c28877e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "架构师",
-        "中级软件工程师",
-        "初级软件工程师",
-        "Linux",
-        "Unix",
-        "后端开发",
-        "Jenkins"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191009/c6ef40788efd18c446abad3ed66a8f06f3497ead7bea4c54fa054c84ed3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "云医通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "adfb7318158f27181n173ty7GVs~",
-      "brandName": "云医通",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722961829113,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云医通",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云医通",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191009/c6ef40788efd18c446abad3ed66a8f06f3497ead7bea4c54fa054c84ed3_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722961829113,
+        "brandName": "云医通",
+        "customerBrandName": "云医通",
+        "customerBrandStageName": "",
+        "encryptBrandId": "adfb7318158f27181n173ty7GVs~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "邯郸复兴区宝利大厦销售中心A座21层",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f6a73b27e52ce6881XR72dS8FVs~",
+        "encryptId": "517f0ab14f75d04b1nx82dq7FFFS",
+        "encryptUserId": "d157b5938063da5b0HNz09m_E1E~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.612449,
+        "location": 101091000,
+        "locationName": "邯郸",
+        "longitude": 114.46853,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c93845186f4e1850a9794b87c28877e",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "医疗软件开发，有1–3年工作经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-10K",
+        "showSkills": [
+            "架构师",
+            "中级软件工程师",
+            "初级软件工程师",
+            "Linux",
+            "Unix",
+            "后端开发",
+            "Jenkins"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a11d1767fb95ded5cc40f731b30b24de"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ETOvR8ZWcAYFG-y1VQonRwyy2uJpi44mDQGP4dLqemgd72hqsk0hqkZDdelGTgtWFcFoMVYb6yumYoquS4l0ZHdhaSe4NKSvgwdcewAMnQnx-83ZnRU~",
+    "selfAccess": false,
+    "sessionId": null
 }

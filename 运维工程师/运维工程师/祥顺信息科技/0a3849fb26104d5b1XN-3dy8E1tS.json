@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xlb7YXRe1uP0w-P1mbUw7Lwh5yENvXcp2gYPQdLYGFuuhASJcYPCQ0zlrVPSNoD5ZuXe_l2O6tjzEojnBBwZfBOUxVs-O42Z5sABMC3_PfNf4mhMLfXx2jUQNgwiBl-T7N46WEQOHvY3hg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0a3849fb26104d5b1XN-3dy8E1tS",
-      "encryptUserId": "bb8b37cb6637e49f1nZ50tW6F1pX",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101180900,
-      "locationName": "洛阳",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作性质为常驻，负责国网公司软件系统的实施工作，独立负责一个专业，开展线损治理工作，负责现场数据采录，辅助反窃电，按照实施计划，进行实施部署",
-      "encryptAddressId": "7639da8d0024c35a1HZy39S_ElZWx4S2Vf8~",
-      "address": "洛阳偃师区国家电网偃师市供电公司1",
-      "longitude": 112.789362,
-      "latitude": 34.718198,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231221/48ba41acc9cef1bf3a2adb2d14a90059a3f0b69b0f2f477d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231221/48ba41acc9cef1bfb1facbb412e4c8468d85ec4fde7aaac26bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业",
-        "电子/电气/自动化相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邵先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230315/607f1f3d68754fd04510ae652e5a9b62e30200c6e78569948a0d74d8ad4403c13b82ee38c8f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "祥顺信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ca3b3a03aa851a8e1nV_2tm_FlI~",
-      "brandName": "祥顺信息科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "员工旅游",
-        "餐补",
-        "节日福利",
-        "住房补贴"
-      ],
-      "activeTime": 1719800708177,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "祥顺信息科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "祥顺信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "邵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230315/607f1f3d68754fd04510ae652e5a9b62e30200c6e78569948a0d74d8ad4403c13b82ee38c8f_b.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719800708177,
+        "brandName": "祥顺信息科技",
+        "customerBrandName": "祥顺信息科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ca3b3a03aa851a8e1nV_2tm_FlI~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "员工旅游",
+            "餐补",
+            "节日福利",
+            "住房补贴"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "洛阳偃师区国家电网偃师市供电公司1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7639da8d0024c35a1HZy39S_ElZWx4S2Vf8~",
+        "encryptId": "0a3849fb26104d5b1XN-3dy8E1tS",
+        "encryptUserId": "bb8b37cb6637e49f1nZ50tW6F1pX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.718198,
+        "location": 101180900,
+        "locationName": "洛阳",
+        "longitude": 112.789362,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231221/48ba41acc9cef1bfb1facbb412e4c8468d85ec4fde7aaac26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作性质为常驻，负责国网公司软件系统的实施工作，独立负责一个专业，开展线损治理工作，负责现场数据采录，辅助反窃电，按照实施计划，进行实施部署",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "计算机相关专业",
+            "电子/电气/自动化相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231221/48ba41acc9cef1bf3a2adb2d14a90059a3f0b69b0f2f477d6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xlb7YXRe1uP0w-P1mbUw7Lwh5yENvXcp2gYPQdLYGFuuhASJcYPCQ0zlrVPSNoD5ZuXe_l2O6tjzEojnBBwZfBOUxVs-O42Z5sABMC3_PfNf4mhMLfXx2jUQNgwiBl-T7N46WEQOHvY3hg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

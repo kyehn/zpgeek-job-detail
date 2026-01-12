@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TjO4vsGaA660H-a1XWgKJEv48oBqgMvdt8NX5CHAzpAH2-cj3gJbrqgsEMFZNsXx6gI90dobtVb7J6pispwE-Z7cFXgv_cDDGk3Z_9RAXaubmOwNJ-5YxFUnI-3c9opRwhc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2a88ddacaac6640103R939y8FlpX",
-      "encryptUserId": "6c5d2623215676d31nZ62tW7EltU",
-      "invalidStatus": false,
-      "jobName": "IT技术",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "【岗位职责】\n1、负责公司网络设备的配置、管理和维护，确保网络稳定运行与安全；\n2、负责ERP系统的安装、维护，管理系统的用户账号和权限，确保系统的安全和稳定，以及服务器数据的安全性和完整性；\n3、根据公司发展和业务需求，开发和维护 ERP 及其他应用软件，沟通并跟进项目落地；\n4、编写和维护相关的技术文档和用户手册，记录系统配置和操作过程，方便日后的参考和培训；\n5、完成上级安排的其他工作。\n\n【岗位要求】\n1、本科及以上学历，计算机相关专业；\n2、1年及以上it桌面运维维护相关工作经验，ERP系统运维经验优先考虑；\n3、具备良好的工作主动性和沟通协作能力。",
-      "encryptAddressId": "f40845d7545d3de40HR-2925FVs~",
-      "address": "杭州滨江区西可科技园1号楼",
-      "longitude": 120.194166,
-      "latitude": 30.189746,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/822d47868ad95fb9594d1b8369dc730c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37ac82ab626c01a30402e99748005df0",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "ERP系统",
-        "系统运维",
-        "it技术支持",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "石女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200813/852e68e9167bfd3e4f4448fc56bd3fe4ddb052a2a35e1288f0b662f9f02_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "浙江正意纺织",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9695df25e43a8dfa1nJ83dq0EFo~",
-      "brandName": "浙江正意纺织",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210805/f1e2e72cf0d67e97fe162f1c2e8f9efcb8b876f881fbd83149d13e66262a9221.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101003,
-      "industryName": "服装/纺织",
-      "introduce": "浙江正意纺织有限公司是一家针织毛衣及纱线生产供应链管理企业，位于浙江省杭州市滨江区。我们控制整个生产过程和平台，从原纤维到成品。公司拥有强大的设计、研发和生产管理能力，在纺织行业有20多年的经验。我们为客户提供专业、全面、安全的供应链管理服务。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1734689609133,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江正意纺织",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江正意纺织",
+        "certificated": true,
+        "large": null,
+        "name": "石女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200813/852e68e9167bfd3e4f4448fc56bd3fe4ddb052a2a35e1288f0b662f9f02_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1734689609133,
+        "brandName": "浙江正意纺织",
+        "customerBrandName": "浙江正意纺织",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9695df25e43a8dfa1nJ83dq0EFo~",
+        "focusBrand": false,
+        "industry": 101003,
+        "industryName": "服装/纺织",
+        "introduce": "浙江正意纺织有限公司是一家针织毛衣及纱线生产供应链管理企业，位于浙江省杭州市滨江区。我们控制整个生产过程和平台，从原纤维到成品。公司拥有强大的设计、研发和生产管理能力，在纺织行业有20多年的经验。我们为客户提供专业、全面、安全的供应链管理服务。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "年终奖",
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210805/f1e2e72cf0d67e97fe162f1c2e8f9efcb8b876f881fbd83149d13e66262a9221.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区西可科技园1号楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "f40845d7545d3de40HR-2925FVs~",
+        "encryptId": "2a88ddacaac6640103R939y8FlpX",
+        "encryptUserId": "6c5d2623215676d31nZ62tW7EltU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "IT技术",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.189746,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.194166,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37ac82ab626c01a30402e99748005df0",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "【岗位职责】\n1、负责公司网络设备的配置、管理和维护，确保网络稳定运行与安全；\n2、负责ERP系统的安装、维护，管理系统的用户账号和权限，确保系统的安全和稳定，以及服务器数据的安全性和完整性；\n3、根据公司发展和业务需求，开发和维护 ERP 及其他应用软件，沟通并跟进项目落地；\n4、编写和维护相关的技术文档和用户手册，记录系统配置和操作过程，方便日后的参考和培训；\n5、完成上级安排的其他工作。\n\n【岗位要求】\n1、本科及以上学历，计算机相关专业；\n2、1年及以上it桌面运维维护相关工作经验，ERP系统运维经验优先考虑；\n3、具备良好的工作主动性和沟通协作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "网络运维",
+            "ERP系统",
+            "系统运维",
+            "it技术支持",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/822d47868ad95fb9594d1b8369dc730c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TjO4vsGaA660H-a1XWgKJEv48oBqgMvdt8NX5CHAzpAH2-cj3gJbrqgsEMFZNsXx6gI90dobtVb7J6pispwE-Z7cFXgv_cDDGk3Z_9RAXaubmOwNJ-5YxFUnI-3c9opRwhc~",
+    "selfAccess": false,
+    "sessionId": null
 }

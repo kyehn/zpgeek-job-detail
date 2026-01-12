@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZoiTTNJquWqFp-S1I7l2jKV7LmL353JNJqVXDVUTaBmr4BPWmtD752EHLL9q7oCiAz3MRRPXu2NqAGLlbqKKSlAzSY4MbagUAhmEaW8SIZSEJXQPxc9yXIQEvwURjhqDaLD9GXzPwZiA",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "eac86a464b654d9003R60tu7ElBY",
-      "encryptUserId": "45d5f239612bc00703Z63tu_Flc~",
-      "invalidStatus": false,
-      "jobName": "助理软件工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟悉C#语言，winform 界面，熟悉设计模式，同时对多线程，linq 泛型 等C#基础知识能够熟悉使用。\n2.熟悉XML ，Json 文件的序列化与反序列化。\n3.有使用过 HttpWebRequest，WebServiceAgent，等工具做过Http数据读取的经验。\n4.了解上位机与Mes系统的通讯方式。\n5. 熟悉TCP通讯，Modbus协议。\n6.有上位机以及设备通讯协议开发者优先。",
-      "encryptAddressId": "00822b19f5fdaccf1nB92tm0E1BSwoi3U_2Z",
-      "address": "长沙雨花区旭辉国际广场C2写字楼23层",
-      "longitude": 113.034559,
-      "latitude": 28.155611,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfb7ec707fa45222efc35575f80f8fdfb06bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfe5816d0b8862b4b9e0c5f90b0b9cfca76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "视觉",
-        "C#开发经验",
-        "运动控制",
-        "上位机",
-        "mes"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HR招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200806/8176dac9e5792947b9380a20bf3608d2c09c143cd55f95a2a4ef58e6fc8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "三兴精密",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3eda174fbe2c550f1HZ40t64FQ~~",
-      "brandName": "三兴精密",
-      "logo": "https://c-res.zhipin.com/jrs/28_18b6ba54de215676a486f52d69cbbe45.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100914,
-      "industryName": "自动化设备",
-      "introduce": "湖南三兴精密工业股份有限公司成立于2012年，是国内领先的智能装备全自动解决方案提供商，是集专业研发、加工、制造、销售、服务于一体的国家高新技术企业。公司专注于光电行业、PCB线路板行业、光伏行业自动化、智能化设备及相关技术的研发和应用，主营业务为光电显示丝印烘烤全自动整线设备；线路板塞孔涂布烘烤全自动整线设备；光伏电池丝印整线设备；视觉检测与自动化设备。多年来为APPLE、SAMSUNG、HUAWEI等世界500强企业的上游供应链蓝思科技、伯恩光学、比亚迪、富士康、康宁、立讯精密等知名企业提供完善的智能装备解决方案。",
-      "labels": [
-        "节日福利",
-        "宿舍有空调",
-        "团建聚餐",
-        "带薪年假",
-        "夜班补助",
-        "五险一金"
-      ],
-      "activeTime": 1732195681443,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "三兴精密",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "三兴精密",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200806/8176dac9e5792947b9380a20bf3608d2c09c143cd55f95a2a4ef58e6fc8_b.jpg",
+        "title": "HR招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1732195681443,
+        "brandName": "三兴精密",
+        "customerBrandName": "三兴精密",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "3eda174fbe2c550f1HZ40t64FQ~~",
+        "focusBrand": false,
+        "industry": 100914,
+        "industryName": "自动化设备",
+        "introduce": "湖南三兴精密工业股份有限公司成立于2012年，是国内领先的智能装备全自动解决方案提供商，是集专业研发、加工、制造、销售、服务于一体的国家高新技术企业。公司专注于光电行业、PCB线路板行业、光伏行业自动化、智能化设备及相关技术的研发和应用，主营业务为光电显示丝印烘烤全自动整线设备；线路板塞孔涂布烘烤全自动整线设备；光伏电池丝印整线设备；视觉检测与自动化设备。多年来为APPLE、SAMSUNG、HUAWEI等世界500强企业的上游供应链蓝思科技、伯恩光学、比亚迪、富士康、康宁、立讯精密等知名企业提供完善的智能装备解决方案。",
+        "labels": [
+            "节日福利",
+            "宿舍有空调",
+            "团建聚餐",
+            "带薪年假",
+            "夜班补助",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/28_18b6ba54de215676a486f52d69cbbe45.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙雨花区旭辉国际广场C2写字楼23层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "00822b19f5fdaccf1nB92tm0E1BSwoi3U_2Z",
+        "encryptId": "eac86a464b654d9003R60tu7ElBY",
+        "encryptUserId": "45d5f239612bc00703Z63tu_Flc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "助理软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.155611,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.034559,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfe5816d0b8862b4b9e0c5f90b0b9cfca76bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "1.熟悉C#语言，winform 界面，熟悉设计模式，同时对多线程，linq 泛型 等C#基础知识能够熟悉使用。\n2.熟悉XML ，Json 文件的序列化与反序列化。\n3.有使用过 HttpWebRequest，WebServiceAgent，等工具做过Http数据读取的经验。\n4.了解上位机与Mes系统的通讯方式。\n5. 熟悉TCP通讯，Modbus协议。\n6.有上位机以及设备通讯协议开发者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "C#",
+            "视觉",
+            "C#开发经验",
+            "运动控制",
+            "上位机",
+            "mes"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfb7ec707fa45222efc35575f80f8fdfb06bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZoiTTNJquWqFp-S1I7l2jKV7LmL353JNJqVXDVUTaBmr4BPWmtD752EHLL9q7oCiAz3MRRPXu2NqAGLlbqKKSlAzSY4MbagUAhmEaW8SIZSEJXQPxc9yXIQEvwURjhqDaLD9GXzPwZiA",
+    "selfAccess": false,
+    "sessionId": null
 }

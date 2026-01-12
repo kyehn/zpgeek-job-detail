@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FPzT20RmQklRE-p1La1kBuHwwTjXnoCm4FKhRzT93snEWANmKL8m2iQiVDRndJoWdUF5ks5WX9h1PnfDCGTLlkxeJMxzeHPbfNf7p_0lpPOpg2-Qz5zS",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a6997f873ecab09c1nd42Nm7ElRR",
-      "encryptUserId": "d1577f26c21e72bf1nZ43d64GVNZ",
-      "invalidStatus": false,
-      "jobName": "运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "学院日常运维，故障处理，实时监控，巡检等",
-      "encryptAddressId": "84414989db0500b51Hdy2Ni_EVE~",
-      "address": "成都成华区龙湖三千集天街A座2201室",
-      "longitude": 104.109616,
-      "latitude": 30.674992,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c37c19f8ef8ab11f9d2bfaf8b3f1b46",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eacec63e103f4c47f5af8f942510e224",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "安全运维",
-        "桌面运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200819/c59e07c5004af9ba933381715edbfabb8abac0f19061e459c5422d2d308_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "成都香榭时代科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e782c9f9b91bda9d1nV42NS8ElM~",
-      "brandName": "成都香榭时代科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [
-        "定期体检",
-        "加班补助"
-      ],
-      "activeTime": 1717810324401,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "成都香榭时代科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "成都香榭时代科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200819/c59e07c5004af9ba933381715edbfabb8abac0f19061e459c5422d2d308_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1717810324401,
+        "brandName": "成都香榭时代科技",
+        "customerBrandName": "成都香榭时代科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e782c9f9b91bda9d1nV42NS8ElM~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [
+            "定期体检",
+            "加班补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都成华区龙湖三千集天街A座2201室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "84414989db0500b51Hdy2Ni_EVE~",
+        "encryptId": "a6997f873ecab09c1nd42Nm7ElRR",
+        "encryptUserId": "d1577f26c21e72bf1nZ43d64GVNZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.674992,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.109616,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eacec63e103f4c47f5af8f942510e224",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "学院日常运维，故障处理，实时监控，巡检等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "系统运维",
+            "安全运维",
+            "桌面运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c37c19f8ef8ab11f9d2bfaf8b3f1b46"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FPzT20RmQklRE-p1La1kBuHwwTjXnoCm4FKhRzT93snEWANmKL8m2iQiVDRndJoWdUF5ks5WX9h1PnfDCGTLlkxeJMxzeHPbfNf7p_0lpPOpg2-Qz5zS",
+    "selfAccess": false,
+    "sessionId": null
 }

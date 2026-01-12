@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4tVQZ0cMjD9mt-V1LfgYcSSXiJlMmLATRCle8CnUdYmotYhO1SIn9VKS0WupGicQyZKbFHSuyJxAjQm8p8bGVMxrdmYzKRUu3mQ5RcWd3HYAn01TwFvU4ageVspFFk_Jw3o~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a1a6db9a989066cd1XR_3d2-GVNR",
-      "encryptUserId": "1c41c6609c92026e0nV60ti6F1tW",
-      "invalidStatus": false,
-      "jobName": "硬件测试工程师",
-      "position": 100308,
-      "positionName": "硬件测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.智能硬件产品测试\n2.智能硬件外包管理\n3.PCB板设计和检测\n4.PCB制造沟通和管理",
-      "encryptAddressId": "ced8442a009fde281XZy292-Fw~~",
-      "address": "北京朝阳区居然WORK(北门)居然WORK025",
-      "longitude": 116.472973,
-      "latitude": 39.859007,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e58e948fe43e10999e02805a31e93ec",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3086374f70a13a3ac3b49511f431c87c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电池/电源类",
-        "机电相关专业",
-        "硬件测试经验",
-        "智能硬件类",
-        "主板测试",
-        "硬件研发经验",
-        "PCB"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "总经理/技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "瑞晶睿达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "84f03f8c5b1876fb1nd509-_Flc~",
-      "brandName": "瑞晶睿达",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "节假日加班费",
-        "节日福利",
-        "生日福利",
-        "交通补助"
-      ],
-      "activeTime": 1733326195521,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瑞晶睿达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "瑞晶睿达",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理/技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1733326195521,
+        "brandName": "瑞晶睿达",
+        "customerBrandName": "瑞晶睿达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "84f03f8c5b1876fb1nd509-_Flc~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "节假日加班费",
+            "节日福利",
+            "生日福利",
+            "交通补助"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区居然WORK(北门)居然WORK025",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ced8442a009fde281XZy292-Fw~~",
+        "encryptId": "a1a6db9a989066cd1XR_3d2-GVNR",
+        "encryptUserId": "1c41c6609c92026e0nV60ti6F1tW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "硬件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.859007,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.472973,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3086374f70a13a3ac3b49511f431c87c",
+        "position": 100308,
+        "positionName": "硬件测试",
+        "postDescription": "1.智能硬件产品测试\n2.智能硬件外包管理\n3.PCB板设计和检测\n4.PCB制造沟通和管理",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "电池/电源类",
+            "机电相关专业",
+            "硬件测试经验",
+            "智能硬件类",
+            "主板测试",
+            "硬件研发经验",
+            "PCB"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e58e948fe43e10999e02805a31e93ec"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4tVQZ0cMjD9mt-V1LfgYcSSXiJlMmLATRCle8CnUdYmotYhO1SIn9VKS0WupGicQyZKbFHSuyJxAjQm8p8bGVMxrdmYzKRUu3mQ5RcWd3HYAn01TwFvU4ageVspFFk_Jw3o~",
+    "selfAccess": false,
+    "sessionId": null
 }

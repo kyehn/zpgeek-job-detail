@@ -1,109 +1,105 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SnFppZrdONMMI-y1HyEHEExcYdIHH6aIdMIpVlMrqZ8Um4rzrj6dRDQ-RqrhzYq1HvAWsksdvRsFhh59bIqzjS9uzamVFv0ibjOtpKgPM6o4vMeY",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "39cb5a125ebc70671Hx_0t69F1JQ",
-      "encryptUserId": "4a33d40c3841c2770nN93Nm0F1BW",
-      "invalidStatus": false,
-      "jobName": "it运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、负责公司仓库PC、网络、视频会议、手持PDA等IT日常运维 \n2、负责机房服务器、弱电、网络日常巡检 \n3、负责部门服务器、网络交换机、无线AP等IT资产管理\n 4、协助IDC管理机房、服务器硬件\n 5、协助其他同事完成建仓、搬仓、拆仓的弱电管理工作\n岗位要求\n1、大学本科及以上学历，计算机或相关专业，应届生也可\n 2、熟悉网络、电脑系统安装、视频会议系统\n 3、有一定的linux基础，懂ubuntu家族系统运维 \n4、有思科、华为网络认证，或linux红帽认证，及桌面运维经验者，优先考虑\n 5、有强烈技术学习的意愿，学习能力强，愿意自我迭代",
-      "encryptAddressId": "1e9d12404069dfa91HF42NS5EldSy4S5WfI~",
-      "address": "西安高陵区唯品会西北运营中心泾高北路十号唯品会西北运营中心",
-      "longitude": 109.029212,
-      "latitude": 34.51735,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf03656b46672e9b1d97a3e7c69b64a7a06bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bfa97b7a9d2317862195e4f4e46473c92f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "腾女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "唯品会",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b72f700dda59df7b33B90tU~",
-      "brandName": "唯品会",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/6ad4f9bb2cb84aa3b358aa6ced42e91acfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "唯品会（NYSE:VIPS）VIP.com成立于2008年，以“品牌特卖”为宗旨，在中国开创了“精选品牌、深度折扣、限时抢购”的时尚特卖模式，在线销售服饰鞋包、美妆、母婴、居家、生活等全品类名品。2012年3月23日，唯品会在美国纽约证券交易所（NYSE）上市。\n唯品会作为全球领先的特卖电商，获评2022福布斯中国年度最佳雇主和最具可持续发展力雇主，多次入选“《财富》中国500强”、“中国民营企业500强”榜单，并在2023年荣获“全国五一劳动奖状”。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "全勤奖",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "免费班车",
-        "通讯补贴",
-        "交通补助",
-        "包吃",
-        "节日福利",
-        "住房补贴",
-        "零食下午茶"
-      ],
-      "activeTime": 1730366186000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "唯品会",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "唯品会",
+        "certificated": true,
+        "large": null,
+        "name": "腾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730366186000,
+        "brandName": "唯品会",
+        "customerBrandName": "唯品会",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "b72f700dda59df7b33B90tU~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "唯品会（NYSE:VIPS）VIP.com成立于2008年，以“品牌特卖”为宗旨，在中国开创了“精选品牌、深度折扣、限时抢购”的时尚特卖模式，在线销售服饰鞋包、美妆、母婴、居家、生活等全品类名品。2012年3月23日，唯品会在美国纽约证券交易所（NYSE）上市。\n唯品会作为全球领先的特卖电商，获评2022福布斯中国年度最佳雇主和最具可持续发展力雇主，多次入选“《财富》中国500强”、“中国民营企业500强”榜单，并在2023年荣获“全国五一劳动奖状”。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "全勤奖",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "免费班车",
+            "通讯补贴",
+            "交通补助",
+            "包吃",
+            "节日福利",
+            "住房补贴",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/6ad4f9bb2cb84aa3b358aa6ced42e91acfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安高陵区唯品会西北运营中心泾高北路十号唯品会西北运营中心",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1e9d12404069dfa91HF42NS5EldSy4S5WfI~",
+        "encryptId": "39cb5a125ebc70671Hx_0t69F1JQ",
+        "encryptUserId": "4a33d40c3841c2770nN93Nm0F1BW",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "it运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.51735,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 109.029212,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bfa97b7a9d2317862195e4f4e46473c92f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责\n1、负责公司仓库PC、网络、视频会议、手持PDA等IT日常运维 \n2、负责机房服务器、弱电、网络日常巡检 \n3、负责部门服务器、网络交换机、无线AP等IT资产管理\n 4、协助IDC管理机房、服务器硬件\n 5、协助其他同事完成建仓、搬仓、拆仓的弱电管理工作\n岗位要求\n1、大学本科及以上学历，计算机或相关专业，应届生也可\n 2、熟悉网络、电脑系统安装、视频会议系统\n 3、有一定的linux基础，懂ubuntu家族系统运维 \n4、有思科、华为网络认证，或linux红帽认证，及桌面运维经验者，优先考虑\n 5、有强烈技术学习的意愿，学习能力强，愿意自我迭代",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K·13薪",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf03656b46672e9b1d97a3e7c69b64a7a06bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SnFppZrdONMMI-y1HyEHEExcYdIHH6aIdMIpVlMrqZ8Um4rzrj6dRDQ-RqrhzYq1HvAWsksdvRsFhh59bIqzjS9uzamVFv0ibjOtpKgPM6o4vMeY",
+    "selfAccess": false,
+    "sessionId": null
 }

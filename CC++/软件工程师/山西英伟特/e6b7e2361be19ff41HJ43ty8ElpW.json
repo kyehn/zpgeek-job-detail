@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jyTAAJ16he20H-01GS94ew2nKQqZcQFdYxjg1Z4oN4Y4HG49dWB96DhD7G-ef7KYleLTfWw_m7WrqGM2C3gy_Y4C3Pq_TskBRmijKSu8gZ_Rb3TTWH1SVMBBWP1wBm-qwSHqn0IgPTLWNw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e6b7e2361be19ff41HJ43ty8ElpW",
-      "encryptUserId": "4cddce123d653b470XF83du8F1tS",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101100100,
-      "locationName": "太原",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "主要用C，C++，QT编写软件，以及相关的文档编写，\n有相关的工作经验",
-      "encryptAddressId": "5ff774b75fa621493nVy2ti0FVJYwIy-Uv0~",
-      "address": "太原杏花岭区空八库物业15号楼403",
-      "longitude": 112.61757,
-      "latitude": 37.883571,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240605/48ba41acc9cef1bf0357da66f7c69cd48ec31654e75088f56bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240605/48ba41acc9cef1bf50f72f02afe06b665f7fdc22f69e429d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "C",
-        "QT",
-        "MFC"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "山西英伟特",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "11fd0ca6edfe91f01HF42Nu5EFM~",
-      "brandName": "山西英伟特",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1720135633156,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山西英伟特",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山西英伟特",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1720135633156,
+        "brandName": "山西英伟特",
+        "customerBrandName": "山西英伟特",
+        "customerBrandStageName": "",
+        "encryptBrandId": "11fd0ca6edfe91f01HF42Nu5EFM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "太原杏花岭区空八库物业15号楼403",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5ff774b75fa621493nVy2ti0FVJYwIy-Uv0~",
+        "encryptId": "e6b7e2361be19ff41HJ43ty8ElpW",
+        "encryptUserId": "4cddce123d653b470XF83du8F1tS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.883571,
+        "location": 101100100,
+        "locationName": "太原",
+        "longitude": 112.61757,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240605/48ba41acc9cef1bf50f72f02afe06b665f7fdc22f69e429d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "主要用C，C++，QT编写软件，以及相关的文档编写，\n有相关的工作经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "C++",
+            "C",
+            "QT",
+            "MFC"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240605/48ba41acc9cef1bf0357da66f7c69cd48ec31654e75088f56bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jyTAAJ16he20H-01GS94ew2nKQqZcQFdYxjg1Z4oN4Y4HG49dWB96DhD7G-ef7KYleLTfWw_m7WrqGM2C3gy_Y4C3Pq_TskBRmijKSu8gZ_Rb3TTWH1SVMBBWP1wBm-qwSHqn0IgPTLWNw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

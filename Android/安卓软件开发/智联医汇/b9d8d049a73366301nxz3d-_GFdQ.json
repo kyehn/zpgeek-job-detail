@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "E4-eDQ9hNrTdJ-Y1KBC4Jm-qS1XlAa30fSzIVbsKZ5BHezY26WnFQ9ZnJxiGrghM4YI_5gdW8kwe7Dyev8UMqgAsDpxHBWHOEkTfrA6I5O9xPhbSu7NP6HhWJhUEe_jk43n8rZ32wGHg",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b9d8d049a73366301nxz3d-_GFdQ",
-      "encryptUserId": "44ab123b93b39ce33n172ti1EVc~",
-      "invalidStatus": false,
-      "jobName": "安卓软件开发",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101230100,
-      "locationName": "福州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、根据业务需求，基于Android平台进行应用程序开发；\n2、编写相关的开发文档，如设计文档，测试文档等；\n3、对所开发的产品进行版本更新及维护，以满足业务运营要求；\n4、按照项目需求进行相关产品的开发工作并保证需求开发的质量。",
-      "encryptAddressId": "c64b0187f5ac4b6e1nN93Nm_ElM~",
-      "address": "福州鼓楼区侨益大厦14层1204",
-      "longitude": 119.311569,
-      "latitude": 26.104038,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7124981591705afbc62b4c9ab733725",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/191eb6db2294b1e016a34cf2173290a1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "林先生",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200318/f4614d2de8e828051fa37e752e7c76547b0c1630a2fd1fc2af7048a44f9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "智联医汇",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "91c05f147dd9c8f10HF60ti5GA~~",
-      "brandName": "智联医汇",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200318/f4614d2de8e828051fa37e752e7c76547b0c1630a2fd1fc2af7048a44f97845a.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100601,
-      "industryName": "咨询",
-      "introduce": "福州智联医科技有限公司，专门从事“互联网+健康”行业，主要项目远程医疗咨询服务、健康产品的代理推广及医疗器械的销售业务。主要以线上平台和线下渠道的推广与销售服务等。\n全体员工以产品服务于健康的事业为己任，立足于发展中国市场，同时在政府“一带一路”的引导下，逐步拓展海外市场。\n     我们在新的起点上展望未来，争创行业的首肯。",
-      "labels": [
-        "节日福利",
-        "有无线网",
-        "员工旅游",
-        "全勤奖",
-        "保底工资",
-        "年终奖",
-        "五险"
-      ],
-      "activeTime": 1723822896726,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智联医汇",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智联医汇",
+        "certificated": true,
+        "large": null,
+        "name": "林先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200318/f4614d2de8e828051fa37e752e7c76547b0c1630a2fd1fc2af7048a44f9_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1723822896726,
+        "brandName": "智联医汇",
+        "customerBrandName": "智联医汇",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "91c05f147dd9c8f10HF60ti5GA~~",
+        "focusBrand": false,
+        "industry": 100601,
+        "industryName": "咨询",
+        "introduce": "福州智联医科技有限公司，专门从事“互联网+健康”行业，主要项目远程医疗咨询服务、健康产品的代理推广及医疗器械的销售业务。主要以线上平台和线下渠道的推广与销售服务等。\n全体员工以产品服务于健康的事业为己任，立足于发展中国市场，同时在政府“一带一路”的引导下，逐步拓展海外市场。\n     我们在新的起点上展望未来，争创行业的首肯。",
+        "labels": [
+            "节日福利",
+            "有无线网",
+            "员工旅游",
+            "全勤奖",
+            "保底工资",
+            "年终奖",
+            "五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200318/f4614d2de8e828051fa37e752e7c76547b0c1630a2fd1fc2af7048a44f97845a.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "福州鼓楼区侨益大厦14层1204",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c64b0187f5ac4b6e1nN93Nm_ElM~",
+        "encryptId": "b9d8d049a73366301nxz3d-_GFdQ",
+        "encryptUserId": "44ab123b93b39ce33n172ti1EVc~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "安卓软件开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.104038,
+        "location": 101230100,
+        "locationName": "福州",
+        "longitude": 119.311569,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/191eb6db2294b1e016a34cf2173290a1",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "1、根据业务需求，基于Android平台进行应用程序开发；\n2、编写相关的开发文档，如设计文档，测试文档等；\n3、对所开发的产品进行版本更新及维护，以满足业务运营要求；\n4、按照项目需求进行相关产品的开发工作并保证需求开发的质量。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7124981591705afbc62b4c9ab733725"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "E4-eDQ9hNrTdJ-Y1KBC4Jm-qS1XlAa30fSzIVbsKZ5BHezY26WnFQ9ZnJxiGrghM4YI_5gdW8kwe7Dyev8UMqgAsDpxHBWHOEkTfrA6I5O9xPhbSu7NP6HhWJhUEe_jk43n8rZ32wGHg",
+    "selfAccess": false,
+    "sessionId": null
 }

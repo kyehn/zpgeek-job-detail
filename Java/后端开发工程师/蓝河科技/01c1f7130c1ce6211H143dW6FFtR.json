@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WLhGAQucfqvNw-j1wWrvSrv-kN_rkEpYjOTd7D3EFFgxUgs3GeumZr3v-PggMXbZ8PdgjD5DaLz8ln7C5gR0ZmdOfhSPQGCNEfy63NKzuAjMYQVtODOBFD2bYgGx-o7D5cV9qXhLDD_Ktqo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "01c1f7130c1ce6211H143dW6FFtR",
-      "encryptUserId": "50f1c7e4b64573d40nd80966EFBX",
-      "invalidStatus": false,
-      "jobName": "后端开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n我们正在寻找一位有才华的后端开发工程师，负责使用Java进行后端服务的开发和维护。候选人应具备扎实的编程基础和至少1年的Java开发经验。\n\n主要职责：\n- 负责后端服务的设计、开发和维护。\n- 与前端开发团队合作，确保前后端的无缝对接。\n- 参与系统架构的优化和性能调优。\n- 编写高质量的代码和文档。\n\n技能要求：\n- 至少1年的Java开发经验。\n- 熟悉Spring框架、Hibernate、MyBatis等后端技术。\n- 了解数据库设计和优化，熟悉MySQL、PostgreSQL等数据库。\n- 熟悉RESTful API的设计和开发。\n- 了解微服务架构和分布式系统。\n- 良好的代码编写习惯和文档编写能力。\n- 良好的团队合作精神和沟通能力。\n\n教育背景：\n- 计算机科学或相关领域的本科及以上学历。",
-      "encryptAddressId": "c0af2c8900b29e0b1nZ73Ny5EVJQ",
-      "address": "苏州太仓市苏州新亚科技有限公司70号",
-      "longitude": 121.111698,
-      "latitude": 31.505201,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf083547f4649a4d38fd1c9910d12629016bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf65ea5ea4ee244007c5ed9b75aaea8c446bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "物联网经验",
-        "Hibernate",
-        "不接受居家办公",
-        "MySQL",
-        "MyBatis",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "人力资源专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "蓝河科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1d08a76147a1007e1Xx_3tq8F1M~",
-      "brandName": "蓝河科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1730359056106,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "蓝河科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "蓝河科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人力资源专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1730359056106,
+        "brandName": "蓝河科技",
+        "customerBrandName": "蓝河科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "1d08a76147a1007e1Xx_3tq8F1M~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州太仓市苏州新亚科技有限公司70号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c0af2c8900b29e0b1nZ73Ny5EVJQ",
+        "encryptId": "01c1f7130c1ce6211H143dW6FFtR",
+        "encryptUserId": "50f1c7e4b64573d40nd80966EFBX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "后端开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.505201,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.111698,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf65ea5ea4ee244007c5ed9b75aaea8c446bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "职位描述：\n我们正在寻找一位有才华的后端开发工程师，负责使用Java进行后端服务的开发和维护。候选人应具备扎实的编程基础和至少1年的Java开发经验。\n\n主要职责：\n- 负责后端服务的设计、开发和维护。\n- 与前端开发团队合作，确保前后端的无缝对接。\n- 参与系统架构的优化和性能调优。\n- 编写高质量的代码和文档。\n\n技能要求：\n- 至少1年的Java开发经验。\n- 熟悉Spring框架、Hibernate、MyBatis等后端技术。\n- 了解数据库设计和优化，熟悉MySQL、PostgreSQL等数据库。\n- 熟悉RESTful API的设计和开发。\n- 了解微服务架构和分布式系统。\n- 良好的代码编写习惯和文档编写能力。\n- 良好的团队合作精神和沟通能力。\n\n教育背景：\n- 计算机科学或相关领域的本科及以上学历。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K·13薪",
+        "showSkills": [
+            "Java",
+            "物联网经验",
+            "Hibernate",
+            "不接受居家办公",
+            "MySQL",
+            "MyBatis",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf083547f4649a4d38fd1c9910d12629016bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WLhGAQucfqvNw-j1wWrvSrv-kN_rkEpYjOTd7D3EFFgxUgs3GeumZr3v-PggMXbZ8PdgjD5DaLz8ln7C5gR0ZmdOfhSPQGCNEfy63NKzuAjMYQVtODOBFD2bYgGx-o7D5cV9qXhLDD_Ktqo~",
+    "selfAccess": false,
+    "sessionId": null
 }

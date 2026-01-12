@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6Px135PzWZqTI-U1ikQ9h5pNvXI6D8UaQhmorFkChbcgmHdHhslEi2OrBmDtsbne_YBaSJ2gOE8OXhBqkxvT-h4BnIhT6D5Ok6gUDplj40KR4R_1qkNC34JXfWZQfRM5xz6etkpZrYpBYA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4dc2806db11cb8ce1XV63924GFtU",
-      "encryptUserId": "6faffb6031a54cf41H1y2t29EFA~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101210200,
-      "locationName": "湖州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1、要求熟悉工厂运作，有数据库知识； \n2、有服装行业从业经历者或erp、wms等软件实施经验，有低代码平台使用经验者优先； \n3、工作责任心强，较强的逻辑思维能力，擅长业务分析，交流沟通\n4.计算机相关专业\n5.一年以上相关工作经验\n6.熟悉网络设备、计算机、服务器的安装、调试、维护\n7.熟练使用Linux及WinServer\n8.熟悉MySQL，SQL Server数据库及使用方法\n9.有开发经验优先\r\n\r\n加分项\r\n有以下行业经验：计算机服务",
-      "encryptAddressId": "adb6d52bbd1f151f1XZ83dq_EFY~",
-      "address": "湖州吴兴区总部自由港C幢2楼",
-      "longitude": 120.192844,
-      "latitude": 30.856268,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14787a8c4dfec2b17eff0d84cfb3abb8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5c7ccad29534e96934f5da76d72dc15",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "夏先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "智兴通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7376e8a7b48607471nx-3Nq-FVc~",
-      "brandName": "智兴通",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221031/7bf6f160950405e992a0c5adee240ee08fceafe0a5df347f969313908d232d65263f02e8d1950be7.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "浙江智兴通数据科技有限公司成立于2021年7月12日，是一家集科技推广和应用服务业与一体的科技型公司。2021年7月27日，浙江省数字化改革数字经济组公布了第一批行业产业大脑建设试点 “揭榜挂帅”项目名单，吴兴区服装（童装）产业大脑成功入选。我司将于吴兴区一齐，在前期建设基础上，进一步完善服装（童装）产业大脑建设试点实施方案，加快明确大脑建设运营机制，抓好大脑建设、应用场景开发，以及与总体产业大脑基础底座的贯通。通过服装（童装）产业大脑建设，引领产业生产方式智能化变革，构筑共创共享的创新创业新生态，加速童装行业高速、高质量发展！",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "餐补",
-        "交通补助",
-        "零食下午茶"
-      ],
-      "activeTime": 1729660308192,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智兴通",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智兴通",
+        "certificated": true,
+        "large": null,
+        "name": "夏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1729660308192,
+        "brandName": "智兴通",
+        "customerBrandName": "智兴通",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7376e8a7b48607471nx-3Nq-FVc~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "浙江智兴通数据科技有限公司成立于2021年7月12日，是一家集科技推广和应用服务业与一体的科技型公司。2021年7月27日，浙江省数字化改革数字经济组公布了第一批行业产业大脑建设试点 “揭榜挂帅”项目名单，吴兴区服装（童装）产业大脑成功入选。我司将于吴兴区一齐，在前期建设基础上，进一步完善服装（童装）产业大脑建设试点实施方案，加快明确大脑建设运营机制，抓好大脑建设、应用场景开发，以及与总体产业大脑基础底座的贯通。通过服装（童装）产业大脑建设，引领产业生产方式智能化变革，构筑共创共享的创新创业新生态，加速童装行业高速、高质量发展！",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "餐补",
+            "交通补助",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221031/7bf6f160950405e992a0c5adee240ee08fceafe0a5df347f969313908d232d65263f02e8d1950be7.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "湖州吴兴区总部自由港C幢2楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "adb6d52bbd1f151f1XZ83dq_EFY~",
+        "encryptId": "4dc2806db11cb8ce1XV63924GFtU",
+        "encryptUserId": "6faffb6031a54cf41H1y2t29EFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.856268,
+        "location": 101210200,
+        "locationName": "湖州",
+        "longitude": 120.192844,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5c7ccad29534e96934f5da76d72dc15",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "任职要求：\n1、要求熟悉工厂运作，有数据库知识； \n2、有服装行业从业经历者或erp、wms等软件实施经验，有低代码平台使用经验者优先； \n3、工作责任心强，较强的逻辑思维能力，擅长业务分析，交流沟通\n4.计算机相关专业\n5.一年以上相关工作经验\n6.熟悉网络设备、计算机、服务器的安装、调试、维护\n7.熟练使用Linux及WinServer\n8.熟悉MySQL，SQL Server数据库及使用方法\n9.有开发经验优先\r\n\r\n加分项\r\n有以下行业经验：计算机服务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "软件实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14787a8c4dfec2b17eff0d84cfb3abb8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6Px135PzWZqTI-U1ikQ9h5pNvXI6D8UaQhmorFkChbcgmHdHhslEi2OrBmDtsbne_YBaSJ2gOE8OXhBqkxvT-h4BnIhT6D5Ok6gUDplj40KR4R_1qkNC34JXfWZQfRM5xz6etkpZrYpBYA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

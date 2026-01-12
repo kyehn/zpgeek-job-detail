@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vd2fo0lMXs3WZ-81uoLuqQF-Sq9i6Zsg5ixYHELuP5WdjTLHvOTaweNsxCsOMEaCkwuf57N6WWkwMLuEeeDpOUtQTcMzDmQyzN8lKsyzH8NrBIOHMlpshuFg0vfatB2I",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1ae30404ff83811d1H163Nq8E1pZ",
-      "encryptUserId": "19354dc7fc0640db0nZ72Ny0F1o~",
-      "invalidStatus": false,
-      "jobName": "安卓app开发工程师",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-13K",
-      "payTypeDesc": null,
-      "postDescription": "负责安卓app开发应用，具备与第三方sdk对接能力和较强的硬件通信能力",
-      "encryptAddressId": "37555807a70362ab1nZ83d-4FVdTwIm8UPma",
-      "address": "成都郫都区格瑞特华业机械港大路753路",
-      "longitude": 103.940632,
-      "latitude": 30.805552,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231122/48ba41acc9cef1bff82c8ca9e64878a69cf6d8994be42d116bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240118/48ba41acc9cef1bf5194ef9c28266b0172e8086f5a30049f6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Android开发经验",
-        "计算机/软件工程相关专业",
-        "Kotlin"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "汪先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200305/e292f3032b8eb2a6c236d8e9ac8ada353789c0cc5050c9e32bc94fda6af_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "巨优",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "699693f0a3d608a41Hd82NW9Fw~~",
-      "brandName": "巨优",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1737267833905,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "巨优",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "巨优",
+        "certificated": true,
+        "large": null,
+        "name": "汪先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200305/e292f3032b8eb2a6c236d8e9ac8ada353789c0cc5050c9e32bc94fda6af_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1737267833905,
+        "brandName": "巨优",
+        "customerBrandName": "巨优",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "699693f0a3d608a41Hd82NW9Fw~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都郫都区格瑞特华业机械港大路753路",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "37555807a70362ab1nZ83d-4FVdTwIm8UPma",
+        "encryptId": "1ae30404ff83811d1H163Nq8E1pZ",
+        "encryptUserId": "19354dc7fc0640db0nZ72Ny0F1o~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "安卓app开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.805552,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 103.940632,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240118/48ba41acc9cef1bf5194ef9c28266b0172e8086f5a30049f6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "负责安卓app开发应用，具备与第三方sdk对接能力和较强的硬件通信能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-13K",
+        "showSkills": [
+            "Java",
+            "Android开发经验",
+            "计算机/软件工程相关专业",
+            "Kotlin"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231122/48ba41acc9cef1bff82c8ca9e64878a69cf6d8994be42d116bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vd2fo0lMXs3WZ-81uoLuqQF-Sq9i6Zsg5ixYHELuP5WdjTLHvOTaweNsxCsOMEaCkwuf57N6WWkwMLuEeeDpOUtQTcMzDmQyzN8lKsyzH8NrBIOHMlpshuFg0vfatB2I",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "oAm08RxHeaza2-z1Hz_s8ZOPUz59CnbnDznpIk6jy6qujeNmo5BuOJMaItUjVmJjggQUhbrc28DfBHf-uqbZPY5ydW0VfuK70oiWw9mqe6Xe9_7BF3LV",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1a2eb8ab1d78c2201XJ83Nu6GFJT",
-      "encryptUserId": "f2481e738054f9770nZ93tq9FltQ",
-      "invalidStatus": false,
-      "jobName": "运维工程师/实施工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责公司机器人产品的现场跟踪测试、交付等服务工作。\n2、收集产品运行中实际产生的问题和客户反馈的问题。\n3、维护客户关系。\n任职要求：\n1、高中以上学历。\n2、有强烈的服务意识、成熟稳重的心态。\n3、具有较强的沟通表达能力、团队合作意识，能吃苦耐劳。",
-      "encryptAddressId": "db4b3f5cce2ae36e3nV-29-0ElQ~",
-      "address": "深圳南山区南山云谷创新产业园山水楼B栋4楼",
-      "longitude": 113.97153,
-      "latitude": 22.580872,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf487efc46f010004f4df03899557281646bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230512/48ba41acc9cef1bf7f39b0bc0ffe9edc57ab35245c0171bc6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维开发/DevOps"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230905/607f1f3d68754fd00121d4eaede1d1668dfa08fe2b2cd6679c6bd0778dd255011735e36e4028752_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "云洁机器人",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "573fe99df73e8cb71nx43N2_FlY~",
-      "brandName": "云洁机器人",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240911/7bf6f160950405e9e0d876e7731c9f5735b901ed9ee9eea1a2e8c939957a7fa3be08c838ed61385a.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "云洁科技是一家专注于户外场景，以智能清洁技术为核心，并基于“云端管理+智慧安防”技术，提供全方位、智能化、无人化智慧方案的高新技术企业。\n针对传统保洁和传统安保运营存在的人力成本高，工作重复、高频、低效等痛点，公司基于多传感器融合技术、AI环境感知、智能清扫、智慧安防、云平台和大数据等核心技术，推出户外无人清扫车，秉承真正解决客户痛点的设计理念，真正达到替代传统人工劳动力输出、降低企业劳动成本的目的，提供完整的闭环无人智慧保洁方案！\n公司官网，欢迎莅临！ www.iyunjie.com.cn",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "免费班车",
-        "交通补助",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1725287142264,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云洁机器人",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云洁机器人",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230905/607f1f3d68754fd00121d4eaede1d1668dfa08fe2b2cd6679c6bd0778dd255011735e36e4028752_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725287142264,
+        "brandName": "云洁机器人",
+        "customerBrandName": "云洁机器人",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "573fe99df73e8cb71nx43N2_FlY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "云洁科技是一家专注于户外场景，以智能清洁技术为核心，并基于“云端管理+智慧安防”技术，提供全方位、智能化、无人化智慧方案的高新技术企业。\n针对传统保洁和传统安保运营存在的人力成本高，工作重复、高频、低效等痛点，公司基于多传感器融合技术、AI环境感知、智能清扫、智慧安防、云平台和大数据等核心技术，推出户外无人清扫车，秉承真正解决客户痛点的设计理念，真正达到替代传统人工劳动力输出、降低企业劳动成本的目的，提供完整的闭环无人智慧保洁方案！\n公司官网，欢迎莅临！ www.iyunjie.com.cn",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "免费班车",
+            "交通补助",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240911/7bf6f160950405e9e0d876e7731c9f5735b901ed9ee9eea1a2e8c939957a7fa3be08c838ed61385a.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区南山云谷创新产业园山水楼B栋4楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "db4b3f5cce2ae36e3nV-29-0ElQ~",
+        "encryptId": "1a2eb8ab1d78c2201XJ83Nu6GFJT",
+        "encryptUserId": "f2481e738054f9770nZ93tq9FltQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师/实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.580872,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.97153,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230512/48ba41acc9cef1bf7f39b0bc0ffe9edc57ab35245c0171bc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责公司机器人产品的现场跟踪测试、交付等服务工作。\n2、收集产品运行中实际产生的问题和客户反馈的问题。\n3、维护客户关系。\n任职要求：\n1、高中以上学历。\n2、有强烈的服务意识、成熟稳重的心态。\n3、具有较强的沟通表达能力、团队合作意识，能吃苦耐劳。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "运维开发/DevOps"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf487efc46f010004f4df03899557281646bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "oAm08RxHeaza2-z1Hz_s8ZOPUz59CnbnDznpIk6jy6qujeNmo5BuOJMaItUjVmJjggQUhbrc28DfBHf-uqbZPY5ydW0VfuK70oiWw9mqe6Xe9_7BF3LV",
+    "selfAccess": false,
+    "sessionId": null
 }

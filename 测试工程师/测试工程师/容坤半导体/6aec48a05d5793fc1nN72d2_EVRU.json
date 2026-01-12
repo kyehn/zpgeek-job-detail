@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "oiihCiw7Sx5Nm-_1sbPXwNTj2OOhIgcpQToru_DeeBcrM_DOJDPgEQ-5Xv0K_9Q-lSEsR2CDhIoBaBs63J6wZZgL1SI2i2Z59QXJ6kvd7nVWXqUmmNzZ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6aec48a05d5793fc1nN72d2_EVRU",
-      "encryptUserId": "85fa2da1b9350ddc1nRy3tq5EVtR",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "高中",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "1.完成公司已交项目的软硬件系统工程实施、用户培训、软件调试、后期维护等工作\n2.参与公司对正在洽谈客户的调研工作\n3.参与公司新产品开发、研发、调试等工作\n4.参与系统开发和维护过程中技术问题解决，参与安装、调试、数据分析、项目推广等工作\n5.参与本部门相关技术文档拟定\n6.适当向上级主管汇报工作进展\n7.完成公司交付其他工作任务",
-      "encryptAddressId": "d14ea9a9545c4c791nd_0920F1pQ",
-      "address": "苏州吴中区第一工园第一工园C21幢三楼",
-      "longitude": 120.55648,
-      "latitude": 31.203021,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230418/48ba41acc9cef1bff939466fddb46115013795143356556f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa7a7ce9d07d26ebe25cf086dc89aa9b46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试开发",
-        "软件测试",
-        "自动化测试",
-        "系统测试",
-        "硬件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210727/493a753ad90f035ec60eebb3e34a4e4c6ba0a6207abbf97149c79eec7fb_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "容坤半导体",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4e156b26d7dcc9551nx-2Ny8FFA~",
-      "brandName": "容坤半导体",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722829468000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "容坤半导体",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "容坤半导体",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210727/493a753ad90f035ec60eebb3e34a4e4c6ba0a6207abbf97149c79eec7fb_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1722829468000,
+        "brandName": "容坤半导体",
+        "customerBrandName": "容坤半导体",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4e156b26d7dcc9551nx-2Ny8FFA~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区第一工园第一工园C21幢三楼",
+        "anonymous": 0,
+        "degreeName": "高中",
+        "encryptAddressId": "d14ea9a9545c4c791nd_0920F1pQ",
+        "encryptId": "6aec48a05d5793fc1nN72d2_EVRU",
+        "encryptUserId": "85fa2da1b9350ddc1nRy3tq5EVtR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.203021,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.55648,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa7a7ce9d07d26ebe25cf086dc89aa9b46bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.完成公司已交项目的软硬件系统工程实施、用户培训、软件调试、后期维护等工作\n2.参与公司对正在洽谈客户的调研工作\n3.参与公司新产品开发、研发、调试等工作\n4.参与系统开发和维护过程中技术问题解决，参与安装、调试、数据分析、项目推广等工作\n5.参与本部门相关技术文档拟定\n6.适当向上级主管汇报工作进展\n7.完成公司交付其他工作任务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "测试开发",
+            "软件测试",
+            "自动化测试",
+            "系统测试",
+            "硬件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230418/48ba41acc9cef1bff939466fddb46115013795143356556f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "oiihCiw7Sx5Nm-_1sbPXwNTj2OOhIgcpQToru_DeeBcrM_DOJDPgEQ-5Xv0K_9Q-lSEsR2CDhIoBaBs63J6wZZgL1SI2i2Z59QXJ6kvd7nVWXqUmmNzZ",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Z0BOwt83Dy7Sq-V1E1U4F8xWfdK22h3aQVWrGZqocAlghYQ7_rucfv0YcEyP-QC937FF3ir7iQM6xO9sCz45DYMbUp9KazeWscTgYxg3dRgeQJk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b364692ff333bbc91nV70ty-EVE~",
-      "encryptUserId": "c895d70473f29ef51XJy39-0E1Q~",
-      "invalidStatus": false,
-      "jobName": "实习生",
-      "position": 270101,
-      "positionName": "实习生",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "金融岗实习生或助理，熟练使用C++,office,python",
-      "encryptAddressId": "2a0aab44b05a9c5c0nd93ti_FQ~~",
-      "address": "上海普陀区中江路106号",
-      "longitude": 121.3921,
-      "latitude": 31.23071,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9003abb7047ed18cf35d714d387d7593",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4cdf967e6cf652f222e436002f7b69a1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "学习能力",
-        "综合素质"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "熊先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170419/18c477889a81d2677bb91678f77072928c7dd922ad47494fc02c388e12c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "乾北",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "90067e7411682aa50XZ93925",
-      "brandName": "乾北",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180223/857fba1a2f2143771d30b2bdf948b6f6c9b69587834242b49040e326d7715af9.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100206,
-      "industryName": "互联网金融",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722873857752,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "乾北",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "乾北",
+        "certificated": true,
+        "large": null,
+        "name": "熊先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170419/18c477889a81d2677bb91678f77072928c7dd922ad47494fc02c388e12c_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722873857752,
+        "brandName": "乾北",
+        "customerBrandName": "乾北",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "90067e7411682aa50XZ93925",
+        "focusBrand": false,
+        "industry": 100206,
+        "industryName": "互联网金融",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180223/857fba1a2f2143771d30b2bdf948b6f6c9b69587834242b49040e326d7715af9.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海普陀区中江路106号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2a0aab44b05a9c5c0nd93ti_FQ~~",
+        "encryptId": "b364692ff333bbc91nV70ty-EVE~",
+        "encryptUserId": "c895d70473f29ef51XJy39-0E1Q~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.23071,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.3921,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4cdf967e6cf652f222e436002f7b69a1",
+        "position": 270101,
+        "positionName": "实习生",
+        "postDescription": "金融岗实习生或助理，熟练使用C++,office,python",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "学习能力",
+            "综合素质"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9003abb7047ed18cf35d714d387d7593"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Z0BOwt83Dy7Sq-V1E1U4F8xWfdK22h3aQVWrGZqocAlghYQ7_rucfv0YcEyP-QC937FF3ir7iQM6xO9sCz45DYMbUp9KazeWscTgYxg3dRgeQJk~",
+    "selfAccess": false,
+    "sessionId": null
 }

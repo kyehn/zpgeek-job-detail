@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7evXl4ZjkhIn1-F1skNrIsM-Mlys65CndYvZVOP6zj4mgnbgZUIaRSQ6iWS6Up0Q7j79jfYPoPYP6przk8if7uAXrw3QojMgbM8uQ_j2uGE1Bv-bwtYowYmqZ60GV8vhpPooOantKvURRA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "82c6112b6a148ab21H1z2dy-EVVX",
-      "encryptUserId": "3cb77713fe8cd9b01HJ52ty6F1E~",
-      "invalidStatus": false,
-      "jobName": "java软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "### 岗位职能\n1. **参与项目开发**\n协助高级工程师和团队成员进行公司软件项目的开发，包括但不限于业务系统、内部工具等，主要负责完成分配的模块开发任务。\n2. **功能实现与优化**\n根据详细设计文档，实现软件系统的功能模块，运用Java语言编写高质量、可维护的代码。同时，对已有代码进行简单的优化和改进，提高系统的性能和稳定性。\n3. **协助测试与调试**\n配合测试团队进行软件的单元测试和集成测试，对发现的问题及时进行调试和修复，确保功能的正确性和完整性。\n4. **技术文档编写**\n参与项目技术文档的编写工作，如模块设计文档、代码注释等，为项目的后续维护和开发提供清晰的文档支持。\n\n### 任职要求\n1. **教育背景**\n- 计算机相关专业专科及以上学历。\n2. **知识技能**\n- 熟练掌握Java基础知识，包括面向对象编程、数据类型、控制语句等。\n- 了解常用的Java开发框架，如Spring、Spring Boot、Hibernate等的基本概念和使用方法。\n- 熟悉数据库基础知识，如 SQL 语句，能够进行简单的数据库操作（如 MySQL）。\n- 掌握基本的数据结构和算法，能够在开发中合理运用。\n- 了解基本的Web开发知识，如HTTP协议、Servlet、JSP等。\n3. **编程能力**\n- 能够使用Java语言独立完成简单的功能模块开发，代码规范、结构清晰。\n- 具备一定的调试能力，能够通过日志等手段定位和解决简单的代码问题。\n4. **学习能力与团队协作**\n- 具有较强的学习能力，能够快速掌握新知识和技术，并应用到实际工作中。\n- 良好的团队协作精神，能够与团队成员有效沟通，积极配合完成项目任务。\n- 有较强的责任心，对工作认真负责，保证交付的代码质量。",
-      "encryptAddressId": "0ce02175964a2fef1nd839W8FldUwYi5VPuW",
-      "address": "武汉洪山区中南民族大学国家级科技企业孵化器208室",
-      "longitude": 114.396928,
-      "latitude": 30.495178,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bffe9b20a44b2d44a258ae4e63e0889d7f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfeff86476043240038af7634c43f16c256bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "SpringCloud",
-        "MySQL",
-        "MyBatis",
-        "Redis",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240722/607f1f3d68754fd02a6d870135411ebf57f3cc0ad9b10abd0962ce8e83c3ccc416e093bf35f05e7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "武汉芯达云谷大数据",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "094fd30ecb90ed701HN82d20FVE~",
-      "brandName": "武汉芯达云谷大数据",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731505938327,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉芯达云谷大数据",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉芯达云谷大数据",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240722/607f1f3d68754fd02a6d870135411ebf57f3cc0ad9b10abd0962ce8e83c3ccc416e093bf35f05e7_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1731505938327,
+        "brandName": "武汉芯达云谷大数据",
+        "customerBrandName": "武汉芯达云谷大数据",
+        "customerBrandStageName": "",
+        "encryptBrandId": "094fd30ecb90ed701HN82d20FVE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区中南民族大学国家级科技企业孵化器208室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0ce02175964a2fef1nd839W8FldUwYi5VPuW",
+        "encryptId": "82c6112b6a148ab21H1z2dy-EVVX",
+        "encryptUserId": "3cb77713fe8cd9b01HJ52ty6F1E~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "java软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 30.495178,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.396928,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfeff86476043240038af7634c43f16c256bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "### 岗位职能\n1. **参与项目开发**\n协助高级工程师和团队成员进行公司软件项目的开发，包括但不限于业务系统、内部工具等，主要负责完成分配的模块开发任务。\n2. **功能实现与优化**\n根据详细设计文档，实现软件系统的功能模块，运用Java语言编写高质量、可维护的代码。同时，对已有代码进行简单的优化和改进，提高系统的性能和稳定性。\n3. **协助测试与调试**\n配合测试团队进行软件的单元测试和集成测试，对发现的问题及时进行调试和修复，确保功能的正确性和完整性。\n4. **技术文档编写**\n参与项目技术文档的编写工作，如模块设计文档、代码注释等，为项目的后续维护和开发提供清晰的文档支持。\n\n### 任职要求\n1. **教育背景**\n- 计算机相关专业专科及以上学历。\n2. **知识技能**\n- 熟练掌握Java基础知识，包括面向对象编程、数据类型、控制语句等。\n- 了解常用的Java开发框架，如Spring、Spring Boot、Hibernate等的基本概念和使用方法。\n- 熟悉数据库基础知识，如 SQL 语句，能够进行简单的数据库操作（如 MySQL）。\n- 掌握基本的数据结构和算法，能够在开发中合理运用。\n- 了解基本的Web开发知识，如HTTP协议、Servlet、JSP等。\n3. **编程能力**\n- 能够使用Java语言独立完成简单的功能模块开发，代码规范、结构清晰。\n- 具备一定的调试能力，能够通过日志等手段定位和解决简单的代码问题。\n4. **学习能力与团队协作**\n- 具有较强的学习能力，能够快速掌握新知识和技术，并应用到实际工作中。\n- 良好的团队协作精神，能够与团队成员有效沟通，积极配合完成项目任务。\n- 有较强的责任心，对工作认真负责，保证交付的代码质量。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Java",
+            "SpringCloud",
+            "MySQL",
+            "MyBatis",
+            "Redis",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bffe9b20a44b2d44a258ae4e63e0889d7f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7evXl4ZjkhIn1-F1skNrIsM-Mlys65CndYvZVOP6zj4mgnbgZUIaRSQ6iWS6Up0Q7j79jfYPoPYP6przk8if7uAXrw3QojMgbM8uQ_j2uGE1Bv-bwtYowYmqZ60GV8vhpPooOantKvURRA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

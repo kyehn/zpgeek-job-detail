@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4RXw3bD1tGH3l-M1HjnpgxrruGqwWs1VyAwSfNorKbc5ayziWIBUsUlO8ZwHrmQYEOiGqNIigDZjRUVhTaA2nPaR77TKuVoT42UGD6h9WmhJmsx6VQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9f916664f4f87c4a1nd439W_E1NR",
-      "encryptUserId": "4be6fd4f8d2b93ae1HJ92du1FVE~",
-      "invalidStatus": false,
-      "jobName": "QC",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "检测产品功能，检查产品外观，熟悉车载导航产品者优先。",
-      "encryptAddressId": "5055f3453bc42d041nFy2tu0ElY~",
-      "address": "深圳鸿鑫宝(白花)物流园(西南门)C栋310",
-      "longitude": 113.983056,
-      "latitude": 22.728324,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb723c5e3d916be1b92a1dfbbfe06687",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8961056539240449a6195c38f71ffe67",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "地图导航",
-        "Android测试",
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曾女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180328/1f23fdd126b3dc0c975b41947bb26ccecfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "艾卡威",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8fa57528c20d65931nJz2ty0GA~~",
-      "brandName": "艾卡威",
-      "logo": null,
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "主营车载导航",
-      "labels": [],
-      "activeTime": 1721572937915,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "艾卡威",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "艾卡威",
+        "certificated": true,
+        "large": null,
+        "name": "曾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180328/1f23fdd126b3dc0c975b41947bb26ccecfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721572937915,
+        "brandName": "艾卡威",
+        "customerBrandName": "艾卡威",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "8fa57528c20d65931nJz2ty0GA~~",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "主营车载导航",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳鸿鑫宝(白花)物流园(西南门)C栋310",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "5055f3453bc42d041nFy2tu0ElY~",
+        "encryptId": "9f916664f4f87c4a1nd439W_E1NR",
+        "encryptUserId": "4be6fd4f8d2b93ae1HJ92du1FVE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "QC",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.728324,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.983056,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8961056539240449a6195c38f71ffe67",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "检测产品功能，检查产品外观，熟悉车载导航产品者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "地图导航",
+            "Android测试",
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb723c5e3d916be1b92a1dfbbfe06687"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4RXw3bD1tGH3l-M1HjnpgxrruGqwWs1VyAwSfNorKbc5ayziWIBUsUlO8ZwHrmQYEOiGqNIigDZjRUVhTaA2nPaR77TKuVoT42UGD6h9WmhJmsx6VQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

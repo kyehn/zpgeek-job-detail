@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tYdFYkcF4ZSJ--A1YaUAP_yms08M15Aw-uxBEtmaSpw1c8NAvedIzjGfoe_jsHt9wZqZDs7huyn7E5zH2zmlo-AqQiHq4DtUM0oiU0PaJZJ9IHhx",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a54d68c002fa2bf81nF40tu0EFE~",
-      "encryptUserId": "0ce1e6bcfbfe72b51HZ43Ny5E1M~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101090100,
-      "locationName": "石家庄",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "餐饮 酒店收银管理系统 项目实施，技术支持 及售后，智能机器人安装调试",
-      "encryptAddressId": "472d5b41db5af8a91HF60tW9FQ~~",
-      "address": "石家庄华强电子通讯城2-114",
-      "longitude": 114.479288,
-      "latitude": 38.044959,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e633e75cbb5dc5de330a26297d34af2c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93f93cb0c373192c43264a3904ac10e4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171112/1b7658559b078743779c1e8e9c151071cab51a53a972d57c1580431dcee_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "佳软科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f8cdd93cdece2ef51nZ63tq9Ew~~",
-      "brandName": "佳软科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171105/e97c20d0563981086e6c4ef02b0b5a91cab51a53a972d57c1580431dcee04ba9.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "餐饮酒店收银系统\n会员管理系统\n进销存管理系统\n商超管理系统\nOA协同办公软件\n企业财务管理软件\n\n硬件设备：触屏点菜机、消费机、点菜宝、点钞机、热敏打印机、针式打印机、热敏纸、定做会员卡、监控安装等",
-      "labels": [],
-      "activeTime": 1730730525563,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "佳软科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "佳软科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171112/1b7658559b078743779c1e8e9c151071cab51a53a972d57c1580431dcee_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730730525563,
+        "brandName": "佳软科技",
+        "customerBrandName": "佳软科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "f8cdd93cdece2ef51nZ63tq9Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "餐饮酒店收银系统\n会员管理系统\n进销存管理系统\n商超管理系统\nOA协同办公软件\n企业财务管理软件\n\n硬件设备：触屏点菜机、消费机、点菜宝、点钞机、热敏打印机、针式打印机、热敏纸、定做会员卡、监控安装等",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171105/e97c20d0563981086e6c4ef02b0b5a91cab51a53a972d57c1580431dcee04ba9.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "石家庄华强电子通讯城2-114",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "472d5b41db5af8a91HF60tW9FQ~~",
+        "encryptId": "a54d68c002fa2bf81nF40tu0EFE~",
+        "encryptUserId": "0ce1e6bcfbfe72b51HZ43Ny5E1M~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.044959,
+        "location": 101090100,
+        "locationName": "石家庄",
+        "longitude": 114.479288,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93f93cb0c373192c43264a3904ac10e4",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "餐饮 酒店收银管理系统 项目实施，技术支持 及售后，智能机器人安装调试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e633e75cbb5dc5de330a26297d34af2c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tYdFYkcF4ZSJ--A1YaUAP_yms08M15Aw-uxBEtmaSpw1c8NAvedIzjGfoe_jsHt9wZqZDs7huyn7E5zH2zmlo-AqQiHq4DtUM0oiU0PaJZJ9IHhx",
+    "selfAccess": false,
+    "sessionId": null
 }

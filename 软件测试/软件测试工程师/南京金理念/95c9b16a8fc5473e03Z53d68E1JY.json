@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RhmFzD32F9i8F-X1bRKWzQDSoee_blIS-BH9OkbiHlSfX_xxq8s1e9PxqEnTxC8T3GMGsyAwjILuTtgIJ6xgx107rjzuI4hUTn2XwWiYIBWU37sk23vADRviQ3YpIYtLNzmPwtveKPOhtqJQSmE63BJVEzvzj-J6Gwstaf5FzzEUD8sXewYjnJHHbM6RT0odEnutIVEG_cpTFU4mn-xZ8XY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "95c9b16a8fc5473e03Z53d68E1JY",
-      "encryptUserId": "1bf885d40cd552780ndz3Ny8FFVZ",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述:\n1、参与需求评审，编写测试计划，设计测试数据和测试用例;\n2、独立完成需求测试，对bug生命周期进行跟踪反馈，保障项目高质量上线；\n3、建立、维护测试工作相关文档；\n4、协助开发人员分析bug原因，提交产品功能优化性能改进的建议；\n5、独立搭建测试环境及完成系统更新工作；\n6、公司安排的其它相关工作。\n任职要求:\n1、本科及以上学历，计算机相关专业，一年以上测试经验；\n2、熟练使用Linux系统，熟悉mysql等数据库的使用;\n3、熟悉测试流程和规范，熟悉功能测试、黑盒测试方法，能熟练编写测试计划、测试用例;\n4、有后台、APP测试经验；\n5、具备较好的沟通和抗压能力，良好的质量意识和团队合作能力。",
-      "encryptAddressId": "06bec0826f9ba53b3nN939y6GVpVwou9Wf8~",
-      "address": "南京浦口区人才大厦E座4楼401室",
-      "longitude": 118.694857,
-      "latitude": 32.160339,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bf7a920af6d87607379d58ddba17a1aa086bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bfa65a4afd43e519bb8950a57652c943816bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "戚先生",
-      "title": "行政主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210701/6dd604828155cd6c0b6fbf99a16ca5b6514ec3441f4eeaa7f3138438ca8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "南京金理念",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "da569ce82b0894961XR73Ny9",
-      "brandName": "南京金理念",
-      "logo": null,
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "金理念信息技术有限公司专业从事电力、医疗、金融、电子等行业的管理咨询和信息化建设。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "员工旅游",
-        "餐补",
-        "零食下午茶"
-      ],
-      "activeTime": 1741681100473,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京金理念",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "南京金理念",
+        "certificated": true,
+        "large": null,
+        "name": "戚先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210701/6dd604828155cd6c0b6fbf99a16ca5b6514ec3441f4eeaa7f3138438ca8_b.jpg",
+        "title": "行政主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1741681100473,
+        "brandName": "南京金理念",
+        "customerBrandName": "南京金理念",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "da569ce82b0894961XR73Ny9",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "金理念信息技术有限公司专业从事电力、医疗、金融、电子等行业的管理咨询和信息化建设。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "员工旅游",
+            "餐补",
+            "零食下午茶"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区人才大厦E座4楼401室",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "06bec0826f9ba53b3nN939y6GVpVwou9Wf8~",
+        "encryptId": "95c9b16a8fc5473e03Z53d68E1JY",
+        "encryptUserId": "1bf885d40cd552780ndz3Ny8FFVZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.160339,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.694857,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bfa65a4afd43e519bb8950a57652c943816bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "职位描述:\n1、参与需求评审，编写测试计划，设计测试数据和测试用例;\n2、独立完成需求测试，对bug生命周期进行跟踪反馈，保障项目高质量上线；\n3、建立、维护测试工作相关文档；\n4、协助开发人员分析bug原因，提交产品功能优化性能改进的建议；\n5、独立搭建测试环境及完成系统更新工作；\n6、公司安排的其它相关工作。\n任职要求:\n1、本科及以上学历，计算机相关专业，一年以上测试经验；\n2、熟练使用Linux系统，熟悉mysql等数据库的使用;\n3、熟悉测试流程和规范，熟悉功能测试、黑盒测试方法，能熟练编写测试计划、测试用例;\n4、有后台、APP测试经验；\n5、具备较好的沟通和抗压能力，良好的质量意识和团队合作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "测试工作经验",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bf7a920af6d87607379d58ddba17a1aa086bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RhmFzD32F9i8F-X1bRKWzQDSoee_blIS-BH9OkbiHlSfX_xxq8s1e9PxqEnTxC8T3GMGsyAwjILuTtgIJ6xgx107rjzuI4hUTn2XwWiYIBWU37sk23vADRviQ3YpIYtLNzmPwtveKPOhtqJQSmE63BJVEzvzj-J6Gwstaf5FzzEUD8sXewYjnJHHbM6RT0odEnutIVEG_cpTFU4mn-xZ8XY~",
+    "selfAccess": false,
+    "sessionId": null
 }

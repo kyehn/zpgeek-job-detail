@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "5lfQ5O9RjH0Le-d1Wz6E3esoeU9h21e-eW23ItbrqID_TQ92huSf4AZXtqSTctbWaeOazwolwMrbkBGX2KL5uYp_gKyP9lpkFFNUiBw0ZyM4WudwDbo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "99c8fdaadc872fd01nx72Nu8FFtT",
-      "encryptUserId": "949a5632196aa28d0XJ63d2_ElY~",
-      "invalidStatus": false,
-      "jobName": "Java初级工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责JAVA代码实现和完善；\n2. 完成团队交办的其它研发有关工作；\n\n任职要求：\n1. 国家正规二本及以上学历，计算机、软件工程及相关专业毕业；\n2. 应届毕业生或1年以上JAVA开发经验。\n3. 熟悉JAVA语言和主流技术架构；\n4. 熟练使用主流数据库，熟练编写SQL语句；\n5. 对技术研发兴趣浓、快速有效的自学能力、较强责任心和进取心、良好沟通能力/团队精神/敬业精神；",
-      "encryptAddressId": "f12b5653b4391f900HZ83tm4GQ~~",
-      "address": "北京石景山区通景大厦604",
-      "longitude": 116.184337,
-      "latitude": 39.928638,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/190b7056f1bf061a346ecb9b98f12397",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a39335e555d709da3e1daccff1d99ee0",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "架构师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "CEPO",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bf772a170305c52e1nF-3dm5EVo~",
-      "brandName": "CEPO",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210410/19f0e40d3ef4bf31923791b30f86f0a0faa5ef7750005d46e453f0bddd110863_s.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "国家专精特新小巨人企业，高新技术企业，简称“中电运行”，英文简称“CEPO”，成立于2009年3月，是一家为能源行业数字化转型提供安全服务和产品的供应商，在技术和人才沉淀中构建起“一体两翼”业务体系，探索出一条 “服务-项目-产品”发展之路，自主研发寰宇靶场、寰宇社区、寰宇学院、开展安全服务、人才驻场服务等六大核心业务线，行业特色鲜明，产品独树一帜。中电运行产品与服务互为支撑，灵活组合，自成生态体系，必将领秀能源安全产品与服务行业。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1723091991837,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "CEPO",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "CEPO",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1723091991837,
+        "brandName": "CEPO",
+        "customerBrandName": "CEPO",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "bf772a170305c52e1nF-3dm5EVo~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "国家专精特新小巨人企业，高新技术企业，简称“中电运行”，英文简称“CEPO”，成立于2009年3月，是一家为能源行业数字化转型提供安全服务和产品的供应商，在技术和人才沉淀中构建起“一体两翼”业务体系，探索出一条 “服务-项目-产品”发展之路，自主研发寰宇靶场、寰宇社区、寰宇学院、开展安全服务、人才驻场服务等六大核心业务线，行业特色鲜明，产品独树一帜。中电运行产品与服务互为支撑，灵活组合，自成生态体系，必将领秀能源安全产品与服务行业。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210410/19f0e40d3ef4bf31923791b30f86f0a0faa5ef7750005d46e453f0bddd110863_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京石景山区通景大厦604",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f12b5653b4391f900HZ83tm4GQ~~",
+        "encryptId": "99c8fdaadc872fd01nx72Nu8FFtT",
+        "encryptUserId": "949a5632196aa28d0XJ63d2_ElY~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java初级工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.928638,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.184337,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a39335e555d709da3e1daccff1d99ee0",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1. 负责JAVA代码实现和完善；\n2. 完成团队交办的其它研发有关工作；\n\n任职要求：\n1. 国家正规二本及以上学历，计算机、软件工程及相关专业毕业；\n2. 应届毕业生或1年以上JAVA开发经验。\n3. 熟悉JAVA语言和主流技术架构；\n4. 熟练使用主流数据库，熟练编写SQL语句；\n5. 对技术研发兴趣浓、快速有效的自学能力、较强责任心和进取心、良好沟通能力/团队精神/敬业精神；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "SQL",
+            "架构师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/190b7056f1bf061a346ecb9b98f12397"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "5lfQ5O9RjH0Le-d1Wz6E3esoeU9h21e-eW23ItbrqID_TQ92huSf4AZXtqSTctbWaeOazwolwMrbkBGX2KL5uYp_gKyP9lpkFFNUiBw0ZyM4WudwDbo~",
+    "selfAccess": false,
+    "sessionId": null
 }

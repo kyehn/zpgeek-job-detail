@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "z4FOb7M590Juu-T1PxAzOzJWVLse7WMUfD4JRf0lp1GIwwxTX-JB-chteFAfFXdZQ1Md8XTVsFgBoAY7v1e48Qxq4xJTNohmQh18vHrMfmdD9LFc1XS6",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f77b676daa4e42061nd43tS6FlFX",
-      "encryptUserId": "e9a4cdc7489c06350nZ-2Nm9EVVY",
-      "invalidStatus": false,
-      "jobName": " 软件开发(java)",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、根据我司管理系统设计文档进行程序编码；\n2、长期维护并迭代管理系统，对客户进行分类标记，及分析；\n3、完成上级领导交办的其他工作\n 技术要求：\n1、JAVA基础扎实，了解SSH、SpringMVC、MyBatis等主流框架；\n2、熟练使用Tomcat等web容器，熟悉Redis原理；\n3、熟练使用MySQL、Oracle等关系型数据库，能编写和优化SQL语句；\n4、熟悉JS/JQuery等前端开发技术；\n5、有建筑类管理系统开发经验者优先。",
-      "encryptAddressId": "63c6922eee01fe2803Z809S_EFc~",
-      "address": "重庆渝中区桂花园新村(桂花园路)43号",
-      "longitude": 106.541309,
-      "latitude": 29.553306,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a90220a25b0a796cb0febe45d1735a3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5d3bccaaebe466f3fcb481c86f95550f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "服务器配置",
-        "MVC开发",
-        "Spring",
-        "SSH",
-        "Oracle",
-        "管理系统"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "梁女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210324/47fd81bac555cae1adef9442756d287be490e8a35858e4a6c6d033253a7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "江津区仙鱼建司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e86d5e93a4103a051nF72d6-EFU~",
-      "brandName": "江津区仙鱼建司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719973145967,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江津区仙鱼建司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江津区仙鱼建司",
+        "certificated": true,
+        "large": null,
+        "name": "梁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210324/47fd81bac555cae1adef9442756d287be490e8a35858e4a6c6d033253a7_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1719973145967,
+        "brandName": "江津区仙鱼建司",
+        "customerBrandName": "江津区仙鱼建司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e86d5e93a4103a051nF72d6-EFU~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆渝中区桂花园新村(桂花园路)43号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "63c6922eee01fe2803Z809S_EFc~",
+        "encryptId": "f77b676daa4e42061nd43tS6FlFX",
+        "encryptUserId": "e9a4cdc7489c06350nZ-2Nm9EVVY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": " 软件开发(java)",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.553306,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.541309,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5d3bccaaebe466f3fcb481c86f95550f",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1、根据我司管理系统设计文档进行程序编码；\n2、长期维护并迭代管理系统，对客户进行分类标记，及分析；\n3、完成上级领导交办的其他工作\n 技术要求：\n1、JAVA基础扎实，了解SSH、SpringMVC、MyBatis等主流框架；\n2、熟练使用Tomcat等web容器，熟悉Redis原理；\n3、熟练使用MySQL、Oracle等关系型数据库，能编写和优化SQL语句；\n4、熟悉JS/JQuery等前端开发技术；\n5、有建筑类管理系统开发经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "SQL",
+            "服务器配置",
+            "MVC开发",
+            "Spring",
+            "SSH",
+            "Oracle",
+            "管理系统"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a90220a25b0a796cb0febe45d1735a3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "z4FOb7M590Juu-T1PxAzOzJWVLse7WMUfD4JRf0lp1GIwwxTX-JB-chteFAfFXdZQ1Md8XTVsFgBoAY7v1e48Qxq4xJTNohmQh18vHrMfmdD9LFc1XS6",
+    "selfAccess": false,
+    "sessionId": null
 }

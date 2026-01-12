@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UHouOqa5mhoSU-x1mKlBqVICP9ZckreLAcB_CW6F1o4no5P-BrzmIOCtEOH_LH3OR-tVTwfN9CfZR9wLoDhdW-5Bns7hxcq4QjYCwlBwWrU9TWN_bFG9ro1rnmI8cM4fKwkgOezr2QrhoMM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "888ca2460c4c96261HRz0ti8FFBX",
-      "encryptUserId": "29be6b73cc79e4b70nZ_3tm5ElJZ",
-      "invalidStatus": false,
-      "jobName": "软件测试，手机测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101160100,
-      "locationName": "兰州",
-      "experienceName": "经验不限",
-      "degreeName": "高中",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟练的操作手机\n2、有良好的沟通协调能力\n3、动手能力强 \n4、每日工作十小时，时薪15-18元干的越长工资越高",
-      "encryptAddressId": "3dbd28b2a3b71c031nZ629S_E1dS",
-      "address": "兰州安宁区兰州国际建材家居博览城A区2-207",
-      "longitude": 103.659721,
-      "latitude": 36.128667,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230725/48ba41acc9cef1bf7bad75dde9ba03129c3588221b2212ab6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230725/48ba41acc9cef1bfac9734683596eade55a969823c84672b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210401/bc405aa800e4cba1c55f96ccb013535c46a37ee666b77ea55f3c28b2095_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "恒瑞达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "23e3ea9d7e0be2781nF63NS4FVU~",
-      "brandName": "恒瑞达",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100504,
-      "industryName": "进出口贸易",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721552954263,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "恒瑞达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "恒瑞达",
+        "certificated": true,
+        "large": null,
+        "name": "朱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210401/bc405aa800e4cba1c55f96ccb013535c46a37ee666b77ea55f3c28b2095_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721552954263,
+        "brandName": "恒瑞达",
+        "customerBrandName": "恒瑞达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "23e3ea9d7e0be2781nF63NS4FVU~",
+        "focusBrand": false,
+        "industry": 100504,
+        "industryName": "进出口贸易",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "兰州安宁区兰州国际建材家居博览城A区2-207",
+        "anonymous": 0,
+        "degreeName": "高中",
+        "encryptAddressId": "3dbd28b2a3b71c031nZ629S_E1dS",
+        "encryptId": "888ca2460c4c96261HRz0ti8FFBX",
+        "encryptUserId": "29be6b73cc79e4b70nZ_3tm5ElJZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试，手机测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.128667,
+        "location": 101160100,
+        "locationName": "兰州",
+        "longitude": 103.659721,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230725/48ba41acc9cef1bfac9734683596eade55a969823c84672b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、熟练的操作手机\n2、有良好的沟通协调能力\n3、动手能力强 \n4、每日工作十小时，时薪15-18元干的越长工资越高",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230725/48ba41acc9cef1bf7bad75dde9ba03129c3588221b2212ab6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UHouOqa5mhoSU-x1mKlBqVICP9ZckreLAcB_CW6F1o4no5P-BrzmIOCtEOH_LH3OR-tVTwfN9CfZR9wLoDhdW-5Bns7hxcq4QjYCwlBwWrU9TWN_bFG9ro1rnmI8cM4fKwkgOezr2QrhoMM~",
+    "selfAccess": false,
+    "sessionId": null
 }

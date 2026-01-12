@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "M0g8s75MFvuwz-C1NyyduxltBQcDDqafAl79OsWNvSf3Kvvfef6Caej_JNsDoyFYwNaV9CX_I_5Rfv_10ay8R3mZC5cXicGZVHI39hs6l59nUUjsZgnc-u_wKRZmvhCKP3OotOTnLeRQ4dVAsFVYIJAvhmm6EY9P_5xevkKYhBV3k0HVh7rDRW7UqC8vLmI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4ac18583f3beb6f51Hx43Nu9F1NU",
-      "encryptUserId": "47210afca90897c10nJ82N67FVZQ",
-      "invalidStatus": false,
-      "jobName": "包装设计",
-      "position": 120118,
-      "positionName": "包装设计",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n工作内容:\n1.全面参与项目设计过程。负责v，平面设计，包装设计类设计的创意及执行\n2.负责主设定稿方案后需文字排版，延伸工作\n3.商品展示设计，结合商品的特性制作成图文并茂的描述任职要求:\n1.年龄18-25岁，大专及大专以上学历\n2.会ps cdr等设计软件",
-      "encryptAddressId": "1f77846ca85fe0ba1nVy3961EldSxIm-Uvmf",
-      "address": "长沙芙蓉区中国城戴斯酒店30楼",
-      "longitude": 113.001242,
-      "latitude": 28.190236,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5797385dfc46983f522de5563fa4d8b1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/efb7c4732624b864f059a4ff95ab0e8a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "产品外观造型",
-        "广告/设计公司"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "缪女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "湖南新学堂教育科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8d301b2bb45ba74a1HF829u5E1I~",
-      "brandName": "湖南新学堂教育科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733472492402,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖南新学堂教育科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "湖南新学堂教育科技",
+        "certificated": true,
+        "large": null,
+        "name": "缪女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1733472492402,
+        "brandName": "湖南新学堂教育科技",
+        "customerBrandName": "湖南新学堂教育科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8d301b2bb45ba74a1HF829u5E1I~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙芙蓉区中国城戴斯酒店30楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1f77846ca85fe0ba1nVy3961EldSxIm-Uvmf",
+        "encryptId": "4ac18583f3beb6f51Hx43Nu9F1NU",
+        "encryptUserId": "47210afca90897c10nJ82N67FVZQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "包装设计",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.190236,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.001242,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/efb7c4732624b864f059a4ff95ab0e8a",
+        "position": 120118,
+        "positionName": "包装设计",
+        "postDescription": "职位描述\n工作内容:\n1.全面参与项目设计过程。负责v，平面设计，包装设计类设计的创意及执行\n2.负责主设定稿方案后需文字排版，延伸工作\n3.商品展示设计，结合商品的特性制作成图文并茂的描述任职要求:\n1.年龄18-25岁，大专及大专以上学历\n2.会ps cdr等设计软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "产品外观造型",
+            "广告/设计公司"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5797385dfc46983f522de5563fa4d8b1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "M0g8s75MFvuwz-C1NyyduxltBQcDDqafAl79OsWNvSf3Kvvfef6Caej_JNsDoyFYwNaV9CX_I_5Rfv_10ay8R3mZC5cXicGZVHI39hs6l59nUUjsZgnc-u_wKRZmvhCKP3OotOTnLeRQ4dVAsFVYIJAvhmm6EY9P_5xevkKYhBV3k0HVh7rDRW7UqC8vLmI~",
+    "selfAccess": false,
+    "sessionId": null
 }

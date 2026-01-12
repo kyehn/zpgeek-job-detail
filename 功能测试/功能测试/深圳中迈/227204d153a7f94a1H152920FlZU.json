@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fHiReVDJ0VSnA-Q1Q8Ymo_AERvkseQ5bZxDq5kZ686jJeT6MMhwbZCF5JT2qjDcu4kKj5qumzxA6n2WabqaN-G2y3cTgIxq083CaRNgWv4Di0p_EnFf2T3GnrKkiAeo-B1nvETR6YREI",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "227204d153a7f94a1H152920FlZU",
-      "encryptUserId": "10b4a5563ac300c71nZ72NW7FFQ~",
-      "invalidStatus": false,
-      "jobName": "功能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "技能要求:\n1、基本要求:具备质量保障领域的丰富经验，对质量保障和质量风险有把控能力;\n2、具备3-5年以上工作经验。\n3、有一定的管理经验:能合理分配离岸vendor的回归任务，并对回归进度有合理的把控，主动识别风险并及时同步，积极寻找并落地风险预防措施，有较强责任心\n4、对测试执行能力要求较高:能快速熟悉case并高标准完测试任务的执行;严格按照相关标准进行buo录入，快速跟进bug定位、协作bug验证;有较好的bug敏感度。\n5、会基本的测试工具使用(如抓包工具)--必备要求;\n\n通用能力要求:\n1、沟通协作能力:能思路清晰的表达自己的问题，快速理解对方的问题，和业务方有效的沟通协作\n2、学习理解能力:能够快速理解自己负责的业务模块，对业务有自己的理解，保障测试任务按时完成。\n3、抗压能力:为保障项目高质量按时交付，能承受-定强调的工作压力。",
-      "encryptAddressId": "4f790695667d12231nd92t-1GFBYxIu7Wf2c",
-      "address": "杭州余杭区老娘舅(西溪堂店)办公地址：杭州市余杭区仓前街道西溪堂商务中心1幢（我们自己公司职场）",
-      "longitude": 119.99242,
-      "latitude": 30.276809,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240319/48ba41acc9cef1bf6cb3167c57146ccc9839f1c5e49acfe46bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240319/48ba41acc9cef1bfa5bc1a590f72a3ded0d0099103239bcc6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "搜索",
-        "功能测试经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "唐女士",
-      "title": "招聘顾问",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230310/607f1f3d68754fd0e167b1d336f17cff037b28bcbcc314e8f319bda5caaa64e3d39bd655417_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "深圳中迈",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6fb331a16318ff031XV_2925FQ~~",
-      "brandName": "深圳中迈",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231215/7b5b554d84f9729cc38d86540fd9539f0a8f70de14068250e15df70cdfe752b3a4b7b38c6ed73f59.png.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "中迈是一家为政府、大型互联网等公司提供信息化管理的企业，公司主要合作伙伴有：华为、腾讯、联想、IBM、中国政府等。\r\n\r\n公司考勤采用弹性工作制，福利好，重视员工的未来发展。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "加班补助",
-        "带薪年假",
-        "员工旅游",
-        "通讯补贴",
-        "住房补贴"
-      ],
-      "activeTime": 1731110069769,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳中迈",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳中迈",
+        "certificated": true,
+        "large": null,
+        "name": "唐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230310/607f1f3d68754fd0e167b1d336f17cff037b28bcbcc314e8f319bda5caaa64e3d39bd655417_b.jpg",
+        "title": "招聘顾问"
+    },
+    "brandComInfo": {
+        "activeTime": 1731110069769,
+        "brandName": "深圳中迈",
+        "customerBrandName": "深圳中迈",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "6fb331a16318ff031XV_2925FQ~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "中迈是一家为政府、大型互联网等公司提供信息化管理的企业，公司主要合作伙伴有：华为、腾讯、联想、IBM、中国政府等。\r\n\r\n公司考勤采用弹性工作制，福利好，重视员工的未来发展。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "加班补助",
+            "带薪年假",
+            "员工旅游",
+            "通讯补贴",
+            "住房补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231215/7b5b554d84f9729cc38d86540fd9539f0a8f70de14068250e15df70cdfe752b3a4b7b38c6ed73f59.png.webp",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区老娘舅(西溪堂店)办公地址：杭州市余杭区仓前街道西溪堂商务中心1幢（我们自己公司职场）",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4f790695667d12231nd92t-1GFBYxIu7Wf2c",
+        "encryptId": "227204d153a7f94a1H152920FlZU",
+        "encryptUserId": "10b4a5563ac300c71nZ72NW7FFQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "功能测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.276809,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.99242,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240319/48ba41acc9cef1bfa5bc1a590f72a3ded0d0099103239bcc6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "技能要求:\n1、基本要求:具备质量保障领域的丰富经验，对质量保障和质量风险有把控能力;\n2、具备3-5年以上工作经验。\n3、有一定的管理经验:能合理分配离岸vendor的回归任务，并对回归进度有合理的把控，主动识别风险并及时同步，积极寻找并落地风险预防措施，有较强责任心\n4、对测试执行能力要求较高:能快速熟悉case并高标准完测试任务的执行;严格按照相关标准进行buo录入，快速跟进bug定位、协作bug验证;有较好的bug敏感度。\n5、会基本的测试工具使用(如抓包工具)--必备要求;\n\n通用能力要求:\n1、沟通协作能力:能思路清晰的表达自己的问题，快速理解对方的问题，和业务方有效的沟通协作\n2、学习理解能力:能够快速理解自己负责的业务模块，对业务有自己的理解，保障测试任务按时完成。\n3、抗压能力:为保障项目高质量按时交付，能承受-定强调的工作压力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "搜索",
+            "功能测试经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240319/48ba41acc9cef1bf6cb3167c57146ccc9839f1c5e49acfe46bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fHiReVDJ0VSnA-Q1Q8Ymo_AERvkseQ5bZxDq5kZ686jJeT6MMhwbZCF5JT2qjDcu4kKj5qumzxA6n2WabqaN-G2y3cTgIxq083CaRNgWv4Di0p_EnFf2T3GnrKkiAeo-B1nvETR6YREI",
+    "selfAccess": false,
+    "sessionId": null
 }

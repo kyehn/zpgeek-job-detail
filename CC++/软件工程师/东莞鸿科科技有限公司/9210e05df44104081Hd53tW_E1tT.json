@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IksfnHHPg3H1N-O1IXAEBFzULg-IBxfcQWtjzjpAVgqRQw4G_zXAwQGBoP86eAZ9YlMVHp0P6S0yS06wQ9vMX22AuJG4ogvblTpXql7kfsWq_vWd7ybt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9210e05df44104081Hd53tW_E1tT",
-      "encryptUserId": "52bded3d0a8cdd8e0XVy39m1EVBT",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "15-16K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1）精通c/c++语言\n2）熟悉linux操作系统\n3）熟悉qtcreator加分。\n4）熟悉运动控制卡加分。\n5）熟悉工业机器人加分。\n6）数学功底好加分。\n岗位职责：\n1）工业机器人运动控制系统开发",
-      "encryptAddressId": "7f818ac098c0f75e03F72t-4FVBXwoq3UP0~",
-      "address": "东莞高盛科技园南区501",
-      "longitude": 113.726617,
-      "latitude": 22.986316,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231217/48ba41acc9cef1bf4b4037ca0b9b364b67833700879bf2c76bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231217/48ba41acc9cef1bf3f397cf7f5e8d86a4dcab7a74b6c8c086bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "QT"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "华先生",
-      "title": "软件主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "东莞鸿科科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "de657348b323ac311HZ_3dS4E1E~",
-      "brandName": "东莞鸿科科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730146728408,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "东莞鸿科科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "东莞鸿科科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "华先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "软件主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730146728408,
+        "brandName": "东莞鸿科科技有限公司",
+        "customerBrandName": "东莞鸿科科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "de657348b323ac311HZ_3dS4E1E~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞高盛科技园南区501",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7f818ac098c0f75e03F72t-4FVBXwoq3UP0~",
+        "encryptId": "9210e05df44104081Hd53tW_E1tT",
+        "encryptUserId": "52bded3d0a8cdd8e0XVy39m1EVBT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.986316,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 113.726617,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231217/48ba41acc9cef1bf3f397cf7f5e8d86a4dcab7a74b6c8c086bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "任职要求：\n1）精通c/c++语言\n2）熟悉linux操作系统\n3）熟悉qtcreator加分。\n4）熟悉运动控制卡加分。\n5）熟悉工业机器人加分。\n6）数学功底好加分。\n岗位职责：\n1）工业机器人运动控制系统开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "15-16K",
+        "showSkills": [
+            "C++",
+            "QT"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231217/48ba41acc9cef1bf4b4037ca0b9b364b67833700879bf2c76bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IksfnHHPg3H1N-O1IXAEBFzULg-IBxfcQWtjzjpAVgqRQw4G_zXAwQGBoP86eAZ9YlMVHp0P6S0yS06wQ9vMX22AuJG4ogvblTpXql7kfsWq_vWd7ybt",
+    "selfAccess": false,
+    "sessionId": null
 }

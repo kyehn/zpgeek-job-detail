@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QKTiOgy2WREbK-g137zoLqhpf6tr0mgO05NuUJvG9PX9pS0LufQ5USnw-fX36dFE5PjxHoxixSeMiBF78V-UWKduel6YDOYTZK_WH3ANk0iURNaVYIRW",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7e89253bab24866a1nN639W8GVBW",
-      "encryptUserId": "96ae5791487536ab0nd_2N-7ElNZ",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101271100,
-      "locationName": "宜宾",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "会数据采集，处理，集成技术",
-      "encryptAddressId": "37d6c57b8745d4ea1ndy3t66GQ~~",
-      "address": "宜宾叙州区环宸广告焦点宜宾东区46号",
-      "longitude": 104.631561,
-      "latitude": 28.75796,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa2c3e2a893ce7e374738bf247b48cb2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fbff5f47628f80bd48e046ad1e81bcc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "方差分析",
-        "回归分析",
-        "决策树",
-        "Excel",
-        "SPSS",
-        "SAS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "楷默",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d6a69c2fc67c56331nN82tm7ElU~",
-      "brandName": "楷默",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "公司属于创业型企业，主要向信息技术，分析，采集，处理等方向发展。",
-      "labels": [
-        "加班补助",
-        "全勤奖",
-        "年终奖",
-        "员工旅游",
-        "餐补",
-        "通讯补贴",
-        "交通补助"
-      ],
-      "activeTime": 1727336936069,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "楷默",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "楷默",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727336936069,
+        "brandName": "楷默",
+        "customerBrandName": "楷默",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "d6a69c2fc67c56331nN82tm7ElU~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "公司属于创业型企业，主要向信息技术，分析，采集，处理等方向发展。",
+        "labels": [
+            "加班补助",
+            "全勤奖",
+            "年终奖",
+            "员工旅游",
+            "餐补",
+            "通讯补贴",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宜宾叙州区环宸广告焦点宜宾东区46号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "37d6c57b8745d4ea1ndy3t66GQ~~",
+        "encryptId": "7e89253bab24866a1nN639W8GVBW",
+        "encryptUserId": "96ae5791487536ab0nd_2N-7ElNZ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.75796,
+        "location": 101271100,
+        "locationName": "宜宾",
+        "longitude": 104.631561,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fbff5f47628f80bd48e046ad1e81bcc",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "会数据采集，处理，集成技术",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "方差分析",
+            "回归分析",
+            "决策树",
+            "Excel",
+            "SPSS",
+            "SAS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa2c3e2a893ce7e374738bf247b48cb2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QKTiOgy2WREbK-g137zoLqhpf6tr0mgO05NuUJvG9PX9pS0LufQ5USnw-fX36dFE5PjxHoxixSeMiBF78V-UWKduel6YDOYTZK_WH3ANk0iURNaVYIRW",
+    "selfAccess": false,
+    "sessionId": null
 }

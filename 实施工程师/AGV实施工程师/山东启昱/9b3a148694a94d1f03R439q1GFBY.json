@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_bgau5Lr-NAH4-F1rm-x8zoKSCdmNMNPv5OJgxmCjc-M7u8BfTvMXrIVoDBtWch2imn2hucEaTMY9rYNMYMwS7QalsAd99H6WYAiqx7c_nI_3LF7FU3MoQZTrm5Awy70T3lVHnu5c6vZwkA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9b3a148694a94d1f03R439q1GFBY",
-      "encryptUserId": "2bf511003e415d4c1nV-0921EVBT",
-      "invalidStatus": false,
-      "jobName": "agv实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责生产车间和项目现场的调试工作，进行中试车间的AGV产品选型测试并输出相关数据‌。\n2.‌技术支持和异常处理‌：对生产和项目提供技术支持，处理技术异常问题，跟踪问题并给出可行性建议‌。\n3.‌项目培训‌：负责AGV项目的培训工作‌3。\n任职要求：\n熟练掌握Linux,熟悉Python脚本语言，了解TCP/IP协议；对AGV/AMR移动机器人导航运动控制比较了解；能够使用Python语言对机器人相关软件进行调试；",
-      "encryptAddressId": "bdff8c296d9f3e9f1nF53NW1F1FTwYu-UP2W",
-      "address": "济南章丘区临空经济区展厅A4",
-      "longitude": 117.241323,
-      "latitude": 36.883454,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bf52e12f7f27c91368255525c45fedb84a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bfe88f8ab67baf0431c6113b47259b587d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业",
-        "WMS",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "山东启昱",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1150181fc48d202d1Hx839W4EFs~",
-      "brandName": "山东启昱",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100915,
-      "industryName": "计算机/通信/其他电子设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732716852947,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东启昱",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东启昱",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1732716852947,
+        "brandName": "山东启昱",
+        "customerBrandName": "山东启昱",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1150181fc48d202d1Hx839W4EFs~",
+        "focusBrand": false,
+        "industry": 100915,
+        "industryName": "计算机/通信/其他电子设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南章丘区临空经济区展厅A4",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bdff8c296d9f3e9f1nF53NW1F1FTwYu-UP2W",
+        "encryptId": "9b3a148694a94d1f03R439q1GFBY",
+        "encryptUserId": "2bf511003e415d4c1nV-0921EVBT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "agv实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 36.883454,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.241323,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bfe88f8ab67baf0431c6113b47259b587d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1.负责生产车间和项目现场的调试工作，进行中试车间的AGV产品选型测试并输出相关数据。\n2.技术支持和异常处理：对生产和项目提供技术支持，处理技术异常问题，跟踪问题并给出可行性建议。\n3.项目培训：负责AGV项目的培训工作3。\n任职要求：\n熟练掌握Linux,熟悉Python脚本语言，了解TCP/IP协议；对AGV/AMR移动机器人导航运动控制比较了解；能够使用Python语言对机器人相关软件进行调试；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "计算机相关专业",
+            "WMS",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bf52e12f7f27c91368255525c45fedb84a6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_bgau5Lr-NAH4-F1rm-x8zoKSCdmNMNPv5OJgxmCjc-M7u8BfTvMXrIVoDBtWch2imn2hucEaTMY9rYNMYMwS7QalsAd99H6WYAiqx7c_nI_3LF7FU3MoQZTrm5Awy70T3lVHnu5c6vZwkA~",
+    "selfAccess": false,
+    "sessionId": null
 }

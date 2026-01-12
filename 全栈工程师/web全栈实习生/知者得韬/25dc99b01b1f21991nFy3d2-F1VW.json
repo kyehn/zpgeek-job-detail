@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rh3nfvKGRgJoC-o1mEOanO7uXDZ6j9zmOKMtEIlKGviPlb4oJ3wnfGgrgnWP6mmhB4dQ9ggjhEGITXzeKDCb9zah8dpTp1QXm-DBzWBsV33sieOZeQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "25dc99b01b1f21991nFy3d2-F1VW",
-      "encryptUserId": "f668554fcdaaf3270HB639q5FFU~",
-      "invalidStatus": false,
-      "jobName": "web全栈实习生",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "一、任职资格\n1、计算机或相关专业大专学历\n2、了解Spring，mybatis、springMVC和hibernate等主流的开发框架，对网络编程、多线程有相当的了解；；\n3、了解web前端开发语言，掌握JavaScript、PHP等开发能力的优先；\n4、了解基本的Linux操作命令；\n5、了解掌握mysql、oracle等主流数据库的使用，能独立进行数据库设计；\n6、具有良好的沟通、团队协作，有较强的执行力；\n二、职位描述\n1、负责软件程序设计与代码编写；\n2、根据项目具体要求，进行软件开发，并按计划完成任务目标；\n3、与需求工程师配合共同完成软件开发方案及整体方案设计；\n4、负责编制项目相关的技术文档；\n5、项目上线前后，及时解决系统运行中遇到的技术问题。",
-      "encryptAddressId": "994ac2907bd7e3a61nJ_3dy5FFs~",
-      "address": "西安雁塔区钻石半岛10号楼三单元1402",
-      "longitude": 108.971833,
-      "latitude": 34.203073,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/810c7be5fb806d4b942a31fd6343605a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/532023a02e1bd2c75e873d6c876d5c71",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PHP",
-        "前端开发",
-        "多线程",
-        "网络编程",
-        "Oracle",
-        "Spring",
-        "SpringMVC",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210808/e9e535de21075affc24a1c96481e8c9d82233b0712fabd5ddc28bf02aa6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "知者得韬",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3c8413ddabf8ba280nJ82d-_Fg~~",
-      "brandName": "知者得韬",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220414/7b5b554d84f9729cfa49a6fb2270253df8589c7461ca8f0982233b0712fabd5ddc28bf02aa6abdf9.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "🐶🐱宠物与爱，皆不可辜负~\n💕欢迎加入我们！快来一起谱写您叫宠的故事！\n🌈我们的工作体验不仅没有压力，环境舒适有爱，还会让您笑口常开，甚至能触及您心灵深处的感动！\n☀️如果您已经有更好的岗位了，没关系！把我们的职位分享给你的伙伴吧～",
-      "labels": [
-        "节日福利",
-        "零食下午茶",
-        "员工旅游",
-        "全勤奖",
-        "加班补助",
-        "股票期权",
-        "五险一金"
-      ],
-      "activeTime": 1721464782393,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "知者得韬",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "知者得韬",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210808/e9e535de21075affc24a1c96481e8c9d82233b0712fabd5ddc28bf02aa6_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1721464782393,
+        "brandName": "知者得韬",
+        "customerBrandName": "知者得韬",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "3c8413ddabf8ba280nJ82d-_Fg~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "🐶🐱宠物与爱，皆不可辜负~\n💕欢迎加入我们！快来一起谱写您叫宠的故事！\n🌈我们的工作体验不仅没有压力，环境舒适有爱，还会让您笑口常开，甚至能触及您心灵深处的感动！\n☀️如果您已经有更好的岗位了，没关系！把我们的职位分享给你的伙伴吧～",
+        "labels": [
+            "节日福利",
+            "零食下午茶",
+            "员工旅游",
+            "全勤奖",
+            "加班补助",
+            "股票期权",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220414/7b5b554d84f9729cfa49a6fb2270253df8589c7461ca8f0982233b0712fabd5ddc28bf02aa6abdf9.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区钻石半岛10号楼三单元1402",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "994ac2907bd7e3a61nJ_3dy5FFs~",
+        "encryptId": "25dc99b01b1f21991nFy3d2-F1VW",
+        "encryptUserId": "f668554fcdaaf3270HB639q5FFU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "web全栈实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.203073,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.971833,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/532023a02e1bd2c75e873d6c876d5c71",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "一、任职资格\n1、计算机或相关专业大专学历\n2、了解Spring，mybatis、springMVC和hibernate等主流的开发框架，对网络编程、多线程有相当的了解；；\n3、了解web前端开发语言，掌握JavaScript、PHP等开发能力的优先；\n4、了解基本的Linux操作命令；\n5、了解掌握mysql、oracle等主流数据库的使用，能独立进行数据库设计；\n6、具有良好的沟通、团队协作，有较强的执行力；\n二、职位描述\n1、负责软件程序设计与代码编写；\n2、根据项目具体要求，进行软件开发，并按计划完成任务目标；\n3、与需求工程师配合共同完成软件开发方案及整体方案设计；\n4、负责编制项目相关的技术文档；\n5、项目上线前后，及时解决系统运行中遇到的技术问题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "PHP",
+            "前端开发",
+            "多线程",
+            "网络编程",
+            "Oracle",
+            "Spring",
+            "SpringMVC",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/810c7be5fb806d4b942a31fd6343605a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rh3nfvKGRgJoC-o1mEOanO7uXDZ6j9zmOKMtEIlKGviPlb4oJ3wnfGgrgnWP6mmhB4dQ9ggjhEGITXzeKDCb9zah8dpTp1QXm-DBzWBsV33sieOZeQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

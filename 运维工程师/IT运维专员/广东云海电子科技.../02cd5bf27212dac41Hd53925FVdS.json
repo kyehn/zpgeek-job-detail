@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "g2QDrMJckcDyt-a1jm7_TGyNzRQwEn8k18HktKvOzjWP0yCsE8W6vy4cqzG7P8I8d7taRqbRfWYmACLnZ5d6U_FUSR1FCLrLe79gkNN_bgTZnNAHykw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "02cd5bf27212dac41Hd53925FVdS",
-      "encryptUserId": "26d6cf68035448240nBz09i-GVZX",
-      "invalidStatus": false,
-      "jobName": "it运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280300,
-      "locationName": "惠州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "监控故障排查检修\n会看图纸\n会开手动挡车\n会办公文档",
-      "encryptAddressId": "aec60fb14b700bb33nR629S9FFU~",
-      "address": "惠州惠阳区而立公社(南站分社)5楼",
-      "longitude": 114.482158,
-      "latitude": 22.775969,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27899cc6cec1efde7e47bc86c0d5ccbc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/786e8943e235efc1aed26bf4aa803ccd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220713/607f1f3d68754fd0c5048cc9ad6a20c3e76bcc0ba245ad28ffca7e0b836d6531b835920a2fe_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "广东云海电子科技...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0fc73eb818f459d40Hd63Ni1Fw~~",
-      "brandName": "广东云海电子科技...",
-      "logo": null,
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "以人为本，科技创新",
-      "labels": [
-        "交通补助",
-        "住房补贴",
-        "餐补",
-        "意外险",
-        "补充医疗保险"
-      ],
-      "activeTime": 1731305868586,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广东云海电子科技...",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广东云海电子科技...",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220713/607f1f3d68754fd0c5048cc9ad6a20c3e76bcc0ba245ad28ffca7e0b836d6531b835920a2fe_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731305868586,
+        "brandName": "广东云海电子科技...",
+        "customerBrandName": "广东云海电子科技...",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "0fc73eb818f459d40Hd63Ni1Fw~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "以人为本，科技创新",
+        "labels": [
+            "交通补助",
+            "住房补贴",
+            "餐补",
+            "意外险",
+            "补充医疗保险"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "惠州惠阳区而立公社(南站分社)5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "aec60fb14b700bb33nR629S9FFU~",
+        "encryptId": "02cd5bf27212dac41Hd53925FVdS",
+        "encryptUserId": "26d6cf68035448240nBz09i-GVZX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "it运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.775969,
+        "location": 101280300,
+        "locationName": "惠州",
+        "longitude": 114.482158,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/786e8943e235efc1aed26bf4aa803ccd",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "监控故障排查检修\n会看图纸\n会开手动挡车\n会办公文档",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施交付运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27899cc6cec1efde7e47bc86c0d5ccbc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "g2QDrMJckcDyt-a1jm7_TGyNzRQwEn8k18HktKvOzjWP0yCsE8W6vy4cqzG7P8I8d7taRqbRfWYmACLnZ5d6U_FUSR1FCLrLe79gkNN_bgTZnNAHykw~",
+    "selfAccess": false,
+    "sessionId": null
 }

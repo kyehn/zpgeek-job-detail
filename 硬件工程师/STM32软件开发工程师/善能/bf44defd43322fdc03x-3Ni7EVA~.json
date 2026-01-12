@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PlqYCWB66ENxO-z1y5GffXsNsSttr9IeVUtaHvSMbmEs5jnVBHIhhefF3CLskvQCpiC47hvqjBjXYTupBIOxn8qQyi-079by92o-uEbCDlZfG7v6mPyxkmUCSxttpNB03PJVNH2pe3Y~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bf44defd43322fdc03x-3Ni7EVA~",
-      "encryptUserId": "8db5744a5cef50eb0nF40tq6FVM~",
-      "invalidStatus": false,
-      "jobName": "STM32软件开发工程师",
-      "position": 100801,
-      "positionName": "硬件工程师",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\r\n1.\t负责STM32软件设计，C语言编程；\r\n2.\t负责电机控制（步进电机、伺服电机）；\r\n3.\t负责通信协议制定，程序编写；\r\n4.\t负责编写研发文档、使用说明等，\r\n5.\t负责产品测试与维护；\r\n\r\n任职要求：\r\n1.\t精通C语言编程；\r\n2.\t精通STM32系列单片机的软件开发；\r\n3.\t精通uCOS系统编程；\r\n4.\t具备基本硬件原理知识，有硬件设计经验者优先；\r\n5.\t具备步进电机、伺服电机控制基础；\r\n6.\t具备基本通信知识，了解UART（RS232/RS485）、CAN、SPI等常见通信协议；\r\n7.\t态度端正，认真负责，有团队合作精神，有独立分析解决问题的能力。\r\n\r\n福利：\r\n1.\t五险一金+餐补+交通补贴+通信补贴；\r\n2.\t研发体系采用弹性工作制，目标考核；\r\n3.\t实习期1—3个月，能力突出者可提前转正；",
-      "encryptAddressId": "c7050114f1b95ffd1nR83dS-FVc~",
-      "address": "济南历下区历山名郡5号楼6单元501",
-      "longitude": 117.034844,
-      "latitude": 36.651149,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23f4318959afeaac8ad029b83c2488ea",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5577123a1c491b2ce2b2aa0a24e7ccc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电路调试",
-        "C语言",
-        "单片机"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "机电部部长",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "善能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "de963f43e18c12441nx53tS1E1s~",
-      "brandName": "善能",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1718600297710,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "善能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "善能",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "机电部部长"
+    },
+    "brandComInfo": {
+        "activeTime": 1718600297710,
+        "brandName": "善能",
+        "customerBrandName": "善能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "de963f43e18c12441nx53tS1E1s~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南历下区历山名郡5号楼6单元501",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c7050114f1b95ffd1nR83dS-FVc~",
+        "encryptId": "bf44defd43322fdc03x-3Ni7EVA~",
+        "encryptUserId": "8db5744a5cef50eb0nF40tq6FVM~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "STM32软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.651149,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.034844,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5577123a1c491b2ce2b2aa0a24e7ccc",
+        "position": 100801,
+        "positionName": "硬件工程师",
+        "postDescription": "岗位职责：\r\n1.\t负责STM32软件设计，C语言编程；\r\n2.\t负责电机控制（步进电机、伺服电机）；\r\n3.\t负责通信协议制定，程序编写；\r\n4.\t负责编写研发文档、使用说明等，\r\n5.\t负责产品测试与维护；\r\n\r\n任职要求：\r\n1.\t精通C语言编程；\r\n2.\t精通STM32系列单片机的软件开发；\r\n3.\t精通uCOS系统编程；\r\n4.\t具备基本硬件原理知识，有硬件设计经验者优先；\r\n5.\t具备步进电机、伺服电机控制基础；\r\n6.\t具备基本通信知识，了解UART（RS232/RS485）、CAN、SPI等常见通信协议；\r\n7.\t态度端正，认真负责，有团队合作精神，有独立分析解决问题的能力。\r\n\r\n福利：\r\n1.\t五险一金+餐补+交通补贴+通信补贴；\r\n2.\t研发体系采用弹性工作制，目标考核；\r\n3.\t实习期1—3个月，能力突出者可提前转正；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "电路调试",
+            "C语言",
+            "单片机"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23f4318959afeaac8ad029b83c2488ea"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PlqYCWB66ENxO-z1y5GffXsNsSttr9IeVUtaHvSMbmEs5jnVBHIhhefF3CLskvQCpiC47hvqjBjXYTupBIOxn8qQyi-079by92o-uEbCDlZfG7v6mPyxkmUCSxttpNB03PJVNH2pe3Y~",
+    "selfAccess": false,
+    "sessionId": null
 }

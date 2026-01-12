@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "S9eoYVjRV6Utl-t1jMqLQVqPwkjKhCRBhtKx6RmCEJqi2GSbiZTThG5oJVS2wAh7wv4sV5Xu2YhsigeTZzH9ooZFLAzcNqKl_SeuCvbytl3d5C43624hQdOAwQ_sYPoAI_hnusRljhuGJYg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bda0730f17f229c71Hdz29S9GFRR",
-      "encryptUserId": "0971b130e9445dab1nZ53dq0EFdT",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：认真\n任职要求：细心\n行业经验：有",
-      "encryptAddressId": "c5dc31404161a41e1XV83ty5E1E~",
-      "address": "北京朝阳区SOHO·尚都B座B161610",
-      "longitude": 116.453197,
-      "latitude": 39.918652,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5dfe78016a3ac12de7547a1847356b1e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7587ee2ba27930d71f7831e7ab69ff8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "相关分析"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210906/607f1f3d68754fd0d6ff594c242c9b461514f07c1f1168cf8cb7881442b7e4af5a01462ad8d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "华兴易信信息科技...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3f13731bae17db0f1nN53d66E1Q~",
-      "brandName": "华兴易信信息科技...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100208,
-      "industryName": "租赁/拍卖/典当/担保",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725604152166,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华兴易信信息科技...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华兴易信信息科技...",
+        "certificated": true,
+        "large": null,
+        "name": "何女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210906/607f1f3d68754fd0d6ff594c242c9b461514f07c1f1168cf8cb7881442b7e4af5a01462ad8d_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725604152166,
+        "brandName": "华兴易信信息科技...",
+        "customerBrandName": "华兴易信信息科技...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3f13731bae17db0f1nN53d66E1Q~",
+        "focusBrand": false,
+        "industry": 100208,
+        "industryName": "租赁/拍卖/典当/担保",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区SOHO·尚都B座B161610",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c5dc31404161a41e1XV83ty5E1E~",
+        "encryptId": "bda0730f17f229c71Hdz29S9GFRR",
+        "encryptUserId": "0971b130e9445dab1nZ53dq0EFdT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.918652,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.453197,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7587ee2ba27930d71f7831e7ab69ff8",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "岗位职责：认真\n任职要求：细心\n行业经验：有",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K",
+        "showSkills": [
+            "相关分析"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5dfe78016a3ac12de7547a1847356b1e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "S9eoYVjRV6Utl-t1jMqLQVqPwkjKhCRBhtKx6RmCEJqi2GSbiZTThG5oJVS2wAh7wv4sV5Xu2YhsigeTZzH9ooZFLAzcNqKl_SeuCvbytl3d5C43624hQdOAwQ_sYPoAI_hnusRljhuGJYg~",
+    "selfAccess": false,
+    "sessionId": null
 }

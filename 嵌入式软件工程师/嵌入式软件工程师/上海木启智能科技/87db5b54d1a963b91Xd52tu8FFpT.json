@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QTXXS4hUQs1Pj-G1u2HOmrVjgPxhRzrFGStdhxIPiejsLFAUSGIbW2F37GOlBFurqedmwd2iybxuALCj_vQC8_zAf_aLmOH8uoyS5dM-_8MvtTEUxeRl",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "87db5b54d1a963b91Xd52tu8FFpT",
-      "encryptUserId": "e8c21287a20f419d0nB_3dq-ElBY",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "1.计算机技术和电子信息等相关专业，本科以上学历；\n2.精通C/C++,熟悉Linux嵌入式操作系统\n3.有驱动开发实际项目优先\n4.PCIE使用者优先\n5.有丰富的数字音视频系统开发经验\n6.熟悉nvidia GPU ，海思平台优先",
-      "encryptAddressId": "1c026b64ad4ff94d0XB53di4Fls~",
-      "address": "上海嘉定区安亭大厦401",
-      "longitude": 121.162922,
-      "latitude": 31.29481,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd89251dcfada02c04c5499c11ff4cdc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f365337d324feaea0fafb6a094c97b3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "嵌入式技术",
-        "驱动开发",
-        "Linux",
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220630/607f1f3d68754fd0a4bd0714eee82db7a480bf8168d2c4a80eccecaba358cb1aa33f48c0897_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "上海木启智能科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4ae55a3840c0cc081XV83Nm-GVo~",
-      "brandName": "上海木启智能科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [
-        "交通补助",
-        "节日福利",
-        "团建聚餐",
-        "零食下午茶",
-        "餐补",
-        "全勤奖",
-        "工龄奖",
-        "加班补助",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1725240896052,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海木启智能科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海木启智能科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220630/607f1f3d68754fd0a4bd0714eee82db7a480bf8168d2c4a80eccecaba358cb1aa33f48c0897_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725240896052,
+        "brandName": "上海木启智能科技",
+        "customerBrandName": "上海木启智能科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4ae55a3840c0cc081XV83Nm-GVo~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [
+            "交通补助",
+            "节日福利",
+            "团建聚餐",
+            "零食下午茶",
+            "餐补",
+            "全勤奖",
+            "工龄奖",
+            "加班补助",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海嘉定区安亭大厦401",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1c026b64ad4ff94d0XB53di4Fls~",
+        "encryptId": "87db5b54d1a963b91Xd52tu8FFpT",
+        "encryptUserId": "e8c21287a20f419d0nB_3dq-ElBY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.29481,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.162922,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f365337d324feaea0fafb6a094c97b3",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1.计算机技术和电子信息等相关专业，本科以上学历；\n2.精通C/C++,熟悉Linux嵌入式操作系统\n3.有驱动开发实际项目优先\n4.PCIE使用者优先\n5.有丰富的数字音视频系统开发经验\n6.熟悉nvidia GPU ，海思平台优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "C++",
+            "嵌入式技术",
+            "驱动开发",
+            "Linux",
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd89251dcfada02c04c5499c11ff4cdc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QTXXS4hUQs1Pj-G1u2HOmrVjgPxhRzrFGStdhxIPiejsLFAUSGIbW2F37GOlBFurqedmwd2iybxuALCj_vQC8_zAf_aLmOH8uoyS5dM-_8MvtTEUxeRl",
+    "selfAccess": false,
+    "sessionId": null
 }

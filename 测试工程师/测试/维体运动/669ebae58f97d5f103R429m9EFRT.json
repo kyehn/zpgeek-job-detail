@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "d0oN6spVJLsO7-y1DpPTeMP8tWbycO2dYWIyitgYMJ81LmMMePHgPG68olTyOeyzFN2z7vBr0WqHvOA15Fck_ZX0XcR8ZL4DpE5yMpCkZUiPGXEHMEI-CWIKUEXm7bxx5GcafchzEPe7yk31xAm8sNWTgw0isrH2KVc9Z7XihKkdKCE4qg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "669ebae58f97d5f103R429m9EFRT",
-      "encryptUserId": "7511431c89d9a6aa1XR73tS9E1M~",
-      "invalidStatus": false,
-      "jobName": "测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责设计测试用例、编写测试脚本；\n2. 负责完成对产品的单元测试、系统测试，功能、性能及兼容性进行测试；\n3. 负责分析并参与所属项目文档的评审工作；\n4. 负责少量客服工作；\n任职要求：\n1. 工作积极主动，细致认真，沟通能力强，有一定的抗压能力；\n2. 1年以上IOS端、Android端手机软件或智能手表端测试经验；\n3. 有体育（健身）产品软件、儿童产品软件测试经验者优先；\n4. 会编写测试脚本优先；",
-      "encryptAddressId": "949dccdac4e42c7c1XB9292_Fg~~",
-      "address": "深圳南山区深圳市高新技术产业园区R2-B栋",
-      "longitude": 113.944433,
-      "latitude": 22.534537,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50243e164af3f7a2a9d73386e8f58c94",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7afb69915f76a201eafbeb5717cd5b3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "iOS/Android测试经验",
-        "压力测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "维体运动",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f1b3089ab543159d1X1809i1Flc~",
-      "brandName": "维体运动",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230821/7bf6f160950405e90f2a9cd1cd6318e7fa854e742676d0b0f216e2d3cf6ef4b6df6d5e0bfedfd3dc.png.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "深圳市维体运动科技有限公司成立于2017年12月，是一家专门研发与销售数字化智能运动器械与软件的科技型公司。\n       公司坐落于科技之都深圳市南山科技园区，是国家高新技术企业。公司核心创始人来自小天才、育碧、西山居等知名互联网企业。\n       公司前身是深圳市启檬科技有限公司，从事线上教育APP研发与运营，累计用户达2000万。\n       公司于2018年与2019年两次获得OPPO、vivo、小天才等企业数千万级天使轮投资。",
-      "labels": [
-        "员工旅游",
-        "带薪年假",
-        "加班补助",
-        "股票期权",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1732590267296,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "维体运动",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "维体运动",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732590267296,
+        "brandName": "维体运动",
+        "customerBrandName": "维体运动",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "f1b3089ab543159d1X1809i1Flc~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "深圳市维体运动科技有限公司成立于2017年12月，是一家专门研发与销售数字化智能运动器械与软件的科技型公司。\n       公司坐落于科技之都深圳市南山科技园区，是国家高新技术企业。公司核心创始人来自小天才、育碧、西山居等知名互联网企业。\n       公司前身是深圳市启檬科技有限公司，从事线上教育APP研发与运营，累计用户达2000万。\n       公司于2018年与2019年两次获得OPPO、vivo、小天才等企业数千万级天使轮投资。",
+        "labels": [
+            "员工旅游",
+            "带薪年假",
+            "加班补助",
+            "股票期权",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230821/7bf6f160950405e90f2a9cd1cd6318e7fa854e742676d0b0f216e2d3cf6ef4b6df6d5e0bfedfd3dc.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区深圳市高新技术产业园区R2-B栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "949dccdac4e42c7c1XB9292_Fg~~",
+        "encryptId": "669ebae58f97d5f103R429m9EFRT",
+        "encryptUserId": "7511431c89d9a6aa1XR73tS9E1M~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.534537,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.944433,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7afb69915f76a201eafbeb5717cd5b3",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1. 负责设计测试用例、编写测试脚本；\n2. 负责完成对产品的单元测试、系统测试，功能、性能及兼容性进行测试；\n3. 负责分析并参与所属项目文档的评审工作；\n4. 负责少量客服工作；\n任职要求：\n1. 工作积极主动，细致认真，沟通能力强，有一定的抗压能力；\n2. 1年以上IOS端、Android端手机软件或智能手表端测试经验；\n3. 有体育（健身）产品软件、儿童产品软件测试经验者优先；\n4. 会编写测试脚本优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "测试工作经验",
+            "iOS/Android测试经验",
+            "压力测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50243e164af3f7a2a9d73386e8f58c94"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "d0oN6spVJLsO7-y1DpPTeMP8tWbycO2dYWIyitgYMJ81LmMMePHgPG68olTyOeyzFN2z7vBr0WqHvOA15Fck_ZX0XcR8ZL4DpE5yMpCkZUiPGXEHMEI-CWIKUEXm7bxx5GcafchzEPe7yk31xAm8sNWTgw0isrH2KVc9Z7XihKkdKCE4qg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

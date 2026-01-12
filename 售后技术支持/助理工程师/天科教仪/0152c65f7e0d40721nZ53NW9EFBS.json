@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UDjdlUt8rc13p-G1OeoT0OoK0pNFQMYPvzKPhtkwjsJlO_e1CT-5-q0qbwGO42Qhwppctk8cmPSMX-MUTgcJBRBeHMF5lnZE-hdEJMvdeg3WA-iZlQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0152c65f7e0d40721nZ53NW9EFBS",
-      "encryptUserId": "a61c81d21085de0b0nV439u-FlE~",
-      "invalidStatus": false,
-      "jobName": "助理工程师",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求：\n1、自动化/机电/电子电气类相关专业；\n2、责任心强，具有较强的敬业和团队协助能力。\n岗位职责：\n1、负责开标现场技术支持；\n2、收集信息，与潜在用户沟通用户需求，攥写产品技术方案；",
-      "encryptAddressId": "1edf83e26ebe8a341nJz2924GFI~",
-      "address": "杭州余杭区杭州天科教仪设备有限公司闲林工业区嘉企路8-2号4号楼5楼",
-      "longitude": 119.97566,
-      "latitude": 30.226276,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e3201261834f570e3f312c7f9f7b1dc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d13d4d0225bedbee5c21e63e12a43f78",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "技术沟通",
-        "产品咨询"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "金女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190104/6d1e0083dbcc4e9b5c5db784b6d7adc2cfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "天科教仪",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fccb54bfd1d06a8d1HZ93dm0FQ~~",
-      "brandName": "天科教仪",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200407/cf8a35fda3ad7cb15b4a4ed23d941c8d306424a180e647ec6289e1356b879d61_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "杭州天科教仪设备有限公司是一家专业从事教学仪器研发、生产、销售的高新技术企业。产品遍布全国，为国内各大高校提供了大量优质的教学仪器及设备。多年来，“天科教仪”在社会各界和广大高校教师的关心支持下,凭借着自身丰富的行业经验；先进的经营策略；科学的生产流程；严格的质量管理；高效的售后服务，使企业在激烈的市场竞争中跻身于教仪行业的前列。\n       “天科”建立健全的现代企业管理制度，完善的人才激励机制，并拥有一支由技术精英和教学一线的专家、教授组成的研发团队。今天，无论在高新技术领域，抑或是企业经营管理中，天科人正秉承“天科，让教育引领科技发展”的企业精神，以勤奋务实的态度推动企业高速向前发展，全力打造中国教仪领域的行业中坚！",
-      "labels": [
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "节日福利",
-        "住房补贴"
-      ],
-      "activeTime": 1727511925835,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "天科教仪",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "天科教仪",
+        "certificated": true,
+        "large": null,
+        "name": "金女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190104/6d1e0083dbcc4e9b5c5db784b6d7adc2cfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727511925835,
+        "brandName": "天科教仪",
+        "customerBrandName": "天科教仪",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "fccb54bfd1d06a8d1HZ93dm0FQ~~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "杭州天科教仪设备有限公司是一家专业从事教学仪器研发、生产、销售的高新技术企业。产品遍布全国，为国内各大高校提供了大量优质的教学仪器及设备。多年来，“天科教仪”在社会各界和广大高校教师的关心支持下,凭借着自身丰富的行业经验；先进的经营策略；科学的生产流程；严格的质量管理；高效的售后服务，使企业在激烈的市场竞争中跻身于教仪行业的前列。\n       “天科”建立健全的现代企业管理制度，完善的人才激励机制，并拥有一支由技术精英和教学一线的专家、教授组成的研发团队。今天，无论在高新技术领域，抑或是企业经营管理中，天科人正秉承“天科，让教育引领科技发展”的企业精神，以勤奋务实的态度推动企业高速向前发展，全力打造中国教仪领域的行业中坚！",
+        "labels": [
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "节日福利",
+            "住房补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200407/cf8a35fda3ad7cb15b4a4ed23d941c8d306424a180e647ec6289e1356b879d61_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区杭州天科教仪设备有限公司闲林工业区嘉企路8-2号4号楼5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1edf83e26ebe8a341nJz2924GFI~",
+        "encryptId": "0152c65f7e0d40721nZ53NW9EFBS",
+        "encryptUserId": "a61c81d21085de0b0nV439u-FlE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "助理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.226276,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.97566,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d13d4d0225bedbee5c21e63e12a43f78",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "岗位要求：\n1、自动化/机电/电子电气类相关专业；\n2、责任心强，具有较强的敬业和团队协助能力。\n岗位职责：\n1、负责开标现场技术支持；\n2、收集信息，与潜在用户沟通用户需求，攥写产品技术方案；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "技术沟通",
+            "产品咨询"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e3201261834f570e3f312c7f9f7b1dc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UDjdlUt8rc13p-G1OeoT0OoK0pNFQMYPvzKPhtkwjsJlO_e1CT-5-q0qbwGO42Qhwppctk8cmPSMX-MUTgcJBRBeHMF5lnZE-hdEJMvdeg3WA-iZlQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

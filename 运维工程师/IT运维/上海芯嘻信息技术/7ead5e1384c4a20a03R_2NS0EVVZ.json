@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4zMjdWJqqaubm-L1aiZP11kcv6SwKEmcj3jcaiSufdmGrRz-7NEmYBsAtbcBensHx6OVNXwTs4LYfOQFqiGPRTvERiDtHWeOO9h4KcQWQ0USf1ITrvcvAkYN9_IIxwI02st-Lbf3XAfjbxW0wx4SXTTMAyUg8w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7ead5e1384c4a20a03R_2NS0EVVZ",
-      "encryptUserId": "bce5a59ebcc1a0f70nBz09q6EFJT",
-      "invalidStatus": false,
-      "jobName": "it运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.配合客户IT交代工作，解决门店软件故障，跟进项目管理。\n2.有责任心，愿意接受挑战及新事物，具备应变能力及沟通能力。\n3.根据文档，学习客户系统的日常维护、配置和支持。\n4.帮助客户解决日常系统故障和问题。\n5.及时响应客户反馈，遇到无法处理的问题及时汇报。",
-      "encryptAddressId": "98e5985de3b634271nFy39i_GFtTxo27UP-a",
-      "address": "北京朝阳区百环大厦1",
-      "longitude": 116.467601,
-      "latitude": 39.890873,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c324cb7db402fa6b69dbb1c0df30c01c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e43e6c80ebfb38fb6c68c8dd60c8ff90",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "严女士",
-      "title": "人事总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "上海芯嘻信息技术",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3eca603a3b008e961XVz29q7FFs~",
-      "brandName": "上海芯嘻信息技术",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "为连锁行业提供数智化服务",
-      "labels": [
-        "全勤奖",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1733895945306,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海芯嘻信息技术",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海芯嘻信息技术",
+        "certificated": true,
+        "large": null,
+        "name": "严女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1733895945306,
+        "brandName": "上海芯嘻信息技术",
+        "customerBrandName": "上海芯嘻信息技术",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3eca603a3b008e961XVz29q7FFs~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "为连锁行业提供数智化服务",
+        "labels": [
+            "全勤奖",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区百环大厦1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "98e5985de3b634271nFy39i_GFtTxo27UP-a",
+        "encryptId": "7ead5e1384c4a20a03R_2NS0EVVZ",
+        "encryptUserId": "bce5a59ebcc1a0f70nBz09q6EFJT",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "it运维",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 39.890873,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.467601,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e43e6c80ebfb38fb6c68c8dd60c8ff90",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.配合客户IT交代工作，解决门店软件故障，跟进项目管理。\n2.有责任心，愿意接受挑战及新事物，具备应变能力及沟通能力。\n3.根据文档，学习客户系统的日常维护、配置和支持。\n4.帮助客户解决日常系统故障和问题。\n5.及时响应客户反馈，遇到无法处理的问题及时汇报。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c324cb7db402fa6b69dbb1c0df30c01c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4zMjdWJqqaubm-L1aiZP11kcv6SwKEmcj3jcaiSufdmGrRz-7NEmYBsAtbcBensHx6OVNXwTs4LYfOQFqiGPRTvERiDtHWeOO9h4KcQWQ0USf1ITrvcvAkYN9_IIxwI02st-Lbf3XAfjbxW0wx4SXTTMAyUg8w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

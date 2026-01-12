@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "LUouTLfVPny7M-o1r7sTnrGYns777KF9WaebXTdaJ08eUARHl0CWjiJwlDqWF9NjbuQdgMRfqzX5OFr-loAOK4MA3k9pY9Dm3XiaLTMgzEM30yp3-c1F0ej-1bAd1qNB3LjXlUVas0vqj7Y~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c1daf8340afa2e8d1HNy2Nu-FlNS",
-      "encryptUserId": "ce6635ce87f78e200XR83t-8F1VV",
-      "invalidStatus": false,
-      "jobName": "软件开发工程",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、进行基于 QT 的上位机软件开发、桌面应用计算软件开发\n2、编写软件的使用说明及开发文档；\n3、配合自动化工程师进行数据采集以及处理，编写数据处理软件\n\n任职要求：\n1、 统招本科及以上学历；\n2、 专业：计算机/通信工程/电子信息/电子科学/电力电子/自动化/测控技术等相关专业；\n3、 熟练掌握C ++软件开发语言；\n4、 掌握常用应用编程方法，网络编程、文件操作、串口编程、私有协议编程等。\n5、 有QT产品软件开发设计相关工作经验，精通 QT 应用开发框架\n\n工作地点：上海，浙江安吉 做六休一",
-      "encryptAddressId": "8c0b0592776153b11nd42t69FlBYxoS-VvOd",
-      "address": "上海青浦区E通世界商务园华新园G栋G907室",
-      "longitude": 121.211306,
-      "latitude": 31.219524,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230814/48ba41acc9cef1bf81a274dd3689b5ca85275004db4aaa6b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230828/48ba41acc9cef1bf14fdc5eb192efcdc31998b2e3901705c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "QT",
-        "数据库开发经验",
-        "桌面开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "詹女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230628/607f1f3d68754fd0dcf72f43ba9ed925671f424bff43e1decbcefa82f863ce05db7857a5512_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "添佶轴承",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0f90756ebbbd07f21Xx-2NW1F1s~",
-      "brandName": "添佶轴承",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727585179841,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "添佶轴承",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "添佶轴承",
+        "certificated": true,
+        "large": null,
+        "name": "詹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230628/607f1f3d68754fd0dcf72f43ba9ed925671f424bff43e1decbcefa82f863ce05db7857a5512_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727585179841,
+        "brandName": "添佶轴承",
+        "customerBrandName": "添佶轴承",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0f90756ebbbd07f21Xx-2NW1F1s~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海青浦区E通世界商务园华新园G栋G907室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8c0b0592776153b11nd42t69FlBYxoS-VvOd",
+        "encryptId": "c1daf8340afa2e8d1HNy2Nu-FlNS",
+        "encryptUserId": "ce6635ce87f78e200XR83t-8F1VV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发工程",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.219524,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.211306,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230828/48ba41acc9cef1bf14fdc5eb192efcdc31998b2e3901705c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "岗位职责：\n1、进行基于 QT 的上位机软件开发、桌面应用计算软件开发\n2、编写软件的使用说明及开发文档；\n3、配合自动化工程师进行数据采集以及处理，编写数据处理软件\n\n任职要求：\n1、 统招本科及以上学历；\n2、 专业：计算机/通信工程/电子信息/电子科学/电力电子/自动化/测控技术等相关专业；\n3、 熟练掌握C ++软件开发语言；\n4、 掌握常用应用编程方法，网络编程、文件操作、串口编程、私有协议编程等。\n5、 有QT产品软件开发设计相关工作经验，精通 QT 应用开发框架\n\n工作地点：上海，浙江安吉 做六休一",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "C++",
+            "QT",
+            "数据库开发经验",
+            "桌面开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230814/48ba41acc9cef1bf81a274dd3689b5ca85275004db4aaa6b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "LUouTLfVPny7M-o1r7sTnrGYns777KF9WaebXTdaJ08eUARHl0CWjiJwlDqWF9NjbuQdgMRfqzX5OFr-loAOK4MA3k9pY9Dm3XiaLTMgzEM30yp3-c1F0ej-1bAd1qNB3LjXlUVas0vqj7Y~",
+    "selfAccess": false,
+    "sessionId": null
 }

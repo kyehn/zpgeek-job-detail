@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "frDWn6pDBXPls-i1BY4Xd-d88rwYj9KxL7mAq2dsBJKGRpRf2pjNBeN1-WnFBvlfcgz0_xPGidbhzs-PA-wZQes-T45zZ-gsQxEALQxvMbETyPPw-wUz0J_IS-rEKnh_VAzCilJO7iSLTCPqIuRdrn7-Gz6qAOVQkNshVOPGsFhOt2RJ6A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "28c43850821996b503R62tq9GVVW",
-      "encryptUserId": "f6d0a29151f3624b0XV_2di1FlE~",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师（嵌入式操作系统开发）",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n汽车研发类/软件开发\n1.负责整车域控实时操作系统的软件模块的需求分析、详细设计和开发验证；\n\n2.负责量产软件相关交付问题的定位和分析，并进行软件维测能力的增强设计；\n\n3.研究和学习新技术，以满足下一代软件基础设施框架的接待跟新。\n任职资格\n1. 三年及以上实时操作系统开发或AUTOSAR CP软件栈开发。\n\n2.研究生及以上学位，计算机、软件工程、电子信息、汽车电子等相关专业优先；\n\n3.熟练掌握AUTOSAR CP基础软件和实时操作系统开发，对系统实时性、确定性有深入理解。\n\n4.熟悉汽车控制器常用MCU芯片架构，如Tricore、Arm-M/R、瑞萨等。\n\n5.熟练掌握嵌入式C语言开发，熟悉编译器、Makefile、Git等开发工具。\n\n6.具备一定的汽车电子电气系统知识。\n\n7.熟悉汽车电子通信协议，如CAN、车载以太网、LIN等，以及UDS诊断协议（ISO15765/ISO14229/ISO15031等）、XCP标定协议。",
-      "encryptAddressId": "a93e724dd3ae930c1nF63tq0FVdWwYu4Uv2X",
-      "address": "上海徐汇区极氪E创空间0",
-      "longitude": 121.458595,
-      "latitude": 31.159985,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231020/48ba41acc9cef1bfce469a43a4113b74dbefac58bcba3eee6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231020/48ba41acc9cef1bfbd2e21ca4637eff531c550fc5155d9a26bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "AUTOSAR CP",
-        "C++",
-        "C",
-        "计算机相关专业",
-        "Tricore、Arm-M/R、"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "洪女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241017/607f1f3d68754fd0f5e943e28f6f53b5be54e5034ed13bb18eed2f4d57548d2067f942195ed860d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "苏州金韦云科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "32f940bdb08e94e71HZ53N-7FVU~",
-      "brandName": "苏州金韦云科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240911/7bf6f160950405e93ca2b5b0adf2bd1aabd373b84fede82df8a848436912d3b4f9d9e104bfe57d81.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "成立于2023年，总部位于苏州太仓",
-      "labels": [
-        "定期体检",
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1731910793780,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州金韦云科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "苏州金韦云科技",
+        "certificated": true,
+        "large": null,
+        "name": "洪女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241017/607f1f3d68754fd0f5e943e28f6f53b5be54e5034ed13bb18eed2f4d57548d2067f942195ed860d_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731910793780,
+        "brandName": "苏州金韦云科技",
+        "customerBrandName": "苏州金韦云科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "32f940bdb08e94e71HZ53N-7FVU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "成立于2023年，总部位于苏州太仓",
+        "labels": [
+            "定期体检",
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240911/7bf6f160950405e93ca2b5b0adf2bd1aabd373b84fede82df8a848436912d3b4f9d9e104bfe57d81.png.webp",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区极氪E创空间0",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a93e724dd3ae930c1nF63tq0FVdWwYu4Uv2X",
+        "encryptId": "28c43850821996b503R62tq9GVVW",
+        "encryptUserId": "f6d0a29151f3624b0XV_2di1FlE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师（嵌入式操作系统开发）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.159985,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.458595,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231020/48ba41acc9cef1bfbd2e21ca4637eff531c550fc5155d9a26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "职位描述\n汽车研发类/软件开发\n1.负责整车域控实时操作系统的软件模块的需求分析、详细设计和开发验证；\n\n2.负责量产软件相关交付问题的定位和分析，并进行软件维测能力的增强设计；\n\n3.研究和学习新技术，以满足下一代软件基础设施框架的接待跟新。\n任职资格\n1. 三年及以上实时操作系统开发或AUTOSAR CP软件栈开发。\n\n2.研究生及以上学位，计算机、软件工程、电子信息、汽车电子等相关专业优先；\n\n3.熟练掌握AUTOSAR CP基础软件和实时操作系统开发，对系统实时性、确定性有深入理解。\n\n4.熟悉汽车控制器常用MCU芯片架构，如Tricore、Arm-M/R、瑞萨等。\n\n5.熟练掌握嵌入式C语言开发，熟悉编译器、Makefile、Git等开发工具。\n\n6.具备一定的汽车电子电气系统知识。\n\n7.熟悉汽车电子通信协议，如CAN、车载以太网、LIN等，以及UDS诊断协议（ISO15765/ISO14229/ISO15031等）、XCP标定协议。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "AUTOSAR CP",
+            "C++",
+            "C",
+            "计算机相关专业",
+            "Tricore、Arm-M/R、"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231020/48ba41acc9cef1bfce469a43a4113b74dbefac58bcba3eee6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "frDWn6pDBXPls-i1BY4Xd-d88rwYj9KxL7mAq2dsBJKGRpRf2pjNBeN1-WnFBvlfcgz0_xPGidbhzs-PA-wZQes-T45zZ-gsQxEALQxvMbETyPPw-wUz0J_IS-rEKnh_VAzCilJO7iSLTCPqIuRdrn7-Gz6qAOVQkNshVOPGsFhOt2RJ6A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zEFyJ09Sbkx6t-A1QfwcfKo84kYxtnAWf4pSbZIFLuXMIN_ade5HN4f0GG-4_lIeBapm_Iqt68xh1hUrbC4iVtMVO4Z4XUcQFeW_Oil3vr5Q5K4AuC3J7rMxbss2tCc6WophpHdlBeq-R1I~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5035e7729039f8f41XR839W8ElZV",
-      "encryptUserId": "fd6a4730037705520nR73t--ElZW",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101120500,
-      "locationName": "烟台",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "熟悉JAVA，python，有独立开发程序的能力！",
-      "encryptAddressId": "d6d5df68ef83c2e61HF73965GFY~",
-      "address": "烟台芝罘区1861创意产业园区1003",
-      "longitude": 121.376249,
-      "latitude": 37.461226,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/766c68bf78065eaa2abbe9b4ba4902d4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b49a84b258cd74d45286252a7e0791d9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络爬虫技术",
-        "Linux",
-        "虚拟机技术",
-        "微服务架构",
-        "软件工程师",
-        "容器技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "姜先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "烟台思杰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3d290ae35af8f55d1nVy3NW0F1Y~",
-      "brandName": "烟台思杰",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724420683436,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "烟台思杰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "烟台思杰",
+        "certificated": true,
+        "large": null,
+        "name": "姜先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724420683436,
+        "brandName": "烟台思杰",
+        "customerBrandName": "烟台思杰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3d290ae35af8f55d1nVy3NW0F1Y~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "烟台芝罘区1861创意产业园区1003",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "d6d5df68ef83c2e61HF73965GFY~",
+        "encryptId": "5035e7729039f8f41XR839W8ElZV",
+        "encryptUserId": "fd6a4730037705520nR73t--ElZW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.461226,
+        "location": 101120500,
+        "locationName": "烟台",
+        "longitude": 121.376249,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b49a84b258cd74d45286252a7e0791d9",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "熟悉JAVA，python，有独立开发程序的能力！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K·14薪",
+        "showSkills": [
+            "网络爬虫技术",
+            "Linux",
+            "虚拟机技术",
+            "微服务架构",
+            "软件工程师",
+            "容器技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/766c68bf78065eaa2abbe9b4ba4902d4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zEFyJ09Sbkx6t-A1QfwcfKo84kYxtnAWf4pSbZIFLuXMIN_ade5HN4f0GG-4_lIeBapm_Iqt68xh1hUrbC4iVtMVO4Z4XUcQFeW_Oil3vr5Q5K4AuC3J7rMxbss2tCc6WophpHdlBeq-R1I~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "N5EMtIA6wGA6C-T1DT4hdlCeRHJdKtdkbJJXzpS86L_WHPId1d6cloQQprcDQHLU5KrdhLiHxi1cnUOXccqcpgQIUGjyEJaQ5jeLZUVUIZPCxdtVfBfMWbaE-f7sniqKNT-oKzOlFCXkJH0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dfca501d026c23aa1HV90tS8EVNU",
-      "encryptUserId": "2b16029ef88940c00XZ-2dS-F1pX",
-      "invalidStatus": false,
-      "jobName": "数据采集",
-      "position": 100122,
-      "positionName": "数据采集",
-      "location": 101090900,
-      "locationName": "邢台",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-7K",
-      "payTypeDesc": null,
-      "postDescription": "后台运营，系统维护，",
-      "encryptAddressId": "ac701b60f8a1c5f91nd429i4ElFW",
-      "address": "邢台信都区天乙创业孵化基地3楼336",
-      "longitude": 114.459224,
-      "latitude": 37.054863,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bff943ef9da37ebecd17ebfaa1c895543f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bf21b2e0e985ac4bc5a73de6d98f81edae6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子商务"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "路女士",
-      "title": "部门主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231028/607f1f3d68754fd07ca6dfd0272220584fb5bff179f682d520b4e5eea199ef12cdcacecf6fe41b0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "信都区惠乐城网络...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1f1fc5d44927917b1HV73tS5GFU~",
-      "brandName": "信都区惠乐城网络...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725461298571,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "信都区惠乐城网络...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "信都区惠乐城网络...",
+        "certificated": true,
+        "large": null,
+        "name": "路女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231028/607f1f3d68754fd07ca6dfd0272220584fb5bff179f682d520b4e5eea199ef12cdcacecf6fe41b0_b.jpg",
+        "title": "部门主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725461298571,
+        "brandName": "信都区惠乐城网络...",
+        "customerBrandName": "信都区惠乐城网络...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1f1fc5d44927917b1HV73tS5GFU~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "邢台信都区天乙创业孵化基地3楼336",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ac701b60f8a1c5f91nd429i4ElFW",
+        "encryptId": "dfca501d026c23aa1HV90tS8EVNU",
+        "encryptUserId": "2b16029ef88940c00XZ-2dS-F1pX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据采集",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.054863,
+        "location": 101090900,
+        "locationName": "邢台",
+        "longitude": 114.459224,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bf21b2e0e985ac4bc5a73de6d98f81edae6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100122,
+        "positionName": "数据采集",
+        "postDescription": "后台运营，系统维护，",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-7K",
+        "showSkills": [
+            "电子商务"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bff943ef9da37ebecd17ebfaa1c895543f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "N5EMtIA6wGA6C-T1DT4hdlCeRHJdKtdkbJJXzpS86L_WHPId1d6cloQQprcDQHLU5KrdhLiHxi1cnUOXccqcpgQIUGjyEJaQ5jeLZUVUIZPCxdtVfBfMWbaE-f7sniqKNT-oKzOlFCXkJH0~",
+    "selfAccess": false,
+    "sessionId": null
 }

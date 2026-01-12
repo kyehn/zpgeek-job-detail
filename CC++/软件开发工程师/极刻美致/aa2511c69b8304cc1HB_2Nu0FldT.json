@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4VybuKeeajxSL-H1KN36yMgheS7UN6QumWHt4pKxEEvK0bJdlkiqJkdPAOuEU3tK8nB6JPJmE3oNumtjsiI4UDyR580pkTISQsDSIy6R6CRDcxK0FokN",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "aa2511c69b8304cc1HB_2Nu0FldT",
-      "encryptUserId": "b1da07301675df4b0XB-39q9FlJT",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "职责：\n1.负责系统设备各组成部件的软件集成;\n2.负责PC端软件的架构设计和界面、数据库开发；\n3. 维护和迭代软件版本；\n\n要求：\n1. 精通C/C++编程，能够熟练使用Visual Studio或QT;\n2. 熟悉数据库的基本使用，至少能够针对一种数据库进行软件设计开发;\n3. 熟悉window平台软件开发的架构设计思路；",
-      "encryptAddressId": "971611d6b7d6dcb40XJ52Nu7EFJVwI-6Uvk~",
-      "address": "苏州苏州纳米城20幢",
-      "longitude": 120.775342,
-      "latitude": 31.286059,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff8b2df3193d22614b38e1f7cff48827",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11141e26ff55165f065f7408cb67a55c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "QT"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘负责人",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "极刻美致",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3e2aced1f140db6a1Hd939y0FVA~",
-      "brandName": "极刻美致",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725361442922,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "极刻美致",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "极刻美致",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+        "title": "招聘负责人"
+    },
+    "brandComInfo": {
+        "activeTime": 1725361442922,
+        "brandName": "极刻美致",
+        "customerBrandName": "极刻美致",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3e2aced1f140db6a1Hd939y0FVA~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州纳米城20幢",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "971611d6b7d6dcb40XJ52Nu7EFJVwI-6Uvk~",
+        "encryptId": "aa2511c69b8304cc1HB_2Nu0FldT",
+        "encryptUserId": "b1da07301675df4b0XB-39q9FlJT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.286059,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.775342,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11141e26ff55165f065f7408cb67a55c",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "职责：\n1.负责系统设备各组成部件的软件集成;\n2.负责PC端软件的架构设计和界面、数据库开发；\n3. 维护和迭代软件版本；\n\n要求：\n1. 精通C/C++编程，能够熟练使用Visual Studio或QT;\n2. 熟悉数据库的基本使用，至少能够针对一种数据库进行软件设计开发;\n3. 熟悉window平台软件开发的架构设计思路；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "C++",
+            "QT"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff8b2df3193d22614b38e1f7cff48827"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4VybuKeeajxSL-H1KN36yMgheS7UN6QumWHt4pKxEEvK0bJdlkiqJkdPAOuEU3tK8nB6JPJmE3oNumtjsiI4UDyR580pkTISQsDSIy6R6CRDcxK0FokN",
+    "selfAccess": false,
+    "sessionId": null
 }

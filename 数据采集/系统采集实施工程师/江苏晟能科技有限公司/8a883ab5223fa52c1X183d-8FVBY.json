@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qmURc8fsty3Dt-N1gymS25J8dKCOu7_155DYXGq-xxl6eSS_HN6030w9-L2Q3N5QRpLj0aSh2SJ-TmbPdEY-mblmOJgJcJOe639S0XBznPjygvBSnMit2hrUsG4TwQS-FA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8a883ab5223fa52c1X183d-8FVBY",
-      "encryptUserId": "3c2fd0ec721992be1HN82NS6GFA~",
-      "invalidStatus": false,
-      "jobName": "系统采集实施工程师",
-      "position": 100122,
-      "positionName": "数据采集",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责智能网关、PLC等工业设备组网及数据采集实施工作\n2、负责scada现场部署、设备通讯调试、远动调试、界面绘制，实现整个系统集成\n3、负责与设备厂商、第三方上位机或平台端进行数据点表的梳理和确认\n4、配合研发部对智能网关、scada软件进行功能和性能测试\n5、负责现场接口协调、技术指导和现场培训等工作\n6、完成公司或上级交办的其他工作任务。\n\n专业技能/能力：\n1、计算机软件、自动化相关专业专科及以上学历；\n2、1年以上设备联网或信息化集成项目的实施工作经验，熟悉Linux、网络、数据库等常用IT知识技能；\n3、熟悉通讯协议IEC-101/103/104，OPC UA、OPC、Modbus以及物联网协议MQTT等；\n4、会使用工业组态软件，对SCADA、DCS等控制系统熟悉且有过现场实施经验；\n5、了解主流品牌的PLC产品架构及应用；\n6、熟悉计量表计、传感器、逆变器、保护装置等设备的现场调试，熟悉RS232、RJ45、RS485等通讯接口特性；\n7、具备电力监控项目实施经验的优先，熟悉61850协议优先。\n8、计算机语言基础知识扎实，办公自动化知识\n9、做过数据监控系统、模拟监控、无线网络覆盖系统优先。\n教育、资格、经验：\n\n大专及以上学历、计算机、通信、自动化、电子工程等相关专业、1年以上软件测试工作经验或专业对口应届毕业生",
-      "encryptAddressId": "bb2bbbe67fc8c4a333xy3dq8EVE~",
-      "address": "无锡新吴区中国传感网国际创新园F10号楼1",
-      "longitude": 120.367446,
-      "latitude": 31.503541,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ea5d66c7741566a24671c637c88ccd3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/254ddac05c804c7f33ea9f9f22b3cb7b",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "物联网协议MQTT",
-        "Modbus",
-        "SCADA"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "凌先生",
-      "title": "人事经理",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=99bc1084079d02dejzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5TnHV05Np5vYxpS1O0mb01Z-r3KZZR4-jpVz4gMVoFo3QO-P-pRidKELaxDBNqx95LHArinaxf-F5OUNC3hyAlDHRG9yjVa5r7kZV2G7xc2LAN7kCOmAJd13E~&radius=15",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "江苏晟能科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cb08e3d833ebba0e1nN50t61FVo~",
-      "brandName": "江苏晟能科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733994792188,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江苏晟能科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江苏晟能科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "凌先生",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=99bc1084079d02dejzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5TnHV05Np5vYxpS1O0mb01Z-r3KZZR4-jpVz4gMVoFo3QO-P-pRidKELaxDBNqx95LHArinaxf-F5OUNC3hyAlDHRG9yjVa5r7kZV2G7xc2LAN7kCOmAJd13E~&radius=15",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1733994792188,
+        "brandName": "江苏晟能科技有限公司",
+        "customerBrandName": "江苏晟能科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cb08e3d833ebba0e1nN50t61FVo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡新吴区中国传感网国际创新园F10号楼1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "bb2bbbe67fc8c4a333xy3dq8EVE~",
+        "encryptId": "8a883ab5223fa52c1X183d-8FVBY",
+        "encryptUserId": "3c2fd0ec721992be1HN82NS6GFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统采集实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.503541,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.367446,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/254ddac05c804c7f33ea9f9f22b3cb7b",
+        "position": 100122,
+        "positionName": "数据采集",
+        "postDescription": "1、负责智能网关、PLC等工业设备组网及数据采集实施工作\n2、负责scada现场部署、设备通讯调试、远动调试、界面绘制，实现整个系统集成\n3、负责与设备厂商、第三方上位机或平台端进行数据点表的梳理和确认\n4、配合研发部对智能网关、scada软件进行功能和性能测试\n5、负责现场接口协调、技术指导和现场培训等工作\n6、完成公司或上级交办的其他工作任务。\n\n专业技能/能力：\n1、计算机软件、自动化相关专业专科及以上学历；\n2、1年以上设备联网或信息化集成项目的实施工作经验，熟悉Linux、网络、数据库等常用IT知识技能；\n3、熟悉通讯协议IEC-101/103/104，OPC UA、OPC、Modbus以及物联网协议MQTT等；\n4、会使用工业组态软件，对SCADA、DCS等控制系统熟悉且有过现场实施经验；\n5、了解主流品牌的PLC产品架构及应用；\n6、熟悉计量表计、传感器、逆变器、保护装置等设备的现场调试，熟悉RS232、RJ45、RS485等通讯接口特性；\n7、具备电力监控项目实施经验的优先，熟悉61850协议优先。\n8、计算机语言基础知识扎实，办公自动化知识\n9、做过数据监控系统、模拟监控、无线网络覆盖系统优先。\n教育、资格、经验：\n\n大专及以上学历、计算机、通信、自动化、电子工程等相关专业、1年以上软件测试工作经验或专业对口应届毕业生",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "物联网协议MQTT",
+            "Modbus",
+            "SCADA"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ea5d66c7741566a24671c637c88ccd3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qmURc8fsty3Dt-N1gymS25J8dKCOu7_155DYXGq-xxl6eSS_HN6030w9-L2Q3N5QRpLj0aSh2SJ-TmbPdEY-mblmOJgJcJOe639S0XBznPjygvBSnMit2hrUsG4TwQS-FA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

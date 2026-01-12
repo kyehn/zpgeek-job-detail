@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Gq3nCXqxVVwEM-p1UBKtvVTQIOlCu-LNxSfMKeIx1SnZYfw38yAHnwLqLakuaGgtyRrHt0JwmxpHymiwYkuWl3aVM-kHHHfNs7m1SJkijrEZ6-1EdK27",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "58950b8702540c2e1HFy0tq0GVFZ",
-      "encryptUserId": "25f97bc5c9e126860nVz3di_FFtQ",
-      "invalidStatus": false,
-      "jobName": "桌面硬件运维(DeskHelp)工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责桌面PC、工控机、打印机、网络设备、视频会议、PC周边等设备的日常维护；\n2.熟练判断故障原因并解决，熟练操作PC数据备份及重装系统，了解基础网络知识；\n3.熟练操作办公软件、了解国产操作系统。\n\n工作时间：调休排班制，上五休二。常日班8.00-17.00\n工作地点：苏州市妇幼保健院、苏州市立医院东区，就近分配\n\n其他要求：\n1.上班时间必须身着工作服，佩戴工作牌。\n2.节假日需根据医院要求值班。",
-      "encryptAddressId": "5b06532a83f14b161nZ70tm7ElBV",
-      "address": "苏州姑苏区苏州市立医院东区白塔西路16号",
-      "longitude": 120.626775,
-      "latitude": 31.318828,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29dbe8c1538116364d267d2c93fb9dbd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73282a8cbec0fb84ed9ae25524009657",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "桌面运维",
-        "运维",
-        "硬件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "科逸安川",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6229184bbe6059871nV_39y8EVA~",
-      "brandName": "科逸安川",
-      "logo": null,
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "全勤奖",
-        "五险一金"
-      ],
-      "activeTime": 1721707358192,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "科逸安川",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "科逸安川",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1721707358192,
+        "brandName": "科逸安川",
+        "customerBrandName": "科逸安川",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "6229184bbe6059871nV_39y8EVA~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "全勤奖",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州姑苏区苏州市立医院东区白塔西路16号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5b06532a83f14b161nZ70tm7ElBV",
+        "encryptId": "58950b8702540c2e1HFy0tq0GVFZ",
+        "encryptUserId": "25f97bc5c9e126860nVz3di_FFtQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "桌面硬件运维(DeskHelp)工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.318828,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.626775,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73282a8cbec0fb84ed9ae25524009657",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.负责桌面PC、工控机、打印机、网络设备、视频会议、PC周边等设备的日常维护；\n2.熟练判断故障原因并解决，熟练操作PC数据备份及重装系统，了解基础网络知识；\n3.熟练操作办公软件、了解国产操作系统。\n\n工作时间：调休排班制，上五休二。常日班8.00-17.00\n工作地点：苏州市妇幼保健院、苏州市立医院东区，就近分配\n\n其他要求：\n1.上班时间必须身着工作服，佩戴工作牌。\n2.节假日需根据医院要求值班。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "桌面运维",
+            "运维",
+            "硬件工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29dbe8c1538116364d267d2c93fb9dbd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Gq3nCXqxVVwEM-p1UBKtvVTQIOlCu-LNxSfMKeIx1SnZYfw38yAHnwLqLakuaGgtyRrHt0JwmxpHymiwYkuWl3aVM-kHHHfNs7m1SJkijrEZ6-1EdK27",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iGOp6MwR6zxUI--1a8CB51wZyy6MiXpmOcJe3YUd7QkS-OvNCNzzTfU8064qYfPhCcMglTl0arersN6bXXp52qzO7TdLZRJxsgBLdlK4HbLY4nCkA1Al",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fd2ab1a31f5421881Hx52920FVtR",
-      "encryptUserId": "3ebd4265e43b16960XF82ti8FFZU",
-      "invalidStatus": false,
-      "jobName": "自动化",
-      "position": 100803,
-      "positionName": "自动化",
-      "location": 101090900,
-      "locationName": "邢台",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉PE生产工艺 或者高分子材料专业的优先",
-      "encryptAddressId": "50c8319a7d82c7971nZ52dS-F1BXx4S2UP-d",
-      "address": "邢台隆尧县河北陶来集成科技有限公司兴业路3号",
-      "longitude": 114.793776,
-      "latitude": 37.380138,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240902/48ba41acc9cef1bf26464a0e15279d1be54b16e66f0d6eca6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240902/48ba41acc9cef1bf905f31ae04d8ba6fe6d32d40c91227ad6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "景先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240602/607f1f3d68754fd045d24a6675317f207433c072db0348eaa7e85a58ad831b766482105bfe4f00e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "河北万通管业有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e96417ed11b361df1HF43d26EVE~",
-      "brandName": "河北万通管业有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240902/7b5b554d84f9729c9ab48a5a9bdd6a2fe516f4380646746ca7e85a58ad831b766482105bfe4f00e5.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100916,
-      "industryName": "新材料",
-      "introduce": "公司在河北邢台 主要生产钢带复合管",
-      "labels": [
-        "包吃",
-        "全勤奖",
-        "保底工资",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1732464264688,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河北万通管业有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "河北万通管业有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "景先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240602/607f1f3d68754fd045d24a6675317f207433c072db0348eaa7e85a58ad831b766482105bfe4f00e_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1732464264688,
+        "brandName": "河北万通管业有限公司",
+        "customerBrandName": "河北万通管业有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "e96417ed11b361df1HF43d26EVE~",
+        "focusBrand": false,
+        "industry": 100916,
+        "industryName": "新材料",
+        "introduce": "公司在河北邢台 主要生产钢带复合管",
+        "labels": [
+            "包吃",
+            "全勤奖",
+            "保底工资",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240902/7b5b554d84f9729c9ab48a5a9bdd6a2fe516f4380646746ca7e85a58ad831b766482105bfe4f00e5.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "邢台隆尧县河北陶来集成科技有限公司兴业路3号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "50c8319a7d82c7971nZ52dS-F1BXx4S2UP-d",
+        "encryptId": "fd2ab1a31f5421881Hx52920FVtR",
+        "encryptUserId": "3ebd4265e43b16960XF82ti8FFZU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.380138,
+        "location": 101090900,
+        "locationName": "邢台",
+        "longitude": 114.793776,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240902/48ba41acc9cef1bf905f31ae04d8ba6fe6d32d40c91227ad6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100803,
+        "positionName": "自动化",
+        "postDescription": "熟悉PE生产工艺 或者高分子材料专业的优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "电子电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240902/48ba41acc9cef1bf26464a0e15279d1be54b16e66f0d6eca6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iGOp6MwR6zxUI--1a8CB51wZyy6MiXpmOcJe3YUd7QkS-OvNCNzzTfU8064qYfPhCcMglTl0arersN6bXXp52qzO7TdLZRJxsgBLdlK4HbLY4nCkA1Al",
+    "selfAccess": false,
+    "sessionId": null
 }

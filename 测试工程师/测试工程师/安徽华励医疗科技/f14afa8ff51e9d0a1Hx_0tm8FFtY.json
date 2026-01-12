@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RsIr-Wm5ntWIR-z1c3lX6zIAWtrRkwXZgKGPoXa-1w3nsB6Cdu6ZugbApr9XdmpSLoNAPx9Uy2k5lNUqRNWU0TcOzACk3alD5ewSWXwjwv9lsEdbxHA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f14afa8ff51e9d0a1Hx_0tm8FFtY",
-      "encryptUserId": "8933ff41c18f278b33Vz2Ni-ElE~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、参与需求评审，根据业务需求分析测试需求；\n2、负责测试用例设计，组织或参与测试用例评审，执行测试用例；\n3、负责提交缺陷报告、缺陷跟踪以及执行回归测试；\n任职要求：\n1、熟悉软件测试理论和方法，热爱并致力于软件测试工作，善于观察和对比\n2、学信网可查本科起；\n3、2-5年及以上项目测试经验，\n4、有银行个人贷款相关测试经验。",
-      "encryptAddressId": "2dcccfef35b5a5201nZ92tS7ElNXwoi6VvKa",
-      "address": "合肥包河区合肥滨湖办公服务区C号办公楼1",
-      "longitude": 117.283224,
-      "latitude": 31.747835,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e2303d30754ceec3f65770b37e50994f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/170e51ac4e6afea1065c569eecb19ee4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "储女士",
-      "title": "HRBP专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220905/607f1f3d68754fd081050607b42510a88f84e6e253ad38fff80319713c4fd260beab44287f6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "安徽华励医疗科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "663dbda1440012971HB43dW9GVA~",
-      "brandName": "安徽华励医疗科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731749842601,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安徽华励医疗科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安徽华励医疗科技",
+        "certificated": true,
+        "large": null,
+        "name": "储女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220905/607f1f3d68754fd081050607b42510a88f84e6e253ad38fff80319713c4fd260beab44287f6_b.jpg",
+        "title": "HRBP专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731749842601,
+        "brandName": "安徽华励医疗科技",
+        "customerBrandName": "安徽华励医疗科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "663dbda1440012971HB43dW9GVA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥包河区合肥滨湖办公服务区C号办公楼1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2dcccfef35b5a5201nZ92tS7ElNXwoi6VvKa",
+        "encryptId": "f14afa8ff51e9d0a1Hx_0tm8FFtY",
+        "encryptUserId": "8933ff41c18f278b33Vz2Ni-ElE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.747835,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.283224,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/170e51ac4e6afea1065c569eecb19ee4",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、参与需求评审，根据业务需求分析测试需求；\n2、负责测试用例设计，组织或参与测试用例评审，执行测试用例；\n3、负责提交缺陷报告、缺陷跟踪以及执行回归测试；\n任职要求：\n1、熟悉软件测试理论和方法，热爱并致力于软件测试工作，善于观察和对比\n2、学信网可查本科起；\n3、2-5年及以上项目测试经验，\n4、有银行个人贷款相关测试经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e2303d30754ceec3f65770b37e50994f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RsIr-Wm5ntWIR-z1c3lX6zIAWtrRkwXZgKGPoXa-1w3nsB6Cdu6ZugbApr9XdmpSLoNAPx9Uy2k5lNUqRNWU0TcOzACk3alD5ewSWXwjwv9lsEdbxHA~",
+    "selfAccess": false,
+    "sessionId": null
 }

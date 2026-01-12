@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TNbI6iak5Cszf-M1QhTgbMy8shK-0C70LG8OdCYHKh9gcPJA0aCA11GQIZLdt6jYxQovONbdjqCAm7QmzTABsUFA6A_-NtV79QFdSSI76UkZC8DLHLw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dd700480b203d61c1XR82dW0FVNY",
-      "encryptUserId": "74ad555aabeb89410XJ83tq_FVM~",
-      "invalidStatus": false,
-      "jobName": "运维技术员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101281100,
-      "locationName": "江门",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责物联网网关、地磁、PDA等硬件的安装、监控、管理和维护。\n2、负责停车软件平台与物联网系统的监控、管理和维护。\n3、负责系统中的参数配置、系统日志查询等。\n4、根据客服反馈的问题进行跟踪并及时处理，并做好问题记录。\n5、负责对停车管理收费系统运行状态的检测，发现故障立即处理及上报。\n6、完成公司领导以及上级部门交办的其他工作",
-      "encryptAddressId": "58d99e14153b2e8103152dm1FFQ~",
-      "address": "江门鹤山市金泰富综合楼(东南门)4楼",
-      "longitude": 112.978299,
-      "latitude": 22.758444,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed225244a54f30d68b6a99334154350d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ae387de555851e504c61ac4f4f168db",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Windows"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240409/607f1f3d68754fd0e623dbb60a32f5fc61577999adfda14e9f638c7a787cac1b68530bdb0f43155_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "鹤山云网",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4f06c652788930db1XR43t20EVM~",
-      "brandName": "鹤山云网",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101301,
-      "industryName": "政府/公共事业",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728333342640,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鹤山云网",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鹤山云网",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240409/607f1f3d68754fd0e623dbb60a32f5fc61577999adfda14e9f638c7a787cac1b68530bdb0f43155_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1728333342640,
+        "brandName": "鹤山云网",
+        "customerBrandName": "鹤山云网",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4f06c652788930db1XR43t20EVM~",
+        "focusBrand": false,
+        "industry": 101301,
+        "industryName": "政府/公共事业",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "江门鹤山市金泰富综合楼(东南门)4楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "58d99e14153b2e8103152dm1FFQ~",
+        "encryptId": "dd700480b203d61c1XR82dW0FVNY",
+        "encryptUserId": "74ad555aabeb89410XJ83tq_FVM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.758444,
+        "location": 101281100,
+        "locationName": "江门",
+        "longitude": 112.978299,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ae387de555851e504c61ac4f4f168db",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责物联网网关、地磁、PDA等硬件的安装、监控、管理和维护。\n2、负责停车软件平台与物联网系统的监控、管理和维护。\n3、负责系统中的参数配置、系统日志查询等。\n4、根据客服反馈的问题进行跟踪并及时处理，并做好问题记录。\n5、负责对停车管理收费系统运行状态的检测，发现故障立即处理及上报。\n6、完成公司领导以及上级部门交办的其他工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "Windows"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed225244a54f30d68b6a99334154350d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TNbI6iak5Cszf-M1QhTgbMy8shK-0C70LG8OdCYHKh9gcPJA0aCA11GQIZLdt6jYxQovONbdjqCAm7QmzTABsUFA6A_-NtV79QFdSSI76UkZC8DLHLw~",
+    "selfAccess": false,
+    "sessionId": null
 }

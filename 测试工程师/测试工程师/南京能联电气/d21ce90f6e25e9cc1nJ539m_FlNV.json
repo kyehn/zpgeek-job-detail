@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ENPs7KGrAyVwc--1orcLZZ9pFo_7SM_2PbHdiyRdTokCqsjAmaVVQn3pO9sSRNK13vunAN9nw7WhAKy2GBcUGq6KtUD0691yWoPA8I0kOBtPM8O-Stqu",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d21ce90f6e25e9cc1nJ539m_FlNV",
-      "encryptUserId": "8e65b08898662c560nd_3t29ElRQ",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1，负责对研发提交的FTU、DTU产品的测试（包括软件，硬件，整机功能），并跟进bug修改；\n2，负责FTU、DTU产品委外检测；\n3，能编写测试用例，测试完成后撰写测试报告。",
-      "encryptAddressId": "5b321abd1973e8ab1nN-3d-7GQ~~",
-      "address": "南京江宁区南京能联电气科技有限公司14栋2楼",
-      "longitude": 118.818589,
-      "latitude": 31.916938,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e79bf0ffb38dbd561a2e25abc24931f6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/68bb47b2bba29a358a91bc30f845555e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "FTU",
-        "DTU"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220322/607f1f3d68754fd0b62198cfdcabcd153608a4591f7f5ecebd63414baa0f18e0d8f521bf151_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "南京能联电气",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "dad2aeb70c9e918f1nN82NS4FFQ~",
-      "brandName": "南京能联电气",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210625/337d82b82756f7a063f44dee2ae57347bd63414baa0f18e0d8f521bf151152fc.png",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101205,
-      "industryName": "电力/热力/燃气/水利",
-      "introduce": "能联（Enet）取自能源互联网，主营FTU/DTU业务，2020/2021年南京市瞪羚企业。快速发展中的公司提供你想要的发展机会和上升空间。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "员工旅游",
-        "节日福利"
-      ],
-      "activeTime": 1725365282573,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京能联电气",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京能联电气",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220322/607f1f3d68754fd0b62198cfdcabcd153608a4591f7f5ecebd63414baa0f18e0d8f521bf151_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725365282573,
+        "brandName": "南京能联电气",
+        "customerBrandName": "南京能联电气",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "dad2aeb70c9e918f1nN82NS4FFQ~",
+        "focusBrand": false,
+        "industry": 101205,
+        "industryName": "电力/热力/燃气/水利",
+        "introduce": "能联（Enet）取自能源互联网，主营FTU/DTU业务，2020/2021年南京市瞪羚企业。快速发展中的公司提供你想要的发展机会和上升空间。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "员工旅游",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210625/337d82b82756f7a063f44dee2ae57347bd63414baa0f18e0d8f521bf151152fc.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区南京能联电气科技有限公司14栋2楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5b321abd1973e8ab1nN-3d-7GQ~~",
+        "encryptId": "d21ce90f6e25e9cc1nJ539m_FlNV",
+        "encryptUserId": "8e65b08898662c560nd_3t29ElRQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.916938,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.818589,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/68bb47b2bba29a358a91bc30f845555e",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1，负责对研发提交的FTU、DTU产品的测试（包括软件，硬件，整机功能），并跟进bug修改；\n2，负责FTU、DTU产品委外检测；\n3，能编写测试用例，测试完成后撰写测试报告。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K·13薪",
+        "showSkills": [
+            "FTU",
+            "DTU"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e79bf0ffb38dbd561a2e25abc24931f6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ENPs7KGrAyVwc--1orcLZZ9pFo_7SM_2PbHdiyRdTokCqsjAmaVVQn3pO9sSRNK13vunAN9nw7WhAKy2GBcUGq6KtUD0691yWoPA8I0kOBtPM8O-Stqu",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "aQp4pgRjDizZv-j1NkB4JLh01cahZQOh3YeH4YbKa4mSlTOeMrxghCdzkQP53MakNld7PhMJhCRdQL4K2bDoyPCctrMU5csWBaWm6r7M8MsqKRxLqXM3",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "72c637d8db7062cb1n153dq8GVdW",
-      "encryptUserId": "99c8971c67c89d760ndy3d-_ElpZ",
-      "invalidStatus": false,
-      "jobName": "项目实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101191100,
-      "locationName": "常州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "根据公司发展需要，现招聘一下职位。\n1.招质量工程师一名。\n2.招电机工艺工程师一名。\n3.招车间经理一名。\n以上职位要求大专以上学历，有新能源电机定子总成生产经验1年以上，工作地在常州，工作勤奋，认真负责具有较强的团队合作精神，能够独挡一面！\r\n\r\n加分项\r\n有以下行业经验：机械设备/机电/重工",
-      "encryptAddressId": "09fc43494140d8fa1Xd929i8FlM~",
-      "address": "常州武进区常州亚兴数控设备有限公司2号楼2层",
-      "longitude": 120.035043,
-      "latitude": 31.718898,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2ff576f7b58cfbf0510e1ae6390105cc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfaa1a17693f3fa2c923f260e0b678f9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "白先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211028/607f1f3d68754fd00d53e3f9fbf8d01d2ba3c1b105ad0f49b9a7df51d9ec0f2e478c35e77e8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "凌跃机电科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e08ce1f6a11be1081n170t68E1s~",
-      "brandName": "凌跃机电科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729677481367,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "凌跃机电科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "凌跃机电科技",
+        "certificated": true,
+        "large": null,
+        "name": "白先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211028/607f1f3d68754fd00d53e3f9fbf8d01d2ba3c1b105ad0f49b9a7df51d9ec0f2e478c35e77e8_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729677481367,
+        "brandName": "凌跃机电科技",
+        "customerBrandName": "凌跃机电科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e08ce1f6a11be1081n170t68E1s~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "常州武进区常州亚兴数控设备有限公司2号楼2层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "09fc43494140d8fa1Xd929i8FlM~",
+        "encryptId": "72c637d8db7062cb1n153dq8GVdW",
+        "encryptUserId": "99c8971c67c89d760ndy3d-_ElpZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "项目实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.718898,
+        "location": 101191100,
+        "locationName": "常州",
+        "longitude": 120.035043,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfaa1a17693f3fa2c923f260e0b678f9",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "根据公司发展需要，现招聘一下职位。\n1.招质量工程师一名。\n2.招电机工艺工程师一名。\n3.招车间经理一名。\n以上职位要求大专以上学历，有新能源电机定子总成生产经验1年以上，工作地在常州，工作勤奋，认真负责具有较强的团队合作精神，能够独挡一面！\r\n\r\n加分项\r\n有以下行业经验：机械设备/机电/重工",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "实施工程师/顾问"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2ff576f7b58cfbf0510e1ae6390105cc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "aQp4pgRjDizZv-j1NkB4JLh01cahZQOh3YeH4YbKa4mSlTOeMrxghCdzkQP53MakNld7PhMJhCRdQL4K2bDoyPCctrMU5csWBaWm6r7M8MsqKRxLqXM3",
+    "selfAccess": false,
+    "sessionId": null
 }

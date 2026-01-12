@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "93xjxkh7fEpnD-21e1_FDFsDmP0YPO7RPUyQAwLrKxOgTEG0Hu2GwPszOCpYLWIQT2cBOdm8sW3wOC_Wvsplywy9Vug085sdAJhJh2r8ioKx9zI5KaW8",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fa6998ea8b56c0a31Xx_0tS_F1FZ",
-      "encryptUserId": "9ce721fb7be226d81nR4292-FVBV",
-      "invalidStatus": false,
-      "jobName": "中级java程序员",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、本科及以上学历，计算机软件或相关专业；\n  \n2、2年及以上使用JAVA开发的经验，JAVA基础扎实，熟悉IO、多线程、集合等基础框架；\n  \n3、熟悉如Spring,Struts,iBATIS等常用框架；\n  \n4、熟悉HTML5,CSS3,JavaScript,Ajax,jQuery等Web前端技术，熟练掌握jQuery、AngularJS优先考虑；\n  \n5、熟悉SQL，了解Oracle、MySQL等；\n  \n6、了解Linux下的常用命令；\n  \n7、了解高并发、高性能的分布式系统的设计及应用、调优者优先；\n  \n8、熟悉分布式、缓存、消息、搜索等机制者优先；\n\n9、学习能力强，适应能力好，有强烈的责任心，具备耐心/细心的品质；",
-      "encryptAddressId": "cbb75959d46a874d33x-09y-FFo~",
-      "address": "广州天河区金鹏大厦5层/526",
-      "longitude": 113.372304,
-      "latitude": 23.123164,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc07ae7ca376bcd4de0e8d9f7fc70d2a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1ce6db3d899d9bb5c1d4ef57526c72b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Dubbo",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "俞先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200402/07406dd60fc92ef790e45b49fbd401474d508e2ed318334b130de3d6d04_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "广州瑞云网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "488c48e6a69afcf71XJz29-9GFM~",
-      "brandName": "广州瑞云网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "【瑞云网络科技有限公司】2012年5月在广州成立，2016年获得广东省高新技术企业称号，是全国领先的电商软件服务供应商。我们以客户体验为服务之本，精益求精的打造高质量的产品和服务，目前【瑞云】的产品已拥有超过100万的用户，公司连续十年被淘宝网评选为优质服务商，获得阿里巴巴服务市场官方认证为“战略 (SI) 系统集成商”。\n\n公司地址：广州市天河区中山大道建工路11号五楼526、530号\n深圳分公司地址：深圳市 南山区 粤海街道 高新区社区高新南一道006号TCL大厦A508",
-      "labels": [
-        "带薪年假",
-        "定期体检",
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1731311664612,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州瑞云网络科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州瑞云网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "俞先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200402/07406dd60fc92ef790e45b49fbd401474d508e2ed318334b130de3d6d04_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731311664612,
+        "brandName": "广州瑞云网络科技",
+        "customerBrandName": "广州瑞云网络科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "488c48e6a69afcf71XJz29-9GFM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "【瑞云网络科技有限公司】2012年5月在广州成立，2016年获得广东省高新技术企业称号，是全国领先的电商软件服务供应商。我们以客户体验为服务之本，精益求精的打造高质量的产品和服务，目前【瑞云】的产品已拥有超过100万的用户，公司连续十年被淘宝网评选为优质服务商，获得阿里巴巴服务市场官方认证为“战略 (SI) 系统集成商”。\n\n公司地址：广州市天河区中山大道建工路11号五楼526、530号\n深圳分公司地址：深圳市 南山区 粤海街道 高新区社区高新南一道006号TCL大厦A508",
+        "labels": [
+            "带薪年假",
+            "定期体检",
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区金鹏大厦5层/526",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cbb75959d46a874d33x-09y-FFo~",
+        "encryptId": "fa6998ea8b56c0a31Xx_0tS_F1FZ",
+        "encryptUserId": "9ce721fb7be226d81nR4292-FVBV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "中级java程序员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.123164,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.372304,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1ce6db3d899d9bb5c1d4ef57526c72b",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、本科及以上学历，计算机软件或相关专业；\n  \n2、2年及以上使用JAVA开发的经验，JAVA基础扎实，熟悉IO、多线程、集合等基础框架；\n  \n3、熟悉如Spring,Struts,iBATIS等常用框架；\n  \n4、熟悉HTML5,CSS3,JavaScript,Ajax,jQuery等Web前端技术，熟练掌握jQuery、AngularJS优先考虑；\n  \n5、熟悉SQL，了解Oracle、MySQL等；\n  \n6、了解Linux下的常用命令；\n  \n7、了解高并发、高性能的分布式系统的设计及应用、调优者优先；\n  \n8、熟悉分布式、缓存、消息、搜索等机制者优先；\n\n9、学习能力强，适应能力好，有强烈的责任心，具备耐心/细心的品质；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Dubbo",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc07ae7ca376bcd4de0e8d9f7fc70d2a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "93xjxkh7fEpnD-21e1_FDFsDmP0YPO7RPUyQAwLrKxOgTEG0Hu2GwPszOCpYLWIQT2cBOdm8sW3wOC_Wvsplywy9Vug085sdAJhJh2r8ioKx9zI5KaW8",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "OUBqMvUYXHRkV-j14eFHDk5egwSWMIXSlN5qYwUEUGjpJGoZUQm9uThKCmDxwW454CauVAGf1wva9ct9vjd5LvBD6TPUXYHmZgpuxj6WMyOBsEqvSw7GTZlFDAH58n5Vr2aQTI-0KzH-ntI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2fcfc73a2aae10301X140tq4GVVY",
-      "encryptUserId": "09e6f0f275dcb6d10XR-3NW-FlRX",
-      "invalidStatus": false,
-      "jobName": "软件售后技术支持",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101180200,
-      "locationName": "安阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "主要负责零售、餐饮、酒店、娱乐行业管理软件的安装、实施、培训、售后。",
-      "encryptAddressId": "5c340ce7f4496a613nN-2tu-ElA~",
-      "address": "安阳北关区金豪商务5A",
-      "longitude": 114.35466,
-      "latitude": 36.110339,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf9fdf877a790df907b27c8709578b80376bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf6cbde35f631043743264358c7ccd0f536bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "有零售、餐饮行业经验优先",
-        "ERP/OA/CRM系统",
-        "其他类型SaaS/PaaS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "任先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230620/607f1f3d68754fd0e4c82c1eeb22e633c94c27ba2b6059a70773f4993526843d8aeef158f1d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "易数网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d3ecad75aded85dd1Xx40t-8EFU~",
-      "brandName": "易数网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230809/7b5b554d84f9729cab8c71e90cafcb69a474a6858006e4849aceac8725f4c85fca6704018219a794.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "交通补助",
-        "有无线网",
-        "全勤奖",
-        "加班补助",
-        "底薪加提成",
-        "绩效奖金"
-      ],
-      "activeTime": 1727925939930,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "易数网络科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "易数网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "任先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230620/607f1f3d68754fd0e4c82c1eeb22e633c94c27ba2b6059a70773f4993526843d8aeef158f1d_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727925939930,
+        "brandName": "易数网络科技",
+        "customerBrandName": "易数网络科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d3ecad75aded85dd1Xx40t-8EFU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "交通补助",
+            "有无线网",
+            "全勤奖",
+            "加班补助",
+            "底薪加提成",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230809/7b5b554d84f9729cab8c71e90cafcb69a474a6858006e4849aceac8725f4c85fca6704018219a794.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "安阳北关区金豪商务5A",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5c340ce7f4496a613nN-2tu-ElA~",
+        "encryptId": "2fcfc73a2aae10301X140tq4GVVY",
+        "encryptUserId": "09e6f0f275dcb6d10XR-3NW-FlRX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件售后技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.110339,
+        "location": 101180200,
+        "locationName": "安阳",
+        "longitude": 114.35466,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf6cbde35f631043743264358c7ccd0f536bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "主要负责零售、餐饮、酒店、娱乐行业管理软件的安装、实施、培训、售后。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "有零售、餐饮行业经验优先",
+            "ERP/OA/CRM系统",
+            "其他类型SaaS/PaaS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf9fdf877a790df907b27c8709578b80376bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "OUBqMvUYXHRkV-j14eFHDk5egwSWMIXSlN5qYwUEUGjpJGoZUQm9uThKCmDxwW454CauVAGf1wva9ct9vjd5LvBD6TPUXYHmZgpuxj6WMyOBsEqvSw7GTZlFDAH58n5Vr2aQTI-0KzH-ntI~",
+    "selfAccess": false,
+    "sessionId": null
 }

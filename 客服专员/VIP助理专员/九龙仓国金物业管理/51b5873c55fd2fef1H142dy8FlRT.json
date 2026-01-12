@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Sebipgju69KqJ--1LlGgUgGBRDcVAokdj6te2OzQH7LGnrHwlhjmYoM1igDcFi4WzZvKFXZVExvlpDsU0cdGmgPh4q8vgXcyEpQmIxqBnD7niwdCh3rVqhS94_znjJM6cw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "51b5873c55fd2fef1H142dy8FlRT",
-      "encryptUserId": "c428b81d0152b2bc03N-2tW0E1M~",
-      "invalidStatus": false,
-      "jobName": "VIP助理专员",
-      "position": 130305,
-      "positionName": "客服专员",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责各项日常VIP客户接待服务工作，对到访VIP提供下午茶服务；\n2. 负责商场各项系统操作，每日相关报表及工作交接；\n3. 协助商场贵宾室运营管理，提高VIP会员满意度；\n4. 配合支持公司或上级实施相关VIP活动。\n\n任职要求：\n1. 大专以上学历，25岁至35岁，普通话标准，2年以上大型商业项目、五星级酒店、高端会所同岗位工作经验优先，能进行电脑操作及MS Office等办公软件；\n2. 反应灵敏，具备亲和力、较强的服务意识和沟通表达、应变能力，能主动积极为客人解决问题；\n3. 需要配合工作，进行轮班工时制。",
-      "encryptAddressId": "5b0d1e0b78ccb07f33V92Ni6FFA~",
-      "address": "成都锦江区成都IFS一号办公楼9楼",
-      "longitude": 104.082028,
-      "latitude": 30.6559,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a926927247c5d12665d2f72ffabd157",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/633a523fd8a92920a80cc71b1947ac5d",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "接待处/咨询台客服"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "罗女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "九龙仓国金物业管理",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7d01780ba2e92ddd1XR73dq8FVs~",
-      "brandName": "九龙仓国金物业管理",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220207/7bf6f160950405e96b57a084a018d355093df270f9dc0af4a5540c5b49342d2c28a03e5326dbbc35.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100707,
-      "industryName": "物业管理",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734947189379,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "九龙仓国金物业管理",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "九龙仓国金物业管理",
+        "certificated": true,
+        "large": null,
+        "name": "罗女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734947189379,
+        "brandName": "九龙仓国金物业管理",
+        "customerBrandName": "九龙仓国金物业管理",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7d01780ba2e92ddd1XR73dq8FVs~",
+        "focusBrand": false,
+        "industry": 100707,
+        "industryName": "物业管理",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220207/7bf6f160950405e96b57a084a018d355093df270f9dc0af4a5540c5b49342d2c28a03e5326dbbc35.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都锦江区成都IFS一号办公楼9楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "5b0d1e0b78ccb07f33V92Ni6FFA~",
+        "encryptId": "51b5873c55fd2fef1H142dy8FlRT",
+        "encryptUserId": "c428b81d0152b2bc03N-2tW0E1M~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "VIP助理专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.6559,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.082028,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/633a523fd8a92920a80cc71b1947ac5d",
+        "position": 130305,
+        "positionName": "客服专员",
+        "postDescription": "岗位职责：\n1. 负责各项日常VIP客户接待服务工作，对到访VIP提供下午茶服务；\n2. 负责商场各项系统操作，每日相关报表及工作交接；\n3. 协助商场贵宾室运营管理，提高VIP会员满意度；\n4. 配合支持公司或上级实施相关VIP活动。\n\n任职要求：\n1. 大专以上学历，25岁至35岁，普通话标准，2年以上大型商业项目、五星级酒店、高端会所同岗位工作经验优先，能进行电脑操作及MS Office等办公软件；\n2. 反应灵敏，具备亲和力、较强的服务意识和沟通表达、应变能力，能主动积极为客人解决问题；\n3. 需要配合工作，进行轮班工时制。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "接待处/咨询台客服"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a926927247c5d12665d2f72ffabd157"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Sebipgju69KqJ--1LlGgUgGBRDcVAokdj6te2OzQH7LGnrHwlhjmYoM1igDcFi4WzZvKFXZVExvlpDsU0cdGmgPh4q8vgXcyEpQmIxqBnD7niwdCh3rVqhS94_znjJM6cw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

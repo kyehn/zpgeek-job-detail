@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-ToPGXF1-q54X-u1dHqJaYQF9cGNHI7UIBSoUAz89EPKVPdn9iSPz5u8SI55dTw3SkgznIpJeaI7TMP9qadjVVH4K2sKpsf2PcQIoXbeV_JKCx40Fw85",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a3d90e0cbbebf0371nJ529u7EltV",
-      "encryptUserId": "d03f59a755fc452d0nd50t2-FFdT",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "1、本科及以上学历，计算机软件相关专业。\n2、熟练掌握Java、C/C++等主流开发语言的一种。有WiFi和BT技术驱动开发和调试经验者优先；有HTML5 代码开发经验者优先。",
-      "encryptAddressId": "946e674b5337d1c91Hd80tS5Ew~~",
-      "address": "深圳龙岗区格泰隆·智谷综合楼B701a",
-      "longitude": 114.084151,
-      "latitude": 22.624071,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d11dedba8f660efaf1319d2d41b3009f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6290f3a234c955c6165861b28d3c8aff",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "HTML"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "弘廷尚品",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a3041b952115a8331nd909i0GVU~",
-      "brandName": "弘廷尚品",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211008/7b5b554d84f9729ccca4ca3460e8ac8dc9c8d0defc73a768e3312b0f7e99795283393c956bf61f23.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "深圳弘廷尚品科技有限公司是一家致力于积极出海发展，开辟海外市场的跨境电商企业。自成立以来，以客户需求为主导，制造业为依托，自主开发新品，提供个性化、超预期的购物体验是我们的使命并坚定把中国的优质商品，优质供应链带到全世界。\n公司始终坚持以人才为本、荟萃业界精英，年轻、活力、实干是我们团队的代名词，做事高效、团结互助、说话直接是我们团队的行为风格。在这里，有轻松的工作氛围；有快速的成长空间；有诱人的薪酬收入；有不断完善的福利待遇；更有无限的舞台空间！我们坚信，未来五年，通过努力实现企业快速、稳定地发展，成为跨境行业耀眼的明星。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "通讯补贴",
-        "交通补助"
-      ],
-      "activeTime": 1724001066964,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "弘廷尚品",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "弘廷尚品",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724001066964,
+        "brandName": "弘廷尚品",
+        "customerBrandName": "弘廷尚品",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "a3041b952115a8331nd909i0GVU~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "深圳弘廷尚品科技有限公司是一家致力于积极出海发展，开辟海外市场的跨境电商企业。自成立以来，以客户需求为主导，制造业为依托，自主开发新品，提供个性化、超预期的购物体验是我们的使命并坚定把中国的优质商品，优质供应链带到全世界。\n公司始终坚持以人才为本、荟萃业界精英，年轻、活力、实干是我们团队的代名词，做事高效、团结互助、说话直接是我们团队的行为风格。在这里，有轻松的工作氛围；有快速的成长空间；有诱人的薪酬收入；有不断完善的福利待遇；更有无限的舞台空间！我们坚信，未来五年，通过努力实现企业快速、稳定地发展，成为跨境行业耀眼的明星。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "通讯补贴",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211008/7b5b554d84f9729ccca4ca3460e8ac8dc9c8d0defc73a768e3312b0f7e99795283393c956bf61f23.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区格泰隆·智谷综合楼B701a",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "946e674b5337d1c91Hd80tS5Ew~~",
+        "encryptId": "a3d90e0cbbebf0371nJ529u7EltV",
+        "encryptUserId": "d03f59a755fc452d0nd50t2-FFdT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.624071,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.084151,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6290f3a234c955c6165861b28d3c8aff",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、本科及以上学历，计算机软件相关专业。\n2、熟练掌握Java、C/C++等主流开发语言的一种。有WiFi和BT技术驱动开发和调试经验者优先；有HTML5 代码开发经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K·14薪",
+        "showSkills": [
+            "HTML"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d11dedba8f660efaf1319d2d41b3009f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-ToPGXF1-q54X-u1dHqJaYQF9cGNHI7UIBSoUAz89EPKVPdn9iSPz5u8SI55dTw3SkgznIpJeaI7TMP9qadjVVH4K2sKpsf2PcQIoXbeV_JKCx40Fw85",
+    "selfAccess": false,
+    "sessionId": null
 }

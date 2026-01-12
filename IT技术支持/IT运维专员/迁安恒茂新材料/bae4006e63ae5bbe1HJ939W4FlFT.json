@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JyBnnFFnl0B3U-E19T3Q04QfxwkBenlziCm_1x7iLLSJwKOxSIA7-Zaqo222mkdtHiKlE9tEM7tg9UfDY4EW-OTOhjxgyhMAMbB0IRgVX3VI_e6Mmeyh",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bae4006e63ae5bbe1HJ939W4FlFT",
-      "encryptUserId": "8da81af4c5038fe00XF709W-ElRX",
-      "invalidStatus": false,
-      "jobName": "it运维专员",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101090500,
-      "locationName": "唐山",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、电脑、打印机、监控等网络设备基本故障的判断和维护\n2、熟悉中型以上的网络的管理规划、网络安全架构的规划。\n3、应用服务器、数据库服务器基础软件安装配置，熟练运维常见数据库的一种（Mssql、mysql、oracle）\n4、熟练运维任意一种常见的ERP管理软件（用友、金蝶、浪潮、SAP） \n5、有一定软件开发管理能力（任意一种：Java、C++、php.c#)",
-      "encryptAddressId": "bc0ff7d8069dde8633Vy0ti6GVRSwoi9WPs~",
-      "address": "唐山迁安市迁安恒茂新材料有限公司建设路273号",
-      "longitude": 118.74192,
-      "latitude": 40.029312,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240409/48ba41acc9cef1bf95c50de981243b30aab7c23d33991e7b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240409/48ba41acc9cef1bfe705befa545b1f20da33ebca0265c0dd6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "企业内部IT技术支持",
-        "Java",
-        "C++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "迁安恒茂新材料",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d07d8b141d27898c1HB63N28E1E~",
-      "brandName": "迁安恒茂新材料",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100904,
-      "industryName": "印刷/包装/造纸",
-      "introduce": "公司成立于1985年\n\n办公地址在*东部工业园区新厂\n\n主要经营*光伏玻璃防霉包装\n\n发展至今已取得：国家各项专利",
-      "labels": [
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1725374643648,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迁安恒茂新材料",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "迁安恒茂新材料",
+        "certificated": true,
+        "large": null,
+        "name": "胡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725374643648,
+        "brandName": "迁安恒茂新材料",
+        "customerBrandName": "迁安恒茂新材料",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "d07d8b141d27898c1HB63N28E1E~",
+        "focusBrand": false,
+        "industry": 100904,
+        "industryName": "印刷/包装/造纸",
+        "introduce": "公司成立于1985年\n\n办公地址在*东部工业园区新厂\n\n主要经营*光伏玻璃防霉包装\n\n发展至今已取得：国家各项专利",
+        "labels": [
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "唐山迁安市迁安恒茂新材料有限公司建设路273号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bc0ff7d8069dde8633Vy0ti6GVRSwoi9WPs~",
+        "encryptId": "bae4006e63ae5bbe1HJ939W4FlFT",
+        "encryptUserId": "8da81af4c5038fe00XF709W-ElRX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "it运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.029312,
+        "location": 101090500,
+        "locationName": "唐山",
+        "longitude": 118.74192,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240409/48ba41acc9cef1bfe705befa545b1f20da33ebca0265c0dd6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "1、电脑、打印机、监控等网络设备基本故障的判断和维护\n2、熟悉中型以上的网络的管理规划、网络安全架构的规划。\n3、应用服务器、数据库服务器基础软件安装配置，熟练运维常见数据库的一种（Mssql、mysql、oracle）\n4、熟练运维任意一种常见的ERP管理软件（用友、金蝶、浪潮、SAP） \n5、有一定软件开发管理能力（任意一种：Java、C++、php.c#)",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "企业内部IT技术支持",
+            "Java",
+            "C++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240409/48ba41acc9cef1bf95c50de981243b30aab7c23d33991e7b6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JyBnnFFnl0B3U-E19T3Q04QfxwkBenlziCm_1x7iLLSJwKOxSIA7-Zaqo222mkdtHiKlE9tEM7tg9UfDY4EW-OTOhjxgyhMAMbB0IRgVX3VI_e6Mmeyh",
+    "selfAccess": false,
+    "sessionId": null
 }

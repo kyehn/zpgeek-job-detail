@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6glLDEZnaL-0Z-a1wmkLm-Zv1Zbe0I6gSw85v2EGZVCzZI6MYRg9CshmLk9teianM78z83CRMnT19x3x0pxyOtfAy6gPhi-zudzWUhcS3_OWNzGwzsOE",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "14ab1f14f6841b081XJ_3N29FlJS",
-      "encryptUserId": "946e1662d32f8a510nNy0967FldW",
-      "invalidStatus": false,
-      "jobName": "自动化装配工",
-      "position": 300623,
-      "positionName": "组装工",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容:自动化设备组装，接线。\n工作要求:会机械零件组装，会电气接线，        会    使用电洛铁，会用万用表。",
-      "encryptAddressId": "652c0965593a7a100H183di0EVE~",
-      "address": "深圳宝安区上丰科技园A栋3楼",
-      "longitude": 113.921882,
-      "latitude": 22.686264,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/148d1596944a61fe76e379f051ba3f9c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a45bf8a1504ae59d0761a66df2533c47",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "大型仪器组装",
-        "包住",
-        "不偏好穿无尘服",
-        "月结",
-        "1-3年经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230209/607f1f3d68754fd0f2929370f7d1cf3b1ad2c08ff86870b9f17848c91b77bd5cf5f266f1dae_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "金稳盈",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5e9a40d0b91e75361XBz3du6F1E~",
-      "brandName": "金稳盈",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727696259036,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金稳盈",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金稳盈",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230209/607f1f3d68754fd0f2929370f7d1cf3b1ad2c08ff86870b9f17848c91b77bd5cf5f266f1dae_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727696259036,
+        "brandName": "金稳盈",
+        "customerBrandName": "金稳盈",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5e9a40d0b91e75361XBz3du6F1E~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区上丰科技园A栋3楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "652c0965593a7a100H183di0EVE~",
+        "encryptId": "14ab1f14f6841b081XJ_3N29FlJS",
+        "encryptUserId": "946e1662d32f8a510nNy0967FldW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化装配工",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.686264,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.921882,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a45bf8a1504ae59d0761a66df2533c47",
+        "position": 300623,
+        "positionName": "组装工",
+        "postDescription": "工作内容:自动化设备组装，接线。\n工作要求:会机械零件组装，会电气接线，        会    使用电洛铁，会用万用表。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "大型仪器组装",
+            "包住",
+            "不偏好穿无尘服",
+            "月结",
+            "1-3年经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/148d1596944a61fe76e379f051ba3f9c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6glLDEZnaL-0Z-a1wmkLm-Zv1Zbe0I6gSw85v2EGZVCzZI6MYRg9CshmLk9teianM78z83CRMnT19x3x0pxyOtfAy6gPhi-zudzWUhcS3_OWNzGwzsOE",
+    "selfAccess": false,
+    "sessionId": null
 }

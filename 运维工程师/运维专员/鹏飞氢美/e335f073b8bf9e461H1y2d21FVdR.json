@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QZwojRWJOlHfd-C1ptEH0VOGR3TsXSxSXlBvoyIFZrEjSlrNDoZak0CL18i5rqyxQnDLoO4HxhQdVk14ik-szcuHprRZQql42A0DEXwBeugXlqwimCwPL2TDc-KcbYY_rUb1zb6vMRKe2ku25iq57XHl23gFyg9Bdjvtu3rNJNLCg1Tu_fQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e335f073b8bf9e461H1y2d21FVdR",
-      "encryptUserId": "133219afd6ae49400nF53tm7EVZW",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101101100,
-      "locationName": "吕梁",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.业务系统管理；\n2.业务系统车队上线及维护；\n3.线上积分商城维护；\n4.站点零售系统问题追踪解决；\n5.数据查询支持；\n6.平台对接业务系统上线。\n任职要求：\n1.专科及以上学历；\n2.工作经验：运维1-3年工作经验优先；\n3.专业技能：严格的系统逻辑，能熟练掌握办公软件。",
-      "encryptAddressId": "1c144d0038fa40641nV429W5ElVXwI6_UPyX",
-      "address": "吕梁孝义市鹏飞总部9005",
-      "longitude": 111.814439,
-      "latitude": 37.152676,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bfb90861ed33914e9fb3205c3f2e1f76c26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bff0b80b26b4ba3866f3d1bc4813148f0c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "姚女士",
-      "title": "人力BP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230624/607f1f3d68754fd0fe5a2199dde00aabb04d68cde68be032ae72c22ee1a0748a232910d0fea_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "鹏飞氢美",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bd7f0986a53c01fc1HF-2dm9GFo~",
-      "brandName": "鹏飞氢美",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101212,
-      "industryName": "其他新能源",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731287724774,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鹏飞氢美",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鹏飞氢美",
+        "certificated": true,
+        "large": null,
+        "name": "姚女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230624/607f1f3d68754fd0fe5a2199dde00aabb04d68cde68be032ae72c22ee1a0748a232910d0fea_b.jpg",
+        "title": "人力BP"
+    },
+    "brandComInfo": {
+        "activeTime": 1731287724774,
+        "brandName": "鹏飞氢美",
+        "customerBrandName": "鹏飞氢美",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bd7f0986a53c01fc1HF-2dm9GFo~",
+        "focusBrand": false,
+        "industry": 101212,
+        "industryName": "其他新能源",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "吕梁孝义市鹏飞总部9005",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1c144d0038fa40641nV429W5ElVXwI6_UPyX",
+        "encryptId": "e335f073b8bf9e461H1y2d21FVdR",
+        "encryptUserId": "133219afd6ae49400nF53tm7EVZW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 37.152676,
+        "location": 101101100,
+        "locationName": "吕梁",
+        "longitude": 111.814439,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bff0b80b26b4ba3866f3d1bc4813148f0c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.业务系统管理；\n2.业务系统车队上线及维护；\n3.线上积分商城维护；\n4.站点零售系统问题追踪解决；\n5.数据查询支持；\n6.平台对接业务系统上线。\n任职要求：\n1.专科及以上学历；\n2.工作经验：运维1-3年工作经验优先；\n3.专业技能：严格的系统逻辑，能熟练掌握办公软件。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bfb90861ed33914e9fb3205c3f2e1f76c26bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QZwojRWJOlHfd-C1ptEH0VOGR3TsXSxSXlBvoyIFZrEjSlrNDoZak0CL18i5rqyxQnDLoO4HxhQdVk14ik-szcuHprRZQql42A0DEXwBeugXlqwimCwPL2TDc-KcbYY_rUb1zb6vMRKe2ku25iq57XHl23gFyg9Bdjvtu3rNJNLCg1Tu_fQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ldYbHjZXqqGG9-r1KrN3Lm7dzuef-aLSY2pAlvTWV1j56wC3axRl1ZcMjhqzepv0WtUJvXLz8Lq-xZhbXjHi3GDKsNDXqNdytH62zemsr9BawsGK",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b0224334720676671nx439i-EFtV",
-      "encryptUserId": "7b9323f036f497341XN639y7ElA~",
-      "invalidStatus": false,
-      "jobName": "小程序开发工程师，PHP",
-      "position": 100103,
-      "positionName": "PHP",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "1. 微信小程序端的项目开发。\n2. 微信小程序的开发架构和性能优化。\n3.优化前后台及平台体验和页面响应速度，并保证兼容性和执行效率；\n4.负责微信小程序产品的持续迭代工作。\n\n岗位要求：\n1、有1年或以上相关微信程序开发工作经验; \n2、有1年以上H5，CSS3、javascript开发经验，了解 HTTP 协议以及浏览器原理； \n3、熟悉微信小程序特有的开发规范、流程、接口组件、验证授权等，能独立开发微信小程序应用； \n4、精通Php后端开发；\n5、沟通与协调能力强，工作细心、有条理； \n6、为人正直、信实，服从安排，自律性强，有责任感；",
-      "encryptAddressId": "eeeb8084179fdba41nN929q1FFs~",
-      "address": "深圳宝安区文化潮汕博览园248",
-      "longitude": 113.86596,
-      "latitude": 22.5757,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ed15cecc1e213b2a48774a018af41b3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04ebf9ea211f71f7c3c305144912d60a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "HTML",
-        "CSS",
-        "网络协议",
-        "小程序",
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郑先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "扉凡互娱",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a53dafd2e251f41b0Xd90tq8",
-      "brandName": "扉凡互娱",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727380392289,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "扉凡互娱",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "扉凡互娱",
+        "certificated": true,
+        "large": null,
+        "name": "郑先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727380392289,
+        "brandName": "扉凡互娱",
+        "customerBrandName": "扉凡互娱",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a53dafd2e251f41b0Xd90tq8",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区文化潮汕博览园248",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "eeeb8084179fdba41nN929q1FFs~",
+        "encryptId": "b0224334720676671nx439i-EFtV",
+        "encryptUserId": "7b9323f036f497341XN639y7ElA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "小程序开发工程师，PHP",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.5757,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.86596,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04ebf9ea211f71f7c3c305144912d60a",
+        "position": 100103,
+        "positionName": "PHP",
+        "postDescription": "1. 微信小程序端的项目开发。\n2. 微信小程序的开发架构和性能优化。\n3.优化前后台及平台体验和页面响应速度，并保证兼容性和执行效率；\n4.负责微信小程序产品的持续迭代工作。\n\n岗位要求：\n1、有1年或以上相关微信程序开发工作经验; \n2、有1年以上H5，CSS3、javascript开发经验，了解 HTTP 协议以及浏览器原理； \n3、熟悉微信小程序特有的开发规范、流程、接口组件、验证授权等，能独立开发微信小程序应用； \n4、精通Php后端开发；\n5、沟通与协调能力强，工作细心、有条理； \n6、为人正直、信实，服从安排，自律性强，有责任感；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "HTML",
+            "CSS",
+            "网络协议",
+            "小程序",
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ed15cecc1e213b2a48774a018af41b3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ldYbHjZXqqGG9-r1KrN3Lm7dzuef-aLSY2pAlvTWV1j56wC3axRl1ZcMjhqzepv0WtUJvXLz8Lq-xZhbXjHi3GDKsNDXqNdytH62zemsr9BawsGK",
+    "selfAccess": false,
+    "sessionId": null
 }

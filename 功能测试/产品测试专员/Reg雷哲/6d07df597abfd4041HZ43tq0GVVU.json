@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "q3mBBzmLMjJal-V1wT8AQPQCt8bvn00tGOvGHAzSmpteOQ-G3JbbsBVPWxa71Si7vbfCpfk9np7v-nfftLP884hs2jS77a4t7_8LfrvPl3nFQ8oKUbEP08pe1ZV1HRNLG2mbxxazYp2t",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6d07df597abfd4041HZ43tq0GVVU",
-      "encryptUserId": "5df5abebf2f90bda0nR429q9EFZX",
-      "invalidStatus": false,
-      "jobName": "产品测试专员",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101280800,
-      "locationName": "佛山",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责协助工程师做产品样机;\n2.整机性能测试，记录测试数据，分析异常问题;\n3.制作工艺流程。",
-      "encryptAddressId": "ce909d429718aab71HJ72t66FVo~",
-      "address": "佛山顺德区顺德智富园工业城13栋303",
-      "longitude": 113.19788,
-      "latitude": 22.769062,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b396f693b624bdfd4fec7570bf2387f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98c51dccd536f6b8502a6f5d1d37c1fc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "人事代理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "Reg雷哲",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9fa3a739eef714110HJ72ti-",
-      "brandName": "Reg雷哲",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170720/c31a64e8b2c6176453bc5ac6ece9a912c3980abd4b0dc3d7b804747816bf1784.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "Reg雷哲起源于德国国王之名，准确的阐释了Reg雷哲高端的产品定位和品牌定位。\n \nReg 雷哲----以德国先进的国际设计、研发、制造理念，为全球用户提供高品质家庭电器产品。其主要产品包括环保集成灶、果蔬消毒集成水槽、集成淋浴屏、热水器、电蒸烤箱、抽油烟机、燃气灶等家用电器产品。\n \n目前，Reg 雷哲在中国大陆顺德、中山、东莞等地设有生产基地，其产品全面采用Reg 雷哲所拥有的高端技术及研究成果，并遵循其严格的品质管理标准，为中国消费者提供高品质、高技术含量的家庭电器产品。\n\n凭借多年在智能技术和产品硬件方面的积累，Reg 雷哲开始进入整体智能厨房、卫浴及智能家居领域，Reg 雷哲的目标是为用户提供更高端、更实用的智能家居生活整体解决方案。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "年终奖",
-        "股票期权",
-        "员工旅游",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1731551907119,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "Reg雷哲",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "Reg雷哲",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人事代理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731551907119,
+        "brandName": "Reg雷哲",
+        "customerBrandName": "Reg雷哲",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9fa3a739eef714110HJ72ti-",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "Reg雷哲起源于德国国王之名，准确的阐释了Reg雷哲高端的产品定位和品牌定位。\n \nReg 雷哲----以德国先进的国际设计、研发、制造理念，为全球用户提供高品质家庭电器产品。其主要产品包括环保集成灶、果蔬消毒集成水槽、集成淋浴屏、热水器、电蒸烤箱、抽油烟机、燃气灶等家用电器产品。\n \n目前，Reg 雷哲在中国大陆顺德、中山、东莞等地设有生产基地，其产品全面采用Reg 雷哲所拥有的高端技术及研究成果，并遵循其严格的品质管理标准，为中国消费者提供高品质、高技术含量的家庭电器产品。\n\n凭借多年在智能技术和产品硬件方面的积累，Reg 雷哲开始进入整体智能厨房、卫浴及智能家居领域，Reg 雷哲的目标是为用户提供更高端、更实用的智能家居生活整体解决方案。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "年终奖",
+            "股票期权",
+            "员工旅游",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170720/c31a64e8b2c6176453bc5ac6ece9a912c3980abd4b0dc3d7b804747816bf1784.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "佛山顺德区顺德智富园工业城13栋303",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ce909d429718aab71HJ72t66FVo~",
+        "encryptId": "6d07df597abfd4041HZ43tq0GVVU",
+        "encryptUserId": "5df5abebf2f90bda0nR429q9EFZX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "产品测试专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.769062,
+        "location": 101280800,
+        "locationName": "佛山",
+        "longitude": 113.19788,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98c51dccd536f6b8502a6f5d1d37c1fc",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "1.负责协助工程师做产品样机;\n2.整机性能测试，记录测试数据，分析异常问题;\n3.制作工艺流程。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "功能测试经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b396f693b624bdfd4fec7570bf2387f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "q3mBBzmLMjJal-V1wT8AQPQCt8bvn00tGOvGHAzSmpteOQ-G3JbbsBVPWxa71Si7vbfCpfk9np7v-nfftLP884hs2jS77a4t7_8LfrvPl3nFQ8oKUbEP08pe1ZV1HRNLG2mbxxazYp2t",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YZRpqkSU9xH3d-l1yYkw_q19kf_15vEm8ca5si6Zvo9fSUJE0tO8kqF2OaGIcqDw-NZfmQDsrjH3NVc_supXliTAVPQXHM057A5Wp4w7af5t2waOkfqlvcy_pjo3mNG-osAw8bGa-jkgJQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "51bd9b2a810778491XV639-6FFpV",
-      "encryptUserId": "00ba7a89c55dd8dd1n18096_EVM~",
-      "invalidStatus": false,
-      "jobName": "执行经纪人",
-      "position": 170605,
-      "positionName": "经纪人/星探",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责签约艺人和代理艺人的推荐、包装、推广和管理，处理演艺经纪事务；\n2、组织规划演艺人员的发展方向，策划、实施艺人培养计划；\n3、对外联系市场活动和演出等出场业务，计划并安排日程，发布通告，并完成帐务结算；\n4、建立并维护良好的客户关系，维护公司形象；\n5、协调沟通客户和艺人的关系，解决纠纷等相关问题；\n6、顺应影视文娱行业为公司储备新生力量，开发潜力新人。\n（有行业资源，带过艺人经验者优先，有能力者薪资可面议）",
-      "encryptAddressId": "8c2098bd5c7271241nV73tW7FlFZw4m6WPKX",
-      "address": "北京朝阳区西店村A区31号楼",
-      "longitude": 116.520409,
-      "latitude": 39.904774,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf57268422f238be16cd7c09a0c5d496736bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf7228e6a2160f7f9748cbaf2fe92f0b4d6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "星探",
-        "经纪人助理",
-        "执行经纪人",
-        "艺人经纪人"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "彭女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220224/607f1f3d68754fd0237480618244d24940fde712402118de3aaffec21e9b34a0d516f1fa49b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "有个莱萌",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "47e39d03c2d631041nx52ty8Flo~",
-      "brandName": "有个莱萌",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100104,
-      "industryName": "文化艺术/娱乐",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730322257458,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "有个莱萌",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "有个莱萌",
+        "certificated": true,
+        "large": null,
+        "name": "彭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220224/607f1f3d68754fd0237480618244d24940fde712402118de3aaffec21e9b34a0d516f1fa49b_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730322257458,
+        "brandName": "有个莱萌",
+        "customerBrandName": "有个莱萌",
+        "customerBrandStageName": "",
+        "encryptBrandId": "47e39d03c2d631041nx52ty8Flo~",
+        "focusBrand": false,
+        "industry": 100104,
+        "industryName": "文化艺术/娱乐",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区西店村A区31号楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8c2098bd5c7271241nV73tW7FlFZw4m6WPKX",
+        "encryptId": "51bd9b2a810778491XV639-6FFpV",
+        "encryptUserId": "00ba7a89c55dd8dd1n18096_EVM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "执行经纪人",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.904774,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.520409,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf7228e6a2160f7f9748cbaf2fe92f0b4d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 170605,
+        "positionName": "经纪人/星探",
+        "postDescription": "1、负责签约艺人和代理艺人的推荐、包装、推广和管理，处理演艺经纪事务；\n2、组织规划演艺人员的发展方向，策划、实施艺人培养计划；\n3、对外联系市场活动和演出等出场业务，计划并安排日程，发布通告，并完成帐务结算；\n4、建立并维护良好的客户关系，维护公司形象；\n5、协调沟通客户和艺人的关系，解决纠纷等相关问题；\n6、顺应影视文娱行业为公司储备新生力量，开发潜力新人。\n（有行业资源，带过艺人经验者优先，有能力者薪资可面议）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "星探",
+            "经纪人助理",
+            "执行经纪人",
+            "艺人经纪人"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf57268422f238be16cd7c09a0c5d496736bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YZRpqkSU9xH3d-l1yYkw_q19kf_15vEm8ca5si6Zvo9fSUJE0tO8kqF2OaGIcqDw-NZfmQDsrjH3NVc_supXliTAVPQXHM057A5Wp4w7af5t2waOkfqlvcy_pjo3mNG-osAw8bGa-jkgJQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

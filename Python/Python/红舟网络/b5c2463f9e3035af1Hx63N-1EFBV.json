@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "O9XFTEzMtzON0-n1np6Oip1_EPZ7BTxKIKinG3n8zqpePT4K-HzPNcpUI96_C40e1-x5PL1tGwU_rTpUHQQfB_4ieYGfMD4lMHGot4MNchkhP5DBp9z7",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b5c2463f9e3035af1Hx63N-1EFBV",
-      "encryptUserId": "51ea3998b4c656e60n1z2N65E1RY",
-      "invalidStatus": false,
-      "jobName": "Python",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "15-16K",
-      "payTypeDesc": null,
-      "postDescription": "1.开发程序\n2.修复漏洞\n3.维护程序运行",
-      "encryptAddressId": "5ff648850201679b3nZ73929GFE~",
-      "address": "广州海珠区UP智谷c1233",
-      "longitude": 113.329677,
-      "latitude": 23.08706,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bfa0877f297944175b64e53462ea0994d06bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bfc3ec9f4e13e7e63d2079702ea10824a56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PyTorch",
-        "MySQL",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "洪先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "红舟网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b3aaa80e39e28b841XN_09m1FlQ~",
-      "brandName": "红舟网络",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727266741232,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "红舟网络",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "红舟网络",
+        "certificated": true,
+        "large": null,
+        "name": "洪先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1727266741232,
+        "brandName": "红舟网络",
+        "customerBrandName": "红舟网络",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "b3aaa80e39e28b841XN_09m1FlQ~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州海珠区UP智谷c1233",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5ff648850201679b3nZ73929GFE~",
+        "encryptId": "b5c2463f9e3035af1Hx63N-1EFBV",
+        "encryptUserId": "51ea3998b4c656e60n1z2N65E1RY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Python",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.08706,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.329677,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bfc3ec9f4e13e7e63d2079702ea10824a56bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "1.开发程序\n2.修复漏洞\n3.维护程序运行",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "15-16K",
+        "showSkills": [
+            "PyTorch",
+            "MySQL",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bfa0877f297944175b64e53462ea0994d06bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "O9XFTEzMtzON0-n1np6Oip1_EPZ7BTxKIKinG3n8zqpePT4K-HzPNcpUI96_C40e1-x5PL1tGwU_rTpUHQQfB_4ieYGfMD4lMHGot4MNchkhP5DBp9z7",
+    "selfAccess": false,
+    "sessionId": null
 }

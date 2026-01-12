@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3uZDhXTJOY-yo-w1QIX6hRNBhAkdbBv2qtGbv7FkJom31PYVJQ0fnUdok6utBKSrPEA-rKpwhixk6q-xSdJn2KphWZ4fTTvLdzmSZK7rLzEQlB11viTdnJO15zG5gyP8nEaOydckJQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5f4b3eeec8e6f25e1nx83t-0FlI~",
-      "encryptUserId": "ad1aa545f13453e11nZ42ti8FVM~",
-      "invalidStatus": false,
-      "jobName": "助理工程师",
-      "position": 120602,
-      "positionName": "工业设计",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\r\n1、配合结构工程师完成相关结构设计工作；\r\n2、完成上级领导交办的其它工作；\r\n\r\n任职资格：\r\n1、机械设计及相关专业毕业；\r\n2、熟练使用Proe、SOILDWORKS等3D设计软件；\r\n3、具有良好的心理素质和敬业精神及团队合作精神，具有较强的自学能力；",
-      "encryptAddressId": "6ded56df5f59c6bb0HN73Nu0FQ~~",
-      "address": "武汉洪山区保利·心语别墅91-2号",
-      "longitude": 114.323301,
-      "latitude": 30.479692,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1fca15f7f34169219897f29049a759e9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d7270dd3c40a8bf7adcfd1f5b74df1e6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "工业设计",
-        "结构设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210313/cd3d89ce7c426c3b3c5485e7557da4350c7ede9a0b7bb0f1e225d361c97_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "一诺设计",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4c97ca1003aa413d1HV609W7",
-      "brandName": "一诺设计",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170315/aa795cd815e4d774f4f45f004e67e4fec8d8a9dc3274ba445de3594193699305.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "一诺设计是一家面向全国的新锐型工业设计公司，拥有多名具有丰富设计经验并在业内极具口碑的高级设计师、结构工程师及生产咨询顾问。通过在设计产业链上强大的综合实力，为客户提供设计研究、外观设计、结构设计、供应链管理和设计咨询等一站式产品解决方案。\r\n       我们坚持“以用户为中心、以市场为导向、以持续发展为原则”的宗旨，结合数年跨行业领域工作实战经验和全产业链平台的共享资源，持续为客户提供优秀的创新设计服务，实现设计、生产和销售的完美融合，为客户创造最大产品附加值，满足消费者用户体验和客户经济回报。\r\n       不论是设计研究、外观设计、结构设计、供应链管理还是设计咨询，一诺设计都可以根据客户的需求灵活的为其提供所需要的专业服务。依托强大的供应商资源整合能力，专业的设计能力和快速定制化生产能力，对产品的研发、原材料采购、生产制造、市场营销等供应链环节进行优势整合，持续为客户提供个性化的开发、设计、制造等整合创新设计服务。",
-      "labels": [],
-      "activeTime": 1725600182809,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "一诺设计",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "一诺设计",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210313/cd3d89ce7c426c3b3c5485e7557da4350c7ede9a0b7bb0f1e225d361c97_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725600182809,
+        "brandName": "一诺设计",
+        "customerBrandName": "一诺设计",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "4c97ca1003aa413d1HV609W7",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "一诺设计是一家面向全国的新锐型工业设计公司，拥有多名具有丰富设计经验并在业内极具口碑的高级设计师、结构工程师及生产咨询顾问。通过在设计产业链上强大的综合实力，为客户提供设计研究、外观设计、结构设计、供应链管理和设计咨询等一站式产品解决方案。\r\n       我们坚持“以用户为中心、以市场为导向、以持续发展为原则”的宗旨，结合数年跨行业领域工作实战经验和全产业链平台的共享资源，持续为客户提供优秀的创新设计服务，实现设计、生产和销售的完美融合，为客户创造最大产品附加值，满足消费者用户体验和客户经济回报。\r\n       不论是设计研究、外观设计、结构设计、供应链管理还是设计咨询，一诺设计都可以根据客户的需求灵活的为其提供所需要的专业服务。依托强大的供应商资源整合能力，专业的设计能力和快速定制化生产能力，对产品的研发、原材料采购、生产制造、市场营销等供应链环节进行优势整合，持续为客户提供个性化的开发、设计、制造等整合创新设计服务。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170315/aa795cd815e4d774f4f45f004e67e4fec8d8a9dc3274ba445de3594193699305.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区保利·心语别墅91-2号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6ded56df5f59c6bb0HN73Nu0FQ~~",
+        "encryptId": "5f4b3eeec8e6f25e1nx83t-0FlI~",
+        "encryptUserId": "ad1aa545f13453e11nZ42ti8FVM~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "助理工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.479692,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.323301,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d7270dd3c40a8bf7adcfd1f5b74df1e6",
+        "position": 120602,
+        "positionName": "工业设计",
+        "postDescription": "岗位职责：\r\n1、配合结构工程师完成相关结构设计工作；\r\n2、完成上级领导交办的其它工作；\r\n\r\n任职资格：\r\n1、机械设计及相关专业毕业；\r\n2、熟练使用Proe、SOILDWORKS等3D设计软件；\r\n3、具有良好的心理素质和敬业精神及团队合作精神，具有较强的自学能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "工业设计",
+            "结构设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1fca15f7f34169219897f29049a759e9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3uZDhXTJOY-yo-w1QIX6hRNBhAkdbBv2qtGbv7FkJom31PYVJQ0fnUdok6utBKSrPEA-rKpwhixk6q-xSdJn2KphWZ4fTTvLdzmSZK7rLzEQlB11viTdnJO15zG5gyP8nEaOydckJQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

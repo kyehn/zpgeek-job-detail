@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "amAq2bzEd22qY-Z1uDZzhD_LEdsCforwDpEKcwrUG7coTJCga_yRRR2uTxIj8i2WyjiQ2RNxuLq4AwUbc6FjPKXWEI3UGZiaEwcVu11VFzJnuwDxy9vMITU1A4G2KgXpfZzp21ZA5pM1DtM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8c27230ed083f3e51nB93Nu8EVBV",
-      "encryptUserId": "0da182aef04b69da0nZ93tm9ElpZ",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1，嵌入式手持式设备功能测试，2，完成测试报告和问题发现以及跟踪，3，协助软件和硬件发现问题和验证问题，4，需要有一定硬件焊接动手能力。",
-      "encryptAddressId": "c6ac0710d88f8ab51XZ72d-7FFc~",
-      "address": "上海闵行区优房商务中心-接送点401室",
-      "longitude": 121.342951,
-      "latitude": 31.145437,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/571dfd22ce9c520e0901da4182a76396",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ef0bb0fe09df38fe3bfed905a492092",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统测试",
-        "硬件测试",
-        "移动端测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "谢先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210414/08604a7077bc10320ab582372c51b005777ecdcc05f8d1102fea7e7631b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "上海协童智能科技...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1de943de1459a8691nF83Ny9FVQ~",
-      "brandName": "上海协童智能科技...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725466843743,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海协童智能科技...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海协童智能科技...",
+        "certificated": true,
+        "large": null,
+        "name": "谢先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210414/08604a7077bc10320ab582372c51b005777ecdcc05f8d1102fea7e7631b_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725466843743,
+        "brandName": "上海协童智能科技...",
+        "customerBrandName": "上海协童智能科技...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1de943de1459a8691nF83Ny9FVQ~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海闵行区优房商务中心-接送点401室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c6ac0710d88f8ab51XZ72d-7FFc~",
+        "encryptId": "8c27230ed083f3e51nB93Nu8EVBV",
+        "encryptUserId": "0da182aef04b69da0nZ93tm9ElpZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.145437,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.342951,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ef0bb0fe09df38fe3bfed905a492092",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "1，嵌入式手持式设备功能测试，2，完成测试报告和问题发现以及跟踪，3，协助软件和硬件发现问题和验证问题，4，需要有一定硬件焊接动手能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K·13薪",
+        "showSkills": [
+            "系统测试",
+            "硬件测试",
+            "移动端测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/571dfd22ce9c520e0901da4182a76396"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "amAq2bzEd22qY-Z1uDZzhD_LEdsCforwDpEKcwrUG7coTJCga_yRRR2uTxIj8i2WyjiQ2RNxuLq4AwUbc6FjPKXWEI3UGZiaEwcVu11VFzJnuwDxy9vMITU1A4G2KgXpfZzp21ZA5pM1DtM~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eytp300cibcqW-T1Acxz9PbVddIr4rRrhCY1V4C0Bo9laQy634TgwhXEdJttsxZkNKRpBUz0DMPeT2wV5GyuoO6dB7LOxNOkelvJ74Gno-PEzGAf",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "880a02186634b6ce03V93d27FFE~",
-      "encryptUserId": "3a08681c10a160240nJ_29m9GFE~",
-      "invalidStatus": false,
-      "jobName": "软件实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101221000,
-      "locationName": "滁州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "金蝶软件实施:客户现场软件安装与培训，解决客户软件应用问题。",
-      "encryptAddressId": "6ef559c890a727311nV42t-6FFc~",
-      "address": "滁州琅琊区广场家园7栋B座1606室",
-      "longitude": 118.317118,
-      "latitude": 32.298836,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d562f0f1af253148b98df42cefb1bb32",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8367e8ba338050a9f31033004fb0c00a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施",
-        "数据库",
-        "项目管理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190307/4646b25006fda5b6431f234d746f0287d36fc61cdaa30cd03e54201417f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "安信软件有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8fa96553d9e3f96f03V_2tm7Ew~~",
-      "brandName": "安信软件有限公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722532977718,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安信软件有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安信软件有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190307/4646b25006fda5b6431f234d746f0287d36fc61cdaa30cd03e54201417f_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722532977718,
+        "brandName": "安信软件有限公司",
+        "customerBrandName": "安信软件有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8fa96553d9e3f96f03V_2tm7Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "滁州琅琊区广场家园7栋B座1606室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6ef559c890a727311nV42t-6FFc~",
+        "encryptId": "880a02186634b6ce03V93d27FFE~",
+        "encryptUserId": "3a08681c10a160240nJ_29m9GFE~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.298836,
+        "location": 101221000,
+        "locationName": "滁州",
+        "longitude": 118.317118,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8367e8ba338050a9f31033004fb0c00a",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "金蝶软件实施:客户现场软件安装与培训，解决客户软件应用问题。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "实施",
+            "数据库",
+            "项目管理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d562f0f1af253148b98df42cefb1bb32"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eytp300cibcqW-T1Acxz9PbVddIr4rRrhCY1V4C0Bo9laQy634TgwhXEdJttsxZkNKRpBUz0DMPeT2wV5GyuoO6dB7LOxNOkelvJ74Gno-PEzGAf",
+    "selfAccess": false,
+    "sessionId": null
 }

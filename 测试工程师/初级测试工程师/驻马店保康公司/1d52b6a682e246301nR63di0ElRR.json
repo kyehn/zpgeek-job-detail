@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VQtZ59Tj9XVFe-d1ayYcDnxBKMbyW93gI8DFvS-NMihXuf6VUXR1Eo4NbdfMM7ZDxqv153ndKpOInmt6BE-06OpNZPlG4AdhVa864ypHaqb7DF6LCgkF9CfUAVL4mlfoLniMrDiSEhet2Rg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d52b6a682e246301nR63di0ElRR",
-      "encryptUserId": "0ab75a7ecfd0eeab0nR709-6ElBV",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101181600,
-      "locationName": "驻马店",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "检测医院放射设备（DR丶CT）等",
-      "encryptAddressId": "9397482fbba5100c1HF43Nu4ElM~",
-      "address": "驻马店驿城区民康大药房(文祥路店)驻马店市文祥路65号",
-      "longitude": 114.012917,
-      "latitude": 32.989386,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6376e780b2a2aabbdc5531e83d52cbb0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/241c5a9e2a0a8c5ae4abbfe8864bf1d5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "于先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "驻马店保康公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "08ff30b93fc32d041nVz2Ni5F1I~",
-      "brandName": "驻马店保康公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100606,
-      "industryName": "检测/认证",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖"
-      ],
-      "activeTime": 1727924564919,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "驻马店保康公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "驻马店保康公司",
+        "certificated": true,
+        "large": null,
+        "name": "于先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727924564919,
+        "brandName": "驻马店保康公司",
+        "customerBrandName": "驻马店保康公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "08ff30b93fc32d041nVz2Ni5F1I~",
+        "focusBrand": false,
+        "industry": 100606,
+        "industryName": "检测/认证",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "驻马店驿城区民康大药房(文祥路店)驻马店市文祥路65号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9397482fbba5100c1HF43Nu4ElM~",
+        "encryptId": "1d52b6a682e246301nR63di0ElRR",
+        "encryptUserId": "0ab75a7ecfd0eeab0nR709-6ElBV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.989386,
+        "location": 101181600,
+        "locationName": "驻马店",
+        "longitude": 114.012917,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/241c5a9e2a0a8c5ae4abbfe8864bf1d5",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "检测医院放射设备（DR丶CT）等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "性能测试",
+            "测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6376e780b2a2aabbdc5531e83d52cbb0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VQtZ59Tj9XVFe-d1ayYcDnxBKMbyW93gI8DFvS-NMihXuf6VUXR1Eo4NbdfMM7ZDxqv153ndKpOInmt6BE-06OpNZPlG4AdhVa864ypHaqb7DF6LCgkF9CfUAVL4mlfoLniMrDiSEhet2Rg~",
+    "selfAccess": false,
+    "sessionId": null
 }

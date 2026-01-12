@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xtGissUiaS_jV-A1-bhICugIRg38_gc0KaO66je-eBQ5viLz4EvGm2Nh9iREa5llmxE9NXB8jQsjJMj7GZ39l-tRbBmozhC_nYKY70QyLBc9feX6jpKTOukNo-uQprXKR4g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4a5e373bfbf38d6c03V72tW7FlRQ",
-      "encryptUserId": "f567c0a3aee60d3f0nxy0tm1ElJZ",
-      "invalidStatus": false,
-      "jobName": "linux运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.熟悉计算机系统和网络基础知识，包括操作系统（如Linux、Windows等）的原理和操作，以及网络协议、IP地址、子网划分等网络基础知识；\r\n2.熟悉网络协议，熟悉常见的路由器、交换机、网闸、防火墙配置及维护；\r\n3.熟悉主流摄像头、nvr录像机的国标、社标等不同协议配置及调试；\r\n4.对视频监控系统相关的视频流协议了解，有wiresahrk抓包分析能力；\r\n5.熟练使用常见linux命令，可快速查找服务系统相关日志，熟悉ELK日志分析工具使用；\r\n6.有丰富的应用系统故障排查经验；\r\n7.有良好的团队沟通及跨团队协调能力；",
-      "encryptAddressId": "10a17cdda6a900e61nBy0ty0FFZUxYq8UvOc",
-      "address": "广州海珠区意合沙拉简餐(合景科盛广场店)2楼",
-      "longitude": 113.375726,
-      "latitude": 23.066073,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231121/48ba41acc9cef1bf9bb67ada35f08ca83bfe1cfe716189906bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231121/48ba41acc9cef1bf8368976f46aa5fe4f3fe61c126f757d16bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "部署"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "曾女士",
-      "title": "项目助理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "大成印象",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c2ba0dc0f44097301XZ53NW1ElQ~",
-      "brandName": "大成印象",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230204/7bf6f160950405e9e04497049eb85cb8477c364b6deb6af15f85bdf68da344876be533e23b995629.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "主营业务是软件研发、智能产品研发、系统集成、 在地产、金融、电信、智慧校园、智慧社区、智慧园区、智慧楼宇等领域提供全栈式解决方案。公司拥有自主产权的人脸识别、姿态识别、物体识别和ORC识别等核心技术， 具有核心技术创新、产品开发、上下游资源整合、行业需求发掘和客户支持与服务能力，为众多行业赋能",
-      "labels": [
-        "节日福利",
-        "带薪年假",
-        "加班补助",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1736500939413,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "大成印象",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "大成印象",
+        "certificated": true,
+        "large": null,
+        "name": "曾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "项目助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1736500939413,
+        "brandName": "大成印象",
+        "customerBrandName": "大成印象",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "c2ba0dc0f44097301XZ53NW1ElQ~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "主营业务是软件研发、智能产品研发、系统集成、 在地产、金融、电信、智慧校园、智慧社区、智慧园区、智慧楼宇等领域提供全栈式解决方案。公司拥有自主产权的人脸识别、姿态识别、物体识别和ORC识别等核心技术， 具有核心技术创新、产品开发、上下游资源整合、行业需求发掘和客户支持与服务能力，为众多行业赋能",
+        "labels": [
+            "节日福利",
+            "带薪年假",
+            "加班补助",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230204/7bf6f160950405e9e04497049eb85cb8477c364b6deb6af15f85bdf68da344876be533e23b995629.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州海珠区意合沙拉简餐(合景科盛广场店)2楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "10a17cdda6a900e61nBy0ty0FFZUxYq8UvOc",
+        "encryptId": "4a5e373bfbf38d6c03V72tW7FlRQ",
+        "encryptUserId": "f567c0a3aee60d3f0nxy0tm1ElJZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "linux运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.066073,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.375726,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231121/48ba41acc9cef1bf8368976f46aa5fe4f3fe61c126f757d16bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.熟悉计算机系统和网络基础知识，包括操作系统（如Linux、Windows等）的原理和操作，以及网络协议、IP地址、子网划分等网络基础知识；\r\n2.熟悉网络协议，熟悉常见的路由器、交换机、网闸、防火墙配置及维护；\r\n3.熟悉主流摄像头、nvr录像机的国标、社标等不同协议配置及调试；\r\n4.对视频监控系统相关的视频流协议了解，有wiresahrk抓包分析能力；\r\n5.熟练使用常见linux命令，可快速查找服务系统相关日志，熟悉ELK日志分析工具使用；\r\n6.有丰富的应用系统故障排查经验；\r\n7.有良好的团队沟通及跨团队协调能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "部署"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231121/48ba41acc9cef1bf9bb67ada35f08ca83bfe1cfe716189906bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xtGissUiaS_jV-A1-bhICugIRg38_gc0KaO66je-eBQ5viLz4EvGm2Nh9iREa5llmxE9NXB8jQsjJMj7GZ39l-tRbBmozhC_nYKY70QyLBc9feX6jpKTOukNo-uQprXKR4g~",
+    "selfAccess": false,
+    "sessionId": null
 }

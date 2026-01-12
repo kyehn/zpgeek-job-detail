@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "cYMKEQa4lXX0P-V1mrCcGoteHv9QwuXqKDzENF1Bkn5XHWk0g0MUPnZm-1u3y7kMAmNZ_9e1SzUBooFLTDm4x46GJez6_oy56kCTgXxQC-MZJKz30szRKR3LdXC8bJwkmZ5FMQPDbFdj",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "40cdede5e9e694de1XB60tm8ElBU",
-      "encryptUserId": "392adea857682f8203Z90ti0FFY~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101250400,
-      "locationName": "衡阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.制定软件测试计划、编写测试报告、设计测试用例；\n2.搭建测试环境，执行测试用例；\n3.根据bug不同种类进行归类总结，提交bug报告；\n4.输出文档（测试报告/测试方案/产品使用手册）；\n5.参与需求评审及测试bug讨论；\n6.参与产品实施支持（包括试用）；\n任职要求：\n1.大专以上，物联网、计算机、软件工程等相关专业毕业；\n2.1年以上产品测试经验为佳；\n3.善于总结与发现，沟通性与执行力强；",
-      "encryptAddressId": "ad30411e478bf6171nx72tu-FVU~",
-      "address": "衡阳蒸湘区湖南悦奥网络技术有限公司24号",
-      "longitude": 112.563491,
-      "latitude": 26.895717,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d6489a1aae639f3b9d5c55b8e8d938e0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41d99d1af647d5284fa6b87af588720b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "悦奥网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "47bce0746b3cee2433Zz09u-FQ~~",
-      "brandName": "悦奥网络",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "湖南悦奥网络技术有限公司是一家从事互联网本地生活平台服务的公司，行业内一颗冉冉升起的新星，欢迎有想法、有能力、有抱负的你加入这个温暖的大家庭，我们一起努力、携手共进，创造辉煌篇章。",
-      "labels": [
-        "带薪年假",
-        "员工旅游",
-        "包吃",
-        "节日福利"
-      ],
-      "activeTime": 1725465981892,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "悦奥网络",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "悦奥网络",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725465981892,
+        "brandName": "悦奥网络",
+        "customerBrandName": "悦奥网络",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "47bce0746b3cee2433Zz09u-FQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "湖南悦奥网络技术有限公司是一家从事互联网本地生活平台服务的公司，行业内一颗冉冉升起的新星，欢迎有想法、有能力、有抱负的你加入这个温暖的大家庭，我们一起努力、携手共进，创造辉煌篇章。",
+        "labels": [
+            "带薪年假",
+            "员工旅游",
+            "包吃",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "衡阳蒸湘区湖南悦奥网络技术有限公司24号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ad30411e478bf6171nx72tu-FVU~",
+        "encryptId": "40cdede5e9e694de1XB60tm8ElBU",
+        "encryptUserId": "392adea857682f8203Z90ti0FFY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.895717,
+        "location": 101250400,
+        "locationName": "衡阳",
+        "longitude": 112.563491,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41d99d1af647d5284fa6b87af588720b",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.制定软件测试计划、编写测试报告、设计测试用例；\n2.搭建测试环境，执行测试用例；\n3.根据bug不同种类进行归类总结，提交bug报告；\n4.输出文档（测试报告/测试方案/产品使用手册）；\n5.参与需求评审及测试bug讨论；\n6.参与产品实施支持（包括试用）；\n任职要求：\n1.大专以上，物联网、计算机、软件工程等相关专业毕业；\n2.1年以上产品测试经验为佳；\n3.善于总结与发现，沟通性与执行力强；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "自动化测试",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d6489a1aae639f3b9d5c55b8e8d938e0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "cYMKEQa4lXX0P-V1mrCcGoteHv9QwuXqKDzENF1Bkn5XHWk0g0MUPnZm-1u3y7kMAmNZ_9e1SzUBooFLTDm4x46GJez6_oy56kCTgXxQC-MZJKz30szRKR3LdXC8bJwkmZ5FMQPDbFdj",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "lXF4Shcyyb7uP-11xN53qqAx1F2ZsNAl3F9pdGF_pUgqKXFuTC9_Gzv5ni-UVwEd15yJ2FgBCH4CVwWaWTOALWNlpvGNRs372ZrXr037MRpEcH5H20g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "395ff6b13038565f1XZ609-9FlRY",
-      "encryptUserId": "49422cc7c3cfda8b1nR82N-_EVJV",
-      "invalidStatus": false,
-      "jobName": "自动化工程师助理",
-      "position": 101402,
-      "positionName": "电气工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "协助工程师完成项目，现场跟踪学习，前期主要打基础，动手能力要强，能吃苦，单休，买社保，试用期2个月，法定节假日，需要有一定工作经验，对PLC，触摸屏，变频器，常用的传感器有一定的了解，不接受应届毕业生。",
-      "encryptAddressId": "bfa5d69dd6e055983nd93Nm9F1I~",
-      "address": "广州白云区金港会所旁边进来一楼",
-      "longitude": 113.301843,
-      "latitude": 23.285493,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bf77f32fed86141d3f6753535a727535726bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf598cb09f75b2b1c7011f5b5c564aa6096bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PLC工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200427/2a5f52baedf700daa909fba14fcb49070b56bb7f788ed756c0a1a744fae_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "杉川",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5fe90921da2afa9533R_0921Ew~~",
-      "brandName": "杉川",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200501/68b8969601af2706710f1721caa080590b56bb7f788ed756c0a1a744fae49458.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "自动化产品销售，自动化系统开发，自动化产品集成，自动化产品生产",
-      "labels": [
-        "加班补助",
-        "全勤奖",
-        "年终奖"
-      ],
-      "activeTime": 1724405454045,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杉川",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "杉川",
+        "certificated": true,
+        "large": null,
+        "name": "周女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200427/2a5f52baedf700daa909fba14fcb49070b56bb7f788ed756c0a1a744fae_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724405454045,
+        "brandName": "杉川",
+        "customerBrandName": "杉川",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "5fe90921da2afa9533R_0921Ew~~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "自动化产品销售，自动化系统开发，自动化产品集成，自动化产品生产",
+        "labels": [
+            "加班补助",
+            "全勤奖",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200501/68b8969601af2706710f1721caa080590b56bb7f788ed756c0a1a744fae49458.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州白云区金港会所旁边进来一楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "bfa5d69dd6e055983nd93Nm9F1I~",
+        "encryptId": "395ff6b13038565f1XZ609-9FlRY",
+        "encryptUserId": "49422cc7c3cfda8b1nR82N-_EVJV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化工程师助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.285493,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.301843,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf598cb09f75b2b1c7011f5b5c564aa6096bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 101402,
+        "positionName": "电气工程师",
+        "postDescription": "协助工程师完成项目，现场跟踪学习，前期主要打基础，动手能力要强，能吃苦，单休，买社保，试用期2个月，法定节假日，需要有一定工作经验，对PLC，触摸屏，变频器，常用的传感器有一定的了解，不接受应届毕业生。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "PLC工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230519/48ba41acc9cef1bf77f32fed86141d3f6753535a727535726bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "lXF4Shcyyb7uP-11xN53qqAx1F2ZsNAl3F9pdGF_pUgqKXFuTC9_Gzv5ni-UVwEd15yJ2FgBCH4CVwWaWTOALWNlpvGNRs372ZrXr037MRpEcH5H20g~",
+    "selfAccess": false,
+    "sessionId": null
 }

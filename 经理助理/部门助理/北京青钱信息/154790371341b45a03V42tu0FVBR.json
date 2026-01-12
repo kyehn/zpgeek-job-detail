@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eS28B1Utnc2jC-j1hhcyn7M62NU40TF7Jc77Hto07fVWBJrAfseKciQxtox72it4VWYMuocJQFn2wULA658qYIl-W_1PpD3GBDrkPDvVmz-hwGkFgWb-punC-DW0D9Rks1-4QKayTce3orf80KI5D75oC75PGwYfKnciSPiA0VQwensY8o8Xn4vX5CZSqdM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "154790371341b45a03V42tu0FVBR",
-      "encryptUserId": "4f503cea59528fbe0n1z2tq8ElBS",
-      "invalidStatus": false,
-      "jobName": "部门助理",
-      "position": 150205,
-      "positionName": "经理助理",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1. 协助部门经理和项目经理完成客户对接、合同签订、账单确认工作。 \n2.整理并归档商务文件，包括合同、报价单、结算单等，确保资料完整规范。 \n3.维护内部账单系统，支撑项目经理进行项目客户信息、账单信息、回款信息管理。 \n4.协助项目经理编写项目周报，月报等汇报材料。 完成上级交办的其他商务支持工作。\n 任职要求： \n学历要求：专科及以上学历，市场营销、商务管理、国际贸易等相关专业优先。 \n工作经验：1年及以上商务助理或相关岗位经验，有IT、互联网行业经验者优先。 \n技能要求： 熟练使用Office办公软件（Word、Excel、PPT）。 \n具备良好的沟通协调能力和团队协作精神。",
-      "encryptAddressId": "d7233527a61ca7651nJy2Nm5EVJTwI67Ufya",
-      "address": "北京朝阳区中粮集团有限公司北京市朝阳门南大街8号福临门大厦",
-      "longitude": 116.435925,
-      "latitude": 39.920384,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bfa507a1ee5446fcc39e3861a9b92d0ee46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf166bb880c92b4c87f91384178476a0fc6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250107/48ba41acc9cef1bf5b219277f787b1f1799439160771804e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250107/48ba41acc9cef1bfaaa5c2e75f29e498000e0f4b960982156bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "商务助理",
-        "IT、互联网"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "麻女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240521/607f1f3d68754fd0ba350691bf10c41ecf7a3e1b9b7c43729c297395a9fd9ded001ded2b0db30da_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "北京青钱信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "258390513d9d6fe51Xx73tm8F1c~",
-      "brandName": "北京青钱信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1737012582904,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京青钱信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "北京青钱信息",
+        "certificated": true,
+        "large": null,
+        "name": "麻女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240521/607f1f3d68754fd0ba350691bf10c41ecf7a3e1b9b7c43729c297395a9fd9ded001ded2b0db30da_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1737012582904,
+        "brandName": "北京青钱信息",
+        "customerBrandName": "北京青钱信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "258390513d9d6fe51Xx73tm8F1c~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区中粮集团有限公司北京市朝阳门南大街8号福临门大厦",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250107/48ba41acc9cef1bfaaa5c2e75f29e498000e0f4b960982156bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250107/48ba41acc9cef1bf5b219277f787b1f1799439160771804e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "大专",
+        "encryptAddressId": "d7233527a61ca7651nJy2Nm5EVJTwI67Ufya",
+        "encryptId": "154790371341b45a03V42tu0FVBR",
+        "encryptUserId": "4f503cea59528fbe0n1z2tq8ElBS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "部门助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.920384,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.435925,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf166bb880c92b4c87f91384178476a0fc6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 150205,
+        "positionName": "经理助理",
+        "postDescription": "1. 协助部门经理和项目经理完成客户对接、合同签订、账单确认工作。 \n2.整理并归档商务文件，包括合同、报价单、结算单等，确保资料完整规范。 \n3.维护内部账单系统，支撑项目经理进行项目客户信息、账单信息、回款信息管理。 \n4.协助项目经理编写项目周报，月报等汇报材料。 完成上级交办的其他商务支持工作。\n 任职要求： \n学历要求：专科及以上学历，市场营销、商务管理、国际贸易等相关专业优先。 \n工作经验：1年及以上商务助理或相关岗位经验，有IT、互联网行业经验者优先。 \n技能要求： 熟练使用Office办公软件（Word、Excel、PPT）。 \n具备良好的沟通协调能力和团队协作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "商务助理",
+            "IT、互联网"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bfa507a1ee5446fcc39e3861a9b92d0ee46bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eS28B1Utnc2jC-j1hhcyn7M62NU40TF7Jc77Hto07fVWBJrAfseKciQxtox72it4VWYMuocJQFn2wULA658qYIl-W_1PpD3GBDrkPDvVmz-hwGkFgWb-punC-DW0D9Rks1-4QKayTce3orf80KI5D75oC75PGwYfKnciSPiA0VQwensY8o8Xn4vX5CZSqdM~",
+    "selfAccess": false,
+    "sessionId": null
 }

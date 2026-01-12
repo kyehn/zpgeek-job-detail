@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "H4gQHZpGZAfh--a1vPLuJ0Zy6PAYHlThvcNgBat9meIbNGhWvyzrW8-Iy9wY92p67ATARuUgMXoQCqrXf-d9yySUW0duza1VmzEQLN6K-fzYoMCBvT4-P27XiSV2dhq-EU0CHtoWeSkbu97EtYPOFqf7Xi37V0-shEdieE6l5gJ8F_TJWPq2KDjo-j8KR1x3tJVmTajOJ7z4JjOmTSbKyXBdKA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "28b8a1b05521ec8a03Rz2Nm4FFRQ",
-      "encryptUserId": "446e10233020254f0nR40t--EVRW",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n苏州ODC/测试工程师\n1.负责智能驾驶法规相关数据采集，整理数据，切片，归纳整理数据集，数据持续积累；\n2.编写测试用例，协同其他工程师完成算法测试、验证工作；\n3.负责测试问题跟踪，出具测试报告，持续跟进算法进展和问题验证；\n4.完成其他算法测试相关的任务。\n任职资格\n1.大专及以上学历，计算机、软件、通信、人工智能等相关专业背景，1年以上工作经验；\n2.具备智能驾驶相关算法知识、有智能驾驶相关工作经验优先；\n3.具有良好的编程习惯和代码能力，熟练掌握Python和Linux开发环境；\n4.具备创业精神，具备奋斗者素质，抗压能力强，自驱担当。",
-      "encryptAddressId": "dd4e3cdd26dd91e133J42NW9FFBYxom2WP4~",
-      "address": "苏州吴中区苏州2.5产业园-苏州工业园区东长路88号苏州2.5产业园",
-      "longitude": 120.777025,
-      "latitude": 31.306883,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf3155acdb57bc146de5d4acebfcec93516bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2434b37aaa3d110ab31d30bc10a4eda66bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "测试工作经验",
-        "自动化测试",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "魏女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240823/607f1f3d68754fd0509909b6e200f7850ccc84c95074944dbe343deb4ebd5fdd64336e9f89f5a0c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "上海圭正科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "55dfb456b78392191XR_2tu6FVY~",
-      "brandName": "上海圭正科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735532805393,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海圭正科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "上海圭正科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "魏女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240823/607f1f3d68754fd0509909b6e200f7850ccc84c95074944dbe343deb4ebd5fdd64336e9f89f5a0c_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1735532805393,
+        "brandName": "上海圭正科技有限公司",
+        "customerBrandName": "上海圭正科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "55dfb456b78392191XR_2tu6FVY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区苏州2.5产业园-苏州工业园区东长路88号苏州2.5产业园",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "dd4e3cdd26dd91e133J42NW9FFBYxom2WP4~",
+        "encryptId": "28b8a1b05521ec8a03Rz2Nm4FFRQ",
+        "encryptUserId": "446e10233020254f0nR40t--EVRW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.306883,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.777025,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2434b37aaa3d110ab31d30bc10a4eda66bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "职位描述\n苏州ODC/测试工程师\n1.负责智能驾驶法规相关数据采集，整理数据，切片，归纳整理数据集，数据持续积累；\n2.编写测试用例，协同其他工程师完成算法测试、验证工作；\n3.负责测试问题跟踪，出具测试报告，持续跟进算法进展和问题验证；\n4.完成其他算法测试相关的任务。\n任职资格\n1.大专及以上学历，计算机、软件、通信、人工智能等相关专业背景，1年以上工作经验；\n2.具备智能驾驶相关算法知识、有智能驾驶相关工作经验优先；\n3.具有良好的编程习惯和代码能力，熟练掌握Python和Linux开发环境；\n4.具备创业精神，具备奋斗者素质，抗压能力强，自驱担当。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "自动化测试经验",
+            "测试工作经验",
+            "自动化测试",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf3155acdb57bc146de5d4acebfcec93516bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "H4gQHZpGZAfh--a1vPLuJ0Zy6PAYHlThvcNgBat9meIbNGhWvyzrW8-Iy9wY92p67ATARuUgMXoQCqrXf-d9yySUW0duza1VmzEQLN6K-fzYoMCBvT4-P27XiSV2dhq-EU0CHtoWeSkbu97EtYPOFqf7Xi37V0-shEdieE6l5gJ8F_TJWPq2KDjo-j8KR1x3tJVmTajOJ7z4JjOmTSbKyXBdKA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

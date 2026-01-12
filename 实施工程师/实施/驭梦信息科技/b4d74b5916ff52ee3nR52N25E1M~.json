@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4Wigb92H30yZo-d1i3EEgEBITs-Yh24rqvketSfLZ2DnJxg-fiWAO2rqZqGTB0vyMFVtY9nBNaT6qjdXgTEKOZVIjKaltsoBTheXUGtmuncxPd0SxiqmhySyLkU6EyqfBqoeQDduPR8y",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b4d74b5916ff52ee3nR52N25E1M~",
-      "encryptUserId": "3ef4bcf4de9707101nV80t24FVJV",
-      "invalidStatus": false,
-      "jobName": "实施",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "软件安装，软件培训，客户服务",
-      "encryptAddressId": "569a5ef711cf3a491HZ72tq8EVQ~",
-      "address": "济南历下区三庆·世纪财富中心丁豪广场6号楼2单元2110室",
-      "longitude": 117.125845,
-      "latitude": 36.679192,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7177da098db468f9253374b51402fa95",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/70738294574ae97d7f9a60af2e8d35cc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210405/a4b5560fc455d841d45a146ceab3be5da43f944c2c15a42a912831ad287_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "驭梦信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2b7867dba690be993nZy29m8GA~~",
-      "brandName": "驭梦信息科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725444901917,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "驭梦信息科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "驭梦信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210405/a4b5560fc455d841d45a146ceab3be5da43f944c2c15a42a912831ad287_b.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725444901917,
+        "brandName": "驭梦信息科技",
+        "customerBrandName": "驭梦信息科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2b7867dba690be993nZy29m8GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南历下区三庆·世纪财富中心丁豪广场6号楼2单元2110室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "569a5ef711cf3a491HZ72tq8EVQ~",
+        "encryptId": "b4d74b5916ff52ee3nR52N25E1M~",
+        "encryptUserId": "3ef4bcf4de9707101nV80t24FVJV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.679192,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.125845,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/70738294574ae97d7f9a60af2e8d35cc",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "软件安装，软件培训，客户服务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "实施工程师/顾问"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7177da098db468f9253374b51402fa95"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4Wigb92H30yZo-d1i3EEgEBITs-Yh24rqvketSfLZ2DnJxg-fiWAO2rqZqGTB0vyMFVtY9nBNaT6qjdXgTEKOZVIjKaltsoBTheXUGtmuncxPd0SxiqmhySyLkU6EyqfBqoeQDduPR8y",
+    "selfAccess": false,
+    "sessionId": null
 }

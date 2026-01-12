@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1EujUrR0g6bq0-A1WLitVJxu_irOY_ck8rAFl47KR6mSYEWlh2QgfTvaGzOEXb5r4-ni4yhz0fzXRIsftuNuzZj-sCJHZ1ccca80OELo57PNM7_zlSY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "09af2857b0cddb6d1Xx83dW1EFBZ",
-      "encryptUserId": "dc1cf3df598009bb33Z82Ni4Elc~",
-      "invalidStatus": false,
-      "jobName": "测试开发工程师",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "15-16K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司自动化测试平台开发维护",
-      "encryptAddressId": "7e71287ef867dd123nVy39S_GFE~",
-      "address": "武汉洪山区华翔中心华翔中心",
-      "longitude": 114.506682,
-      "latitude": 30.48795,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf8e766716348978fc101a04fb0fd20d1b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf299442ce796672bb71444852a74bde236bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "Java",
-        "C++",
-        "自动化测试经验",
-        "软件开发经验",
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邱女士",
-      "title": "质量体系部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "芯必达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "84997f6d93e9970a1XV82t-9GVU~",
-      "brandName": "芯必达",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230302/7bf6f160950405e9b60de4c704c269bc00300e4625dd711dd847028f628cc2aa72cd24dd38131a57.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721803244627,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "芯必达",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "芯必达",
+        "certificated": true,
+        "large": null,
+        "name": "邱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "质量体系部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721803244627,
+        "brandName": "芯必达",
+        "customerBrandName": "芯必达",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "84997f6d93e9970a1XV82t-9GVU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230302/7bf6f160950405e9b60de4c704c269bc00300e4625dd711dd847028f628cc2aa72cd24dd38131a57.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区华翔中心华翔中心",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7e71287ef867dd123nVy39S_GFE~",
+        "encryptId": "09af2857b0cddb6d1Xx83dW1EFBZ",
+        "encryptUserId": "dc1cf3df598009bb33Z82Ni4Elc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.48795,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.506682,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf299442ce796672bb71444852a74bde236bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "负责公司自动化测试平台开发维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "15-16K",
+        "showSkills": [
+            "Python",
+            "Java",
+            "C++",
+            "自动化测试经验",
+            "软件开发经验",
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf8e766716348978fc101a04fb0fd20d1b6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1EujUrR0g6bq0-A1WLitVJxu_irOY_ck8rAFl47KR6mSYEWlh2QgfTvaGzOEXb5r4-ni4yhz0fzXRIsftuNuzZj-sCJHZ1ccca80OELo57PNM7_zlSY~",
+    "selfAccess": false,
+    "sessionId": null
 }

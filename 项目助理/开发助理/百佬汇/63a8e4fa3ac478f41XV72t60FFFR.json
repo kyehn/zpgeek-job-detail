@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "oYJY_Pf9LcgD7-y1g7t72Kzcii9w_kGavM_dmBTrzBNyLmAWbGA3GoqLoWLr76foiNKhckFKeNH1ikEjQL161Fkd1tCFSdA5lYw2J47T032wlTqTnA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "63a8e4fa3ac478f41XV72t60FFFR",
-      "encryptUserId": "9c83461bbc487ddb1Hx62t-1FFo~",
-      "invalidStatus": false,
-      "jobName": "开发助理",
-      "position": 100603,
-      "positionName": "项目助理",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：传达客户要求到各流程岗位，监督进展，核对成果，及时报告。\n要求：英语六级，耐心细致，有美术基础者优先",
-      "encryptAddressId": "118588d4928b99bb0H163tS-Fw~~",
-      "address": "杭州余杭区龙潭路16",
-      "longitude": 119.985874,
-      "latitude": 30.276066,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5a786937e70480d9f617a49d5c91ebb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe8f0fdb92844e1d35687bbfdb524d0f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "产品开发",
-        "产品设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "白先生",
-      "title": "CEO",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "百佬汇",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "277e55c1b19312ac1XR829m1GA~~",
-      "brandName": "百佬汇",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "年终奖",
-        "股票期权",
-        "餐补",
-        "交通补助"
-      ],
-      "activeTime": 1723196023000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "百佬汇",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "百佬汇",
+        "certificated": true,
+        "large": null,
+        "name": "白先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "CEO"
+    },
+    "brandComInfo": {
+        "activeTime": 1723196023000,
+        "brandName": "百佬汇",
+        "customerBrandName": "百佬汇",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "277e55c1b19312ac1XR829m1GA~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "年终奖",
+            "股票期权",
+            "餐补",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区龙潭路16",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "118588d4928b99bb0H163tS-Fw~~",
+        "encryptId": "63a8e4fa3ac478f41XV72t60FFFR",
+        "encryptUserId": "9c83461bbc487ddb1Hx62t-1FFo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "开发助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.276066,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.985874,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe8f0fdb92844e1d35687bbfdb524d0f",
+        "position": 100603,
+        "positionName": "项目助理",
+        "postDescription": "工作内容：传达客户要求到各流程岗位，监督进展，核对成果，及时报告。\n要求：英语六级，耐心细致，有美术基础者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "产品开发",
+            "产品设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5a786937e70480d9f617a49d5c91ebb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "oYJY_Pf9LcgD7-y1g7t72Kzcii9w_kGavM_dmBTrzBNyLmAWbGA3GoqLoWLr76foiNKhckFKeNH1ikEjQL161Fkd1tCFSdA5lYw2J47T032wlTqTnA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

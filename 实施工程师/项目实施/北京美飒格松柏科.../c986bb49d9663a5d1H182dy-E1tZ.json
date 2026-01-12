@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "d6TibACXnlD9x-f1ww1PWp9Fqy6tbJCHqa63kILDGqe8d3B_7BgVfxiaqKK4fGByxXBrZ54cGRWw-8W4uW3_rQ0iVEPfEpqnHNnV_ms_8znmQIcbkvs2ef6CcEvBFiyzG4c6Hg3Vzqy2KiU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c986bb49d9663a5d1H182dy-E1tZ",
-      "encryptUserId": "63b53dab83a79c0a0XJ83t-6EFpR",
-      "invalidStatus": false,
-      "jobName": "项目实施",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责:\n(1)负责客户现场培训、产品调试:\n(2)负责系统问题答疑及运维支持;\n(3)进行产品及项目的测试验证;\n(4)完成领导交办的其他临时性工作;\n任职要求:\n一、工作经验:本科2年以上、大专3年以上助理工作经验，做过视频监控或智能安全业务系统项目的优先;\n二、具有良好的语言表达能力、沟通能力、理解能力;\n三、较强的学习与总结能力，善于从实施工作中发现问题找到方法;\n四、熟练使用办公软件;\n五、能够接受出差;",
-      "encryptAddressId": "51fb7060764c84331nR-3dm4GVdVxYW4VvOY",
-      "address": "北京东城区神华大厦神华大厦",
-      "longitude": 116.39935,
-      "latitude": 39.950179,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7756347db35eaa9ee5ba16d02edfb3d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f23338b1a15c40881c4186aa7dce881",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "PMP"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "金女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd00269d4fe9f9d03e43b6023d3e7c383fd3b16635126b143b5559581d2c04d7e9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "北京美飒格松柏科...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3b08e6a4a29b3a3e1HJ62dm7FFU~",
-      "brandName": "北京美飒格松柏科...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730453293118,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京美飒格松柏科...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京美飒格松柏科...",
+        "certificated": true,
+        "large": null,
+        "name": "金女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd00269d4fe9f9d03e43b6023d3e7c383fd3b16635126b143b5559581d2c04d7e9_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730453293118,
+        "brandName": "北京美飒格松柏科...",
+        "customerBrandName": "北京美飒格松柏科...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3b08e6a4a29b3a3e1HJ62dm7FFU~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京东城区神华大厦神华大厦",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "51fb7060764c84331nR-3dm4GVdVxYW4VvOY",
+        "encryptId": "c986bb49d9663a5d1H182dy-E1tZ",
+        "encryptUserId": "63b53dab83a79c0a0XJ83t-6EFpR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "项目实施",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.950179,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.39935,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f23338b1a15c40881c4186aa7dce881",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "工作职责:\n(1)负责客户现场培训、产品调试:\n(2)负责系统问题答疑及运维支持;\n(3)进行产品及项目的测试验证;\n(4)完成领导交办的其他临时性工作;\n任职要求:\n一、工作经验:本科2年以上、大专3年以上助理工作经验，做过视频监控或智能安全业务系统项目的优先;\n二、具有良好的语言表达能力、沟通能力、理解能力;\n三、较强的学习与总结能力，善于从实施工作中发现问题找到方法;\n四、熟练使用办公软件;\n五、能够接受出差;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K",
+        "showSkills": [
+            "软件实施经验",
+            "PMP"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7756347db35eaa9ee5ba16d02edfb3d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "d6TibACXnlD9x-f1ww1PWp9Fqy6tbJCHqa63kILDGqe8d3B_7BgVfxiaqKK4fGByxXBrZ54cGRWw-8W4uW3_rQ0iVEPfEpqnHNnV_ms_8znmQIcbkvs2ef6CcEvBFiyzG4c6Hg3Vzqy2KiU~",
+    "selfAccess": false,
+    "sessionId": null
 }

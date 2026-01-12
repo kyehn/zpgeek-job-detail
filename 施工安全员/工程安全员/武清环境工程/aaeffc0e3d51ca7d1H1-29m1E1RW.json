@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yiQITAeYb79k9-31gsY-0qHHjaziL78HhajbfAlBqYawb_6ckBAM2yYSW9Txtn368sB5rXZ3jUW6pk0r719-Tj7rDgIlx-dBgR-fbBSTzCGxJ53h19YpCWgLqZJkCPvJIzQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "aaeffc0e3d51ca7d1H1-29m1E1RW",
-      "encryptUserId": "724097161cbac2040nF42927GVVZ",
-      "invalidStatus": false,
-      "jobName": "工程安全员",
-      "position": 220225,
-      "positionName": "施工安全员",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责施工现场安全管理和监督的工作人员，确保施工现场符合国家相关法律法规和安全标准。\n任职资格：\n1、熟练使用办公软件；\n2、需要持有（城乡建设委员会）安全员证。",
-      "encryptAddressId": "dd712bd490a23a1c3nZ_2d2-FVQ~",
-      "address": "北京大兴区北京经济技术开发区",
-      "longitude": 116.506725,
-      "latitude": 39.795253,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20a25d5b2aeb46f00e213795962a82eb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/551b96aad68dcc45ab043eeba4f6a4bc",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "安全员C证",
-        "安全教育",
-        "安全资料",
-        "安全巡查"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "武清环境工程",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "98a6f0f7faf32f7b1XN509W9EVE~",
-      "brandName": "武清环境工程",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735549136419,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武清环境工程",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武清环境工程",
+        "certificated": true,
+        "large": null,
+        "name": "孟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1735549136419,
+        "brandName": "武清环境工程",
+        "customerBrandName": "武清环境工程",
+        "customerBrandStageName": "",
+        "encryptBrandId": "98a6f0f7faf32f7b1XN509W9EVE~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京大兴区北京经济技术开发区",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "dd712bd490a23a1c3nZ_2d2-FVQ~",
+        "encryptId": "aaeffc0e3d51ca7d1H1-29m1E1RW",
+        "encryptUserId": "724097161cbac2040nF42927GVVZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "工程安全员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.795253,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.506725,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/551b96aad68dcc45ab043eeba4f6a4bc",
+        "position": 220225,
+        "positionName": "施工安全员",
+        "postDescription": "岗位职责：\n1、负责施工现场安全管理和监督的工作人员，确保施工现场符合国家相关法律法规和安全标准。\n任职资格：\n1、熟练使用办公软件；\n2、需要持有（城乡建设委员会）安全员证。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "安全员C证",
+            "安全教育",
+            "安全资料",
+            "安全巡查"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20a25d5b2aeb46f00e213795962a82eb"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yiQITAeYb79k9-31gsY-0qHHjaziL78HhajbfAlBqYawb_6ckBAM2yYSW9Txtn368sB5rXZ3jUW6pk0r719-Tj7rDgIlx-dBgR-fbBSTzCGxJ53h19YpCWgLqZJkCPvJIzQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

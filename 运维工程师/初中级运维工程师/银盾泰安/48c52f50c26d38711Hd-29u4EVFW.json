@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CJK6tXx6Suat1-L1FIr3kP5Ps4UgHTzNcSCs5HxiBvUOtS_iJnYd1FM11q3_iT-rEEnu2OtMARD8OIPOx_un1ojuYg3W8NXn5UWqyQxHyqUr_dmK_Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "48c52f50c26d38711Hd-29u4EVFW",
-      "encryptUserId": "7548e3dc8e8a350b1X162ti_Fls~",
-      "invalidStatus": false,
-      "jobName": "初中级运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101090600,
-      "locationName": "廊坊",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 主要负责管理并维护运行在浙江机房的管理服务器、存储服务器和GPU服务器。\n2. 负责对现有机房设备的监控、问题处理、以及优化。\n3. 负责运维工作中遇到的相关故障、疑难问题排查处理，编制汇总；\n4. 负责监控及应急响应，以确保服务器系统有7*24小时的持续运作能力。\n技能及综合能力要求：\n1、熟练掌握Linux系统的安装与配置（主要ubuntu系统）；\n2、熟悉相关网络技术，及各种主流交换机、路由器、防火墙简单的配置；\n3、熟练掌握Linux系统的操作、管理、优化，及企业级常用服务的部署，如：DNS、FTP、http、mail、nginx、Haproxy、LVSHA、keepalived、zabbix等；\n4、熟悉Shell编程，Shel脚本的编写及ansible等自动化软件的使用;\n5、会使用ipmi、idrac、bmc远程控制服务器；\n6、虚拟化使用，esxi、pve等；\n7、系统运维、问题排查，网卡配置、系统初始化",
-      "encryptAddressId": "273d88100103311f03x60tu_GFQ~",
-      "address": "廊坊广阳区京津冀大数据创新应用中心8层",
-      "longitude": 116.728656,
-      "latitude": 39.598921,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c9b815bb10e067c6a1b4418c2261d38",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/047d52effccfd7b44a95725b986a733b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "银盾泰安",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "56befd5a008ce88d1nJ-2d28Fg~~",
-      "brandName": "银盾泰安",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180320/536796a37f23b38f6a63155b4ef2ff47dcf52a3ea346adf0e959135d7c0a5d2c.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "节日福利",
-        "包吃",
-        "带薪年假",
-        "五险一金"
-      ],
-      "activeTime": 1731746173928,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "银盾泰安",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "银盾泰安",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731746173928,
+        "brandName": "银盾泰安",
+        "customerBrandName": "银盾泰安",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "56befd5a008ce88d1nJ-2d28Fg~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "节日福利",
+            "包吃",
+            "带薪年假",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180320/536796a37f23b38f6a63155b4ef2ff47dcf52a3ea346adf0e959135d7c0a5d2c.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "廊坊广阳区京津冀大数据创新应用中心8层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "273d88100103311f03x60tu_GFQ~",
+        "encryptId": "48c52f50c26d38711Hd-29u4EVFW",
+        "encryptUserId": "7548e3dc8e8a350b1X162ti_Fls~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初中级运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.598921,
+        "location": 101090600,
+        "locationName": "廊坊",
+        "longitude": 116.728656,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/047d52effccfd7b44a95725b986a733b",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1. 主要负责管理并维护运行在浙江机房的管理服务器、存储服务器和GPU服务器。\n2. 负责对现有机房设备的监控、问题处理、以及优化。\n3. 负责运维工作中遇到的相关故障、疑难问题排查处理，编制汇总；\n4. 负责监控及应急响应，以确保服务器系统有7*24小时的持续运作能力。\n技能及综合能力要求：\n1、熟练掌握Linux系统的安装与配置（主要ubuntu系统）；\n2、熟悉相关网络技术，及各种主流交换机、路由器、防火墙简单的配置；\n3、熟练掌握Linux系统的操作、管理、优化，及企业级常用服务的部署，如：DNS、FTP、http、mail、nginx、Haproxy、LVSHA、keepalived、zabbix等；\n4、熟悉Shell编程，Shel脚本的编写及ansible等自动化软件的使用;\n5、会使用ipmi、idrac、bmc远程控制服务器；\n6、虚拟化使用，esxi、pve等；\n7、系统运维、问题排查，网卡配置、系统初始化",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c9b815bb10e067c6a1b4418c2261d38"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CJK6tXx6Suat1-L1FIr3kP5Ps4UgHTzNcSCs5HxiBvUOtS_iJnYd1FM11q3_iT-rEEnu2OtMARD8OIPOx_un1ojuYg3W8NXn5UWqyQxHyqUr_dmK_Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

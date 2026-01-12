@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_gTWeMFReivFI-B15GWu8Om4LXarbLzY08kECVimVrBMuxc119uiG7SureD-4_JgHNNqqo-GMpKDDPmCvnOoml3qnsSOh0BEZsvwW79jhHt3lSxuo-u21aJjJ8KOJEMBH-JwiPfHkxKmrag~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d19b57689ae05e421H1y0tW8F1BU",
-      "encryptUserId": "ffa4924856d1a6230XN93dm8ElNT",
-      "invalidStatus": false,
-      "jobName": "双休+软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求:\n1.负责产品的功能测试，性能测试，稳定性测试，浏览器适配兼容性测试等工作;\n2.对测试中发现的问题进行详细分析和准确定位，与开发人员讨论解决方案，推进问题解决;\n3.跟踪用户问题反馈，协助开发、产品、运营等不断改进系统，提升用户体验;\n4.完成领导交代的其他工作。\n任职要求:\n1.计算机、通信、电子等相关专业专科以上学历，1-3年相同岗位经验;\n2.掌握基本的测试理论及开发技能;\n3.具备良好的逻辑思维能力和分析问题能力，能够独立思考和解决问题;\n4.具备较强的学习能力和责任心，能高质量完成工作任务。 \n工作时间：8:00-17:30 午休1.5h\n公司福利：双休、法休，五险，提供工作五餐！年终奖！\n          团建聚餐、员工福利，每年韩国日本1-2次研修！",
-      "encryptAddressId": "cfae333c653239151nB_3dW-E1NTwoW6VfiY",
-      "address": "青岛黄岛区长江财富中心A座29楼",
-      "longitude": 120.181758,
-      "latitude": 35.952458,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a70c80cc904316dd5f87d9cef5ed0737",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e1ea3228fe4643913ff5e6d052aae2a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "性能测试",
-        "功能测试",
-        "计算机相关专业",
-        "软件开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "武先生",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "云上数字旅游",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2ace5e1c65c1b47c1HV93ty_EFQ~",
-      "brandName": "云上数字旅游",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731575273436,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云上数字旅游",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云上数字旅游",
+        "certificated": true,
+        "large": null,
+        "name": "武先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731575273436,
+        "brandName": "云上数字旅游",
+        "customerBrandName": "云上数字旅游",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2ace5e1c65c1b47c1HV93ty_EFQ~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛黄岛区长江财富中心A座29楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "cfae333c653239151nB_3dW-E1NTwoW6VfiY",
+        "encryptId": "d19b57689ae05e421H1y0tW8F1BU",
+        "encryptUserId": "ffa4924856d1a6230XN93dm8ElNT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "双休+软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 35.952458,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.181758,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e1ea3228fe4643913ff5e6d052aae2a",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位要求:\n1.负责产品的功能测试，性能测试，稳定性测试，浏览器适配兼容性测试等工作;\n2.对测试中发现的问题进行详细分析和准确定位，与开发人员讨论解决方案，推进问题解决;\n3.跟踪用户问题反馈，协助开发、产品、运营等不断改进系统，提升用户体验;\n4.完成领导交代的其他工作。\n任职要求:\n1.计算机、通信、电子等相关专业专科以上学历，1-3年相同岗位经验;\n2.掌握基本的测试理论及开发技能;\n3.具备良好的逻辑思维能力和分析问题能力，能够独立思考和解决问题;\n4.具备较强的学习能力和责任心，能高质量完成工作任务。 \n工作时间：8:00-17:30 午休1.5h\n公司福利：双休、法休，五险，提供工作五餐！年终奖！\n          团建聚餐、员工福利，每年韩国日本1-2次研修！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "测试工作经验",
+            "性能测试",
+            "功能测试",
+            "计算机相关专业",
+            "软件开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a70c80cc904316dd5f87d9cef5ed0737"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_gTWeMFReivFI-B15GWu8Om4LXarbLzY08kECVimVrBMuxc119uiG7SureD-4_JgHNNqqo-GMpKDDPmCvnOoml3qnsSOh0BEZsvwW79jhHt3lSxuo-u21aJjJ8KOJEMBH-JwiPfHkxKmrag~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DhbGU8GLRXVeA-m1Zu8SwOzV6QEpo1teQ_gv_aciaHsWbDCBxv4anLnQWkjGFS8EjSKjZw5g-gbltEalfP2rx19pBAvuhg08E4Pr8_-0NJ90rvtOipRk",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "059ad444f81da8091XN42t20EFFV",
-      "encryptUserId": "ef28c6959f9564911nV63ty-E1NW",
-      "invalidStatus": false,
-      "jobName": "java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K·15薪",
-      "payTypeDesc": null,
-      "postDescription": "1.设计、开发和维护java应用程序，包括需求分析、设计、编码、测试和部署等。\n2.根据实现方案，对文档、图片、音视频、压缩包进行解析和处理使用Java及相关框架，\n如Spring、Hibernate等，进行开发和维护。\n3.设计和实现系统的分布式架构和负载均衡策略，以确保系统在高并发下的稳定性和可用\n性。\n4.优化系统的性能和响应速度，以满足高并发环境下的需求。\n5.编写高质量的代码和单元测试，确保应用程序的质量和可靠性。\n6.参与产品需求分析和技术方案讨论，为产品提供技术支持和解决方案。\n7.解决应用程序开发和维护中遇到的问题，确保应用程序的高可用性和可靠性。",
-      "encryptAddressId": "5837c6dee1cd9a860nV629W0FVY~",
-      "address": "杭州余杭区之江实验室新园区4B-4",
-      "longitude": 119.900075,
-      "latitude": 30.263042,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c6cfffb6d45fa5b2e070b6f9c11d456",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b42cb6fea29e7169d742576ff822ab7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "C/C++",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "综合管理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "之江奇安",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a6a64b85b9c932401XR42d6_GVY~",
-      "brandName": "之江奇安",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722150974670,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "之江奇安",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "之江奇安",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "综合管理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722150974670,
+        "brandName": "之江奇安",
+        "customerBrandName": "之江奇安",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a6a64b85b9c932401XR42d6_GVY~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区之江实验室新园区4B-4",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5837c6dee1cd9a860nV629W0FVY~",
+        "encryptId": "059ad444f81da8091XN42t20EFFV",
+        "encryptUserId": "ef28c6959f9564911nV63ty-E1NW",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.263042,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.900075,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b42cb6fea29e7169d742576ff822ab7",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.设计、开发和维护java应用程序，包括需求分析、设计、编码、测试和部署等。\n2.根据实现方案，对文档、图片、音视频、压缩包进行解析和处理使用Java及相关框架，\n如Spring、Hibernate等，进行开发和维护。\n3.设计和实现系统的分布式架构和负载均衡策略，以确保系统在高并发下的稳定性和可用\n性。\n4.优化系统的性能和响应速度，以满足高并发环境下的需求。\n5.编写高质量的代码和单元测试，确保应用程序的质量和可靠性。\n6.参与产品需求分析和技术方案讨论，为产品提供技术支持和解决方案。\n7.解决应用程序开发和维护中遇到的问题，确保应用程序的高可用性和可靠性。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K·15薪",
+        "showSkills": [
+            "Java",
+            "C/C++",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c6cfffb6d45fa5b2e070b6f9c11d456"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DhbGU8GLRXVeA-m1Zu8SwOzV6QEpo1teQ_gv_aciaHsWbDCBxv4anLnQWkjGFS8EjSKjZw5g-gbltEalfP2rx19pBAvuhg08E4Pr8_-0NJ90rvtOipRk",
+    "selfAccess": false,
+    "sessionId": null
 }

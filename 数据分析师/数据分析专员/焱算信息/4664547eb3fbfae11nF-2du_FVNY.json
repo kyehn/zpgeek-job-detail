@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ryQi9m7ATlpAo-B1a_yBU-ZS2Ddnwg0_WVqLcAyWSTFYAAM09ijdv0BxC70JsplWdoKLInJPDqTRA2VSEgL48YOdIAeMK1UjEzxRE1Rgp5hP4J53id9E6I5lZxKZvJsSPDnDAVkiZrLETA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4664547eb3fbfae11nF-2du_FVNY",
-      "encryptUserId": "6354ad08ff458b861nZ939q6E1M~",
-      "invalidStatus": false,
-      "jobName": "数据分析专员",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-10K",
-      "payTypeDesc": null,
-      "postDescription": "1.支持合规部门进行数据处理\n2.数据异常分析\n3.数据结构展示",
-      "encryptAddressId": "3151bf94daeade971Xx_3Nu6",
-      "address": "上海徐汇区龙漕家园403",
-      "longitude": 121.436394,
-      "latitude": 31.168309,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f07d70de1dd97503aa2d7aebad921a53",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66f7b56f44aa23c14788c44430dcfc1c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "Excel",
-        "Power BI"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙先生",
-      "title": "数据开发经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "焱算信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a32d20993e3780ba1nJ-2N21EVA~",
-      "brandName": "焱算信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725523162545,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "焱算信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "焱算信息",
+        "certificated": true,
+        "large": null,
+        "name": "孙先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "数据开发经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725523162545,
+        "brandName": "焱算信息",
+        "customerBrandName": "焱算信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a32d20993e3780ba1nJ-2N21EVA~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区龙漕家园403",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3151bf94daeade971Xx_3Nu6",
+        "encryptId": "4664547eb3fbfae11nF-2du_FVNY",
+        "encryptUserId": "6354ad08ff458b861nZ939q6E1M~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据分析专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.168309,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.436394,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66f7b56f44aa23c14788c44430dcfc1c",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "1.支持合规部门进行数据处理\n2.数据异常分析\n3.数据结构展示",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-10K",
+        "showSkills": [
+            "SQL",
+            "Excel",
+            "Power BI"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f07d70de1dd97503aa2d7aebad921a53"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ryQi9m7ATlpAo-B1a_yBU-ZS2Ddnwg0_WVqLcAyWSTFYAAM09ijdv0BxC70JsplWdoKLInJPDqTRA2VSEgL48YOdIAeMK1UjEzxRE1Rgp5hP4J53id9E6I5lZxKZvJsSPDnDAVkiZrLETA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

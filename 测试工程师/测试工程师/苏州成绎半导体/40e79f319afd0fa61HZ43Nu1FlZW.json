@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Z2mue8LwI64tU-n1wBpzCwSHQqe2i_lGLYFV4NBcLswkjoS74RKnnr8f40K1vhrI2Rrmw5gIVlsrQHPetxz_nt0nY_FolTkkZUFlr95HBa3mOpxU2WLh",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "40e79f319afd0fa61HZ43Nu1FlZW",
-      "encryptUserId": "d311e53ae49048a40nR62dm8FFdW",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、根据IC产品规格和测试需求，制定测试方案；\n2、量产测试程序的开发与维护；\n3、负责Bench测试；\n4、测试数据的整理与分析。\n5、客户应用支持。\n\n岗位要求\n1、电子类相关专业，本科及以上学历；\n2、工作认真负责、善于学习、具有良好的团队合作精神。",
-      "encryptAddressId": "5e4107f41493fed90nd_09u9FFZWxYS2Vfk~",
-      "address": "苏州张家港市张家港市凤凰科技创业园F幢",
-      "longitude": 120.624424,
-      "latitude": 31.775925,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f980d25287a9fb3a5d24556d72539c63",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15616fefa80a2c610548e245039b6eca",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "芯片测试",
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201008/1a465edde3ae6335195e76393aae39435cac1db0649f2ba81464d10cf4b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "苏州成绎半导体",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7ae2022fa3075f401XRy0tm9GVo~",
-      "brandName": "苏州成绎半导体",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727775303156,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州成绎半导体",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州成绎半导体",
+        "certificated": true,
+        "large": null,
+        "name": "朱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201008/1a465edde3ae6335195e76393aae39435cac1db0649f2ba81464d10cf4b_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1727775303156,
+        "brandName": "苏州成绎半导体",
+        "customerBrandName": "苏州成绎半导体",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7ae2022fa3075f401XRy0tm9GVo~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州张家港市张家港市凤凰科技创业园F幢",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "5e4107f41493fed90nd_09u9FFZWxYS2Vfk~",
+        "encryptId": "40e79f319afd0fa61HZ43Nu1FlZW",
+        "encryptUserId": "d311e53ae49048a40nR62dm8FFdW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.775925,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.624424,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15616fefa80a2c610548e245039b6eca",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、根据IC产品规格和测试需求，制定测试方案；\n2、量产测试程序的开发与维护；\n3、负责Bench测试；\n4、测试数据的整理与分析。\n5、客户应用支持。\n\n岗位要求\n1、电子类相关专业，本科及以上学历；\n2、工作认真负责、善于学习、具有良好的团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "芯片测试",
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f980d25287a9fb3a5d24556d72539c63"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Z2mue8LwI64tU-n1wBpzCwSHQqe2i_lGLYFV4NBcLswkjoS74RKnnr8f40K1vhrI2Rrmw5gIVlsrQHPetxz_nt0nY_FolTkkZUFlr95HBa3mOpxU2WLh",
+    "selfAccess": false,
+    "sessionId": null
 }

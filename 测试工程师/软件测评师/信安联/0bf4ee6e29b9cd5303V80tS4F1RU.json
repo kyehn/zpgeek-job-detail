@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "NfXhdFVG5RR4I-z1krbOQEOL3Jiw20H3BoTx3lNK4Z6M3O-IpXSI6grRVoUv12qPzA6qUNJl4Bg5hCKAH5fVd5Ode1FsDPYgCWX5vCsMqs5NV_YPr3KCVNCXnUqJPe1jORs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0bf4ee6e29b9cd5303V80tS4F1RU",
-      "encryptUserId": "8809ccbb7b72ef870nZ-3961FldV",
-      "invalidStatus": false,
-      "jobName": "软件测评师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270400,
-      "locationName": "绵阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位详情：\n1、能快速上手项目，适应快节奏，与客户服务团队协作，具备与不同部门较强的沟通能力；\n2、负责项目相关的功能性和非功能性（性能效率、易用性、兼容性、信息安全性等）测试，按时、按质量完成相关测试工作；\n3、快速深入理解项目测试需求，制定测试计划和测试方案；\n4、编写测试用例并执行测试用例、管理和跟踪缺陷、提交测试报告；\n5、负毒测试各节点的测试质量保证，提交测试相关的交付文档；\n7、具有较强的执行力和责任感，能够承受一定工作压力，完成上级领导安排的其他临时相关任务。\n 岗位要求： \n1、熟练掌握功能性测试方法，黑盒测试用例设计方法； \n2、熟练使用Jmeter、LoadRunner、Appscan等接口测试工具和性能、安全测试工具； \n3、熟练掌握测试计划、测试用例、测试报告编写； \n4、熟悉数据库，可以使用基本的sql语句； \n5、熟练运用常用办公软件； \n6、具有1-3年及以上软件测试经验，熟悉软件测试流程及相关文档规范和标准，熟知软件的生命周期；\n7、本岗位可接受踏实勤奋，思路清晰，有较强自主学习能力和问题分析能力的应届毕业生。",
-      "encryptAddressId": "33a81de16f016c581nV90t26GVJV",
-      "address": "绵阳涪城区创新中心2期9号楼304",
-      "longitude": 104.696189,
-      "latitude": 31.490898,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfa4cba4035958920464e33fbe5ba46a9f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf61b8d6143a295d4af509f0bc3971c80f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "性能测试",
-        "功能测试",
-        "掌握软件测试理论和流程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "余女士",
-      "title": "行政人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210325/5e20fe91a36f67c0aff40987cf57105ec81eddde8145526a911ee7857d7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "信安联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7b26779c29a44c771HR609W9GVE~",
-      "brandName": "信安联",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1739729368793,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "信安联",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "信安联",
+        "certificated": true,
+        "large": null,
+        "name": "余女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210325/5e20fe91a36f67c0aff40987cf57105ec81eddde8145526a911ee7857d7_b.jpg",
+        "title": "行政人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1739729368793,
+        "brandName": "信安联",
+        "customerBrandName": "信安联",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7b26779c29a44c771HR609W9GVE~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "绵阳涪城区创新中心2期9号楼304",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "33a81de16f016c581nV90t26GVJV",
+        "encryptId": "0bf4ee6e29b9cd5303V80tS4F1RU",
+        "encryptUserId": "8809ccbb7b72ef870nZ-3961FldV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测评师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.490898,
+        "location": 101270400,
+        "locationName": "绵阳",
+        "longitude": 104.696189,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf61b8d6143a295d4af509f0bc3971c80f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位详情：\n1、能快速上手项目，适应快节奏，与客户服务团队协作，具备与不同部门较强的沟通能力；\n2、负责项目相关的功能性和非功能性（性能效率、易用性、兼容性、信息安全性等）测试，按时、按质量完成相关测试工作；\n3、快速深入理解项目测试需求，制定测试计划和测试方案；\n4、编写测试用例并执行测试用例、管理和跟踪缺陷、提交测试报告；\n5、负毒测试各节点的测试质量保证，提交测试相关的交付文档；\n7、具有较强的执行力和责任感，能够承受一定工作压力，完成上级领导安排的其他临时相关任务。\n 岗位要求： \n1、熟练掌握功能性测试方法，黑盒测试用例设计方法； \n2、熟练使用Jmeter、LoadRunner、Appscan等接口测试工具和性能、安全测试工具； \n3、熟练掌握测试计划、测试用例、测试报告编写； \n4、熟悉数据库，可以使用基本的sql语句； \n5、熟练运用常用办公软件； \n6、具有1-3年及以上软件测试经验，熟悉软件测试流程及相关文档规范和标准，熟知软件的生命周期；\n7、本岗位可接受踏实勤奋，思路清晰，有较强自主学习能力和问题分析能力的应届毕业生。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "测试工作经验",
+            "性能测试",
+            "功能测试",
+            "掌握软件测试理论和流程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfa4cba4035958920464e33fbe5ba46a9f6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "NfXhdFVG5RR4I-z1krbOQEOL3Jiw20H3BoTx3lNK4Z6M3O-IpXSI6grRVoUv12qPzA6qUNJl4Bg5hCKAH5fVd5Ode1FsDPYgCWX5vCsMqs5NV_YPr3KCVNCXnUqJPe1jORs~",
+    "selfAccess": false,
+    "sessionId": null
 }

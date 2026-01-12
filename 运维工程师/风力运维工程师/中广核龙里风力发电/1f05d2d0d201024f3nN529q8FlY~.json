@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ylyaK5XcuShiJ-f1IQP60KVwggkxwjBzInndyDl3vJwZmSkqXTEQquNG_TTsnLJzszER_swrJHN4dHQVmD3Cr-4-hsIlEQBS9XvRHP7WB-nD0X8p_zw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1f05d2d0d201024f3nN529q8FlY~",
-      "encryptUserId": "dc163d69b46d9fde1nZ-2dW1ElBR",
-      "invalidStatus": false,
-      "jobName": "风力运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101260100,
-      "locationName": "贵阳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "风力运维工程师【注】风电属于技术型岗位，不吃青春饭，工作年限越长，技能越成熟，工资越高，新能源电力的发展是国家倡导趋势，必将取缔火电（污染性浪费资源性），前景广阔。熟悉风机类检修维护、继电保护设备、自动控制系统；熟练运用办公软件，有良好的沟通协调能力、书面表达能力；身体健康，具有较强的团队合作能力，及吃苦耐劳精神，不恐高，能适应在外工作",
-      "encryptAddressId": "dbde812c1e761a741HB_2tW9GFA~",
-      "address": "贵阳南明区龙里大草原度假中心龙里大草原",
-      "longitude": 106.730095,
-      "latitude": 26.562798,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1bd7c137660596c0c8bb8ece67238e2f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c1da805629409c0429144e1e23169c5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维",
-        "运维工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "高女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200902/449f152e27373e547acf0fef1dea4c1ae3f34ed08c46d5623daea5b4105_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中广核龙里风力发电",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1ccff6ddd1948dcf1nV_09m4FlE~",
-      "brandName": "中广核龙里风力发电",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101205,
-      "industryName": "电力/热力/燃气/水利",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727294594183,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中广核龙里风力发电",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中广核龙里风力发电",
+        "certificated": true,
+        "large": null,
+        "name": "高女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200902/449f152e27373e547acf0fef1dea4c1ae3f34ed08c46d5623daea5b4105_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727294594183,
+        "brandName": "中广核龙里风力发电",
+        "customerBrandName": "中广核龙里风力发电",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1ccff6ddd1948dcf1nV_09m4FlE~",
+        "focusBrand": false,
+        "industry": 101205,
+        "industryName": "电力/热力/燃气/水利",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "贵阳南明区龙里大草原度假中心龙里大草原",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "dbde812c1e761a741HB_2tW9GFA~",
+        "encryptId": "1f05d2d0d201024f3nN529q8FlY~",
+        "encryptUserId": "dc163d69b46d9fde1nZ-2dW1ElBR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "风力运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.562798,
+        "location": 101260100,
+        "locationName": "贵阳",
+        "longitude": 106.730095,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c1da805629409c0429144e1e23169c5",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "风力运维工程师【注】风电属于技术型岗位，不吃青春饭，工作年限越长，技能越成熟，工资越高，新能源电力的发展是国家倡导趋势，必将取缔火电（污染性浪费资源性），前景广阔。熟悉风机类检修维护、继电保护设备、自动控制系统；熟练运用办公软件，有良好的沟通协调能力、书面表达能力；身体健康，具有较强的团队合作能力，及吃苦耐劳精神，不恐高，能适应在外工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "运维",
+            "运维工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1bd7c137660596c0c8bb8ece67238e2f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ylyaK5XcuShiJ-f1IQP60KVwggkxwjBzInndyDl3vJwZmSkqXTEQquNG_TTsnLJzszER_swrJHN4dHQVmD3Cr-4-hsIlEQBS9XvRHP7WB-nD0X8p_zw~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "w3fOaDSZEcuA3-01wmoaeijJvyBYe4DVPD-80KuaNDXmX6B4eMnFPJbvHuOozzTV5PIjkvVIOOQkLY1LyyVAxgDAw9_HKb5cFLfNAPrETFnkXg_m_IMlIF_G1w1BhxBScyce-Ov_mZFCsA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "eeaec6142e04bcbb1H192du_GFtU",
-      "encryptUserId": "823a7d228998397e1XV63t-8FVA~",
-      "invalidStatus": false,
-      "jobName": "初级python工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责AI大模型应用开发平台开发，包括Agent、数据集、部署推理、评测。\n2.独立承担研发职责，贡献开源社区高质量的代码和设计。\n3.根据项目需求，编写项目设计文档，完成软件开发和调试工作。\n4.探索和研究前沿技术，对新技术进行预研和应用。\n5.与团队成员合作，共同解决技术难题，提升系统性能和用户体验。\n任职要求：\n1.熟悉Python，TypeScript编程语言。\n2.有大模型部署、推理服务系统，评测系统，数据集管理过往任意经验。\n3.熟悉Linux操作系统，掌握Git、Docker、k8s等开发工具。\n4.较强的问题分析和解决能力，对领域前沿技术保持持续关注和学习。",
-      "encryptAddressId": "8debe8d4e6e3ebd41nB73N-7EFpYwY2-VPOf",
-      "address": "南京建邺区江苏苏商银行.",
-      "longitude": 118.718772,
-      "latitude": 31.987362,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231113/48ba41acc9cef1bfcb41105f042aac6b8660adf73b371f066bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231113/48ba41acc9cef1bfbef325c038419b249965982fb8a43aaf6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Docker",
-        "MySQL",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "季女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "上海星图金融服务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "db4254f770140d5f1Xd63dy8FlM~",
-      "brandName": "上海星图金融服务",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220926/7bf6f160950405e932550506a21d2032230d595f5cd4300b0629af7ea69a97d7826975c7445b1b5e.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100206,
-      "industryName": "互联网金融",
-      "introduce": "上海星图金融服务集团有限公司，成立于2006年，作为首批金融控股集团监管试点单位、央行金融科技试点单位，星图金融已连续3年登榜全球独角兽企业500强，连续4年入选毕马威中国领先金融科技50企业，并入选胡润中国10强金融科技企业。公司旗下多家企业获得“高新技术企业”、“创新型中小企业”称号。\n\n星图金融持续开放的引进和培养人才，公司浓厚的创新、创业氛围吸引了大批国内外头部公司的优秀人才加入，公司现有员工1000余人，其中科技、互联网人才占比50%以上，博士、硕士学历人才占比20%，海归人才占比10%。",
-      "labels": [
-        "节日福利",
-        "通讯补贴",
-        "免费工装",
-        "团建聚餐",
-        "带薪年假",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1731129845017,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海星图金融服务",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海星图金融服务",
+        "certificated": true,
+        "large": null,
+        "name": "季女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731129845017,
+        "brandName": "上海星图金融服务",
+        "customerBrandName": "上海星图金融服务",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "db4254f770140d5f1Xd63dy8FlM~",
+        "focusBrand": false,
+        "industry": 100206,
+        "industryName": "互联网金融",
+        "introduce": "上海星图金融服务集团有限公司，成立于2006年，作为首批金融控股集团监管试点单位、央行金融科技试点单位，星图金融已连续3年登榜全球独角兽企业500强，连续4年入选毕马威中国领先金融科技50企业，并入选胡润中国10强金融科技企业。公司旗下多家企业获得“高新技术企业”、“创新型中小企业”称号。\n\n星图金融持续开放的引进和培养人才，公司浓厚的创新、创业氛围吸引了大批国内外头部公司的优秀人才加入，公司现有员工1000余人，其中科技、互联网人才占比50%以上，博士、硕士学历人才占比20%，海归人才占比10%。",
+        "labels": [
+            "节日福利",
+            "通讯补贴",
+            "免费工装",
+            "团建聚餐",
+            "带薪年假",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220926/7bf6f160950405e932550506a21d2032230d595f5cd4300b0629af7ea69a97d7826975c7445b1b5e.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京建邺区江苏苏商银行.",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8debe8d4e6e3ebd41nB73N-7EFpYwY2-VPOf",
+        "encryptId": "eeaec6142e04bcbb1H192du_GFtU",
+        "encryptUserId": "823a7d228998397e1XV63t-8FVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级python工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.987362,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.718772,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231113/48ba41acc9cef1bfbef325c038419b249965982fb8a43aaf6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "岗位职责：\n1.负责AI大模型应用开发平台开发，包括Agent、数据集、部署推理、评测。\n2.独立承担研发职责，贡献开源社区高质量的代码和设计。\n3.根据项目需求，编写项目设计文档，完成软件开发和调试工作。\n4.探索和研究前沿技术，对新技术进行预研和应用。\n5.与团队成员合作，共同解决技术难题，提升系统性能和用户体验。\n任职要求：\n1.熟悉Python，TypeScript编程语言。\n2.有大模型部署、推理服务系统，评测系统，数据集管理过往任意经验。\n3.熟悉Linux操作系统，掌握Git、Docker、k8s等开发工具。\n4.较强的问题分析和解决能力，对领域前沿技术保持持续关注和学习。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K·13薪",
+        "showSkills": [
+            "Docker",
+            "MySQL",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231113/48ba41acc9cef1bfcb41105f042aac6b8660adf73b371f066bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "w3fOaDSZEcuA3-01wmoaeijJvyBYe4DVPD-80KuaNDXmX6B4eMnFPJbvHuOozzTV5PIjkvVIOOQkLY1LyyVAxgDAw9_HKb5cFLfNAPrETFnkXg_m_IMlIF_G1w1BhxBScyce-Ov_mZFCsA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

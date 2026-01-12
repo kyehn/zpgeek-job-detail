@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Hi23Qz37-62It-m1tUK4nF1C-YCBu__64eP17-CNMPMlEa29EJZ6ANwXXgkRSIEFG9r6vGldqlEyH70TdhPbjy6Ros3gtppLd5l2Ag0wGXI9uwvJmSLob_enbhu0qUKdSS0QvCEp6MbC3MUngmrLBtJwiCkUONJopyVS_AnEwn6Onzh143z4LjbUri06riWcJdO-Db8tOThHRBxvIkRnmOR-6Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "33d652d691ba8f651Hd73N2-EFNY",
-      "encryptUserId": "58833ae416d342ad0nZ43d25FVRR",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "初级测试工程师\n1、统招本科学历，1年以上的实际项目测试或相关工作经验。\n2、掌握主流软件测试方法，掌握软件测试理论知识；具备较好的测试方案编写能力和测试用例设计能力。\n3、具备较好的需求分析能力，良好的逻辑分析能力和较好的理解能力与学习能力。\n4、掌握oracle、PG或mysql数据库的基本使用及常用的sql语句，熟悉主流接口测试工具，有开发经验优先。\n5、有性能测试、自动化测试技术能力优先。",
-      "encryptAddressId": "d2011dac8fa226231nBz09W4FVVU",
-      "address": "北京西城区北京昌盛1",
-      "longitude": 116.383146,
-      "latitude": 39.903751,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/930954a6fd4ba746d31fdb439e032156",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27bf583292ec76963e60c9dec247f5b4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230509/607f1f3d68754fd05dcb5d5bd88883ac443c4839df32d4e408857432bfe378f9a35f997eb42_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "葡萄柚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d6b492624b51fef21nVz2tu4Flc~",
-      "brandName": "葡萄柚",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733472820712,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "葡萄柚",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "葡萄柚",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230509/607f1f3d68754fd05dcb5d5bd88883ac443c4839df32d4e408857432bfe378f9a35f997eb42_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1733472820712,
+        "brandName": "葡萄柚",
+        "customerBrandName": "葡萄柚",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d6b492624b51fef21nVz2tu4Flc~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京西城区北京昌盛1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "d2011dac8fa226231nBz09W4FVVU",
+        "encryptId": "33d652d691ba8f651Hd73N2-EFNY",
+        "encryptUserId": "58833ae416d342ad0nZ43d25FVRR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.903751,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.383146,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27bf583292ec76963e60c9dec247f5b4",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "初级测试工程师\n1、统招本科学历，1年以上的实际项目测试或相关工作经验。\n2、掌握主流软件测试方法，掌握软件测试理论知识；具备较好的测试方案编写能力和测试用例设计能力。\n3、具备较好的需求分析能力，良好的逻辑分析能力和较好的理解能力与学习能力。\n4、掌握oracle、PG或mysql数据库的基本使用及常用的sql语句，熟悉主流接口测试工具，有开发经验优先。\n5、有性能测试、自动化测试技术能力优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/930954a6fd4ba746d31fdb439e032156"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Hi23Qz37-62It-m1tUK4nF1C-YCBu__64eP17-CNMPMlEa29EJZ6ANwXXgkRSIEFG9r6vGldqlEyH70TdhPbjy6Ros3gtppLd5l2Ag0wGXI9uwvJmSLob_enbhu0qUKdSS0QvCEp6MbC3MUngmrLBtJwiCkUONJopyVS_AnEwn6Onzh143z4LjbUri06riWcJdO-Db8tOThHRBxvIkRnmOR-6Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

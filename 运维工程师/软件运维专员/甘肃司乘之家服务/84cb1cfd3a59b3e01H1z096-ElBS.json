@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Mm0fHtYb6W48s-_1MXRHEutgMH-x00WhfDTXZKwVERGIM-NvYt9iPHou2ymuyiAZvtJl619EVt-PBQ-Icw3YIXDZY_rLJjQu6Cjl9pL2ACuQ3Ig7NKjD3Qdwxmm0E-5YFpVKvTWHLDdSAg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "84cb1cfd3a59b3e01H1z096-ElBS",
-      "encryptUserId": "80c9b47070822e191HR92di1EFY~",
-      "invalidStatus": false,
-      "jobName": "软件运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101160100,
-      "locationName": "兰州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责软件系统的日常运维工作，确保系统稳定运行。\n2、监控系统性能，及时发现并处理系统故障。\n3、与开发团队合作，优化系统配置和性能。\n\n任职要求\n1、具备良好的系统运维基础和实践经验。\n2、能够独立处理和解决运维过程中出现的技术问题。\n3、具有良好的团队合作精神和沟通能力。",
-      "encryptAddressId": "135788aa5ae6792f1nV_3du9E1dX",
-      "address": "兰州城关区城关区南滨河东路5268号名城广场4号楼2903室",
-      "longitude": 103.869247,
-      "latitude": 36.079069,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230829/48ba41acc9cef1bff10a5223a1f3ae9cb736e1904deed5fe6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230829/48ba41acc9cef1bff3afad9c59bf02ec8e778e22a78d84696bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维开发经验",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "谢女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "甘肃司乘之家服务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "db7daf1c01695b201X1y09S0FlQ~",
-      "brandName": "甘肃司乘之家服务",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101303,
-      "industryName": "农/林/牧/渔",
-      "introduce": "公司是一家新成立的创兴型企业公司，成立于2023年6月15日，致力于全省的个性化订制出行服务，车辆保险服务，生活服务。\n\n办公地址在甘肃省兰州市城关区南滨河东路5268号名城广场4号楼29层2905室-1\n\n主要经营商务代理代办服务，互联网直播服务",
-      "labels": [
-        "带薪年假",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1731726769634,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "甘肃司乘之家服务",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "甘肃司乘之家服务",
+        "certificated": true,
+        "large": null,
+        "name": "谢女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731726769634,
+        "brandName": "甘肃司乘之家服务",
+        "customerBrandName": "甘肃司乘之家服务",
+        "customerBrandStageName": "",
+        "encryptBrandId": "db7daf1c01695b201X1y09S0FlQ~",
+        "focusBrand": false,
+        "industry": 101303,
+        "industryName": "农/林/牧/渔",
+        "introduce": "公司是一家新成立的创兴型企业公司，成立于2023年6月15日，致力于全省的个性化订制出行服务，车辆保险服务，生活服务。\n\n办公地址在甘肃省兰州市城关区南滨河东路5268号名城广场4号楼29层2905室-1\n\n主要经营商务代理代办服务，互联网直播服务",
+        "labels": [
+            "带薪年假",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "兰州城关区城关区南滨河东路5268号名城广场4号楼2903室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "135788aa5ae6792f1nV_3du9E1dX",
+        "encryptId": "84cb1cfd3a59b3e01H1z096-ElBS",
+        "encryptUserId": "80c9b47070822e191HR92di1EFY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件运维专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 36.079069,
+        "location": 101160100,
+        "locationName": "兰州",
+        "longitude": 103.869247,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230829/48ba41acc9cef1bff3afad9c59bf02ec8e778e22a78d84696bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容\n1、负责软件系统的日常运维工作，确保系统稳定运行。\n2、监控系统性能，及时发现并处理系统故障。\n3、与开发团队合作，优化系统配置和性能。\n\n任职要求\n1、具备良好的系统运维基础和实践经验。\n2、能够独立处理和解决运维过程中出现的技术问题。\n3、具有良好的团队合作精神和沟通能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "运维开发经验",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230829/48ba41acc9cef1bff10a5223a1f3ae9cb736e1904deed5fe6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Mm0fHtYb6W48s-_1MXRHEutgMH-x00WhfDTXZKwVERGIM-NvYt9iPHou2ymuyiAZvtJl619EVt-PBQ-Icw3YIXDZY_rLJjQu6Cjl9pL2ACuQ3Ig7NKjD3Qdwxmm0E-5YFpVKvTWHLDdSAg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

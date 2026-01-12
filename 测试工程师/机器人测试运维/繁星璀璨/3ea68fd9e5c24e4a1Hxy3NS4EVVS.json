@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eIbK3BNnwUv9g-r1io3BWMaP6JQC4sRmNFyznGZP69udl_m62qMnp_PjE4txVk55qLIQ7i7_SzKaeLncMDrYqpanWQ_fl08zu4MnZWJEDgOJtW9JURvKdbScf-QPEvFdTHAXcm2ublV14nI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3ea68fd9e5c24e4a1Hxy3NS4EVVS",
-      "encryptUserId": "73940c0ef9be86160nF42tq0F1BX",
-      "invalidStatus": false,
-      "jobName": "机器人测试运维",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.主要负责我们新研发的清扫机器人测试工作，有远程研发人员指导着做\n2、偶尔需要出差到附近江浙城市，出差情况比较少，出差会报销车费跟住宿费\n3.工作时间9-18点，周末单休，薪资200/天，本项目需要做三个月，做不满三个月薪资按每天160结算\n4.薪资月结，每个月可以预支2000块钱\n5.需要自带笔记本电脑，最好理工科毕业",
-      "encryptAddressId": "a6529f8c0ad4272d1nd70tS4GVRWwY24Uvud",
-      "address": "上海浦东新区众联能创康桥工厂101",
-      "longitude": 121.621803,
-      "latitude": 31.119557,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bf66f42d2e98abfb0b3177e9552b98421e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bfd50dcc94a861c82ecf61cc3dbe55a9596bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "卢先生",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220929/607f1f3d68754fd0df0d54a96c7d5001dfdb25681293dbfd7149605ff1fb4704fa2ab2e93a7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "繁星璀璨",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b876080b51eb650a1HFz3tm5EVU~",
-      "brandName": "繁星璀璨",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728349120719,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "繁星璀璨",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "繁星璀璨",
+        "certificated": true,
+        "large": null,
+        "name": "卢先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220929/607f1f3d68754fd0df0d54a96c7d5001dfdb25681293dbfd7149605ff1fb4704fa2ab2e93a7_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1728349120719,
+        "brandName": "繁星璀璨",
+        "customerBrandName": "繁星璀璨",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b876080b51eb650a1HFz3tm5EVU~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区众联能创康桥工厂101",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a6529f8c0ad4272d1nd70tS4GVRWwY24Uvud",
+        "encryptId": "3ea68fd9e5c24e4a1Hxy3NS4EVVS",
+        "encryptUserId": "73940c0ef9be86160nF42tq0F1BX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "机器人测试运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.119557,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.621803,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bfd50dcc94a861c82ecf61cc3dbe55a9596bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.主要负责我们新研发的清扫机器人测试工作，有远程研发人员指导着做\n2、偶尔需要出差到附近江浙城市，出差情况比较少，出差会报销车费跟住宿费\n3.工作时间9-18点，周末单休，薪资200/天，本项目需要做三个月，做不满三个月薪资按每天160结算\n4.薪资月结，每个月可以预支2000块钱\n5.需要自带笔记本电脑，最好理工科毕业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "自动化测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bf66f42d2e98abfb0b3177e9552b98421e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eIbK3BNnwUv9g-r1io3BWMaP6JQC4sRmNFyznGZP69udl_m62qMnp_PjE4txVk55qLIQ7i7_SzKaeLncMDrYqpanWQ_fl08zu4MnZWJEDgOJtW9JURvKdbScf-QPEvFdTHAXcm2ublV14nI~",
+    "selfAccess": false,
+    "sessionId": null
 }

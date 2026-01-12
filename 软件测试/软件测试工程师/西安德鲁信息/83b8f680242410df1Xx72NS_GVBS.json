@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xFYVWkoWKp0Qb-_1e3RXPUUf3Sa1ioaPmKyhQv39jCY8illbdiTR6jQZOzJo0BCe_8NHHZPn-Q_YY1Lanhce6VVBd19ffMTYVQugmqUTlTNX71HGrDbFdarcgqvu7ci9CgFSmw4cdAwkTsc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "83b8f680242410df1Xx72NS_GVBS",
-      "encryptUserId": "237a584359befe770nx_39m6EVRQ",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "完成公司安排的测试工作，及质量控制相关文档",
-      "encryptAddressId": "01a56dab15c3889833Z_39q_F1M~",
-      "address": "西安莲湖区御园11号楼606",
-      "longitude": 108.900347,
-      "latitude": 34.288148,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f250368b201c6523dd08680ac9d3df0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fdaff9e58350700f8c8bbd6e9e46294f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "测试工作经验",
-        "性能测试",
-        "MySQL",
-        "功能测试",
-        "计算机相关专业",
-        "软件开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "西安德鲁信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c96bfb9df464d9e21XBy3di-EFY~",
-      "brandName": "西安德鲁信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726727232000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "西安德鲁信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "西安德鲁信息",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1726727232000,
+        "brandName": "西安德鲁信息",
+        "customerBrandName": "西安德鲁信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c96bfb9df464d9e21XBy3di-EFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安莲湖区御园11号楼606",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "01a56dab15c3889833Z_39q_F1M~",
+        "encryptId": "83b8f680242410df1Xx72NS_GVBS",
+        "encryptUserId": "237a584359befe770nx_39m6EVRQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.288148,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.900347,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fdaff9e58350700f8c8bbd6e9e46294f",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "完成公司安排的测试工作，及质量控制相关文档",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Java",
+            "测试工作经验",
+            "性能测试",
+            "MySQL",
+            "功能测试",
+            "计算机相关专业",
+            "软件开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f250368b201c6523dd08680ac9d3df0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xFYVWkoWKp0Qb-_1e3RXPUUf3Sa1ioaPmKyhQv39jCY8illbdiTR6jQZOzJo0BCe_8NHHZPn-Q_YY1Lanhce6VVBd19ffMTYVQugmqUTlTNX71HGrDbFdarcgqvu7ci9CgFSmw4cdAwkTsc~",
+    "selfAccess": false,
+    "sessionId": null
 }

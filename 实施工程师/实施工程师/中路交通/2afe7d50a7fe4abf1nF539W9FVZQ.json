@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BkhNy1kZVFBpz-z1vKqBQ8WIisbeUZldvJ_igUrVBL4EQxuSABDIEynJ4zvw3GTSGxubknV5fmfcuJPranOtSEQD_UN846Tr7c1rjQhG9HZz_38ZemTh",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2afe7d50a7fe4abf1nF539W9FVZQ",
-      "encryptUserId": "ddfc0de44de4719f0nd729u4GFtQ",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "交通组织设计\n交通影响评价\n项目管理\n智能交通\r\n\r\n加分项\r\n有以下行业经验：交通/运输·物流/仓储·大数据",
-      "encryptAddressId": "1f329764086a57a403F63NS1EFQ~",
-      "address": "南京秦淮区白下高新B幢永丰大道8号B2栋六楼",
-      "longitude": 118.872947,
-      "latitude": 32.019706,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58c619c948964d5050364b99b4e751fd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/80ff4e0371f6a8495e60488ba4dd67db",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "技术管理",
-        "交通设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱女士",
-      "title": "行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中路交通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f203a59c1b3145bd1nZy2NS8GVE~",
-      "brandName": "中路交通",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201119/357f2ff39ea5eae9cee91370de20feafc4a6b92fe534d2188c339d33346a3f43_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100608,
-      "industryName": "其他专业服务",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1725363100393,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中路交通",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中路交通",
+        "certificated": true,
+        "large": null,
+        "name": "朱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725363100393,
+        "brandName": "中路交通",
+        "customerBrandName": "中路交通",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f203a59c1b3145bd1nZy2NS8GVE~",
+        "focusBrand": false,
+        "industry": 100608,
+        "industryName": "其他专业服务",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201119/357f2ff39ea5eae9cee91370de20feafc4a6b92fe534d2188c339d33346a3f43_s.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京秦淮区白下高新B幢永丰大道8号B2栋六楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1f329764086a57a403F63NS1EFQ~",
+        "encryptId": "2afe7d50a7fe4abf1nF539W9FVZQ",
+        "encryptUserId": "ddfc0de44de4719f0nd729u4GFtQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.019706,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.872947,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/80ff4e0371f6a8495e60488ba4dd67db",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "交通组织设计\n交通影响评价\n项目管理\n智能交通\r\n\r\n加分项\r\n有以下行业经验：交通/运输·物流/仓储·大数据",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "技术管理",
+            "交通设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58c619c948964d5050364b99b4e751fd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BkhNy1kZVFBpz-z1vKqBQ8WIisbeUZldvJ_igUrVBL4EQxuSABDIEynJ4zvw3GTSGxubknV5fmfcuJPranOtSEQD_UN846Tr7c1rjQhG9HZz_38ZemTh",
+    "selfAccess": false,
+    "sessionId": null
 }

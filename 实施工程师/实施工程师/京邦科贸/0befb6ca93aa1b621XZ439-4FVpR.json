@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vVvNn6xHiWzRd-S14TKiN14uQNEsnghS1ooZmEIRr0oQxgwz6_VVVgjQby6fNEVOt7hJ2CLcoGSVlyEb2Hn1WapuK00K3XlTTywdnoC0sTApseYzrmI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0befb6ca93aa1b621XZ439-4FVpR",
-      "encryptUserId": "bb8c6f42e4a2956d0nF53dm4GFs~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101100600,
-      "locationName": "晋城",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "负责软件的售后及运维工作，推进项目顺利进行。\n工作地点有方程国际和开发区附近。\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
-      "encryptAddressId": "401248af9d9e54b20XR429y4FVI~",
-      "address": "晋城城区时家岭·方程国际1806",
-      "longitude": 112.846524,
-      "latitude": 35.473064,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c37059ac0bea5ec65c8555243b0e6e45",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a998d213dc76e188f9a3a3dc3601988e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问",
-        "售前支持",
-        "售后支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "车先生",
-      "title": "人事总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "京邦科贸",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "20ef2c68981aee8b1XRz2Ny0E1E~",
-      "brandName": "京邦科贸",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725377439883,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "京邦科贸",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "京邦科贸",
+        "certificated": true,
+        "large": null,
+        "name": "车先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725377439883,
+        "brandName": "京邦科贸",
+        "customerBrandName": "京邦科贸",
+        "customerBrandStageName": "",
+        "encryptBrandId": "20ef2c68981aee8b1XRz2Ny0E1E~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "晋城城区时家岭·方程国际1806",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "401248af9d9e54b20XR429y4FVI~",
+        "encryptId": "0befb6ca93aa1b621XZ439-4FVpR",
+        "encryptUserId": "bb8c6f42e4a2956d0nF53dm4GFs~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.473064,
+        "location": 101100600,
+        "locationName": "晋城",
+        "longitude": 112.846524,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a998d213dc76e188f9a3a3dc3601988e",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "负责软件的售后及运维工作，推进项目顺利进行。\n工作地点有方程国际和开发区附近。\r\n\r\n加分项\r\n有以下行业经验：计算机软件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "实施工程师/顾问",
+            "售前支持",
+            "售后支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c37059ac0bea5ec65c8555243b0e6e45"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vVvNn6xHiWzRd-S14TKiN14uQNEsnghS1ooZmEIRr0oQxgwz6_VVVgjQby6fNEVOt7hJ2CLcoGSVlyEb2Hn1WapuK00K3XlTTywdnoC0sTApseYzrmI~",
+    "selfAccess": false,
+    "sessionId": null
 }

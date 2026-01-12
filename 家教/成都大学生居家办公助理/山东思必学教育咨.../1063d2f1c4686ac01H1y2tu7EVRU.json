@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TWwtoAzcZN3om-z1wn05EwAvOwGNOjS5llRKhk3tS0B-bwk01X033L_NwmxMflRpEYngPouivREvU9qj9PBzl5Y55HSwEUO9K7MPNJ9aO1bPtoIMztTwu-PIsI_rzcBgGgthApNQbxbmHA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1063d2f1c4686ac01H1y2tu7EVRU",
-      "encryptUserId": "0a7c5f042fdd671e33Ry2d64E1o~",
-      "invalidStatus": false,
-      "jobName": "成都大学生居家办公助理",
-      "position": 190321,
-      "positionName": "家教",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-2K",
-      "payTypeDesc": null,
-      "postDescription": "1.工作全程在线上进行，无需前往固定办公场所坐班，更不必受打卡的约束，畅享极致自由的工作状态。\n2.协助老师精心输出精彩的图文以及富有感染力的文字内容。\n3.优先考虑时间充裕且配合度高的伙伴,能够积极响应工作需求，确保任务高效推进。\n4.需熟悉手机操作流程，能够熟练运用各类手机软件完成工作任务。\n5.经验方面毫无限制，即便是零基础的新手，也能轻松胜任这份工作，\n开启精彩的职业之旅。",
-      "encryptAddressId": "57956459bfeddcb51nB939m1ElBYwom8Vvye",
-      "address": "成都龙泉驿区成都大学2025",
-      "longitude": 104.193623,
-      "latitude": 30.653756,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230904/48ba41acc9cef1bff9911397b30c62512c30f192eee2faa46bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230904/48ba41acc9cef1bf215509feb421bc1d90154e7337c56b196bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "线上教育"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "肖女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241105/607f1f3d68754fd0c0993299a15eaf736c27560787ada10a4e6e4b4d1cdbd86a10e21d000baeac5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "山东思必学教育咨...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2d17a4cf3351d7161HJ_3Nu4FVU~",
-      "brandName": "山东思必学教育咨...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100302,
-      "industryName": "学校/学历教育",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731250476631,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东思必学教育咨...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山东思必学教育咨...",
+        "certificated": true,
+        "large": null,
+        "name": "肖女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241105/607f1f3d68754fd0c0993299a15eaf736c27560787ada10a4e6e4b4d1cdbd86a10e21d000baeac5_b.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1731250476631,
+        "brandName": "山东思必学教育咨...",
+        "customerBrandName": "山东思必学教育咨...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2d17a4cf3351d7161HJ_3Nu4FVU~",
+        "focusBrand": false,
+        "industry": 100302,
+        "industryName": "学校/学历教育",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都龙泉驿区成都大学2025",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "57956459bfeddcb51nB939m1ElBYwom8Vvye",
+        "encryptId": "1063d2f1c4686ac01H1y2tu7EVRU",
+        "encryptUserId": "0a7c5f042fdd671e33Ry2d64E1o~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "成都大学生居家办公助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.653756,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.193623,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230904/48ba41acc9cef1bf215509feb421bc1d90154e7337c56b196bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 190321,
+        "positionName": "家教",
+        "postDescription": "1.工作全程在线上进行，无需前往固定办公场所坐班，更不必受打卡的约束，畅享极致自由的工作状态。\n2.协助老师精心输出精彩的图文以及富有感染力的文字内容。\n3.优先考虑时间充裕且配合度高的伙伴,能够积极响应工作需求，确保任务高效推进。\n4.需熟悉手机操作流程，能够熟练运用各类手机软件完成工作任务。\n5.经验方面毫无限制，即便是零基础的新手，也能轻松胜任这份工作，\n开启精彩的职业之旅。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-2K",
+        "showSkills": [
+            "线上教育"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230904/48ba41acc9cef1bff9911397b30c62512c30f192eee2faa46bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TWwtoAzcZN3om-z1wn05EwAvOwGNOjS5llRKhk3tS0B-bwk01X033L_NwmxMflRpEYngPouivREvU9qj9PBzl5Y55HSwEUO9K7MPNJ9aO1bPtoIMztTwu-PIsI_rzcBgGgthApNQbxbmHA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

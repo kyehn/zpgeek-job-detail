@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "AHtrccAWNOvjC-k15kBR-Zt4FnFqcrzwv11WHZK_Fu_Ih8cAK9ET5jlre_xaZ3sZdW449dZuDdvLkwhZK4toqYcQpA7P3UPYcpWFFcskD19EgwElQJk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9c6f974ea9cb30171XV90tu7GFpR",
-      "encryptUserId": "46c86253d20ea7833nN42d-5EVA~",
-      "invalidStatus": false,
-      "jobName": "驻场运维服务",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210700,
-      "locationName": "温州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "驻场人员会电脑等办公设备",
-      "encryptAddressId": "d5d19ccd06302e7003x63tS1FVE~",
-      "address": "温州鹿城区国信大厦(飞霞桥路)国信大厦1401",
-      "longitude": 120.66818,
-      "latitude": 28.012513,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5b8ffee4ddb7893cba2ad1b1113a530",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7abb928fda08b9c862f2e5879fc5394",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "服务器配置",
-        "网络交换技术",
-        "系统运维",
-        "应用运维",
-        "机房运维",
-        "网络工程师证"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211223/607f1f3d68754fd0a4226395d8c6f594517190b6c8e5acae684f0de7d5d4047661716c8b34e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "新佳办公",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6fab1936f3069c571nZ42tu4GFU~",
-      "brandName": "新佳办公",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101008,
-      "industryName": "办公用品及设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729615289225,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "新佳办公",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "新佳办公",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211223/607f1f3d68754fd0a4226395d8c6f594517190b6c8e5acae684f0de7d5d4047661716c8b34e_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729615289225,
+        "brandName": "新佳办公",
+        "customerBrandName": "新佳办公",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6fab1936f3069c571nZ42tu4GFU~",
+        "focusBrand": false,
+        "industry": 101008,
+        "industryName": "办公用品及设备",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "温州鹿城区国信大厦(飞霞桥路)国信大厦1401",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d5d19ccd06302e7003x63tS1FVE~",
+        "encryptId": "9c6f974ea9cb30171XV90tu7GFpR",
+        "encryptUserId": "46c86253d20ea7833nN42d-5EVA~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "驻场运维服务",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.012513,
+        "location": 101210700,
+        "locationName": "温州",
+        "longitude": 120.66818,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7abb928fda08b9c862f2e5879fc5394",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "驻场人员会电脑等办公设备",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "服务器配置",
+            "网络交换技术",
+            "系统运维",
+            "应用运维",
+            "机房运维",
+            "网络工程师证"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5b8ffee4ddb7893cba2ad1b1113a530"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "AHtrccAWNOvjC-k15kBR-Zt4FnFqcrzwv11WHZK_Fu_Ih8cAK9ET5jlre_xaZ3sZdW449dZuDdvLkwhZK4toqYcQpA7P3UPYcpWFFcskD19EgwElQJk~",
+    "selfAccess": false,
+    "sessionId": null
 }

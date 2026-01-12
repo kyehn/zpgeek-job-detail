@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EmjmRXVYRALur-w1CfmdpVv_DKZ7HiiAevJ-h48j2vj1fRXHidsE-sv3rlNrXKgA2QCrRmIjBpXfK9Humj_zwsCtbt4Pmt0dSkNPn2_bMVzJ9Si0uy_w",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d2e04ab4af742b841Xx-39m7F1RQ",
-      "encryptUserId": "9ff2292317a7592a0nx829y9FVJS",
-      "invalidStatus": false,
-      "jobName": "招聘会PAS软件批图",
-      "position": 120106,
-      "positionName": "平面设计",
-      "location": 101260100,
-      "locationName": "贵阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-2K",
-      "payTypeDesc": null,
-      "postDescription": "对工作认真负责勤学苦练有上进心的联系",
-      "encryptAddressId": "3de9ea9aa244df4233Zy3di4GVE~",
-      "address": "贵阳观山湖区富力新天地3栋1613",
-      "longitude": 106.620919,
-      "latitude": 26.639723,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c17aafffdfbc108d23c51cd066660e08",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adc0560d7cc82ce7b481811f2d24d951",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "画册设计"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "田先生",
-      "title": "副总",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230308/607f1f3d68754fd048c78ca7f61313528688ff35c43e162b2bfb0ceebac796095ff37f03f79_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "贵州智通联工程项...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2df328a22ae0091b1XF80t61FFY~",
-      "brandName": "贵州智通联工程项...",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230308/7b5b554d84f9729c03066366d330f389d7b10ed2de451d452bfb0ceebac796095ff37f03f79a6e4c.png",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [
-        "年终奖",
-        "绩效奖金",
-        "保底工资",
-        "底薪加提成",
-        "节假日加班费"
-      ],
-      "activeTime": 1722936143122,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "贵州智通联工程项...",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "贵州智通联工程项...",
+        "certificated": true,
+        "large": null,
+        "name": "田先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230308/607f1f3d68754fd048c78ca7f61313528688ff35c43e162b2bfb0ceebac796095ff37f03f79_b.jpg",
+        "title": "副总"
+    },
+    "brandComInfo": {
+        "activeTime": 1722936143122,
+        "brandName": "贵州智通联工程项...",
+        "customerBrandName": "贵州智通联工程项...",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "2df328a22ae0091b1XF80t61FFY~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [
+            "年终奖",
+            "绩效奖金",
+            "保底工资",
+            "底薪加提成",
+            "节假日加班费"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230308/7b5b554d84f9729c03066366d330f389d7b10ed2de451d452bfb0ceebac796095ff37f03f79a6e4c.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "贵阳观山湖区富力新天地3栋1613",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3de9ea9aa244df4233Zy3di4GVE~",
+        "encryptId": "d2e04ab4af742b841Xx-39m7F1RQ",
+        "encryptUserId": "9ff2292317a7592a0nx829y9FVJS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "招聘会PAS软件批图",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.639723,
+        "location": 101260100,
+        "locationName": "贵阳",
+        "longitude": 106.620919,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adc0560d7cc82ce7b481811f2d24d951",
+        "position": 120106,
+        "positionName": "平面设计",
+        "postDescription": "对工作认真负责勤学苦练有上进心的联系",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-2K",
+        "showSkills": [
+            "画册设计"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c17aafffdfbc108d23c51cd066660e08"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EmjmRXVYRALur-w1CfmdpVv_DKZ7HiiAevJ-h48j2vj1fRXHidsE-sv3rlNrXKgA2QCrRmIjBpXfK9Humj_zwsCtbt4Pmt0dSkNPn2_bMVzJ9Si0uy_w",
+    "selfAccess": false,
+    "sessionId": null
 }

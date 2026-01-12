@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "k2XF2auNwzcx9-T1Buh4TymiL6eQ4sQRJu4MNeO5U1QeFt248tl6VMxyNZlVdQwucjyVZgUoYiEZBuweq3mA2l_jRMiBEaHTO1VzvC-Lm70rOkxhO6U~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "12b016f01b294f811XB50t2-E1tY",
-      "encryptUserId": "7a41f8c9462f49cf0nF93tS1EVVQ",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101191100,
-      "locationName": "常州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司相关产品JAVA后台系统的设计与开发",
-      "encryptAddressId": "1cab507a498355ce0X1429q-EVs~",
-      "address": "常州钟楼区江南公寓58-8号",
-      "longitude": 119.940682,
-      "latitude": 31.758605,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a68274cc84897265b3fe49ff4729b1bf",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1937f62ea57b144508b3b24bada97903",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "Java",
-        "MySQL",
-        "Java开发经验",
-        "中大型项目架构设计经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "傅先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "吉月网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "dba634961269ab131nB839m8Fg~~",
-      "brandName": "吉月网络科技",
-      "logo": "https://c-res.zhipin.com/jrs/2_466c5d21cfaf0264137f3c449f2fa5aa.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722866045006,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "吉月网络科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "吉月网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "傅先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722866045006,
+        "brandName": "吉月网络科技",
+        "customerBrandName": "吉月网络科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "dba634961269ab131nB839m8Fg~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://c-res.zhipin.com/jrs/2_466c5d21cfaf0264137f3c449f2fa5aa.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "常州钟楼区江南公寓58-8号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1cab507a498355ce0X1429q-EVs~",
+        "encryptId": "12b016f01b294f811XB50t2-E1tY",
+        "encryptUserId": "7a41f8c9462f49cf0nF93tS1EVVQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.758605,
+        "location": 101191100,
+        "locationName": "常州",
+        "longitude": 119.940682,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1937f62ea57b144508b3b24bada97903",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "负责公司相关产品JAVA后台系统的设计与开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "后端工程师",
+            "Java",
+            "MySQL",
+            "Java开发经验",
+            "中大型项目架构设计经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a68274cc84897265b3fe49ff4729b1bf"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "k2XF2auNwzcx9-T1Buh4TymiL6eQ4sQRJu4MNeO5U1QeFt248tl6VMxyNZlVdQwucjyVZgUoYiEZBuweq3mA2l_jRMiBEaHTO1VzvC-Lm70rOkxhO6U~",
+    "selfAccess": false,
+    "sessionId": null
 }

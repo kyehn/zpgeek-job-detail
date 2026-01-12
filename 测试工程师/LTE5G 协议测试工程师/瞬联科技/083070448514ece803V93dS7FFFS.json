@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HlaF1bcIg5L2c-_1UGns8sx8_-ta6jrXBkKOrM4Ef5DbQ9v0hRcPcuRARlxx8uAW6jVhaUAwB_GQZPAo6E-jmLWYtGzUw6_53dVotMRr7wdMrFmsxoqyD021O2gsZg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "083070448514ece803V93dS7FFFS",
-      "encryptUserId": "e86f2176ad8b7c771H1_2d69E1c~",
-      "invalidStatus": false,
-      "jobName": "LTE/5G 协议测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-10K",
-      "payTypeDesc": null,
-      "postDescription": "qualifications:\n1. 本科及以上学历，通信工程，软件工程，计算机科学，电子工程等相关专业；\n2. 熟悉LTE/5G协议，了解MAC/RRC/RLC/PDCP其中一种；\n3. 熟悉以下任意一种语言：Python, C/C#/C++, matlab；\n4. 做事主动积极，开朗，良好的沟通及团队合作能力；\n5. 良好的英语听说写能力",
-      "encryptAddressId": "b717adb486d4e6a21nF92du0Fg~~",
-      "address": "南京江苏省南京市雨花台区云密城i栋10楼",
-      "longitude": 118.751382,
-      "latitude": 31.968908,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12390fca646af7afd4b8d8f120524f95",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7148c6b428da9c52af4f88cebfe507bc",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "测试工作经验",
-        "通信相关专业",
-        "LTE/5G协议",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吕女士",
-      "title": "招聘HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20250102/607f1f3d68754fd0e0f21c4cda738540fc4c273b9082104b983a1b8c906af5049c6e8f6ed02bb3d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "瞬联科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2403a589ad9529ee1XN62Nk~",
-      "brandName": "瞬联科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220704/7bf6f160950405e9f8c0aa0b06d9c6a97e572f47c1043c3618ffe2305bd2934452647cce545793fd.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "成立于2000年，瞬联是一家提供技术咨询、软件研发及行业级整体技术解决方案的专业服务供应商。瞬联在电信、嵌入式、IoT、汽车、移动互联网及企业软件方案等领域拥有超过20年的深厚研发经验。瞬联通过其优质的交付能力、灵活的合作模式和客户导向的理念赢得了许多世界500强企业客户，公司在大中华地区、美国、加拿大、欧洲的主要城市设有办公室和研发中心。近年来，瞬联11次被国际外包专业协会（IAOP）评为全球外包行业100强公司，同时也屡次得到Gartner、IDC和中国外包网等国内外机构的奖项和荣誉。瞬联拥有ISO9001和27001认证以及CMMI3证书（含敏捷开发流程）。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "意外险",
-        "定期体检",
-        "带薪年假",
-        "零食下午茶",
-        "节日福利"
-      ],
-      "activeTime": 1740048484887,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瞬联科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "瞬联科技",
+        "certificated": true,
+        "large": null,
+        "name": "吕女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20250102/607f1f3d68754fd0e0f21c4cda738540fc4c273b9082104b983a1b8c906af5049c6e8f6ed02bb3d_b.jpg",
+        "title": "招聘HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1740048484887,
+        "brandName": "瞬联科技",
+        "customerBrandName": "瞬联科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "2403a589ad9529ee1XN62Nk~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "成立于2000年，瞬联是一家提供技术咨询、软件研发及行业级整体技术解决方案的专业服务供应商。瞬联在电信、嵌入式、IoT、汽车、移动互联网及企业软件方案等领域拥有超过20年的深厚研发经验。瞬联通过其优质的交付能力、灵活的合作模式和客户导向的理念赢得了许多世界500强企业客户，公司在大中华地区、美国、加拿大、欧洲的主要城市设有办公室和研发中心。近年来，瞬联11次被国际外包专业协会（IAOP）评为全球外包行业100强公司，同时也屡次得到Gartner、IDC和中国外包网等国内外机构的奖项和荣誉。瞬联拥有ISO9001和27001认证以及CMMI3证书（含敏捷开发流程）。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "意外险",
+            "定期体检",
+            "带薪年假",
+            "零食下午茶",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220704/7bf6f160950405e9f8c0aa0b06d9c6a97e572f47c1043c3618ffe2305bd2934452647cce545793fd.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江苏省南京市雨花台区云密城i栋10楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "b717adb486d4e6a21nF92du0Fg~~",
+        "encryptId": "083070448514ece803V93dS7FFFS",
+        "encryptUserId": "e86f2176ad8b7c771H1_2d69E1c~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "LTE/5G 协议测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.968908,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.751382,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7148c6b428da9c52af4f88cebfe507bc",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "qualifications:\n1. 本科及以上学历，通信工程，软件工程，计算机科学，电子工程等相关专业；\n2. 熟悉LTE/5G协议，了解MAC/RRC/RLC/PDCP其中一种；\n3. 熟悉以下任意一种语言：Python, C/C#/C++, matlab；\n4. 做事主动积极，开朗，良好的沟通及团队合作能力；\n5. 良好的英语听说写能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-10K",
+        "showSkills": [
+            "C++",
+            "测试工作经验",
+            "通信相关专业",
+            "LTE/5G协议",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12390fca646af7afd4b8d8f120524f95"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HlaF1bcIg5L2c-_1UGns8sx8_-ta6jrXBkKOrM4Ef5DbQ9v0hRcPcuRARlxx8uAW6jVhaUAwB_GQZPAo6E-jmLWYtGzUw6_53dVotMRr7wdMrFmsxoqyD021O2gsZg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

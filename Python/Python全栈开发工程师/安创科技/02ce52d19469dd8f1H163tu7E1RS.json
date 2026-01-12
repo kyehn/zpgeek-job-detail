@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xnTFilkVE2YP1-j1lumQHxKlu3z5RPp_HoHQH9YhMOzDx9cHzcswo6HjG9efrS8jYoWJL6L1lZW6mU2Dd54m_VxlrhVowm5HuJjZOGW27rCZdKUd1DbMSx5KiUmjQSh44CZoz70IfyoBIQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "02ce52d19469dd8f1H163tu7E1RS",
-      "encryptUserId": "6d49d2b0a642f97d0nZ50t67FFNU",
-      "invalidStatus": false,
-      "jobName": "python全栈开发工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-13K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责1、负责公司内部数据平台的开发工作，深入理解业务需求，致力于通过技术创新提升系统性能和产品交互体验。2、主动承担项目代码开发任务，参与需求沟通和方案设计，确保项目按时交付并满足预期目标。3、参与需求迭代评审，负责工时评估，解决项目过程中遇到的技术难题，并进行技术攻关。4、积极研究新兴技术，通过不断学习和实践，提升个人技术能力，为产品的核心竞争力提供强有力的技术支撑。任职资格1、本科及以上学历，有1年以上的内部数据平台开发工作经验，至少3年全栈开发经验。2、熟练使用Python主流后端框架，如FastAPI、Flask等，具备扎实的RESTfulAPI设计与开发经验。3、精通MySQL、PostgreSQL、Redis等数据库技术，能够设计和优化高效的数据库架构。4、熟练掌握JavaScript、jQuery、HTML、CSS等前端技术，有Vue.is开发经验。5、具有良好的编码习惯，注重代码的可维护性可扩展性和可测试性，追求高质量的代码标准。6、拥有强烈的学习意愿和自我驱动力，乐于探索和尝试新技术，能够快速适应变化。7、具备较强的独立解决问题的能力，能够自主完成项目开发任务，有主人翁精神。二 福利待遇：1、社会保险：员工入职后公司统一购买五险一金；2、培训晋升：双渠道晋升机制，分别为项目技术类方向和管理方向；3、其他福利：员工入职满一年会享受带薪年假等福利，不定期团建活动；4、假期规定：周末双休并且可享受国家规定的法定假期。",
-      "encryptAddressId": "3e7f6e07671f7f0a1n1-3NS4GVE~",
-      "address": "广州越秀区丰伟大厦写字楼15BC单元",
-      "longitude": 113.308655,
-      "latitude": 23.119305,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d66e46f073dd3471807d0981ccf5e482",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7be0a25ae773dabe8a0fbd1a34f6d423",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "Docker",
-        "Django",
-        "MySQL",
-        "Redis",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人事总监",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=f625d86fc2648da4jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN9bnH905Np5vYxpS1O0mb01Z-r3Kcdd4-vsC2wqMllVqXVa-f3zFnIdFeC1XE5txoofHF-1xf5b9V1JV9PjhHQpAHRG8CPZNJH7lp9yR7lY3eYK7kWOmAJd13E~&radius=15",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "安创科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cd3af75e62181f9a3nVy3t6_Fg~~",
-      "brandName": "安创科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230926/7bf6f160950405e94a26f7631d2cf972525bc0d5615e79d9627fcc79a5604151212b69831efef048.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "广东安创信息科技开发有限公司（以下简称“广东安创”）是一家致力于网络和信息安全技术和应用产品研发、信息系统整体安全方案设计、安全检测与防护、安全运维及管理、安全技术支持的专业化信息安全服务提供商。（官网：http://www.acitsec.com）公司以发展我国信息安全产业，促进我国信息化发展，保障信息系统安全为宗旨，以一流的技术为客户提供服务。 目前，公司的服务领域涉及政府、金融、电信、证券以及企事业单位、国家重点建设项目，并与政府、金融、电信等重点客户结成战略合作伙伴关系，为他们提供全方位的信息安全产品、信息系统集成与安全服务。作为一家专业的信息安全服务公司，安全科技拥有丰富的管理资源和技术资源，并与广东省信息院士工作站建立了良好合作关系，双方合作共同成立了权威研究机构—信息安全联合实验室。该实验室组成了以全球顶尖信息安全专家及科研人员为核心的专业研发团队，专注于网络与信息安全领域前沿技术研究，不断创造和提供更前沿的产品与服务。目前，该信息安全联合实验室已研发出大量创新性科研成果并将通过广东安创转化为市场需求，创造经济效益，使得本公司不断朝着成为国内的信息安全机构的市场化窗口单位而努力。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
-        "零食下午茶",
-        "有无线网",
-        "节日福利",
-        "生日福利"
-      ],
-      "activeTime": 1730563173741,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "安创科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "安创科技",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=f625d86fc2648da4jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN9bnH905Np5vYxpS1O0mb01Z-r3Kcdd4-vsC2wqMllVqXVa-f3zFnIdFeC1XE5txoofHF-1xf5b9V1JV9PjhHQpAHRG8CPZNJH7lp9yR7lY3eYK7kWOmAJd13E~&radius=15",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1730563173741,
+        "brandName": "安创科技",
+        "customerBrandName": "安创科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "cd3af75e62181f9a3nVy3t6_Fg~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "广东安创信息科技开发有限公司（以下简称“广东安创”）是一家致力于网络和信息安全技术和应用产品研发、信息系统整体安全方案设计、安全检测与防护、安全运维及管理、安全技术支持的专业化信息安全服务提供商。（官网：http://www.acitsec.com）公司以发展我国信息安全产业，促进我国信息化发展，保障信息系统安全为宗旨，以一流的技术为客户提供服务。 目前，公司的服务领域涉及政府、金融、电信、证券以及企事业单位、国家重点建设项目，并与政府、金融、电信等重点客户结成战略合作伙伴关系，为他们提供全方位的信息安全产品、信息系统集成与安全服务。作为一家专业的信息安全服务公司，安全科技拥有丰富的管理资源和技术资源，并与广东省信息院士工作站建立了良好合作关系，双方合作共同成立了权威研究机构—信息安全联合实验室。该实验室组成了以全球顶尖信息安全专家及科研人员为核心的专业研发团队，专注于网络与信息安全领域前沿技术研究，不断创造和提供更前沿的产品与服务。目前，该信息安全联合实验室已研发出大量创新性科研成果并将通过广东安创转化为市场需求，创造经济效益，使得本公司不断朝着成为国内的信息安全机构的市场化窗口单位而努力。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "带薪年假",
+            "员工旅游",
+            "零食下午茶",
+            "有无线网",
+            "节日福利",
+            "生日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230926/7bf6f160950405e94a26f7631d2cf972525bc0d5615e79d9627fcc79a5604151212b69831efef048.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州越秀区丰伟大厦写字楼15BC单元",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3e7f6e07671f7f0a1n1-3NS4GVE~",
+        "encryptId": "02ce52d19469dd8f1H163tu7E1RS",
+        "encryptUserId": "6d49d2b0a642f97d0nZ50t67FFNU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "python全栈开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.119305,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.308655,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7be0a25ae773dabe8a0fbd1a34f6d423",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "工作职责1、负责公司内部数据平台的开发工作，深入理解业务需求，致力于通过技术创新提升系统性能和产品交互体验。2、主动承担项目代码开发任务，参与需求沟通和方案设计，确保项目按时交付并满足预期目标。3、参与需求迭代评审，负责工时评估，解决项目过程中遇到的技术难题，并进行技术攻关。4、积极研究新兴技术，通过不断学习和实践，提升个人技术能力，为产品的核心竞争力提供强有力的技术支撑。任职资格1、本科及以上学历，有1年以上的内部数据平台开发工作经验，至少3年全栈开发经验。2、熟练使用Python主流后端框架，如FastAPI、Flask等，具备扎实的RESTfulAPI设计与开发经验。3、精通MySQL、PostgreSQL、Redis等数据库技术，能够设计和优化高效的数据库架构。4、熟练掌握JavaScript、jQuery、HTML、CSS等前端技术，有Vue.is开发经验。5、具有良好的编码习惯，注重代码的可维护性可扩展性和可测试性，追求高质量的代码标准。6、拥有强烈的学习意愿和自我驱动力，乐于探索和尝试新技术，能够快速适应变化。7、具备较强的独立解决问题的能力，能够自主完成项目开发任务，有主人翁精神。二 福利待遇：1、社会保险：员工入职后公司统一购买五险一金；2、培训晋升：双渠道晋升机制，分别为项目技术类方向和管理方向；3、其他福利：员工入职满一年会享受带薪年假等福利，不定期团建活动；4、假期规定：周末双休并且可享受国家规定的法定假期。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-13K",
+        "showSkills": [
+            "C++",
+            "Docker",
+            "Django",
+            "MySQL",
+            "Redis",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d66e46f073dd3471807d0981ccf5e482"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xnTFilkVE2YP1-j1lumQHxKlu3z5RPp_HoHQH9YhMOzDx9cHzcswo6HjG9efrS8jYoWJL6L1lZW6mU2Dd54m_VxlrhVowm5HuJjZOGW27rCZdKUd1DbMSx5KiUmjQSh44CZoz70IfyoBIQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

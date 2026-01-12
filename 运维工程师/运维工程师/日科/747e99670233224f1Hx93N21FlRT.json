@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EzPxt3j9SN6Za-v1kJCYtMMlOejPNuVZyZvF70_T-fUSTNFau0WxXw4iOTGEAC8dJa0E3HKqhSZtDY9Ae8O-kQxAlLVCjPNRsYkXZ4v3a0yqNoUQMUA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "747e99670233224f1Hx93N21FlRT",
-      "encryptUserId": "7de49e213ab84fb01nRy09-6EVFU",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101281600,
-      "locationName": "东莞",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、要求专业是网络安全或计算机科学与技术类专业\n2、要求持有C1驾照",
-      "encryptAddressId": "8522cf4113fe52b81nN-3dW6E1U~",
-      "address": "东莞广东日科实业有限公司常平镇东兴路畅旺广场A25-12号",
-      "longitude": 113.997255,
-      "latitude": 22.978809,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ec5eba44674da16b801c80d6e275178",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae20e81ac3840c5ed359821b10b6dcee",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "通信相关专业",
-        "系统运维",
-        "桌面运维",
-        "计算机相关专业",
-        "网络安全相关经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "彭女士",
-      "title": "行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200515/47f399ebbe463da5d73419483b527687872fc3c252488d469ad26f31e4f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "日科",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a31f90e8fcdafa5a33d70tq0GQ~~",
-      "brandName": "日科",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "广东日科实业有限公司自成立起一直专注于校园智能化、信息化项目。迄今为止，已经有十五年历史了，拥有四十多名职员，曾为一百多家学校服务过。因为业务拓展成立了日科文化创意公司，新增校园文化、校园环境设计及施工业务。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "包吃",
-        "节日福利"
-      ],
-      "activeTime": 1731666949000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "日科",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "日科",
+        "certificated": true,
+        "large": null,
+        "name": "彭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200515/47f399ebbe463da5d73419483b527687872fc3c252488d469ad26f31e4f_b.jpg",
+        "title": "行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731666949000,
+        "brandName": "日科",
+        "customerBrandName": "日科",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a31f90e8fcdafa5a33d70tq0GQ~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "广东日科实业有限公司自成立起一直专注于校园智能化、信息化项目。迄今为止，已经有十五年历史了，拥有四十多名职员，曾为一百多家学校服务过。因为业务拓展成立了日科文化创意公司，新增校园文化、校园环境设计及施工业务。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "包吃",
+            "节日福利"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "东莞广东日科实业有限公司常平镇东兴路畅旺广场A25-12号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8522cf4113fe52b81nN-3dW6E1U~",
+        "encryptId": "747e99670233224f1Hx93N21FlRT",
+        "encryptUserId": "7de49e213ab84fb01nRy09-6EVFU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.978809,
+        "location": 101281600,
+        "locationName": "东莞",
+        "longitude": 113.997255,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae20e81ac3840c5ed359821b10b6dcee",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、要求专业是网络安全或计算机科学与技术类专业\n2、要求持有C1驾照",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "网络运维",
+            "通信相关专业",
+            "系统运维",
+            "桌面运维",
+            "计算机相关专业",
+            "网络安全相关经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ec5eba44674da16b801c80d6e275178"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EzPxt3j9SN6Za-v1kJCYtMMlOejPNuVZyZvF70_T-fUSTNFau0WxXw4iOTGEAC8dJa0E3HKqhSZtDY9Ae8O-kQxAlLVCjPNRsYkXZ4v3a0yqNoUQMUA~",
+    "selfAccess": false,
+    "sessionId": null
 }

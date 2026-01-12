@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "NUbhzgQZUwL69-11_d4E-sJhSF8O9HPCUFYBUDFU9x4jFYB2EjcHECnDxB2fUXK7OCJt0rN2DWGUNDcOhhwMTW_fg2338Ul36F5t-zacvriQmVZkAGsC",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a30e87df3257dad21nJ_39u5GVRW",
-      "encryptUserId": "00964a23526e9e3b0ndz2d2-FVJX",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101121500,
-      "locationName": "日照",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "软件工程师\n1. 岗位职责\n1）负责海洋机器人、无人航行器等的软硬件配置与编程;\n2）负责产品、设备等的软件编写调试、样机制作；\n3）软件算法与编码，软硬件调试与分析，相关技术支持；\n4）单片机及嵌入式产品的程序开发设计工作；\n5）设计文档的编写\n2. 任职要求\n1）本科及以上学历，自动化、计算机、电气工程等相关专业，应届生或1年以上软件项目开发经验的工程师\n2）扎实的C/C++功底,熟悉新的C++11语法，具有嵌入式开发经验，\n3）熟悉AVR、STM32系列一种或多种单片机应用；\n4）熟悉RS232/485、CAN、SPI、I2C等全部或部分应用接口电路；\n5）熟悉C#、QT等一种或多种软件界面开发经验；\n6）同时具备非标机械零件设计、电路板开发经验者优先考虑。",
-      "encryptAddressId": "3431d26cf5f62c7b0nV629q4Ew~~",
-      "address": "日照东港区兴业国际财富中心A座28楼2811",
-      "longitude": 119.556891,
-      "latitude": 35.406536,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1af1b87a2b5a52b91457fb6c51edb6fd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a747566bbfab2839cf96fc3e32f4a84",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "性能测试",
-        "测试开发",
-        "通信测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "滕女士",
-      "title": "部长",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210629/4edae5d68c21a46576548ace0cb7e4f349eb46e1c1547a35f3a0fcfe344_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "上海交大日照研究院",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5131feaf034103d21nx639u9FVU~",
-      "brandName": "上海交大日照研究院",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100905,
-      "industryName": "铁路/船舶/航空/航天制造",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725335258558,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海交大日照研究院",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海交大日照研究院",
+        "certificated": true,
+        "large": null,
+        "name": "滕女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210629/4edae5d68c21a46576548ace0cb7e4f349eb46e1c1547a35f3a0fcfe344_b.jpg",
+        "title": "部长"
+    },
+    "brandComInfo": {
+        "activeTime": 1725335258558,
+        "brandName": "上海交大日照研究院",
+        "customerBrandName": "上海交大日照研究院",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5131feaf034103d21nx639u9FVU~",
+        "focusBrand": false,
+        "industry": 100905,
+        "industryName": "铁路/船舶/航空/航天制造",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "日照东港区兴业国际财富中心A座28楼2811",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3431d26cf5f62c7b0nV629q4Ew~~",
+        "encryptId": "a30e87df3257dad21nJ_39u5GVRW",
+        "encryptUserId": "00964a23526e9e3b0ndz2d2-FVJX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.406536,
+        "location": 101121500,
+        "locationName": "日照",
+        "longitude": 119.556891,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a747566bbfab2839cf96fc3e32f4a84",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "软件工程师\n1. 岗位职责\n1）负责海洋机器人、无人航行器等的软硬件配置与编程;\n2）负责产品、设备等的软件编写调试、样机制作；\n3）软件算法与编码，软硬件调试与分析，相关技术支持；\n4）单片机及嵌入式产品的程序开发设计工作；\n5）设计文档的编写\n2. 任职要求\n1）本科及以上学历，自动化、计算机、电气工程等相关专业，应届生或1年以上软件项目开发经验的工程师\n2）扎实的C/C++功底,熟悉新的C++11语法，具有嵌入式开发经验，\n3）熟悉AVR、STM32系列一种或多种单片机应用；\n4）熟悉RS232/485、CAN、SPI、I2C等全部或部分应用接口电路；\n5）熟悉C#、QT等一种或多种软件界面开发经验；\n6）同时具备非标机械零件设计、电路板开发经验者优先考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "软件测试",
+            "性能测试",
+            "测试开发",
+            "通信测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1af1b87a2b5a52b91457fb6c51edb6fd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "NUbhzgQZUwL69-11_d4E-sJhSF8O9HPCUFYBUDFU9x4jFYB2EjcHECnDxB2fUXK7OCJt0rN2DWGUNDcOhhwMTW_fg2338Ul36F5t-zacvriQmVZkAGsC",
+    "selfAccess": false,
+    "sessionId": null
 }

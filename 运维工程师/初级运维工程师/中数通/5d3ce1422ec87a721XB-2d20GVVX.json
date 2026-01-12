@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "nLwc57JCqF0OB-91UpZR4XVcjgox4DcyzzMbAIBnnz9lO9ZImYYocUZ5FeavuxkRw02NVDnqXvO828rCCKig6NKXFFL8iB5gMCimr4BQ20-ony0S3kP2oG1wVCwJdU9NKD9Ufj_MOgg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5d3ce1422ec87a721XB-2d20GVVX",
-      "encryptUserId": "37643b7f45659ffa1nV_3N-9GFpY",
-      "invalidStatus": false,
-      "jobName": "初级运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "职位描述:\n1、负责云平台平台监控，运维维护系统稳定；\n2、按值班组运维手册要求，及时发现状况，并按标准流程进行工单提报；\n3、遇到超出职责级别事件，及时通知技术组负责人，协助解决故障。\n\n职位要求：\n1、大专及以上学历，一年以上工作经验，具有计算机、网络等相关知识优先；\n2、良好的英语沟通能力，能与国外用户有效进行沟通；\n3、严谨细致的工作习惯，对云技术有强烈兴趣。\n\n发展前景：\n对零基础的员工提供云技术领域的入门机会；\n与500强外企团队协同工作，英语工作环境；\nPaaS云平台技术全方位技能库可学习，团队实行技能等级制，能力达标后可调入技术组。",
-      "encryptAddressId": "27e213c57fb5013e0XF52di0FlQ~",
-      "address": "上海浦东新区中数通信息有限公司W2座103室",
-      "longitude": 121.601196,
-      "latitude": 31.200684,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/70b977e586590144e56cbded38305fa7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9773364808580bad397cf859f77fe859",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "英语"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "闵女士",
-      "title": "招聘顾问",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "中数通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b4f5a9c900f2e4a103Rz094~",
-      "brandName": "中数通",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160402/a2546fd76d76edef5bf4fba30b5dfc05dda91fad6cc8b0ce81475375397188e2.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中数通信息有限公司成立于1997年，是中国通信服务、SAP与北京和融的合资公司，业务范围覆盖全国，设立北京、南京、成都、云领科技四家分公司。\n\n公司在软件开发、增值运营、系统集成、云运营服务等领域拥有超过20年的经验积累，拥有全国范围内的增值电信业务经营许可等资质，并通过CMMI体系5级认证，是中国通服智慧企业与智慧银行产品中心承接单位，国内重要的云运营业务服务提供商。\n\n中数通信息有限公司以创新为魂、专注为本作为企业文化，致力于打造专注、专心、专业、专家的服务提供者形象，成为一流的国内云服务提供商。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "企业年金",
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1726218996410,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中数通",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中数通",
+        "certificated": true,
+        "large": null,
+        "name": "闵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "招聘顾问"
+    },
+    "brandComInfo": {
+        "activeTime": 1726218996410,
+        "brandName": "中数通",
+        "customerBrandName": "中数通",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "b4f5a9c900f2e4a103Rz094~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中数通信息有限公司成立于1997年，是中国通信服务、SAP与北京和融的合资公司，业务范围覆盖全国，设立北京、南京、成都、云领科技四家分公司。\n\n公司在软件开发、增值运营、系统集成、云运营服务等领域拥有超过20年的经验积累，拥有全国范围内的增值电信业务经营许可等资质，并通过CMMI体系5级认证，是中国通服智慧企业与智慧银行产品中心承接单位，国内重要的云运营业务服务提供商。\n\n中数通信息有限公司以创新为魂、专注为本作为企业文化，致力于打造专注、专心、专业、专家的服务提供者形象，成为一流的国内云服务提供商。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "企业年金",
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160402/a2546fd76d76edef5bf4fba30b5dfc05dda91fad6cc8b0ce81475375397188e2.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区中数通信息有限公司W2座103室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "27e213c57fb5013e0XF52di0FlQ~",
+        "encryptId": "5d3ce1422ec87a721XB-2d20GVVX",
+        "encryptUserId": "37643b7f45659ffa1nV_3N-9GFpY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.200684,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.601196,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9773364808580bad397cf859f77fe859",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "职位描述:\n1、负责云平台平台监控，运维维护系统稳定；\n2、按值班组运维手册要求，及时发现状况，并按标准流程进行工单提报；\n3、遇到超出职责级别事件，及时通知技术组负责人，协助解决故障。\n\n职位要求：\n1、大专及以上学历，一年以上工作经验，具有计算机、网络等相关知识优先；\n2、良好的英语沟通能力，能与国外用户有效进行沟通；\n3、严谨细致的工作习惯，对云技术有强烈兴趣。\n\n发展前景：\n对零基础的员工提供云技术领域的入门机会；\n与500强外企团队协同工作，英语工作环境；\nPaaS云平台技术全方位技能库可学习，团队实行技能等级制，能力达标后可调入技术组。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K·13薪",
+        "showSkills": [
+            "英语"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/70b977e586590144e56cbded38305fa7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "nLwc57JCqF0OB-91UpZR4XVcjgox4DcyzzMbAIBnnz9lO9ZImYYocUZ5FeavuxkRw02NVDnqXvO828rCCKig6NKXFFL8iB5gMCimr4BQ20-ony0S3kP2oG1wVCwJdU9NKD9Ufj_MOgg~",
+    "selfAccess": false,
+    "sessionId": null
 }

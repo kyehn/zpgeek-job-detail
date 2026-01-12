@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "oM37754m77GZI-M17l3v8C0CYipIcHInWh6AIUMShT2WC417MYZmbXL-xw7kzJZQcvYThNhhyReWf5Bj8SFV5emIgqp6SN9-dbqGPW0xrxy42hgnGAg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7401a7ffea09b3021HR53Ny-FVVT",
-      "encryptUserId": "288d5d1531aef75e1nZ62dm_FFpW",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求\n1、依据测试用例执行实际测试工作，并记录测试执行情况，包含现场记录及缺陷\n2、根据反馈的问题，bug复现，进行测试用例的完善及回归执行\n3、具备一定的数据库知识和网络协议知识，会使用工具分析数据包\n4、熟悉各种主流的操作系统Windows、linux、Android、IOS等，能独立的搭建测试环境\n5、具备一定的语言基础，如python、PHP\n\n工作时间：9:30-17:30，周末双休，法定节假日正常休息。",
-      "encryptAddressId": "6c50e5e0bcde68213n1z2d-0Els~",
-      "address": "成都成都环球中心W2区1902",
-      "longitude": 104.060903,
-      "latitude": 30.569733,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfaf97fc87a74e9fe48f4035eb7f01b6516bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf143626958e3bfbcc8c24412c39fe032a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "计算机相关专业",
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220513/607f1f3d68754fd0171eb331dafc225b9697d3be4aca0dd8eeb01279dbcd7b8a5a9c1d652b0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "宝城",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d5ce2af8728226a30Xx539y8FQ~~",
-      "brandName": "宝城",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100504,
-      "industryName": "进出口贸易",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "交通补助",
-        "节日福利",
-        "零食下午茶",
-        "餐补",
-        "带薪年假",
-        "圣诞节长假"
-      ],
-      "activeTime": 1722936567312,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宝城",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宝城",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220513/607f1f3d68754fd0171eb331dafc225b9697d3be4aca0dd8eeb01279dbcd7b8a5a9c1d652b0_b.jpg",
+        "title": "主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1722936567312,
+        "brandName": "宝城",
+        "customerBrandName": "宝城",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "d5ce2af8728226a30Xx539y8FQ~~",
+        "focusBrand": false,
+        "industry": 100504,
+        "industryName": "进出口贸易",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "交通补助",
+            "节日福利",
+            "零食下午茶",
+            "餐补",
+            "带薪年假",
+            "圣诞节长假"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都成都环球中心W2区1902",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6c50e5e0bcde68213n1z2d-0Els~",
+        "encryptId": "7401a7ffea09b3021HR53Ny-FVVT",
+        "encryptUserId": "288d5d1531aef75e1nZ62dm_FFpW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.569733,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.060903,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf143626958e3bfbcc8c24412c39fe032a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职要求\n1、依据测试用例执行实际测试工作，并记录测试执行情况，包含现场记录及缺陷\n2、根据反馈的问题，bug复现，进行测试用例的完善及回归执行\n3、具备一定的数据库知识和网络协议知识，会使用工具分析数据包\n4、熟悉各种主流的操作系统Windows、linux、Android、IOS等，能独立的搭建测试环境\n5、具备一定的语言基础，如python、PHP\n\n工作时间：9:30-17:30，周末双休，法定节假日正常休息。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Python",
+            "计算机相关专业",
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfaf97fc87a74e9fe48f4035eb7f01b6516bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "oM37754m77GZI-M17l3v8C0CYipIcHInWh6AIUMShT2WC417MYZmbXL-xw7kzJZQcvYThNhhyReWf5Bj8SFV5emIgqp6SN9-dbqGPW0xrxy42hgnGAg~",
+    "selfAccess": false,
+    "sessionId": null
 }

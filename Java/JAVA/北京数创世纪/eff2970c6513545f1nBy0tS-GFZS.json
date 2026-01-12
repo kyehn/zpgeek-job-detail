@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1TpvxMr0zgQs7-51xg7encJfCXO6m5RH_qQ70wMYPfDhUXDtn1XlEXvCVInB1TzvnFGzbT6YMiN8X-7mFjFM1IzMz86r0XgCQtizJ1H8Qh3ZVw2Bt_jb9ggPZ2xmoe8kEXwv5fdi5NNFfWsd0UPfPauXeJMgFSJNjsyYmbglgA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "eff2970c6513545f1nBy0tS-GFZS",
-      "encryptUserId": "22794d319e979f2c0HN929g~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "服务内容描述：\n1.负责公司项目需求分析及设计；\n2.负责公司项目相关核心编码工作。\n技术要求：\n1.1年以上Java开发经验；\n2.熟悉Spring框架和微服务架构体系；\n3.熟悉前端框架，1年以上Vue的开发经验；\n4.熟悉MySQL、MSSQL、Oracle等至少一种数据库；\n5.有阿里云或AWS开发经验优先。",
-      "encryptAddressId": "516a9009c08b08ec1nVz3tW1EldS",
-      "address": "北京朝阳区金苑大厦608室",
-      "longitude": 116.417983,
-      "latitude": 40.035534,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfc05b9d451f3e29788b7bf1c19791e02a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf153cefa194bc964282fbf6888c669d046bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Spring",
-        "后端开发",
-        "Linux",
-        "软件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "聂女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190314/73f47b53b82ad1b8ce17f79ba2a4954e6101b9fd73460a545f78400ed0f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "北京数创世纪",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e3bab86fde09d2de33x70tU~",
-      "brandName": "北京数创世纪",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/a033a0a50c81ae6782ad7eb0596d882a6101b9fd73460a545f78400ed0ff2319_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "北京数创世纪软件技术有限公司于2008年，在中国北京注册成立，专门从事面向国内和对日的软件项目开发企业。\n　　",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1724398796610,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京数创世纪",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "北京数创世纪",
+        "certificated": true,
+        "large": null,
+        "name": "聂女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190314/73f47b53b82ad1b8ce17f79ba2a4954e6101b9fd73460a545f78400ed0f_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1724398796610,
+        "brandName": "北京数创世纪",
+        "customerBrandName": "北京数创世纪",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "e3bab86fde09d2de33x70tU~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "北京数创世纪软件技术有限公司于2008年，在中国北京注册成立，专门从事面向国内和对日的软件项目开发企业。\n　　",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/a033a0a50c81ae6782ad7eb0596d882a6101b9fd73460a545f78400ed0ff2319_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区金苑大厦608室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "516a9009c08b08ec1nVz3tW1EldS",
+        "encryptId": "eff2970c6513545f1nBy0tS-GFZS",
+        "encryptUserId": "22794d319e979f2c0HN929g~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.035534,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.417983,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf153cefa194bc964282fbf6888c669d046bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "服务内容描述：\n1.负责公司项目需求分析及设计；\n2.负责公司项目相关核心编码工作。\n技术要求：\n1.1年以上Java开发经验；\n2.熟悉Spring框架和微服务架构体系；\n3.熟悉前端框架，1年以上Vue的开发经验；\n4.熟悉MySQL、MSSQL、Oracle等至少一种数据库；\n5.有阿里云或AWS开发经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "Spring",
+            "后端开发",
+            "Linux",
+            "软件工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfc05b9d451f3e29788b7bf1c19791e02a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1TpvxMr0zgQs7-51xg7encJfCXO6m5RH_qQ70wMYPfDhUXDtn1XlEXvCVInB1TzvnFGzbT6YMiN8X-7mFjFM1IzMz86r0XgCQtizJ1H8Qh3ZVw2Bt_jb9ggPZ2xmoe8kEXwv5fdi5NNFfWsd0UPfPauXeJMgFSJNjsyYmbglgA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

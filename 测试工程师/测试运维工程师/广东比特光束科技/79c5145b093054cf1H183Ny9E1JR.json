@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mhvUd4o5zlii9-O1zx0mQMr6WVDpjkOtCIkIaKcPRrVqBfGMo9XzswV7XKMvjuCKb431X96RNjvQK5L51zFoSO6zKwsy-XPSGqJzq5Gy9Md-5HcKzjRblEbG5AapKmYyAc6NWkOd-2bjKETTDFjo0RqGmyHxtxKfy1QYsxC568w8FNkt-Sw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "79c5145b093054cf1H183Ny9E1JR",
-      "encryptUserId": "549b15afb8c3e2931nZ52ti5E1BW",
-      "invalidStatus": false,
-      "jobName": "测试运维工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280500,
-      "locationName": "汕头",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司产品和项目的测试和运维工作；\n2、协助开发人员分析bug原因，参与测试中发现问题的准确重现，问题的定位；\n3、记录、排查及回复客户反馈问题；\n4、负责软件使用问题答疑、使用培训，定制培训指导书。\n\n任职要求：\n1.大专以上学历，6个月以上的软件测试相关经验；\n2.能独立完成测试工作，推动问题及时合理地解决；\n3.了解基本的数据库操作SQL，熟悉数据库者优化；\n4.有较强的主动性和积极性，勇于提出自己想法；\n5.完成上级领导交代的其他任务；",
-      "encryptAddressId": "c3907a34d99fa9271nR93N-_FlZXwIi-Vf2b",
-      "address": "汕头龙湖区汕头市超声科技大厦B座高新区科技东路10号超声科技大厦B座402-406室",
-      "longitude": 116.719944,
-      "latitude": 23.386404,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230509/48ba41acc9cef1bf7745d1369da522d48db0c9b17efe356d6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf7866b03e71059b8e3daf6556f6fb402f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人事行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "广东比特光束科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6e0ffc3a4d373be31HVy3t60EVo~",
-      "brandName": "广东比特光束科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231205/7b5b554d84f9729c985e7372726c6d2499bfce1f865885a643e31fc569dcf14cd8e6f1f71c3c5019.jpg.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "比特是信息的度量单位，我们想成为一道比特光束，照亮玩具企业即将踏上的信息化道路。",
-      "labels": [],
-      "activeTime": 1730863670738,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广东比特光束科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "广东比特光束科技",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1730863670738,
+        "brandName": "广东比特光束科技",
+        "customerBrandName": "广东比特光束科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "6e0ffc3a4d373be31HVy3t60EVo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "比特是信息的度量单位，我们想成为一道比特光束，照亮玩具企业即将踏上的信息化道路。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231205/7b5b554d84f9729c985e7372726c6d2499bfce1f865885a643e31fc569dcf14cd8e6f1f71c3c5019.jpg.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "汕头龙湖区汕头市超声科技大厦B座高新区科技东路10号超声科技大厦B座402-406室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c3907a34d99fa9271nR93N-_FlZXwIi-Vf2b",
+        "encryptId": "79c5145b093054cf1H183Ny9E1JR",
+        "encryptUserId": "549b15afb8c3e2931nZ52ti5E1BW",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "测试运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.386404,
+        "location": 101280500,
+        "locationName": "汕头",
+        "longitude": 116.719944,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf7866b03e71059b8e3daf6556f6fb402f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1、负责公司产品和项目的测试和运维工作；\n2、协助开发人员分析bug原因，参与测试中发现问题的准确重现，问题的定位；\n3、记录、排查及回复客户反馈问题；\n4、负责软件使用问题答疑、使用培训，定制培训指导书。\n\n任职要求：\n1.大专以上学历，6个月以上的软件测试相关经验；\n2.能独立完成测试工作，推动问题及时合理地解决；\n3.了解基本的数据库操作SQL，熟悉数据库者优化；\n4.有较强的主动性和积极性，勇于提出自己想法；\n5.完成上级领导交代的其他任务；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230509/48ba41acc9cef1bf7745d1369da522d48db0c9b17efe356d6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mhvUd4o5zlii9-O1zx0mQMr6WVDpjkOtCIkIaKcPRrVqBfGMo9XzswV7XKMvjuCKb431X96RNjvQK5L51zFoSO6zKwsy-XPSGqJzq5Gy9Md-5HcKzjRblEbG5AapKmYyAc6NWkOd-2bjKETTDFjo0RqGmyHxtxKfy1QYsxC568w8FNkt-Sw~",
+    "selfAccess": false,
+    "sessionId": null
 }

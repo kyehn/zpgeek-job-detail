@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "oHF9gMEOJeCLC-g1iEYTUUf_3UTn2pVOo2GcvZkCNfwJAeGomwnFpxPemKkjplrOibfG917hod6eTs64lA9KIoNc75yRhH4QoMB7aBMLcJPTecTmphfA",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ce68bd51cefd1b991HF72tu6ElFQ",
-      "encryptUserId": "ed1834f273093de40XB-09W1FFNT",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101100700,
-      "locationName": "临汾",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "软件  安装实施  对sql server  MySQL 了解 \n硬件   服务器  网络  监控，门禁道闸  安装维护",
-      "encryptAddressId": "76a288c7c43df0b30XN63Nu9F1pVxo-5UPI~",
-      "address": "临汾尧都区清控创新基地经济开发区河汾一路清控创新基地",
-      "longitude": 111.522273,
-      "latitude": 36.10748,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bf7ab7813d3890f19227b4cace7b6d48206bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf8af645ca34f7ae7ee0020ba6b0d2a5b76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维",
-        "实施交付运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "山西华科维",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "39b7afb9dace63891Hd90t68EVM~",
-      "brandName": "山西华科维",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722150478091,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山西华科维",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山西华科维",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722150478091,
+        "brandName": "山西华科维",
+        "customerBrandName": "山西华科维",
+        "customerBrandStageName": "",
+        "encryptBrandId": "39b7afb9dace63891Hd90t68EVM~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "临汾尧都区清控创新基地经济开发区河汾一路清控创新基地",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "76a288c7c43df0b30XN63Nu9F1pVxo-5UPI~",
+        "encryptId": "ce68bd51cefd1b991HF72tu6ElFQ",
+        "encryptUserId": "ed1834f273093de40XB-09W1FFNT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.10748,
+        "location": 101100700,
+        "locationName": "临汾",
+        "longitude": 111.522273,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf8af645ca34f7ae7ee0020ba6b0d2a5b76bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "软件  安装实施  对sql server  MySQL 了解 \n硬件   服务器  网络  监控，门禁道闸  安装维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "网络运维",
+            "系统运维",
+            "实施交付运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bf7ab7813d3890f19227b4cace7b6d48206bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "oHF9gMEOJeCLC-g1iEYTUUf_3UTn2pVOo2GcvZkCNfwJAeGomwnFpxPemKkjplrOibfG917hod6eTs64lA9KIoNc75yRhH4QoMB7aBMLcJPTecTmphfA",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "bloNCHXCTitzZ-K1EmrtldpkqA4GNVzxckct1HuvwPQIBg5gx0rN2lcFkA1fQSNP27qCdfU5J090DlDdfFqtfSPyUkyhGOOpH79ioUmLW0aZbM5m",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "887801563736cb9f1XV629u_EVtX",
-      "encryptUserId": "cfbecfb5aae2d0281nRz39S5FlRT",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "30-40K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作地点：苏州、北京\n\n学士及以上学位，计算机相关专业\n1年以上软件开发经验\n熟练掌握以下一种或多种编程语言：android，C#, Java, Python, GoLang, C, C++等\n优秀的团队合作能力\n优秀的口头和书面交流能力\n\n15天全薪年假，不打卡，弹性工作，可远程办公",
-      "encryptAddressId": "a77026473df55c111n152d60EVU~",
-      "address": "苏州虎丘区微软(中国)有限公司(苏州分公司)25栋",
-      "longitude": 120.735147,
-      "latitude": 31.2636,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04c2b491798e589a6e93045854605016",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85009be0e40f74145798421f39ea0120",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Kotlin",
-        "C++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蒋先生",
-      "title": "Software Engineer",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220210/607f1f3d68754fd0d3d7102904dd07e33b3c699942bfc686e882055826165e6a437828fac83_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "微软中国",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0810a0f85e31859b33Zy2tU~",
-      "brandName": "微软中国",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191018/87d69d0f0d2c61d0e9b8789f4b9527609af890db898d4bda24f0b08151e58387.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "微软，是一家美国跨国科技公司，也是世界PC（Personal Computer，个人计算机）软件开发的先导，由比尔·盖茨与保罗·艾伦创办于1975年，公司总部设立在华盛顿州的雷德蒙德（Redmond，邻近西雅图）。以研发、制造、授权和提供广泛的电脑软件服务业务为主。\n最为著名和畅销的产品为Microsoft Windows操作系统和Microsoft Office系列软件，目前是全球最大的电脑软件提供商。",
-      "labels": [
-        "节日福利",
-        "免费班车",
-        "零食下午茶",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "股票期权",
-        "年终奖",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金",
-        "台球室"
-      ],
-      "activeTime": 1730177384571,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "微软中国",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "微软中国",
+        "certificated": true,
+        "large": null,
+        "name": "蒋先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220210/607f1f3d68754fd0d3d7102904dd07e33b3c699942bfc686e882055826165e6a437828fac83_b.jpg",
+        "title": "Software Engineer"
+    },
+    "brandComInfo": {
+        "activeTime": 1730177384571,
+        "brandName": "微软中国",
+        "customerBrandName": "微软中国",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "0810a0f85e31859b33Zy2tU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "微软，是一家美国跨国科技公司，也是世界PC（Personal Computer，个人计算机）软件开发的先导，由比尔·盖茨与保罗·艾伦创办于1975年，公司总部设立在华盛顿州的雷德蒙德（Redmond，邻近西雅图）。以研发、制造、授权和提供广泛的电脑软件服务业务为主。\n最为著名和畅销的产品为Microsoft Windows操作系统和Microsoft Office系列软件，目前是全球最大的电脑软件提供商。",
+        "labels": [
+            "节日福利",
+            "免费班车",
+            "零食下午茶",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "股票期权",
+            "年终奖",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金",
+            "台球室"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191018/87d69d0f0d2c61d0e9b8789f4b9527609af890db898d4bda24f0b08151e58387.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州虎丘区微软(中国)有限公司(苏州分公司)25栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "a77026473df55c111n152d60EVU~",
+        "encryptId": "887801563736cb9f1XV629u_EVtX",
+        "encryptUserId": "cfbecfb5aae2d0281nRz39S5FlRT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.2636,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.735147,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85009be0e40f74145798421f39ea0120",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "工作地点：苏州、北京\n\n学士及以上学位，计算机相关专业\n1年以上软件开发经验\n熟练掌握以下一种或多种编程语言：android，C#, Java, Python, GoLang, C, C++等\n优秀的团队合作能力\n优秀的口头和书面交流能力\n\n15天全薪年假，不打卡，弹性工作，可远程办公",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "30-40K·13薪",
+        "showSkills": [
+            "Java",
+            "Kotlin",
+            "C++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04c2b491798e589a6e93045854605016"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "bloNCHXCTitzZ-K1EmrtldpkqA4GNVzxckct1HuvwPQIBg5gx0rN2lcFkA1fQSNP27qCdfU5J090DlDdfFqtfSPyUkyhGOOpH79ioUmLW0aZbM5m",
+    "selfAccess": false,
+    "sessionId": null
 }

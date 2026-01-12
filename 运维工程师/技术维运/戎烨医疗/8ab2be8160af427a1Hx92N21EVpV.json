@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BPkUgMNxx1gHA-F1awuj-iziV-4GXAkJfr04uZ9MbDFgb9bUQiQD1FQq3_6Ohdl6ZeZeOIDft5q416bX_-g_eUigvpXRibnGBsyp0Ktb7XDcnUACUmIlrBfKqnPN7cxdsQyuI2Jy4A1l2dA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8ab2be8160af427a1Hx92N21EVpV",
-      "encryptUserId": "580a69db1fc9c6ba0nd72ti0EFFV",
-      "invalidStatus": false,
-      "jobName": "技术维运",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责项目内服务器日常巡检，负责项目内数据库性能指标、备份文件，智能硬件的巡检及巡检表填制；\n2、负责项目内所有硬件、软件、系统、接口、网络等产生的各类常规问题或故障的处理；\n3、负责项目内数据错误、系统BUG等重大问题的收集、提报、跟踪；\n4、负责收集汇总项目运行过程中系统优化的需求、功能完善的需求以及用户其他需求等，并予以提报；\n5、负责项目内需求开发完成后的程序包接收及测试库部署，站点升级。\n\n任职条件：\n1、专科及以上学历，计算机相关专业；\n2、1年以上系统实施或维护经验；\n3、熟悉oracle数据库安装、配置、管理，熟悉SQL语言；\n4、较强的逻辑思维能力，良好的沟通能力和团队精神；对工作认真负责，具有撰写技术文档、技术方案的能力。",
-      "encryptAddressId": "8c6a1e8358087e111nZz3N60FlBRxI27UvmZ",
-      "address": "南京鼓楼区南京医科大学第二附属医院(姜家园院区)121号",
-      "longitude": 118.744998,
-      "latitude": 32.080323,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231211/48ba41acc9cef1bf3d4cd66cd57f063ff51dfa9cba8d429a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240104/48ba41acc9cef1bfde5442e65e7beaccc561f51d93e70d076bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维",
-        "IDC机房运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蒋女士",
-      "title": "人事总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd0510a1ba4ecfa427e6ae739744ef7ca91b34bca98e74ef3728061c10c717_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "戎烨医疗",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7d53e800f37794081HN-3926ElM~",
-      "brandName": "戎烨医疗",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100402,
-      "industryName": "医疗服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729840318825,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "戎烨医疗",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "戎烨医疗",
+        "certificated": true,
+        "large": null,
+        "name": "蒋女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd0510a1ba4ecfa427e6ae739744ef7ca91b34bca98e74ef3728061c10c717_b.jpg",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1729840318825,
+        "brandName": "戎烨医疗",
+        "customerBrandName": "戎烨医疗",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7d53e800f37794081HN-3926ElM~",
+        "focusBrand": false,
+        "industry": 100402,
+        "industryName": "医疗服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京鼓楼区南京医科大学第二附属医院(姜家园院区)121号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8c6a1e8358087e111nZz3N60FlBRxI27UvmZ",
+        "encryptId": "8ab2be8160af427a1Hx92N21EVpV",
+        "encryptUserId": "580a69db1fc9c6ba0nd72ti0EFFV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术维运",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.080323,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.744998,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240104/48ba41acc9cef1bfde5442e65e7beaccc561f51d93e70d076bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责项目内服务器日常巡检，负责项目内数据库性能指标、备份文件，智能硬件的巡检及巡检表填制；\n2、负责项目内所有硬件、软件、系统、接口、网络等产生的各类常规问题或故障的处理；\n3、负责项目内数据错误、系统BUG等重大问题的收集、提报、跟踪；\n4、负责收集汇总项目运行过程中系统优化的需求、功能完善的需求以及用户其他需求等，并予以提报；\n5、负责项目内需求开发完成后的程序包接收及测试库部署，站点升级。\n\n任职条件：\n1、专科及以上学历，计算机相关专业；\n2、1年以上系统实施或维护经验；\n3、熟悉oracle数据库安装、配置、管理，熟悉SQL语言；\n4、较强的逻辑思维能力，良好的沟通能力和团队精神；对工作认真负责，具有撰写技术文档、技术方案的能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-9K",
+        "showSkills": [
+            "网络运维",
+            "系统运维",
+            "IDC机房运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231211/48ba41acc9cef1bf3d4cd66cd57f063ff51dfa9cba8d429a6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BPkUgMNxx1gHA-F1awuj-iziV-4GXAkJfr04uZ9MbDFgb9bUQiQD1FQq3_6Ohdl6ZeZeOIDft5q416bX_-g_eUigvpXRibnGBsyp0Ktb7XDcnUACUmIlrBfKqnPN7cxdsQyuI2Jy4A1l2dA~",
+    "selfAccess": false,
+    "sessionId": null
 }

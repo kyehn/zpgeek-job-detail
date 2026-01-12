@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rtqlenJitVGrr-W1PlnrEF5RnBDhyydi7BcFWzb1X6L8EPbiq3zai7DyGTUg3NQwcKN5i_ZHqzVGc5VqWKLnG6WKnPETzdHlNpaphCY-jEKct-7Q3C7xHLFR07-THd4t6XNemx_3THXhUnV0zB-Kbu8rGtSTfQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a372089904db7cea03R-2Ny1FFdZ",
-      "encryptUserId": "022c4b4f5f9ee0ef1nV739-9EVtY",
-      "invalidStatus": false,
-      "jobName": "JAVA全栈开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位职责：\n1、计算机软件相关专业，2年以上Java Web开发经验\n2、熟练掌握SpringBoot、Mybatis等开源框架，良好的Java基础\n3、熟悉ORACLE、MYSQL、MSSQL等数据库开发技术\n4、掌握html5、Jquery、vue、Bootstrap3等前端相关技术，有gis相关开发者优先\n5、熟悉vue原理，对响应式有所了解，能进行vue前端开发\n6、具有较强的学习和逻辑思维能力，具备团队精神和良好的沟通能力\n二、任职要求：\n1、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务\n2、能独立进行开发程序单元、功能的测试，查出软件存在的缺陷并保证其质量\n3、现有系统的优化和升级\n4、解决开发过程中的技术问题\n5、系统开发文档编写工作",
-      "encryptAddressId": "cf701378e2924c9c1nB_3di0EltYx428Vvuc",
-      "address": "长沙岳麓区奥克斯国际公寓B座湖南省长沙市岳麓区奥克斯广场国际公寓B座1344",
-      "longitude": 112.955729,
-      "latitude": 28.22282,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf445f42af32953b2b41d53d72244825926bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4579289001a49773ebca49bb70eed8ed6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "MyBatis"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吕女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "中沐源科技公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fd8ce90207db3ae81HNy29S0FVQ~",
-      "brandName": "中沐源科技公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733391299576,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中沐源科技公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中沐源科技公司",
+        "certificated": true,
+        "large": null,
+        "name": "吕女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1733391299576,
+        "brandName": "中沐源科技公司",
+        "customerBrandName": "中沐源科技公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fd8ce90207db3ae81HNy29S0FVQ~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区奥克斯国际公寓B座湖南省长沙市岳麓区奥克斯广场国际公寓B座1344",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cf701378e2924c9c1nB_3di0EltYx428Vvuc",
+        "encryptId": "a372089904db7cea03R-2Ny1FFdZ",
+        "encryptUserId": "022c4b4f5f9ee0ef1nV739-9EVtY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "JAVA全栈开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.22282,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.955729,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4579289001a49773ebca49bb70eed8ed6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "一、岗位职责：\n1、计算机软件相关专业，2年以上Java Web开发经验\n2、熟练掌握SpringBoot、Mybatis等开源框架，良好的Java基础\n3、熟悉ORACLE、MYSQL、MSSQL等数据库开发技术\n4、掌握html5、Jquery、vue、Bootstrap3等前端相关技术，有gis相关开发者优先\n5、熟悉vue原理，对响应式有所了解，能进行vue前端开发\n6、具有较强的学习和逻辑思维能力，具备团队精神和良好的沟通能力\n二、任职要求：\n1、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务\n2、能独立进行开发程序单元、功能的测试，查出软件存在的缺陷并保证其质量\n3、现有系统的优化和升级\n4、解决开发过程中的技术问题\n5、系统开发文档编写工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "MyBatis"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf445f42af32953b2b41d53d72244825926bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rtqlenJitVGrr-W1PlnrEF5RnBDhyydi7BcFWzb1X6L8EPbiq3zai7DyGTUg3NQwcKN5i_ZHqzVGc5VqWKLnG6WKnPETzdHlNpaphCY-jEKct-7Q3C7xHLFR07-THd4t6XNemx_3THXhUnV0zB-Kbu8rGtSTfQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

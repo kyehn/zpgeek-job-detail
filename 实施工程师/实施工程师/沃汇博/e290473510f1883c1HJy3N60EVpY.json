@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2kZgQ1GRhLCqR-R16nI_oLMr4qyNY8Ag8ybWFCDEuQQlR0JaEiWvl-hcAIiGHS7uDIMObVqhn8HRv4xUhBhfwO05yM6vI-uG0LqzN-i7noQTvZd-_7-pjNnKwEpMIEHt1ibgvVx81hwStZQuCS9IUtvh",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e290473510f1883c1HJy3N60EVpY",
-      "encryptUserId": "daee09d094ed4e281nV-39W4E1VZ",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、专科学历（学信网可查），财会、计算机等相关专业；\n2、具有一定的抗压性，能够根据项目计划或参照标杆项目模式，完成系统配置、测试、培训等项目实施工作；\n3、对客户需求有较强的敏感度和分析能力，能够把控项目中产品和需求的差异性，有较强的客户思维和引导能力；把握服务礼仪与服务规范标准，掌握客户关系管理常识，能在服务过程中保持良好的客户关系；\n4、具有良好的沟通能力和组织能力，善于人际交流和组织协调；备较强的文档编写能力和方案讲解能力；\n5、具备优秀的学习能力，执行力强，能接受具有挑战性的工作。",
-      "encryptAddressId": "99459a6c66e101f51nF429-5FVNRx4i5UPuY",
-      "address": "北京西城区国网大数据中心远光",
-      "longitude": 116.378959,
-      "latitude": 39.888891,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230414/48ba41acc9cef1bfe6bfc4a35c30be4fe3cad18fcd7d77dd6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfb68af8f16e835434c54f6dacc7a7dafe6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "ERP",
-        "财务相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231212/607f1f3d68754fd088e9b1d187a1f2e2102ea5b2b1650ae4229f15077db798399ecc7196a5c7273_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "沃汇博",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e54b84edca48f3321HFy3N61ElU~",
-      "brandName": "沃汇博",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1732694235411,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "沃汇博",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "沃汇博",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231212/607f1f3d68754fd088e9b1d187a1f2e2102ea5b2b1650ae4229f15077db798399ecc7196a5c7273_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732694235411,
+        "brandName": "沃汇博",
+        "customerBrandName": "沃汇博",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e54b84edca48f3321HFy3N61ElU~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京西城区国网大数据中心远光",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "99459a6c66e101f51nF429-5FVNRx4i5UPuY",
+        "encryptId": "e290473510f1883c1HJy3N60EVpY",
+        "encryptUserId": "daee09d094ed4e281nV-39W4E1VZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.888891,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.378959,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfb68af8f16e835434c54f6dacc7a7dafe6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1、专科学历（学信网可查），财会、计算机等相关专业；\n2、具有一定的抗压性，能够根据项目计划或参照标杆项目模式，完成系统配置、测试、培训等项目实施工作；\n3、对客户需求有较强的敏感度和分析能力，能够把控项目中产品和需求的差异性，有较强的客户思维和引导能力；把握服务礼仪与服务规范标准，掌握客户关系管理常识，能在服务过程中保持良好的客户关系；\n4、具有良好的沟通能力和组织能力，善于人际交流和组织协调；备较强的文档编写能力和方案讲解能力；\n5、具备优秀的学习能力，执行力强，能接受具有挑战性的工作。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "软件实施经验",
+            "ERP",
+            "财务相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230414/48ba41acc9cef1bfe6bfc4a35c30be4fe3cad18fcd7d77dd6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2kZgQ1GRhLCqR-R16nI_oLMr4qyNY8Ag8ybWFCDEuQQlR0JaEiWvl-hcAIiGHS7uDIMObVqhn8HRv4xUhBhfwO05yM6vI-uG0LqzN-i7noQTvZd-_7-pjNnKwEpMIEHt1ibgvVx81hwStZQuCS9IUtvh",
+    "selfAccess": false,
+    "sessionId": null
 }

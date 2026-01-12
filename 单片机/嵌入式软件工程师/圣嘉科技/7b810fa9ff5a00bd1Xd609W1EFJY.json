@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "k9aM8PUBoV-Lx-O1ooijk6Hkud3hxmqvSJ6GIiLPXAIY9YISMtBA-GeY03x8YypdYIJ5q4pFg19wqhSwqEu9aTglKwht6aacmK8RqeQ21cl5VxPcnj1h",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7b810fa9ff5a00bd1Xd609W1EFJY",
-      "encryptUserId": "9b3450631f36c4d70nd93ty_GVRQ",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100804,
-      "positionName": "单片机",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n1. 可独立编写，调试嵌入式项目软件，完成公司相关项目产品的开发，维护，以及产品测试\n2. 解决项目产品出现的问题\n3. 根据项目独立完成产品设计开发任务，对相关项目代码进行完善，维护和改进\n4. 相关项目产品设备的现场调试，使用，以及相关技术指导\n5. 可独立完成相关项目产品的技术文稿\n\n\n职位要求：\n1. 嵌入式开发软件相关专业大专学历\n2. 熟悉C语言，stm32编程等软件\n3. 必须有嵌入式开发工作经验\n4. 有责任心，上进心\n5. 个人能力优秀者可放宽条件\n6. 具体薪资面议",
-      "encryptAddressId": "4b130ff254629b660Xd63dy6GVs~",
-      "address": "南京江宁区安吉特产业大厦二号厂房二楼",
-      "longitude": 118.802988,
-      "latitude": 31.855662,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2081f093536fe518f473ba9048d9ba0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa25252fc9386f279d9b6080c1d8491e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "嵌入式技术",
-        "C语言"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "鲍先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210622/7cf6493322d085757c90f0b603ff40a0a52ddf97b79c53af4887d08ad2a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "圣嘉科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3c1047a34b1310221nNy3dq_FlY~",
-      "brandName": "圣嘉科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725365565729,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "圣嘉科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "圣嘉科技",
+        "certificated": true,
+        "large": null,
+        "name": "鲍先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210622/7cf6493322d085757c90f0b603ff40a0a52ddf97b79c53af4887d08ad2a_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725365565729,
+        "brandName": "圣嘉科技",
+        "customerBrandName": "圣嘉科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3c1047a34b1310221nNy3dq_FlY~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区安吉特产业大厦二号厂房二楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4b130ff254629b660Xd63dy6GVs~",
+        "encryptId": "7b810fa9ff5a00bd1Xd609W1EFJY",
+        "encryptUserId": "9b3450631f36c4d70nd93ty_GVRQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.855662,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.802988,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa25252fc9386f279d9b6080c1d8491e",
+        "position": 100804,
+        "positionName": "单片机",
+        "postDescription": "职位描述：\n1. 可独立编写，调试嵌入式项目软件，完成公司相关项目产品的开发，维护，以及产品测试\n2. 解决项目产品出现的问题\n3. 根据项目独立完成产品设计开发任务，对相关项目代码进行完善，维护和改进\n4. 相关项目产品设备的现场调试，使用，以及相关技术指导\n5. 可独立完成相关项目产品的技术文稿\n\n\n职位要求：\n1. 嵌入式开发软件相关专业大专学历\n2. 熟悉C语言，stm32编程等软件\n3. 必须有嵌入式开发工作经验\n4. 有责任心，上进心\n5. 个人能力优秀者可放宽条件\n6. 具体薪资面议",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "嵌入式技术",
+            "C语言"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2081f093536fe518f473ba9048d9ba0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "k9aM8PUBoV-Lx-O1ooijk6Hkud3hxmqvSJ6GIiLPXAIY9YISMtBA-GeY03x8YypdYIJ5q4pFg19wqhSwqEu9aTglKwht6aacmK8RqeQ21cl5VxPcnj1h",
+    "selfAccess": false,
+    "sessionId": null
 }

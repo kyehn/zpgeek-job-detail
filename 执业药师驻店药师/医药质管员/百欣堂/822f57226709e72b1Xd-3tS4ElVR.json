@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "E9gYHLh82jTst-91tYzBZZHPvwaWmTXrGrzP7xP8t3GimDYyC1WsW9yqn7vvMZ7-drChyVEywvuq8qaNQSOoCaTdr30Np1pFHac7WMziSlkd_xpcGw0D",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "822f57226709e72b1Xd-3tS4ElVR",
-      "encryptUserId": "706c965365a45d9d1nZ73Ny1GFVQ",
-      "invalidStatus": false,
-      "jobName": "医药质管员",
-      "position": 210802,
-      "positionName": "执业药师/驻店药师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、执行国家有关药品、质量管理的法律、法规；\n2、全面负责公司GSP质量管理和具体实施；\n3、负责药品质量信息的咨询、查询、投诉和质量事故的调查、处理及不良反应报告等工作；\n4、开展质量管理的教育或培训；\n任职要求：\n1、 具有执业药师资格证，医药相关专业，中专及以上学历\n2、 办公软件操作熟练，良好的沟通能力和应变能力。 \n3、 具有较强责任心。 \n4、有驾照、会驾驶，自带车。\n5.有经验者优先。",
-      "encryptAddressId": "289924e69c8a74131nN83du8EFM~",
-      "address": "成都成华区华安堂科技一栋二楼",
-      "longitude": 104.186269,
-      "latitude": 30.694365,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/550efda11ef1310c39f75c7da048b186",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e87622dec485c78ad03b988a50595a1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "药品质量管理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "百欣堂",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "efdeb131760d8bca1nV63tq6EVc~",
-      "brandName": "百欣堂",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210311/896ffc90fa8155fb0b1546958c3877715fbdfadaf502a2a4c15da23cf2857e07_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100503,
-      "industryName": "批发/零售",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731326658854,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "百欣堂",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "百欣堂",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731326658854,
+        "brandName": "百欣堂",
+        "customerBrandName": "百欣堂",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "efdeb131760d8bca1nV63tq6EVc~",
+        "focusBrand": false,
+        "industry": 100503,
+        "industryName": "批发/零售",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210311/896ffc90fa8155fb0b1546958c3877715fbdfadaf502a2a4c15da23cf2857e07_s.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都成华区华安堂科技一栋二楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "289924e69c8a74131nN83du8EFM~",
+        "encryptId": "822f57226709e72b1Xd-3tS4ElVR",
+        "encryptUserId": "706c965365a45d9d1nZ73Ny1GFVQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "医药质管员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.694365,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.186269,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e87622dec485c78ad03b988a50595a1",
+        "position": 210802,
+        "positionName": "执业药师/驻店药师",
+        "postDescription": "岗位职责：\n1、执行国家有关药品、质量管理的法律、法规；\n2、全面负责公司GSP质量管理和具体实施；\n3、负责药品质量信息的咨询、查询、投诉和质量事故的调查、处理及不良反应报告等工作；\n4、开展质量管理的教育或培训；\n任职要求：\n1、 具有执业药师资格证，医药相关专业，中专及以上学历\n2、 办公软件操作熟练，良好的沟通能力和应变能力。 \n3、 具有较强责任心。 \n4、有驾照、会驾驶，自带车。\n5.有经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "药品质量管理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/550efda11ef1310c39f75c7da048b186"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "E9gYHLh82jTst-91tYzBZZHPvwaWmTXrGrzP7xP8t3GimDYyC1WsW9yqn7vvMZ7-drChyVEywvuq8qaNQSOoCaTdr30Np1pFHac7WMziSlkd_xpcGw0D",
+    "selfAccess": false,
+    "sessionId": null
 }

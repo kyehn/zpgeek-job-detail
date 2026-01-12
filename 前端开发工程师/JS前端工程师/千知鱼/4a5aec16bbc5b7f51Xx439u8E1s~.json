@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "M6yk2J5xzt0w6-N13cWKq-eErtVYaDyv0k7_-NQ70r4SgoSQ_Nq2SrP6hPDOj4zlOnO_UFYwxb6QNhipuyxsS07RcVvMr7dtVJE9EumdDAfusK_O",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4a5aec16bbc5b7f51Xx439u8E1s~",
-      "encryptUserId": "ac1188b4bb4604541HV53Nq-GFI~",
-      "invalidStatus": false,
-      "jobName": "JS前端工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "首先你可能之前遇到很多培训机构？但我们不是！\n可以搜索公众号“千绘设计”进入小程序了解下公司产品\n我们再开发一款在线智能设计工具，目前需要会css和js帮忙完善网站界面和功能需求，需要有基础，肯学习，有较强自学学和团队沟通能力，并且对机器视觉有兴趣的同学。我们需要的是能共同进步共同创业的同学加入我们。",
-      "encryptAddressId": "80071a230decaeea0XJ92N68FQ~~",
-      "address": "深圳龙岗区华南城1号交易广场(南2门)1E044",
-      "longitude": 114.1243,
-      "latitude": 22.68017,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f8b55a55780345f02f5ec34684c2b78",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91db679bf6e6939adfb5755600c0abe2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "前端开发",
-        "Node.js",
-        "JavaScript",
-        "CSS",
-        "JQuery",
-        "Bootstrap"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201205/893a8a76e676bac916e35ce2d6e9d609db2438b541e3c322200654c6d5a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "千知鱼",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9dd0d58f7c1d58141nV6296-EQ~~",
-      "brandName": "千知鱼",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170925/1d8232689a61ab100012687dba115db9db2438b541e3c322200654c6d5a3a74e.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100004,
-      "industryName": "广告营销",
-      "introduce": "我们是一家电商服务公司，主要业务为电商设计，网站开发运营，电商运营工具开发。",
-      "labels": [],
-      "activeTime": 1725334153979,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "千知鱼",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "千知鱼",
+        "certificated": true,
+        "large": null,
+        "name": "许先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201205/893a8a76e676bac916e35ce2d6e9d609db2438b541e3c322200654c6d5a_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725334153979,
+        "brandName": "千知鱼",
+        "customerBrandName": "千知鱼",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9dd0d58f7c1d58141nV6296-EQ~~",
+        "focusBrand": false,
+        "industry": 100004,
+        "industryName": "广告营销",
+        "introduce": "我们是一家电商服务公司，主要业务为电商设计，网站开发运营，电商运营工具开发。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170925/1d8232689a61ab100012687dba115db9db2438b541e3c322200654c6d5a3a74e.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区华南城1号交易广场(南2门)1E044",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "80071a230decaeea0XJ92N68FQ~~",
+        "encryptId": "4a5aec16bbc5b7f51Xx439u8E1s~",
+        "encryptUserId": "ac1188b4bb4604541HV53Nq-GFI~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "JS前端工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 22.68017,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.1243,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91db679bf6e6939adfb5755600c0abe2",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "首先你可能之前遇到很多培训机构？但我们不是！\n可以搜索公众号“千绘设计”进入小程序了解下公司产品\n我们再开发一款在线智能设计工具，目前需要会css和js帮忙完善网站界面和功能需求，需要有基础，肯学习，有较强自学学和团队沟通能力，并且对机器视觉有兴趣的同学。我们需要的是能共同进步共同创业的同学加入我们。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "前端开发",
+            "Node.js",
+            "JavaScript",
+            "CSS",
+            "JQuery",
+            "Bootstrap"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f8b55a55780345f02f5ec34684c2b78"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "M6yk2J5xzt0w6-N13cWKq-eErtVYaDyv0k7_-NQ70r4SgoSQ_Nq2SrP6hPDOj4zlOnO_UFYwxb6QNhipuyxsS07RcVvMr7dtVJE9EumdDAfusK_O",
+    "selfAccess": false,
+    "sessionId": null
 }

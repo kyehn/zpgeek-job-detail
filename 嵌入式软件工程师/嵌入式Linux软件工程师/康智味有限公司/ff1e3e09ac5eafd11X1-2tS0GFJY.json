@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fb5FHrDuQ4e5K-m1GGBEC6JaAPGjP1NOOsN7xuuBqt5cRrKMcfel-Bkwe7C_qQn7_zk1c8YlgkZJwB-GMmhQ3SGHcp9wVDH1PaPNNar82LJ8b0SdzrxE",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ff1e3e09ac5eafd11X1-2tS0GFJY",
-      "encryptUserId": "61a138b9ced77e170nFz09u1EVJX",
-      "invalidStatus": false,
-      "jobName": "嵌入式linux软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101180700,
-      "locationName": "南阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责产品底层驱动软件、应用层软件的开发调试，功能优化及维护工作；\n2.负责或支持产品单元功能测试和整机测试工作；\n3.负责解决软硬件联调测试工作；\n4.负责或配合梳理、编写相关技术文档；\n5.负责或参与软件架构的搭建。\n6、完成领导交办的其它工作;\n任职要求：\n1、自动化、计算机、电子等相关专业；\n2、二年以上嵌入式软件开发经验，具备独立开发、分析、定位、调试及解决问题的能力。\n3、熟练掌握嵌入式linux下的C/C++开发, makefile, gdb, shell, git等，具备良好的编程风格；\n4、熟悉linux系统操作，对系统有一定的理解,对进程通信，多线程编程有深入的理解；\n5、熟悉设备树、驱动开发流程；\n6、有嵌入式Linux下的WEB、cgi、qt开发经验；\n7、有充电桩、BMS、EMS，智能人机交互，储能行业开发经验者优先考虑。\n8、具备良好的沟通能力、团队协作能力、良好的学习能力。",
-      "encryptAddressId": "3c2ba3fe66dbbed0331-0t26EVc~",
-      "address": "南阳宛城区南阳中关村信息谷展示中心704",
-      "longitude": 112.585491,
-      "latitude": 32.939268,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4b2d7e830a399cd8d4060d39e1812de",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4f0f73be395b9e0d5ed73807faf3f5a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机械设计制造相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230322/607f1f3d68754fd07f90578db70016f7986c78bee191e469e398fd58b029fd245981c4040b8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "康智味有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7ccf64d23ee3260d1XN739W8F1I~",
-      "brandName": "康智味有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729160053473,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "康智味有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "康智味有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230322/607f1f3d68754fd07f90578db70016f7986c78bee191e469e398fd58b029fd245981c4040b8_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1729160053473,
+        "brandName": "康智味有限公司",
+        "customerBrandName": "康智味有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7ccf64d23ee3260d1XN739W8F1I~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南阳宛城区南阳中关村信息谷展示中心704",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3c2ba3fe66dbbed0331-0t26EVc~",
+        "encryptId": "ff1e3e09ac5eafd11X1-2tS0GFJY",
+        "encryptUserId": "61a138b9ced77e170nFz09u1EVJX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "嵌入式linux软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.939268,
+        "location": 101180700,
+        "locationName": "南阳",
+        "longitude": 112.585491,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4f0f73be395b9e0d5ed73807faf3f5a",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1.负责产品底层驱动软件、应用层软件的开发调试，功能优化及维护工作；\n2.负责或支持产品单元功能测试和整机测试工作；\n3.负责解决软硬件联调测试工作；\n4.负责或配合梳理、编写相关技术文档；\n5.负责或参与软件架构的搭建。\n6、完成领导交办的其它工作;\n任职要求：\n1、自动化、计算机、电子等相关专业；\n2、二年以上嵌入式软件开发经验，具备独立开发、分析、定位、调试及解决问题的能力。\n3、熟练掌握嵌入式linux下的C/C++开发, makefile, gdb, shell, git等，具备良好的编程风格；\n4、熟悉linux系统操作，对系统有一定的理解,对进程通信，多线程编程有深入的理解；\n5、熟悉设备树、驱动开发流程；\n6、有嵌入式Linux下的WEB、cgi、qt开发经验；\n7、有充电桩、BMS、EMS，智能人机交互，储能行业开发经验者优先考虑。\n8、具备良好的沟通能力、团队协作能力、良好的学习能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "机械设计制造相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4b2d7e830a399cd8d4060d39e1812de"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fb5FHrDuQ4e5K-m1GGBEC6JaAPGjP1NOOsN7xuuBqt5cRrKMcfel-Bkwe7C_qQn7_zk1c8YlgkZJwB-GMmhQ3SGHcp9wVDH1PaPNNar82LJ8b0SdzrxE",
+    "selfAccess": false,
+    "sessionId": null
 }

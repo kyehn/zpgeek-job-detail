@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "NfIefj7hRg1Ef-r1sJFXvnqvuOfgBoen0d8CYHlO7tdklyOpNbGgTwVUFEK28wH7w2y43tOdSfM5Amysr3nAOtPh_W9rn9n9prnnZj90INgDwaHpBCpAv40WDE5sftB7qy9_u7H__0ihXThbTJY-eE5Dg02e4ud8V8_Xrj9fS9s2u_A8YcSWZ9_sVK5ZwADlVEfwfT5ZLHlx_ca-LSLjxw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "073562ee8a458eba1XJ_3d2-FFtY",
-      "encryptUserId": "947c76e51e21743d0nR83969EVE~",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1，本科学历，20-28周岁，专业不限;\n2，有意向往互联网行业发展;\n3，测试公司APP，编写测试用例，执行操作找出bug;\n4、有良好的沟通能力和学习能力，团队工作融洽有效;\n5、学习能力强、工作踏实、具有责任心及团队合作意识;",
-      "encryptAddressId": "3c465757e958412b03180tW1FVY~",
-      "address": "深圳宝安区稻兴环球科创中心B座12楼",
-      "longitude": 113.9196,
-      "latitude": 22.576873,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1bf1fa536001381eef216df313ae263",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e891196ad58029123a78793890262c7c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "测试工作经验",
-        "MySQL",
-        "功能测试",
-        "Selenium",
-        "计算机相关专业",
-        "掌握软件测试理论和流程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "招聘人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221009/607f1f3d68754fd09cc018fdea31e917ee758dbb6a6e5619bf103e897804df7587c6ccd0e30_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "原上科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "420c11674408e15f1nd62d25",
-      "brandName": "原上科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240102/7b5b554d84f9729c0eb05532350a1f95a74f71692e37e19e50aff82b4344bffeab677c7a8bd86a08.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "深圳市原上科技技术有限公司成立于 2015年，专注互联网软件定制开发服务。\n2021 年开始聚焦在音频领域，积累了丰富的蓝牙耳机、音响、助听器等智能硬件 App 开发经验和品牌客户案例。",
-      "labels": [
-        "五险一金",
-        "零食下午茶"
-      ],
-      "activeTime": 1732891014493,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "原上科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "原上科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221009/607f1f3d68754fd09cc018fdea31e917ee758dbb6a6e5619bf103e897804df7587c6ccd0e30_b.jpg",
+        "title": "招聘人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732891014493,
+        "brandName": "原上科技",
+        "customerBrandName": "原上科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "420c11674408e15f1nd62d25",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "深圳市原上科技技术有限公司成立于 2015年，专注互联网软件定制开发服务。\n2021 年开始聚焦在音频领域，积累了丰富的蓝牙耳机、音响、助听器等智能硬件 App 开发经验和品牌客户案例。",
+        "labels": [
+            "五险一金",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240102/7b5b554d84f9729c0eb05532350a1f95a74f71692e37e19e50aff82b4344bffeab677c7a8bd86a08.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区稻兴环球科创中心B座12楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3c465757e958412b03180tW1FVY~",
+        "encryptId": "073562ee8a458eba1XJ_3d2-FFtY",
+        "encryptUserId": "947c76e51e21743d0nR83969EVE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.576873,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.9196,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e891196ad58029123a78793890262c7c",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1，本科学历，20-28周岁，专业不限;\n2，有意向往互联网行业发展;\n3，测试公司APP，编写测试用例，执行操作找出bug;\n4、有良好的沟通能力和学习能力，团队工作融洽有效;\n5、学习能力强、工作踏实、具有责任心及团队合作意识;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "Java",
+            "测试工作经验",
+            "MySQL",
+            "功能测试",
+            "Selenium",
+            "计算机相关专业",
+            "掌握软件测试理论和流程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1bf1fa536001381eef216df313ae263"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "NfIefj7hRg1Ef-r1sJFXvnqvuOfgBoen0d8CYHlO7tdklyOpNbGgTwVUFEK28wH7w2y43tOdSfM5Amysr3nAOtPh_W9rn9n9prnnZj90INgDwaHpBCpAv40WDE5sftB7qy9_u7H__0ihXThbTJY-eE5Dg02e4ud8V8_Xrj9fS9s2u_A8YcSWZ9_sVK5ZwADlVEfwfT5ZLHlx_ca-LSLjxw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

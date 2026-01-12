@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Z9pyGY4y6ETMh--1jAoB6WjPhiJVWqlNnthcEWUcUkyLVXX_Ji_wLFO9B_JaksxoiOBzH_sTcxPBnAvjm4gwrxursd2VpzYUYx6evYAVeVUmtjh_d73R",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "35be4b00f0c675991HZ93969FVVT",
-      "encryptUserId": "89084bb8e90f6d820XZz3Ny6GFRT",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101081100,
-      "locationName": "兴安盟",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "软件功能测试，项目实施",
-      "encryptAddressId": "ba77f1b693b046ac1nBy3dy6ElJU",
-      "address": "兴安盟乌兰浩特市兴安盟人民医院信息科",
-      "longitude": 122.03431,
-      "latitude": 46.075689,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf3b71459584df8568108b8b5d8970c2b56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bfdced9fb740fcc26a9aec3885576c040e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "白先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "顺康信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1fc71e0c06083f971HZ639u6Elo~",
-      "brandName": "顺康信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100006,
-      "industryName": "医疗健康",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723073721713,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "顺康信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "顺康信息",
+        "certificated": true,
+        "large": null,
+        "name": "白先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723073721713,
+        "brandName": "顺康信息",
+        "customerBrandName": "顺康信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1fc71e0c06083f971HZ639u6Elo~",
+        "focusBrand": false,
+        "industry": 100006,
+        "industryName": "医疗健康",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "兴安盟乌兰浩特市兴安盟人民医院信息科",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ba77f1b693b046ac1nBy3dy6ElJU",
+        "encryptId": "35be4b00f0c675991HZ93969FVVT",
+        "encryptUserId": "89084bb8e90f6d820XZz3Ny6GFRT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 46.075689,
+        "location": 101081100,
+        "locationName": "兴安盟",
+        "longitude": 122.03431,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bfdced9fb740fcc26a9aec3885576c040e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "软件功能测试，项目实施",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf3b71459584df8568108b8b5d8970c2b56bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Z9pyGY4y6ETMh--1jAoB6WjPhiJVWqlNnthcEWUcUkyLVXX_Ji_wLFO9B_JaksxoiOBzH_sTcxPBnAvjm4gwrxursd2VpzYUYx6evYAVeVUmtjh_d73R",
+    "selfAccess": false,
+    "sessionId": null
 }

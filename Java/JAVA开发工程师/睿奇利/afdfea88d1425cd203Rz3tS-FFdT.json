@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "KkBb47gl76GWD-V1z8b-hBQKQx4BgYYDYSB-eyOUgbgAWHwbPC5LiIT3ptFMAvwdHs7sCBW1RsRHuRqW0j54XcNEzt1PS6tJgbY4-0jxhdMqtMID9lLzm3dvIlTUsXKCtVs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "afdfea88d1425cd203Rz3tS-FFdT",
-      "encryptUserId": "0a3677ecf59b3e400XN739W1FFpU",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 1,
-      "proxyType": 4,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责Java相关项目的开发与维护工作。\n2、参与系统设计，确保代码质量，与团队协作完成模块测试。\n3、根据业务需求，进行系统功能设计及数据库优化。\n\n任职要求\n1、熟练运用Java语言，具备Spring等主流框架的应用能力。\n2、具备良好的数据库知识，能够熟练编写和优化SQL语句。\n3、具有良好的团队合作精神，能够高效沟通并解决技术难题。\n\n作息时间：上班时间：9:00-12:00，13：00-18:00\n其他福利：提供免费可口的中餐（四菜一汤），春节往返车费报销、工龄工资、年终奖金\n法定假期：国家法定节假日（15天）\n工资发放：每月10号准时发放\n公司活动：月度聚餐、年度旅游、年会",
-      "encryptAddressId": "ff42d24649356bf91nJ_09-4EFpWxI6_VfuY",
-      "address": "南京六合区BLUE HENS CENTER51",
-      "longitude": 118.866274,
-      "latitude": 32.332054,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240124/48ba41acc9cef1bf22189760840d61fa379522909522dc2d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240124/48ba41acc9cef1bfe67a1d3dbac984def68742e4207eaa886bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "分布式经验",
-        "Redis",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "睿奇利",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "73f2dbdc6a0f952a1HZ_3dy5EFI~",
-      "brandName": "睿奇利",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1736265681557,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "睿奇利",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "睿奇利",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1736265681557,
+        "brandName": "睿奇利",
+        "customerBrandName": "睿奇利",
+        "customerBrandStageName": "",
+        "encryptBrandId": "73f2dbdc6a0f952a1HZ_3dy5EFI~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京六合区BLUE HENS CENTER51",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "ff42d24649356bf91nJ_09-4EFpWxI6_VfuY",
+        "encryptId": "afdfea88d1425cd203Rz3tS-FFdT",
+        "encryptUserId": "0a3677ecf59b3e400XN739W1FFpU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.332054,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.866274,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240124/48ba41acc9cef1bfe67a1d3dbac984def68742e4207eaa886bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作内容\n1、负责Java相关项目的开发与维护工作。\n2、参与系统设计，确保代码质量，与团队协作完成模块测试。\n3、根据业务需求，进行系统功能设计及数据库优化。\n\n任职要求\n1、熟练运用Java语言，具备Spring等主流框架的应用能力。\n2、具备良好的数据库知识，能够熟练编写和优化SQL语句。\n3、具有良好的团队合作精神，能够高效沟通并解决技术难题。\n\n作息时间：上班时间：9:00-12:00，13：00-18:00\n其他福利：提供免费可口的中餐（四菜一汤），春节往返车费报销、工龄工资、年终奖金\n法定假期：国家法定节假日（15天）\n工资发放：每月10号准时发放\n公司活动：月度聚餐、年度旅游、年会",
+        "proxyJob": 1,
+        "proxyType": 4,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Java",
+            "分布式经验",
+            "Redis",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240124/48ba41acc9cef1bf22189760840d61fa379522909522dc2d6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "KkBb47gl76GWD-V1z8b-hBQKQx4BgYYDYSB-eyOUgbgAWHwbPC5LiIT3ptFMAvwdHs7sCBW1RsRHuRqW0j54XcNEzt1PS6tJgbY4-0jxhdMqtMID9lLzm3dvIlTUsXKCtVs~",
+    "selfAccess": false,
+    "sessionId": null
 }

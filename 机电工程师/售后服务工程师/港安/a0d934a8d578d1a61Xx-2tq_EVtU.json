@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "w4yi5Q4sxl_Ky-116NXC4HOcnEFJOluGKRL_4hKV4rHEx8fkY1jCnklbLcg-4uUY09SL8pLjq8oPUx_-IW53ft0bLq7KIjREbBeEMGDZbg2IxcvBtzA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a0d934a8d578d1a61Xx-2tq_EVtU",
-      "encryptUserId": "b73f116df1d335cb1nR-29y6FFdU",
-      "invalidStatus": false,
-      "jobName": "售后服务工程师",
-      "position": 300310,
-      "positionName": "机电工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "偶尔出差，电气专业优先",
-      "encryptAddressId": "7e47e7dd108a72b71HJz09m4EVo~",
-      "address": "长沙岳麓区杜鹃文苑42",
-      "longitude": 112.909151,
-      "latitude": 28.231317,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58f3be32cff19b91fb1d34ad6de52532",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0eb43f84c5e199a99358ce7e95520e87",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "机电相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "任先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "港安",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2f76fe00909e286533d62Ny8EQ~~",
-      "brandName": "港安",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726553740000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "港安",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "港安",
+        "certificated": true,
+        "large": null,
+        "name": "任先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1726553740000,
+        "brandName": "港安",
+        "customerBrandName": "港安",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "2f76fe00909e286533d62Ny8EQ~~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区杜鹃文苑42",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "7e47e7dd108a72b71HJz09m4EVo~",
+        "encryptId": "a0d934a8d578d1a61Xx-2tq_EVtU",
+        "encryptUserId": "b73f116df1d335cb1nR-29y6FFdU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "售后服务工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.231317,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.909151,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0eb43f84c5e199a99358ce7e95520e87",
+        "position": 300310,
+        "positionName": "机电工程师",
+        "postDescription": "偶尔出差，电气专业优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "机电相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58f3be32cff19b91fb1d34ad6de52532"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "w4yi5Q4sxl_Ky-116NXC4HOcnEFJOluGKRL_4hKV4rHEx8fkY1jCnklbLcg-4uUY09SL8pLjq8oPUx_-IW53ft0bLq7KIjREbBeEMGDZbg2IxcvBtzA~",
+    "selfAccess": false,
+    "sessionId": null
 }

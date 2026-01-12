@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qYSZcpkp81n2S-E1Obxp3xB72Q86Zg_y7N4udbHteFcdF928iuRmzZg9hLpddQDpwwifxCWGrfKoB9j0eDNtM3ecGJ_fprjHgBAcT0VIYOzkP7oheO4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dbf30ef88383a1201XN72Nm9FFJZ",
-      "encryptUserId": "0f07439ca78d4bd403N93dS6GVQ~",
-      "invalidStatus": false,
-      "jobName": "售后技术支持",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责设备日常维护；\n2、负责对设备、设施进行安全检查；\n3、进行综合维修的日常工作；\n4、需要适应长期出差；\n任职资格：\n1、大专以上文化程度，年龄2035周岁；\n2、相关工作经验1年以内；\n3、有驾驶证；\n4、具有一般机械设备维修经验。\n5、具备良好的个人素养及职业道德。",
-      "encryptAddressId": "fda6da4fde2748bb33Vy0ty5FFE~",
-      "address": "杭州余杭区杭州耀鼎数控设备云睦街108号",
-      "longitude": 120.016417,
-      "latitude": 30.233541,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/71e6b644d02dc298777e8ed44028ce8e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69ab5f210504c8bf81fca46cd5027b1e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统调试",
-        "机械/机电设备"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "沈女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "金鼎智能装备有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f07336f65fb4257a1XV609S9GVI~",
-      "brandName": "金鼎智能装备有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "我司主要是代理木工机械设备，主要产品为封边机、六面钻、电子锯等",
-      "labels": [
-        "交通补助",
-        "节日福利",
-        "高温补贴",
-        "通讯补贴",
-        "免费工装",
-        "团建聚餐",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "意外险"
-      ],
-      "activeTime": 1725230778469,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "金鼎智能装备有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "金鼎智能装备有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "沈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725230778469,
+        "brandName": "金鼎智能装备有限公司",
+        "customerBrandName": "金鼎智能装备有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f07336f65fb4257a1XV609S9GVI~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "我司主要是代理木工机械设备，主要产品为封边机、六面钻、电子锯等",
+        "labels": [
+            "交通补助",
+            "节日福利",
+            "高温补贴",
+            "通讯补贴",
+            "免费工装",
+            "团建聚餐",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "意外险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区杭州耀鼎数控设备云睦街108号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fda6da4fde2748bb33Vy0ty5FFE~",
+        "encryptId": "dbf30ef88383a1201XN72Nm9FFJZ",
+        "encryptUserId": "0f07439ca78d4bd403N93dS6GVQ~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "售后技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.233541,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.016417,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69ab5f210504c8bf81fca46cd5027b1e",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "1、负责设备日常维护；\n2、负责对设备、设施进行安全检查；\n3、进行综合维修的日常工作；\n4、需要适应长期出差；\n任职资格：\n1、大专以上文化程度，年龄2035周岁；\n2、相关工作经验1年以内；\n3、有驾驶证；\n4、具有一般机械设备维修经验。\n5、具备良好的个人素养及职业道德。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "系统调试",
+            "机械/机电设备"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/71e6b644d02dc298777e8ed44028ce8e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qYSZcpkp81n2S-E1Obxp3xB72Q86Zg_y7N4udbHteFcdF928iuRmzZg9hLpddQDpwwifxCWGrfKoB9j0eDNtM3ecGJ_fprjHgBAcT0VIYOzkP7oheO4~",
+    "selfAccess": false,
+    "sessionId": null
 }

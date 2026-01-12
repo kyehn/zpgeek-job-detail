@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ecRozrMd9UI6k-T1l56irIE8rJplSWqV-SyI8KzMKPzjYpjBaev9iq51v7kNYgpLFFhweP10DwNzSR9mNP93wECLjUAL-U4eXTGa4xRQCiPqlWXNYaQ4JJR_h5-vjYeCe0ECQE5VHSvd-30~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f4e4f39657421a2d1H182Nq7E1pQ",
-      "encryptUserId": "81897ccbc73016110n172d67F1VU",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101280300,
-      "locationName": "惠州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：1、负责激光控制类上位机软件的研发工作；\n2、 负责上位机软件的需求采集、需求分析、方案设计、软件编写等事务；\n3、负责相关技术文档的编写；\n任职要求：\n1.大专学历2—3年以上设计相关经验，能适应出差；\n2.有运动控制类、视觉运用和激光控制上位机软件设计经验者优先。\n3.熟悉使用Visual Studio开发工具，2年以上C#大型应用程序开发经验，具备系统架构设计相关的理念；\n4精通C#编程，熟悉C#网络通信、多线程、WPF等相关开发技术;\n5.熟悉MySOL、SOlite等数据库编程技能；\n6.熟知软件开发流程，具备良好的编程风格，具备良好的文档输出能力，具备良好的表达能力和团队协作能力。",
-      "encryptAddressId": "3dc2b02bbf8a2d5b1nB-09W1FFNXy4S2Uv2W",
-      "address": "惠州惠城区惠州仲恺高新区陈江街道渡头路4号（临时）研发厂房6楼",
-      "longitude": 114.342451,
-      "latitude": 23.020402,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf47cb1c8b1b0cd92783819c5aa208c80a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4353825e053d9e20cd96f2a564e971a56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "C#开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240601/607f1f3d68754fd048ceea9896f92c7cf57a85506e0b665a8ad9f5e15275af4a77947558b65a184_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "奥海智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "54ad3c265c2124cd1Hx42tq1GFI~",
-      "brandName": "奥海智能",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100914,
-      "industryName": "自动化设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730679138351,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "奥海智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "奥海智能",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240601/607f1f3d68754fd048ceea9896f92c7cf57a85506e0b665a8ad9f5e15275af4a77947558b65a184_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1730679138351,
+        "brandName": "奥海智能",
+        "customerBrandName": "奥海智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "54ad3c265c2124cd1Hx42tq1GFI~",
+        "focusBrand": false,
+        "industry": 100914,
+        "industryName": "自动化设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "惠州惠城区惠州仲恺高新区陈江街道渡头路4号（临时）研发厂房6楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3dc2b02bbf8a2d5b1nB-09W1FFNXy4S2Uv2W",
+        "encryptId": "f4e4f39657421a2d1H182Nq7E1pQ",
+        "encryptUserId": "81897ccbc73016110n172d67F1VU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.020402,
+        "location": 101280300,
+        "locationName": "惠州",
+        "longitude": 114.342451,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf4353825e053d9e20cd96f2a564e971a56bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "岗位职责：1、负责激光控制类上位机软件的研发工作；\n2、 负责上位机软件的需求采集、需求分析、方案设计、软件编写等事务；\n3、负责相关技术文档的编写；\n任职要求：\n1.大专学历2—3年以上设计相关经验，能适应出差；\n2.有运动控制类、视觉运用和激光控制上位机软件设计经验者优先。\n3.熟悉使用Visual Studio开发工具，2年以上C#大型应用程序开发经验，具备系统架构设计相关的理念；\n4精通C#编程，熟悉C#网络通信、多线程、WPF等相关开发技术;\n5.熟悉MySOL、SOlite等数据库编程技能；\n6.熟知软件开发流程，具备良好的编程风格，具备良好的文档输出能力，具备良好的表达能力和团队协作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "C#",
+            "C#开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf47cb1c8b1b0cd92783819c5aa208c80a6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ecRozrMd9UI6k-T1l56irIE8rJplSWqV-SyI8KzMKPzjYpjBaev9iq51v7kNYgpLFFhweP10DwNzSR9mNP93wECLjUAL-U4eXTGa4xRQCiPqlWXNYaQ4JJR_h5-vjYeCe0ECQE5VHSvd-30~",
+    "selfAccess": false,
+    "sessionId": null
 }

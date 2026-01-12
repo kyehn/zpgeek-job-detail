@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rNxQ4Mj5DrO7u-S1-uRVzave-vo0Q7NzvChBLLoM0U7nFBCL-NcLdtIyHwRtgltF1If-aFWQRm3m8x4YGxDn-pflT-bPEnoY8iA7r-4W41BuRRBcEg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0b6396fb2b2db1ea1XN909q-ElpZ",
-      "encryptUserId": "90871b3c6766ee5803V92tW5FVs~",
-      "invalidStatus": false,
-      "jobName": "会务会展执行",
-      "position": 140506,
-      "positionName": "会务/会展执行",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "职位详情：\n1、负责公司所有大型及小型展会相关活动；\n2、负责展会展台搭建及所有的供应商沟通；\n3、负责项目前期所有物料的筹备、场地安排等工作；\n4、负责项目现场组织、协调、全流程的管理和把控项目进度；\n5、临时或突发事件的处理。\n任职要求：\n1、具有良好的沟通能力\n2、有活动经验（会务、会展）",
-      "encryptAddressId": "e4cdc18e9e426ef31HF92N25Ew~~",
-      "address": "苏州苏州国际科技园1期1幢111号",
-      "longitude": 120.67143,
-      "latitude": 31.295233,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c559535a450e40353f941fd3ff744676",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d090db892ec602497ab5b273ec0bd8f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "政府/企业展厅",
-        "科技展",
-        "艺术/文化展",
-        "活动执行"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "人事",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=688acc99d44aa382jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR1RRa_7Gyb4hZJey6hopGt9annx0vdx-6oxnTQe8zuE0NL33fMcAtb28WGwsZl9U8XRe-q2jECEdF762URI-kopORQ7qy6xe-V1KU4O20HUoAyRA8j6dY8U~&radius=15",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "天天首页",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a7165c1cc070e9bd1n1_39m_GA~~",
-      "brandName": "天天首页",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180519/c6120813c75086154297fc90831d225a1647d4cb1cbb88f0674d53cbff18ba3b.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100004,
-      "industryName": "广告营销",
-      "introduce": "天天首页是一家服务于政府与企事业单位的专业品牌策略机构，以服务思维洞察需求，以“满足用户需求，超出用户预期”为目标，提供平面视觉、品牌策划、科技会展、数字媒体等服务，为品牌输出可视化创意，创造有效价值，陪伴品牌一起成长！\n天天凭借着超前的创意、优质的设计、全面的一站式服务，得到了品牌客户的一致好评，努力达成每一位客户从信任到依赖的过程。\n目前，天天已成为苏州工业园区人才服务工作的指定供应商，凭借着丰富的 人才服务经验和海外科技项目操作经验，运营多项高端人才创业项目，为客户提供优质的品牌服务。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1731664911898,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "天天首页",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "天天首页",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=688acc99d44aa382jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR1RRa_7Gyb4hZJey6hopGt9annx0vdx-6oxnTQe8zuE0NL33fMcAtb28WGwsZl9U8XRe-q2jECEdF762URI-kopORQ7qy6xe-V1KU4O20HUoAyRA8j6dY8U~&radius=15",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731664911898,
+        "brandName": "天天首页",
+        "customerBrandName": "天天首页",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "a7165c1cc070e9bd1n1_39m_GA~~",
+        "focusBrand": false,
+        "industry": 100004,
+        "industryName": "广告营销",
+        "introduce": "天天首页是一家服务于政府与企事业单位的专业品牌策略机构，以服务思维洞察需求，以“满足用户需求，超出用户预期”为目标，提供平面视觉、品牌策划、科技会展、数字媒体等服务，为品牌输出可视化创意，创造有效价值，陪伴品牌一起成长！\n天天凭借着超前的创意、优质的设计、全面的一站式服务，得到了品牌客户的一致好评，努力达成每一位客户从信任到依赖的过程。\n目前，天天已成为苏州工业园区人才服务工作的指定供应商，凭借着丰富的 人才服务经验和海外科技项目操作经验，运营多项高端人才创业项目，为客户提供优质的品牌服务。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180519/c6120813c75086154297fc90831d225a1647d4cb1cbb88f0674d53cbff18ba3b.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州国际科技园1期1幢111号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e4cdc18e9e426ef31HF92N25Ew~~",
+        "encryptId": "0b6396fb2b2db1ea1XN909q-ElpZ",
+        "encryptUserId": "90871b3c6766ee5803V92tW5FVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "会务会展执行",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.295233,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.67143,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d090db892ec602497ab5b273ec0bd8f",
+        "position": 140506,
+        "positionName": "会务/会展执行",
+        "postDescription": "职位详情：\n1、负责公司所有大型及小型展会相关活动；\n2、负责展会展台搭建及所有的供应商沟通；\n3、负责项目前期所有物料的筹备、场地安排等工作；\n4、负责项目现场组织、协调、全流程的管理和把控项目进度；\n5、临时或突发事件的处理。\n任职要求：\n1、具有良好的沟通能力\n2、有活动经验（会务、会展）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "政府/企业展厅",
+            "科技展",
+            "艺术/文化展",
+            "活动执行"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c559535a450e40353f941fd3ff744676"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rNxQ4Mj5DrO7u-S1-uRVzave-vo0Q7NzvChBLLoM0U7nFBCL-NcLdtIyHwRtgltF1If-aFWQRm3m8x4YGxDn-pflT-bPEnoY8iA7r-4W41BuRRBcEg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

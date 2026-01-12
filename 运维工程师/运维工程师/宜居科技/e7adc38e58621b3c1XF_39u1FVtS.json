@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EY3043cxFdSxq-q1nPFc99brq8fLK-Uoq3Inz2URKUDJTBLzL9_8Ue6tVHc_z0vHvdM9t9m0pQpICuZMZV7LN4rG_vEFN0-CBauPTessWCk9a8m4Fdal",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e7adc38e58621b3c1XF_39u1FVtS",
-      "encryptUserId": "76a36b9e152fbbb90nZy09u5EVdX",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101090500,
-      "locationName": "唐山",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "负责服务器维护及安全工作，服务器安全维护，数据库维护以及部署，负载均衡等工作，有经验者优先考虑",
-      "encryptAddressId": "a4c2aa371756f76c0HB92du6Elc~",
-      "address": "唐山路北区深唐307",
-      "longitude": 118.180395,
-      "latitude": 39.68649,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f37b1f97ef6030d697da69eeecffc61",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20f0faf5cd2127bea7ab4a5eb7ce0196",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "Java",
-        "Nginx",
-        "实施交付运维",
-        "系统运维",
-        "Redis"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210423/bc4bff854dd19955b6b1b796f29cbc0aa05e596a0f8f9212d4d490e4c29_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "宜居科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9126254795d54bf51nFz2dq4FFI~",
-      "brandName": "宜居科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727271495799,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宜居科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宜居科技",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210423/bc4bff854dd19955b6b1b796f29cbc0aa05e596a0f8f9212d4d490e4c29_b.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727271495799,
+        "brandName": "宜居科技",
+        "customerBrandName": "宜居科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9126254795d54bf51nFz2dq4FFI~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "唐山路北区深唐307",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a4c2aa371756f76c0HB92du6Elc~",
+        "encryptId": "e7adc38e58621b3c1XF_39u1FVtS",
+        "encryptUserId": "76a36b9e152fbbb90nZy09u5EVdX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.68649,
+        "location": 101090500,
+        "locationName": "唐山",
+        "longitude": 118.180395,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20f0faf5cd2127bea7ab4a5eb7ce0196",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "负责服务器维护及安全工作，服务器安全维护，数据库维护以及部署，负载均衡等工作，有经验者优先考虑",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "网络运维",
+            "Java",
+            "Nginx",
+            "实施交付运维",
+            "系统运维",
+            "Redis"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f37b1f97ef6030d697da69eeecffc61"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EY3043cxFdSxq-q1nPFc99brq8fLK-Uoq3Inz2URKUDJTBLzL9_8Ue6tVHc_z0vHvdM9t9m0pQpICuZMZV7LN4rG_vEFN0-CBauPTessWCk9a8m4Fdal",
+    "selfAccess": false,
+    "sessionId": null
 }

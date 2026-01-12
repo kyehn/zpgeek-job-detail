@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9w7BWjAUAAu00-h1T6but8tbJSApU2au92_O0hvUDieH76J7kDUq3D3XOwKr_4h21UjtXYuuD-wHlhLY1KBEV7r8Fg6fdQK10OPHd0LSGTEXteDwPR4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b6e93d5c20f9459e1XV42ty_EVZS",
-      "encryptUserId": "56014c6e67acf7a81H1-3tS9FFE~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101120500,
-      "locationName": "烟台",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "学历及专业要求\n1、大专以上学历，2年以上工作经验；\n2、计算机及相关专业\n\n业务能力：\n1. 较好的逻辑思维能力。\n2. 良好的沟通能力\n3. 扎实的计算机基础。\n4、文档编写能力，定期上报维护报告。\n\n计算机能力：\n\n1，精通j2ee,熟练掌握jsp、servlet编程； \n4、熟悉spring、ibtatis开发框架，熟练使用myeclipse开发工具； \n5、熟悉web前端技术，包括jquery、原生态javascript等； \n6、熟悉oracle数据库的基本环境配置、具有数据库方面的开发基础； \n\n工作内容：\n1、对现有人事系统出现的问题及时进行解决。\n2、对手机端的系统进行维护解决\n3、定期上报维护报告。",
-      "encryptAddressId": "44574427f739879d0nR_2Nu-GVs~",
-      "address": "烟台福山区斗山工程机械(中国)有限公司一层一号",
-      "longitude": 121.284307,
-      "latitude": 37.539827,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d5ec7e3a77abddea063ab9b22c79e4a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5e80596c7a5bbefdb15273bacaae908",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟女士",
-      "title": "行政总裁",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180528/4d3e34bebc65a5611413fa802523ef5c861cf24dd4743c225d88bbcf9a7_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "友在",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d1d4bf39704e76891nxy2dS5FVU~",
-      "brandName": "友在",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723023315150,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "友在",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "友在",
+        "certificated": true,
+        "large": null,
+        "name": "孟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180528/4d3e34bebc65a5611413fa802523ef5c861cf24dd4743c225d88bbcf9a7_b.jpg",
+        "title": "行政总裁"
+    },
+    "brandComInfo": {
+        "activeTime": 1723023315150,
+        "brandName": "友在",
+        "customerBrandName": "友在",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d1d4bf39704e76891nxy2dS5FVU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "烟台福山区斗山工程机械(中国)有限公司一层一号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "44574427f739879d0nR_2Nu-GVs~",
+        "encryptId": "b6e93d5c20f9459e1XV42ty_EVZS",
+        "encryptUserId": "56014c6e67acf7a81H1-3tS9FFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.539827,
+        "location": 101120500,
+        "locationName": "烟台",
+        "longitude": 121.284307,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5e80596c7a5bbefdb15273bacaae908",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "学历及专业要求\n1、大专以上学历，2年以上工作经验；\n2、计算机及相关专业\n\n业务能力：\n1. 较好的逻辑思维能力。\n2. 良好的沟通能力\n3. 扎实的计算机基础。\n4、文档编写能力，定期上报维护报告。\n\n计算机能力：\n\n1，精通j2ee,熟练掌握jsp、servlet编程； \n4、熟悉spring、ibtatis开发框架，熟练使用myeclipse开发工具； \n5、熟悉web前端技术，包括jquery、原生态javascript等； \n6、熟悉oracle数据库的基本环境配置、具有数据库方面的开发基础； \n\n工作内容：\n1、对现有人事系统出现的问题及时进行解决。\n2、对手机端的系统进行维护解决\n3、定期上报维护报告。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d5ec7e3a77abddea063ab9b22c79e4a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9w7BWjAUAAu00-h1T6but8tbJSApU2au92_O0hvUDieH76J7kDUq3D3XOwKr_4h21UjtXYuuD-wHlhLY1KBEV7r8Fg6fdQK10OPHd0LSGTEXteDwPR4~",
+    "selfAccess": false,
+    "sessionId": null
 }

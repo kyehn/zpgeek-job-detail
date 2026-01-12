@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Vy2hkxM8RmN3g-E1tpMGRaI3CxglsxYOs1m9rSco_yQqexDQsxxipkRiiUA4XQQtKNKGMBg-85XpgG2m_YoOYtf-auGDjC1HatIqD8FarmTuWang2Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "08b376c226b62dcd0H170t65E1Y~",
-      "encryptUserId": "d222224bc9089ede1nRy3Ni4EVBX",
-      "invalidStatus": false,
-      "jobName": "Python开发工程师",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "Python岗位职责\n\n1.负责企业级数据抽取系统的调研、系统设计、开发和应用\n\n2.负责企业级数据抽取系统开发组织、进度管理和测试验收\n\n任职要求\n\n1.全日制统招专/本科及以上学历,计算机或相关专业,计算机专业知识扎实,熟悉常用数据结构和算法,深入理解常用机器学习算法\n\n2.熟练使用Python语言,有过2年及以上的开发经验\n\n3.至少能熟练运用Java/PHP/GO/C++等其他一门开发语言\n\n4.有爬虫、数据挖掘分析方面或Python机器学习库方面开发经验者优先\n\n5.工作态度积极,热爱团队合作\n\n6.有项目管理或团队管理经验优佳。",
-      "encryptAddressId": "6be403b60ba1e9d31HR_2dW0FlA~",
-      "address": "长沙雨花区嘉沙实业(东南门)",
-      "longitude": 112.999846,
-      "latitude": 28.157991,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eeed16c1350f86dc7a7c533215428b32",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d84ddfec50857d64d037b568cb18f3ef",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "C++",
-        "Go",
-        "PHP",
-        "Python",
-        "网络爬虫技术",
-        "微服务架构"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "行政总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "长沙万英",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "bf9ab208853b35c833B539S4Ew~~",
-      "brandName": "长沙万英",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725369476414,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "长沙万英",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "长沙万英",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "行政总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725369476414,
+        "brandName": "长沙万英",
+        "customerBrandName": "长沙万英",
+        "customerBrandStageName": "",
+        "encryptBrandId": "bf9ab208853b35c833B539S4Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙雨花区嘉沙实业(东南门)",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "6be403b60ba1e9d31HR_2dW0FlA~",
+        "encryptId": "08b376c226b62dcd0H170t65E1Y~",
+        "encryptUserId": "d222224bc9089ede1nRy3Ni4EVBX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Python开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.157991,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.999846,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d84ddfec50857d64d037b568cb18f3ef",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "Python岗位职责\n\n1.负责企业级数据抽取系统的调研、系统设计、开发和应用\n\n2.负责企业级数据抽取系统开发组织、进度管理和测试验收\n\n任职要求\n\n1.全日制统招专/本科及以上学历,计算机或相关专业,计算机专业知识扎实,熟悉常用数据结构和算法,深入理解常用机器学习算法\n\n2.熟练使用Python语言,有过2年及以上的开发经验\n\n3.至少能熟练运用Java/PHP/GO/C++等其他一门开发语言\n\n4.有爬虫、数据挖掘分析方面或Python机器学习库方面开发经验者优先\n\n5.工作态度积极,热爱团队合作\n\n6.有项目管理或团队管理经验优佳。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Java",
+            "C++",
+            "Go",
+            "PHP",
+            "Python",
+            "网络爬虫技术",
+            "微服务架构"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eeed16c1350f86dc7a7c533215428b32"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Vy2hkxM8RmN3g-E1tpMGRaI3CxglsxYOs1m9rSco_yQqexDQsxxipkRiiUA4XQQtKNKGMBg-85XpgG2m_YoOYtf-auGDjC1HatIqD8FarmTuWang2Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

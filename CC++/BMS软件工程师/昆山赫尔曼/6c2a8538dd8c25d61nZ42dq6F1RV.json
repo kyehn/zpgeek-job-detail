@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wDrPG6BVc4OjI-t1y4uRsmHSUpMMlXVMYAiCxU8_bwGmrbxvNjNtbKTYfo-a-sjtP4pSYCBdtn0-4IUVbcRWakeYopmuACgrVfVHLEpD7p-MxKaDFsm2",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6c2a8538dd8c25d61nZ42dq6F1RV",
-      "encryptUserId": "cee1fdf7f6d8005e0nR-2tW-F1VS",
-      "invalidStatus": false,
-      "jobName": "BMS软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1 负责公司储能、两轮车BMS产品的开发维护工作，解决各类相关问题\n2 根据设计文档编写、调试代码以及相关的技术文档和设计资料\n3 主导项目需求分析，搭建产品软件系统框架\n4 有团队合作意识，良好的沟通能力应对跨部门以及跨公司之间的合作开发工作\n5 富有激情和开放创新精神以及良好的心理素质抗压能力\n6 有认真严谨的工作态度和精益求精的品质要求\n7 接受领导安排的其他工作",
-      "encryptAddressId": "16f743c97c6aff4f03R709W0GVA~",
-      "address": "苏州昆山市昆山赫尔曼电子科技有限公司顺扬路77号东侧3号厂房",
-      "longitude": 121.095864,
-      "latitude": 31.318265,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35523e2e50a90b74eed8bdb22002edd4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b07747453b132eb5349c5554185fb110",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "BMS ",
-        "两轮车",
-        "储能"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "常先生",
-      "title": "CEO",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "昆山赫尔曼",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9012dcc7def249ca1nZ52N64GVI~",
-      "brandName": "昆山赫尔曼",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721496098827,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆山赫尔曼",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆山赫尔曼",
+        "certificated": true,
+        "large": null,
+        "name": "常先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "CEO"
+    },
+    "brandComInfo": {
+        "activeTime": 1721496098827,
+        "brandName": "昆山赫尔曼",
+        "customerBrandName": "昆山赫尔曼",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9012dcc7def249ca1nZ52N64GVI~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市昆山赫尔曼电子科技有限公司顺扬路77号东侧3号厂房",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "16f743c97c6aff4f03R709W0GVA~",
+        "encryptId": "6c2a8538dd8c25d61nZ42dq6F1RV",
+        "encryptUserId": "cee1fdf7f6d8005e0nR-2tW-F1VS",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "BMS软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.318265,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.095864,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b07747453b132eb5349c5554185fb110",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1 负责公司储能、两轮车BMS产品的开发维护工作，解决各类相关问题\n2 根据设计文档编写、调试代码以及相关的技术文档和设计资料\n3 主导项目需求分析，搭建产品软件系统框架\n4 有团队合作意识，良好的沟通能力应对跨部门以及跨公司之间的合作开发工作\n5 富有激情和开放创新精神以及良好的心理素质抗压能力\n6 有认真严谨的工作态度和精益求精的品质要求\n7 接受领导安排的其他工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K·13薪",
+        "showSkills": [
+            "BMS ",
+            "两轮车",
+            "储能"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35523e2e50a90b74eed8bdb22002edd4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wDrPG6BVc4OjI-t1y4uRsmHSUpMMlXVMYAiCxU8_bwGmrbxvNjNtbKTYfo-a-sjtP4pSYCBdtn0-4IUVbcRWakeYopmuACgrVfVHLEpD7p-MxKaDFsm2",
+    "selfAccess": false,
+    "sessionId": null
 }

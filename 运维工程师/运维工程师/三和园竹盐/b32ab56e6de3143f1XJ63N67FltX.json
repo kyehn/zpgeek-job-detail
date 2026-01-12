@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wKU8Ogs8Yxno0-b1vFedwX_1wM3yzU2eYSCuJ8ioCSDw5DpmazmtH2XtnC5-kvpH1eIWCBnqmCwGTz3chY1SlTsMRnd_KTzTRmPmIG-c-omb-6YU1D0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b32ab56e6de3143f1XJ63N67FltX",
-      "encryptUserId": "4aee5875fffb39a70nJ82N-4FlBZ",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责溯源码的维护\n2.负责厂区监控的维护\n3.负责公司网络安全的维护与管理\n4.负责公司计算机的维护与保养\n5.负责公司ERP的维护与对接工作\n6.领导交代的其他工作",
-      "encryptAddressId": "0a8b5343f875c2650HB-3ti8GVo~",
-      "address": "杭州临安区浙江临安三和园竹盐食品有限公司1号",
-      "longitude": 119.76827,
-      "latitude": 30.337552,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b104d235b3fa595f384e08ebe70d91f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb71e5fa938ac57f9b0d5e9b2c4d4f6f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "桌面运维",
-        "网络运维",
-        "运维开发/DevOps",
-        "计算机相关专业",
-        "运维经验",
-        "网络安全相关经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "行政人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "三和园竹盐",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0d35a31a3d4b298b1Xd63N61Fg~~",
-      "brandName": "三和园竹盐",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101001,
-      "industryName": "食品/饮料/烟酒",
-      "introduce": "三和园竹盐  中国竹盐创始者，非物质文化遗产保护单位，行业标准制定者，碱性盐领军企业。",
-      "labels": [],
-      "activeTime": 1719051205926,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "三和园竹盐",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "三和园竹盐",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "行政人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1719051205926,
+        "brandName": "三和园竹盐",
+        "customerBrandName": "三和园竹盐",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "0d35a31a3d4b298b1Xd63N61Fg~~",
+        "focusBrand": false,
+        "industry": 101001,
+        "industryName": "食品/饮料/烟酒",
+        "introduce": "三和园竹盐  中国竹盐创始者，非物质文化遗产保护单位，行业标准制定者，碱性盐领军企业。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州临安区浙江临安三和园竹盐食品有限公司1号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0a8b5343f875c2650HB-3ti8GVo~",
+        "encryptId": "b32ab56e6de3143f1XJ63N67FltX",
+        "encryptUserId": "4aee5875fffb39a70nJ82N-4FlBZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.337552,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.76827,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb71e5fa938ac57f9b0d5e9b2c4d4f6f",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.负责溯源码的维护\n2.负责厂区监控的维护\n3.负责公司网络安全的维护与管理\n4.负责公司计算机的维护与保养\n5.负责公司ERP的维护与对接工作\n6.领导交代的其他工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "桌面运维",
+            "网络运维",
+            "运维开发/DevOps",
+            "计算机相关专业",
+            "运维经验",
+            "网络安全相关经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b104d235b3fa595f384e08ebe70d91f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wKU8Ogs8Yxno0-b1vFedwX_1wM3yzU2eYSCuJ8ioCSDw5DpmazmtH2XtnC5-kvpH1eIWCBnqmCwGTz3chY1SlTsMRnd_KTzTRmPmIG-c-omb-6YU1D0~",
+    "selfAccess": false,
+    "sessionId": null
 }

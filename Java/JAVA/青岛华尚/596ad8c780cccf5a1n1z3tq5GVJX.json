@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eNBPnjEQlmdJT-h1BprJBBfUI5bWNiY8XIYlPkkeT_VAv8VtpQhoNHp8TPtzAYEY20ewGm4AF0RbZKPeYnEpvugGEM-K8jjt85FInv5UEAZr0wm27A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "596ad8c780cccf5a1n1z3tq5GVJX",
-      "encryptUserId": "09f422480f430e460n1_0929F1A~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1、扎实的Java编程功底\r\n2、熟练使用并深刻理解Spring、Spring MVC、MyBatis、Hibernate等常用框架\r\n3、熟练使用MySQL数据库，包括视图、触发器、存储过程的应用,并掌握集群搭建及SQL调优等技巧\r\n4、熟悉Jquery、Bootstrap等常见Web前端开发框架\r\n5、熟练使用JBoss、Tomcat、Jetty等常用应用服务器\r\n6、熟悉Linux操作系统优先\n7、正规院校本科以上学历",
-      "encryptAddressId": "3b0fe097f8307a8d03Jy3t20EFE~",
-      "address": "青岛市北区青岛榉林园商务中心B区206",
-      "longitude": 120.356357,
-      "latitude": 36.072111,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4297c175c505bdb4bd5e94489fe3f2c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a04e141874224833395c9dac6a63a93b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "服务器配置",
-        "MVC开发",
-        "Spring",
-        "Hibernate",
-        "JAVA"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐女士",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190408/ff7c7e88de037c0561dce946ea0baa4d3715b86c4ff579544153aea6e75_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "青岛华尚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0a001c7faa69da843nR43d-6FQ~~",
-      "brandName": "青岛华尚",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722731358464,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青岛华尚",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青岛华尚",
+        "certificated": true,
+        "large": null,
+        "name": "唐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190408/ff7c7e88de037c0561dce946ea0baa4d3715b86c4ff579544153aea6e75_b.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722731358464,
+        "brandName": "青岛华尚",
+        "customerBrandName": "青岛华尚",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0a001c7faa69da843nR43d-6FQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛市北区青岛榉林园商务中心B区206",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3b0fe097f8307a8d03Jy3t20EFE~",
+        "encryptId": "596ad8c780cccf5a1n1z3tq5GVJX",
+        "encryptUserId": "09f422480f430e460n1_0929F1A~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.072111,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.356357,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a04e141874224833395c9dac6a63a93b",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、扎实的Java编程功底\r\n2、熟练使用并深刻理解Spring、Spring MVC、MyBatis、Hibernate等常用框架\r\n3、熟练使用MySQL数据库，包括视图、触发器、存储过程的应用,并掌握集群搭建及SQL调优等技巧\r\n4、熟悉Jquery、Bootstrap等常见Web前端开发框架\r\n5、熟练使用JBoss、Tomcat、Jetty等常用应用服务器\r\n6、熟悉Linux操作系统优先\n7、正规院校本科以上学历",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "SQL",
+            "服务器配置",
+            "MVC开发",
+            "Spring",
+            "Hibernate",
+            "JAVA"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4297c175c505bdb4bd5e94489fe3f2c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eNBPnjEQlmdJT-h1BprJBBfUI5bWNiY8XIYlPkkeT_VAv8VtpQhoNHp8TPtzAYEY20ewGm4AF0RbZKPeYnEpvugGEM-K8jjt85FInv5UEAZr0wm27A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

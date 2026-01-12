@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "MedLEziJHOkiy-21Fa9AbHtyT7Y58lHoCeKDIfDgdOm-YpHTQ16MiVoshflOiMVfnQW4paEiO18ZrH-V8oVtKyF-vZcd2l_P2ahtWBcgb_IZf0SxJtAK20joGYBLAbHyMkOZdv9s1o3j",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "01ba9e9e8ee5c48d1H1_3dS-F1ZZ",
-      "encryptUserId": "5cb8db7758ca2b1f1nR72d--ElNR",
-      "invalidStatus": false,
-      "jobName": "实施工程师管培生",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司SAAS服务项目的实施交付工作配置及系统运行环境维护工作\n2、根据项目需求制定合理的实施计划并按时按质完成\n3、与相关技术支持部门紧密配合，确保客户对产品的需求得到及时满足\n4、协调内部各部门之间的协作关系，做好售后服务\n\n职位要求：\n1、本科及以上学历，1年以上工作经验;\n2、有CRM saas领域的完整实施经验者优先\n3、有一定技术背景，有开发或软件产品技术支持工作经验者优先;\n4、责任心强、抗压能力强;有服务意识，工作积极主动\r\n\r\n加分项\r\n有以下行业经验：互联网",
-      "encryptAddressId": "104173f74d5f80593nV729i9EVtVwIu2Uv0~",
-      "address": "北京朝阳区北京医百科技有限公司23层",
-      "longitude": 116.480743,
-      "latitude": 39.996115,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d3c78b1d7a7ab23ac183f7150542db2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8ecccab039c75809237c89a9e49990c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SaaS",
-        "CRM"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220606/607f1f3d68754fd030c721f1ecfc80703fa610c0df44a1d722a182225b528cdb2803e118881_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "北京医百科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "914bcde078b5f00c0nJ_2d2_",
-      "brandName": "北京医百科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180427/9ca55fd78c5a166123f6fc145beb9333cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100006,
-      "industryName": "医疗健康",
-      "introduce": "医百科技，聚焦于生命科学领域企业营销端的技术赋能，依托自主研发的Pharma MarTech技术，服务药企营销全场景，助力企业营销数字化转型。\n\n医百全场景、一体化100.pMarTech技术SaaS云平台，涵盖100.eMarketing医药数字化营销产品、100.CRM+智能代表工作台、100.eHospital互联网医院和100.AiData智能数据平台四大产品业务矩阵，为医药企业提供“数字化学术推广、数字化销售管理和数字化医患管理”的整体解决方案，覆盖“企-医-患-药”的营销全链路。\n\n医百科技，中国领先的医药营销数字化转型服务商，已服务药企客户1000余家，协会客户100余家。",
-      "labels": [
-        "季度奖金",
-        "节日福利",
-        "交通补助",
-        "带薪年假",
-        "股票期权",
-        "五险一金"
-      ],
-      "activeTime": 1730539686235,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京医百科技有限公司",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京医百科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220606/607f1f3d68754fd030c721f1ecfc80703fa610c0df44a1d722a182225b528cdb2803e118881_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1730539686235,
+        "brandName": "北京医百科技有限公司",
+        "customerBrandName": "北京医百科技有限公司",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "914bcde078b5f00c0nJ_2d2_",
+        "focusBrand": false,
+        "industry": 100006,
+        "industryName": "医疗健康",
+        "introduce": "医百科技，聚焦于生命科学领域企业营销端的技术赋能，依托自主研发的Pharma MarTech技术，服务药企营销全场景，助力企业营销数字化转型。\n\n医百全场景、一体化100.pMarTech技术SaaS云平台，涵盖100.eMarketing医药数字化营销产品、100.CRM+智能代表工作台、100.eHospital互联网医院和100.AiData智能数据平台四大产品业务矩阵，为医药企业提供“数字化学术推广、数字化销售管理和数字化医患管理”的整体解决方案，覆盖“企-医-患-药”的营销全链路。\n\n医百科技，中国领先的医药营销数字化转型服务商，已服务药企客户1000余家，协会客户100余家。",
+        "labels": [
+            "季度奖金",
+            "节日福利",
+            "交通补助",
+            "带薪年假",
+            "股票期权",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180427/9ca55fd78c5a166123f6fc145beb9333cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区北京医百科技有限公司23层",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "104173f74d5f80593nV729i9EVtVwIu2Uv0~",
+        "encryptId": "01ba9e9e8ee5c48d1H1_3dS-F1ZZ",
+        "encryptUserId": "5cb8db7758ca2b1f1nR72d--ElNR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师管培生",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.996115,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.480743,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8ecccab039c75809237c89a9e49990c",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：\n1、负责公司SAAS服务项目的实施交付工作配置及系统运行环境维护工作\n2、根据项目需求制定合理的实施计划并按时按质完成\n3、与相关技术支持部门紧密配合，确保客户对产品的需求得到及时满足\n4、协调内部各部门之间的协作关系，做好售后服务\n\n职位要求：\n1、本科及以上学历，1年以上工作经验;\n2、有CRM saas领域的完整实施经验者优先\n3、有一定技术背景，有开发或软件产品技术支持工作经验者优先;\n4、责任心强、抗压能力强;有服务意识，工作积极主动\r\n\r\n加分项\r\n有以下行业经验：互联网",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "SaaS",
+            "CRM"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d3c78b1d7a7ab23ac183f7150542db2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "MedLEziJHOkiy-21Fa9AbHtyT7Y58lHoCeKDIfDgdOm-YpHTQ16MiVoshflOiMVfnQW4paEiO18ZrH-V8oVtKyF-vZcd2l_P2ahtWBcgb_IZf0SxJtAK20joGYBLAbHyMkOZdv9s1o3j",
+    "selfAccess": false,
+    "sessionId": null
 }

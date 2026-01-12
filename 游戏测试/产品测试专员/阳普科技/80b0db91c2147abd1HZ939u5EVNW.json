@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xOYs8cnHCpKNG-D1SI6xvwyB87cwH7yHK6m2SdPZnW2GJNpFd8pGxaZvr2QrDiQTEU0oEUEBong2QtD3iKf_CsFjUAGXQcoxLQ91STFgwiF4k4WaZnX-",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "80b0db91c2147abd1HZ939u5EVNW",
-      "encryptUserId": "3ef3213855d817150nR-3dW0EVJR",
-      "invalidStatus": false,
-      "jobName": "产品测试专员",
-      "position": 100307,
-      "positionName": "游戏测试",
-      "location": 101060200,
-      "locationName": "吉林",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、测试用例设计、用例执行、问题初步定位、跟进bug修复等；\n2、协助优化用户体验。\n\n职位要求：\n1、爱好棋牌类游戏，熟悉吉林地区棋牌类游戏玩法；\n2、1年以上软件测试经验。\n\n3、可兼职，可居家办公，欢迎在校大学生。",
-      "encryptAddressId": "9e01589f918a80201nBy3Nm8EVFW",
-      "address": "吉林船营区东北电力大学(长春路)可居家办公",
-      "longitude": 126.510308,
-      "latitude": 43.824833,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf3e5b25b46605731a3b6627abbbc794d96bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfc8deca5c60155dd560d5993297c14aca6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "C++",
-        "手游测试经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "阳普科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6a5f02de206924641HZ63ty0FlI~",
-      "brandName": "阳普科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722881033093,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "阳普科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "阳普科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1722881033093,
+        "brandName": "阳普科技",
+        "customerBrandName": "阳普科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6a5f02de206924641HZ63ty0FlI~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "吉林船营区东北电力大学(长春路)可居家办公",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9e01589f918a80201nBy3Nm8EVFW",
+        "encryptId": "80b0db91c2147abd1HZ939u5EVNW",
+        "encryptUserId": "3ef3213855d817150nR-3dW0EVJR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "产品测试专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 43.824833,
+        "location": 101060200,
+        "locationName": "吉林",
+        "longitude": 126.510308,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfc8deca5c60155dd560d5993297c14aca6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100307,
+        "positionName": "游戏测试",
+        "postDescription": "岗位职责：\n1、测试用例设计、用例执行、问题初步定位、跟进bug修复等；\n2、协助优化用户体验。\n\n职位要求：\n1、爱好棋牌类游戏，熟悉吉林地区棋牌类游戏玩法；\n2、1年以上软件测试经验。\n\n3、可兼职，可居家办公，欢迎在校大学生。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "Python",
+            "C++",
+            "手游测试经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf3e5b25b46605731a3b6627abbbc794d96bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xOYs8cnHCpKNG-D1SI6xvwyB87cwH7yHK6m2SdPZnW2GJNpFd8pGxaZvr2QrDiQTEU0oEUEBong2QtD3iKf_CsFjUAGXQcoxLQ91STFgwiF4k4WaZnX-",
+    "selfAccess": false,
+    "sessionId": null
 }

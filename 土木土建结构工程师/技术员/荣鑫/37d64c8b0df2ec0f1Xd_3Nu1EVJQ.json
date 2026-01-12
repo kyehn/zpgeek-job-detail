@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3RIZtbL6ieH8U-E1nhiXc8e-Tt5wwTYN7BFxB5dr-WRi7NztI7vb4bKWDdu_siZO1b4Xo2_xrxXlqYoqoVq-XI772RkaEzLBLnE7bEt3HxvpBw1VaeYI",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "37d64c8b0df2ec0f1Xd_3Nu1EVJQ",
-      "encryptUserId": "6076b44c73a3b3700nF62N20FFVT",
-      "invalidStatus": false,
-      "jobName": "技术员",
-      "position": 220204,
-      "positionName": "土木/土建/结构工程师",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-6K",
-      "payTypeDesc": null,
-      "postDescription": "因公司发展需要，需招聘2名学历专业地球物理学，具有物探职称证书。",
-      "encryptAddressId": "1b87f1100afce36a0XF_3NW0FVA~",
-      "address": "重庆渝北区叠彩城14",
-      "longitude": 106.569274,
-      "latitude": 29.637982,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58b0294e1cfdb5c58b7dbbb6847c46ba",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfb7dad3e76a32a176e32730ca9dc75f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "荣鑫",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b3ff4104af7d92eb1nN42dW0F1Q~",
-      "brandName": "荣鑫",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725333343457,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "荣鑫",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "荣鑫",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725333343457,
+        "brandName": "荣鑫",
+        "customerBrandName": "荣鑫",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b3ff4104af7d92eb1nN42dW0F1Q~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆渝北区叠彩城14",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1b87f1100afce36a0XF_3NW0FVA~",
+        "encryptId": "37d64c8b0df2ec0f1Xd_3Nu1EVJQ",
+        "encryptUserId": "6076b44c73a3b3700nF62N20FFVT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.637982,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.569274,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfb7dad3e76a32a176e32730ca9dc75f",
+        "position": 220204,
+        "positionName": "土木/土建/结构工程师",
+        "postDescription": "因公司发展需要，需招聘2名学历专业地球物理学，具有物探职称证书。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-6K",
+        "showSkills": [
+            "工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58b0294e1cfdb5c58b7dbbb6847c46ba"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3RIZtbL6ieH8U-E1nhiXc8e-Tt5wwTYN7BFxB5dr-WRi7NztI7vb4bKWDdu_siZO1b4Xo2_xrxXlqYoqoVq-XI772RkaEzLBLnE7bEt3HxvpBw1VaeYI",
+    "selfAccess": false,
+    "sessionId": null
 }

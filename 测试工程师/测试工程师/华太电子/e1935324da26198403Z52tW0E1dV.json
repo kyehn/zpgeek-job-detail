@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0vBaKEGKR7iAl-D1xYSK7dFfK3dWrzY-Nn7LkGOmFw8eoXxWq5yHImCRrxS5FerZUeZanCO4jkkskbBSO5E-DvEitOE2mtNi2dGutKcfZe2VZlDn-dLE1pTOypPOnDWn2hxX7vh8H4MQzXRJ21aN4Dgtsvem",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e1935324da26198403Z52tW0E1dV",
-      "encryptUserId": "6b80854b127cfa0803Nz09S9GFc~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.SiC产品测试方案制定和数据分析；\n2.执行测试程序的优化；\n3.建立管理方法以妥善且机密的管理测试程序的相关档案；\n4.预定验证产品特性与验证机台的排程，并在排程内完成所有验证程序。\n任职要求：\n1.本科及以上学历，自动化控制、机械工程、电子或微电子及相关专业；\n2.半导体芯片制造、量测分析、半导体设备服务相关工作经验。",
-      "encryptAddressId": "7dc37b8b216686681nRz3dm8F1VW",
-      "address": "长沙望城区长沙瑶华半导体科技有限公司2F",
-      "longitude": 112.83488,
-      "latitude": 28.329041,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230421/48ba41acc9cef1bfac0a087a3f8c7539e636b73f42f5ddc26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf898fdb7a867eb8e242d2f4343f470e2b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "晶圆测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "倪女士",
-      "title": "人力资源专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20250116/607f1f3d68754fd069113f2cc65cdc30c78238da7f80679d81491c66048d6703db14e4a1687fd55_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "华太电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "676d319370f0d8381XF63NW_FVQ~",
-      "brandName": "华太电子",
-      "logo": "https://c-res.zhipin.com/jrs/8_0f75175338967f32e72b8af8e6866eb7.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "苏州华太电子技术股份有限公司（简称:华太）成立于2010年3月，是一家拥有半导体产业链多环节底层核心技术、多领域布局协同发展的平台型半导体公司。公司主要从事射频系列产品、功率系列产品、高端散热材料的研发、生产与销售，并提供大功率封测业务，产品可广泛应用于通信基站、光伏发电与储能、半导体装备、智能终端、新能源汽车、工业控制等大功率场景。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "意外险",
-        "定期体检",
-        "年终奖",
-        "绩效奖金",
-        "带薪年假",
-        "餐补",
-        "团建聚餐",
-        "节日福利"
-      ],
-      "activeTime": 1741252467801,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华太电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华太电子",
+        "certificated": true,
+        "large": null,
+        "name": "倪女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20250116/607f1f3d68754fd069113f2cc65cdc30c78238da7f80679d81491c66048d6703db14e4a1687fd55_b.jpg",
+        "title": "人力资源专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1741252467801,
+        "brandName": "华太电子",
+        "customerBrandName": "华太电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "676d319370f0d8381XF63NW_FVQ~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "苏州华太电子技术股份有限公司（简称:华太）成立于2010年3月，是一家拥有半导体产业链多环节底层核心技术、多领域布局协同发展的平台型半导体公司。公司主要从事射频系列产品、功率系列产品、高端散热材料的研发、生产与销售，并提供大功率封测业务，产品可广泛应用于通信基站、光伏发电与储能、半导体装备、智能终端、新能源汽车、工业控制等大功率场景。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "意外险",
+            "定期体检",
+            "年终奖",
+            "绩效奖金",
+            "带薪年假",
+            "餐补",
+            "团建聚餐",
+            "节日福利"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/8_0f75175338967f32e72b8af8e6866eb7.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙望城区长沙瑶华半导体科技有限公司2F",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "7dc37b8b216686681nRz3dm8F1VW",
+        "encryptId": "e1935324da26198403Z52tW0E1dV",
+        "encryptUserId": "6b80854b127cfa0803Nz09S9GFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.329041,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.83488,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf898fdb7a867eb8e242d2f4343f470e2b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1.SiC产品测试方案制定和数据分析；\n2.执行测试程序的优化；\n3.建立管理方法以妥善且机密的管理测试程序的相关档案；\n4.预定验证产品特性与验证机台的排程，并在排程内完成所有验证程序。\n任职要求：\n1.本科及以上学历，自动化控制、机械工程、电子或微电子及相关专业；\n2.半导体芯片制造、量测分析、半导体设备服务相关工作经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K",
+        "showSkills": [
+            "晶圆测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230421/48ba41acc9cef1bfac0a087a3f8c7539e636b73f42f5ddc26bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0vBaKEGKR7iAl-D1xYSK7dFfK3dWrzY-Nn7LkGOmFw8eoXxWq5yHImCRrxS5FerZUeZanCO4jkkskbBSO5E-DvEitOE2mtNi2dGutKcfZe2VZlDn-dLE1pTOypPOnDWn2hxX7vh8H4MQzXRJ21aN4Dgtsvem",
+    "selfAccess": false,
+    "sessionId": null
 }

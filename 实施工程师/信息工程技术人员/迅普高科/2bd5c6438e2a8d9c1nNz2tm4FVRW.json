@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RM5Gj5_LIUBLB-N1nEzTSfRYQhlCyEtPtDfI866BQPVsvuMAYR7bccawbd9M4kydayDn80m2cXDHh6CuHbn4eP7TrOmEgvklh2jFMB6zhGKlMQ5Blg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2bd5c6438e2a8d9c1nNz2tm4FVRW",
-      "encryptUserId": "1d87c9e13f56009e0nd50tm8EFBY",
-      "invalidStatus": false,
-      "jobName": "信息工程技术人员",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101100100,
-      "locationName": "太原",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：计算机信息技术相关软件、硬件的安装、调试及维护工作。\n 岗位要求：\n1、大专以上学历，工科类相关专业；\n2、熟悉计算机相关操作，具备一定的专业基础知识；\n3、可适应太原周边及山西省内短期出差安排；\n4、个人学习能力强、善于交往、团结同事。\r\n\r\n加分项\r\n有以下行业经验：计算机软件·计算机硬件·通信/网络设备",
-      "encryptAddressId": "5d66b3e87ad6775f1nN_3ti0GVE~",
-      "address": "太原小店区大和昌业23层2301",
-      "longitude": 112.553284,
-      "latitude": 37.803007,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/966c633f7856425e0c754f351a0306ab",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d0a409c548dbe39264b119b0f681e91",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统集成工程师",
-        "硬件实施",
-        "软件实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "桑女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220720/607f1f3d68754fd0085bfa592cff53d2cfe8ec719d11bb8ac7facd992f09a545cfae77bc822_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "迅普高科",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b5026d37332fc2763ndz3Ni7",
-      "brandName": "迅普高科",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729837318084,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迅普高科",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "迅普高科",
+        "certificated": true,
+        "large": null,
+        "name": "桑女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220720/607f1f3d68754fd0085bfa592cff53d2cfe8ec719d11bb8ac7facd992f09a545cfae77bc822_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1729837318084,
+        "brandName": "迅普高科",
+        "customerBrandName": "迅普高科",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b5026d37332fc2763ndz3Ni7",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "太原小店区大和昌业23层2301",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5d66b3e87ad6775f1nN_3ti0GVE~",
+        "encryptId": "2bd5c6438e2a8d9c1nNz2tm4FVRW",
+        "encryptUserId": "1d87c9e13f56009e0nd50tm8EFBY",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "信息工程技术人员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.803007,
+        "location": 101100100,
+        "locationName": "太原",
+        "longitude": 112.553284,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d0a409c548dbe39264b119b0f681e91",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "工作内容：计算机信息技术相关软件、硬件的安装、调试及维护工作。\n 岗位要求：\n1、大专以上学历，工科类相关专业；\n2、熟悉计算机相关操作，具备一定的专业基础知识；\n3、可适应太原周边及山西省内短期出差安排；\n4、个人学习能力强、善于交往、团结同事。\r\n\r\n加分项\r\n有以下行业经验：计算机软件·计算机硬件·通信/网络设备",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "系统集成工程师",
+            "硬件实施",
+            "软件实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/966c633f7856425e0c754f351a0306ab"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RM5Gj5_LIUBLB-N1nEzTSfRYQhlCyEtPtDfI866BQPVsvuMAYR7bccawbd9M4kydayDn80m2cXDHh6CuHbn4eP7TrOmEgvklh2jFMB6zhGKlMQ5Blg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

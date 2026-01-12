@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "eGdSvFxSJd84W-71Hszegr59DYPYprCuffqeMwWpVwy8gkfNaa6AK87BcmKhyq4AP44deHbMNKXBUuySw2vTg-tXm1ZnZzl06xktyaP3chQmsIDq4cCiWTZnq78GZOVKwUf8RWNIzJtywN8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1ad0ab0678bc61a41H193N61EFpV",
-      "encryptUserId": "ad2d456c6fb3d42b0nN83d2_EVVV",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "运维工程师工作内容主要有：\n1.负责计算机系统和网络平台服务的运维保障，参与并审核架构设计、安全规范设计等的合理性和可运维性\n2.负责保障产品或服务7x24小时稳定运行，及时响应和处理严重、复杂应用故障，参与突发事件管理\n3.开展系统问题跟踪，能够运用技术手段和工具进行复杂问题定位\n4.推动产品或服务整体框架升级和技术版本迭代，参与故障演练设计与实施，持续优化线上技术架构和各类技术的开发维护\n5.编写运维技术文档，协助完善运维制度和流程，持续优化运维实践",
-      "encryptAddressId": "fba8cc5e7ae380e80Hx90t68E1I~",
-      "address": "苏州吴江区亨通数云网智产业园9幢",
-      "longitude": 120.610819,
-      "latitude": 31.096848,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/62a8498574fdb8e4416fda59f7aec308",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8987f49d25f519ef2b2b6af8d39e3f16",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统客服",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "金先生",
-      "title": "商务经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "脉腾科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d03ab05a9dcf7bd51XB939i4Flo~",
-      "brandName": "脉腾科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731330094233,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "脉腾科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "脉腾科技",
+        "certificated": true,
+        "large": null,
+        "name": "金先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "商务经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731330094233,
+        "brandName": "脉腾科技",
+        "customerBrandName": "脉腾科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d03ab05a9dcf7bd51XB939i4Flo~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴江区亨通数云网智产业园9幢",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fba8cc5e7ae380e80Hx90t68E1I~",
+        "encryptId": "1ad0ab0678bc61a41H193N61EFpV",
+        "encryptUserId": "ad2d456c6fb3d42b0nN83d2_EVVV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.096848,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.610819,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8987f49d25f519ef2b2b6af8d39e3f16",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "运维工程师工作内容主要有：\n1.负责计算机系统和网络平台服务的运维保障，参与并审核架构设计、安全规范设计等的合理性和可运维性\n2.负责保障产品或服务7x24小时稳定运行，及时响应和处理严重、复杂应用故障，参与突发事件管理\n3.开展系统问题跟踪，能够运用技术手段和工具进行复杂问题定位\n4.推动产品或服务整体框架升级和技术版本迭代，参与故障演练设计与实施，持续优化线上技术架构和各类技术的开发维护\n5.编写运维技术文档，协助完善运维制度和流程，持续优化运维实践",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "网络运维",
+            "系统客服",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/62a8498574fdb8e4416fda59f7aec308"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "eGdSvFxSJd84W-71Hszegr59DYPYprCuffqeMwWpVwy8gkfNaa6AK87BcmKhyq4AP44deHbMNKXBUuySw2vTg-tXm1ZnZzl06xktyaP3chQmsIDq4cCiWTZnq78GZOVKwUf8RWNIzJtywN8~",
+    "selfAccess": false,
+    "sessionId": null
 }

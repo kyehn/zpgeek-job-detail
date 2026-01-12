@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "guGIMiZuPoYmh-B1aSD5vU4OThehlIadEi9dN8touX2GpUAWw3FGEIS8d69B1vMfDPtBZL-1Q2s6sXx53lmU7gEd4h-cSDoj7679E4T3KtUs43iI",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "690a51b99e75b01d1HN939i9F1Q~",
-      "encryptUserId": "0803abfaefd651290nJy2tu9EVs~",
-      "invalidStatus": false,
-      "jobName": "维修工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "负责维修仪器仪表 调试校准！规划出差巡检！要求会开车！浙江省内优先考虑！有责任心！敢于吃苦！ 双休 社保 每年一次旅游或者旅游补贴！",
-      "encryptAddressId": "d2ab959438bb03d21nV62dm8FVE~",
-      "address": "杭州萧山区太古广场451号",
-      "longitude": 120.2578,
-      "latitude": 30.18228,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a9526e95cb4484f2267acd8e7420208",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0c9353dbbc0220c586c5458528ca6b5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190310/2acb334ecb4dcb3da221c994829d674c7995ad3920737d17cf414093597_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "宇舟仪器",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "777dda2863b649bd1HNy3NW8FA~~",
-      "brandName": "宇舟仪器",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725371366701,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宇舟仪器",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宇舟仪器",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190310/2acb334ecb4dcb3da221c994829d674c7995ad3920737d17cf414093597_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725371366701,
+        "brandName": "宇舟仪器",
+        "customerBrandName": "宇舟仪器",
+        "customerBrandStageName": "",
+        "encryptBrandId": "777dda2863b649bd1HNy3NW8FA~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区太古广场451号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "d2ab959438bb03d21nV62dm8FVE~",
+        "encryptId": "690a51b99e75b01d1HN939i9F1Q~",
+        "encryptUserId": "0803abfaefd651290nJy2tu9EVs~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "维修工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.18228,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.2578,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0c9353dbbc0220c586c5458528ca6b5",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "负责维修仪器仪表 调试校准！规划出差巡检！要求会开车！浙江省内优先考虑！有责任心！敢于吃苦！ 双休 社保 每年一次旅游或者旅游补贴！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "运维开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a9526e95cb4484f2267acd8e7420208"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "guGIMiZuPoYmh-B1aSD5vU4OThehlIadEi9dN8touX2GpUAWw3FGEIS8d69B1vMfDPtBZL-1Q2s6sXx53lmU7gEd4h-cSDoj7679E4T3KtUs43iI",
+    "selfAccess": false,
+    "sessionId": null
 }

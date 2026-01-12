@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vtpxymcWWFGZB-m1-sivp9oN9Z3RL9wc66U0rDwjAqHuCsITtlCORtjtn3GOOmk_Xfowuq4UqI6Lpy6Hiqv0yUpVZvYuc4RmIxwEs87-QRg-1FjJ765JLYl9YnQupPkI_0HwfDzqvXU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ff5c20b9ecf21eb21HF_2dy0EVs~",
-      "encryptUserId": "3de1a76f0d4777630nJ72tu-EFU~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "计算机或相关专业，熟悉网络，服务器，操作系统，数据库，虚拟化。",
-      "encryptAddressId": "23c373dc2dd8ba531nR93927ElA~",
-      "address": "上海静安区金赢108创意广场金座",
-      "longitude": 121.4666,
-      "latitude": 31.26747,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86eb259ddacebbc557ff899adfa76ca0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adec0f55b2d77f92861e7c4de5140203",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邹先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "晓轩",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f70f7834e423b4ee1HN42t69Fg~~",
-      "brandName": "晓轩",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725525056908,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "晓轩",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "晓轩",
+        "certificated": true,
+        "large": null,
+        "name": "邹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725525056908,
+        "brandName": "晓轩",
+        "customerBrandName": "晓轩",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f70f7834e423b4ee1HN42t69Fg~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海静安区金赢108创意广场金座",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "23c373dc2dd8ba531nR93927ElA~",
+        "encryptId": "ff5c20b9ecf21eb21HF_2dy0EVs~",
+        "encryptUserId": "3de1a76f0d4777630nJ72tu-EFU~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.26747,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.4666,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adec0f55b2d77f92861e7c4de5140203",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "计算机或相关专业，熟悉网络，服务器，操作系统，数据库，虚拟化。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86eb259ddacebbc557ff899adfa76ca0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vtpxymcWWFGZB-m1-sivp9oN9Z3RL9wc66U0rDwjAqHuCsITtlCORtjtn3GOOmk_Xfowuq4UqI6Lpy6Hiqv0yUpVZvYuc4RmIxwEs87-QRg-1FjJ765JLYl9YnQupPkI_0HwfDzqvXU~",
+    "selfAccess": false,
+    "sessionId": null
 }

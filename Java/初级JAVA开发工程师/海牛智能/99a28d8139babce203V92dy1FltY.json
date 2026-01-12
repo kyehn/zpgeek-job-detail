@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "k191_1OVsCSnQ-J1pF8HhU2NmVh0sdq8ZdlvtByRAPMqePdzVZ9FZYRVW3JrWsSOzOpMesKi3xVwpvJ5AkQtjjym8jmSB5HuunzJkt4p8-4Dk3m21Pa_CpD912_QbsfujA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "99a28d8139babce203V92dy1FltY",
-      "encryptUserId": "3df3830d1ee55cd503Z_39u-EVQ~",
-      "invalidStatus": false,
-      "jobName": "初级java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "帮助软件企业降本增效，通过智能化模块化语言，把传统软件作坊研发方式升级成智能工业化研发方式，实现数倍研发效率提升，已经服务多个行业上市公司和世界500强企业。\n创始团队来着互联网大厂，适合对技术有一定的追求，对自己技术提升会有比较大的帮助。\n\n岗位职责:\n1.负责海牛智能Java相关项目的开发与维护工作\n2.参与系统设计，确保代码质量，完成模块的详细设计与编码\n3.与团队合作，完成项目的需求分析、系统设计及模块划分\n\n任职要求：\n1.具备良好的Java编程能力，能够独立完成模块开发\n2.具有团队合作精神，能够与团队成员有效沟通\n3.对新技术有较快的学习能力，能够适应项目需求变化",
-      "encryptAddressId": "3a5b7cb70ca2162e1nx62Nq1EFpWxI-_UPOe",
-      "address": "杭州上城区中豪·凤起广场A座502",
-      "longitude": 120.202959,
-      "latitude": 30.264138,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf50446c80c864ffa73d40fb2e8152b1176bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2fb04c82e3c64a675f589e23915908006bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf0a0a73fcf04ae04b44da1f2c77dca8a16bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bfe0728be4506c0a5286cd391f7b912aae6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "不接受居家办公",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "殷先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210309/52f3b99a46e62d22b5c51c090305a7f84bff598667731319eb0ed26a3a9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "海牛智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2a35e8c6e77aa2471XRz2dq1FVI~",
-      "brandName": "海牛智能",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1739799460467,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "海牛智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "海牛智能",
+        "certificated": true,
+        "large": null,
+        "name": "殷先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210309/52f3b99a46e62d22b5c51c090305a7f84bff598667731319eb0ed26a3a9_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1739799460467,
+        "brandName": "海牛智能",
+        "customerBrandName": "海牛智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2a35e8c6e77aa2471XRz2dq1FVI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区中豪·凤起广场A座502",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bfe0728be4506c0a5286cd391f7b912aae6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241218/48ba41acc9cef1bf0a0a73fcf04ae04b44da1f2c77dca8a16bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "3a5b7cb70ca2162e1nx62Nq1EFpWxI-_UPOe",
+        "encryptId": "99a28d8139babce203V92dy1FltY",
+        "encryptUserId": "3df3830d1ee55cd503Z_39u-EVQ~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "初级java开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 30.264138,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.202959,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2fb04c82e3c64a675f589e23915908006bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "帮助软件企业降本增效，通过智能化模块化语言，把传统软件作坊研发方式升级成智能工业化研发方式，实现数倍研发效率提升，已经服务多个行业上市公司和世界500强企业。\n创始团队来着互联网大厂，适合对技术有一定的追求，对自己技术提升会有比较大的帮助。\n\n岗位职责:\n1.负责海牛智能Java相关项目的开发与维护工作\n2.参与系统设计，确保代码质量，完成模块的详细设计与编码\n3.与团队合作，完成项目的需求分析、系统设计及模块划分\n\n任职要求：\n1.具备良好的Java编程能力，能够独立完成模块开发\n2.具有团队合作精神，能够与团队成员有效沟通\n3.对新技术有较快的学习能力，能够适应项目需求变化",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Java",
+            "不接受居家办公",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf50446c80c864ffa73d40fb2e8152b1176bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "k191_1OVsCSnQ-J1pF8HhU2NmVh0sdq8ZdlvtByRAPMqePdzVZ9FZYRVW3JrWsSOzOpMesKi3xVwpvJ5AkQtjjym8jmSB5HuunzJkt4p8-4Dk3m21Pa_CpD912_QbsfujA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

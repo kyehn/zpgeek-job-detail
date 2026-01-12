@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-gRoHNQSJb0C2-_1lfg0HFp_pmHhGn9KhmyzGM3xExRHTz2oks5oQycaOT4sKwajGHjWUJfXzBrXfi2PF87jZt8wn9xeUc7iSA9DfXMrd-ySSs6aJtq7",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0f8710b275051f7d1HB83dW0FFtW",
-      "encryptUserId": "81badd38477366a50XR60tq0FltS",
-      "invalidStatus": false,
-      "jobName": "java开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、计算机或相关专业专科以上学历，1-2年JavaEE开发经验，熟悉Java、Jquery、io、多线程、集合、分布式、缓存、消息、搜索等机制……，有NodeJs、Python、LinuxShell、Html5、Android、IOS……其它开发语言经验者优先\n2、具有较强的事业心、对工作认真负责、主动性强、有敬业精神，勇于面对困难和接受挑战\n3、有良好的团队协作能力和沟通能力\n4、 熟悉或了解使用常用开发框架，如：Spring Boot、Hibernate、Spring MVC、EasyUI、AngularJS、Require……",
-      "encryptAddressId": "b93c56ea6d9aee660Xx609W6GVdVw4u5WPI~",
-      "address": "上海徐汇区徐汇区宛平南路1119号",
-      "longitude": 121.445422,
-      "latitude": 31.196073,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230419/48ba41acc9cef1bf98b5a27566e72992de5b34b2538de6026bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfa4c95bf5e839a476d82fb0b1334d0cd06bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "顾先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "界数",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b3e8d10e0de0cc611Hdy2d-0FVU~",
-      "brandName": "界数",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719113602773,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "界数",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "界数",
+        "certificated": true,
+        "large": null,
+        "name": "顾先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1719113602773,
+        "brandName": "界数",
+        "customerBrandName": "界数",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b3e8d10e0de0cc611Hdy2d-0FVU~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区徐汇区宛平南路1119号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b93c56ea6d9aee660Xx609W6GVdVw4u5WPI~",
+        "encryptId": "0f8710b275051f7d1HB83dW0FFtW",
+        "encryptUserId": "81badd38477366a50XR60tq0FltS",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "java开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.196073,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.445422,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfa4c95bf5e839a476d82fb0b1334d0cd06bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、计算机或相关专业专科以上学历，1-2年JavaEE开发经验，熟悉Java、Jquery、io、多线程、集合、分布式、缓存、消息、搜索等机制……，有NodeJs、Python、LinuxShell、Html5、Android、IOS……其它开发语言经验者优先\n2、具有较强的事业心、对工作认真负责、主动性强、有敬业精神，勇于面对困难和接受挑战\n3、有良好的团队协作能力和沟通能力\n4、 熟悉或了解使用常用开发框架，如：Spring Boot、Hibernate、Spring MVC、EasyUI、AngularJS、Require……",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230419/48ba41acc9cef1bf98b5a27566e72992de5b34b2538de6026bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-gRoHNQSJb0C2-_1lfg0HFp_pmHhGn9KhmyzGM3xExRHTz2oks5oQycaOT4sKwajGHjWUJfXzBrXfi2PF87jZt8wn9xeUc7iSA9DfXMrd-ySSs6aJtq7",
+    "selfAccess": false,
+    "sessionId": null
 }

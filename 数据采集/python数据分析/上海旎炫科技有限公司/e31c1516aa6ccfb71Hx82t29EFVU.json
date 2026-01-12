@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QFabrlRtkHXFQ-M1hMrii5Ma2JZrr2W4R2LfEtYXsjQbf1sEdlQVnopC3MHtrx-wyB4kkNdF3nhFtKOz_S9ZA3Ig9jV_bbumnVR0yZ93k6Nb3x5dk9sF20rO1FPKnRFymoRrstdw8ttpnA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e31c1516aa6ccfb71Hx82t29EFVU",
-      "encryptUserId": "f82c700d26cc2e070nVz3du6FVc~",
-      "invalidStatus": false,
-      "jobName": "python数据分析",
-      "position": 100122,
-      "positionName": "数据采集",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "做数据采集、分析\n本科学历\n薪资6k",
-      "encryptAddressId": "7773d32148e36be91nZ83tq4EFNSwYq_WPKa",
-      "address": "杭州钱塘区杭州味全食品有限公司(银海街)1",
-      "longitude": 120.364213,
-      "latitude": 30.337652,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f35af22642f953232c24ea8856e1191",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0355fafe0b219a1d62701d6f2188559b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "python",
-        "js"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "董女士",
-      "title": "企业资深HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220118/607f1f3d68754fd0d1a3e4039a688b9346ac09d65c63a49c0e13dcd8a82be8c6158254f712d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "上海旎炫科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7385dc77b4c90f5a1HJy392-EFU~",
-      "brandName": "上海旎炫科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726305091481,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海旎炫科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海旎炫科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "董女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220118/607f1f3d68754fd0d1a3e4039a688b9346ac09d65c63a49c0e13dcd8a82be8c6158254f712d_b.jpg",
+        "title": "企业资深HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1726305091481,
+        "brandName": "上海旎炫科技有限公司",
+        "customerBrandName": "上海旎炫科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7385dc77b4c90f5a1HJy392-EFU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州钱塘区杭州味全食品有限公司(银海街)1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7773d32148e36be91nZ83tq4EFNSwYq_WPKa",
+        "encryptId": "e31c1516aa6ccfb71Hx82t29EFVU",
+        "encryptUserId": "f82c700d26cc2e070nVz3du6FVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "python数据分析",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.337652,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.364213,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0355fafe0b219a1d62701d6f2188559b",
+        "position": 100122,
+        "positionName": "数据采集",
+        "postDescription": "做数据采集、分析\n本科学历\n薪资6k",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "python",
+            "js"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f35af22642f953232c24ea8856e1191"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QFabrlRtkHXFQ-M1hMrii5Ma2JZrr2W4R2LfEtYXsjQbf1sEdlQVnopC3MHtrx-wyB4kkNdF3nhFtKOz_S9ZA3Ig9jV_bbumnVR0yZ93k6Nb3x5dk9sF20rO1FPKnRFymoRrstdw8ttpnA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rPN5KOIasGRoB-t1cYs1LykPO_62vB8chaoLTnyJpL0HWUM0by3HWmywjyCozfDvkikk0T7ZdUD_j6VAEqC3DsFg9dsqJqK_bdj7Rj7DjyIt_9NV",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "030dd1511362717e1HF63Nm8GFU~",
-      "encryptUserId": "d11304ac6d63ddf10nF-39-0EFU~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101300500,
-      "locationName": "桂林",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求：\r\n1.大专及以上学历，计算机技术及相关专业； \r\n2.具有高度的责任感和敬业精神，服从工作安排； \r\n3.具有良好的沟通能力和表达能力；\r\n4. 熟悉基本网络设备，包括服务器、路由器、交换机、防火墙等优先考虑； \r\n5.从事过系统集成工作优先考虑；\r\n\r\n岗位职责：\r\n1.负责机房网络设备的安装调试维护；\r\n2.负责为客户提供全天候的网络运行维护保障；\r\n\r\n工作时间：\r\n行政单位时间工作制，享受双休和国家法定节假日",
-      "encryptAddressId": "f5ce92f85165930d1XBz2dm0FVo~",
-      "address": "桂林秀峰区秀峰区",
-      "longitude": 110.264183,
-      "latitude": 25.273625,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0bd11618bc8429651900c3c033d313f4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6bb9e404a608797e127d7066f8cbd19",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "机房运维",
-        "网络"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190227/09c2523d3987a773c1f1f8cff71f3b8b438c822848f048054d1c558c58f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "广西南宁首禾信息...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "25640db63d3776050Xd53d65FQ~~",
-      "brandName": "广西南宁首禾信息...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727274370038,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广西南宁首禾信息...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广西南宁首禾信息...",
+        "certificated": true,
+        "large": null,
+        "name": "吴先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190227/09c2523d3987a773c1f1f8cff71f3b8b438c822848f048054d1c558c58f_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727274370038,
+        "brandName": "广西南宁首禾信息...",
+        "customerBrandName": "广西南宁首禾信息...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "25640db63d3776050Xd53d65FQ~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "桂林秀峰区秀峰区",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f5ce92f85165930d1XBz2dm0FVo~",
+        "encryptId": "030dd1511362717e1HF63Nm8GFU~",
+        "encryptUserId": "d11304ac6d63ddf10nF-39-0EFU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 25.273625,
+        "location": 101300500,
+        "locationName": "桂林",
+        "longitude": 110.264183,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6bb9e404a608797e127d7066f8cbd19",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位要求：\r\n1.大专及以上学历，计算机技术及相关专业； \r\n2.具有高度的责任感和敬业精神，服从工作安排； \r\n3.具有良好的沟通能力和表达能力；\r\n4. 熟悉基本网络设备，包括服务器、路由器、交换机、防火墙等优先考虑； \r\n5.从事过系统集成工作优先考虑；\r\n\r\n岗位职责：\r\n1.负责机房网络设备的安装调试维护；\r\n2.负责为客户提供全天候的网络运行维护保障；\r\n\r\n工作时间：\r\n行政单位时间工作制，享受双休和国家法定节假日",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "系统运维",
+            "机房运维",
+            "网络"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0bd11618bc8429651900c3c033d313f4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rPN5KOIasGRoB-t1cYs1LykPO_62vB8chaoLTnyJpL0HWUM0by3HWmywjyCozfDvkikk0T7ZdUD_j6VAEqC3DsFg9dsqJqK_bdj7Rj7DjyIt_9NV",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Cpq3O4mTSRtDf-w1XUeI835A0JLgfRqa8DZv825tHkmcjfoNw7hydxTlyNepH9_e8W-L3pJWih9ARBaCGLC0fG9XxgNOY2RrwNAhxVHDl7RrL1i6",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e0b4e4abe20237a133V739S5E1c~",
-      "encryptUserId": "2b436acd34e5adbc3n193Ny0E1I~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·15薪",
-      "payTypeDesc": null,
-      "postDescription": "基础代码编写\n需求沟通",
-      "encryptAddressId": "cc897ce00b0e84021Xxy3dy0EVY~",
-      "address": "杭州西湖区浙江省团校16幢211",
-      "longitude": 120.136692,
-      "latitude": 30.283882,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59f212fa144aac4bf0288959fe4f5374",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2f426e1cce9e9a01e6207c9349c0494",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "海萝",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c1edffc97e4cbb200HF_39S4Ew~~",
-      "brandName": "海萝",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722904361429,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "海萝",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "海萝",
+        "certificated": true,
+        "large": null,
+        "name": "朱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722904361429,
+        "brandName": "海萝",
+        "customerBrandName": "海萝",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c1edffc97e4cbb200HF_39S4Ew~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州西湖区浙江省团校16幢211",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "cc897ce00b0e84021Xxy3dy0EVY~",
+        "encryptId": "e0b4e4abe20237a133V739S5E1c~",
+        "encryptUserId": "2b436acd34e5adbc3n193Ny0E1I~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.283882,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.136692,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2f426e1cce9e9a01e6207c9349c0494",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "基础代码编写\n需求沟通",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·15薪",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59f212fa144aac4bf0288959fe4f5374"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Cpq3O4mTSRtDf-w1XUeI835A0JLgfRqa8DZv825tHkmcjfoNw7hydxTlyNepH9_e8W-L3pJWih9ARBaCGLC0fG9XxgNOY2RrwNAhxVHDl7RrL1i6",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "w8c1ZB86BGY09-S1TZatAAvkVcR60fvIygSQLdvbKKkVFcIqL1MHWcSPUhcXvGYumLd3qVGx1nZTEmQ6DucSS1R-9R3Dtvtf6D2m4Z-sPQnZ8_RsLjnS5_C76N9WVbo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ef179159a26f76bf1XF63d-4E1Q~",
-      "encryptUserId": "da71bfacd271ebb603B93NW4Fls~",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101230100,
-      "locationName": "福州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "1、路由器，ONU，OLT，EOC局端产品的底层，系统，应用软件开发工作\r\n2、行业精英和优秀应届毕业生均可\r\n\r\n职位招聘1-5人",
-      "encryptAddressId": "8b8af2dbac80fc651nV50ti_FVA~",
-      "address": "福州闽侯县福州高新区创新园21栋",
-      "longitude": 119.211414,
-      "latitude": 26.038529,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/840d0f3c72f23ffe33aa9b170f93f8d9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ba033f127d1af4847a552c713d518c5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C/C++",
-        "Linux",
-        "计算机网络"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "研发主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "瑞吉联通信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "512ae936b396dba81nJ42Ny8GQ~~",
-      "brandName": "瑞吉联通信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180402/c16576ee85f797b961b32b965a46695ecfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "深圳市瑞吉联通信科技有限公司成立于2009年12月，是一家专注于宽带网络全业务解决方案开发、生产、销售及服务为一体的国家高新技术企业，总部位于中国深圳，在福州、深圳设有研发中心，在广西、惠州、印度、泰国等地区和国家设有分支机构。\n     瑞吉联通信主要为客户提供无源光网络设备PON产品，包括运维网管软件、局端OLT和终端ONT，为世界各地的有限电视运营商、通信运营商和宽带服务运营商提供接入网设备服务以及接入网整体解决方案。在国内，瑞吉联通信拥有电信、广电运营商、系统集成商等众多品牌客户。在国外，瑞吉联业务覆盖全球，产品已在东南亚、印度、欧洲、拉美等国家的运营商网络和企业网络中得到了广泛的应用。  \n     瑞吉联通信拥有资深的管理团队、优秀的技术研发团队、齐全的产品制造链、完善的质量管理体系以及现代化管理模式。公司始终坚持“诚信务实、客户至上、追求卓越”的企业价值观，致力于为全球网络品牌商、运营商、集成商等客户提供多元化、个性化的服务。",
-      "labels": [
-        "加班餐补",
-        "节日福利",
-        "团建聚餐",
-        "带薪年假",
-        "全勤奖",
-        "加班补助",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1730391166743,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "瑞吉联通信",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "瑞吉联通信",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "研发主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1730391166743,
+        "brandName": "瑞吉联通信",
+        "customerBrandName": "瑞吉联通信",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "512ae936b396dba81nJ42Ny8GQ~~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "深圳市瑞吉联通信科技有限公司成立于2009年12月，是一家专注于宽带网络全业务解决方案开发、生产、销售及服务为一体的国家高新技术企业，总部位于中国深圳，在福州、深圳设有研发中心，在广西、惠州、印度、泰国等地区和国家设有分支机构。\n     瑞吉联通信主要为客户提供无源光网络设备PON产品，包括运维网管软件、局端OLT和终端ONT，为世界各地的有限电视运营商、通信运营商和宽带服务运营商提供接入网设备服务以及接入网整体解决方案。在国内，瑞吉联通信拥有电信、广电运营商、系统集成商等众多品牌客户。在国外，瑞吉联业务覆盖全球，产品已在东南亚、印度、欧洲、拉美等国家的运营商网络和企业网络中得到了广泛的应用。  \n     瑞吉联通信拥有资深的管理团队、优秀的技术研发团队、齐全的产品制造链、完善的质量管理体系以及现代化管理模式。公司始终坚持“诚信务实、客户至上、追求卓越”的企业价值观，致力于为全球网络品牌商、运营商、集成商等客户提供多元化、个性化的服务。",
+        "labels": [
+            "加班餐补",
+            "节日福利",
+            "团建聚餐",
+            "带薪年假",
+            "全勤奖",
+            "加班补助",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180402/c16576ee85f797b961b32b965a46695ecfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "福州闽侯县福州高新区创新园21栋",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8b8af2dbac80fc651nV50ti_FVA~",
+        "encryptId": "ef179159a26f76bf1XF63d-4E1Q~",
+        "encryptUserId": "da71bfacd271ebb603B93NW4Fls~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 26.038529,
+        "location": 101230100,
+        "locationName": "福州",
+        "longitude": 119.211414,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ba033f127d1af4847a552c713d518c5",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1、路由器，ONU，OLT，EOC局端产品的底层，系统，应用软件开发工作\r\n2、行业精英和优秀应届毕业生均可\r\n\r\n职位招聘1-5人",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "C/C++",
+            "Linux",
+            "计算机网络"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/840d0f3c72f23ffe33aa9b170f93f8d9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "w8c1ZB86BGY09-S1TZatAAvkVcR60fvIygSQLdvbKKkVFcIqL1MHWcSPUhcXvGYumLd3qVGx1nZTEmQ6DucSS1R-9R3Dtvtf6D2m4Z-sPQnZ8_RsLjnS5_C76N9WVbo~",
+    "selfAccess": false,
+    "sessionId": null
 }

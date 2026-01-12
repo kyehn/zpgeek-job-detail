@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "c0GF-8yQ6Gyiv-C1aleq62Wb9kuospsrpd7KbClRlYX96chuDFmFhm1vwGD0CiIUNJfZ1oWstKKDVIiYFDJp8AK_bdvCFQNqevpFSLdgHUbRkAoJOg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bb545b6cc8fad8c8331y3NS4Flc~",
-      "encryptUserId": "d92cd2ba91a066791nVz2N-8EFZX",
-      "invalidStatus": false,
-      "jobName": "Java前端工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "2年及以上web开发经验\n熟悉HTML(5)/CSS(3)/Js(ES6+)\n熟悉VUE全家桶\n熟悉Element-UI框架\n有uni-app开发微信小程序项目经验",
-      "encryptAddressId": "47b715f1891e891f1HZ90tm7FlQ~",
-      "address": "深圳龙岗区牛栏前大厦c1020",
-      "longitude": 114.037728,
-      "latitude": 22.634724,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f073fbd72a545ce08bb09615457699e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55013e002ee4bc4b418dd35008e16990",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "前端开发",
-        "CSS",
-        "HTML",
-        "小程序"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "软件工程师",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "互真创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4c23e820ec64e2483nF_39m1GA~~",
-      "brandName": "互真创",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722143761186,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "互真创",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "互真创",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "软件工程师"
+    },
+    "brandComInfo": {
+        "activeTime": 1722143761186,
+        "brandName": "互真创",
+        "customerBrandName": "互真创",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4c23e820ec64e2483nF_39m1GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区牛栏前大厦c1020",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "47b715f1891e891f1HZ90tm7FlQ~",
+        "encryptId": "bb545b6cc8fad8c8331y3NS4Flc~",
+        "encryptUserId": "d92cd2ba91a066791nVz2N-8EFZX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java前端工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.634724,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.037728,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55013e002ee4bc4b418dd35008e16990",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "2年及以上web开发经验\n熟悉HTML(5)/CSS(3)/Js(ES6+)\n熟悉VUE全家桶\n熟悉Element-UI框架\n有uni-app开发微信小程序项目经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "前端开发",
+            "CSS",
+            "HTML",
+            "小程序"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f073fbd72a545ce08bb09615457699e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "c0GF-8yQ6Gyiv-C1aleq62Wb9kuospsrpd7KbClRlYX96chuDFmFhm1vwGD0CiIUNJfZ1oWstKKDVIiYFDJp8AK_bdvCFQNqevpFSLdgHUbRkAoJOg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

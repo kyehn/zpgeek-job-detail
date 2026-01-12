@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "S2ZpWpaDhsxyy-y1kJLYsLQRs_oNXS2XF62FL3DetgcInPBrjUoI7-Isq_EsS_oGKpu3JefQHn9ALs7BhwzBfmPd9e5jjbxQeKHMDZ1lqxrYHeQ2FQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3d45e8c8e6011b391nF53Nu0GFtZ",
-      "encryptUserId": "f83b272442e010550nZy3t64FFBT",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "1 有弱电行业经验1年以上，有道闸和门禁维护系统优先\n2 负责无锡日常客户停车场系统的运维和新项目调试\n3 工作地点 无锡",
-      "encryptAddressId": "baff88049ac8b2df03F72dm0E1s~",
-      "address": "无锡滨湖区无锡融创文旅城A区停车场",
-      "longitude": 120.273835,
-      "latitude": 31.449407,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9c615448b6521bdd8467bfe583a347d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/603360665a3e97d611de12cc9f0c50d9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Unix",
-        "Python",
-        "服务器配置",
-        "系统运维",
-        "Linux",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "售后运维",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "艾润物联网",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4f66773ad12480631XJ_3Ni5",
-      "brandName": "艾润物联网",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200817/fd14328e2c815b2fd53bab19f4e3813c41dbce91b17d2446e05da63baae9e0c1_s.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "艾润停车王是国内科技领先的停车管理平台服务及运营商。为停车场方提供智能化的平台管理能力及服务，为停车车主提供一站式的车后服务平台。\n1.是国内前三的停车平台SaaS服务运营商；\n2.现已服务于全5000+个客户，覆盖西安40%的市场；\n3.已经授予发明专利和实用新型专利200余项，占行业专业55%；\n4.多名研发和技术骨干来自知名的互联网企业：华为、腾讯、百度等。",
-      "labels": [
-        "节日福利",
-        "带薪年假",
-        "加班补助",
-        "股票期权",
-        "五险一金"
-      ],
-      "activeTime": 1729554514767,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "艾润物联网",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "艾润物联网",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "售后运维"
+    },
+    "brandComInfo": {
+        "activeTime": 1729554514767,
+        "brandName": "艾润物联网",
+        "customerBrandName": "艾润物联网",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "4f66773ad12480631XJ_3Ni5",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "艾润停车王是国内科技领先的停车管理平台服务及运营商。为停车场方提供智能化的平台管理能力及服务，为停车车主提供一站式的车后服务平台。\n1.是国内前三的停车平台SaaS服务运营商；\n2.现已服务于全5000+个客户，覆盖西安40%的市场；\n3.已经授予发明专利和实用新型专利200余项，占行业专业55%；\n4.多名研发和技术骨干来自知名的互联网企业：华为、腾讯、百度等。",
+        "labels": [
+            "节日福利",
+            "带薪年假",
+            "加班补助",
+            "股票期权",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200817/fd14328e2c815b2fd53bab19f4e3813c41dbce91b17d2446e05da63baae9e0c1_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡滨湖区无锡融创文旅城A区停车场",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "baff88049ac8b2df03F72dm0E1s~",
+        "encryptId": "3d45e8c8e6011b391nF53Nu0GFtZ",
+        "encryptUserId": "f83b272442e010550nZy3t64FFBT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.449407,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.273835,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/603360665a3e97d611de12cc9f0c50d9",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1 有弱电行业经验1年以上，有道闸和门禁维护系统优先\n2 负责无锡日常客户停车场系统的运维和新项目调试\n3 工作地点 无锡",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "Unix",
+            "Python",
+            "服务器配置",
+            "系统运维",
+            "Linux",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9c615448b6521bdd8467bfe583a347d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "S2ZpWpaDhsxyy-y1kJLYsLQRs_oNXS2XF62FL3DetgcInPBrjUoI7-Isq_EsS_oGKpu3JefQHn9ALs7BhwzBfmPd9e5jjbxQeKHMDZ1lqxrYHeQ2FQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

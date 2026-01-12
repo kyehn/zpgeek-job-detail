@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "hErp_R8xzV-Jg-11Ar4G4u5AZhJn-oB60-HPbNDtuDBtlhPAW7v4zlaH6M2WRUTnRWgEAYhzDDWiZ7nFslCLrO6oKU06D0ZKZM0q6v8XUz7HapyjevmMXlhaBU0oXxR1Y9ro47ZDe2Zq3A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c1188282fe40dd291XJ92d60FVdV",
-      "encryptUserId": "a30fa0dc1133edcf03F-3Nq_FVo~",
-      "invalidStatus": false,
-      "jobName": "后端软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190300,
-      "locationName": "镇江",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "职责：\n负责项目中计算机软件设计工作；\n负责项目软件的开发、调试、测试等工作；\n编写相关技术文档；\n负责产品项目的维护及故障解决；\n负责产品软件技术平台的规划、研究、维护等，保证产品的先进性；\n配合团队和其他工种进行工作；\n完成上级领导交办的工作任务。\n任职要求：\n计算机、软件工程、应用数学相关专业统招本科及以上学历；\n熟悉C/C++、C#、JAVA任一开发语言并熟悉相关开发环境与工具；\n熟悉软件开发架构及开发流程、模式；\n熟练使用英文阅读资料文档；\n有大型软件开发经验者优先；\n工作积极主动，具有较强学习能力和高度的责任心及团队精神。",
-      "encryptAddressId": "4e3576c112469ac10nV63d21GFQ~",
-      "address": "镇江京口区左湖大厦8楼",
-      "longitude": 119.533631,
-      "latitude": 32.17919,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16a26259d6297f8fd43eff48f68ead5b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ffc362e555b2bd0ed80b808c211d4d1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "MySQL",
-        "计算机/软件工程相关经验",
-        "Java开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "袁女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240428/607f1f3d68754fd06c26bdab04d963e62a7cecff7e8a6d43d675682c0f11afa89ff14d9b4fcdcce_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "泊菲莱(镇江)",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f724569f7e64f0a21nd72N28GVY~",
-      "brandName": "泊菲莱(镇江)",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729853654236,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "泊菲莱(镇江)",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "泊菲莱(镇江)",
+        "certificated": true,
+        "large": null,
+        "name": "袁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240428/607f1f3d68754fd06c26bdab04d963e62a7cecff7e8a6d43d675682c0f11afa89ff14d9b4fcdcce_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1729853654236,
+        "brandName": "泊菲莱(镇江)",
+        "customerBrandName": "泊菲莱(镇江)",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f724569f7e64f0a21nd72N28GVY~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "镇江京口区左湖大厦8楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4e3576c112469ac10nV63d21GFQ~",
+        "encryptId": "c1188282fe40dd291XJ92d60FVdV",
+        "encryptUserId": "a30fa0dc1133edcf03F-3Nq_FVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "后端软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.17919,
+        "location": 101190300,
+        "locationName": "镇江",
+        "longitude": 119.533631,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ffc362e555b2bd0ed80b808c211d4d1",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "职责：\n负责项目中计算机软件设计工作；\n负责项目软件的开发、调试、测试等工作；\n编写相关技术文档；\n负责产品项目的维护及故障解决；\n负责产品软件技术平台的规划、研究、维护等，保证产品的先进性；\n配合团队和其他工种进行工作；\n完成上级领导交办的工作任务。\n任职要求：\n计算机、软件工程、应用数学相关专业统招本科及以上学历；\n熟悉C/C++、C#、JAVA任一开发语言并熟悉相关开发环境与工具；\n熟悉软件开发架构及开发流程、模式；\n熟练使用英文阅读资料文档；\n有大型软件开发经验者优先；\n工作积极主动，具有较强学习能力和高度的责任心及团队精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "MySQL",
+            "计算机/软件工程相关经验",
+            "Java开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16a26259d6297f8fd43eff48f68ead5b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "hErp_R8xzV-Jg-11Ar4G4u5AZhJn-oB60-HPbNDtuDBtlhPAW7v4zlaH6M2WRUTnRWgEAYhzDDWiZ7nFslCLrO6oKU06D0ZKZM0q6v8XUz7HapyjevmMXlhaBU0oXxR1Y9ro47ZDe2Zq3A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

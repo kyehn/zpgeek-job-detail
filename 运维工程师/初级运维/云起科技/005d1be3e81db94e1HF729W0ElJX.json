@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Vz9OAlQD7SoX3-Q17WpcFFjtCJPX88T4h10y-73n93wJlqGe2aE7umt8F_8P97m7u6ObkuRtXMWhN09Ggz5jFi39nloFArqB9DYctCUVRXhp8mH5R4p4D4dYtM0Hp1m0G_b-4x_JeGINNg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "005d1be3e81db94e1HF729W0ElJX",
-      "encryptUserId": "cbf384bf369426990nJ70t-1E1pV",
-      "invalidStatus": false,
-      "jobName": "初级运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟悉ITIL相关理念，具备相关流程经验。\n2、熟悉oracle/PostgreSQL/Mysql至少一种数据库操作经验，具备SQL编写能力。\n3、了解常见的中间件如tomcat、weblogic等；了解nginx、apache、rabbitmq、redis等软件，了解springboot等微服务架构。\n4、熟悉windows平台、主流linux平台应用。\n6、具备良好沟通能力和学习能力。",
-      "encryptAddressId": "277983821f021bc33nd53NS0EFE~",
-      "address": "上海浦东新区锦江之星(上海张江金融信息园店)上海市浦东新区张江金融信息园",
-      "longitude": 121.677624,
-      "latitude": 31.24047,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5cb7996efd46619c807a02c6e0881153",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b386dda9ba8da872b8a69d4b48c5b70e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "桌面运维",
-        "Java",
-        "MySQL/Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "云起科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0e431b72e2c96e821Xd42Nu5F1Y~",
-      "brandName": "云起科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221102/7bf6f160950405e948620324c8b5ea992c3d5041d19ca71be128eee2dee4f7cb8bb6a2fe7b8007ac.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "湖南数字云起科技有限公司是一家致力于金融科技与企业数字化的科技公司，是专业的IT运维服务整体解决方案提供商，主要面向各行业IT基础建设，提供IT支持与维护服务、IT专业服务、IT外包服务、系统集成服务、以及IT运维管理软件的研发与销售等。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "零食下午茶",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "定期体检",
-        "意外险",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1717426565153,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云起科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云起科技",
+        "certificated": true,
+        "large": null,
+        "name": "唐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1717426565153,
+        "brandName": "云起科技",
+        "customerBrandName": "云起科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "0e431b72e2c96e821Xd42Nu5F1Y~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "湖南数字云起科技有限公司是一家致力于金融科技与企业数字化的科技公司，是专业的IT运维服务整体解决方案提供商，主要面向各行业IT基础建设，提供IT支持与维护服务、IT专业服务、IT外包服务、系统集成服务、以及IT运维管理软件的研发与销售等。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "零食下午茶",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "定期体检",
+            "意外险",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221102/7bf6f160950405e948620324c8b5ea992c3d5041d19ca71be128eee2dee4f7cb8bb6a2fe7b8007ac.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区锦江之星(上海张江金融信息园店)上海市浦东新区张江金融信息园",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "277983821f021bc33nd53NS0EFE~",
+        "encryptId": "005d1be3e81db94e1HF729W0ElJX",
+        "encryptUserId": "cbf384bf369426990nJ70t-1E1pV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.24047,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.677624,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b386dda9ba8da872b8a69d4b48c5b70e",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、熟悉ITIL相关理念，具备相关流程经验。\n2、熟悉oracle/PostgreSQL/Mysql至少一种数据库操作经验，具备SQL编写能力。\n3、了解常见的中间件如tomcat、weblogic等；了解nginx、apache、rabbitmq、redis等软件，了解springboot等微服务架构。\n4、熟悉windows平台、主流linux平台应用。\n6、具备良好沟通能力和学习能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "桌面运维",
+            "Java",
+            "MySQL/Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5cb7996efd46619c807a02c6e0881153"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Vz9OAlQD7SoX3-Q17WpcFFjtCJPX88T4h10y-73n93wJlqGe2aE7umt8F_8P97m7u6ObkuRtXMWhN09Ggz5jFi39nloFArqB9DYctCUVRXhp8mH5R4p4D4dYtM0Hp1m0G_b-4x_JeGINNg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

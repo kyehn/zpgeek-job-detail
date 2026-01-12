@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Q3ZEavyUJBKEA-q10ToJcW4CiagtKO9hMDq6mlYI6AKuOAN9TGKU6JFZ3sfldnp-vlaO5Bq6bmtYkPup1ljkaaDbJqsimf2M3DxTwbgxekJgk2RVntCi9RwNXZPPjWxoew~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6bc36ed8aa1b9a5703Vy2Nu6FltU",
-      "encryptUserId": "d6aadca39cf8d1f00HZ-3Nq9ElE~",
-      "invalidStatus": false,
-      "jobName": "软件开发人员",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "【岗位职责】\n1.在上级的领导和监督下定期完成量化的工作要求；\n2.能独立处理和解决所负责的任务；\n3.根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n4.进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n5.进行编制项目文档和质量记录的工作；\n6.维护软件使之保持可用性和稳定性。\n【技能要求】\n1.精通C#，2年以上项目开发经验，从事过avalonia ui框架开发者优先；\n2.熟练掌握C/C++，具备网络通和图形接口开发能力；\n3.熟悉企业信息化系统；\n4.熟悉Linux操作系统及相关编程技术（Java）；\n5.熟悉主流数据库，熟练掌握SQL；\n6.具备极强的团队精神和合作精神，对工作有热情，能够在一定压力下工作；\n7.具备良好的表达和沟通能力；\n8.具有良好的源代码阅读能力。\n以上岗位们要求能能适应长期出差，有相关从业经验者优先，待遇面议。",
-      "encryptAddressId": "6f83bb2bb5dabcbf1nF72928E1BUxIm-UvqW",
-      "address": "长沙长沙县长沙科技新城B58",
-      "longitude": 113.118026,
-      "latitude": 28.201173,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfd4b10895c818d85fd1537cb61f63177c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf88458ee2b0152eb505006c759e26088c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "Java",
-        "C++",
-        "从事过avalonia ui 框架开发者"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190812/5c6f314f8b2c9c64cff4c279079e811b29d6cb340cde9e534597ea93f82_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "阿尔惠特",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "324a8feba6f58e211nV439S-ElM~",
-      "brandName": "阿尔惠特",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1739789837769,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "阿尔惠特",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "阿尔惠特",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190812/5c6f314f8b2c9c64cff4c279079e811b29d6cb340cde9e534597ea93f82_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1739789837769,
+        "brandName": "阿尔惠特",
+        "customerBrandName": "阿尔惠特",
+        "customerBrandStageName": "",
+        "encryptBrandId": "324a8feba6f58e211nV439S-ElM~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙长沙县长沙科技新城B58",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "6f83bb2bb5dabcbf1nF72928E1BUxIm-UvqW",
+        "encryptId": "6bc36ed8aa1b9a5703Vy2Nu6FltU",
+        "encryptUserId": "d6aadca39cf8d1f00HZ-3Nq9ElE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发人员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 28.201173,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.118026,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf88458ee2b0152eb505006c759e26088c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "【岗位职责】\n1.在上级的领导和监督下定期完成量化的工作要求；\n2.能独立处理和解决所负责的任务；\n3.根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n4.进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n5.进行编制项目文档和质量记录的工作；\n6.维护软件使之保持可用性和稳定性。\n【技能要求】\n1.精通C#，2年以上项目开发经验，从事过avalonia ui框架开发者优先；\n2.熟练掌握C/C++，具备网络通和图形接口开发能力；\n3.熟悉企业信息化系统；\n4.熟悉Linux操作系统及相关编程技术（Java）；\n5.熟悉主流数据库，熟练掌握SQL；\n6.具备极强的团队精神和合作精神，对工作有热情，能够在一定压力下工作；\n7.具备良好的表达和沟通能力；\n8.具有良好的源代码阅读能力。\n以上岗位们要求能能适应长期出差，有相关从业经验者优先，待遇面议。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "C#",
+            "Java",
+            "C++",
+            "从事过avalonia ui 框架开发者"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfd4b10895c818d85fd1537cb61f63177c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Q3ZEavyUJBKEA-q10ToJcW4CiagtKO9hMDq6mlYI6AKuOAN9TGKU6JFZ3sfldnp-vlaO5Bq6bmtYkPup1ljkaaDbJqsimf2M3DxTwbgxekJgk2RVntCi9RwNXZPPjWxoew~~",
+    "selfAccess": false,
+    "sessionId": null
 }

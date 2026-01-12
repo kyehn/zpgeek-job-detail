@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "cctQqWETxEYQC-S1_EBQI5nHD-x9vFpK95rCcbzbRPAu-qpDEQiwjHhfReUV-6QYvhUClsgWbV3C_S_68yrWM_muKuOyDEnssZr1zEdXO6EjLAN_kFI0oJMf0vTR6HQq17H8TPWAUTpOagqxUEk7600P5NAmHw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7ac2c3452f88003103R409y1GVJR",
-      "encryptUserId": "2e923f34b5ef5b960nZy2NS9FFZY",
-      "invalidStatus": false,
-      "jobName": "银行数据测试",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n学信本计算机相关专业，初中级，SQL要好，有银行监管报送，数仓，报表，数据迁移等测试经验，熟悉业务。\n现场笔试面试，最好人在当地。\n\n工作内容：数据测试\n一、数据类(数仓、大数据平台等) \n二、报表报送类(统计报表、历史数据查询、反洗钱、EAST、金融统计、国际监管报送等)\n三、少量熟悉管理驾驶舱、模型分析平台等系统的人，其实也算数据类系统的测试",
-      "encryptAddressId": "22150383ab0277300XF52tW0FlA~",
-      "address": "北京海淀区智慧谷D2号楼北农商",
-      "longitude": 116.234641,
-      "latitude": 40.089982,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/131ace6cc1825d59c43e019e03bf52dc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebba9ec2655d04168fe07110242b4359",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "银行监管报送测试",
-        "数仓，报表测试",
-        "数据迁移测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "樊女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241121/607f1f3d68754fd057d0ad48a227bba954aea221470680ab8908be8db8cfbc74f0d035404089cd5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1732872620715,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "樊女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241121/607f1f3d68754fd057d0ad48a227bba954aea221470680ab8908be8db8cfbc74f0d035404089cd5_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732872620715,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区智慧谷D2号楼北农商",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "22150383ab0277300XF52tW0FlA~",
+        "encryptId": "7ac2c3452f88003103R409y1GVJR",
+        "encryptUserId": "2e923f34b5ef5b960nZy2NS9FFZY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "银行数据测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.089982,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.234641,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebba9ec2655d04168fe07110242b4359",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职要求：\n学信本计算机相关专业，初中级，SQL要好，有银行监管报送，数仓，报表，数据迁移等测试经验，熟悉业务。\n现场笔试面试，最好人在当地。\n\n工作内容：数据测试\n一、数据类(数仓、大数据平台等) \n二、报表报送类(统计报表、历史数据查询、反洗钱、EAST、金融统计、国际监管报送等)\n三、少量熟悉管理驾驶舱、模型分析平台等系统的人，其实也算数据类系统的测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K",
+        "showSkills": [
+            "银行监管报送测试",
+            "数仓，报表测试",
+            "数据迁移测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/131ace6cc1825d59c43e019e03bf52dc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "cctQqWETxEYQC-S1_EBQI5nHD-x9vFpK95rCcbzbRPAu-qpDEQiwjHhfReUV-6QYvhUClsgWbV3C_S_68yrWM_muKuOyDEnssZr1zEdXO6EjLAN_kFI0oJMf0vTR6HQq17H8TPWAUTpOagqxUEk7600P5NAmHw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

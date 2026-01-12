@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "z4OvS4_Y7ykUx-W1xgd68w8i0Lhl1-IZkC1auZar0qOEPQAHYL1SZkAka_mW-W9-Q6cpVaAMALO1KMn5E-ME3O2dPUmwNqmrvTuorOtMC52TLIQm",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3ce8889b6c2b003a1HVy3Ni6GFY~",
-      "encryptUserId": "8e9deaea878d06410nRy39S-EFY~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "主要是熟悉防火墙等设备的配置 并致力于学习提高，公司可往研发方向 或者理论研究方向培养",
-      "encryptAddressId": "f71ba448765e86961XB93tq9GFU~",
-      "address": "广州黄埔区合景科汇金谷",
-      "longitude": 113.4357,
-      "latitude": 23.16589,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/974facca17ecf0d537e72220860c406f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a15d5d9a72514001f788d199cdd7b00e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络安全",
-        "网络",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "高先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "广东普实",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "369606eb8807e50c1HZ-3tm_Fw~~",
-      "brandName": "广东普实",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727069617000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广东普实",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广东普实",
+        "certificated": true,
+        "large": null,
+        "name": "高先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727069617000,
+        "brandName": "广东普实",
+        "customerBrandName": "广东普实",
+        "customerBrandStageName": "",
+        "encryptBrandId": "369606eb8807e50c1HZ-3tm_Fw~~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州黄埔区合景科汇金谷",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f71ba448765e86961XB93tq9GFU~",
+        "encryptId": "3ce8889b6c2b003a1HVy3Ni6GFY~",
+        "encryptUserId": "8e9deaea878d06410nRy39S-EFY~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.16589,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.4357,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a15d5d9a72514001f788d199cdd7b00e",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "主要是熟悉防火墙等设备的配置 并致力于学习提高，公司可往研发方向 或者理论研究方向培养",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "网络安全",
+            "网络",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/974facca17ecf0d537e72220860c406f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "z4OvS4_Y7ykUx-W1xgd68w8i0Lhl1-IZkC1auZar0qOEPQAHYL1SZkAka_mW-W9-Q6cpVaAMALO1KMn5E-ME3O2dPUmwNqmrvTuorOtMC52TLIQm",
+    "selfAccess": false,
+    "sessionId": null
 }

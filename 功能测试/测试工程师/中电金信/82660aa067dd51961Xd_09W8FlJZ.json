@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FIX0LhtLOTngv-C1AaizyljxcbgJKLwAhrxWpiKewVjdUQZ5UKIacOA1Up-z5jIIm-o0-pdnAC2amLcfDr7QJgA9SMMbr4WRwRfnTrBW3ROO2mAjKmDU2mK0JnD5sU42oIdtnKZRKek1lf6DW5gBZj0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "82660aa067dd51961Xd_09W8FlJZ",
-      "encryptUserId": "af1c297a38bce69e03R82tW_F1Y~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.\t编写测试方案及测试案例，按照测试计划执行测试，完成测试任务并保证测试质量；\n2.\t评估和跟踪测试缺陷，保持与开发人员的沟通，准确的定位并跟踪问题，推动问题及时解决；\n3.\t识别和发现测试及开发过程中的不足，推进实施加以改进，提高团队效率；\n4.\t使用常用的BUG管理工具，对软件开发中出现的BUG进行跟踪和统计分析；\n\n任职资格：\n1、具备自动化测试经验；\n2、熟悉浏览器兼容性能自动化测试框架；\n3、熟悉Oracle、MySQL数据库；\n4、银行金融、电子商务相关项目经验；\n5、有银行核心、柜面存款、贷款、信托功能测试经验优先。",
-      "encryptAddressId": "90eb9c2ca0418c251nB-2Ny7F1JT",
-      "address": "上海唐镇上丰路1111号",
-      "longitude": 121.655325,
-      "latitude": 31.208298,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ba5bee6acbd8794f2929f09bed69f42",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd85b11d8ea82a144eebe0fee5247a52",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "银行"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "彭女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220321/607f1f3d68754fd065031b4e9d8e8ad87269b6a931550b2a8aac779bc7c440baa02ceeee448_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信，是中国电子旗下成员企业，通过持续研发创新，参与国家重大工程，依托行业场景，构建金融级数字底座，打造全栈全域解决方案，提供领先的咨询、软件产品及开发、质量安全保障及运营服务，为金融及重点行业数智化转型及安全发展提供强大动能，并以中国数智化转型最佳实践服务全球。我们推崇开放包容的文化。在中电金信，你将和同样拥有热情和梦想的优秀队友一起合作、交流和学习，稳扎稳打不断提升，和团队一起助力国家重大工程项目。我们为你提供清晰的职业路径和不设限的发展机会，你将通过不同类型的项目不断成长，获得前所未有的荣耀感和使命感，和我们一起去创造数字时代的美好未来。",
-      "labels": [
-        "节日福利",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1725520920918,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "彭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220321/607f1f3d68754fd065031b4e9d8e8ad87269b6a931550b2a8aac779bc7c440baa02ceeee448_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1725520920918,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信，是中国电子旗下成员企业，通过持续研发创新，参与国家重大工程，依托行业场景，构建金融级数字底座，打造全栈全域解决方案，提供领先的咨询、软件产品及开发、质量安全保障及运营服务，为金融及重点行业数智化转型及安全发展提供强大动能，并以中国数智化转型最佳实践服务全球。我们推崇开放包容的文化。在中电金信，你将和同样拥有热情和梦想的优秀队友一起合作、交流和学习，稳扎稳打不断提升，和团队一起助力国家重大工程项目。我们为你提供清晰的职业路径和不设限的发展机会，你将通过不同类型的项目不断成长，获得前所未有的荣耀感和使命感，和我们一起去创造数字时代的美好未来。",
+        "labels": [
+            "节日福利",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海唐镇上丰路1111号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "90eb9c2ca0418c251nB-2Ny7F1JT",
+        "encryptId": "82660aa067dd51961Xd_09W8FlJZ",
+        "encryptUserId": "af1c297a38bce69e03R82tW_F1Y~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.208298,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.655325,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd85b11d8ea82a144eebe0fee5247a52",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "岗位职责：\n1.\t编写测试方案及测试案例，按照测试计划执行测试，完成测试任务并保证测试质量；\n2.\t评估和跟踪测试缺陷，保持与开发人员的沟通，准确的定位并跟踪问题，推动问题及时解决；\n3.\t识别和发现测试及开发过程中的不足，推进实施加以改进，提高团队效率；\n4.\t使用常用的BUG管理工具，对软件开发中出现的BUG进行跟踪和统计分析；\n\n任职资格：\n1、具备自动化测试经验；\n2、熟悉浏览器兼容性能自动化测试框架；\n3、熟悉Oracle、MySQL数据库；\n4、银行金融、电子商务相关项目经验；\n5、有银行核心、柜面存款、贷款、信托功能测试经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "自动化测试经验",
+            "银行"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ba5bee6acbd8794f2929f09bed69f42"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FIX0LhtLOTngv-C1AaizyljxcbgJKLwAhrxWpiKewVjdUQZ5UKIacOA1Up-z5jIIm-o0-pdnAC2amLcfDr7QJgA9SMMbr4WRwRfnTrBW3ROO2mAjKmDU2mK0JnD5sU42oIdtnKZRKek1lf6DW5gBZj0~",
+    "selfAccess": false,
+    "sessionId": null
 }

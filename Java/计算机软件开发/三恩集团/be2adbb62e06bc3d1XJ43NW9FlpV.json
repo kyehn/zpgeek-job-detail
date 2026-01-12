@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "6koBzv1dNasI5--1c8h2J9klAnc-NN6dhKKpMdKE8vFEvbWjraovofKPN4YXpwtdUqtalkP6sBO0epJfNL9d0gRaIdlx-cXCCzqncEIOJjNHILyruw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "be2adbb62e06bc3d1XJ43NW9FlpV",
-      "encryptUserId": "6806be09de6ebcd50XF839y-GFI~",
-      "invalidStatus": false,
-      "jobName": "计算机软件开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、精通Java/J2EE编程，能用PHP语言编程，有独立开发经验，熟悉thinkphp等MVC框架，熟练操作mysql；\n2、具备良好的沟通合作技巧，较强的责任心及团队合作精神。",
-      "encryptAddressId": "aa96247fa34ece290XR-2d-4EFQ~",
-      "address": "青岛城阳区青岛三恩集团有限公司月河路17号",
-      "longitude": 120.33388,
-      "latitude": 36.270475,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e73adac07daaa271c7f8ab9c35ab6879",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/746fa9154b1791e1e5251ae113fe5c87",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "C/C++"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "三恩集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "803093905c46b74503N80ti8GA~~",
-      "brandName": "三恩集团",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "带薪年假",
-        "免费班车",
-        "包吃"
-      ],
-      "activeTime": 1722501452900,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "三恩集团",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "三恩集团",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722501452900,
+        "brandName": "三恩集团",
+        "customerBrandName": "三恩集团",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "803093905c46b74503N80ti8GA~~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "带薪年假",
+            "免费班车",
+            "包吃"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛城阳区青岛三恩集团有限公司月河路17号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "aa96247fa34ece290XR-2d-4EFQ~",
+        "encryptId": "be2adbb62e06bc3d1XJ43NW9FlpV",
+        "encryptUserId": "6806be09de6ebcd50XF839y-GFI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "计算机软件开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.270475,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.33388,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/746fa9154b1791e1e5251ae113fe5c87",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、精通Java/J2EE编程，能用PHP语言编程，有独立开发经验，熟悉thinkphp等MVC框架，熟练操作mysql；\n2、具备良好的沟通合作技巧，较强的责任心及团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "C/C++"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e73adac07daaa271c7f8ab9c35ab6879"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "6koBzv1dNasI5--1c8h2J9klAnc-NN6dhKKpMdKE8vFEvbWjraovofKPN4YXpwtdUqtalkP6sBO0epJfNL9d0gRaIdlx-cXCCzqncEIOJjNHILyruw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

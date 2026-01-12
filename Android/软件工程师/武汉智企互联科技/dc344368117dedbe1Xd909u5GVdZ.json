@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "kUBMGkwJUAP9u-S1TBJxfcAdMiuJXoGcPWk_i_zvGOqsOiv9i5v165ItH3NbPdor_05YQTaWY2wHE_CVx2VfYSkyHQu_7rJpgysqBu0BgeiLDyMwDzio",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dc344368117dedbe1Xd909u5GVdZ",
-      "encryptUserId": "5297228e5280722b0nF43t6_EFpW",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "系统开发；小程序开发；第三方对接",
-      "encryptAddressId": "8ad61a691babd5580XJ_3927GFI~",
-      "address": "武汉洪山区东澜岸广场1栋2011室",
-      "longitude": 114.263432,
-      "latitude": 30.432761,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf50fc35891e9bc3badc4bb60bb8d7dd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c8be01b9befee3202e8abf42011e4a3a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "架构设计/优化",
-        "Android客户端产品研发",
-        "研发流程优化"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郗先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220727/607f1f3d68754fd034406b1e21ca2aef8d7051aeb49fa820ecedeef4a883cc36a610ee5261c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "武汉智企互联科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2b3ea2ba1d6d3c601XZ739i6Flc~",
-      "brandName": "武汉智企互联科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725380340991,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉智企互联科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉智企互联科技",
+        "certificated": true,
+        "large": null,
+        "name": "郗先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220727/607f1f3d68754fd034406b1e21ca2aef8d7051aeb49fa820ecedeef4a883cc36a610ee5261c_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725380340991,
+        "brandName": "武汉智企互联科技",
+        "customerBrandName": "武汉智企互联科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2b3ea2ba1d6d3c601XZ739i6Flc~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区东澜岸广场1栋2011室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8ad61a691babd5580XJ_3927GFI~",
+        "encryptId": "dc344368117dedbe1Xd909u5GVdZ",
+        "encryptUserId": "5297228e5280722b0nF43t6_EFpW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.432761,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.263432,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c8be01b9befee3202e8abf42011e4a3a",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "系统开发；小程序开发；第三方对接",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "架构设计/优化",
+            "Android客户端产品研发",
+            "研发流程优化"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf50fc35891e9bc3badc4bb60bb8d7dd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "kUBMGkwJUAP9u-S1TBJxfcAdMiuJXoGcPWk_i_zvGOqsOiv9i5v165ItH3NbPdor_05YQTaWY2wHE_CVx2VfYSkyHQu_7rJpgysqBu0BgeiLDyMwDzio",
+    "selfAccess": false,
+    "sessionId": null
 }

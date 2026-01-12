@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "T1Tc7gC2mTogJ-e1cbjBDMUcWV6i1i_kmgKqVCKUu_BklS0x8M-_If_Ettf0NbkCzz54gFSWQD_i6Q5fbtqzAWMoUs4C-t1MOLGtMVTue0VAnKQn0siB4ZrC2YzodrHWU8i8QobJdWHp8vHLG4GYkdViv_cP27Yb4Sa1Ee__J0v8efvMgKUri4pc4jDDltsewjnUz8-KWIJT4XbdyIKicbJU9A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "afea45fea5dfb4b603Rz2N68FlBS",
-      "encryptUserId": "56fc6e0c63cae9bd0nd93t64EVRY",
-      "invalidStatus": false,
-      "jobName": "服务器运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责私有云服务器相关需求响应、方案评审、验收及验收规范编写；\n2、负责私有云服务器故障处理及支撑、告警处置及优化、保障及巡检、方案输出等；\n3、推动私有云服务器运维工具建设及优化和监控系统优化。\n4、完善服务器知识库\n任职要求：\n1、有良好的沟通能力强，团队合作精神，能独立完成工作；\n2、熟练Windows,Linux各版本系统，精通Linux常用的服务配置及相关常用工具；\n3、具备独立分析操作系统故障和解决问题的能力、资源优化能力；\n4、熟悉搭建开源监控软件（Zabbix/Nagios/Prometheus等）和使用开源监控和告警系统；\n5、熟悉HTTP协议、TCP/UDP/IP协议，会使用网络抓包分析工具；\n6、熟练掌握Shell和Python等编程语言，熟悉自动化运维技术，能充分利用自动化运维来提高工作效率。\n7、了解主流服务器（华为、浪潮、华三等）远程管理和硬件故障；\n8、善于总结，有良好的文档编写能力；\n9、了解云平台、云产品，有云计算平台维护经验者，熟悉Openstack组件及架构者优先;至少具备以下两个方向中其中一个方向的能力:\n10、有RHCE及以上认证优先。",
-      "encryptAddressId": "7431621a63a3954c1nR53tm4EVFUw4m3VPOZ",
-      "address": "北京海淀区北发大厦1",
-      "longitude": 116.352856,
-      "latitude": 39.959146,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230817/48ba41acc9cef1bffde5425ebfa5f34e02d43f9a07f679786bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230817/48ba41acc9cef1bf0aadf206843ec1679f7420327aaaaabb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python/Shell",
-        "计算机相关专业",
-        "IDC机房运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "胡女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240308/607f1f3d68754fd05c01b6fde30680d68ac375e576161e0e7f421042adcc010ed4b3ae2681efb89_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中宇数科",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "66ad80c63c709e921HFy3N6_ElQ~",
-      "brandName": "中宇数科",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735527812972,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中宇数科",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中宇数科",
+        "certificated": true,
+        "large": null,
+        "name": "胡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240308/607f1f3d68754fd05c01b6fde30680d68ac375e576161e0e7f421042adcc010ed4b3ae2681efb89_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1735527812972,
+        "brandName": "中宇数科",
+        "customerBrandName": "中宇数科",
+        "customerBrandStageName": "",
+        "encryptBrandId": "66ad80c63c709e921HFy3N6_ElQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区北发大厦1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "7431621a63a3954c1nR53tm4EVFUw4m3VPOZ",
+        "encryptId": "afea45fea5dfb4b603Rz2N68FlBS",
+        "encryptUserId": "56fc6e0c63cae9bd0nd93t64EVRY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "服务器运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.959146,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.352856,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230817/48ba41acc9cef1bf0aadf206843ec1679f7420327aaaaabb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责私有云服务器相关需求响应、方案评审、验收及验收规范编写；\n2、负责私有云服务器故障处理及支撑、告警处置及优化、保障及巡检、方案输出等；\n3、推动私有云服务器运维工具建设及优化和监控系统优化。\n4、完善服务器知识库\n任职要求：\n1、有良好的沟通能力强，团队合作精神，能独立完成工作；\n2、熟练Windows,Linux各版本系统，精通Linux常用的服务配置及相关常用工具；\n3、具备独立分析操作系统故障和解决问题的能力、资源优化能力；\n4、熟悉搭建开源监控软件（Zabbix/Nagios/Prometheus等）和使用开源监控和告警系统；\n5、熟悉HTTP协议、TCP/UDP/IP协议，会使用网络抓包分析工具；\n6、熟练掌握Shell和Python等编程语言，熟悉自动化运维技术，能充分利用自动化运维来提高工作效率。\n7、了解主流服务器（华为、浪潮、华三等）远程管理和硬件故障；\n8、善于总结，有良好的文档编写能力；\n9、了解云平台、云产品，有云计算平台维护经验者，熟悉Openstack组件及架构者优先;至少具备以下两个方向中其中一个方向的能力:\n10、有RHCE及以上认证优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Python/Shell",
+            "计算机相关专业",
+            "IDC机房运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230817/48ba41acc9cef1bffde5425ebfa5f34e02d43f9a07f679786bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "T1Tc7gC2mTogJ-e1cbjBDMUcWV6i1i_kmgKqVCKUu_BklS0x8M-_If_Ettf0NbkCzz54gFSWQD_i6Q5fbtqzAWMoUs4C-t1MOLGtMVTue0VAnKQn0siB4ZrC2YzodrHWU8i8QobJdWHp8vHLG4GYkdViv_cP27Yb4Sa1Ee__J0v8efvMgKUri4pc4jDDltsewjnUz8-KWIJT4XbdyIKicbJU9A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

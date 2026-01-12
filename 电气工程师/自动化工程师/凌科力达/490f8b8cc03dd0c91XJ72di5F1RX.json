@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "GTe2zfJ8CyYUm-h1g914na2LIOC-Pl-ZSpgQrWux_ej-HbvgDl-nuIfrKgcJgDtZ2BV7-HQfjQNY_OiYiMWRsQt_ThReNoWNSWTOJD8cjrJAQoPogJs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "490f8b8cc03dd0c91XJ72di5F1RX",
-      "encryptUserId": "58a8ff8f09934b3b33F73Nq7ElQ~",
-      "invalidStatus": false,
-      "jobName": "自动化工程师",
-      "position": 101402,
-      "positionName": "电气工程师",
-      "location": 101170100,
-      "locationName": "银川",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责自动化系统方案设计；\n2.负责各种自动化控制系统，电气仪表备件的选型及管理；\n3.负责项目实施，包括仪表桥架的设计安装，电缆的铺设，仪表的安装调试；\n4.负责对自动化控制系统图纸进行设计、选型、安装、调试和维护等工作；\n5.负责plc编程、组态软件制作等。\n6.会CAD制图，可以熟练的对西门子、施耐德等PLC进行编程，有上进心，踏实肯干，能吃苦耐劳，能认真完成领导分配的各项任务。\n7.有驾照者优先考虑。\n8.可以接受短期出差，可独立完成柜体调试等",
-      "encryptAddressId": "2cad013d45e5f60f0nZy39W_FFQ~",
-      "address": "银川兴庆区立达国际机电水暖汽配城1-2-02",
-      "longitude": 106.287915,
-      "latitude": 38.418686,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38045233feae7b55f63ad284551f0e4a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd6b14958d1d125817652c55771f64c9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PLC工程师",
-        "CAD",
-        "电控工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd035cc45d4c653656c824b315f46f35ca9378725cbd0860e15d2e15174efdb0f8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "凌科力达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4a3e655cf2793e541XR90960FFE~",
-      "brandName": "凌科力达",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "主要销售明纬电源，变频器 PLC柜子，外面有接项目工程",
-      "labels": [
-        "餐补",
-        "全勤奖",
-        "加班补助"
-      ],
-      "activeTime": 1732107785095,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "凌科力达",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "凌科力达",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd035cc45d4c653656c824b315f46f35ca9378725cbd0860e15d2e15174efdb0f8_b.jpg",
+        "title": "主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1732107785095,
+        "brandName": "凌科力达",
+        "customerBrandName": "凌科力达",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4a3e655cf2793e541XR90960FFE~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "主要销售明纬电源，变频器 PLC柜子，外面有接项目工程",
+        "labels": [
+            "餐补",
+            "全勤奖",
+            "加班补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "银川兴庆区立达国际机电水暖汽配城1-2-02",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "2cad013d45e5f60f0nZy39W_FFQ~",
+        "encryptId": "490f8b8cc03dd0c91XJ72di5F1RX",
+        "encryptUserId": "58a8ff8f09934b3b33F73Nq7ElQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.418686,
+        "location": 101170100,
+        "locationName": "银川",
+        "longitude": 106.287915,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd6b14958d1d125817652c55771f64c9",
+        "position": 101402,
+        "positionName": "电气工程师",
+        "postDescription": "1.负责自动化系统方案设计；\n2.负责各种自动化控制系统，电气仪表备件的选型及管理；\n3.负责项目实施，包括仪表桥架的设计安装，电缆的铺设，仪表的安装调试；\n4.负责对自动化控制系统图纸进行设计、选型、安装、调试和维护等工作；\n5.负责plc编程、组态软件制作等。\n6.会CAD制图，可以熟练的对西门子、施耐德等PLC进行编程，有上进心，踏实肯干，能吃苦耐劳，能认真完成领导分配的各项任务。\n7.有驾照者优先考虑。\n8.可以接受短期出差，可独立完成柜体调试等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "PLC工程师",
+            "CAD",
+            "电控工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38045233feae7b55f63ad284551f0e4a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "GTe2zfJ8CyYUm-h1g914na2LIOC-Pl-ZSpgQrWux_ej-HbvgDl-nuIfrKgcJgDtZ2BV7-HQfjQNY_OiYiMWRsQt_ThReNoWNSWTOJD8cjrJAQoPogJs~",
+    "selfAccess": false,
+    "sessionId": null
 }

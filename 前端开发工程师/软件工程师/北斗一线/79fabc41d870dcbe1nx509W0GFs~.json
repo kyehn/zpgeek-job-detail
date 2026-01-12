@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rGWYZSg6X8B0--d1x8Qw86qVPlzEp3BTVhaDzZtM-BoNWihPcvsPoZz6GutRuhp_oWqyBPby9K4AtoN5AzyZi7k6qqV2L4ggslBkvEkwaV2IXdUr",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "79fabc41d870dcbe1nx509W0GFs~",
-      "encryptUserId": "8b60ec2f1173fd781HJ509S6F1o~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\r\n1、负责棋牌游戏逻辑开发；\r\n2、负责与美术协调游戏表现；\r\n\r\n职位要求：\r\n1、一年以上工作经验，至少1年的游戏行业工作经验；\r\n2、掌握Html5/CSS, JavaScript/Typescript；\r\n3、熟悉Websocket，nodejs优先；\r\n4、熟悉FairyGUI，LayaBox优先，有棋牌游戏类经验优先；\r\n5、良好的学习能力，数据结构以及算法能力；\r\n6、沟通表达良好，责任心强，热爱技术，特别是对前端新技术保持敏感的触觉；\r\n7、能承受压力，具备良好的沟通协调能力以及高度的工作责任心；",
-      "encryptAddressId": "93ccfe2deedd25561XB739q0GVQ~",
-      "address": "成都武侯区天府软件园",
-      "longitude": 104.071199,
-      "latitude": 30.541204,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22f248272263b91dae33b6b52eec1eda",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e2929084ec5ac01f911a0c89d4f58ec",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Javascript",
-        "Node.js",
-        "Web前端"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "魏先生",
-      "title": "程序部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180322/88febcd1f6096621af26ffb4e3a61bebcfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "北斗一线",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ad398415888513631nJ_0tW8Fg~~",
-      "brandName": "北斗一线",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725308469079,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北斗一线",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北斗一线",
+        "certificated": true,
+        "large": null,
+        "name": "魏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180322/88febcd1f6096621af26ffb4e3a61bebcfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "程序部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725308469079,
+        "brandName": "北斗一线",
+        "customerBrandName": "北斗一线",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ad398415888513631nJ_0tW8Fg~~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区天府软件园",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "93ccfe2deedd25561XB739q0GVQ~",
+        "encryptId": "79fabc41d870dcbe1nx509W0GFs~",
+        "encryptUserId": "8b60ec2f1173fd781HJ509S6F1o~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.541204,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.071199,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e2929084ec5ac01f911a0c89d4f58ec",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "工作内容：\r\n1、负责棋牌游戏逻辑开发；\r\n2、负责与美术协调游戏表现；\r\n\r\n职位要求：\r\n1、一年以上工作经验，至少1年的游戏行业工作经验；\r\n2、掌握Html5/CSS, JavaScript/Typescript；\r\n3、熟悉Websocket，nodejs优先；\r\n4、熟悉FairyGUI，LayaBox优先，有棋牌游戏类经验优先；\r\n5、良好的学习能力，数据结构以及算法能力；\r\n6、沟通表达良好，责任心强，热爱技术，特别是对前端新技术保持敏感的触觉；\r\n7、能承受压力，具备良好的沟通协调能力以及高度的工作责任心；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "Javascript",
+            "Node.js",
+            "Web前端"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22f248272263b91dae33b6b52eec1eda"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rGWYZSg6X8B0--d1x8Qw86qVPlzEp3BTVhaDzZtM-BoNWihPcvsPoZz6GutRuhp_oWqyBPby9K4AtoN5AzyZi7k6qqV2L4ggslBkvEkwaV2IXdUr",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "TB15mwxu13ptG-g1dNGdnP6PlJRaax9HT2X_Dm1VnVj7uVUWYHdRP8WSDuohyRMZMRjjh0Rhw_zxLB6H5KmhN1r9gEtoC0iG4YxbfxDbGPlawLROAg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "561e504fe53bf4011XF-3Nq6E1NU",
-      "encryptUserId": "6e530d7f4ded0de93nB62Nu5EVY~",
-      "invalidStatus": false,
-      "jobName": "java实习生",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-3K",
-      "payTypeDesc": null,
-      "postDescription": "1、计算机相关专业，大专及以上学历；\n2、有一定的Java、SQL、HTML 语言基础，熟悉Oracle,MySQL等数据库；\n3、学习能力强；",
-      "encryptAddressId": "61fd6fb6b9cd57ad0HB50tW6FVE~",
-      "address": "合肥蜀山区同创科技园5栋101-110",
-      "longitude": 117.206794,
-      "latitude": 31.831386,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9b0afa3d76c07f7cc185fa1afbb1e25",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce79f54af4723a4f7e2d6120f1b232b3",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "研发部",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中科云视",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f3ddb8d4f38b9ed303N429i5Eg~~",
-      "brandName": "中科云视",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722929416273,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中科云视",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中科云视",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "研发部"
+    },
+    "brandComInfo": {
+        "activeTime": 1722929416273,
+        "brandName": "中科云视",
+        "customerBrandName": "中科云视",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f3ddb8d4f38b9ed303N429i5Eg~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区同创科技园5栋101-110",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "61fd6fb6b9cd57ad0HB50tW6FVE~",
+        "encryptId": "561e504fe53bf4011XF-3Nq6E1NU",
+        "encryptUserId": "6e530d7f4ded0de93nB62Nu5EVY~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "java实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.831386,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.206794,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce79f54af4723a4f7e2d6120f1b232b3",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、计算机相关专业，大专及以上学历；\n2、有一定的Java、SQL、HTML 语言基础，熟悉Oracle,MySQL等数据库；\n3、学习能力强；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-3K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9b0afa3d76c07f7cc185fa1afbb1e25"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "TB15mwxu13ptG-g1dNGdnP6PlJRaax9HT2X_Dm1VnVj7uVUWYHdRP8WSDuohyRMZMRjjh0Rhw_zxLB6H5KmhN1r9gEtoC0iG4YxbfxDbGPlawLROAg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

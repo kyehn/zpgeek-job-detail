@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2B4UGOxqBSww8-g1jW9AIOI3ei5FKkiVoB-6_Xfl5DBTFgAcAuWMlPNt_UD_VttFP9it58ssq-gfOfFKCcriY14pyt1WX467WHDvfZ7vy22Wm_aWNVg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cda58d192b16fc420Hx_2Nq9FFA~",
-      "encryptUserId": "7b05b13482ea07501nRz29S1GFBT",
-      "invalidStatus": false,
-      "jobName": "市政给排水设计",
-      "position": 220207,
-      "positionName": "城市规划设计",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、给、排水专业大专或以上学历； \n2、能够熟练运用CAD等给排水等相关专业软件;\n3、认真负责，具备较强的沟通及执行能力，良好的团队协作及抗压能力，具备自学能力和钻研精神；",
-      "encryptAddressId": "774a0d7ffdc5b7c703Zy2du8Flo~",
-      "address": "杭州滨江区科达投资大厦b座1511",
-      "longitude": 120.172509,
-      "latitude": 30.186074,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f341f33958da91978aba54b3d73cd8c2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55c1ca4ed5f7517f84a3ff9a7af13959",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CAD"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "华昕设计",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "450a67d9f6ca7d0e1XBy29y_FVo~",
-      "brandName": "华昕设计",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100703,
-      "industryName": "建筑设计",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726136847449,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华昕设计",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华昕设计",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726136847449,
+        "brandName": "华昕设计",
+        "customerBrandName": "华昕设计",
+        "customerBrandStageName": "",
+        "encryptBrandId": "450a67d9f6ca7d0e1XBy29y_FVo~",
+        "focusBrand": false,
+        "industry": 100703,
+        "industryName": "建筑设计",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区科达投资大厦b座1511",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "774a0d7ffdc5b7c703Zy2du8Flo~",
+        "encryptId": "cda58d192b16fc420Hx_2Nq9FFA~",
+        "encryptUserId": "7b05b13482ea07501nRz29S1GFBT",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "市政给排水设计",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.186074,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.172509,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55c1ca4ed5f7517f84a3ff9a7af13959",
+        "position": 220207,
+        "positionName": "城市规划设计",
+        "postDescription": "1、给、排水专业大专或以上学历； \n2、能够熟练运用CAD等给排水等相关专业软件;\n3、认真负责，具备较强的沟通及执行能力，良好的团队协作及抗压能力，具备自学能力和钻研精神；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "CAD"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f341f33958da91978aba54b3d73cd8c2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2B4UGOxqBSww8-g1jW9AIOI3ei5FKkiVoB-6_Xfl5DBTFgAcAuWMlPNt_UD_VttFP9it58ssq-gfOfFKCcriY14pyt1WX467WHDvfZ7vy22Wm_aWNVg~",
+    "selfAccess": false,
+    "sessionId": null
 }

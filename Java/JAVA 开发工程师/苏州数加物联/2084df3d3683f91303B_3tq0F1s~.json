@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xPxmlzyewqKJE-81vwB9fXubLxTSbtNvqU1aFsFfJarjf4UYNM4NnmjAiwtiuglVxCTIQ7_P_RRBJm_-TAS6kK75x4Rrtc3bRKrsSts6cEZNcvXu",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2084df3d3683f91303B_3tq0F1s~",
-      "encryptUserId": "9f69005974f512b00nd63ti5GVE~",
-      "invalidStatus": false,
-      "jobName": "Java 开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "1、 开发语言 Java / Scala / Groovy 任意一种\n2、 3年及以上工作经验\n3、 熟悉Spring Boot, Spring Framework, Spring MVC, Hibernate\n4、 了解JUnit测试框架\n5、 了解Java 8中的 Stream API、lambda 表达式\n6、 了解 maven / gradle 构建工具\n7、 熟悉 Git 版本管理工具",
-      "encryptAddressId": "1b1c0354a43cb4721nZ-39q8GVo~",
-      "address": "苏州常熟市常熟国家大学科技园B区201",
-      "longitude": 120.771046,
-      "latitude": 31.596312,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e1cee36f1980cfa485781563fa2ecef8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e58de3365a600d13b6260e468bd59ee5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "HTML5",
-        "数据库"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "苏州数加物联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f6fc33d65b6586b31HB539-7FA~~",
-      "brandName": "苏州数加物联",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [
-        "住房补贴",
-        "节日福利",
-        "餐补",
-        "带薪年假",
-        "年终奖",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1722750713147,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "苏州数加物联",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "苏州数加物联",
+        "certificated": true,
+        "large": null,
+        "name": "唐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722750713147,
+        "brandName": "苏州数加物联",
+        "customerBrandName": "苏州数加物联",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f6fc33d65b6586b31HB539-7FA~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [
+            "住房补贴",
+            "节日福利",
+            "餐补",
+            "带薪年假",
+            "年终奖",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州常熟市常熟国家大学科技园B区201",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1b1c0354a43cb4721nZ-39q8GVo~",
+        "encryptId": "2084df3d3683f91303B_3tq0F1s~",
+        "encryptUserId": "9f69005974f512b00nd63ti5GVE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java 开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.596312,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.771046,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e58de3365a600d13b6260e468bd59ee5",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、 开发语言 Java / Scala / Groovy 任意一种\n2、 3年及以上工作经验\n3、 熟悉Spring Boot, Spring Framework, Spring MVC, Hibernate\n4、 了解JUnit测试框架\n5、 了解Java 8中的 Stream API、lambda 表达式\n6、 了解 maven / gradle 构建工具\n7、 熟悉 Git 版本管理工具",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "Java",
+            "HTML5",
+            "数据库"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e1cee36f1980cfa485781563fa2ecef8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xPxmlzyewqKJE-81vwB9fXubLxTSbtNvqU1aFsFfJarjf4UYNM4NnmjAiwtiuglVxCTIQ7_P_RRBJm_-TAS6kK75x4Rrtc3bRKrsSts6cEZNcvXu",
+    "selfAccess": false,
+    "sessionId": null
 }

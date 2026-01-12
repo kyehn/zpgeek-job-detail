@@ -1,99 +1,99 @@
 {
-  "appendixInfo": {
-    "canFeedback": false,
-    "chatBubble": null
-  },
-  "atsOnlineApplyInfo": {
-    "inviteType": 0,
-    "alreadyApply": false
-  },
-  "bossInfo": {
-    "name": "王女士",
-    "title": "人事",
-    "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-    "large": null,
-    "activeTimeDesc": "刚刚活跃",
-    "bossOnline": true,
-    "brandName": "北京特里尼斯",
-    "bossSource": 0,
-    "certificated": true,
-    "tagIconUrl": null,
-    "avatarStickerUrl": null
-  },
-  "brandComInfo": {
-    "encryptBrandId": "bc9669869bf811fe1HV839m6",
-    "brandName": "北京特里尼斯",
-    "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190315/1501ad619f3de13cd3b97f225a2494970baa29e8df2574a00a4d7e7d5233cd1a.jpg",
-    "stage": 801,
-    "stageName": "未融资",
-    "scale": 303,
-    "scaleName": "100-499人",
-    "industry": 100021,
-    "industryName": "计算机软件",
-    "introduce": "特里尼斯是专业从事管道完整性及管道可靠性研究的民营股份制企业。 特里尼斯已成为集平台搭建、数据采集分析、管道内检测、管道风险评价系统开发为一体的专业化管道安全运维企业。经过不断的技术积累，公司的可靠性管理研发水平处于国际前沿。",
-    "labels": [
-      "节日福利",
-      "零食下午茶",
-      "员工旅游",
-      "带薪年假",
-      "年终奖",
-      "补充医疗保险",
-      "五险一金"
-    ],
-    "activeTime": 1743473706392,
-    "visibleBrandInfo": true,
-    "focusBrand": false,
-    "customerBrandName": "北京特里尼斯",
-    "customerBrandStageName": "未融资"
-  },
-  "handicappedInfo": null,
-  "jobInfo": {
-    "encryptId": "f9e538ed8863253a03Z82Nm5FlVT",
-    "encryptUserId": "0c985ae0fd7871031HR439y6F1s~",
-    "invalidStatus": false,
-    "jobName": "运维工程师",
-    "position": 100401,
-    "positionName": "运维工程师",
-    "location": 101010100,
-    "locationName": "北京",
-    "experienceName": "1-3年",
-    "degreeName": "大专",
-    "jobType": 0,
-    "proxyJob": 0,
-    "proxyType": 0,
-    "salaryDesc": "5-10K",
-    "payTypeDesc": null,
-    "postDescription": "1、负责linux系统的日常运维，熟悉常用的linux命令\n2、熟悉kafka、docker、nginx、redis、jdk等中间件的常用命令和运维工作\n3、熟悉了解国产化系统和数据库，熟悉sql常用语句\n4、能够进行系统实施部署，编写运维文档用户操作手册等，能给客户进行项目培训\n5、有较好的抗压能力和学习能力，能够与客户进行有效沟通，推进项目或解决处理项目问题，取得客户认可\n6、接受出差",
-    "encryptAddressId": "080173713759ca591nV52ti7FlJY",
-    "address": "北京东城区东雍创业谷10号楼A309",
-    "longitude": 116.423555,
-    "latitude": 39.945197,
-    "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc373fcd277ea5b166a779e0790a2fc3",
-    "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9b379dca551c6bcb0927c498ef1260f",
-    "baiduStaticMapUrl": "",
-    "baiduPcStaticMapUrl": "",
-    "overseasAddressList": [],
-    "overseasInfo": null,
-    "showSkills": [
-      "网络运维"
-    ],
-    "anonymous": 0,
-    "jobStatusDesc": "招聘中"
-  },
-  "lid": "",
-  "oneKeyResumeInfo": {
-    "inviteType": 0,
-    "alreadySend": false,
-    "canSendResume": false,
-    "canSendPhone": false,
-    "canSendWechat": false
-  },
-  "pageType": 0,
-  "relationInfo": {
-    "interestJob": false,
-    "beFriend": false
-  },
-  "securityId": "kwg5AKz90FCSI-g1WGdT1w-U5qKm-pzG7qWJBHolIX3HLICalo5bcV1YnEuGBhiY6gV33QPTKGryNE8moN4Sb8bjkivb09M6g248sUKV32qyRCiHD23HuTauhwRyBajMNm1YPeAaAwyKZtCB4eCYyTcgu0wLoX77hhHvLi9cirBeKcFl246hvoyx-x4~",
-  "selfAccess": false,
-  "sessionId": null
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "北京特里尼斯",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1743473706392,
+        "brandName": "北京特里尼斯",
+        "customerBrandName": "北京特里尼斯",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "bc9669869bf811fe1HV839m6",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "特里尼斯是专业从事管道完整性及管道可靠性研究的民营股份制企业。 特里尼斯已成为集平台搭建、数据采集分析、管道内检测、管道风险评价系统开发为一体的专业化管道安全运维企业。经过不断的技术积累，公司的可靠性管理研发水平处于国际前沿。",
+        "labels": [
+            "节日福利",
+            "零食下午茶",
+            "员工旅游",
+            "带薪年假",
+            "年终奖",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190315/1501ad619f3de13cd3b97f225a2494970baa29e8df2574a00a4d7e7d5233cd1a.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京东城区东雍创业谷10号楼A309",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "080173713759ca591nV52ti7FlJY",
+        "encryptId": "f9e538ed8863253a03Z82Nm5FlVT",
+        "encryptUserId": "0c985ae0fd7871031HR439y6F1s~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.945197,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.423555,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9b379dca551c6bcb0927c498ef1260f",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责linux系统的日常运维，熟悉常用的linux命令\n2、熟悉kafka、docker、nginx、redis、jdk等中间件的常用命令和运维工作\n3、熟悉了解国产化系统和数据库，熟悉sql常用语句\n4、能够进行系统实施部署，编写运维文档用户操作手册等，能给客户进行项目培训\n5、有较好的抗压能力和学习能力，能够与客户进行有效沟通，推进项目或解决处理项目问题，取得客户认可\n6、接受出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "网络运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc373fcd277ea5b166a779e0790a2fc3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "kwg5AKz90FCSI-g1WGdT1w-U5qKm-pzG7qWJBHolIX3HLICalo5bcV1YnEuGBhiY6gV33QPTKGryNE8moN4Sb8bjkivb09M6g248sUKV32qyRCiHD23HuTauhwRyBajMNm1YPeAaAwyKZtCB4eCYyTcgu0wLoX77hhHvLi9cirBeKcFl246hvoyx-x4~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "v1T56Ye2axkZl-J1Wy9ch8S8nBFi9Ucvu3DVyTkFchk37ererYmTe-pvnVRd-ahiG3HJa-dfMPeRPqRunxQLetXcOhUjDqxIBMAT_Vj3XuDpUq7hg_ebCxAEgQ7Y6KRi6LwxVgtNqkzz9bHTS92eNINYV0Suqg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "618c2fe1520ed9d403R43N68ElBY",
-      "encryptUserId": "8e159dd41eb42f6e0Xx629i0EFJZ",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "测试工程师岗位职责：\n1、主要负责公司APP、WEB、硬件项目、重点客户项目的测试工作，参与项目测试，保障产品质量；\n2、完善产品／项目质量保障机制，推进过程改进，提升整体测试效率；\n3、参与需求评审，编写测试用例，组织项目测试，完成测试计划，并负责缺陷的跟踪和管理；\n4、系统质量评价和反馈，及问题跟踪、推动解决；\n5、能独立负责整个项目并对自己的产品质量负责；\n6、应用新技术到项目中，提高测试效率；",
-      "encryptAddressId": "10f8d0b7928e3cd61ndy3dy-FlNUwoW4UP2X",
-      "address": "杭州钱塘区MC·胜意科创园3号楼1101",
-      "longitude": 120.340805,
-      "latitude": 30.331832,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231115/48ba41acc9cef1bf72980da96d610a04f537a8ac20c0bda46bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231115/48ba41acc9cef1bf530b2d405ab65deac04af22514f9f1a56bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "所辛体育",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0c89e899d3b7a37e1HNy09m7Flc~",
-      "brandName": "所辛体育",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1733974511372,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "所辛体育",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "所辛体育",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1733974511372,
+        "brandName": "所辛体育",
+        "customerBrandName": "所辛体育",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0c89e899d3b7a37e1HNy09m7Flc~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州钱塘区MC·胜意科创园3号楼1101",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "10f8d0b7928e3cd61ndy3dy-FlNUwoW4UP2X",
+        "encryptId": "618c2fe1520ed9d403R43N68ElBY",
+        "encryptUserId": "8e159dd41eb42f6e0Xx629i0EFJZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.331832,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.340805,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231115/48ba41acc9cef1bf530b2d405ab65deac04af22514f9f1a56bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "测试工程师岗位职责：\n1、主要负责公司APP、WEB、硬件项目、重点客户项目的测试工作，参与项目测试，保障产品质量；\n2、完善产品／项目质量保障机制，推进过程改进，提升整体测试效率；\n3、参与需求评审，编写测试用例，组织项目测试，完成测试计划，并负责缺陷的跟踪和管理；\n4、系统质量评价和反馈，及问题跟踪、推动解决；\n5、能独立负责整个项目并对自己的产品质量负责；\n6、应用新技术到项目中，提高测试效率；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231115/48ba41acc9cef1bf72980da96d610a04f537a8ac20c0bda46bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "v1T56Ye2axkZl-J1Wy9ch8S8nBFi9Ucvu3DVyTkFchk37ererYmTe-pvnVRd-ahiG3HJa-dfMPeRPqRunxQLetXcOhUjDqxIBMAT_Vj3XuDpUq7hg_ebCxAEgQ7Y6KRi6LwxVgtNqkzz9bHTS92eNINYV0Suqg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

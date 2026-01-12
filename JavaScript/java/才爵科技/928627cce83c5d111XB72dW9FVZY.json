@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BylyX8LLhe4QH-71vEjG4wWptonPkDAjLYs5381MS6gvd-fxte3glUhjKt_fcWal3-pNgDF5QVaL-Wal66ec6Q7VDkhYhDSA28fcZ97PmKO7w8XSnvxt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "928627cce83c5d111XB72dW9FVZY",
-      "encryptUserId": "0fd10a8613f1ea280nBy3dq_FFVR",
-      "invalidStatus": false,
-      "jobName": "java",
-      "position": 100208,
-      "positionName": "JavaScript",
-      "location": 101100800,
-      "locationName": "运城",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求:\n1、态度端正，能力不足可以学习，态度一定要端正\n2、有无经验均可，会有项目经理带新人深入学习Java主流框架.\n3、深入理解面向对象编程和J2EE技术。\n4、根据个人情况会有3到6个月的实习期。\n5、学习后需熟练使用SpringMVC、Spring、Mybaits等框架;\n6、熟悉mysql、Oracle，等数据库以及优化任职条件:\n大专以上学历（应届生有专门培养体系，需提供证明）",
-      "encryptAddressId": "78ab37122464f0d70XF63dy1E1M~",
-      "address": "运城盐湖区运城才爵科技有限公司1楼103",
-      "longitude": 110.964809,
-      "latitude": 35.123575,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6512f3e99595df176263408955478f61",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d0e1b2014a47af8557d76fbc83bb67b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "后端",
-        "高薪就业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "冯先生",
-      "title": "人事总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "才爵科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ba4fc3af0dddd95c1XV639y7F1M~",
-      "brandName": "才爵科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220420/7b5b554d84f9729c73dfdc58a73e835e84d42a93bdd4a185dbd1863a83d88e584a9bcc3e56ab8be8.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "专注软件开发，运城市政府扶持创办的一家科技公司",
-      "labels": [
-        "免费班车",
-        "住房补贴",
-        "零食下午茶",
-        "餐补",
-        "包吃",
-        "带薪年假",
-        "加班补助",
-        "股票期权",
-        "年终奖"
-      ],
-      "activeTime": 1723007602666,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "才爵科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "才爵科技",
+        "certificated": true,
+        "large": null,
+        "name": "冯先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1723007602666,
+        "brandName": "才爵科技",
+        "customerBrandName": "才爵科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "ba4fc3af0dddd95c1XV639y7F1M~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "专注软件开发，运城市政府扶持创办的一家科技公司",
+        "labels": [
+            "免费班车",
+            "住房补贴",
+            "零食下午茶",
+            "餐补",
+            "包吃",
+            "带薪年假",
+            "加班补助",
+            "股票期权",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220420/7b5b554d84f9729c73dfdc58a73e835e84d42a93bdd4a185dbd1863a83d88e584a9bcc3e56ab8be8.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "运城盐湖区运城才爵科技有限公司1楼103",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "78ab37122464f0d70XF63dy1E1M~",
+        "encryptId": "928627cce83c5d111XB72dW9FVZY",
+        "encryptUserId": "0fd10a8613f1ea280nBy3dq_FFVR",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.123575,
+        "location": 101100800,
+        "locationName": "运城",
+        "longitude": 110.964809,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d0e1b2014a47af8557d76fbc83bb67b",
+        "position": 100208,
+        "positionName": "JavaScript",
+        "postDescription": "岗位要求:\n1、态度端正，能力不足可以学习，态度一定要端正\n2、有无经验均可，会有项目经理带新人深入学习Java主流框架.\n3、深入理解面向对象编程和J2EE技术。\n4、根据个人情况会有3到6个月的实习期。\n5、学习后需熟练使用SpringMVC、Spring、Mybaits等框架;\n6、熟悉mysql、Oracle，等数据库以及优化任职条件:\n大专以上学历（应届生有专门培养体系，需提供证明）",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "Java",
+            "后端",
+            "高薪就业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6512f3e99595df176263408955478f61"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BylyX8LLhe4QH-71vEjG4wWptonPkDAjLYs5381MS6gvd-fxte3glUhjKt_fcWal3-pNgDF5QVaL-Wal66ec6Q7VDkhYhDSA28fcZ97PmKO7w8XSnvxt",
+    "selfAccess": false,
+    "sessionId": null
 }

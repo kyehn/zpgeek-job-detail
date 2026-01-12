@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SOn2hQoCISuV9-b17bsa_B30PONemGk0cpXV0zQZphxAO6T1IhTlxkl-4CpCC76lazra5O0V_RI8NV-z1XUjZG4TWW5sMTFr1uBOFNDNgXfKFqOZFeQ2uMYPLoK2opbpQg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a1a4cf58b418e0d003V73dW5GFVR",
-      "encryptUserId": "cc322431f858e3580XZ93tW6E1o~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "1-3年测试经验，有手机整机测试经验的  学信网可查大专或以上学历",
-      "encryptAddressId": "73d40b7218431f5f0nB63d-4GFNZxI27Vv4~",
-      "address": "南京浦口区龙湖南京江北天街101",
-      "longitude": 118.698189,
-      "latitude": 32.158664,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0042661a790944e4bd18bc9c778b65f7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa74175a7954f98ccdc34cf16ec87916",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "手机测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "马女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240130/607f1f3d68754fd086e7bce352452527e9b8b26c2c1b91ee93573d707c7c6dd89b362d25f476f45_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "深圳市睿饰企业服务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0988fe3f8839fea61HZ_09-0EFo~",
-      "brandName": "深圳市睿饰企业服务",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1736903650115,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市睿饰企业服务",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "深圳市睿饰企业服务",
+        "certificated": true,
+        "large": null,
+        "name": "马女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240130/607f1f3d68754fd086e7bce352452527e9b8b26c2c1b91ee93573d707c7c6dd89b362d25f476f45_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1736903650115,
+        "brandName": "深圳市睿饰企业服务",
+        "customerBrandName": "深圳市睿饰企业服务",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0988fe3f8839fea61HZ_09-0EFo~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区龙湖南京江北天街101",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "73d40b7218431f5f0nB63d-4GFNZxI27Vv4~",
+        "encryptId": "a1a4cf58b418e0d003V73dW5GFVR",
+        "encryptUserId": "cc322431f858e3580XZ93tW6E1o~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.158664,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.698189,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa74175a7954f98ccdc34cf16ec87916",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1-3年测试经验，有手机整机测试经验的  学信网可查大专或以上学历",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "自动化测试",
+            "手机测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0042661a790944e4bd18bc9c778b65f7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SOn2hQoCISuV9-b17bsa_B30PONemGk0cpXV0zQZphxAO6T1IhTlxkl-4CpCC76lazra5O0V_RI8NV-z1XUjZG4TWW5sMTFr1uBOFNDNgXfKFqOZFeQ2uMYPLoK2opbpQg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

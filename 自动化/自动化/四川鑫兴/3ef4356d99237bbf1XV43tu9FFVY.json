@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-DMhPQUMOj_3L-h1o5eNQslMMkSMIeJQ-TsdWlPKOnJUJg35REsK-DAsMqD-rlcm3IWc7ApP2smHxqkT9N5Kfx1xI4Hd4k_JqIxeXUzs6eS1FgUTl_E~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3ef4356d99237bbf1XV43tu9FFVY",
-      "encryptUserId": "4af8cdc4b53ed9100nd52dS6EFRZ",
-      "invalidStatus": false,
-      "jobName": "自动化",
-      "position": 100803,
-      "positionName": "自动化",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "软件设计任职要求：\n1、本科及以上学历\n2、自动化、电气、计算机、核工程相关专业，或者相关行业工作经验\n3、具有一定英语读写能力（CET4及以上）\n4、具有DCS或自动控制系统1年以上相关工作经验\n\n硬件设计任职要求：\n1、本科及以上学历、具有2年以上相关工作经验\n2、自动化、电气、测控技术与仪器、计算机等相关专业\n3、具有工程机柜设计、非标自动化设备设计及改造能力\n4、熟练使用EPLAN、AutoCAD、EB等软件工具",
-      "encryptAddressId": "6c25587be8c0cbde0nR929S9GVM~",
-      "address": "成都武侯区航利中心2-212",
-      "longitude": 104.037633,
-      "latitude": 30.625502,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c131fc3787f301e7168b5c7a6a16008d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d6343a09ae24af318cc4688f10414c1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PLC工程师",
-        "DCS",
-        "自动化"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "系统部",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "四川鑫兴",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9952918567dd10ae3nR92Nu0Fg~~",
-      "brandName": "四川鑫兴",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "石油化工行业的工业自动化",
-      "labels": [
-        "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "意外险",
-        "出差补贴"
-      ],
-      "activeTime": 1731548767000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "四川鑫兴",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "四川鑫兴",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "系统部"
+    },
+    "brandComInfo": {
+        "activeTime": 1731548767000,
+        "brandName": "四川鑫兴",
+        "customerBrandName": "四川鑫兴",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9952918567dd10ae3nR92Nu0Fg~~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "石油化工行业的工业自动化",
+        "labels": [
+            "保底工资",
+            "绩效奖金",
+            "年终奖",
+            "意外险",
+            "出差补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区航利中心2-212",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6c25587be8c0cbde0nR929S9GVM~",
+        "encryptId": "3ef4356d99237bbf1XV43tu9FFVY",
+        "encryptUserId": "4af8cdc4b53ed9100nd52dS6EFRZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.625502,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.037633,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d6343a09ae24af318cc4688f10414c1",
+        "position": 100803,
+        "positionName": "自动化",
+        "postDescription": "软件设计任职要求：\n1、本科及以上学历\n2、自动化、电气、计算机、核工程相关专业，或者相关行业工作经验\n3、具有一定英语读写能力（CET4及以上）\n4、具有DCS或自动控制系统1年以上相关工作经验\n\n硬件设计任职要求：\n1、本科及以上学历、具有2年以上相关工作经验\n2、自动化、电气、测控技术与仪器、计算机等相关专业\n3、具有工程机柜设计、非标自动化设备设计及改造能力\n4、熟练使用EPLAN、AutoCAD、EB等软件工具",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "PLC工程师",
+            "DCS",
+            "自动化"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c131fc3787f301e7168b5c7a6a16008d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-DMhPQUMOj_3L-h1o5eNQslMMkSMIeJQ-TsdWlPKOnJUJg35REsK-DAsMqD-rlcm3IWc7ApP2smHxqkT9N5Kfx1xI4Hd4k_JqIxeXUzs6eS1FgUTl_E~",
+    "selfAccess": false,
+    "sessionId": null
 }

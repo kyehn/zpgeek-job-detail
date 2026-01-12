@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "AZVCDjSR3m0a1-j1lu3iNuAQDbgowYHRmcB_JC5lv5kbcNPln433ot3I5LgcC9yR2mnvRvbhz8NrwhFNj_cumWz7AqE0zH3HezFaQLfa2zKndy9ZknsLRKIKvvrK9nW-w_g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a1ab6d34ceeaf7de1H1509y1EFtW",
-      "encryptUserId": "ea5cd9c19749e9481nV-3du_F1JR",
-      "invalidStatus": false,
-      "jobName": "开发工程师",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟练掌握Java基本框架，包括spring/SpringBoot、MyBatis、MyBatisPlus等常用框架；\n2、熟悉Oracle、MySQL等关系型数据库，熟练编写SQL语句，具备对SQL语句调优能力；\n3、熟悉Spring MVC，可以独立开发基于SpringBoot的web微应用程序；\n4、能够熟练使用VUE、ElementUI、Axios框架开发前端界面；\n5、具备服务支撑意识，能够根据客户要求和反馈意见，配合修改优化页面；\n6、具有K8S云原生开发运维经验者优先。",
-      "encryptAddressId": "b1a944606a6e567a0HZ52Nu-EFVSwI29WPg~",
-      "address": "成都武侯区茂业中心A座2707",
-      "longitude": 104.066577,
-      "latitude": 30.590689,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ba90f4938f3b2f42ae2a42e5f7fd4e94",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56b9c1223839bafda4dbdc98eace32f3",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "后端开发经验",
-        "MySQL/Redis/MongoDB",
-        "计算机相关专业",
-        "前端开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "朱女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "印池",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c209841c4e4e8ae31n1y0t-5E1I~",
-      "brandName": "印池",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220323/7bf6f160950405e9de94ff5f19eff652a6743503d9935ad721cc6a78fc81b28f4ce74f07d6bc08a6.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101205,
-      "industryName": "电力/热力/燃气/水利",
-      "introduce": "成都印池科技有限公司成立于2019年11月，位于成都市高新区，注册资金500万元。我公司是专业化从事电力系统自动化产品研发、生产、销售与服务的民营高科技企业。其产品涵盖电力系统用电信息采集、调度自动化、配网自动化、微机五防、监控保护等领域。公司以“为电力自动化领域提供安全、可靠和易于操作的最佳解决方案”为使命，以“性能优良、运行可靠”为己任，为客户提供优质，安全，可靠的服务。",
-      "labels": [
-        "交通补助",
-        "住房补贴",
-        "带薪年假",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1734660020053,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "印池",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "印池",
+        "certificated": true,
+        "large": null,
+        "name": "朱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1734660020053,
+        "brandName": "印池",
+        "customerBrandName": "印池",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "c209841c4e4e8ae31n1y0t-5E1I~",
+        "focusBrand": false,
+        "industry": 101205,
+        "industryName": "电力/热力/燃气/水利",
+        "introduce": "成都印池科技有限公司成立于2019年11月，位于成都市高新区，注册资金500万元。我公司是专业化从事电力系统自动化产品研发、生产、销售与服务的民营高科技企业。其产品涵盖电力系统用电信息采集、调度自动化、配网自动化、微机五防、监控保护等领域。公司以“为电力自动化领域提供安全、可靠和易于操作的最佳解决方案”为使命，以“性能优良、运行可靠”为己任，为客户提供优质，安全，可靠的服务。",
+        "labels": [
+            "交通补助",
+            "住房补贴",
+            "带薪年假",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220323/7bf6f160950405e9de94ff5f19eff652a6743503d9935ad721cc6a78fc81b28f4ce74f07d6bc08a6.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区茂业中心A座2707",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "b1a944606a6e567a0HZ52Nu-EFVSwI29WPg~",
+        "encryptId": "a1ab6d34ceeaf7de1H1509y1EFtW",
+        "encryptUserId": "ea5cd9c19749e9481nV-3du_F1JR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.590689,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.066577,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56b9c1223839bafda4dbdc98eace32f3",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "1、熟练掌握Java基本框架，包括spring/SpringBoot、MyBatis、MyBatisPlus等常用框架；\n2、熟悉Oracle、MySQL等关系型数据库，熟练编写SQL语句，具备对SQL语句调优能力；\n3、熟悉Spring MVC，可以独立开发基于SpringBoot的web微应用程序；\n4、能够熟练使用VUE、ElementUI、Axios框架开发前端界面；\n5、具备服务支撑意识，能够根据客户要求和反馈意见，配合修改优化页面；\n6、具有K8S云原生开发运维经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "Java",
+            "后端开发经验",
+            "MySQL/Redis/MongoDB",
+            "计算机相关专业",
+            "前端开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ba90f4938f3b2f42ae2a42e5f7fd4e94"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "AZVCDjSR3m0a1-j1lu3iNuAQDbgowYHRmcB_JC5lv5kbcNPln433ot3I5LgcC9yR2mnvRvbhz8NrwhFNj_cumWz7AqE0zH3HezFaQLfa2zKndy9ZknsLRKIKvvrK9nW-w_g~",
+    "selfAccess": false,
+    "sessionId": null
 }

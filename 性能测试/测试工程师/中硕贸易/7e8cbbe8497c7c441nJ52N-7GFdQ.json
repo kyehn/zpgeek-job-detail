@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8j6XWBHEHH8ng-81F_U3itwv1rgHPGSRzhD0kqQzE9HleH9CdAcgKoLshPy4Jvfzz8XKM04ajWQIWE1uXqV59szWO8N1lRhKVm_LW1vqm-kNglW5VaiN",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7e8cbbe8497c7c441nJ52N-7GFdQ",
-      "encryptUserId": "70ded6de230c9eaa0nd83di1FlFU",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100304,
-      "positionName": "性能测试",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "软件测试:网页，工具的功能测试，性能测试等",
-      "encryptAddressId": "65b7b225fd0fdba21HV409i-EA~~",
-      "address": "苏州张家港市苏州德莱美包装材料有限公司20号",
-      "longitude": 120.668478,
-      "latitude": 31.872917,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/afd0bda750a86289373fba433aa56afe",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b3890e091943e7d2af22c1ee4ba7063",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "中硕贸易",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "084dca067a0105251nN93N-4FVM~",
-      "brandName": "中硕贸易",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725373078876,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中硕贸易",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中硕贸易",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725373078876,
+        "brandName": "中硕贸易",
+        "customerBrandName": "中硕贸易",
+        "customerBrandStageName": "",
+        "encryptBrandId": "084dca067a0105251nN93N-4FVM~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州张家港市苏州德莱美包装材料有限公司20号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "65b7b225fd0fdba21HV409i-EA~~",
+        "encryptId": "7e8cbbe8497c7c441nJ52N-7GFdQ",
+        "encryptUserId": "70ded6de230c9eaa0nd83di1FlFU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.872917,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.668478,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b3890e091943e7d2af22c1ee4ba7063",
+        "position": 100304,
+        "positionName": "性能测试",
+        "postDescription": "软件测试:网页，工具的功能测试，性能测试等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "软件测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/afd0bda750a86289373fba433aa56afe"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8j6XWBHEHH8ng-81F_U3itwv1rgHPGSRzhD0kqQzE9HleH9CdAcgKoLshPy4Jvfzz8XKM04ajWQIWE1uXqV59szWO8N1lRhKVm_LW1vqm-kNglW5VaiN",
+    "selfAccess": false,
+    "sessionId": null
 }

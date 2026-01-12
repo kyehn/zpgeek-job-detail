@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "LhsjZtxcqGHwY-91BY-XxF1OzKq0k5cQbvdpcXMINNkV-YzB4OqcaqStUHj2n3kMq781NTFM-8wR1KQiF8ukiXBaxYeiTYHpVFWVbk8QjmGaIA9bOPg4m7zGKCTONCY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5a8e1f9291d168ce0Xx82t-9EFM~",
-      "encryptUserId": "c73c2633945d968e33F909-1FVo~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责项目的现场实施与维护，具体包括系统软、硬件和应用软件的安装调试、项目需求调研、产品配置实施、日常维护等。\r\n2. 协助对产品进行验收、出具使用报告及回款。\r\n3. 负责收集客户对产品的需求、意见等，并整理成文档提报给公司研发部。\r\n4. 按照部门服务流程，及时提报服务记录，保证服务资料的正确性和完整性\r\n\r\n岗位要求：\r\n1.独立完成计算机常用操作系统的服务器安装（Windows、Linux常见发行版）；\r\n2.掌握数据库基本的增删查改操作（不限图形化客户端或语句）；\r\n3.掌握Tomcat、IIS的安装、服务部署；\r\n4.能阅读各类日志，从中找出解决问题的思路；\r\n5.Python、Shell熟练者优先；\r\n6.有自动化运维、虚拟化经验者优先；",
-      "encryptAddressId": "c09274012782894e0Hx-3du5GVs~",
-      "address": "济南槐荫区西城·西进时代中心D座8层",
-      "longitude": 116.893161,
-      "latitude": 36.654252,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e8391aa11e7c544e288c8ef277554c5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b151e34bec8d93e1fb189b4daf9d3ff",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Shell",
-        "Python",
-        "服务器配置"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "潘女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "中科云创",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "33b9ff8b89073af10HZ939m_GQ~~",
-      "brandName": "中科云创",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200312/8196df12e33e59554994ee461f4a107c209cb43f22292c07614e27c0ce01379e.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中科云创工业互联网有限公司是应急管理部安全科技支撑平台—“煤矿安全管理云服务技术创新中心”的运营管理单位，注册资金1亿元，是一家专业为全国各级应急管理、煤矿安全监察、能源部门和矿山企业提供基于物联网、云计算、大数据、人工智能等新一代信息技术应用、解决方案、大数据运营及技术咨询等服务的工业互联网公司。目前承担了《数字山东发展规划（2018-2022年）》大数据中心、重点项目《全国煤矿安全生产管理大数据中心》及煤炭工业互联网平台成果展示中心等建设。",
-      "labels": [
-        "住房补贴",
-        "交通补助",
-        "通讯补贴",
-        "餐补",
-        "年终奖",
-        "加班补助",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1730814270322,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中科云创",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中科云创",
+        "certificated": true,
+        "large": null,
+        "name": "潘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730814270322,
+        "brandName": "中科云创",
+        "customerBrandName": "中科云创",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "33b9ff8b89073af10HZ939m_GQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中科云创工业互联网有限公司是应急管理部安全科技支撑平台—“煤矿安全管理云服务技术创新中心”的运营管理单位，注册资金1亿元，是一家专业为全国各级应急管理、煤矿安全监察、能源部门和矿山企业提供基于物联网、云计算、大数据、人工智能等新一代信息技术应用、解决方案、大数据运营及技术咨询等服务的工业互联网公司。目前承担了《数字山东发展规划（2018-2022年）》大数据中心、重点项目《全国煤矿安全生产管理大数据中心》及煤炭工业互联网平台成果展示中心等建设。",
+        "labels": [
+            "住房补贴",
+            "交通补助",
+            "通讯补贴",
+            "餐补",
+            "年终奖",
+            "加班补助",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200312/8196df12e33e59554994ee461f4a107c209cb43f22292c07614e27c0ce01379e.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南槐荫区西城·西进时代中心D座8层",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c09274012782894e0Hx-3du5GVs~",
+        "encryptId": "5a8e1f9291d168ce0Xx82t-9EFM~",
+        "encryptUserId": "c73c2633945d968e33F909-1FVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.654252,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 116.893161,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b151e34bec8d93e1fb189b4daf9d3ff",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1、负责项目的现场实施与维护，具体包括系统软、硬件和应用软件的安装调试、项目需求调研、产品配置实施、日常维护等。\r\n2. 协助对产品进行验收、出具使用报告及回款。\r\n3. 负责收集客户对产品的需求、意见等，并整理成文档提报给公司研发部。\r\n4. 按照部门服务流程，及时提报服务记录，保证服务资料的正确性和完整性\r\n\r\n岗位要求：\r\n1.独立完成计算机常用操作系统的服务器安装（Windows、Linux常见发行版）；\r\n2.掌握数据库基本的增删查改操作（不限图形化客户端或语句）；\r\n3.掌握Tomcat、IIS的安装、服务部署；\r\n4.能阅读各类日志，从中找出解决问题的思路；\r\n5.Python、Shell熟练者优先；\r\n6.有自动化运维、虚拟化经验者优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K",
+        "showSkills": [
+            "Shell",
+            "Python",
+            "服务器配置"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e8391aa11e7c544e288c8ef277554c5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "LhsjZtxcqGHwY-91BY-XxF1OzKq0k5cQbvdpcXMINNkV-YzB4OqcaqStUHj2n3kMq781NTFM-8wR1KQiF8ukiXBaxYeiTYHpVFWVbk8QjmGaIA9bOPg4m7zGKCTONCY~",
+    "selfAccess": false,
+    "sessionId": null
 }

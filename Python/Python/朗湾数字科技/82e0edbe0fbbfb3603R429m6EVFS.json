@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Hcq3OovSPNljw-c1uJh-2KeAvibtK5amhAHJwD6HQIIeC21sB2NqKZ-PWGKEGxZ633OpuoAUO6dJzSWMB1txynpzmHWwinrLcfPQZydoF5V7beX8sv2AXJzsTGip1oP9bSIZvVdTSufw_pQ9aDLXyOiUBLWd",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "82e0edbe0fbbfb3603R429m6EVFS",
-      "encryptUserId": "a1e2019f8b9e96a21HB439i7GVE~",
-      "invalidStatus": false,
-      "jobName": "Python",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\nAI大模型的数据训练\n岗位要求：\n1、全日制大专及以上学历，计算机相关专业；\n2、熟悉Python语言，懂一些AI基本原理，有2年项目开发经验。",
-      "encryptAddressId": "aa5ea1bb32f5f8fa1nF52NS_GVVZwY-3UfqY",
-      "address": "北京朝阳区上东公园里22层",
-      "longitude": 116.476874,
-      "latitude": 39.968225,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bf8fc1220973e2b7c0d7742636e804b03b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bf51f58b0c77a6e885b775841088e08f986bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Pandas",
-        "MySQL",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "孔女士",
-      "title": "HR.招聘专员",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=7bd1c9d45e8ab83ejzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5bn3h0sIstvoxqT1a0yuZlPuumfZVQ4uayCGh8ZVsB9nxb_q-hESBNQr_iDU46wY8aRQy3yvoI-w0dVYbs03AoDHdGoU-eI8jtwA~~&radius=15",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "朗湾数字科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "93d607490ec07f771HF629-4ElI~",
-      "brandName": "朗湾数字科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240521/7bf6f160950405e9f8b7c35e8db9665250831161201027f02d440f96654ffcc9c23fa51dee11b5d3.png.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "朗湾数字科技有限公司是一家高速发展的软件与信息化技术服务商，致力于成为国内外有影响力的数字技术服务企 业，在环杭州湾大湾区、粤港澳大湾区、渤海湾及全国各地设有分支机构，公司技术和研发实力雄厚，拥有30多项软件著作权，获得ISO认证，并被国家政府认定为高新技术企业及国家专精特新企业。主要业务领域包括AI人工智能、互联网、大数据、云计算、区块链、新能源、电子商务、行业管理应用软件等，现公司正在大力拓展业务，处于高速发展时期，热忱欢迎与我们具有相同价值观的朋友加入，一起携手共创美好未来！",
-      "labels": [
-        "五险一金",
-        "法定节假日三薪",
-        "带薪年假",
-        "团建聚餐"
-      ],
-      "activeTime": 1732791312700,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "朗湾数字科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "朗湾数字科技",
+        "certificated": true,
+        "large": null,
+        "name": "孔女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=7bd1c9d45e8ab83ejzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5bn3h0sIstvoxqT1a0yuZlPuumfZVQ4uayCGh8ZVsB9nxb_q-hESBNQr_iDU46wY8aRQy3yvoI-w0dVYbs03AoDHdGoU-eI8jtwA~~&radius=15",
+        "title": "HR.招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1732791312700,
+        "brandName": "朗湾数字科技",
+        "customerBrandName": "朗湾数字科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "93d607490ec07f771HF629-4ElI~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "朗湾数字科技有限公司是一家高速发展的软件与信息化技术服务商，致力于成为国内外有影响力的数字技术服务企 业，在环杭州湾大湾区、粤港澳大湾区、渤海湾及全国各地设有分支机构，公司技术和研发实力雄厚，拥有30多项软件著作权，获得ISO认证，并被国家政府认定为高新技术企业及国家专精特新企业。主要业务领域包括AI人工智能、互联网、大数据、云计算、区块链、新能源、电子商务、行业管理应用软件等，现公司正在大力拓展业务，处于高速发展时期，热忱欢迎与我们具有相同价值观的朋友加入，一起携手共创美好未来！",
+        "labels": [
+            "五险一金",
+            "法定节假日三薪",
+            "带薪年假",
+            "团建聚餐"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240521/7bf6f160950405e9f8b7c35e8db9665250831161201027f02d440f96654ffcc9c23fa51dee11b5d3.png.webp",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区上东公园里22层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "aa5ea1bb32f5f8fa1nF52NS_GVVZwY-3UfqY",
+        "encryptId": "82e0edbe0fbbfb3603R429m6EVFS",
+        "encryptUserId": "a1e2019f8b9e96a21HB439i7GVE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Python",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.968225,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.476874,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bf51f58b0c77a6e885b775841088e08f986bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "工作职责：\nAI大模型的数据训练\n岗位要求：\n1、全日制大专及以上学历，计算机相关专业；\n2、熟悉Python语言，懂一些AI基本原理，有2年项目开发经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Pandas",
+            "MySQL",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bf8fc1220973e2b7c0d7742636e804b03b6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Hcq3OovSPNljw-c1uJh-2KeAvibtK5amhAHJwD6HQIIeC21sB2NqKZ-PWGKEGxZ633OpuoAUO6dJzSWMB1txynpzmHWwinrLcfPQZydoF5V7beX8sv2AXJzsTGip1oP9bSIZvVdTSufw_pQ9aDLXyOiUBLWd",
+    "selfAccess": false,
+    "sessionId": null
 }

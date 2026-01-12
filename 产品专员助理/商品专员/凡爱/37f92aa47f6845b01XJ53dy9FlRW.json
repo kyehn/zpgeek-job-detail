@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Iwn0LayKzJhS1-B1UbmYMUyTsWhTIu0jAvrGCZTTzRch_aZVPUoq4-Wip3WPBUr0TdRSnI3RSvavfB7ioKOjvv2fmf01Bi_pN855cLG7ETQaTWgvUA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "37f92aa47f6845b01XJ53dy9FlRW",
-      "encryptUserId": "753c05dc760a38a503d92tu1GFs~",
-      "invalidStatus": false,
-      "jobName": "商品专员",
-      "position": 110108,
-      "positionName": "产品专员/助理",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.协助主管做好货品调配\n2.统计分析区域货品状况\n3.协助做好指导，安排货品调配\n4.对各库存数据的统计并及时上报\n5.熟悉操作办公软件Word/excel",
-      "encryptAddressId": "1d189b4e319ddf9803d72dy9GVY~",
-      "address": "杭州滨江区双城国际3幢1单元9楼",
-      "longitude": 120.201283,
-      "latitude": 30.207807,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7c445d2f3cf4e343de1379a1da11029",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0468e023d16b198f9af23026f5925f29",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "服装"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邱女士",
-      "title": "财务",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200222/88d1db1c0e40730ba223fd9862e6643d200117be043544aa33dbcc315cc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "凡爱",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e359c6a96b1e563e1XB-29u4Fw~~",
-      "brandName": "凡爱",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101003,
-      "industryName": "服装/纺织",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1720666608000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "凡爱",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "凡爱",
+        "certificated": true,
+        "large": null,
+        "name": "邱女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200222/88d1db1c0e40730ba223fd9862e6643d200117be043544aa33dbcc315cc_b.jpg",
+        "title": "财务"
+    },
+    "brandComInfo": {
+        "activeTime": 1720666608000,
+        "brandName": "凡爱",
+        "customerBrandName": "凡爱",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e359c6a96b1e563e1XB-29u4Fw~~",
+        "focusBrand": false,
+        "industry": 101003,
+        "industryName": "服装/纺织",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区双城国际3幢1单元9楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1d189b4e319ddf9803d72dy9GVY~",
+        "encryptId": "37f92aa47f6845b01XJ53dy9FlRW",
+        "encryptUserId": "753c05dc760a38a503d92tu1GFs~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "商品专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.207807,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.201283,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0468e023d16b198f9af23026f5925f29",
+        "position": 110108,
+        "positionName": "产品专员/助理",
+        "postDescription": "1.协助主管做好货品调配\n2.统计分析区域货品状况\n3.协助做好指导，安排货品调配\n4.对各库存数据的统计并及时上报\n5.熟悉操作办公软件Word/excel",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "服装"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7c445d2f3cf4e343de1379a1da11029"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Iwn0LayKzJhS1-B1UbmYMUyTsWhTIu0jAvrGCZTTzRch_aZVPUoq4-Wip3WPBUr0TdRSnI3RSvavfB7ioKOjvv2fmf01Bi_pN855cLG7ETQaTWgvUA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

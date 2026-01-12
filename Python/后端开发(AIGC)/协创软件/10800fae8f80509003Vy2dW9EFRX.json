@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2Y6N4KV1IoKmR-v1-1qPvcF3j17B6ZVo_NYGl_hc0_eFPENktZqS0grX63r6v2kypou9l6y6wZHiWE8U-3rvj4TGcEqs9H0Dfz1l_yuF8GRSpCQuIeV-ZjCvFTOFD7_uJcUfR-yg-zkOdE3NYv66zLiQgD5m5_SIfbcSZWy8OGRtfSoZrPKjGzoMXYQK2nagkYNT-bdK7IY7n1bXbLT_9Y8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "10800fae8f80509003Vy2dW9EFRX",
-      "encryptUserId": "629bc3301f161ecf0X1809W7FFY~",
-      "invalidStatus": false,
-      "jobName": "后端开发(AIGC)",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-12K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "参与集团AIGC应用的开发和维护工作。负责设计和实现的AIGC相关产品功能\n1.熟练掌握Python开发，掌握Flask，Sqlalchemy，Celery等主流框架，深入理解框架实现原理及特性；熟练使用python的常用库\n2.熟练掌握Java开发，熟悉微服务架构及主流的微服务技术栈，如Spring Boot、Spring Cloud和MyBatis，对JVM的原理有一定的了解\n3.有AIGC产品开发经验，掌握dify，langchain等主流框架，深入理解框架实现原理及特性；掌握RAG，WorkFlow，Tools，Prompt，FuctionCalling等技术的实现和原理\n4.熟悉Linux操作系统，并熟练使用命令行工具\n5.熟练使用版本管理工具（如 Git 或 SVN），具备良好的代码编写习惯\n\n加分项：\n1.熟悉PAAS产品、了解并使用过的优先\n2.有使用docker/K8S容器使用部署经验者优先\n3.熟悉敏捷开发、devops，熟练使用ci/cd者优先",
-      "encryptAddressId": "33563bda3bd63bdc1nV72NW5ElRQ",
-      "address": "苏州吴中区苏州汇川技术有限公司C区C区C4栋4楼",
-      "longitude": 120.589556,
-      "latitude": 31.192852,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfb0d3a6d63431c0e224b27cb85e42b2dd6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfad6cef82fafb9e12bb1f0b36c797b33c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220909/607f1f3d68754fd0835f91e1212a6c15803fdd07822dc0f81c2bf3cd480b3e6a14b5f59aab9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "协创软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "332060b1b5a7ff161n153NS5GA~~",
-      "brandName": "协创软件",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180516/915441dde5e1cfb338e48ba584923714cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "苏州协创软件技术有限公司是一家由归国留学人员创办的，专注于移动互联网行业解决方案，以及国内领先的信息技术服务和解决方案的供应商。\n于2010年8月，经由苏州工业园区国际科技园引进，入驻苏州工业园区产业园。\n经过数年左右的发展，公司已经发展为一个拥有自主知识产权，以专业开发人员为主的软件技术服务公司。\n目前公司正在实施cmm3软件成熟度模型，以及iso27001的安全体系认证。\n同时在上海和杭州建立了办事机构，以满足客户的项目要求。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "免费班车"
-      ],
-      "activeTime": 1741680119037,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "协创软件",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "协创软件",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220909/607f1f3d68754fd0835f91e1212a6c15803fdd07822dc0f81c2bf3cd480b3e6a14b5f59aab9_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1741680119037,
+        "brandName": "协创软件",
+        "customerBrandName": "协创软件",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "332060b1b5a7ff161n153NS5GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "苏州协创软件技术有限公司是一家由归国留学人员创办的，专注于移动互联网行业解决方案，以及国内领先的信息技术服务和解决方案的供应商。\n于2010年8月，经由苏州工业园区国际科技园引进，入驻苏州工业园区产业园。\n经过数年左右的发展，公司已经发展为一个拥有自主知识产权，以专业开发人员为主的软件技术服务公司。\n目前公司正在实施cmm3软件成熟度模型，以及iso27001的安全体系认证。\n同时在上海和杭州建立了办事机构，以满足客户的项目要求。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "免费班车"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180516/915441dde5e1cfb338e48ba584923714cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区苏州汇川技术有限公司C区C区C4栋4楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "33563bda3bd63bdc1nV72NW5ElRQ",
+        "encryptId": "10800fae8f80509003Vy2dW9EFRX",
+        "encryptUserId": "629bc3301f161ecf0X1809W7FFY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "后端开发(AIGC)",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.192852,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.589556,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfad6cef82fafb9e12bb1f0b36c797b33c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "参与集团AIGC应用的开发和维护工作。负责设计和实现的AIGC相关产品功能\n1.熟练掌握Python开发，掌握Flask，Sqlalchemy，Celery等主流框架，深入理解框架实现原理及特性；熟练使用python的常用库\n2.熟练掌握Java开发，熟悉微服务架构及主流的微服务技术栈，如Spring Boot、Spring Cloud和MyBatis，对JVM的原理有一定的了解\n3.有AIGC产品开发经验，掌握dify，langchain等主流框架，深入理解框架实现原理及特性；掌握RAG，WorkFlow，Tools，Prompt，FuctionCalling等技术的实现和原理\n4.熟悉Linux操作系统，并熟练使用命令行工具\n5.熟练使用版本管理工具（如 Git 或 SVN），具备良好的代码编写习惯\n\n加分项：\n1.熟悉PAAS产品、了解并使用过的优先\n2.有使用docker/K8S容器使用部署经验者优先\n3.熟悉敏捷开发、devops，熟练使用ci/cd者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-12K·13薪",
+        "showSkills": [
+            "Java",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfb0d3a6d63431c0e224b27cb85e42b2dd6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2Y6N4KV1IoKmR-v1-1qPvcF3j17B6ZVo_NYGl_hc0_eFPENktZqS0grX63r6v2kypou9l6y6wZHiWE8U-3rvj4TGcEqs9H0Dfz1l_yuF8GRSpCQuIeV-ZjCvFTOFD7_uJcUfR-yg-zkOdE3NYv66zLiQgD5m5_SIfbcSZWy8OGRtfSoZrPKjGzoMXYQK2nagkYNT-bdK7IY7n1bXbLT_9Y8~",
+    "selfAccess": false,
+    "sessionId": null
 }

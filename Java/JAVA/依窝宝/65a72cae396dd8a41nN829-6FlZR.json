@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QzkB820in6WvT-F1Uq-hrhklO0I9ktQmAidDVh2tzJdCJ5y8G-DWDnRQ9MWZ9RhKtWculdtnZilsWPoyzA0EWC1MetCSpW1fp45vXAmcXzDOuoZLUdHBWERDm0Gx5_yt0i1xeB-CVZxQMA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "65a72cae396dd8a41nN829-6FlZR",
-      "encryptUserId": "08a79f811437b3410nx529S9F1E~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位要求:\n1、20届，21届大专以上学历，理工科专业优先;\n2、热爱软件开发行业，有志于长期在计算机行业发\n展，善于学习和总结分析;\n3、有相关基础者优先，C语言、C++等，或者其他专\n业有较强逻辑思维能力的理工科毕业生亦可;\n4、做事认真、细心、负责，能够专心学习技术，.有良\n好的工作态度和团队合作精神;\n5、无经验者前期有项目经理带领;\n6、欢迎广大应往届毕业生投递，优秀者可适当放宽条\n件!",
-      "encryptAddressId": "fae377d56dc7dc401nN53d25FFc~",
-      "address": "上海浦东新区世和商务中心7层711",
-      "longitude": 121.626411,
-      "latitude": 31.21208,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b30a729e4c27df79e5d35ecac2549ee7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e92c212563c8f45d955ac68dbdc997f7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全栈开发",
-        "后端开发",
-        "网络编程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "奚女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230914/607f1f3d68754fd01a0fe59ddf756ef57b3dac995ebc0ee58c56457342d0f0fcd0b6ec4303ee1c0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "依窝宝",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "84aebe2e485555a91nx_2dS8FVo~",
-      "brandName": "依窝宝",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721725501092,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "依窝宝",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "依窝宝",
+        "certificated": true,
+        "large": null,
+        "name": "奚女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230914/607f1f3d68754fd01a0fe59ddf756ef57b3dac995ebc0ee58c56457342d0f0fcd0b6ec4303ee1c0_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1721725501092,
+        "brandName": "依窝宝",
+        "customerBrandName": "依窝宝",
+        "customerBrandStageName": "",
+        "encryptBrandId": "84aebe2e485555a91nx_2dS8FVo~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区世和商务中心7层711",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fae377d56dc7dc401nN53d25FFc~",
+        "encryptId": "65a72cae396dd8a41nN829-6FlZR",
+        "encryptUserId": "08a79f811437b3410nx529S9F1E~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.21208,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.626411,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e92c212563c8f45d955ac68dbdc997f7",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位要求:\n1、20届，21届大专以上学历，理工科专业优先;\n2、热爱软件开发行业，有志于长期在计算机行业发\n展，善于学习和总结分析;\n3、有相关基础者优先，C语言、C++等，或者其他专\n业有较强逻辑思维能力的理工科毕业生亦可;\n4、做事认真、细心、负责，能够专心学习技术，.有良\n好的工作态度和团队合作精神;\n5、无经验者前期有项目经理带领;\n6、欢迎广大应往届毕业生投递，优秀者可适当放宽条\n件!",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "全栈开发",
+            "后端开发",
+            "网络编程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b30a729e4c27df79e5d35ecac2549ee7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QzkB820in6WvT-F1Uq-hrhklO0I9ktQmAidDVh2tzJdCJ5y8G-DWDnRQ9MWZ9RhKtWculdtnZilsWPoyzA0EWC1MetCSpW1fp45vXAmcXzDOuoZLUdHBWERDm0Gx5_yt0i1xeB-CVZxQMA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

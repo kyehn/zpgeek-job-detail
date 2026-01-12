@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "XG8S51aD6kc7i-v13oL-2rOXJs_Rj_5zyW2GZooAiL0gztMzXNP437RjF0CWRedO-0OOqCpkHunpGRysCckLMBhrQrnyRDkfE7EzbSO0SZ_oNhf6MwrqGAcBc_s9hBhPd5wdcM0f2LlMiP8d8loY2vXItu5LxERG0HtthtA-LA6FJVEb80IKZLGTZUS9S1zoTxRBYmINfF6cojhgGZen-NGi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1256751fe47405c403Z-2dW4ElZW",
-      "encryptUserId": "a2f70560f5f9c0771XN63Ni6GFE~",
-      "invalidStatus": false,
-      "jobName": "远程运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容:\n1、通过远程运维平台，监控机器人的运行状态，确保机器人处于正常运行状态；\n2、通过远程运维平台，远程恢复机器人异常状态，记录问题发生时的故障信息，通过内部平台将问题反馈给研发；\n3、接听用户、代理商技术支持电话，协助客户解决机器人遇到的问题；\n4、记录远程诊断的故障信息，对于无法远程解决的故障，指派工单，并为现场工程师提供信息输入；\n任职要求:\n1、大专以上学历，理工科专业，对机器人行业感兴趣。\n2、熟悉机器人软硬件知识，具有现场问题解决的能力，熟悉自动清洁机器人现场部署流程优先。\n3、吃苦耐劳，抗压，学习能力和沟通能力强。",
-      "encryptAddressId": "f50c547b997d5d1a3nZ909-9FVM~",
-      "address": "南京栖霞区紫东国际创意园c17",
-      "longitude": 118.912737,
-      "latitude": 32.079161,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb6b1bd4a44f87e45850e21eab069a3e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/960b4177b915c75f4fb32a2ca743a51d",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "实施交付运维",
-        "系统运维",
-        "计算机相关专业",
-        "电子/电气/自动化相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人才发展总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241211/607f1f3d68754fd0febc8216fe107ea91475f58024e3a65892325dced8e67d81521cdd30b75b56c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "霞智科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "81636e9aa1126a481n152927FVU~",
-      "brandName": "霞智科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220705/7bf6f160950405e91839f42172ff7972b272ade29fc1135f604be49e86274b08be45689a283e1c25.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "霞智科技是中兴旗下人工智能总部，在中兴通讯5G发展及布局基础上，聚焦机器人、“3D视觉 +AI+5G”两大主攻方向，重点突破机器人自主移动、 智能感知、多传感器融合等技术难点，围绕商用清 洁服务类机器人、医疗康复机器人、安防巡检机器 人进行产品布局，聚力打造具有核心竞争力的创新 型公司、细分领域的头部企业。",
-      "labels": [
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "餐补",
-        "零食下午茶",
-        "节日福利"
-      ],
-      "activeTime": 1741681773023,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "霞智科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "霞智科技",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241211/607f1f3d68754fd0febc8216fe107ea91475f58024e3a65892325dced8e67d81521cdd30b75b56c_b.jpg",
+        "title": "人才发展总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1741681773023,
+        "brandName": "霞智科技",
+        "customerBrandName": "霞智科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "81636e9aa1126a481n152927FVU~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "霞智科技是中兴旗下人工智能总部，在中兴通讯5G发展及布局基础上，聚焦机器人、“3D视觉 +AI+5G”两大主攻方向，重点突破机器人自主移动、 智能感知、多传感器融合等技术难点，围绕商用清 洁服务类机器人、医疗康复机器人、安防巡检机器 人进行产品布局，聚力打造具有核心竞争力的创新 型公司、细分领域的头部企业。",
+        "labels": [
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "餐补",
+            "零食下午茶",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220705/7bf6f160950405e91839f42172ff7972b272ade29fc1135f604be49e86274b08be45689a283e1c25.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京栖霞区紫东国际创意园c17",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "f50c547b997d5d1a3nZ909-9FVM~",
+        "encryptId": "1256751fe47405c403Z-2dW4ElZW",
+        "encryptUserId": "a2f70560f5f9c0771XN63Ni6GFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "远程运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.079161,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.912737,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/960b4177b915c75f4fb32a2ca743a51d",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容:\n1、通过远程运维平台，监控机器人的运行状态，确保机器人处于正常运行状态；\n2、通过远程运维平台，远程恢复机器人异常状态，记录问题发生时的故障信息，通过内部平台将问题反馈给研发；\n3、接听用户、代理商技术支持电话，协助客户解决机器人遇到的问题；\n4、记录远程诊断的故障信息，对于无法远程解决的故障，指派工单，并为现场工程师提供信息输入；\n任职要求:\n1、大专以上学历，理工科专业，对机器人行业感兴趣。\n2、熟悉机器人软硬件知识，具有现场问题解决的能力，熟悉自动清洁机器人现场部署流程优先。\n3、吃苦耐劳，抗压，学习能力和沟通能力强。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "网络运维",
+            "实施交付运维",
+            "系统运维",
+            "计算机相关专业",
+            "电子/电气/自动化相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb6b1bd4a44f87e45850e21eab069a3e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "XG8S51aD6kc7i-v13oL-2rOXJs_Rj_5zyW2GZooAiL0gztMzXNP437RjF0CWRedO-0OOqCpkHunpGRysCckLMBhrQrnyRDkfE7EzbSO0SZ_oNhf6MwrqGAcBc_s9hBhPd5wdcM0f2LlMiP8d8loY2vXItu5LxERG0HtthtA-LA6FJVEb80IKZLGTZUS9S1zoTxRBYmINfF6cojhgGZen-NGi",
+    "selfAccess": false,
+    "sessionId": null
 }

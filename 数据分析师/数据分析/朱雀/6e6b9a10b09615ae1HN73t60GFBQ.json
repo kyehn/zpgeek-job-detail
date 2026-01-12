@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zMZJAxzq49OXq-u1GJWyz7EBOqn7wALJcBe61VjQ_-fh5ModX94H6rGZPz7ClDT6Z8Tdo0QWRFVNVJmqi8UtRsI-7XE2am1sWHtfxN7T8nmF--Uu-dcj04vY-j-5xEIdVmSd8XDfLvtZzFg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6e6b9a10b09615ae1HN73t60GFBQ",
-      "encryptUserId": "875733c3a40cb0ec0XZ42NW8GVNX",
-      "invalidStatus": false,
-      "jobName": "数据分析",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101310100,
-      "locationName": "海口",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.运营数据治理平台系统的日常性工作\n2.譬如录入设计好的数据\n3.收集整理提交的数据需求、数据目录信息\n4.指定简单的数据标准\n5.分析简单的数据出错原因并尝试给出解决方案\n6.组织会议、会议纪要、文档改写\n7.工作资料查询\n8.项目经理安排的其他事项\n\n岗位要求：\n1.本科毕业2年以上，计算机相关专业或取得计算机等级考试证书\n2.文档编写能力，熟练word/excel，具备一定的语言组织和沟通能力\n3.快速学习能力，快速学习使用新计算机系统\n4.快速检索能力，查询快速到需要的相关资料",
-      "encryptAddressId": "27279004385c765b1nR82N24EFtSwou9U_mW",
-      "address": "海口龙华区海口保税区(南海大道)39",
-      "longitude": 110.308607,
-      "latitude": 19.986199,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bff25332a8f05612bc7e2923e48bd43bf86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf3e68f7cf2e192ffb91299a1916b1c25c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "朱雀",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5461b9b04214fbc51nZ_3ti0EVY~",
-      "brandName": "朱雀",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726824301671,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "朱雀",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "朱雀",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1726824301671,
+        "brandName": "朱雀",
+        "customerBrandName": "朱雀",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5461b9b04214fbc51nZ_3ti0EVY~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "海口龙华区海口保税区(南海大道)39",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "27279004385c765b1nR82N24EFtSwou9U_mW",
+        "encryptId": "6e6b9a10b09615ae1HN73t60GFBQ",
+        "encryptUserId": "875733c3a40cb0ec0XZ42NW8GVNX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据分析",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 19.986199,
+        "location": 101310100,
+        "locationName": "海口",
+        "longitude": 110.308607,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf3e68f7cf2e192ffb91299a1916b1c25c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "岗位职责：\n1.运营数据治理平台系统的日常性工作\n2.譬如录入设计好的数据\n3.收集整理提交的数据需求、数据目录信息\n4.指定简单的数据标准\n5.分析简单的数据出错原因并尝试给出解决方案\n6.组织会议、会议纪要、文档改写\n7.工作资料查询\n8.项目经理安排的其他事项\n\n岗位要求：\n1.本科毕业2年以上，计算机相关专业或取得计算机等级考试证书\n2.文档编写能力，熟练word/excel，具备一定的语言组织和沟通能力\n3.快速学习能力，快速学习使用新计算机系统\n4.快速检索能力，查询快速到需要的相关资料",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-9K",
+        "showSkills": [
+            "计算机相关专业",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bff25332a8f05612bc7e2923e48bd43bf86bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zMZJAxzq49OXq-u1GJWyz7EBOqn7wALJcBe61VjQ_-fh5ModX94H6rGZPz7ClDT6Z8Tdo0QWRFVNVJmqi8UtRsI-7XE2am1sWHtfxN7T8nmF--Uu-dcj04vY-j-5xEIdVmSd8XDfLvtZzFg~",
+    "selfAccess": false,
+    "sessionId": null
 }

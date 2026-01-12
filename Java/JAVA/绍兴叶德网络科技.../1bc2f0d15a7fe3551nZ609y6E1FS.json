@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iB7LQmLhlysgx-y1M7JperLQoZZCytduogFE_mIZA35YCsG4jeoBIBKk27AbFiNRX9eY0grvrH3L3ixZBCZSCuR81xrmrNzY9ctQVJfAcrfVf_73xHBr",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1bc2f0d15a7fe3551nZ609y6E1FS",
-      "encryptUserId": "53a9657742cacf500nV-39y6EVNX",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210500,
-      "locationName": "绍兴",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "负责一下公司的api对接维护",
-      "encryptAddressId": "964279afca670aaf1H1y2dq0GVQ~",
-      "address": "绍兴越城区绍兴袍江开发区17栋304",
-      "longitude": 120.60229,
-      "latitude": 30.089011,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2d03a6368daa894fb84da5ba99a9b40",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51ef31873f5ce6b831ba519208ca28a6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "技术",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210125/565ea84ff4a99e163f0cbdb48fe68e473e9526b7823e5c8f224c5bb40bc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "绍兴叶德网络科技...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "40c08bc6df92a4821nd93dq5E1s~",
-      "brandName": "绍兴叶德网络科技...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722928356114,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绍兴叶德网络科技...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绍兴叶德网络科技...",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210125/565ea84ff4a99e163f0cbdb48fe68e473e9526b7823e5c8f224c5bb40bc_b.jpg",
+        "title": "技术"
+    },
+    "brandComInfo": {
+        "activeTime": 1722928356114,
+        "brandName": "绍兴叶德网络科技...",
+        "customerBrandName": "绍兴叶德网络科技...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "40c08bc6df92a4821nd93dq5E1s~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "绍兴越城区绍兴袍江开发区17栋304",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "964279afca670aaf1H1y2dq0GVQ~",
+        "encryptId": "1bc2f0d15a7fe3551nZ609y6E1FS",
+        "encryptUserId": "53a9657742cacf500nV-39y6EVNX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.089011,
+        "location": 101210500,
+        "locationName": "绍兴",
+        "longitude": 120.60229,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51ef31873f5ce6b831ba519208ca28a6",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "负责一下公司的api对接维护",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2d03a6368daa894fb84da5ba99a9b40"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iB7LQmLhlysgx-y1M7JperLQoZZCytduogFE_mIZA35YCsG4jeoBIBKk27AbFiNRX9eY0grvrH3L3ixZBCZSCuR81xrmrNzY9ctQVJfAcrfVf_73xHBr",
+    "selfAccess": false,
+    "sessionId": null
 }

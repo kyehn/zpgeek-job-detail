@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0m9lqLPpBktCz-R1ivvIYIlIftibAso5GPYfj3abHQ_vKfvSPQxlZljw3wNZCYWIBx00_JuRsvITpczKNL9A-50AxSkck12ekA7PvrAdL5z7l5ErYt4B",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fef1b1a41b15522d1nR62Nu1GVNQ",
-      "encryptUserId": "ecd4e16f346371480nR73dq-FlZQ",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "参与JAVA/J2EE技术的相关产品设计、开发、测试等产品研发工作",
-      "encryptAddressId": "ea388efd5a30c9a91HF42ti8E1Q~",
-      "address": "深圳龙华区深圳中核龙华工业园201",
-      "longitude": 113.997581,
-      "latitude": 22.673175,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9277dff7fc8f6ab8a4610afd252abbe6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f77300654f8ad3fa29f5611d7856a55",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "流媒体技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200917/b45a704665d8327ee36ed2de4db03cfe107f7f0f4886e8c4be4f664d8b3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "天天飞",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e6c5a544f4672bf61nVz29q0GVY~",
-      "brandName": "天天飞",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725333096255,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "天天飞",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "天天飞",
+        "certificated": true,
+        "large": null,
+        "name": "孙先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200917/b45a704665d8327ee36ed2de4db03cfe107f7f0f4886e8c4be4f664d8b3_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725333096255,
+        "brandName": "天天飞",
+        "customerBrandName": "天天飞",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e6c5a544f4672bf61nVz29q0GVY~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙华区深圳中核龙华工业园201",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ea388efd5a30c9a91HF42ti8E1Q~",
+        "encryptId": "fef1b1a41b15522d1nR62Nu1GVNQ",
+        "encryptUserId": "ecd4e16f346371480nR73dq-FlZQ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.673175,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.997581,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f77300654f8ad3fa29f5611d7856a55",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "参与JAVA/J2EE技术的相关产品设计、开发、测试等产品研发工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "Java",
+            "流媒体技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9277dff7fc8f6ab8a4610afd252abbe6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0m9lqLPpBktCz-R1ivvIYIlIftibAso5GPYfj3abHQ_vKfvSPQxlZljw3wNZCYWIBx00_JuRsvITpczKNL9A-50AxSkck12ekA7PvrAdL5z7l5ErYt4B",
+    "selfAccess": false,
+    "sessionId": null
 }

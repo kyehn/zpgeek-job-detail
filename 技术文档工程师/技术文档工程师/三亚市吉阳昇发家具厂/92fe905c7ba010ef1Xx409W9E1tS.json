@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9GWAMe1P2r7D7-91LvV0R6CZeOffXkiDkVJTZ0xHWkr2UvpQS-UTKka4o1YkgR8V-uAolH2w9BACu_WUyy3VBViT3OzDnXucunccrEFDtXlqdnLswOV8KgL1XkA_IRlNomVS9B9Gb3mnD98~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "92fe905c7ba010ef1Xx409W9E1tS",
-      "encryptUserId": "0c74378c2fcb5bda0n1829-4E1VR",
-      "invalidStatus": false,
-      "jobName": "技术文档工程师",
-      "position": 100410,
-      "positionName": "技术文档工程师",
-      "location": 101310200,
-      "locationName": "三亚",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "办公室画图设计拆单  效果图",
-      "encryptAddressId": "103530ea7ba31fb033153dy9EFY~",
-      "address": "三亚吉阳区三亚空管站宿舍楼119",
-      "longitude": 109.510822,
-      "latitude": 18.312865,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa38bf9e08d2d2483ff3b65bfd30c959",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb2573873257e9494efa8971c531d6c1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "懂得画图就行"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230504/607f1f3d68754fd01629c2faf050752d14723d1e60cd5e19c77c87b9e5c0460d36274a94b5a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "三亚市吉阳昇发家具厂",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a025eff2220d60a61XN72d60GFc~",
-      "brandName": "三亚市吉阳昇发家具厂",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725446971313,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "三亚市吉阳昇发家具厂",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "三亚市吉阳昇发家具厂",
+        "certificated": true,
+        "large": null,
+        "name": "胡先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230504/607f1f3d68754fd01629c2faf050752d14723d1e60cd5e19c77c87b9e5c0460d36274a94b5a_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725446971313,
+        "brandName": "三亚市吉阳昇发家具厂",
+        "customerBrandName": "三亚市吉阳昇发家具厂",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a025eff2220d60a61XN72d60GFc~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "三亚吉阳区三亚空管站宿舍楼119",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "103530ea7ba31fb033153dy9EFY~",
+        "encryptId": "92fe905c7ba010ef1Xx409W9E1tS",
+        "encryptUserId": "0c74378c2fcb5bda0n1829-4E1VR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "技术文档工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 18.312865,
+        "location": 101310200,
+        "locationName": "三亚",
+        "longitude": 109.510822,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb2573873257e9494efa8971c531d6c1",
+        "position": 100410,
+        "positionName": "技术文档工程师",
+        "postDescription": "办公室画图设计拆单  效果图",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "懂得画图就行"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa38bf9e08d2d2483ff3b65bfd30c959"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9GWAMe1P2r7D7-91LvV0R6CZeOffXkiDkVJTZ0xHWkr2UvpQS-UTKka4o1YkgR8V-uAolH2w9BACu_WUyy3VBViT3OzDnXucunccrEFDtXlqdnLswOV8KgL1XkA_IRlNomVS9B9Gb3mnD98~",
+    "selfAccess": false,
+    "sessionId": null
 }

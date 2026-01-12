@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "-7-nSeZG6PycE-l1-HPg7-dmIamybG25kEDkRjg9qEt5KAlT-m6mrEUodZ2eTvhxsDKwQyhWcp1PVngjvIM9AuQeHIUCFl2aumCRweZ8oNZy9-F377FNPF6ErW2wnzfS06o6qVjv8UcJJTA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ba226461afeb85881H1y29u_ElVY",
-      "encryptUserId": "d9265bf32ec14c380nV73ti8GFNS",
-      "invalidStatus": false,
-      "jobName": "AI服务器测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: \n1:负责公司产品故障处理，问题追踪，以及服务技术方案执行等工作内容.\n2:解决常见问题，收集整理客户的反馈信息.\n3:负责GPU服务器及相关配件测试\n任职要求: \n1:了解windows或者Linux故障排查经验.\n2:计算机相关专业.\n3:有PC，GPU服务器，工作站，等行业工作经验优先考虑.\n4:有较好的表达及自我学习能力.\n5:可配合出差.\n6：30岁及以下",
-      "encryptAddressId": "458bee22873566021nB92d--FFtTy4y4U_qe",
-      "address": "深圳福田区飞扬时代大厦29",
-      "longitude": 114.089675,
-      "latitude": 22.539316,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230420/48ba41acc9cef1bf4e4fd642e579805dbc7c28c4d7d677ca6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfa354c86f70e64c1d0e54888124a4f6f26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "区域经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210307/662fa609cad9b813c804e08d5edd0f279079ba5cb00aca2db087db2ff84_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "深海瑞派",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c5cf5fc831c4e2f91HN82dq1GVI~",
-      "brandName": "深海瑞派",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731253325437,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深海瑞派",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深海瑞派",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210307/662fa609cad9b813c804e08d5edd0f279079ba5cb00aca2db087db2ff84_b.jpg",
+        "title": "区域经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731253325437,
+        "brandName": "深海瑞派",
+        "customerBrandName": "深海瑞派",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c5cf5fc831c4e2f91HN82dq1GVI~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳福田区飞扬时代大厦29",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "458bee22873566021nB92d--FFtTy4y4U_qe",
+        "encryptId": "ba226461afeb85881H1y29u_ElVY",
+        "encryptUserId": "d9265bf32ec14c380nV73ti8GFNS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "AI服务器测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.539316,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.089675,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfa354c86f70e64c1d0e54888124a4f6f26bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责: \n1:负责公司产品故障处理，问题追踪，以及服务技术方案执行等工作内容.\n2:解决常见问题，收集整理客户的反馈信息.\n3:负责GPU服务器及相关配件测试\n任职要求: \n1:了解windows或者Linux故障排查经验.\n2:计算机相关专业.\n3:有PC，GPU服务器，工作站，等行业工作经验优先考虑.\n4:有较好的表达及自我学习能力.\n5:可配合出差.\n6：30岁及以下",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "性能测试",
+            "功能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230420/48ba41acc9cef1bf4e4fd642e579805dbc7c28c4d7d677ca6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "-7-nSeZG6PycE-l1-HPg7-dmIamybG25kEDkRjg9qEt5KAlT-m6mrEUodZ2eTvhxsDKwQyhWcp1PVngjvIM9AuQeHIUCFl2aumCRweZ8oNZy9-F377FNPF6ErW2wnzfS06o6qVjv8UcJJTA~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1qUF8Nhzyqocy-L1f42CbByTsyjhRzYI6hWU7f_D_1TCW-stzIAa_cWOkUix_TVaezzR2IS9m3UIWnFtMOidD6pLOCBgI_jtXsRzri2_FvBPFftG-O0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9538b75fd068b1be1HV63dy4EVVU",
-      "encryptUserId": "90c10e7609d53e081nV-2di9ElJX",
-      "invalidStatus": false,
-      "jobName": "IT技术支持",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "打印机/复印机新机安装，维修",
-      "encryptAddressId": "73e92b1328ad9d0933V9296-FFI~",
-      "address": "长沙芙蓉区国储电脑城国储二楼79号",
-      "longitude": 113.010542,
-      "latitude": 28.191762,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bde287b625645394df1bde25aeb174c6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a7f08c942e19ffbdfe4a5e5daa38bb9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "企业内部IT技术支持",
-        "售前/售后技术支持"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "林女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "长远办公耗材有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5c679489b9d3ee4133192dq_EQ~~",
-      "brandName": "长远办公耗材有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725327886195,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "长远办公耗材有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "长远办公耗材有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "林女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725327886195,
+        "brandName": "长远办公耗材有限公司",
+        "customerBrandName": "长远办公耗材有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5c679489b9d3ee4133192dq_EQ~~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙芙蓉区国储电脑城国储二楼79号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "73e92b1328ad9d0933V9296-FFI~",
+        "encryptId": "9538b75fd068b1be1HV63dy4EVVU",
+        "encryptUserId": "90c10e7609d53e081nV-2di9ElJX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "IT技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.191762,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.010542,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a7f08c942e19ffbdfe4a5e5daa38bb9",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "打印机/复印机新机安装，维修",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "企业内部IT技术支持",
+            "售前/售后技术支持"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bde287b625645394df1bde25aeb174c6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1qUF8Nhzyqocy-L1f42CbByTsyjhRzYI6hWU7f_D_1TCW-stzIAa_cWOkUix_TVaezzR2IS9m3UIWnFtMOidD6pLOCBgI_jtXsRzri2_FvBPFftG-O0~",
+    "selfAccess": false,
+    "sessionId": null
 }

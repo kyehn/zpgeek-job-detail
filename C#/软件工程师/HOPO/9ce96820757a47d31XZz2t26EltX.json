@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SN39uvvUvr1DT-S1eIJ7kgZ9cSoH8hqLXm6L9orCglRRAGR4OeQ6GMJZnDKvcc9fSjDieFgskaTW_uGB-i_xs-AuK-Zcsg1vmon8Ahmjn_Z98kJO_uM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9ce96820757a47d31XZz2t26EltX",
-      "encryptUserId": "547cf38912f6adfc03Rz2dW_FFc~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100106,
-      "positionName": "C#",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-15K",
-      "payTypeDesc": null,
-      "postDescription": "负责机器视觉上位机软件开发，优化，维护。\n负责项目需求分析，选项设计。",
-      "encryptAddressId": "93d8f1ab1e94b8ed0nVy3NW4FVU~",
-      "address": "苏州昆山市昆山市和博电子科技有限公司一栋二楼办公室",
-      "longitude": 120.938436,
-      "latitude": 31.437487,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ac5ff1915c09a492800808a8602863f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7bc6140a8a34b7687e5a0c64a20b750",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "谭先生",
-      "title": "视觉部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190810/894f01d586c874831c3d4fe1d29959b5ccf0edf5592bc117a9d3bf3daa5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "HOPO",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d8186724d38f76771nJ629S-GVE~",
-      "brandName": "HOPO",
-      "logo": "https://c-res.zhipin.com/jrs/1_593f39663459f8b2147f8c119d201dd8.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "昆山市和博电子科技有限公司创建于 年，专注于研发生产被动元件设备，半 导体设备，以及生产高精密零件和耗材，产品 技术深受海内外客户欢迎。HOPO 目前拥有1 个软件研发中心，位于昆山；另外有东莞分 公司、安徽分公司、马来西亚分公司、台湾分 公司，苏 州进德电子以及苏州和莱美精密机 械有限公司。",
-      "labels": [
-        "五险一金",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "包吃",
-        "法定节假日三薪",
-        "节假日加班费"
-      ],
-      "activeTime": 1730177384740,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "HOPO",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "HOPO",
+        "certificated": true,
+        "large": null,
+        "name": "谭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190810/894f01d586c874831c3d4fe1d29959b5ccf0edf5592bc117a9d3bf3daa5_b.jpg",
+        "title": "视觉部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730177384740,
+        "brandName": "HOPO",
+        "customerBrandName": "HOPO",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d8186724d38f76771nJ629S-GVE~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "昆山市和博电子科技有限公司创建于 年，专注于研发生产被动元件设备，半 导体设备，以及生产高精密零件和耗材，产品 技术深受海内外客户欢迎。HOPO 目前拥有1 个软件研发中心，位于昆山；另外有东莞分 公司、安徽分公司、马来西亚分公司、台湾分 公司，苏 州进德电子以及苏州和莱美精密机 械有限公司。",
+        "labels": [
+            "五险一金",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "包吃",
+            "法定节假日三薪",
+            "节假日加班费"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/1_593f39663459f8b2147f8c119d201dd8.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市昆山市和博电子科技有限公司一栋二楼办公室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "93d8f1ab1e94b8ed0nVy3NW4FVU~",
+        "encryptId": "9ce96820757a47d31XZz2t26EltX",
+        "encryptUserId": "547cf38912f6adfc03Rz2dW_FFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.437487,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.938436,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7bc6140a8a34b7687e5a0c64a20b750",
+        "position": 100106,
+        "positionName": "C#",
+        "postDescription": "负责机器视觉上位机软件开发，优化，维护。\n负责项目需求分析，选项设计。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-15K",
+        "showSkills": [
+            "软件工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ac5ff1915c09a492800808a8602863f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SN39uvvUvr1DT-S1eIJ7kgZ9cSoH8hqLXm6L9orCglRRAGR4OeQ6GMJZnDKvcc9fSjDieFgskaTW_uGB-i_xs-AuK-Zcsg1vmon8Ahmjn_Z98kJO_uM~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ecr1axWOOe44d-b1M-HFC1o-KBP6wv6mXz7vrJYNK0PCD3GmMEYpuQZrn30Z123Y8a08W2EGBDizdds6BhusbT4jIxXQgyvO-P8zfKMBi_4F5yqTsYhSW95SZG8BSDT9iZ6Sx8MNzzmWDg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ad6e1c717fbd50ba1HN-3d69FVpU",
-      "encryptUserId": "34fedc0ac35451830nJ90ty8EVZQ",
-      "invalidStatus": false,
-      "jobName": "现场技术负责人",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "弱电施工，维护，主要是机房，指挥中心，网络，视频会商，扩音系统，对讲系统，工作地点上海，白天不看，晚上统一回复，可以电话，微信",
-      "encryptAddressId": "aa36480484303a681nV60ti_FltVyoq5UPuc",
-      "address": "上海闵行区莲花路425弄30号一楼",
-      "longitude": 121.399395,
-      "latitude": 31.142505,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5fb824e3055dd215f20be133083886456bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfad3f6fafa593299b14c99e753ed7a8566bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "管理相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "魏先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221114/607f1f3d68754fd065bc45a65d182d17d0667fba4187777c719f626d90ec7878909e2c99973_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "榆泓电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "29892121624ad8150XN-0tm-Fg~~",
-      "brandName": "榆泓电子",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "公司成立于2013年\n\n办公地址在*上海市\n\n主要经营*电子产品\n\n发展至今已取得*成绩",
-      "labels": [
-        "交通补助",
-        "餐补",
-        "保底工资",
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1725524149668,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "榆泓电子",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "榆泓电子",
+        "certificated": true,
+        "large": null,
+        "name": "魏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221114/607f1f3d68754fd065bc45a65d182d17d0667fba4187777c719f626d90ec7878909e2c99973_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725524149668,
+        "brandName": "榆泓电子",
+        "customerBrandName": "榆泓电子",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "29892121624ad8150XN-0tm-Fg~~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "公司成立于2013年\n\n办公地址在*上海市\n\n主要经营*电子产品\n\n发展至今已取得*成绩",
+        "labels": [
+            "交通补助",
+            "餐补",
+            "保底工资",
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海闵行区莲花路425弄30号一楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "aa36480484303a681nV60ti_FltVyoq5UPuc",
+        "encryptId": "ad6e1c717fbd50ba1HN-3d69FVpU",
+        "encryptUserId": "34fedc0ac35451830nJ90ty8EVZQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "现场技术负责人",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.142505,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.399395,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfad3f6fafa593299b14c99e753ed7a8566bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "弱电施工，维护，主要是机房，指挥中心，网络，视频会商，扩音系统，对讲系统，工作地点上海，白天不看，晚上统一回复，可以电话，微信",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "管理相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5fb824e3055dd215f20be133083886456bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ecr1axWOOe44d-b1M-HFC1o-KBP6wv6mXz7vrJYNK0PCD3GmMEYpuQZrn30Z123Y8a08W2EGBDizdds6BhusbT4jIxXQgyvO-P8zfKMBi_4F5yqTsYhSW95SZG8BSDT9iZ6Sx8MNzzmWDg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

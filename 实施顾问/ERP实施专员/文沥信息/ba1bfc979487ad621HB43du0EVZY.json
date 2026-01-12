@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "nP6VJMahAM3uA-J1CRWBKGGgc4ibwEXRFBayDyHGgYPMs3sdLB3j6qiEcDzA5za2TyrzPrUg2xbBF4t3ldgRFnrTFnHnzbkS5BHgyc0H8lrPQrDIeYsNevspx5kbPRCN1FCkupQQd79sPr6cYWVfHpKPNh1cZ6Tmm_PNey0hjGyF7Ss~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ba1bfc979487ad621HB43du0EVZY",
-      "encryptUserId": "aa34371c64168b1e1XV43dy4FVU~",
-      "invalidStatus": false,
-      "jobName": "erp实施专员",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n\n1. 计算机或财务类相关专业专科或以上学历； \n3. 良好的客户沟通能力、计划执行能力及突发情况的应变能力； \n4. 积极的工作态度和高度的敬业精神，能承受较大的工作压力。 \n\n业务要求 \n\n1. 具有2年以上ERP进销存模块、功能相关实施或维护管理经验；\n2. 具有对客户需求沟通、梳理、方案制作的经验；\n3. 具有软件项目管理的经验优先； \n\n技术要求 \n\n1. 熟练掌握计算机操作系统及办公等日常软件操作； \n2. 具备基本的局域网及互联网的网络知识； \n3. 具备常用数据库（如Oracle、MS SQL等）的基本操作能力；",
-      "encryptAddressId": "34506a22217e99bd03Jy2dS-FVQ~",
-      "address": "合肥蜀山区立基大厦A座金寨路91号12层1201-1207",
-      "longitude": 117.265274,
-      "latitude": 31.837436,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/983f75ea584fc312b72de7ab97a7cbac",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e4e72eb85fb5da00c7d791dca161d6f4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "ERP",
-        "熟练掌握SQL语句",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd045cd0d6e4ed2f6108dd3dcc7a3918ab119294a9205a3595f9939ba44774_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "文沥信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "beff7df52a6e83dd1XJ_39u9",
-      "brandName": "文沥信息",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230506/7bf6f160950405e968db51422e335078a6861a70676a296019294a9205a3595f9939ba447740f730.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "上海文沥信息技术有限公司（WelinkData，京东科技投资企业）是专业的产业互联科技服务商、平台级系统建设者和运营商。 从消费品到大宗交易，文沥提供企业级B2B交易、支付、供应链金融等全面的产业链数字化升级解决方案，帮助企业建立线下渠道数字化网络、降低大宗供应链交易风险、升级B2B支付结算体系、连接供应链与金融、推动数字化新型实体经济发展。\n\n文沥是高新技术企业、上海市明星软件企业、中国中小企业协会副会长单位，公司通过了CMMI软件能力成熟度模型III级和ISO9001认证。\n\n文沥总部设在中国上海，在合肥设有技术中心，北京、广州、青岛设有分支机构。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
-        "节日福利",
-        "出差补贴"
-      ],
-      "activeTime": 1732267397334,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "文沥信息",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "文沥信息",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd045cd0d6e4ed2f6108dd3dcc7a3918ab119294a9205a3595f9939ba44774_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1732267397334,
+        "brandName": "文沥信息",
+        "customerBrandName": "文沥信息",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "beff7df52a6e83dd1XJ_39u9",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "上海文沥信息技术有限公司（WelinkData，京东科技投资企业）是专业的产业互联科技服务商、平台级系统建设者和运营商。 从消费品到大宗交易，文沥提供企业级B2B交易、支付、供应链金融等全面的产业链数字化升级解决方案，帮助企业建立线下渠道数字化网络、降低大宗供应链交易风险、升级B2B支付结算体系、连接供应链与金融、推动数字化新型实体经济发展。\n\n文沥是高新技术企业、上海市明星软件企业、中国中小企业协会副会长单位，公司通过了CMMI软件能力成熟度模型III级和ISO9001认证。\n\n文沥总部设在中国上海，在合肥设有技术中心，北京、广州、青岛设有分支机构。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "带薪年假",
+            "员工旅游",
+            "节日福利",
+            "出差补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230506/7bf6f160950405e968db51422e335078a6861a70676a296019294a9205a3595f9939ba447740f730.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥蜀山区立基大厦A座金寨路91号12层1201-1207",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "34506a22217e99bd03Jy2dS-FVQ~",
+        "encryptId": "ba1bfc979487ad621HB43du0EVZY",
+        "encryptUserId": "aa34371c64168b1e1XV43dy4FVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "erp实施专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.837436,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.265274,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e4e72eb85fb5da00c7d791dca161d6f4",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "职位描述：\n\n1. 计算机或财务类相关专业专科或以上学历； \n3. 良好的客户沟通能力、计划执行能力及突发情况的应变能力； \n4. 积极的工作态度和高度的敬业精神，能承受较大的工作压力。 \n\n业务要求 \n\n1. 具有2年以上ERP进销存模块、功能相关实施或维护管理经验；\n2. 具有对客户需求沟通、梳理、方案制作的经验；\n3. 具有软件项目管理的经验优先； \n\n技术要求 \n\n1. 熟练掌握计算机操作系统及办公等日常软件操作； \n2. 具备基本的局域网及互联网的网络知识； \n3. 具备常用数据库（如Oracle、MS SQL等）的基本操作能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "软件实施经验",
+            "ERP",
+            "熟练掌握SQL语句",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/983f75ea584fc312b72de7ab97a7cbac"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "nP6VJMahAM3uA-J1CRWBKGGgc4ibwEXRFBayDyHGgYPMs3sdLB3j6qiEcDzA5za2TyrzPrUg2xbBF4t3ldgRFnrTFnHnzbkS5BHgyc0H8lrPQrDIeYsNevspx5kbPRCN1FCkupQQd79sPr6cYWVfHpKPNh1cZ6Tmm_PNey0hjGyF7Ss~",
+    "selfAccess": false,
+    "sessionId": null
 }

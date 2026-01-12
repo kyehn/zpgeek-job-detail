@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "LbHjPvRLj3ra_-x1N-Nq75Ck3Lrr9ThxaNfsxk0lak1oRzgib5MjkQKWXfhSPAcAkAKYbVAIb9iLYxzsoEQ5V5eeb-lsKQGSwaPYtiGAeMxbCdceg_19E8qIVupJQ5s8CsM_InP0m-ZyAxsyEb0ayBWkZB4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4bab9d95907f89fe03R92du4ElJT",
-      "encryptUserId": "cc7e06d4918d98120HB40961EA~~",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "统招本科学历 计算机相关专业 2年以上相关工作经验 能接受出差   有鸿蒙经验者优先",
-      "encryptAddressId": "6282893e2744d8e233x93dq9ElNYw4i6Uvs~",
-      "address": "西安长安区协同创新港研发中心雨果A座",
-      "longitude": 108.769455,
-      "latitude": 34.256439,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6a3e8c8e6b087957bf551d348f3e8d9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd8993e52aa5f559307382846a369f00",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "时女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180520/953283996b76832206d432811b1148eea8761b2a48dfcfff69545b4efe6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "鸿湖万联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e4f9c8dc65dbb7b91XN43d-0FlA~",
-      "brandName": "鸿湖万联",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230515/7bf6f160950405e9a55e110c5c43bfb620dde662a14388320a7f0b27c6aecd50bac7b1365ec9ce6f.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "鸿湖万联是软通动力信创战略的先锋军，立足无锡、辐射全国，专注于智能物联网操作系统研发和产业化服务，聚焦垂直行业领域，基于OpenHarmony进行技术研发和持续创新，为客户创造价值，服务使能千行百业，推动实现世界万物互联。",
-      "labels": [
-        "节日福利",
-        "免费班车",
-        "有无线网",
-        "团建聚餐",
-        "带薪年假",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1734620624628,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鸿湖万联",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鸿湖万联",
+        "certificated": true,
+        "large": null,
+        "name": "时女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180520/953283996b76832206d432811b1148eea8761b2a48dfcfff69545b4efe6_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734620624628,
+        "brandName": "鸿湖万联",
+        "customerBrandName": "鸿湖万联",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "e4f9c8dc65dbb7b91XN43d-0FlA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "鸿湖万联是软通动力信创战略的先锋军，立足无锡、辐射全国，专注于智能物联网操作系统研发和产业化服务，聚焦垂直行业领域，基于OpenHarmony进行技术研发和持续创新，为客户创造价值，服务使能千行百业，推动实现世界万物互联。",
+        "labels": [
+            "节日福利",
+            "免费班车",
+            "有无线网",
+            "团建聚餐",
+            "带薪年假",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230515/7bf6f160950405e9a55e110c5c43bfb620dde662a14388320a7f0b27c6aecd50bac7b1365ec9ce6f.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安长安区协同创新港研发中心雨果A座",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "6282893e2744d8e233x93dq9ElNYw4i6Uvs~",
+        "encryptId": "4bab9d95907f89fe03R92du4ElJT",
+        "encryptUserId": "cc7e06d4918d98120HB40961EA~~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 34.256439,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.769455,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd8993e52aa5f559307382846a369f00",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "统招本科学历 计算机相关专业 2年以上相关工作经验 能接受出差   有鸿蒙经验者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "自动化测试",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6a3e8c8e6b087957bf551d348f3e8d9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "LbHjPvRLj3ra_-x1N-Nq75Ck3Lrr9ThxaNfsxk0lak1oRzgib5MjkQKWXfhSPAcAkAKYbVAIb9iLYxzsoEQ5V5eeb-lsKQGSwaPYtiGAeMxbCdceg_19E8qIVupJQ5s8CsM_InP0m-ZyAxsyEb0ayBWkZB4~",
+    "selfAccess": false,
+    "sessionId": null
 }

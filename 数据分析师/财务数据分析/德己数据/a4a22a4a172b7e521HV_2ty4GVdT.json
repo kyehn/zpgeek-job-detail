@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "yDA1NzK5gv_LZ-G1k6_e5fdrTZ3xswjHwEmjq0FwmWHlfn9y5NvFnf8OdEqni55yQKuZzAqdyoh-_rdT9GGqUXxNIUOsc6WYsk5pbb2lBUjGr5shi9c~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a4a22a4a172b7e521HV_2ty4GVdT",
-      "encryptUserId": "da39a6f66eeeb7b80nx839y1EVo~",
-      "invalidStatus": false,
-      "jobName": "财务数据分析",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101230100,
-      "locationName": "福州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、有证券银行方面的财务经验\n2、能独立完成数据测试\n3、编写开发文档，测试文档\n4、熟练使用办公软件\n5、了解数据库，会编写简单的sql",
-      "encryptAddressId": "4d5bf4612133cd450HJz3dS7EVo~",
-      "address": "福州鼓楼区兴业证券大厦17",
-      "longitude": 119.310171,
-      "latitude": 26.094471,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4d915851eb42521a68631e8b931ee1d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c0970e8a5f8aa66ed2ef0e70a723816e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "金融行业数据相关经验",
-        "数据分析/挖掘经验",
-        "计算机相关专业",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "德己数据",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6ef84c7cfbe290831n162967Els~",
-      "brandName": "德己数据",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1725535298645,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "德己数据",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "德己数据",
+        "certificated": true,
+        "large": null,
+        "name": "许先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725535298645,
+        "brandName": "德己数据",
+        "customerBrandName": "德己数据",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6ef84c7cfbe290831n162967Els~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "福州鼓楼区兴业证券大厦17",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4d5bf4612133cd450HJz3dS7EVo~",
+        "encryptId": "a4a22a4a172b7e521HV_2ty4GVdT",
+        "encryptUserId": "da39a6f66eeeb7b80nx839y1EVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "财务数据分析",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 26.094471,
+        "location": 101230100,
+        "locationName": "福州",
+        "longitude": 119.310171,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c0970e8a5f8aa66ed2ef0e70a723816e",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "1、有证券银行方面的财务经验\n2、能独立完成数据测试\n3、编写开发文档，测试文档\n4、熟练使用办公软件\n5、了解数据库，会编写简单的sql",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K·13薪",
+        "showSkills": [
+            "金融行业数据相关经验",
+            "数据分析/挖掘经验",
+            "计算机相关专业",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4d915851eb42521a68631e8b931ee1d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "yDA1NzK5gv_LZ-G1k6_e5fdrTZ3xswjHwEmjq0FwmWHlfn9y5NvFnf8OdEqni55yQKuZzAqdyoh-_rdT9GGqUXxNIUOsc6WYsk5pbb2lBUjGr5shi9c~",
+    "selfAccess": false,
+    "sessionId": null
 }

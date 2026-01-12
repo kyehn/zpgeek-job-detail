@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xI9sUdyQYayWX-V1B0TDGv6pV_EJL8EfuC37geEmKWFABJ8l8pMiknuH44PJ3Fvvy3lNiJ8FPl812GhY5VSdM4l1fA14rfBFIdm_gDAy3vNTCP0BAzV2bu_r17gDrZyBuq8I3suS3TlK8Ebpw4r8z2nzQOsZQg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "13295d1dd50b87c41HN83925E1tU",
-      "encryptUserId": "386222a521325d350n1-39u6FFFU",
-      "invalidStatus": false,
-      "jobName": "java开发师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉分布式微服务，springboot、mysql、mongoDB，有C端项目经验；",
-      "encryptAddressId": "ee11deda60c08a5d1nV50928E1BRxou9Vv2f",
-      "address": "杭州富阳区玉长城商业广场26",
-      "longitude": 119.941349,
-      "latitude": 30.060489,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfe14c0e3e810035ee354d6cfd27e33e206bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf06c7804242b505f8f59695f53cbe7df86bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "SpringCloud",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "梁女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230423/607f1f3d68754fd04af07bfe1899cf8f20acab885d581f5e251a8647fb292ed103b3f3e6900_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "印象网络",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "029b952b52776c951nB_0tm4FFY~",
-      "brandName": "印象网络",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210308/0802996a83379ded78738c8956c4f17297cd2ce5e62dd47e3693559db397672e.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "深圳市印象网络有限公司成立于2021年03月01日，注册地位于深圳市福田区沙头街道天安社区泰然四路29号天安创新科技广场一期A座801，法定代表人为胡兴。经营范围包括一般经营项目是：计算机软硬件的研发、销售、技术服务、上门维护；平面设计；从事广告业务；计算机系统技术服务；人工智能软硬件、手机软件、互联网设备的研发；信息化软件、局域网技术的技术维护及技术服务；桌面操作系统、软件的技术维护；企业管理咨询、信息咨询。（法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营），许可经营项目是：互联网信息服务",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1737111908214,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "印象网络",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "印象网络",
+        "certificated": true,
+        "large": null,
+        "name": "梁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230423/607f1f3d68754fd04af07bfe1899cf8f20acab885d581f5e251a8647fb292ed103b3f3e6900_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1737111908214,
+        "brandName": "印象网络",
+        "customerBrandName": "印象网络",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "029b952b52776c951nB_0tm4FFY~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "深圳市印象网络有限公司成立于2021年03月01日，注册地位于深圳市福田区沙头街道天安社区泰然四路29号天安创新科技广场一期A座801，法定代表人为胡兴。经营范围包括一般经营项目是：计算机软硬件的研发、销售、技术服务、上门维护；平面设计；从事广告业务；计算机系统技术服务；人工智能软硬件、手机软件、互联网设备的研发；信息化软件、局域网技术的技术维护及技术服务；桌面操作系统、软件的技术维护；企业管理咨询、信息咨询。（法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营），许可经营项目是：互联网信息服务",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210308/0802996a83379ded78738c8956c4f17297cd2ce5e62dd47e3693559db397672e.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州富阳区玉长城商业广场26",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "ee11deda60c08a5d1nV50928E1BRxou9Vv2f",
+        "encryptId": "13295d1dd50b87c41HN83925E1tU",
+        "encryptUserId": "386222a521325d350n1-39u6FFFU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java开发师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.060489,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.941349,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf06c7804242b505f8f59695f53cbe7df86bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "熟悉分布式微服务，springboot、mysql、mongoDB，有C端项目经验；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Java",
+            "SpringCloud",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfe14c0e3e810035ee354d6cfd27e33e206bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xI9sUdyQYayWX-V1B0TDGv6pV_EJL8EfuC37geEmKWFABJ8l8pMiknuH44PJ3Fvvy3lNiJ8FPl812GhY5VSdM4l1fA14rfBFIdm_gDAy3vNTCP0BAzV2bu_r17gDrZyBuq8I3suS3TlK8Ebpw4r8z2nzQOsZQg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

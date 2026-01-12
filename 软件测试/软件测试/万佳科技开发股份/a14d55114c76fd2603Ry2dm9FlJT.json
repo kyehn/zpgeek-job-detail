@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HnaeE2NG6xEu--51iQoNxPDz9JDRE-dFuMU97Ag5we7LX8UmJ4ZqYwAutrlvhfwkY1DXYzo6IuYTbdgGoqRUKahpNoOKNNIOAnt_asbW_dKMdfVJRQ2PQkzJ_GLC6Sr2nfrTPt3jXXPkLLk3FYIi-ceCReLW",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a14d55114c76fd2603Ry2dm9FlJT",
-      "encryptUserId": "970fe60e2330ee450nV-0t68F1JU",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190300,
-      "locationName": "镇江",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "职责描述：\n1.参与公司产品测试的全流程，包括：需求分析、设计评审、制定测试计划和用例、测试执行\n2.参与网页整体页面设计\n3.完成领导交代的其他任务\n\n任职要求：\n1.学历要求：大专及以上，专业不限\n2.技能要求：\n1）熟练掌握测试相关技能及方法，熟悉软件测试流程和规范，包括测试用例编写、测试执行、测试报告\n编写等，同时需了解postman等性能测试工具\n2）具备专业的设计能力，能够独立设计web端、手机端界面，对用户体验和交互设计有一定的经验和见\n解，并熟练使用Photoshop、Axure、Sketch等设计软件\n3.工作经验要求：具有1年以上测试相关工作经验，具有一定的文字编写能力\n4.素养要求：具备良好的沟通能力和团队合作精神，能独立思考并解决问题",
-      "encryptAddressId": "8f4daeed2c6ff0eb0HR409W-Fg~~",
-      "address": "镇江京口区众联智慧大厦众联智慧大厦三楼",
-      "longitude": 119.511679,
-      "latitude": 32.163451,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60406f6ea6c426fa299be5c47a9b4b00",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d702acf74f3416f3a4fd313391593cbf",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "iOS/Android测试经验",
-        "性能测试",
-        "压力测试",
-        "功能测试",
-        "Postman"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "万佳科技开发股份",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c38a65968ff5c3340Hd82dS-Fg~~",
-      "brandName": "万佳科技开发股份",
-      "logo": "https://c-res.zhipin.com/jrs/3_01a3a7a7f5997ba4020005dcdd9930eb.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "我们是一家致力于人工智能领域产品开发的新三板公司，专注于金融、工业智能制造、银行BPO、政府和电子商务等领域。作为一家公共公司，我们在不同行业领域拥有稳固的合作伙伴关系，致力于为客户提供高质量的人工智能解决方案。",
-      "labels": [
-        "餐补",
-        "带薪年假",
-        "全勤奖",
-        "加班补助",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1735020424162,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万佳科技开发股份",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万佳科技开发股份",
+        "certificated": true,
+        "large": null,
+        "name": "黄女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1735020424162,
+        "brandName": "万佳科技开发股份",
+        "customerBrandName": "万佳科技开发股份",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "c38a65968ff5c3340Hd82dS-Fg~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "我们是一家致力于人工智能领域产品开发的新三板公司，专注于金融、工业智能制造、银行BPO、政府和电子商务等领域。作为一家公共公司，我们在不同行业领域拥有稳固的合作伙伴关系，致力于为客户提供高质量的人工智能解决方案。",
+        "labels": [
+            "餐补",
+            "带薪年假",
+            "全勤奖",
+            "加班补助",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/3_01a3a7a7f5997ba4020005dcdd9930eb.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "镇江京口区众联智慧大厦众联智慧大厦三楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "8f4daeed2c6ff0eb0HR409W-Fg~~",
+        "encryptId": "a14d55114c76fd2603Ry2dm9FlJT",
+        "encryptUserId": "970fe60e2330ee450nV-0t68F1JU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.163451,
+        "location": 101190300,
+        "locationName": "镇江",
+        "longitude": 119.511679,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d702acf74f3416f3a4fd313391593cbf",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "职责描述：\n1.参与公司产品测试的全流程，包括：需求分析、设计评审、制定测试计划和用例、测试执行\n2.参与网页整体页面设计\n3.完成领导交代的其他任务\n\n任职要求：\n1.学历要求：大专及以上，专业不限\n2.技能要求：\n1）熟练掌握测试相关技能及方法，熟悉软件测试流程和规范，包括测试用例编写、测试执行、测试报告\n编写等，同时需了解postman等性能测试工具\n2）具备专业的设计能力，能够独立设计web端、手机端界面，对用户体验和交互设计有一定的经验和见\n解，并熟练使用Photoshop、Axure、Sketch等设计软件\n3.工作经验要求：具有1年以上测试相关工作经验，具有一定的文字编写能力\n4.素养要求：具备良好的沟通能力和团队合作精神，能独立思考并解决问题",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "测试工作经验",
+            "iOS/Android测试经验",
+            "性能测试",
+            "压力测试",
+            "功能测试",
+            "Postman"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60406f6ea6c426fa299be5c47a9b4b00"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HnaeE2NG6xEu--51iQoNxPDz9JDRE-dFuMU97Ag5we7LX8UmJ4ZqYwAutrlvhfwkY1DXYzo6IuYTbdgGoqRUKahpNoOKNNIOAnt_asbW_dKMdfVJRQ2PQkzJ_GLC6Sr2nfrTPt3jXXPkLLk3FYIi-ceCReLW",
+    "selfAccess": false,
+    "sessionId": null
 }

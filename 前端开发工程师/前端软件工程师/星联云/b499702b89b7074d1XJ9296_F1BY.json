@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "319dVlL7XqmIz-q1yhxk0uIjNhzi-HOMvr9KsYPoI6VG57SIt0SLp1gnyJYSNAd4j16WrwIsaaPyLaX2ml47xijxJxT6RaMVQq1WNTKeVWur2tsyj2gnFRCgDt3cT_f_huY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b499702b89b7074d1XJ9296_F1BY",
-      "encryptUserId": "9cb5ded1e703b1cd0nJ72d6-ElRZ",
-      "invalidStatus": false,
-      "jobName": "前端软件工程师",
-      "position": 100901,
-      "positionName": "前端开发工程师",
-      "location": 101070300,
-      "locationName": "鞍山",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉并会使用react\\nextjs；熟练掌握前端开发技术，如js、jquery等，熟练使用前端框架，如vue、react等；",
-      "encryptAddressId": "107e2ee8f7a5fedd0HV63NW_GVE~",
-      "address": "鞍山立山区红星云鞍山创新中心五号楼三楼",
-      "longitude": 123.101853,
-      "latitude": 41.127637,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cabf0fa7618cb7296d090ec04b51f57b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac06cf47ffdd48e5c8513bb4676664f8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ECharts",
-        "Vue",
-        "React",
-        "前端开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郑女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230704/607f1f3d68754fd083d8727c981f12f0b0e6a426397b07c34ba6aaeee89966bd0a726e34eddb0ca_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "星联云",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "093d6a09d77f68661XZz2Ny-ElI~",
-      "brandName": "星联云",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "生日福利",
-        "有无线网",
-        "全勤奖",
-        "法定节假日三薪",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1730392256681,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "星联云",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "星联云",
+        "certificated": true,
+        "large": null,
+        "name": "郑女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230704/607f1f3d68754fd083d8727c981f12f0b0e6a426397b07c34ba6aaeee89966bd0a726e34eddb0ca_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730392256681,
+        "brandName": "星联云",
+        "customerBrandName": "星联云",
+        "customerBrandStageName": "",
+        "encryptBrandId": "093d6a09d77f68661XZz2Ny-ElI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "生日福利",
+            "有无线网",
+            "全勤奖",
+            "法定节假日三薪",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "鞍山立山区红星云鞍山创新中心五号楼三楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "107e2ee8f7a5fedd0HV63NW_GVE~",
+        "encryptId": "b499702b89b7074d1XJ9296_F1BY",
+        "encryptUserId": "9cb5ded1e703b1cd0nJ72d6-ElRZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "前端软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 41.127637,
+        "location": 101070300,
+        "locationName": "鞍山",
+        "longitude": 123.101853,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac06cf47ffdd48e5c8513bb4676664f8",
+        "position": 100901,
+        "positionName": "前端开发工程师",
+        "postDescription": "熟悉并会使用react\\nextjs；熟练掌握前端开发技术，如js、jquery等，熟练使用前端框架，如vue、react等；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "ECharts",
+            "Vue",
+            "React",
+            "前端开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cabf0fa7618cb7296d090ec04b51f57b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "319dVlL7XqmIz-q1yhxk0uIjNhzi-HOMvr9KsYPoI6VG57SIt0SLp1gnyJYSNAd4j16WrwIsaaPyLaX2ml47xijxJxT6RaMVQq1WNTKeVWur2tsyj2gnFRCgDt3cT_f_huY~",
+    "selfAccess": false,
+    "sessionId": null
 }

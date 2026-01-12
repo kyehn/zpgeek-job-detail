@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QgeLsXjXC8bxX-L1GZmrzXS0wPEMZPQXSW8s4ogQd48Bq1cGps3ewRVXHshOZNU3IzDFX29RTnTvoA2vsV-ltkXvaxCGb1-8Que0Tek0QkrfIMJELtc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7c511e16e57592661n183924EFdX",
-      "encryptUserId": "f53df06b1a772c0e0Hx539W-GVI~",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101180300,
-      "locationName": "新乡",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.懂C程序开发（嵌入式）\n2.懂电路设计\n3.懂proteus/Multisim/AD仿真\n4.懂PCB画图",
-      "encryptAddressId": "d32112451a8c30e31H1829W7FVo~",
-      "address": "新乡红旗区河南臻墨海机电设备有限公司一排一号",
-      "longitude": 114.017836,
-      "latitude": 35.28932,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23a701efa5ee7826a6f2abe5d461dbe2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d020fc23d3358a0438dcc123c4a8451c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电路设计",
-        "PCB设计",
-        "嵌入式技术",
-        "AD",
-        "Multisim",
-        "嵌入式软件开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郜先生",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191012/aeac6189887038202d1445212c9abbcd3dac98fba558ee7f1cdd7621adb_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "臻墨海",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3899da47fba079901n193t20GFs~",
-      "brandName": "臻墨海",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100304,
-      "industryName": "学术/科研",
-      "introduce": "本公司为一家汽车职业教育公司，公司主要研制开发传统汽车、新能源汽车和智能网联汽车相关产品，辅佐职业院校提高教学水平，减轻教师生授课压力等。",
-      "labels": [
-        "五险一金",
-        "员工旅游",
-        "包吃",
-        "节日福利",
-        "有无线网",
-        "团建聚餐",
-        "意外险"
-      ],
-      "activeTime": 1725247961556,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "臻墨海",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "臻墨海",
+        "certificated": true,
+        "large": null,
+        "name": "郜先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191012/aeac6189887038202d1445212c9abbcd3dac98fba558ee7f1cdd7621adb_b.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1725247961556,
+        "brandName": "臻墨海",
+        "customerBrandName": "臻墨海",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "3899da47fba079901n193t20GFs~",
+        "focusBrand": false,
+        "industry": 100304,
+        "industryName": "学术/科研",
+        "introduce": "本公司为一家汽车职业教育公司，公司主要研制开发传统汽车、新能源汽车和智能网联汽车相关产品，辅佐职业院校提高教学水平，减轻教师生授课压力等。",
+        "labels": [
+            "五险一金",
+            "员工旅游",
+            "包吃",
+            "节日福利",
+            "有无线网",
+            "团建聚餐",
+            "意外险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "新乡红旗区河南臻墨海机电设备有限公司一排一号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "d32112451a8c30e31H1829W7FVo~",
+        "encryptId": "7c511e16e57592661n183924EFdX",
+        "encryptUserId": "f53df06b1a772c0e0Hx539W-GVI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.28932,
+        "location": 101180300,
+        "locationName": "新乡",
+        "longitude": 114.017836,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d020fc23d3358a0438dcc123c4a8451c",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1.懂C程序开发（嵌入式）\n2.懂电路设计\n3.懂proteus/Multisim/AD仿真\n4.懂PCB画图",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "电路设计",
+            "PCB设计",
+            "嵌入式技术",
+            "AD",
+            "Multisim",
+            "嵌入式软件开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23a701efa5ee7826a6f2abe5d461dbe2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QgeLsXjXC8bxX-L1GZmrzXS0wPEMZPQXSW8s4ogQd48Bq1cGps3ewRVXHshOZNU3IzDFX29RTnTvoA2vsV-ltkXvaxCGb1-8Que0Tek0QkrfIMJELtc~",
+    "selfAccess": false,
+    "sessionId": null
 }

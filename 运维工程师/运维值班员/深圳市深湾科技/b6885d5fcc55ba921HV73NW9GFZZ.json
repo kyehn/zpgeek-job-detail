@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mmsidgFvMbLMs-o1_d8D1I3cVl-tAwvDIbi1Dv9TefAdYA41xe9FPlLuOkkpzoSqwhkHnuTK3g56QWdzVoD8NuTGbCU0ylnKUnv79j6OMgvtVgGM90pM",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b6885d5fcc55ba921HV73NW9GFZZ",
-      "encryptUserId": "7c01db33540979a50XZ629W-EFRS",
-      "invalidStatus": false,
-      "jobName": "运维值班员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "负责数据中心电气系统运维服务；\n大专学历；\n具有高压或低压操作证；\n2年数据中心运维经验。",
-      "encryptAddressId": "8b673718e6d5440a1nZ43Ni1F1JU",
-      "address": "深圳福田区深圳国际文化大厦1734",
-      "longitude": 114.077657,
-      "latitude": 22.539332,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf6abd1d47e791b5bbcfb8f10a762b8c676bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf18e770de907add2dfb22016c0c7488096bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "深圳市深湾科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "81ea6f3a12d2463b1HR-3du9GVc~",
-      "brandName": "深圳市深湾科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725333421952,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市深湾科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳市深湾科技",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725333421952,
+        "brandName": "深圳市深湾科技",
+        "customerBrandName": "深圳市深湾科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "81ea6f3a12d2463b1HR-3du9GVc~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳福田区深圳国际文化大厦1734",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8b673718e6d5440a1nZ43Ni1F1JU",
+        "encryptId": "b6885d5fcc55ba921HV73NW9GFZZ",
+        "encryptUserId": "7c01db33540979a50XZ629W-EFRS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维值班员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.539332,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.077657,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf18e770de907add2dfb22016c0c7488096bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "负责数据中心电气系统运维服务；\n大专学历；\n具有高压或低压操作证；\n2年数据中心运维经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "实施交付运维",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf6abd1d47e791b5bbcfb8f10a762b8c676bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mmsidgFvMbLMs-o1_d8D1I3cVl-tAwvDIbi1Dv9TefAdYA41xe9FPlLuOkkpzoSqwhkHnuTK3g56QWdzVoD8NuTGbCU0ylnKUnv79j6OMgvtVgGM90pM",
+    "selfAccess": false,
+    "sessionId": null
 }

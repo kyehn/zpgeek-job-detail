@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "o6FyP0ArGKJMx-Y1pVYkE191cmATL38EompopJxqG6ZrLguMqqkuhd1x7brDq0UT5GsNQHbWUDm1-3Unq_4r9pkO9PuOPN0J0yZ3nRVTVah2ylfl",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4177043a36ba80421Hd639u7FVM~",
-      "encryptUserId": "8b570c69dc2659a80nV92964Elc~",
-      "invalidStatus": false,
-      "jobName": "java实习生",
-      "position": 270101,
-      "positionName": "实习生",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "Java实习生\n\n职位要求\n\t1. 大专及以上学历，计算机或软件开发相关专业\n\t2. 有扎实的JAVA基础\n\t3. 熟练掌握springMVC、Spring、mybatis等框架和XML、HTML、JSP的规范\n\t4. 熟悉JQuery, EasyUI，HTML等框架，熟悉CSS\n\t5. 熟练使用MySQL/Oracle数据库,有较强的数据库设计、优化与开发能力\n\t6. 有项目开发经验，了解软件开发流程和规范",
-      "encryptAddressId": "1881cfcbeae29b191nR509m4GVY~",
-      "address": "广州越秀区白云大厦2023",
-      "longitude": 113.2852,
-      "latitude": 23.1203,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c97c44beb8dfdc4837992abce6bb1dc6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4925716d25f36a9b3d21aeb67525c21a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "综合素质"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "江女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "广东安审",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "90ad508b9db3aad51Hd42968EA~~",
-      "brandName": "广东安审",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190128/cf6c072fabf64168cba4a6b6cdf4fea7d969af74c685b57970725856bccfe711.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "广东安审信息技术有限公司于2001年在广州市成立。是一家专业提供行业应用软件系统研发、销售和技术服务的公司。先后为广东省内上千家党政机关提供信息安全产品服务、软件开发服务、专业技术咨询服务。公司具有多项自主研发的信息安全产品，为进一步开拓市场，同时提升技术服务支撑水平，现诚邀既能脚踏实地又能仰望星空的人才加入我们。",
-      "labels": [
-        "节日福利",
-        "交通补助",
-        "餐补",
-        "带薪年假",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1722930236560,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广东安审",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广东安审",
+        "certificated": true,
+        "large": null,
+        "name": "江女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722930236560,
+        "brandName": "广东安审",
+        "customerBrandName": "广东安审",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "90ad508b9db3aad51Hd42968EA~~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "广东安审信息技术有限公司于2001年在广州市成立。是一家专业提供行业应用软件系统研发、销售和技术服务的公司。先后为广东省内上千家党政机关提供信息安全产品服务、软件开发服务、专业技术咨询服务。公司具有多项自主研发的信息安全产品，为进一步开拓市场，同时提升技术服务支撑水平，现诚邀既能脚踏实地又能仰望星空的人才加入我们。",
+        "labels": [
+            "节日福利",
+            "交通补助",
+            "餐补",
+            "带薪年假",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190128/cf6c072fabf64168cba4a6b6cdf4fea7d969af74c685b57970725856bccfe711.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州越秀区白云大厦2023",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "1881cfcbeae29b191nR509m4GVY~",
+        "encryptId": "4177043a36ba80421Hd639u7FVM~",
+        "encryptUserId": "8b570c69dc2659a80nV92964Elc~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "java实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.1203,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.2852,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4925716d25f36a9b3d21aeb67525c21a",
+        "position": 270101,
+        "positionName": "实习生",
+        "postDescription": "Java实习生\n\n职位要求\n\t1. 大专及以上学历，计算机或软件开发相关专业\n\t2. 有扎实的JAVA基础\n\t3. 熟练掌握springMVC、Spring、mybatis等框架和XML、HTML、JSP的规范\n\t4. 熟悉JQuery, EasyUI，HTML等框架，熟悉CSS\n\t5. 熟练使用MySQL/Oracle数据库,有较强的数据库设计、优化与开发能力\n\t6. 有项目开发经验，了解软件开发流程和规范",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "综合素质"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c97c44beb8dfdc4837992abce6bb1dc6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "o6FyP0ArGKJMx-Y1pVYkE191cmATL38EompopJxqG6ZrLguMqqkuhd1x7brDq0UT5GsNQHbWUDm1-3Unq_4r9pkO9PuOPN0J0yZ3nRVTVah2ylfl",
+    "selfAccess": false,
+    "sessionId": null
 }

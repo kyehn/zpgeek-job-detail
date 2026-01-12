@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Ukge4MoJIzLUg-H1FoJdY6GdW6jBTQZntDzAmro5vIiCUoroPlnMDVfD066idCIgXUQVWNFA_8vChbtcI0e2hOfaBOfzhwsQy8_be80HMhudoVehwKCY",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2b9e8060978b68991nZ-3d28EFdQ",
-      "encryptUserId": "946d90244807d43c0nV90t-7FVpX",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101100600,
-      "locationName": "晋城",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "计算机及软件相关专业，大专及以上学历，年龄（20-40岁），有驾照，开车技术熟练。                                                具体要求：1、在计算机、网络、安防等行业有丰富的经验。\n2、对机房设备（服务器、防火墙、路由器、交换机、ups、动环等）了解，并能配置数据。\n3、对云计算运维有一定的了解。\n4、对常用系统应用（windows、linux网络配置、基础服务配置等）了解，并能配置数据。",
-      "encryptAddressId": "08fe683a551c1f811n173dm0EFs~",
-      "address": "晋城城区晋城豪德商贸城6街42号",
-      "longitude": 112.812069,
-      "latitude": 35.500727,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c828391ce0e38e32af64a929d49afbd6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d55ccfaa04c89a09b5c15384f1ebffc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机软件"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "荣鑫三兄弟",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7146b9bc39b12a671nB70tS5GVQ~",
-      "brandName": "荣鑫三兄弟",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "通讯补贴",
-        "节日福利"
-      ],
-      "activeTime": 1730507417587,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "荣鑫三兄弟",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "荣鑫三兄弟",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730507417587,
+        "brandName": "荣鑫三兄弟",
+        "customerBrandName": "荣鑫三兄弟",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "7146b9bc39b12a671nB70tS5GVQ~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "通讯补贴",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "晋城城区晋城豪德商贸城6街42号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "08fe683a551c1f811n173dm0EFs~",
+        "encryptId": "2b9e8060978b68991nZ-3d28EFdQ",
+        "encryptUserId": "946d90244807d43c0nV90t-7FVpX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 35.500727,
+        "location": 101100600,
+        "locationName": "晋城",
+        "longitude": 112.812069,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d55ccfaa04c89a09b5c15384f1ebffc",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "计算机及软件相关专业，大专及以上学历，年龄（20-40岁），有驾照，开车技术熟练。                                                具体要求：1、在计算机、网络、安防等行业有丰富的经验。\n2、对机房设备（服务器、防火墙、路由器、交换机、ups、动环等）了解，并能配置数据。\n3、对云计算运维有一定的了解。\n4、对常用系统应用（windows、linux网络配置、基础服务配置等）了解，并能配置数据。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "计算机软件"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c828391ce0e38e32af64a929d49afbd6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Ukge4MoJIzLUg-H1FoJdY6GdW6jBTQZntDzAmro5vIiCUoroPlnMDVfD066idCIgXUQVWNFA_8vChbtcI0e2hOfaBOfzhwsQy8_be80HMhudoVehwKCY",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HYB5GJvozw3EA-J1meEe_8lGRSUZ4x0LPR6XFpq2rVeE314O7JSDMuPj6H39zgabbZ5GhGNYn2DnfgitzC99Uu0SSZT3RdwV1bDm-uBXdGAdgj-MhXKP",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d9876ed901bae13c1n162t69FVBQ",
-      "encryptUserId": "78a5ca951ca23a9e1nR72dq9ElBU",
-      "invalidStatus": false,
-      "jobName": "自动化工程师",
-      "position": 100803,
-      "positionName": "自动化",
-      "location": 101191000,
-      "locationName": "连云港",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "会编程，写程序，会通讯大数据智能云",
-      "encryptAddressId": "b1ca43b6a47217961XVy2dq1EVU~",
-      "address": "连云港连云区中共顺天木业有限公司委员会盐浦路1号",
-      "longitude": 119.195179,
-      "latitude": 34.675124,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1de9946f34585f3dcf9a91e04e750958",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/47105d9445468d20f538b2938079c4af",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PLC工程师",
-        "电机工程师",
-        "软件测试",
-        "硬件测试",
-        "机械设备",
-        "智能硬件",
-        "物联网",
-        "SolidWorks"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200330/3fa7a98aa3dcf345dc93cbf19d2cada89a95b9947de1e34f09cbbb5817b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "星辰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6900afd20bbfb8b81n150tS8FlQ~",
-      "brandName": "星辰",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211209/7b5b554d84f9729c86381a8cd5beb9c8e85c768159229df8655b766bd32d22992044af739dc10a84.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100907,
-      "industryName": "专用设备",
-      "introduce": "连云港星辰智能装备科技有限公司是一家私营独资企业，创建于二零二一年七月。\n公司经营范围：金属热处理技术研发、热处理设备研发、制造等。",
-      "labels": [
-        "节日福利",
-        "免费工装",
-        "有无线网",
-        "宿舍有空调",
-        "包住",
-        "包吃",
-        "意外险"
-      ],
-      "activeTime": 1730824344492,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "星辰",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "星辰",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200330/3fa7a98aa3dcf345dc93cbf19d2cada89a95b9947de1e34f09cbbb5817b_b.jpg",
+        "title": "总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1730824344492,
+        "brandName": "星辰",
+        "customerBrandName": "星辰",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "6900afd20bbfb8b81n150tS8FlQ~",
+        "focusBrand": false,
+        "industry": 100907,
+        "industryName": "专用设备",
+        "introduce": "连云港星辰智能装备科技有限公司是一家私营独资企业，创建于二零二一年七月。\n公司经营范围：金属热处理技术研发、热处理设备研发、制造等。",
+        "labels": [
+            "节日福利",
+            "免费工装",
+            "有无线网",
+            "宿舍有空调",
+            "包住",
+            "包吃",
+            "意外险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211209/7b5b554d84f9729c86381a8cd5beb9c8e85c768159229df8655b766bd32d22992044af739dc10a84.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "连云港连云区中共顺天木业有限公司委员会盐浦路1号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b1ca43b6a47217961XVy2dq1EVU~",
+        "encryptId": "d9876ed901bae13c1n162t69FVBQ",
+        "encryptUserId": "78a5ca951ca23a9e1nR72dq9ElBU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "自动化工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.675124,
+        "location": 101191000,
+        "locationName": "连云港",
+        "longitude": 119.195179,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/47105d9445468d20f538b2938079c4af",
+        "position": 100803,
+        "positionName": "自动化",
+        "postDescription": "会编程，写程序，会通讯大数据智能云",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "PLC工程师",
+            "电机工程师",
+            "软件测试",
+            "硬件测试",
+            "机械设备",
+            "智能硬件",
+            "物联网",
+            "SolidWorks"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1de9946f34585f3dcf9a91e04e750958"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HYB5GJvozw3EA-J1meEe_8lGRSUZ4x0LPR6XFpq2rVeE314O7JSDMuPj6H39zgabbZ5GhGNYn2DnfgitzC99Uu0SSZT3RdwV1bDm-uBXdGAdgj-MhXKP",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ijHH9alFGxbuw-B1faYz_pAOLe66RzM76meZErYC_udVuDQmO6J2Owx_uBtpo9MwwzhzAyIS6ORB-cmPTNEe0a3KRpiEHsM3B35ekcYYhZ5UIQJza8SH57aRV0gA3cXUkyA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5014dff0d4be0c1c1H142ty7FFdZ",
-      "encryptUserId": "ba3038b8876ddc5b0XJ82dS5EVBU",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190700,
-      "locationName": "盐城",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-13K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1、\t大专及以上学历，有材料专业者优先；\n2、\t熟练掌握办公软件，擅长汇报总结报表制作；\n3、\t从事实验室材料分析两年以上，对测试仪器及工具有实际操作经验，能独立完成测试、分析及报告制作，测试SOP制作；\n4、\t学习能力强，有团队意识及合作精神、奉献精神。\n岗位职责：\n完成实验室材料分析任务，包含制定测试计划，排配测试任务，合理调配急件进度；对于新开发测试项目能及时制作测试方法。\n熟练掌握测试设备，如金相显微镜、万能材料拉力试验机、维氏硬度计、火花直读光谱仪等操作及维护保养，简单故障的处理。\n能制作各项测试操作SOP，考虑操作的实用性，描述的准确性，步骤的合理性等。\n能应对工作中的突发状况，并且提出合理改善措施；对于验证物料从设备、治具、测试方法等方面全面分析异常原因，并有可参考结论；对客户专项分析异常样品，做出合理合规的分析结果。",
-      "encryptAddressId": "ae7de6524b7a5e671nV83du1FFJSw4u9V_2b",
-      "address": "盐城亭湖区立铠精密科技(盐城)有限公司综合楼盐才路8号",
-      "longitude": 120.171859,
-      "latitude": 33.46598,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231123/48ba41acc9cef1bfd7b9f8cbd60f2799067ad640d4b44d186bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231123/48ba41acc9cef1bf8ef8f535b443a862ba4fd350f12116786bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "渗透测试",
-        "性能测试",
-        "嵌入式测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "夏女士",
-      "title": "人力招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240819/607f1f3d68754fd04c11fd21b953fcc31a9fddd7f0cb2808a494e9fd1701dd94d5f09cc40e6c721_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "盐城立铠精密科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "125bec33678c43b81Xd_3NS-FVM~",
-      "brandName": "盐城立铠精密科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100901,
-      "industryName": "机械设备/机电/重工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734134259120,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "盐城立铠精密科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "盐城立铠精密科技",
+        "certificated": true,
+        "large": null,
+        "name": "夏女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240819/607f1f3d68754fd04c11fd21b953fcc31a9fddd7f0cb2808a494e9fd1701dd94d5f09cc40e6c721_b.jpg",
+        "title": "人力招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1734134259120,
+        "brandName": "盐城立铠精密科技",
+        "customerBrandName": "盐城立铠精密科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "125bec33678c43b81Xd_3NS-FVM~",
+        "focusBrand": false,
+        "industry": 100901,
+        "industryName": "机械设备/机电/重工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "盐城亭湖区立铠精密科技(盐城)有限公司综合楼盐才路8号",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "ae7de6524b7a5e671nV83du1FFJSw4u9V_2b",
+        "encryptId": "5014dff0d4be0c1c1H142ty7FFdZ",
+        "encryptUserId": "ba3038b8876ddc5b0XJ82dS5EVBU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 33.46598,
+        "location": 101190700,
+        "locationName": "盐城",
+        "longitude": 120.171859,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231123/48ba41acc9cef1bf8ef8f535b443a862ba4fd350f12116786bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "任职要求：\n1、\t大专及以上学历，有材料专业者优先；\n2、\t熟练掌握办公软件，擅长汇报总结报表制作；\n3、\t从事实验室材料分析两年以上，对测试仪器及工具有实际操作经验，能独立完成测试、分析及报告制作，测试SOP制作；\n4、\t学习能力强，有团队意识及合作精神、奉献精神。\n岗位职责：\n完成实验室材料分析任务，包含制定测试计划，排配测试任务，合理调配急件进度；对于新开发测试项目能及时制作测试方法。\n熟练掌握测试设备，如金相显微镜、万能材料拉力试验机、维氏硬度计、火花直读光谱仪等操作及维护保养，简单故障的处理。\n能制作各项测试操作SOP，考虑操作的实用性，描述的准确性，步骤的合理性等。\n能应对工作中的突发状况，并且提出合理改善措施；对于验证物料从设备、治具、测试方法等方面全面分析异常原因，并有可参考结论；对客户专项分析异常样品，做出合理合规的分析结果。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-13K",
+        "showSkills": [
+            "渗透测试",
+            "性能测试",
+            "嵌入式测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231123/48ba41acc9cef1bfd7b9f8cbd60f2799067ad640d4b44d186bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ijHH9alFGxbuw-B1faYz_pAOLe66RzM76meZErYC_udVuDQmO6J2Owx_uBtpo9MwwzhzAyIS6ORB-cmPTNEe0a3KRpiEHsM3B35ekcYYhZ5UIQJza8SH57aRV0gA3cXUkyA~",
+    "selfAccess": false,
+    "sessionId": null
 }

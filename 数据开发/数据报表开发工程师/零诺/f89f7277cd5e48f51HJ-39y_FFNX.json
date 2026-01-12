@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SSGHAzf35roDj-K1fg8H3cO8bMNlkEUNu-0ShD3QzrMRLGaAFo70cvy_Q1ns93UF6E7C5gB2iabbKetClQrIE7PmT2EyCGrtbisXC4xNmKdmyNfiwXxMiFzwM6dWqYJPgswPO4Ksyf8oLCo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f89f7277cd5e48f51HJ-39y_FFNX",
-      "encryptUserId": "595145da586f909f0nRy2du6F1RR",
-      "invalidStatus": false,
-      "jobName": "数据报表开发工程师",
-      "position": 100508,
-      "positionName": "数据开发",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、根据项目范围、质量、时间与成本等因素，进行项目整体规划并组织安排实施进程以保证达到项目目标。\n2、熟悉企业的管理模式以及业务流程，完成目标实施制定和技术方案的撰写\n3、清晰地向客户传达软件的使用方法，进行用户培训和指导\n1、大学专科及以上，理工科背景，软件专业或者软件经验背景优先\n2、良好的沟通能力，优秀的人际交往能力，团队合作精神。\n3、学习能力强，逻辑能力突出，数学基础好。\n4、熟悉oracle, sql server等数据库和数据收集，数据建模，数据分析等全套方法\n5、有零售、电商行业经验者优先\n\n上班时间:9:00-12:00，13:30-18:00 双休，法定节假日休假。\n基本工资+补贴+绩效+社保+公积金",
-      "encryptAddressId": "e694d5aa632079f40XF40t-7EFRYwIW8Uv4~",
-      "address": "杭州余杭区赛银国际广场11幢605",
-      "longitude": 120.020327,
-      "latitude": 30.275261,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bfda8f04ba63791fd9168b5f545f66f8d96bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bf11402a440dc5537ea6a6755c504c11846bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "金先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201122/a5bdaeeac738178e48c8205d6450be0e997b04d1c51e04f09106ffae5cc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "零诺",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "93c97b61810b0ceb1n160t-5FFs~",
-      "brandName": "零诺",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727603958083,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "零诺",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "零诺",
+        "certificated": true,
+        "large": null,
+        "name": "金先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201122/a5bdaeeac738178e48c8205d6450be0e997b04d1c51e04f09106ffae5cc_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727603958083,
+        "brandName": "零诺",
+        "customerBrandName": "零诺",
+        "customerBrandStageName": "",
+        "encryptBrandId": "93c97b61810b0ceb1n160t-5FFs~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区赛银国际广场11幢605",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e694d5aa632079f40XF40t-7EFRYwIW8Uv4~",
+        "encryptId": "f89f7277cd5e48f51HJ-39y_FFNX",
+        "encryptUserId": "595145da586f909f0nRy2du6F1RR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据报表开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.275261,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.020327,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bf11402a440dc5537ea6a6755c504c11846bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100508,
+        "positionName": "数据开发",
+        "postDescription": "1、根据项目范围、质量、时间与成本等因素，进行项目整体规划并组织安排实施进程以保证达到项目目标。\n2、熟悉企业的管理模式以及业务流程，完成目标实施制定和技术方案的撰写\n3、清晰地向客户传达软件的使用方法，进行用户培训和指导\n1、大学专科及以上，理工科背景，软件专业或者软件经验背景优先\n2、良好的沟通能力，优秀的人际交往能力，团队合作精神。\n3、学习能力强，逻辑能力突出，数学基础好。\n4、熟悉oracle, sql server等数据库和数据收集，数据建模，数据分析等全套方法\n5、有零售、电商行业经验者优先\n\n上班时间:9:00-12:00，13:30-18:00 双休，法定节假日休假。\n基本工资+补贴+绩效+社保+公积金",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K·13薪",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bfda8f04ba63791fd9168b5f545f66f8d96bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SSGHAzf35roDj-K1fg8H3cO8bMNlkEUNu-0ShD3QzrMRLGaAFo70cvy_Q1ns93UF6E7C5gB2iabbKetClQrIE7PmT2EyCGrtbisXC4xNmKdmyNfiwXxMiFzwM6dWqYJPgswPO4Ksyf8oLCo~",
+    "selfAccess": false,
+    "sessionId": null
 }

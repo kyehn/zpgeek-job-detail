@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "lzAS4Cc4QR_t4-G1FbvNZyQTLHLHyqMuU7n1yOIHxTe7sV1ISgPBn7Z8bky68E18RR-j8PUzXdd1XT9ewU1k5vDaJRfh_FEYia-HwDRuwond6mBlLpi-Vu9GEGE3AWZnlkk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "332f55527d3b41b01H192dm0F1ZV",
-      "encryptUserId": "7053801a71bd0f060Xx62dy6EVVU",
-      "invalidStatus": false,
-      "jobName": "java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1.负责具体项目的开发任务\n\n2.根据开发规范编写相应的开发文档\n\n3.及时向上级反馈项目开发中的情况，并根据实际情况提出改进建议\n\n4.理解需求人员编写的需求文档，并进行数据结构、组件、和程序等的设计工作\n\n任职要求\n1. 2年及以上开发经验，本科及以上学历（计算机相关专业）\n\n2. 熟练掌握Java Web编程（熟悉前端技术 React、React Native  优先考虑）\n\n3. 熟悉Oracle、Msql、Pgsql 数据库其中一个；\n\n4. 熟悉 Spring boot 及 Spring MVC开发框架；\n\n5. 具有良好的沟通能力和团队合作精神，能承受较大的工作压力，为人热情，有耐心，能细心倾听客户意见，并积极协助解决；\n\n6.可接受短期出差（1-4个星期）；\n\n7.有教育行业（中高职、本科）信息化开发背景的优先考虑；",
-      "encryptAddressId": "1eac352c7b21636b1nB82N2_GVNVy4S5UPKe",
-      "address": "上海浦东新区一百杉杉大厦中达广场28楼",
-      "longitude": 121.529311,
-      "latitude": 31.221822,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf0a1a3cf0d951fa6bb89d7bac5fc9d0386bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfb64013cc696340cdf007530ba63ed9c56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "PostgreSQL",
-        "MySQL",
-        "Spring",
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "华女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "上海亿维航软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "210b646ec9fb35a91Hx409u-FVo~",
-      "brandName": "上海亿维航软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "有无线网",
-        "餐补",
-        "法定节假日三薪",
-        "保底工资",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1734402451451,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海亿维航软件",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海亿维航软件",
+        "certificated": true,
+        "large": null,
+        "name": "华女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734402451451,
+        "brandName": "上海亿维航软件",
+        "customerBrandName": "上海亿维航软件",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "210b646ec9fb35a91Hx409u-FVo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "有无线网",
+            "餐补",
+            "法定节假日三薪",
+            "保底工资",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区一百杉杉大厦中达广场28楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "1eac352c7b21636b1nB82N2_GVNVy4S5UPKe",
+        "encryptId": "332f55527d3b41b01H192dm0F1ZV",
+        "encryptUserId": "7053801a71bd0f060Xx62dy6EVVU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.221822,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.529311,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfb64013cc696340cdf007530ba63ed9c56bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "工作内容\n1.负责具体项目的开发任务\n\n2.根据开发规范编写相应的开发文档\n\n3.及时向上级反馈项目开发中的情况，并根据实际情况提出改进建议\n\n4.理解需求人员编写的需求文档，并进行数据结构、组件、和程序等的设计工作\n\n任职要求\n1. 2年及以上开发经验，本科及以上学历（计算机相关专业）\n\n2. 熟练掌握Java Web编程（熟悉前端技术 React、React Native  优先考虑）\n\n3. 熟悉Oracle、Msql、Pgsql 数据库其中一个；\n\n4. 熟悉 Spring boot 及 Spring MVC开发框架；\n\n5. 具有良好的沟通能力和团队合作精神，能承受较大的工作压力，为人热情，有耐心，能细心倾听客户意见，并积极协助解决；\n\n6.可接受短期出差（1-4个星期）；\n\n7.有教育行业（中高职、本科）信息化开发背景的优先考虑；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "Java",
+            "PostgreSQL",
+            "MySQL",
+            "Spring",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf0a1a3cf0d951fa6bb89d7bac5fc9d0386bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "lzAS4Cc4QR_t4-G1FbvNZyQTLHLHyqMuU7n1yOIHxTe7sV1ISgPBn7Z8bky68E18RR-j8PUzXdd1XT9ewU1k5vDaJRfh_FEYia-HwDRuwond6mBlLpi-Vu9GEGE3AWZnlkk~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZBUEs5OlunESe-71bFoajn1nqDN8MFT0lIxA78UbWfxMjbZGr3Y5dvujSo7AlDVBkRUnmxaaLpk5sLGotFBqqh_bkq_8Ml54koAVUvELgArlyfigYGef",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1cf4a071a599cf351XN-3tW9EldY",
-      "encryptUserId": "34722a04cc51fa090nxy2N-4FFBT",
-      "invalidStatus": false,
-      "jobName": "软件运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101300100,
-      "locationName": "南宁",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "招聘要求:\n1、专科以上学历，计算机或财务专业。\n2、计算机专业需熟悉数据库原理、操作与应用。具有良好的会数据库sql查询及数据运维,需掌握sql查询。\n3、财务专业需熟悉一到两个财务软件应用。熟悉政府会计制度优先。\n4、有高度的责任感，对于工作积极严谨，具有良好的团队合作意识，能接受广西区内出差。\n5、可接受实习生。\n岗位描述:\n1、负责项目运维工作。\n2、负责服务器搭建、部署、更新、数据库维护等。\n3、能承受工作压力，具备良好的沟通能力和团队协作，具备主动服务意识，需要良好的自学能力和解决问题能力。\n4、来宾市城区优先（办公地点：来宾市城区机关单位驻点）\n待遇:\n1、五险、双休、节假日正常放假、年底带薪年假。\n2、公司定期团建、节假日福利。\n3、试用期3个月，前有考核（笔试+实操），考核通过方可。\n4、基本工资+绩效+全勤+住房补贴+计算机补贴+出差补贴+运维提成+项目实施提成+意外险",
-      "encryptAddressId": "0333069cd2d1e7fc33B_2tu0ElQ~",
-      "address": "南宁青秀区区水利厅机关大院综合楼3单元3005号",
-      "longitude": 108.34026,
-      "latitude": 22.82502,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc95a9eaff85ced9b2c6c13f31682dbc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f238adc50fa5938613b52949f0eb20ee",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "实施交付运维",
-        "MySQL/Oracle",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "谢女士",
-      "title": "技术部经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广西增友科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f3c0f0daf0ad03841XJ63tq5Els~",
-      "brandName": "广西增友科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731064079019,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广西增友科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广西增友科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "谢女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "技术部经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731064079019,
+        "brandName": "广西增友科技有限公司",
+        "customerBrandName": "广西增友科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f3c0f0daf0ad03841XJ63tq5Els~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南宁青秀区区水利厅机关大院综合楼3单元3005号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0333069cd2d1e7fc33B_2tu0ElQ~",
+        "encryptId": "1cf4a071a599cf351XN-3tW9EldY",
+        "encryptUserId": "34722a04cc51fa090nxy2N-4FFBT",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.82502,
+        "location": 101300100,
+        "locationName": "南宁",
+        "longitude": 108.34026,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f238adc50fa5938613b52949f0eb20ee",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "招聘要求:\n1、专科以上学历，计算机或财务专业。\n2、计算机专业需熟悉数据库原理、操作与应用。具有良好的会数据库sql查询及数据运维,需掌握sql查询。\n3、财务专业需熟悉一到两个财务软件应用。熟悉政府会计制度优先。\n4、有高度的责任感，对于工作积极严谨，具有良好的团队合作意识，能接受广西区内出差。\n5、可接受实习生。\n岗位描述:\n1、负责项目运维工作。\n2、负责服务器搭建、部署、更新、数据库维护等。\n3、能承受工作压力，具备良好的沟通能力和团队协作，具备主动服务意识，需要良好的自学能力和解决问题能力。\n4、来宾市城区优先（办公地点：来宾市城区机关单位驻点）\n待遇:\n1、五险、双休、节假日正常放假、年底带薪年假。\n2、公司定期团建、节假日福利。\n3、试用期3个月，前有考核（笔试+实操），考核通过方可。\n4、基本工资+绩效+全勤+住房补贴+计算机补贴+出差补贴+运维提成+项目实施提成+意外险",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "网络运维",
+            "实施交付运维",
+            "MySQL/Oracle",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc95a9eaff85ced9b2c6c13f31682dbc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZBUEs5OlunESe-71bFoajn1nqDN8MFT0lIxA78UbWfxMjbZGr3Y5dvujSo7AlDVBkRUnmxaaLpk5sLGotFBqqh_bkq_8Ml54koAVUvELgArlyfigYGef",
+    "selfAccess": false,
+    "sessionId": null
 }

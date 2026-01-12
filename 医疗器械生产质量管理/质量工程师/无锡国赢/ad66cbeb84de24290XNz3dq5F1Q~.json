@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BfDPXpuIxPnKX-Y1bLFyLMO37CtT4pzTi7GEsg784pfcPlkJ2yacUA62fumolYxyxvtm7YOWFs0he6dFzbYHEyKipd_KNAaGWQGSybzkguFcqaAl",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ad66cbeb84de24290XNz3dq5F1Q~",
-      "encryptUserId": "f7a111037817bce33nZ63Ny-FFc~",
-      "invalidStatus": false,
-      "jobName": "质量工程师",
-      "position": 210122,
-      "positionName": "医疗器械生产/质量管理",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、本科以上学历，电子或化学工程类相关专业；\r\n\r\n2、熟悉单片机的开发，包含硬件电路和软件开发；\r\n\r\n3、对于了解医疗器械相关标准（包含GB9706.1、ISO13485、YY0505）等的人员优先考虑。",
-      "encryptAddressId": "2090e6bf7191e5c71Xx639y4Els~",
-      "address": "无锡新吴区兴业楼D101",
-      "longitude": 120.377202,
-      "latitude": 31.480332,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca9489edfa41ddd003ef6977db19367a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63fbf481bd18a709a6720eab24fd8bcf",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "QC",
-        "医疗器械"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "总经理助理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "无锡国赢",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f49a25410063555a0HV-296-Fg~~",
-      "brandName": "无锡国赢",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724873454239,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "无锡国赢",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "无锡国赢",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724873454239,
+        "brandName": "无锡国赢",
+        "customerBrandName": "无锡国赢",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f49a25410063555a0HV-296-Fg~~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡新吴区兴业楼D101",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2090e6bf7191e5c71Xx639y4Els~",
+        "encryptId": "ad66cbeb84de24290XNz3dq5F1Q~",
+        "encryptUserId": "f7a111037817bce33nZ63Ny-FFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "质量工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.480332,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.377202,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63fbf481bd18a709a6720eab24fd8bcf",
+        "position": 210122,
+        "positionName": "医疗器械生产/质量管理",
+        "postDescription": "1、本科以上学历，电子或化学工程类相关专业；\r\n\r\n2、熟悉单片机的开发，包含硬件电路和软件开发；\r\n\r\n3、对于了解医疗器械相关标准（包含GB9706.1、ISO13485、YY0505）等的人员优先考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "QC",
+            "医疗器械"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca9489edfa41ddd003ef6977db19367a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BfDPXpuIxPnKX-Y1bLFyLMO37CtT4pzTi7GEsg784pfcPlkJ2yacUA62fumolYxyxvtm7YOWFs0he6dFzbYHEyKipd_KNAaGWQGSybzkguFcqaAl",
+    "selfAccess": false,
+    "sessionId": null
 }

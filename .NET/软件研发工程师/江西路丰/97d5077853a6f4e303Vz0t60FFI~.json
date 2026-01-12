@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xu99C1ANwtSJn-o1SP8hlo3kKON7x2Bygy0D7XT9cvpsQQWJF0lCIZD53onS3osXAdwTWA_LblHfNnXgKSe0q-qFIaOa9nJeYGeH_7CWV2jO7Wk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "97d5077853a6f4e303Vz0t60FFI~",
-      "encryptUserId": "ea4141f84a517a260nRy39u0GVI~",
-      "invalidStatus": false,
-      "jobName": "软件研发工程师",
-      "position": 100107,
-      "positionName": ".NET",
-      "location": 101240100,
-      "locationName": "南昌",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-7K",
-      "payTypeDesc": null,
-      "postDescription": "主要负责web应用系统的前端或者后台开发",
-      "encryptAddressId": "f740407a7ea42f251nZ729i7E1Y~",
-      "address": "南昌青云谱区明珠广场B座1807室",
-      "longitude": 115.913964,
-      "latitude": 28.653994,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd6ce03611c23fee2ff2097f3239aa5d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21c39b34aa294f07f94d012116bcb798",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        ".NET",
-        "C#",
-        "HTML/CSS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "钟先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "江西路丰",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "21e46c570209b7b23nFy3Nq0",
-      "brandName": "江西路丰",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722916077692,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江西路丰",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江西路丰",
+        "certificated": true,
+        "large": null,
+        "name": "钟先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722916077692,
+        "brandName": "江西路丰",
+        "customerBrandName": "江西路丰",
+        "customerBrandStageName": "",
+        "encryptBrandId": "21e46c570209b7b23nFy3Nq0",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南昌青云谱区明珠广场B座1807室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f740407a7ea42f251nZ729i7E1Y~",
+        "encryptId": "97d5077853a6f4e303Vz0t60FFI~",
+        "encryptUserId": "ea4141f84a517a260nRy39u0GVI~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件研发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.653994,
+        "location": 101240100,
+        "locationName": "南昌",
+        "longitude": 115.913964,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21c39b34aa294f07f94d012116bcb798",
+        "position": 100107,
+        "positionName": ".NET",
+        "postDescription": "主要负责web应用系统的前端或者后台开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-7K",
+        "showSkills": [
+            ".NET",
+            "C#",
+            "HTML/CSS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd6ce03611c23fee2ff2097f3239aa5d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xu99C1ANwtSJn-o1SP8hlo3kKON7x2Bygy0D7XT9cvpsQQWJF0lCIZD53onS3osXAdwTWA_LblHfNnXgKSe0q-qFIaOa9nJeYGeH_7CWV2jO7Wk~",
+    "selfAccess": false,
+    "sessionId": null
 }

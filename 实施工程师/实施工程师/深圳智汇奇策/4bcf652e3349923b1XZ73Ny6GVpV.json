@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4Y6LqWFJ-NHH7-Y15nKjXTa2RtoIdZ4n8pxHiSitwXVTGfRZCKzjo6QCRNxoz1GPpjWvG6XBU4ylxa-3c7F9I55qa2WMTjHINu8c-N5yFLaiHGI0iQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4bcf652e3349923b1XZ73Ny6GVpV",
-      "encryptUserId": "dbf0de1b84f414141XR-29S6GVU~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-11K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1.计算机、物流管理等相关专业优先；\n2.熟悉mysql等常用关系型数据库的SQL脚本编写；\n3.熟悉物流行业，有仓储运输管理软件WMS或者ERP经验者优先；\n4..具有物流软件实施或物流仓储行业工作经验；熟悉业务管理流程；\n5.工作积极主动、具有良好的团队精神、强烈的责任心和敬业精神；\n6.能够适应出差\r\n\r\n加分项\r\n有以下行业经验：计算机软件·物流/仓储·大数据",
-      "encryptAddressId": "c80fee7fa56a3e491nR629-4EVc~",
-      "address": "青岛市北区二十二世纪集团1718",
-      "longitude": 120.376363,
-      "latitude": 36.089544,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5aa67445f5f23f3ddd197063246e2004",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/831409aeb8d39aa841acf17de6ed294a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "MySQL",
-        "软件实施",
-        "Linux",
-        "wms",
-        "erp"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曾先生",
-      "title": "副总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211010/607f1f3d68754fd035723b0dc858e84482757cf9e26ec53184cfa9a7acb2f5156f47e9917a1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "深圳智汇奇策",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2c6a060ffa117ed41nF42d60Ew~~",
-      "brandName": "深圳智汇奇策",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200704/c48bf8c0647f4409a8e27a8d2e6bbce8edab208b0147905e5048159308de53ac_s.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "智能物流解决方案提供商，受华讯资本、深创投、投控东海、亚布力投资",
-      "labels": [
-        "有无线网",
-        "团建聚餐",
-        "绩效奖金"
-      ],
-      "activeTime": 1729028393083,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳智汇奇策",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳智汇奇策",
+        "certificated": true,
+        "large": null,
+        "name": "曾先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211010/607f1f3d68754fd035723b0dc858e84482757cf9e26ec53184cfa9a7acb2f5156f47e9917a1_b.jpg",
+        "title": "副总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729028393083,
+        "brandName": "深圳智汇奇策",
+        "customerBrandName": "深圳智汇奇策",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "2c6a060ffa117ed41nF42d60Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "智能物流解决方案提供商，受华讯资本、深创投、投控东海、亚布力投资",
+        "labels": [
+            "有无线网",
+            "团建聚餐",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200704/c48bf8c0647f4409a8e27a8d2e6bbce8edab208b0147905e5048159308de53ac_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛市北区二十二世纪集团1718",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c80fee7fa56a3e491nR629-4EVc~",
+        "encryptId": "4bcf652e3349923b1XZ73Ny6GVpV",
+        "encryptUserId": "dbf0de1b84f414141XR-29S6GVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.089544,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.376363,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/831409aeb8d39aa841acf17de6ed294a",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "任职要求：\n1.计算机、物流管理等相关专业优先；\n2.熟悉mysql等常用关系型数据库的SQL脚本编写；\n3.熟悉物流行业，有仓储运输管理软件WMS或者ERP经验者优先；\n4..具有物流软件实施或物流仓储行业工作经验；熟悉业务管理流程；\n5.工作积极主动、具有良好的团队精神、强烈的责任心和敬业精神；\n6.能够适应出差\r\n\r\n加分项\r\n有以下行业经验：计算机软件·物流/仓储·大数据",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-11K·13薪",
+        "showSkills": [
+            "MySQL",
+            "软件实施",
+            "Linux",
+            "wms",
+            "erp"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5aa67445f5f23f3ddd197063246e2004"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4Y6LqWFJ-NHH7-Y15nKjXTa2RtoIdZ4n8pxHiSitwXVTGfRZCKzjo6QCRNxoz1GPpjWvG6XBU4ylxa-3c7F9I55qa2WMTjHINu8c-N5yFLaiHGI0iQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

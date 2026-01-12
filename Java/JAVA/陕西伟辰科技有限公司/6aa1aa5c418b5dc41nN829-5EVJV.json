@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "NL3maa8cEksmo-K1Dh_1vnpmBp3M47ru4qOA4qTcgSSqOjhXdy9o6fG-C6l4z-D-Vn9U3oZ5Iwua10QubOzAUBUwCH41nalV5gLUgtUMGdh2YEy-MbfV",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6aa1aa5c418b5dc41nN829-5EVJV",
-      "encryptUserId": "31187b739075e0f30nd72Ny1ElJU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "维护程序。撰写相关技术文档。做好其他维护保证运行良好",
-      "encryptAddressId": "c2c57c595e1749831nN53tW7F1s~",
-      "address": "西安碑林区南苑中央广场40302",
-      "longitude": 108.942335,
-      "latitude": 34.256403,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7e1bc068543e5a810a6b9f5d736b64f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b5a420e8836c49272b5f3f8c89f98da",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "会java语言"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "丁女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "陕西伟辰科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b6025faed26e1f0b1nx92Nq4EFE~",
-      "brandName": "陕西伟辰科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100025,
-      "industryName": "运营商/增值服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722905419479,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "陕西伟辰科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "陕西伟辰科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "丁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722905419479,
+        "brandName": "陕西伟辰科技有限公司",
+        "customerBrandName": "陕西伟辰科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b6025faed26e1f0b1nx92Nq4EFE~",
+        "focusBrand": false,
+        "industry": 100025,
+        "industryName": "运营商/增值服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安碑林区南苑中央广场40302",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c2c57c595e1749831nN53tW7F1s~",
+        "encryptId": "6aa1aa5c418b5dc41nN829-5EVJV",
+        "encryptUserId": "31187b739075e0f30nd72Ny1ElJU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.256403,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.942335,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b5a420e8836c49272b5f3f8c89f98da",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "维护程序。撰写相关技术文档。做好其他维护保证运行良好",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "会java语言"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7e1bc068543e5a810a6b9f5d736b64f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "NL3maa8cEksmo-K1Dh_1vnpmBp3M47ru4qOA4qTcgSSqOjhXdy9o6fG-C6l4z-D-Vn9U3oZ5Iwua10QubOzAUBUwCH41nalV5gLUgtUMGdh2YEy-MbfV",
+    "selfAccess": false,
+    "sessionId": null
 }

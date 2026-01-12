@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "hwHlJO2tTRA1Q-_1ZnRAxxw077G3G66PXdCgQfz-ozgW9GvOomFXbetGv5ELWX1SvlIW7BO-_ZqaHwFAPIhjJ6Ydu9TS8tkdgFAiGTrjNtOmJ-FJsZHsWB3Xzi62aXh8SStagVSacZ4QZFU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7c990d78e2950b111Hx_2t-_GVtU",
-      "encryptUserId": "acb322333f52cd9f0XBz39m-F1tU",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、依据项目或产品要求，进行产品设计和开发；\n2、负责处理项目中出现的技术问题；\n3、参与开发成果交付实施，确保实施方案正确和成功。\n任职要求：\n1.有扎实的Java基础，Java多线程并发以及数据库编程经验。\n2.熟悉掌握Oracle、MySQL的使用，熟悉LINUX的日常运维工作。\n3.熟练使用SpringMVC、SpringCloud、Mybatis、Dubbo、MQ、Solr等主流及底层框架。\n4.接触和使用过多种开源技术框架，对开源框架有良好的研究能力。\n5.良好的学习能力、团队协作能力和沟通能力；善于思考，能独立分析和解决问题。\n6.具有良好的编程规范，具有微服务、分布式、高并发大型互联网项目经验优先。\n7.大专及以上学历。能力优秀者，可适当放宽条件。\n8.公司只接受武汉线下面试，外地的朋友请谨慎投简历。",
-      "encryptAddressId": "3a23f8aeecf8b9101nRz0t69FlJZxYS8VPyc",
-      "address": "武汉洪山区光谷总部国际9栋1608b室",
-      "longitude": 114.418719,
-      "latitude": 30.47998,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf944dcba745fb2c8661dc110360dcfd036bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bff5571b311ae4085b95ed5d23ac6919276bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "SpringCloud",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "产品经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240726/607f1f3d68754fd064886909aaee76a2504027ca3aee6e1637a17c7da90a14bd53359a0c77379a8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "微品优",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8daf7d6a6272c07d1nd43dm0EVM~",
-      "brandName": "微品优",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210602/1aa60af8029b1b7287850e8512a3b1d6541fbf06bb87e15d6543245e59034464.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "有活力的软件开发公司。",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1726537623000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "微品优",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "微品优",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240726/607f1f3d68754fd064886909aaee76a2504027ca3aee6e1637a17c7da90a14bd53359a0c77379a8_b.jpg",
+        "title": "产品经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726537623000,
+        "brandName": "微品优",
+        "customerBrandName": "微品优",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "8daf7d6a6272c07d1nd43dm0EVM~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "有活力的软件开发公司。",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210602/1aa60af8029b1b7287850e8512a3b1d6541fbf06bb87e15d6543245e59034464.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区光谷总部国际9栋1608b室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3a23f8aeecf8b9101nRz0t69FlJZxYS8VPyc",
+        "encryptId": "7c990d78e2950b111Hx_2t-_GVtU",
+        "encryptUserId": "acb322333f52cd9f0XBz39m-F1tU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.47998,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.418719,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bff5571b311ae4085b95ed5d23ac6919276bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1、依据项目或产品要求，进行产品设计和开发；\n2、负责处理项目中出现的技术问题；\n3、参与开发成果交付实施，确保实施方案正确和成功。\n任职要求：\n1.有扎实的Java基础，Java多线程并发以及数据库编程经验。\n2.熟悉掌握Oracle、MySQL的使用，熟悉LINUX的日常运维工作。\n3.熟练使用SpringMVC、SpringCloud、Mybatis、Dubbo、MQ、Solr等主流及底层框架。\n4.接触和使用过多种开源技术框架，对开源框架有良好的研究能力。\n5.良好的学习能力、团队协作能力和沟通能力；善于思考，能独立分析和解决问题。\n6.具有良好的编程规范，具有微服务、分布式、高并发大型互联网项目经验优先。\n7.大专及以上学历。能力优秀者，可适当放宽条件。\n8.公司只接受武汉线下面试，外地的朋友请谨慎投简历。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "Java",
+            "SpringCloud",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf944dcba745fb2c8661dc110360dcfd036bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "hwHlJO2tTRA1Q-_1ZnRAxxw077G3G66PXdCgQfz-ozgW9GvOomFXbetGv5ELWX1SvlIW7BO-_ZqaHwFAPIhjJ6Ydu9TS8tkdgFAiGTrjNtOmJ-FJsZHsWB3Xzi62aXh8SStagVSacZ4QZFU~",
+    "selfAccess": false,
+    "sessionId": null
 }

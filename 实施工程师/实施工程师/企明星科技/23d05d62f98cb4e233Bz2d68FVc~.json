@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "5rdv0j412UKzb-91dIFqiAEGdPkya4p7iKAqdOhT8Pvda2bKlogHZDsSlFRDzqp_rcIbQcwTP_RLR7aHPrvjQcEPerCIHoTj536sYNt4vHE78-yGTziyqn0b9qUXwLJp1durgJg5Uj9H",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "23d05d62f98cb4e233Bz2d68FVc~",
-      "encryptUserId": "20405210bc9b26cf1nR43d-_ElJY",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101190200,
-      "locationName": "无锡",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.医疗软件产品的部署实施\n2.熟悉数据库\n3.适应出差\n4.有良好的沟通与协调能力",
-      "encryptAddressId": "851a83514b13c9bf1nB-2N2_EFQ~",
-      "address": "无锡惠山区华清创意园南区6栋",
-      "longitude": 120.321551,
-      "latitude": 31.685144,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d7f086280fb898773d1e1b74e090fbf2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c906fba663b8d3164fd507d6ffc4e422",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "互联网医疗",
-        "C#"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200406/00827d29c1ffae5a60a924f60ed0bede9bfc4375ff07cf488a552ce1bb3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "企明星科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d422ff4db5b4b7ef1XN93N20GQ~~",
-      "brandName": "企明星科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200819/aea6f589442edfe436e79fe9098c70509bfc4375ff07cf488a552ce1bb313129.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "软件开发与销售，主要客户是中大型生产制造企业与医院",
-      "labels": [
-        "零食下午茶",
-        "节日福利",
-        "交通补助",
-        "通讯补贴",
-        "员工旅游",
-        "带薪年假",
-        "全勤奖",
-        "加班补助",
-        "定期体检",
-        "补充医疗保险",
-        "五险一金"
-      ],
-      "activeTime": 1732169224662,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "企明星科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "企明星科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200406/00827d29c1ffae5a60a924f60ed0bede9bfc4375ff07cf488a552ce1bb3_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732169224662,
+        "brandName": "企明星科技",
+        "customerBrandName": "企明星科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d422ff4db5b4b7ef1XN93N20GQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "软件开发与销售，主要客户是中大型生产制造企业与医院",
+        "labels": [
+            "零食下午茶",
+            "节日福利",
+            "交通补助",
+            "通讯补贴",
+            "员工旅游",
+            "带薪年假",
+            "全勤奖",
+            "加班补助",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200819/aea6f589442edfe436e79fe9098c70509bfc4375ff07cf488a552ce1bb313129.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "无锡惠山区华清创意园南区6栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "851a83514b13c9bf1nB-2N2_EFQ~",
+        "encryptId": "23d05d62f98cb4e233Bz2d68FVc~",
+        "encryptUserId": "20405210bc9b26cf1nR43d-_ElJY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.685144,
+        "location": 101190200,
+        "locationName": "无锡",
+        "longitude": 120.321551,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c906fba663b8d3164fd507d6ffc4e422",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "1.医疗软件产品的部署实施\n2.熟悉数据库\n3.适应出差\n4.有良好的沟通与协调能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "互联网医疗",
+            "C#"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d7f086280fb898773d1e1b74e090fbf2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "5rdv0j412UKzb-91dIFqiAEGdPkya4p7iKAqdOhT8Pvda2bKlogHZDsSlFRDzqp_rcIbQcwTP_RLR7aHPrvjQcEPerCIHoTj536sYNt4vHE78-yGTziyqn0b9qUXwLJp1durgJg5Uj9H",
+    "selfAccess": false,
+    "sessionId": null
 }

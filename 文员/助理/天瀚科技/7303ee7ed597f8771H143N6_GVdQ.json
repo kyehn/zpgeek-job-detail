@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Sip0u7PnwfmFl-P1U6IQMjPTVpeidsqWyIlJzvMBY0W5MxSaiGj_h3pXBUcBmttEyYnRyKR_KRhUz-FgRJWcM8-54ud2An3Ck_QK2PoGG073qvAr39k4eH6nfDod3NRmjU7ykKjBjKwY",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7303ee7ed597f8771H143N6_GVdQ",
-      "encryptUserId": "2ba7665aff91ed100nBz2N-1F1RU",
-      "invalidStatus": false,
-      "jobName": "助理",
-      "position": 150210,
-      "positionName": "文员",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：1、客户订单、询单报价\n                  2、订单建立、管理/回传管理\n                  3、出货管理\n                  4、对账管理\n任职要求：1、大专及以上学历\n                  2、生管、业务工作经验一年以上\n                  3、熟悉ERP系统，有用友U9、MES经验更佳\n                  4、熟悉Excel、Word等办公软件\n                  5、性格开朗、沟通能力强、有一定的抗压能力",
-      "encryptAddressId": "8ac5d7d654fde5110XF70tS1F1E~",
-      "address": "苏州吴江区天瀚科技(吴江)有限公司燕浜路210号",
-      "longitude": 120.70549,
-      "latitude": 31.162655,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d9fd4e9b0fb7a85c71a6a549c473e96",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12179d7cfdd06c51a14c14e0c2d78235",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "生管",
-        "业务助理"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240108/607f1f3d68754fd0bf32e514b8ab146a3f98b004993882768fcdcc0b51575bf015619066b139482_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "天瀚科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f2e35aa33088df3c031y2ty5",
-      "brandName": "天瀚科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220824/7bf6f160950405e926a4d7b70f75f2ebbbaaacdc9f8b56328fcdcc0b51575bf015619066b1394825.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "天瀚科技（吴江）有限公司，2001年1月成立于吴江经济技术开发区，主要生产产品为CMS（电子外后视镜）、行车记录仪、流媒体后视镜、360度环视摄像头等。\n      凭借投资方丰富的市场资源，公司正与各大主流车厂就行程记录仪、流媒体后视镜、摄像头等产品进行接洽。目前已经与国内三大主流车厂签订定点协议。\n    公司致力于成为汽车电子部件的影像智能驾驶方案的首选供应商，创造汽车幸福之家！",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "免费工装",
-        "宿舍有空调",
-        "包吃",
-        "带薪年假",
-        "法定节假日三薪",
-        "节假日加班费",
-        "夜班补助",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1731204370792,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "天瀚科技",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "天瀚科技",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240108/607f1f3d68754fd0bf32e514b8ab146a3f98b004993882768fcdcc0b51575bf015619066b139482_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731204370792,
+        "brandName": "天瀚科技",
+        "customerBrandName": "天瀚科技",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "f2e35aa33088df3c031y2ty5",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "天瀚科技（吴江）有限公司，2001年1月成立于吴江经济技术开发区，主要生产产品为CMS（电子外后视镜）、行车记录仪、流媒体后视镜、360度环视摄像头等。\n      凭借投资方丰富的市场资源，公司正与各大主流车厂就行程记录仪、流媒体后视镜、摄像头等产品进行接洽。目前已经与国内三大主流车厂签订定点协议。\n    公司致力于成为汽车电子部件的影像智能驾驶方案的首选供应商，创造汽车幸福之家！",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "免费工装",
+            "宿舍有空调",
+            "包吃",
+            "带薪年假",
+            "法定节假日三薪",
+            "节假日加班费",
+            "夜班补助",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220824/7bf6f160950405e926a4d7b70f75f2ebbbaaacdc9f8b56328fcdcc0b51575bf015619066b1394825.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴江区天瀚科技(吴江)有限公司燕浜路210号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8ac5d7d654fde5110XF70tS1F1E~",
+        "encryptId": "7303ee7ed597f8771H143N6_GVdQ",
+        "encryptUserId": "2ba7665aff91ed100nBz2N-1F1RU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.162655,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.70549,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12179d7cfdd06c51a14c14e0c2d78235",
+        "position": 150210,
+        "positionName": "文员",
+        "postDescription": "岗位职责：1、客户订单、询单报价\n                  2、订单建立、管理/回传管理\n                  3、出货管理\n                  4、对账管理\n任职要求：1、大专及以上学历\n                  2、生管、业务工作经验一年以上\n                  3、熟悉ERP系统，有用友U9、MES经验更佳\n                  4、熟悉Excel、Word等办公软件\n                  5、性格开朗、沟通能力强、有一定的抗压能力",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "生管",
+            "业务助理"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d9fd4e9b0fb7a85c71a6a549c473e96"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Sip0u7PnwfmFl-P1U6IQMjPTVpeidsqWyIlJzvMBY0W5MxSaiGj_h3pXBUcBmttEyYnRyKR_KRhUz-FgRJWcM8-54ud2An3Ck_QK2PoGG073qvAr39k4eH6nfDod3NRmjU7ykKjBjKwY",
+    "selfAccess": false,
+    "sessionId": null
 }

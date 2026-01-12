@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "d95vydIDPqhzK-o1CueiYip27sqpqsXJQ5pOkpbtQKex2l4o-2oiQyLMqZPlnKbVs27jVNAirLT74Pvlm0JqfdatqlB4P9JbZ9of--nf29u694mFx8s~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d7638328124a89a1nN539y-EVBT",
-      "encryptUserId": "5504b607707a9ca71XJy2t-_GFY~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "参与JAVA/J2EE技术的相关产品设计、开发、测试等产品研发工作",
-      "encryptAddressId": "ade008cb5541512f1nB83Ni0GVM~",
-      "address": "南京浦口区南京软件园·创智大厦Ｂ座8",
-      "longitude": 118.696963,
-      "latitude": 32.155846,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b28804d04fe845127450798a14ace597",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a1c4ae297bd70bb30d309ecd7f3818b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络编程",
-        "MySQL",
-        "企业级应用开发",
-        "Linux",
-        "软件工程师",
-        "Eclipse",
-        "Python",
-        "HTML"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "执行董事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211027/607f1f3d68754fd01abe6158e80d14c9d1dbb3975962ae5cc724f09438d7880ad8ac0f4a083_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "耀贤信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6645044bf02aa3271nx_3d65E1A~",
-      "brandName": "耀贤信息",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "年终奖"
-      ],
-      "activeTime": 1721535760672,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "耀贤信息",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "耀贤信息",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211027/607f1f3d68754fd01abe6158e80d14c9d1dbb3975962ae5cc724f09438d7880ad8ac0f4a083_b.jpg",
+        "title": "执行董事"
+    },
+    "brandComInfo": {
+        "activeTime": 1721535760672,
+        "brandName": "耀贤信息",
+        "customerBrandName": "耀贤信息",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "6645044bf02aa3271nx_3d65E1A~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京浦口区南京软件园·创智大厦Ｂ座8",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ade008cb5541512f1nB83Ni0GVM~",
+        "encryptId": "1d7638328124a89a1nN539y-EVBT",
+        "encryptUserId": "5504b607707a9ca71XJy2t-_GFY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.155846,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.696963,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a1c4ae297bd70bb30d309ecd7f3818b",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "参与JAVA/J2EE技术的相关产品设计、开发、测试等产品研发工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "网络编程",
+            "MySQL",
+            "企业级应用开发",
+            "Linux",
+            "软件工程师",
+            "Eclipse",
+            "Python",
+            "HTML"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b28804d04fe845127450798a14ace597"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "d95vydIDPqhzK-o1CueiYip27sqpqsXJQ5pOkpbtQKex2l4o-2oiQyLMqZPlnKbVs27jVNAirLT74Pvlm0JqfdatqlB4P9JbZ9of--nf29u694mFx8s~",
+    "selfAccess": false,
+    "sessionId": null
 }

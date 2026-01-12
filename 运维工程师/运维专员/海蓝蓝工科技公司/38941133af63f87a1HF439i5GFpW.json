@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "d5foVP2891dUl-p1m-iUnOs5xJEcILc6f-8xEp9xU2b-gmJJybwDyaVd4k5Df556wtAhmd6rqOgJVhTKEst1tDkciQllMIBMW_DJcCPAM0vDr0L7TMk3LjSRKwP1yUAVgN3zQxl7yrO533EIc38Pocw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "38941133af63f87a1HF439i5GFpW",
-      "encryptUserId": "bca84089cdc320b403R53tW7EVU~",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101310100,
-      "locationName": "海口",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1、对接客户需求；\n2、确认平台是否运行正常，需要对平台、政策需要进行讲解；\n3、维护良好的客户关系；\n4、会基本的电脑操作，懂得基本的计算机基础知识，性格开朗，",
-      "encryptAddressId": "22f643c043f0508b1nBz2d6-F1NTx4S9WfOd",
-      "address": "海口秀英区华盛中央公园一楼",
-      "longitude": 110.194881,
-      "latitude": 20.042205,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/096f55189025e86784fbe5b5a88da6bf",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eedcffd28e55af5a614ce9b8f692c09c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Golang",
-        "网络运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "技术经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200613/ff40313339cf71f67689d18f4973b4eb326fe8fa3ce56d021f9d968ab08_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "海蓝蓝工科技公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "79724c63d7ee3bea1HZ83NS_Elo~",
-      "brandName": "海蓝蓝工科技公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100030,
-      "industryName": "物联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731620239510,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "海蓝蓝工科技公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "海蓝蓝工科技公司",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200613/ff40313339cf71f67689d18f4973b4eb326fe8fa3ce56d021f9d968ab08_b.jpg",
+        "title": "技术经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731620239510,
+        "brandName": "海蓝蓝工科技公司",
+        "customerBrandName": "海蓝蓝工科技公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "79724c63d7ee3bea1HZ83NS_Elo~",
+        "focusBrand": false,
+        "industry": 100030,
+        "industryName": "物联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "海口秀英区华盛中央公园一楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "22f643c043f0508b1nBz2d6-F1NTx4S9WfOd",
+        "encryptId": "38941133af63f87a1HF439i5GFpW",
+        "encryptUserId": "bca84089cdc320b403R53tW7EVU~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 20.042205,
+        "location": 101310100,
+        "locationName": "海口",
+        "longitude": 110.194881,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eedcffd28e55af5a614ce9b8f692c09c",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "任职要求：\n1、对接客户需求；\n2、确认平台是否运行正常，需要对平台、政策需要进行讲解；\n3、维护良好的客户关系；\n4、会基本的电脑操作，懂得基本的计算机基础知识，性格开朗，",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "Golang",
+            "网络运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/096f55189025e86784fbe5b5a88da6bf"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "d5foVP2891dUl-p1m-iUnOs5xJEcILc6f-8xEp9xU2b-gmJJybwDyaVd4k5Df556wtAhmd6rqOgJVhTKEst1tDkciQllMIBMW_DJcCPAM0vDr0L7TMk3LjSRKwP1yUAVgN3zQxl7yrO533EIc38Pocw~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tPnkmmvjEUiKT-S1MdiAmRSB1pBCPpmEsgZYj88c52jnSs9SLTwCbR2m2-gAMriO9mHv2yYzE2e3dluh5a5A9cp0bsIcBYxe36SXuqXNKEj3jrl9Elpz",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a76ee048b3b633b01HZ93Ny0F1pX",
-      "encryptUserId": "aa0da84cddcf74461nZ62d-4FlNU",
-      "invalidStatus": false,
-      "jobName": "驻点运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101201100,
-      "locationName": "随州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n1、网络服务器和交换机的基本配置，中小型网络，网络设备实践与管理，网络综合布线技术，linux网络操作配置与管理，网络安全基础。\n2、能独立完成与用户的技术交流、应用系统演示等工作；\n\n\n任职要求：\n1、专科以上学历，计算机专业，计算机网络专业，熟悉网络交换机与服务器的基本配置、网络布线等\n2、熟悉计算机软、硬件的安装和卸载；\n3、具有较强的学习、动手能力；\n4、4000-5000元/月薪资。\n5、广水市长期驻点。\n\n公司福利：享受国家法定节假日，差旅补贴，年终奖金，各种节日福利，缴纳五险一金。",
-      "encryptAddressId": "31774fe7c7ce76fd1nBz2dq1FlJR",
-      "address": "随州广水市广水市",
-      "longitude": 113.826244,
-      "latitude": 31.630081,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231219/48ba41acc9cef1bf51a3444b70ba011d5f720ee5cadf015c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231219/48ba41acc9cef1bfb556866c466ed6be687b8727662afdb26bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "实施交付运维",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蒋女士",
-      "title": "商务经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230227/607f1f3d68754fd091ed30073d8220292ea517e26ad92a08fa28e9aa938edafaf757a33fad8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "武汉乾文科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a20434e227a11a8e1XB809S8F1U~",
-      "brandName": "武汉乾文科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730072656798,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉乾文科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉乾文科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "蒋女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230227/607f1f3d68754fd091ed30073d8220292ea517e26ad92a08fa28e9aa938edafaf757a33fad8_b.jpg",
+        "title": "商务经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730072656798,
+        "brandName": "武汉乾文科技有限公司",
+        "customerBrandName": "武汉乾文科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a20434e227a11a8e1XB809S8F1U~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "随州广水市广水市",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "31774fe7c7ce76fd1nBz2dq1FlJR",
+        "encryptId": "a76ee048b3b633b01HZ93Ny0F1pX",
+        "encryptUserId": "aa0da84cddcf74461nZ62d-4FlNU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "驻点运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.630081,
+        "location": 101201100,
+        "locationName": "随州",
+        "longitude": 113.826244,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231219/48ba41acc9cef1bfb556866c466ed6be687b8727662afdb26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容：\n1、网络服务器和交换机的基本配置，中小型网络，网络设备实践与管理，网络综合布线技术，linux网络操作配置与管理，网络安全基础。\n2、能独立完成与用户的技术交流、应用系统演示等工作；\n\n\n任职要求：\n1、专科以上学历，计算机专业，计算机网络专业，熟悉网络交换机与服务器的基本配置、网络布线等\n2、熟悉计算机软、硬件的安装和卸载；\n3、具有较强的学习、动手能力；\n4、4000-5000元/月薪资。\n5、广水市长期驻点。\n\n公司福利：享受国家法定节假日，差旅补贴，年终奖金，各种节日福利，缴纳五险一金。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "网络运维",
+            "实施交付运维",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231219/48ba41acc9cef1bf51a3444b70ba011d5f720ee5cadf015c6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tPnkmmvjEUiKT-S1MdiAmRSB1pBCPpmEsgZYj88c52jnSs9SLTwCbR2m2-gAMriO9mHv2yYzE2e3dluh5a5A9cp0bsIcBYxe36SXuqXNKEj3jrl9Elpz",
+    "selfAccess": false,
+    "sessionId": null
 }

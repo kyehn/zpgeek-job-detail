@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YpIr0oxoDCtoA-_1th6T9FJoCWHDRaPckBAyl82B7q_S4QoJ0meWiJbdFmPhhCjCwCCzU72yQ5dhuALXYVnlKq3gYezI1-STUJHi-rjElEaf1tMwS8BajB563CY4gYyvMV6C41B_pLVE",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5b4604776b34cb9c1nRz3Ny0E1BV",
-      "encryptUserId": "c9407f222d3196343n1-2t67F1o~",
-      "invalidStatus": false,
-      "jobName": "Python",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101290100,
-      "locationName": "昆明",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1年以上Python开发经验\n思维有较强的逻辑分析能力和学习\n做事严谨，注重细节",
-      "encryptAddressId": "df93db17ff19ceac1HN52d64EFY~",
-      "address": "昆明安宁市云南程鹏饲料公司办公楼",
-      "longitude": 102.416333,
-      "latitude": 24.931163,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4da0039ee3a697d98a7e2f5af0599cfc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b1e2c7be136f1c379cf2171dab5cc7fd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "Python工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "唐先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "云南鹏程集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "96291cbc4be8ad641nZ93du6EVc~",
-      "brandName": "云南鹏程集团",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101303,
-      "industryName": "农/林/牧/渔",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1716694562337,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云南鹏程集团",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云南鹏程集团",
+        "certificated": true,
+        "large": null,
+        "name": "唐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1716694562337,
+        "brandName": "云南鹏程集团",
+        "customerBrandName": "云南鹏程集团",
+        "customerBrandStageName": "",
+        "encryptBrandId": "96291cbc4be8ad641nZ93du6EVc~",
+        "focusBrand": false,
+        "industry": 101303,
+        "industryName": "农/林/牧/渔",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "昆明安宁市云南程鹏饲料公司办公楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "df93db17ff19ceac1HN52d64EFY~",
+        "encryptId": "5b4604776b34cb9c1nRz3Ny0E1BV",
+        "encryptUserId": "c9407f222d3196343n1-2t67F1o~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Python",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.931163,
+        "location": 101290100,
+        "locationName": "昆明",
+        "longitude": 102.416333,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b1e2c7be136f1c379cf2171dab5cc7fd",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "1年以上Python开发经验\n思维有较强的逻辑分析能力和学习\n做事严谨，注重细节",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "Python",
+            "Python工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4da0039ee3a697d98a7e2f5af0599cfc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YpIr0oxoDCtoA-_1th6T9FJoCWHDRaPckBAyl82B7q_S4QoJ0meWiJbdFmPhhCjCwCCzU72yQ5dhuALXYVnlKq3gYezI1-STUJHi-rjElEaf1tMwS8BajB563CY4gYyvMV6C41B_pLVE",
+    "selfAccess": false,
+    "sessionId": null
 }

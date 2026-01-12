@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WalTTQQX6Q-Q0-c1pWfh3pb8rOURGtLedgXbyltpH0BJ7MyDzwUXME6OvGlSkkaFtZtO_99YgLHGuPiVkZTsgsqxn9h8mT7DheUsr_1_r04Xzcfk",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5604ed325ed915720HN-29m8F1Q~",
-      "encryptUserId": "a1de0f1bbf085c2d1XR53ty-ElQ~",
-      "invalidStatus": false,
-      "jobName": "软件开发实习生",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "odoo开发\n其他软件开发",
-      "encryptAddressId": "3377991ee62b24891HR73dq_E1M~",
-      "address": "上海普陀区华东师范大学(中北校区)",
-      "longitude": 121.40468,
-      "latitude": 31.227938,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/770d305e941539d32064214b7242efc3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f9291bfc291f5f878d50b83186136a7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "C#"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "冯先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200613/f27cbda9d1b1a423a9aa8ea34b3358855554b1cbaeb7dfcc889b8663ee1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "晶诚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b1a8260dadaa80aa0XZ939u9GQ~~",
-      "brandName": "晶诚",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722936143125,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "晶诚",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "晶诚",
+        "certificated": true,
+        "large": null,
+        "name": "冯先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200613/f27cbda9d1b1a423a9aa8ea34b3358855554b1cbaeb7dfcc889b8663ee1_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1722936143125,
+        "brandName": "晶诚",
+        "customerBrandName": "晶诚",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b1a8260dadaa80aa0XZ939u9GQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海普陀区华东师范大学(中北校区)",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3377991ee62b24891HR73dq_E1M~",
+        "encryptId": "5604ed325ed915720HN-29m8F1Q~",
+        "encryptUserId": "a1de0f1bbf085c2d1XR53ty-ElQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.227938,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.40468,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f9291bfc291f5f878d50b83186136a7",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "odoo开发\n其他软件开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "Python",
+            "C#"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/770d305e941539d32064214b7242efc3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WalTTQQX6Q-Q0-c1pWfh3pb8rOURGtLedgXbyltpH0BJ7MyDzwUXME6OvGlSkkaFtZtO_99YgLHGuPiVkZTsgsqxn9h8mT7DheUsr_1_r04Xzcfk",
+    "selfAccess": false,
+    "sessionId": null
 }

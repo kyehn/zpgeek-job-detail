@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "diS9V8wp6RdGO-21VRG6YLiAGiHlNDYpAPEtg9tENryqxn79maJtYyFyebMtkyulD0dspfx2IZpM5wUw9p_0UqLsO_cc34wDDTO1y0QM-8FfhCU9ea6-QK3FE0UKoMlg4q6gvMTSJBU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "998ad3b6b9e44c393nV-39u4Flo~",
-      "encryptUserId": "addbc90b8df828c21HVy2d68FVU~",
-      "invalidStatus": false,
-      "jobName": "软件工程师（管培生）",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-6K",
-      "payTypeDesc": null,
-      "postDescription": "培养核心团队成员\n培养核心团队成员\n培养核心团队成员\n培养核心团队成员",
-      "encryptAddressId": "9750a004aabc79751HRy3tm8EFQ~",
-      "address": "上海浦东新区张江微电子港可远程办公",
-      "longitude": 121.5818863,
-      "latitude": 31.1980896,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/055817dd14ebf174d1ad50fdd34a5842",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09e8ea2aea6cedea2fba4888168c80f4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据结构",
-        "微服务架构",
-        "多线程",
-        "Java",
-        "JavaScript",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171015/f8496409354b64a13ed9ba847878528f8d47ed83c3217f48206e9751a8f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "原力坐标科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8ebfc047102b9b3733F_3Nu8EQ~~",
-      "brandName": "原力坐标科技",
-      "logo": null,
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "巨大潜力空间",
-      "labels": [],
-      "activeTime": 1725525878032,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "原力坐标科技",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "原力坐标科技",
+        "certificated": true,
+        "large": null,
+        "name": "孙先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171015/f8496409354b64a13ed9ba847878528f8d47ed83c3217f48206e9751a8f_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725525878032,
+        "brandName": "原力坐标科技",
+        "customerBrandName": "原力坐标科技",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "8ebfc047102b9b3733F_3Nu8EQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "巨大潜力空间",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区张江微电子港可远程办公",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9750a004aabc79751HRy3tm8EFQ~",
+        "encryptId": "998ad3b6b9e44c393nV-39u4Flo~",
+        "encryptUserId": "addbc90b8df828c21HVy2d68FVU~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "软件工程师（管培生）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.1980896,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.5818863,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09e8ea2aea6cedea2fba4888168c80f4",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "培养核心团队成员\n培养核心团队成员\n培养核心团队成员\n培养核心团队成员",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-6K",
+        "showSkills": [
+            "数据结构",
+            "微服务架构",
+            "多线程",
+            "Java",
+            "JavaScript",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/055817dd14ebf174d1ad50fdd34a5842"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "diS9V8wp6RdGO-21VRG6YLiAGiHlNDYpAPEtg9tENryqxn79maJtYyFyebMtkyulD0dspfx2IZpM5wUw9p_0UqLsO_cc34wDDTO1y0QM-8FfhCU9ea6-QK3FE0UKoMlg4q6gvMTSJBU~",
+    "selfAccess": false,
+    "sessionId": null
 }

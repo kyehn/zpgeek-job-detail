@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PCHZEf_aanjgT-j1z3cAuE1zbirI-pW4JwvC1lNpo0gONn3xjEYDmg1JCsO8VL-DGZ5_wcjpN0DSqwX8VGrFA951fjGQrBDW-9sl7o2w2_XknPs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dc51be200d8e6d121XV-0ti_Els~",
-      "encryptUserId": "646eede51abff2551HR529W7Fls~",
-      "invalidStatus": false,
-      "jobName": "韩语/朝鲜语翻译",
-      "position": 260303,
-      "positionName": "韩语/朝鲜语翻译",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.具有互联网行业相关认知\n2.对韩国文化有一定的了解\n3.了解一部分软件中的韩语名词\n4.学习能力强，有团队合作精神！",
-      "encryptAddressId": "b2e08d543c9ae1fa0XB72NS8EQ~~",
-      "address": "杭州上城区新加坡杭州科技园(6号大街)3幢407",
-      "longitude": 120.3697,
-      "latitude": 30.30355,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c13060ab950b7c673d68ea5ffce866f9",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b4354fcf96d6e3a1da484d2205f78fa",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "笔译",
-        "韩语/朝鲜语翻译"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170828/c7dbd3e7839bfc6a8cace96b1e2fc79ec753c873644eb517d07a0b2cf5f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "杭州超享",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "832605711da9f30a3n140tq9",
-      "brandName": "杭州超享",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725133658899,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州超享",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州超享",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170828/c7dbd3e7839bfc6a8cace96b1e2fc79ec753c873644eb517d07a0b2cf5f_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725133658899,
+        "brandName": "杭州超享",
+        "customerBrandName": "杭州超享",
+        "customerBrandStageName": "",
+        "encryptBrandId": "832605711da9f30a3n140tq9",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州上城区新加坡杭州科技园(6号大街)3幢407",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "b2e08d543c9ae1fa0XB72NS8EQ~~",
+        "encryptId": "dc51be200d8e6d121XV-0ti_Els~",
+        "encryptUserId": "646eede51abff2551HR529W7Fls~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "韩语/朝鲜语翻译",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.30355,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.3697,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b4354fcf96d6e3a1da484d2205f78fa",
+        "position": 260303,
+        "positionName": "韩语/朝鲜语翻译",
+        "postDescription": "1.具有互联网行业相关认知\n2.对韩国文化有一定的了解\n3.了解一部分软件中的韩语名词\n4.学习能力强，有团队合作精神！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "笔译",
+            "韩语/朝鲜语翻译"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c13060ab950b7c673d68ea5ffce866f9"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PCHZEf_aanjgT-j1z3cAuE1zbirI-pW4JwvC1lNpo0gONn3xjEYDmg1JCsO8VL-DGZ5_wcjpN0DSqwX8VGrFA951fjGQrBDW-9sl7o2w2_XknPs~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RsZNbRZhz7yCl-J10zIyYCQsPx8Z9Mp6YGhOgP7ddIpXKvg8Upx8eDO-k3L-X98ehLvND14yPCTCObYdG4YEymVpyiLAF52s_S7d2jgUanPNjliwIuHWQ3V_h-23KKkTzoxO-44nMn4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2e5ef289af82f7191H192dm6GVNQ",
-      "encryptUserId": "58727b0ede6e231a3nx90960EFc~",
-      "invalidStatus": false,
-      "jobName": "APP测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "外派大厂短期春节项目，项目周期11.1-2.28左右，包三餐，下午茶福利~~\n短期项目哦，可以接受的欢迎投递简历！！\n\n工作内容:\nAPP内，任意功能上线，最终产品质量把关，多为回归需求。通过客户端回归后才可上线。\n\n岗位要求:\n1、2年以上客户端测试经验，有IOS/APP测试经验的同学可优先推荐；\n2、沟通良好，抗压能力好，测试基础良好(用例、工具使用、问题定位排查等)，学习能力强；\n3、以往项目清晰表述，逻辑思维强者加分。",
-      "encryptAddressId": "74928fbb9dcc5ff41nB509q6GVVZxIy4Wfuf",
-      "address": "北京海淀区大钟寺广场2号楼1",
-      "longitude": 116.343032,
-      "latitude": 39.966601,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17868314906e6fdb94519e6babf1214e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cce6a2e244f25d1fbb635e95ddd9cdc5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "性能测试",
-        "功能测试",
-        "APP测试",
-        "客户端"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "徐女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241025/607f1f3d68754fd0a4df26b5f64fee16e622e653916ad09a7771f4eac779c10b696d11b4193a14b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "微创软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "391e29eb0ce304cb1Xd63tW5",
-      "brandName": "微创软件",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210422/cc7c3877732130f7c5d1c238da0e0df65177a0ce9056aae91081a5b97ab14c45_s.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "上海微创软件股份有限公司2002年由微软与上海市政府共同创办，是微软在华投资的第一家合资公司。微创始终秉承高标准的服务品质与“成就客户”的服务理念，在全球设有20余处交付中心，分布在中国、美国、日本、澳大利亚，凭借在汽车、保险、高科技、金融、互联网等行业的深厚积累和丰富经验，与2500余家企业与政府客户达成了长期、稳定、友好的合作。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "免费班车",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1731060009285,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "微创软件",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "微创软件",
+        "certificated": true,
+        "large": null,
+        "name": "徐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241025/607f1f3d68754fd0a4df26b5f64fee16e622e653916ad09a7771f4eac779c10b696d11b4193a14b_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1731060009285,
+        "brandName": "微创软件",
+        "customerBrandName": "微创软件",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "391e29eb0ce304cb1Xd63tW5",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "上海微创软件股份有限公司2002年由微软与上海市政府共同创办，是微软在华投资的第一家合资公司。微创始终秉承高标准的服务品质与“成就客户”的服务理念，在全球设有20余处交付中心，分布在中国、美国、日本、澳大利亚，凭借在汽车、保险、高科技、金融、互联网等行业的深厚积累和丰富经验，与2500余家企业与政府客户达成了长期、稳定、友好的合作。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "免费班车",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210422/cc7c3877732130f7c5d1c238da0e0df65177a0ce9056aae91081a5b97ab14c45_s.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区大钟寺广场2号楼1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "74928fbb9dcc5ff41nB509q6GVVZxIy4Wfuf",
+        "encryptId": "2e5ef289af82f7191H192dm6GVNQ",
+        "encryptUserId": "58727b0ede6e231a3nx90960EFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "APP测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.966601,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.343032,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cce6a2e244f25d1fbb635e95ddd9cdc5",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "外派大厂短期春节项目，项目周期11.1-2.28左右，包三餐，下午茶福利~~\n短期项目哦，可以接受的欢迎投递简历！！\n\n工作内容:\nAPP内，任意功能上线，最终产品质量把关，多为回归需求。通过客户端回归后才可上线。\n\n岗位要求:\n1、2年以上客户端测试经验，有IOS/APP测试经验的同学可优先推荐；\n2、沟通良好，抗压能力好，测试基础良好(用例、工具使用、问题定位排查等)，学习能力强；\n3、以往项目清晰表述，逻辑思维强者加分。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "测试工作经验",
+            "性能测试",
+            "功能测试",
+            "APP测试",
+            "客户端"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17868314906e6fdb94519e6babf1214e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RsZNbRZhz7yCl-J10zIyYCQsPx8Z9Mp6YGhOgP7ddIpXKvg8Upx8eDO-k3L-X98ehLvND14yPCTCObYdG4YEymVpyiLAF52s_S7d2jgUanPNjliwIuHWQ3V_h-23KKkTzoxO-44nMn4~",
+    "selfAccess": false,
+    "sessionId": null
 }

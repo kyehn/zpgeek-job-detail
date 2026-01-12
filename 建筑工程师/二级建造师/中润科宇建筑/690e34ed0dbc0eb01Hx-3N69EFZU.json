@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BKlllaM7os5Cd-V1c_9W9qEi_ajrbLaeL9A7QZbBHC2jHBnVfkfKBuKC-1xwiwBwUTi5hggfZYgpx2NJ6TO4TImNCAxuwc3j-vn4ZtwkqQEuZ46gOZEqh9PLZ2WrcJT06aaWshVirRc4lXc~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "690e34ed0dbc0eb01Hx-3N69EFZU",
-      "encryptUserId": "f89e49c5022bd7cd0nx93t-7FFVX",
-      "invalidStatus": false,
-      "jobName": "二级建造师",
-      "position": 220202,
-      "positionName": "建筑工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "1-2K",
-      "payTypeDesc": null,
-      "postDescription": "本公司直招兼职二级建造师，水利，市政，公路，机电，房建，双专业建造师，各专业中级工程师！中介勿扰！",
-      "encryptAddressId": "78035670476e91381nR739i_GVZVx4W8UPqa",
-      "address": "成都金牛区量力钢铁交易大厦C座1506",
-      "longitude": 104.04897,
-      "latitude": 30.727339,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf7a6fd617335944974e6344c2f7605be76bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230520/48ba41acc9cef1bf9a1c5cbe9bcf5b33b8f151c99fe233a66bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "二级建造师",
-        "中级工程师职称"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孙女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "中润科宇建筑",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "310f5ccb67d7a00f1Xdy3961ElI~",
-      "brandName": "中润科宇建筑",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729732805042,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中润科宇建筑",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中润科宇建筑",
+        "certificated": true,
+        "large": null,
+        "name": "孙女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1729732805042,
+        "brandName": "中润科宇建筑",
+        "customerBrandName": "中润科宇建筑",
+        "customerBrandStageName": "",
+        "encryptBrandId": "310f5ccb67d7a00f1Xdy3961ElI~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都金牛区量力钢铁交易大厦C座1506",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "78035670476e91381nR739i_GVZVx4W8UPqa",
+        "encryptId": "690e34ed0dbc0eb01Hx-3N69EFZU",
+        "encryptUserId": "f89e49c5022bd7cd0nx93t-7FFVX",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "二级建造师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.727339,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.04897,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230520/48ba41acc9cef1bf9a1c5cbe9bcf5b33b8f151c99fe233a66bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 220202,
+        "positionName": "建筑工程师",
+        "postDescription": "本公司直招兼职二级建造师，水利，市政，公路，机电，房建，双专业建造师，各专业中级工程师！中介勿扰！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "1-2K",
+        "showSkills": [
+            "二级建造师",
+            "中级工程师职称"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf7a6fd617335944974e6344c2f7605be76bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BKlllaM7os5Cd-V1c_9W9qEi_ajrbLaeL9A7QZbBHC2jHBnVfkfKBuKC-1xwiwBwUTi5hggfZYgpx2NJ6TO4TImNCAxuwc3j-vn4ZtwkqQEuZ46gOZEqh9PLZ2WrcJT06aaWshVirRc4lXc~",
+    "selfAccess": false,
+    "sessionId": null
 }

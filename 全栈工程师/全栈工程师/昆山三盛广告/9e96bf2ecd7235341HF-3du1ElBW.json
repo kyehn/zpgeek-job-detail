@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wncM-H7viobHC-r126I8pF82wogEDXxsd7JlAq8GBWVldTlp8743MfYO6umkavX_FOty_7mLvNjP0FhIp6UUAP1BIagOgaVcDRm_b80xnZ0udZ2fpA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9e96bf2ecd7235341HF-3du1ElBW",
-      "encryptUserId": "94a5bdd570732f7a1HN809u4FVE~",
-      "invalidStatus": false,
-      "jobName": "全栈工程师",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "精通小程序，h5，uniapp 前后端开发\nPC端  管理端开发  \n前端技术 VUE   后端是java\n不需要到公司上班   长期兼职  按项目结束发放工资。\n自己项目，能胜任的联系我，捣糨糊勿扰",
-      "encryptAddressId": "107ea3208c12d14e03d73dS8E1E~",
-      "address": "苏州昆山市昆山裕兴发运输有限公司(中环北线)5号楼",
-      "longitude": 120.932452,
-      "latitude": 31.416243,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/632b7084b5c44a9ff4d7ece8bfdbb388",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b73b4d1fe2464a093a6d745da950f0a5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "CSS",
-        "JavaScript",
-        "Vue",
-        "全栈无侧重",
-        "Node.js",
-        "全栈项目经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240529/607f1f3d68754fd0250799242b1ed5a65e819982e462bce9148dbc77f393c9f3308fa52ba9824ba_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "昆山三盛广告",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7cab02136d3ca8bd1nx62965FQ~~",
-      "brandName": "昆山三盛广告",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100101,
-      "industryName": "广告/公关/会展",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727940853960,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "昆山三盛广告",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "昆山三盛广告",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240529/607f1f3d68754fd0250799242b1ed5a65e819982e462bce9148dbc77f393c9f3308fa52ba9824ba_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727940853960,
+        "brandName": "昆山三盛广告",
+        "customerBrandName": "昆山三盛广告",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7cab02136d3ca8bd1nx62965FQ~~",
+        "focusBrand": false,
+        "industry": 100101,
+        "industryName": "广告/公关/会展",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州昆山市昆山裕兴发运输有限公司(中环北线)5号楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "107ea3208c12d14e03d73dS8E1E~",
+        "encryptId": "9e96bf2ecd7235341HF-3du1ElBW",
+        "encryptUserId": "94a5bdd570732f7a1HN809u4FVE~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "全栈工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 5,
+        "latitude": 31.416243,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.932452,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b73b4d1fe2464a093a6d745da950f0a5",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "精通小程序，h5，uniapp 前后端开发\nPC端  管理端开发  \n前端技术 VUE   后端是java\n不需要到公司上班   长期兼职  按项目结束发放工资。\n自己项目，能胜任的联系我，捣糨糊勿扰",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "Java",
+            "CSS",
+            "JavaScript",
+            "Vue",
+            "全栈无侧重",
+            "Node.js",
+            "全栈项目经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/632b7084b5c44a9ff4d7ece8bfdbb388"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wncM-H7viobHC-r126I8pF82wogEDXxsd7JlAq8GBWVldTlp8743MfYO6umkavX_FOty_7mLvNjP0FhIp6UUAP1BIagOgaVcDRm_b80xnZ0udZ2fpA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

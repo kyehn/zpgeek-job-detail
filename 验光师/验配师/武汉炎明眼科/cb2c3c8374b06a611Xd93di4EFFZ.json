@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UjcFIEecolhDo-m1Od7gMKsYWeCwQkWgv0rdzhZNfOTkNkExfZTx5DRHyUrfd-dYhnj6oBIqGjYYKK3OZ4WSmCqoxl5gjAnabTJAAw9KvJPKm6bCjCfF",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cb2c3c8374b06a611Xd93di4EFFZ",
-      "encryptUserId": "4e6323419dce46091nV62d61EFFX",
-      "invalidStatus": false,
-      "jobName": "验配师",
-      "position": 210109,
-      "positionName": "验光师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "1、五官端正，形象大方，吐词清晰，热爱工作，有职业心，积极向上，抱有一颗持续学习的心，\n2、有相应工作岗位的职业资格证书，\n3、掌握医学验光相关技术，如检影验光，视功能检查；生物测量仪，裂隙灯等相关眼科检查技术和仪器操作。\n4、有眼科医院工作经验者优先，有斜弱视处理经验与角膜塑形镜处理经验者优先，有视光中心心或专业眼镜门店工作者优先。",
-      "encryptAddressId": "fde4f06ca9e628470XJ-39S-EFM~",
-      "address": "武汉江夏区精益眼镜(江夏店总店)二楼",
-      "longitude": 114.316592,
-      "latitude": 30.347592,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff1cfb296ec76009c709b8ba90aee5ae",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d86f8bf74fd42b3480ea401ddaf87115",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全勤奖",
-        "绩效奖金",
-        "中级验光员",
-        "医院",
-        "视力检查",
-        "视功能训练指导",
-        "验光销售"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "路女士",
-      "title": "营运管理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200925/a45c72f48d83af5ab66000ecfd79cae8d5008520e5c193560ce7cf12062_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "武汉炎明眼科",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "950cd4a62a4f9ca91XZ72dq4F1A~",
-      "brandName": "武汉炎明眼科",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100402,
-      "industryName": "医疗服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725782888000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉炎明眼科",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉炎明眼科",
+        "certificated": true,
+        "large": null,
+        "name": "路女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200925/a45c72f48d83af5ab66000ecfd79cae8d5008520e5c193560ce7cf12062_b.jpg",
+        "title": "营运管理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725782888000,
+        "brandName": "武汉炎明眼科",
+        "customerBrandName": "武汉炎明眼科",
+        "customerBrandStageName": "",
+        "encryptBrandId": "950cd4a62a4f9ca91XZ72dq4F1A~",
+        "focusBrand": false,
+        "industry": 100402,
+        "industryName": "医疗服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江夏区精益眼镜(江夏店总店)二楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fde4f06ca9e628470XJ-39S-EFM~",
+        "encryptId": "cb2c3c8374b06a611Xd93di4EFFZ",
+        "encryptUserId": "4e6323419dce46091nV62d61EFFX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "验配师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.347592,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.316592,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d86f8bf74fd42b3480ea401ddaf87115",
+        "position": 210109,
+        "positionName": "验光师",
+        "postDescription": "1、五官端正，形象大方，吐词清晰，热爱工作，有职业心，积极向上，抱有一颗持续学习的心，\n2、有相应工作岗位的职业资格证书，\n3、掌握医学验光相关技术，如检影验光，视功能检查；生物测量仪，裂隙灯等相关眼科检查技术和仪器操作。\n4、有眼科医院工作经验者优先，有斜弱视处理经验与角膜塑形镜处理经验者优先，有视光中心心或专业眼镜门店工作者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "全勤奖",
+            "绩效奖金",
+            "中级验光员",
+            "医院",
+            "视力检查",
+            "视功能训练指导",
+            "验光销售"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff1cfb296ec76009c709b8ba90aee5ae"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UjcFIEecolhDo-m1Od7gMKsYWeCwQkWgv0rdzhZNfOTkNkExfZTx5DRHyUrfd-dYhnj6oBIqGjYYKK3OZ4WSmCqoxl5gjAnabTJAAw9KvJPKm6bCjCfF",
+    "selfAccess": false,
+    "sessionId": null
 }

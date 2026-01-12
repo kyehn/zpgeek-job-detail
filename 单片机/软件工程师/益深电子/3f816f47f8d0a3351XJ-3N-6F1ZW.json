@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "jtIjVzkQ-1p4V-b1rivk5Lj9RwDOlM9Cchidt9Dt7ms1c7R0OcL8T39BJk6wTurA_RVtXK-ccY-EOVGK8smOZivvg4-DZhFUiiEnHciXxN9XbwXJqdj8",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3f816f47f8d0a3351XJ-3N-6F1ZW",
-      "encryptUserId": "3d0517eb7cbd7f440nN93d-1GFZS",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100804,
-      "positionName": "单片机",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "单片机软硬件编写程序，熟悉汇编软件者优先考虑，对工作认真负责。 待遇方面 ：公司包吃住。",
-      "encryptAddressId": "dd6ec9c31dbab22d0H1709q4GVU~",
-      "address": "上海松江区上海益深电子有限公司3楼",
-      "longitude": 121.30491,
-      "latitude": 31.004856,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf7cdb025b964baf2f5d4dd7e1ebc45d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d949bf37c81ad9d86a517383353aef01",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "DSP开发",
-        "C",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "方女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "益深电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "97d9eeaebf8a21281XBy3t6-EVI~",
-      "brandName": "益深电子",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724963519873,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "益深电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "益深电子",
+        "certificated": true,
+        "large": null,
+        "name": "方女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1724963519873,
+        "brandName": "益深电子",
+        "customerBrandName": "益深电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "97d9eeaebf8a21281XBy3t6-EVI~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海松江区上海益深电子有限公司3楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "dd6ec9c31dbab22d0H1709q4GVU~",
+        "encryptId": "3f816f47f8d0a3351XJ-3N-6F1ZW",
+        "encryptUserId": "3d0517eb7cbd7f440nN93d-1GFZS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.004856,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.30491,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d949bf37c81ad9d86a517383353aef01",
+        "position": 100804,
+        "positionName": "单片机",
+        "postDescription": "单片机软硬件编写程序，熟悉汇编软件者优先考虑，对工作认真负责。 待遇方面 ：公司包吃住。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "DSP开发",
+            "C",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf7cdb025b964baf2f5d4dd7e1ebc45d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "jtIjVzkQ-1p4V-b1rivk5Lj9RwDOlM9Cchidt9Dt7ms1c7R0OcL8T39BJk6wTurA_RVtXK-ccY-EOVGK8smOZivvg4-DZhFUiiEnHciXxN9XbwXJqdj8",
+    "selfAccess": false,
+    "sessionId": null
 }

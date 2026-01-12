@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "witV_9wCYl645-X1yl8LFPs4ECgY-zG9yuyAQXhS-aX_LZCVUuSkZkOZRtclwOn1qqpCI6LbgRCxD48Bg1lA4ap93grfGRZJC0isODUz0zgSvgoT9YuV",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "570280ce06df65f71HB939S8FFRU",
-      "encryptUserId": "3f078b3a7612110a1nZ-3tW7ElBV",
-      "invalidStatus": false,
-      "jobName": "中级测试开发工程师",
-      "position": 100305,
-      "positionName": "测试开发",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\r\n1、负责智能驾驶应用层软件的功能测试及实车测试；\r\n2、参与智能驾驶应用层功能的单元测试用例编写；\r\n3、执行智能驾驶应用层功能的单元测试、数据log及问题定位；\r\n4、负责单元测试工具链的维护及相关软件版本的维护更新。\r\n\r\n岗位要求：\r\n1、有两年以上的智能驾驶相关产品的测试经验；\r\n2、熟悉C++/simulink，能够熟练应用TPT及vector cast软件进行单元测试；\r\n3、良好的汽车测试知识体系，对CAN/CANFD 总线熟悉。",
-      "encryptAddressId": "1c25fbdb71b5ab310X143tm_E1JVw467Ufw~",
-      "address": "苏州相城区芯汇湖大厦21楼",
-      "longitude": 120.644241,
-      "latitude": 31.41717,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/be201d341c6262f895576b2858562382",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ec48f80045c7a312a101e7fa2a7f830",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C++",
-        "测试工作经验",
-        "智能驾驶"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "鲍女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230906/607f1f3d68754fd05e72b603ffab7599a25e4e343d3cda65c5ceba1f4bbc548a3a552560f4b76db_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "武汉创赢绿动",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "27bfcd048183bcfa1HV-3t-_EFI~",
-      "brandName": "武汉创赢绿动",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1720175635472,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉创赢绿动",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉创赢绿动",
+        "certificated": true,
+        "large": null,
+        "name": "鲍女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230906/607f1f3d68754fd05e72b603ffab7599a25e4e343d3cda65c5ceba1f4bbc548a3a552560f4b76db_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1720175635472,
+        "brandName": "武汉创赢绿动",
+        "customerBrandName": "武汉创赢绿动",
+        "customerBrandStageName": "",
+        "encryptBrandId": "27bfcd048183bcfa1HV-3t-_EFI~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州相城区芯汇湖大厦21楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1c25fbdb71b5ab310X143tm_E1JVw467Ufw~",
+        "encryptId": "570280ce06df65f71HB939S8FFRU",
+        "encryptUserId": "3f078b3a7612110a1nZ-3tW7ElBV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "中级测试开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.41717,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.644241,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ec48f80045c7a312a101e7fa2a7f830",
+        "position": 100305,
+        "positionName": "测试开发",
+        "postDescription": "岗位职责：\r\n1、负责智能驾驶应用层软件的功能测试及实车测试；\r\n2、参与智能驾驶应用层功能的单元测试用例编写；\r\n3、执行智能驾驶应用层功能的单元测试、数据log及问题定位；\r\n4、负责单元测试工具链的维护及相关软件版本的维护更新。\r\n\r\n岗位要求：\r\n1、有两年以上的智能驾驶相关产品的测试经验；\r\n2、熟悉C++/simulink，能够熟练应用TPT及vector cast软件进行单元测试；\r\n3、良好的汽车测试知识体系，对CAN/CANFD 总线熟悉。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K",
+        "showSkills": [
+            "C++",
+            "测试工作经验",
+            "智能驾驶"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/be201d341c6262f895576b2858562382"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "witV_9wCYl645-X1yl8LFPs4ECgY-zG9yuyAQXhS-aX_LZCVUuSkZkOZRtclwOn1qqpCI6LbgRCxD48Bg1lA4ap93grfGRZJC0isODUz0zgSvgoT9YuV",
+    "selfAccess": false,
+    "sessionId": null
 }

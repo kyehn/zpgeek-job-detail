@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "WMkyj5Hfac5V_-z13De4f6ZjBv-2JGc-5PR8wPtNz2pR1Z56BDOrwnwBj_sO3y12MqCXfUYK5Gk5Yd4iPXm3FBTDhRk9-bwF6nisqbHd5-5D7w~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d695c99dc3b26bf0XN62NS9GVM~",
-      "encryptUserId": "ad064e1111dd8ad41XZ-3N65",
-      "invalidStatus": false,
-      "jobName": "网络工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、懂计算机网络技术人员优先\n2、负责公司电力专用安全产品调试维护\n3、公司提供技术培训\n4、公司可提供住宿\n5.  产品主要用于新能源电站，比如光伏站，风电场，能接受出差",
-      "encryptAddressId": "816871a4b630f2ea1XV809u8EFM~",
-      "address": "北京大兴区绿地中央广场·兴贸中心2号楼1单元",
-      "longitude": 116.334688,
-      "latitude": 39.766293,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2b78c235c37c3e9329b51d90d732db1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72e89683acf7be6b473af519d91a68cc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "安全运维",
-        "运维工程师",
-        "IT技术支持",
-        "机房运维",
-        "自动化运维",
-        "网络交换技术"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邓女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200103/8c35c27443d166ac729fd48a0288b737916759ab51fa500a5a89b066fd0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "君誉科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6bcffd757f4ba1121nJ9292-Fw~~",
-      "brandName": "君誉科技",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180325/5e172d11f41725d9564666e8bc5da516af200a46aa8f183ce1be84b9ecdb4269.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "北京君誉科技有限公司是一家致力于网络安全防护领域、电力系统自动化领域、调度数据网通信领域，集代理、方案设计和工程服务为一体的科技公司。 \n    始终坚持从客户需求出发，以“诚信 沟通 责任 专注”为服务宗旨,以“想客户之所想，急客户之所急”为服务理念，坚持用自己的服务去打动客户，现已经在全国范围内建立了良好企业形象与认可。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "员工旅游"
-      ],
-      "activeTime": 1719130005010,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "君誉科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "君誉科技",
+        "certificated": true,
+        "large": null,
+        "name": "邓女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200103/8c35c27443d166ac729fd48a0288b737916759ab51fa500a5a89b066fd0_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1719130005010,
+        "brandName": "君誉科技",
+        "customerBrandName": "君誉科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "6bcffd757f4ba1121nJ9292-Fw~~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "北京君誉科技有限公司是一家致力于网络安全防护领域、电力系统自动化领域、调度数据网通信领域，集代理、方案设计和工程服务为一体的科技公司。 \n    始终坚持从客户需求出发，以“诚信 沟通 责任 专注”为服务宗旨,以“想客户之所想，急客户之所急”为服务理念，坚持用自己的服务去打动客户，现已经在全国范围内建立了良好企业形象与认可。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "员工旅游"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180325/5e172d11f41725d9564666e8bc5da516af200a46aa8f183ce1be84b9ecdb4269.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京大兴区绿地中央广场·兴贸中心2号楼1单元",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "816871a4b630f2ea1XV809u8EFM~",
+        "encryptId": "1d695c99dc3b26bf0XN62NS9GVM~",
+        "encryptUserId": "ad064e1111dd8ad41XZ-3N65",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.766293,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.334688,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72e89683acf7be6b473af519d91a68cc",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "1、懂计算机网络技术人员优先\n2、负责公司电力专用安全产品调试维护\n3、公司提供技术培训\n4、公司可提供住宿\n5.  产品主要用于新能源电站，比如光伏站，风电场，能接受出差",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K·13薪",
+        "showSkills": [
+            "网络运维",
+            "安全运维",
+            "运维工程师",
+            "IT技术支持",
+            "机房运维",
+            "自动化运维",
+            "网络交换技术"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2b78c235c37c3e9329b51d90d732db1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "WMkyj5Hfac5V_-z13De4f6ZjBv-2JGc-5PR8wPtNz2pR1Z56BDOrwnwBj_sO3y12MqCXfUYK5Gk5Yd4iPXm3FBTDhRk9-bwF6nisqbHd5-5D7w~~",
+    "selfAccess": false,
+    "sessionId": null
 }

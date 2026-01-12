@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9BZ3J6AZOlSbH-x1s201FTnbBYQNbACbdT8hhXIb7IrjSpnvAahcK8VneTgnupNjuVRuXA8gqatAMkyfAMDumD7Mp305feKeQbFWHoTnPK6W5cE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9ad67fd8f6b0966033F53tu7EVA~",
-      "encryptUserId": "73f2c1f368c9e48d1XJ-0t28EVQ~",
-      "invalidStatus": false,
-      "jobName": "软件实习生",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101190300,
-      "locationName": "镇江",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "1. 参与公司软件产品开发和运维工作。有人带",
-      "encryptAddressId": "44b7bea624d9e0a21Xdz39u0FVc~",
-      "address": "镇江万达广场(镇江店)",
-      "longitude": 119.436366,
-      "latitude": 32.195237,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff26014ad6940ba3a704bcb300685cc8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54d3d7e814c7a40d6b50a2d6af31735a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "WEB ",
-        "JAVA"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "岳先生",
-      "title": "CEO",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170816/99b9b97fcf66fadfcb938727f47d363ec83fe412cc21d1ed47602a34053_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "优讯信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ca4a9c78664aba410HB_3Nu1",
-      "brandName": "优讯信息",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722938889998,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "优讯信息",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "优讯信息",
+        "certificated": true,
+        "large": null,
+        "name": "岳先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170816/99b9b97fcf66fadfcb938727f47d363ec83fe412cc21d1ed47602a34053_b.jpg",
+        "title": "CEO"
+    },
+    "brandComInfo": {
+        "activeTime": 1722938889998,
+        "brandName": "优讯信息",
+        "customerBrandName": "优讯信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ca4a9c78664aba410HB_3Nu1",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "镇江万达广场(镇江店)",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "44b7bea624d9e0a21Xdz39u0FVc~",
+        "encryptId": "9ad67fd8f6b0966033F53tu7EVA~",
+        "encryptUserId": "73f2c1f368c9e48d1XJ-0t28EVQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件实习生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.195237,
+        "location": 101190300,
+        "locationName": "镇江",
+        "longitude": 119.436366,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54d3d7e814c7a40d6b50a2d6af31735a",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "1. 参与公司软件产品开发和运维工作。有人带",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "SQL",
+            "WEB ",
+            "JAVA"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff26014ad6940ba3a704bcb300685cc8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9BZ3J6AZOlSbH-x1s201FTnbBYQNbACbdT8hhXIb7IrjSpnvAahcK8VneTgnupNjuVRuXA8gqatAMkyfAMDumD7Mp305feKeQbFWHoTnPK6W5cE~",
+    "selfAccess": false,
+    "sessionId": null
 }

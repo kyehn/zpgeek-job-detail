@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "rNJN9lfQwzAzR-a1KgwWUzp3Ut88f4VRifoBXRZr2QF1yPx4-OSmZtZVw_-w7HJrJlFMDurc63kYMhTOrP2MoXDFaOEF_jqD7F76lKjmWsaXGlzHctI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "53836cc641f56e3f1HF609W8E1RR",
-      "encryptUserId": "bc3892a745c432d70ndy2dq-GFFU",
-      "invalidStatus": false,
-      "jobName": "java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "招聘要求：\n1、计算机相关专业，本科以上学历，具有2-5年的Java开发经验\n2、熟练使用java开发框架，springboot、mybatis、thymeleaf等\n3、熟悉前端编程语言和框架，如HTML、CSS、jQuery、bootstrap、vue等\n4、熟悉常用的关系型数据库，如MySQL等\n5、熟悉常用的Web服务器，如Apache、Nginx、Tomcat等，能进行环境部署\n4）熟悉RabbitMQ、Redis优先\n\n工作职责：\n1. 参与软件需求分析和系统设计工作\n2. 按照项目计划，按时提交高质量的代码，完成开发任务\n3. 负责编写项目文档：设计文档、流程图、计划任务书等",
-      "encryptAddressId": "28b53c8b4e9f103103B80tu_Ew~~",
-      "address": "苏州吴中区天运广场1号楼303室",
-      "longitude": 120.723605,
-      "latitude": 31.223335,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/538a21c5a44493d8d081e56dbbe1237b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/072de185d43476605fd894c0ce26aa07",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "MySQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "部门主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "迅帆智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cdd247d80b86e70b03193Nu5Eg~~",
-      "brandName": "迅帆智能",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721496726078,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迅帆智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "迅帆智能",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "部门主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1721496726078,
+        "brandName": "迅帆智能",
+        "customerBrandName": "迅帆智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cdd247d80b86e70b03193Nu5Eg~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州吴中区天运广场1号楼303室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "28b53c8b4e9f103103B80tu_Ew~~",
+        "encryptId": "53836cc641f56e3f1HF609W8E1RR",
+        "encryptUserId": "bc3892a745c432d70ndy2dq-GFFU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.223335,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.723605,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/072de185d43476605fd894c0ce26aa07",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "招聘要求：\n1、计算机相关专业，本科以上学历，具有2-5年的Java开发经验\n2、熟练使用java开发框架，springboot、mybatis、thymeleaf等\n3、熟悉前端编程语言和框架，如HTML、CSS、jQuery、bootstrap、vue等\n4、熟悉常用的关系型数据库，如MySQL等\n5、熟悉常用的Web服务器，如Apache、Nginx、Tomcat等，能进行环境部署\n4）熟悉RabbitMQ、Redis优先\n\n工作职责：\n1. 参与软件需求分析和系统设计工作\n2. 按照项目计划，按时提交高质量的代码，完成开发任务\n3. 负责编写项目文档：设计文档、流程图、计划任务书等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "MySQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/538a21c5a44493d8d081e56dbbe1237b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "rNJN9lfQwzAzR-a1KgwWUzp3Ut88f4VRifoBXRZr2QF1yPx4-OSmZtZVw_-w7HJrJlFMDurc63kYMhTOrP2MoXDFaOEF_jqD7F76lKjmWsaXGlzHctI~",
+    "selfAccess": false,
+    "sessionId": null
 }

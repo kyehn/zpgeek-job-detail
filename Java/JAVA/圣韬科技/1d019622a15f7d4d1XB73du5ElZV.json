@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xH8FwiyTDAKPS-a1vKs3MWk9EmdntrQpwHZs-XfZnl4ZNGEeyVpfLa6xWmCgf-kfqq_Grxn5_xd_eCS-tsTf6LRYuBBrpqnvAiDwjnDm-R5ggkzpdwqz",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1d019622a15f7d4d1XB73du5ElZV",
-      "encryptUserId": "513dfe0fce9315ee0nBz3tu6GFFQ",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101121300,
-      "locationName": "威海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "给公司做软件接口，主要是用友软件和外系统的集成，有独立开发能力，有企业基本业务管理基础，做过ERP系统",
-      "encryptAddressId": "6a211835dd4d5f450XF43Ny4GVM~",
-      "address": "威海环翠区金猴购物广场(光明路店)414室",
-      "longitude": 122.1136,
-      "latitude": 37.507486,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f2401c071bb19fef6aa8201b20bf291",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0b2344cd7a42a1badf9300737bf2a04",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java开发经验",
-        "Java",
-        "后端工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220712/607f1f3d68754fd0791eee2400f9864bd1564d11884e11b5943c936616765d7cdbd1ecec3c9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "圣韬科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "691915252dcfffbf1XVy09m8GFc~",
-      "brandName": "圣韬科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722242071184,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "圣韬科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "圣韬科技",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220712/607f1f3d68754fd0791eee2400f9864bd1564d11884e11b5943c936616765d7cdbd1ecec3c9_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722242071184,
+        "brandName": "圣韬科技",
+        "customerBrandName": "圣韬科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "691915252dcfffbf1XVy09m8GFc~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "威海环翠区金猴购物广场(光明路店)414室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "6a211835dd4d5f450XF43Ny4GVM~",
+        "encryptId": "1d019622a15f7d4d1XB73du5ElZV",
+        "encryptUserId": "513dfe0fce9315ee0nBz3tu6GFFQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.507486,
+        "location": 101121300,
+        "locationName": "威海",
+        "longitude": 122.1136,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0b2344cd7a42a1badf9300737bf2a04",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "给公司做软件接口，主要是用友软件和外系统的集成，有独立开发能力，有企业基本业务管理基础，做过ERP系统",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Java开发经验",
+            "Java",
+            "后端工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f2401c071bb19fef6aa8201b20bf291"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xH8FwiyTDAKPS-a1vKs3MWk9EmdntrQpwHZs-XfZnl4ZNGEeyVpfLa6xWmCgf-kfqq_Grxn5_xd_eCS-tsTf6LRYuBBrpqnvAiDwjnDm-R5ggkzpdwqz",
+    "selfAccess": false,
+    "sessionId": null
 }

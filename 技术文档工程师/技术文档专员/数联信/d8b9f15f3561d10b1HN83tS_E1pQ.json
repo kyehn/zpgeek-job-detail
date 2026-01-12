@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "XUOy-GA2Ayc4K-Y13_F8AsmCsQC1Y94BO-Bge_I_M3T2QaXYIrzjW2qCVINgEZtOBQ35rRKm0HqGWRZgwpFpwfCVd70A2uN37xu4JqW1txgC28tyJQMj4lkPhJbss7kG-0NOzhgwZkKpzv8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d8b9f15f3561d10b1HN83tS_E1pQ",
-      "encryptUserId": "92dab22a9b908ba90nR92NS4GVJW",
-      "invalidStatus": false,
-      "jobName": "技术文档专员",
-      "position": 100410,
-      "positionName": "技术文档工程师",
-      "location": 101300100,
-      "locationName": "南宁",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "1 根据客户需求 编写相关文档\n2 能独立和客户沟通文档\n3 适当能做宣讲",
-      "encryptAddressId": "a64645ffb10b55661nB-2tm_GFFW",
-      "address": "南宁青秀区金源CBD现代城1703",
-      "longitude": 108.369612,
-      "latitude": 22.818228,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfeff5f420dc1eddd2266f7fd0ac544b926bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5ea9eb629fbd012b7a7cead1f8baf3746bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "服务"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邹先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201114/14e9b28e878ec5fdd89102601226bb4d993260d2641cb2623d0bf46c096_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "数联信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "926202fa38468b6a1nZy3dy8ElU~",
-      "brandName": "数联信",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726722716510,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "数联信",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "数联信",
+        "certificated": true,
+        "large": null,
+        "name": "邹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201114/14e9b28e878ec5fdd89102601226bb4d993260d2641cb2623d0bf46c096_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726722716510,
+        "brandName": "数联信",
+        "customerBrandName": "数联信",
+        "customerBrandStageName": "",
+        "encryptBrandId": "926202fa38468b6a1nZy3dy8ElU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南宁青秀区金源CBD现代城1703",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a64645ffb10b55661nB-2tm_GFFW",
+        "encryptId": "d8b9f15f3561d10b1HN83tS_E1pQ",
+        "encryptUserId": "92dab22a9b908ba90nR92NS4GVJW",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "技术文档专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.818228,
+        "location": 101300100,
+        "locationName": "南宁",
+        "longitude": 108.369612,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5ea9eb629fbd012b7a7cead1f8baf3746bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100410,
+        "positionName": "技术文档工程师",
+        "postDescription": "1 根据客户需求 编写相关文档\n2 能独立和客户沟通文档\n3 适当能做宣讲",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "服务"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfeff5f420dc1eddd2266f7fd0ac544b926bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "XUOy-GA2Ayc4K-Y13_F8AsmCsQC1Y94BO-Bge_I_M3T2QaXYIrzjW2qCVINgEZtOBQ35rRKm0HqGWRZgwpFpwfCVd70A2uN37xu4JqW1txgC28tyJQMj4lkPhJbss7kG-0NOzhgwZkKpzv8~",
+    "selfAccess": false,
+    "sessionId": null
 }

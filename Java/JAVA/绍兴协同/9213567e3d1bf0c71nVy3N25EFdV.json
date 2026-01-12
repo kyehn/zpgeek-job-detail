@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pasvjAeqUFaE3-X1v9Q5I2BaAmmPtQYttYW3uhYfVxaMyXps2n_4KzX5__j-zZcu24KDtpsP_BlPKJnypbHg4aajN3EaXkNeo5fN1zTXYWYMj3aTDyY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9213567e3d1bf0c71nVy3N25EFdV",
-      "encryptUserId": "8b98ffa77407b26003x809q0F1M~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210500,
-      "locationName": "绍兴",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉Java语言编程，具有扎实Java技术功底，具备3年以上Java编码开发经验",
-      "encryptAddressId": "bd8f8b7408902cd51nB92d2_FVM~",
-      "address": "绍兴越城区天龙大厦9楼901",
-      "longitude": 120.600231,
-      "latitude": 30.021469,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d81999efaaa9ba6e406affc4f82dc345",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69428d10100abe16e722544c52f41ec1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "Oracle",
-        "SQL Server",
-        "Eclipse",
-        "ERP",
-        "管理系统"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "丁先生",
-      "title": "实施中心经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220311/607f1f3d68754fd049ec1c6fe630946bdba5e62d7505f3be0d42ee63f079271080100ce65b8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "绍兴协同",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b71e0375645325c11nd_0t60GVA~",
-      "brandName": "绍兴协同",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722563343783,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绍兴协同",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绍兴协同",
+        "certificated": true,
+        "large": null,
+        "name": "丁先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220311/607f1f3d68754fd049ec1c6fe630946bdba5e62d7505f3be0d42ee63f079271080100ce65b8_b.jpg",
+        "title": "实施中心经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722563343783,
+        "brandName": "绍兴协同",
+        "customerBrandName": "绍兴协同",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b71e0375645325c11nd_0t60GVA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "绍兴越城区天龙大厦9楼901",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "bd8f8b7408902cd51nB92d2_FVM~",
+        "encryptId": "9213567e3d1bf0c71nVy3N25EFdV",
+        "encryptUserId": "8b98ffa77407b26003x809q0F1M~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.021469,
+        "location": 101210500,
+        "locationName": "绍兴",
+        "longitude": 120.600231,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69428d10100abe16e722544c52f41ec1",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "熟悉Java语言编程，具有扎实Java技术功底，具备3年以上Java编码开发经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "SQL",
+            "Oracle",
+            "SQL Server",
+            "Eclipse",
+            "ERP",
+            "管理系统"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d81999efaaa9ba6e406affc4f82dc345"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pasvjAeqUFaE3-X1v9Q5I2BaAmmPtQYttYW3uhYfVxaMyXps2n_4KzX5__j-zZcu24KDtpsP_BlPKJnypbHg4aajN3EaXkNeo5fN1zTXYWYMj3aTDyY~",
+    "selfAccess": false,
+    "sessionId": null
 }

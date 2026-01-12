@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "krjFvNSWIgeh--014QTFD6BHq7Mq17Hx92cxHJYLVACidi_9N480E6BvBVHMz66HHHOqK6zDE2H7LykYJUBGYf24F73js-g_00XOytI7_hzcGWKicSA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4475258d1e4d4a841nF-3t25EVVV",
-      "encryptUserId": "8fef15a2b7f1415d0nVz3Ni_GVJY",
-      "invalidStatus": false,
-      "jobName": "系统集成工程师",
-      "position": 100404,
-      "positionName": "系统工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n\n1.负责售前/售后服务器、交换机、存储设备的安装、调试、维护、维修等工作；\n\n2.Windows及Linux数据库服务器安装，调试；\n\n3.负责协助项目经理及工程师响应解决客户系统报修并解决Case；\n\n4、负责编写项目设计方案及实施方案；\n\n5、售前售后的技术支持，协助销售人员与客户进行技术交流、设备演示。\n\n任职条件：\n\n1.计算机或相关专业专科一年以上相关工作的经验，有华三H3C SE/IE、思科CCNA/CCNP认证者优先；\n\n2.熟练掌握各种系统硬件的性能情况，如HP/IBM/DELL/CISCO，并具备独立安装调试上述设备的能力；\n\n4.能适应出差，良好的书面及语言表达能力；\n\n福利待遇：\n\n1、薪酬待遇：3000元无责任底薪，拥有较有竞争力的薪资水平线，每年度根据员工的工作表现会有1-2次加薪机会，年底发放年终奖金；\n\n2、社会保险：公司按国家规定为员工办理社保，确保员工享有完善的综合保障；\n\n4、带薪假期：国家规定的公休假日以及婚假、产假等法定休假；\n\n5、员工活动：公司每年度组织1-2次的旅游，每月1-2次聚餐活动，拓宽眼界，娱乐身心；\n\n6、工作制度：双休，工作时间为9:00-18:00，经批准可享受弹性工作制度，注重更宽松高效的工作环境；\n\n7、公司目前处于稳定发展期，员工个人发展空间较大；\n\n8、助理工程师→初级系统集成工程师→系统集成工程师→高级工程师。",
-      "encryptAddressId": "85e3a683679d00ba1nN72dS8FlE~",
-      "address": "成都武侯区万高都市欣城A座2202号",
-      "longitude": 104.074891,
-      "latitude": 30.643098,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32e612d7fc5ecb0ec2bca9e76dae1112",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8051e173d1b1e166b9260fd415d0a731",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux",
-        "Windows",
-        "运维通信资格证书",
-        "CCNP证书",
-        "CCNA证书"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "成都普胜",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fe0266bf64a294401Xx63Nm9GQ~~",
-      "brandName": "成都普胜",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730136193381,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "成都普胜",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "成都普胜",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1730136193381,
+        "brandName": "成都普胜",
+        "customerBrandName": "成都普胜",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fe0266bf64a294401Xx63Nm9GQ~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区万高都市欣城A座2202号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "85e3a683679d00ba1nN72dS8FlE~",
+        "encryptId": "4475258d1e4d4a841nF-3t25EVVV",
+        "encryptUserId": "8fef15a2b7f1415d0nVz3Ni_GVJY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "系统集成工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.643098,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.074891,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8051e173d1b1e166b9260fd415d0a731",
+        "position": 100404,
+        "positionName": "系统工程师",
+        "postDescription": "职位描述：\n\n1.负责售前/售后服务器、交换机、存储设备的安装、调试、维护、维修等工作；\n\n2.Windows及Linux数据库服务器安装，调试；\n\n3.负责协助项目经理及工程师响应解决客户系统报修并解决Case；\n\n4、负责编写项目设计方案及实施方案；\n\n5、售前售后的技术支持，协助销售人员与客户进行技术交流、设备演示。\n\n任职条件：\n\n1.计算机或相关专业专科一年以上相关工作的经验，有华三H3C SE/IE、思科CCNA/CCNP认证者优先；\n\n2.熟练掌握各种系统硬件的性能情况，如HP/IBM/DELL/CISCO，并具备独立安装调试上述设备的能力；\n\n4.能适应出差，良好的书面及语言表达能力；\n\n福利待遇：\n\n1、薪酬待遇：3000元无责任底薪，拥有较有竞争力的薪资水平线，每年度根据员工的工作表现会有1-2次加薪机会，年底发放年终奖金；\n\n2、社会保险：公司按国家规定为员工办理社保，确保员工享有完善的综合保障；\n\n4、带薪假期：国家规定的公休假日以及婚假、产假等法定休假；\n\n5、员工活动：公司每年度组织1-2次的旅游，每月1-2次聚餐活动，拓宽眼界，娱乐身心；\n\n6、工作制度：双休，工作时间为9:00-18:00，经批准可享受弹性工作制度，注重更宽松高效的工作环境；\n\n7、公司目前处于稳定发展期，员工个人发展空间较大；\n\n8、助理工程师→初级系统集成工程师→系统集成工程师→高级工程师。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "Linux",
+            "Windows",
+            "运维通信资格证书",
+            "CCNP证书",
+            "CCNA证书"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32e612d7fc5ecb0ec2bca9e76dae1112"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "krjFvNSWIgeh--014QTFD6BHq7Mq17Hx92cxHJYLVACidi_9N480E6BvBVHMz66HHHOqK6zDE2H7LykYJUBGYf24F73js-g_00XOytI7_hzcGWKicSA~",
+    "selfAccess": false,
+    "sessionId": null
 }

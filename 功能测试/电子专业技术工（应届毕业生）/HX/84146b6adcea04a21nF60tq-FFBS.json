@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "LF0ac1-awsron-Q1zXtnaHT-EH6xNlMwB7vMgm3kH563vBAj3EUHv_4fP9JZVz1zZOmewOTVyFalQrHkHEIS63DNzo9lorntDeIjcFxYudW680fxOXlq",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "84146b6adcea04a21nF60tq-FFBS",
-      "encryptUserId": "c3dcbc25c4609b0d0nR539i6EFZZ",
-      "invalidStatus": false,
-      "jobName": "电子专业技术工（应届毕业生）",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "负责机器人产品现场安装测试",
-      "encryptAddressId": "51de13320ca354641ndz2tW_FFc~",
-      "address": "上海奉贤区上海和贤电子科技有限公司钜庭路1599号",
-      "longitude": 121.41341,
-      "latitude": 30.931142,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4776430d9ea839fc8c417db943c0b737",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c351e0a39e223683cd08d58f5cd617e1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子电路测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220618/607f1f3d68754fd0dd276a9d841679dc7808d3c18d312a757131696b98bea9fef63534aac30_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "HX",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2894d00ffb790ca71nZ42NW-FFE~",
-      "brandName": "HX",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725375598873,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "HX",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "HX",
+        "certificated": true,
+        "large": null,
+        "name": "胡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220618/607f1f3d68754fd0dd276a9d841679dc7808d3c18d312a757131696b98bea9fef63534aac30_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725375598873,
+        "brandName": "HX",
+        "customerBrandName": "HX",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2894d00ffb790ca71nZ42NW-FFE~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海奉贤区上海和贤电子科技有限公司钜庭路1599号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "51de13320ca354641ndz2tW_FFc~",
+        "encryptId": "84146b6adcea04a21nF60tq-FFBS",
+        "encryptUserId": "c3dcbc25c4609b0d0nR539i6EFZZ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "电子专业技术工（应届毕业生）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.931142,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.41341,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c351e0a39e223683cd08d58f5cd617e1",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "负责机器人产品现场安装测试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "电子电路测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4776430d9ea839fc8c417db943c0b737"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "LF0ac1-awsron-Q1zXtnaHT-EH6xNlMwB7vMgm3kH563vBAj3EUHv_4fP9JZVz1zZOmewOTVyFalQrHkHEIS63DNzo9lorntDeIjcFxYudW680fxOXlq",
+    "selfAccess": false,
+    "sessionId": null
 }

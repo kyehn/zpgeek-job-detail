@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ebV0SXHD9mW1u-a1RBAE1Lc5gAR2uX3ycPvxFAsYbFjIXvzfCuKTZMH4PBpR7Qu6TBMzPhMg6lwhHdqzLMMX9wM_u8XZ-KVD4KrmMiK1BmsTlIckvDgt",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cb09b1942f877a171nV62tS0FFRR",
-      "encryptUserId": "ccb3166f4942bef20nR92Nm0ElBY",
-      "invalidStatus": false,
-      "jobName": "网络工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "负责内部局域网络的管理、维护、故障排除等日常工作，确保网络正常运作\r\n\r\n职位招聘3人\r\n\r\n培养计划\r\n入职一个月公司培训，由技术负责人直带，培训专业知识、实践、实战网络环境布署。",
-      "encryptAddressId": "8ee91e5187ae163c1n142Ny9EA~~",
-      "address": "南京建邺区国睿大厦1号楼B座5楼",
-      "longitude": 118.720239,
-      "latitude": 31.992216,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f523bd7a895ba17e6a5c458eeac928c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb34fa9a7b6c30b6255c1f5f3a70c16c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络设备"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "总经理/技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201113/bb898a96632154d623dad9ceaa4cdbd24805a392fc23662eefc5763eaa6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "南京创音",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f6ebdbe94e02a13f1nZy3ty-E1c~",
-      "brandName": "南京创音",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727624159593,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京创音",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京创音",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201113/bb898a96632154d623dad9ceaa4cdbd24805a392fc23662eefc5763eaa6_b.jpg",
+        "title": "总经理/技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727624159593,
+        "brandName": "南京创音",
+        "customerBrandName": "南京创音",
+        "customerBrandStageName": "",
+        "encryptBrandId": "f6ebdbe94e02a13f1nZy3ty-E1c~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京建邺区国睿大厦1号楼B座5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8ee91e5187ae163c1n142Ny9EA~~",
+        "encryptId": "cb09b1942f877a171nV62tS0FFRR",
+        "encryptUserId": "ccb3166f4942bef20nR92Nm0ElBY",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.992216,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.720239,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb34fa9a7b6c30b6255c1f5f3a70c16c",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "负责内部局域网络的管理、维护、故障排除等日常工作，确保网络正常运作\r\n\r\n职位招聘3人\r\n\r\n培养计划\r\n入职一个月公司培训，由技术负责人直带，培训专业知识、实践、实战网络环境布署。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "网络设备"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f523bd7a895ba17e6a5c458eeac928c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ebV0SXHD9mW1u-a1RBAE1Lc5gAR2uX3ycPvxFAsYbFjIXvzfCuKTZMH4PBpR7Qu6TBMzPhMg6lwhHdqzLMMX9wM_u8XZ-KVD4KrmMiK1BmsTlIckvDgt",
+    "selfAccess": false,
+    "sessionId": null
 }

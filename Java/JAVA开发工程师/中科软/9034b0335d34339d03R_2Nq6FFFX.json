@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mlSAok3IEAnqd-m1uud5rWRtxPsZ3CuS3gijWiF2uSvX85tLSeXhMyb0DdOWSa_4fXm0Tu3z2ml3LPiJ2PkZGxTeu40SWLsFLv1-dwsfSCPjb2xbGchPAhN9e17llQv_U9uIdlrey9Nwip1DkVoO9mpBgoX9GeKiR12z_cvtH9EGYMtOLUFpEH5HQw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9034b0335d34339d03R_2Nq6FFFX",
-      "encryptUserId": "289c6e86832d444b1HR80ti9E1M~",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟悉Spring、Spring MVC、spring boot、spring cloud开发框架。\n2、熟悉VUE、element-ui、HTML、js、JQuery等前端技术。\n3、熟悉MySQL及oracle数据库。\n4、熟悉java常用设计模式，有良好的文档编写能力。\n5、了解Linux相关命令，了解Nginx、Tomcat等中间件。\n6、有良好的团队协作能力。\n7、本科及以上学历。\n8、了解保险业务系统优先。\n9、1-3年工作经验。",
-      "encryptAddressId": "aa2ca11b54861f7c1nFy39m4ElBUx4y9Ufme",
-      "address": "苏州姑苏区国发大厦(人民路)姑苏区万达广场国发大厦",
-      "longitude": 120.615313,
-      "latitude": 31.33644,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bff56a440227ee06f3ec568c27fc493e646bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf5099b604a0451210c495880bd44736dc6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "马女士",
-      "title": "项目助理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230705/607f1f3d68754fd0d60670d947dd700c968fde75f5f90e8283e18f494838aff8d8fd3a876e3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中科软",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
-      "brandName": "中科软",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "节日福利",
-        "零食下午茶",
-        "团队氛围好"
-      ],
-      "activeTime": 1733996934003,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中科软",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中科软",
+        "certificated": true,
+        "large": null,
+        "name": "马女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230705/607f1f3d68754fd0d60670d947dd700c968fde75f5f90e8283e18f494838aff8d8fd3a876e3_b.jpg",
+        "title": "项目助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1733996934003,
+        "brandName": "中科软",
+        "customerBrandName": "中科软",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "节日福利",
+            "零食下午茶",
+            "团队氛围好"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州姑苏区国发大厦(人民路)姑苏区万达广场国发大厦",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "aa2ca11b54861f7c1nFy39m4ElBUx4y9Ufme",
+        "encryptId": "9034b0335d34339d03R_2Nq6FFFX",
+        "encryptUserId": "289c6e86832d444b1HR80ti9E1M~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.33644,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.615313,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf5099b604a0451210c495880bd44736dc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、熟悉Spring、Spring MVC、spring boot、spring cloud开发框架。\n2、熟悉VUE、element-ui、HTML、js、JQuery等前端技术。\n3、熟悉MySQL及oracle数据库。\n4、熟悉java常用设计模式，有良好的文档编写能力。\n5、了解Linux相关命令，了解Nginx、Tomcat等中间件。\n6、有良好的团队协作能力。\n7、本科及以上学历。\n8、了解保险业务系统优先。\n9、1-3年工作经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bff56a440227ee06f3ec568c27fc493e646bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mlSAok3IEAnqd-m1uud5rWRtxPsZ3CuS3gijWiF2uSvX85tLSeXhMyb0DdOWSa_4fXm0Tu3z2ml3LPiJ2PkZGxTeu40SWLsFLv1-dwsfSCPjb2xbGchPAhN9e17llQv_U9uIdlrey9Nwip1DkVoO9mpBgoX9GeKiR12z_cvtH9EGYMtOLUFpEH5HQw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

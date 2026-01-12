@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FVpc85-3WOcgC-t1MYEmy1hEaRSAiUCq4rQ3Y8GN6HAhpNtaFZjr_uHuyCPvV77yorSmr30tUjVJplIDJJ9NNEo9QkHvzv_hzZ5QidP_Mtj6gy5k4OQDoLWgpJF1Gp5o52qYZBlgEjTa3g~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4aed506ab426cee11XN83Ny8E1dZ",
-      "encryptUserId": "4a67af8b8003e48303R83t20ElM~",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101100600,
-      "locationName": "晋城",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉财务软件操作，熟悉word，excel操作，了解会计知识\r\n\r\n加分项\r\n有以下行业经验：计算机服务·计算机软件·财务/审计/税务",
-      "encryptAddressId": "ba4e3e119027e89a1nB409m4ElFSwI64Uf2d",
-      "address": "晋城阳城县太行商城(凤凰东街)1号",
-      "longitude": 112.428324,
-      "latitude": 35.481246,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241027/48ba41acc9cef1bf4ce750aea0aa99fec484ab9bf0bf734c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241027/48ba41acc9cef1bfb6e3814e71278fcbae8146bb0660ae646bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "财务相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "山西中软联创信息科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fcef4524a19141fb1XJ72dq0FlU~",
-      "brandName": "山西中软联创信息科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730104035407,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山西中软联创信息科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山西中软联创信息科技",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730104035407,
+        "brandName": "山西中软联创信息科技",
+        "customerBrandName": "山西中软联创信息科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fcef4524a19141fb1XJ72dq0FlU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "晋城阳城县太行商城(凤凰东街)1号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ba4e3e119027e89a1nB409m4ElFSwI64Uf2d",
+        "encryptId": "4aed506ab426cee11XN83Ny8E1dZ",
+        "encryptUserId": "4a67af8b8003e48303R83t20ElM~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 35.481246,
+        "location": 101100600,
+        "locationName": "晋城",
+        "longitude": 112.428324,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241027/48ba41acc9cef1bfb6e3814e71278fcbae8146bb0660ae646bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "熟悉财务软件操作，熟悉word，excel操作，了解会计知识\r\n\r\n加分项\r\n有以下行业经验：计算机服务·计算机软件·财务/审计/税务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "财务相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241027/48ba41acc9cef1bf4ce750aea0aa99fec484ab9bf0bf734c6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FVpc85-3WOcgC-t1MYEmy1hEaRSAiUCq4rQ3Y8GN6HAhpNtaFZjr_uHuyCPvV77yorSmr30tUjVJplIDJJ9NNEo9QkHvzv_hzZ5QidP_Mtj6gy5k4OQDoLWgpJF1Gp5o52qYZBlgEjTa3g~~",
+    "selfAccess": false,
+    "sessionId": null
 }

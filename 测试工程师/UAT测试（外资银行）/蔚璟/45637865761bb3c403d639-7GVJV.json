@@ -1,101 +1,101 @@
 {
-  "appendixInfo": {
-    "canFeedback": false,
-    "chatBubble": null
-  },
-  "atsOnlineApplyInfo": {
-    "inviteType": 0,
-    "alreadyApply": false
-  },
-  "bossInfo": {
-    "name": "李先生",
-    "title": "技术经理",
-    "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-    "large": null,
-    "activeTimeDesc": "刚刚活跃",
-    "bossOnline": true,
-    "brandName": "蔚璟",
-    "bossSource": 0,
-    "certificated": true,
-    "tagIconUrl": null,
-    "avatarStickerUrl": null
-  },
-  "brandComInfo": {
-    "encryptBrandId": "c2600d6dcb1b09b61nd83t25FVs~",
-    "brandName": "蔚璟",
-    "logo": null,
-    "stage": 0,
-    "stageName": "",
-    "scale": 302,
-    "scaleName": "20-99人",
-    "industry": 100023,
-    "industryName": "计算机服务",
-    "introduce": "",
-    "labels": [
-      "免费班车",
-      "带薪年假",
-      "法定节假日三薪",
-      "节假日加班费",
-      "加班补助",
-      "年终奖",
-      "定期体检",
-      "补充医疗保险",
-      "五险一金"
-    ],
-    "activeTime": 1743470451008,
-    "visibleBrandInfo": true,
-    "focusBrand": false,
-    "customerBrandName": "蔚璟",
-    "customerBrandStageName": ""
-  },
-  "handicappedInfo": null,
-  "jobInfo": {
-    "encryptId": "45637865761bb3c403d639-7GVJV",
-    "encryptUserId": "594b3553e2eaad910nx839y6FlBZ",
-    "invalidStatus": false,
-    "jobName": "UAT测试（外资银行）",
-    "position": 100301,
-    "positionName": "测试工程师",
-    "location": 101020100,
-    "locationName": "上海",
-    "experienceName": "经验不限",
-    "degreeName": "本科",
-    "jobType": 0,
-    "proxyJob": 0,
-    "proxyType": 0,
-    "salaryDesc": "7-8K·14薪",
-    "payTypeDesc": null,
-    "postDescription": "岗位职责：\n1.银行日常BAU的柜面业务工作，包括文件扫描归档、录入分析等\n2.负责系统迁移及验收测试等工作\n3.其他柜面辅助工作\n\n具体要求：\n1.    CET4/6, 英文读写无障碍\n2.    本科及以上学历，金融相关专业\n3.    Office软件熟练操作，包括不限于excel，ppt，word\n4.    良好的沟通能力及学习能力\n5.    金融机构实习/工作经验\n6.    短期或长期系统测试经验",
-    "encryptAddressId": "aec82ca3c04f36981n1509W0GFdWyo22WPKe",
-    "address": "上海浦东新区上海国金中心1",
-    "longitude": 121.502288,
-    "latitude": 31.236275,
-    "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50503d00ca6d169107db740c7c24a6b3",
-    "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0a764c26fc9930dba077ace92b6de4b5",
-    "baiduStaticMapUrl": "",
-    "baiduPcStaticMapUrl": "",
-    "overseasAddressList": [],
-    "overseasInfo": null,
-    "showSkills": [
-      "金融相关专业"
-    ],
-    "anonymous": 0,
-    "jobStatusDesc": "最新"
-  },
-  "lid": "",
-  "oneKeyResumeInfo": {
-    "inviteType": 0,
-    "alreadySend": false,
-    "canSendResume": false,
-    "canSendPhone": false,
-    "canSendWechat": false
-  },
-  "pageType": 0,
-  "relationInfo": {
-    "interestJob": false,
-    "beFriend": false
-  },
-  "securityId": "vDG87EMs6lL33-O10j9nMzB_NvetaphxtZ8kFc1BpxZ-3TRlbSK5WXkEAdGTdP2OP4nNvgMTs7fnHXTmT2nZfIOTAFQaFo6nXRImGFp9wwTEX4cWxqXz6xHlkrcRndM2UUOQrYY_94aJVUzyLpFdhbuodr7Hx9thUwmq1HIfZogD6uF-BFYS71LjTgVdlTg~",
-  "selfAccess": false,
-  "sessionId": null
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "蔚璟",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "技术经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1743470451008,
+        "brandName": "蔚璟",
+        "customerBrandName": "蔚璟",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c2600d6dcb1b09b61nd83t25FVs~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [
+            "免费班车",
+            "带薪年假",
+            "法定节假日三薪",
+            "节假日加班费",
+            "加班补助",
+            "年终奖",
+            "定期体检",
+            "补充医疗保险",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区上海国金中心1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "aec82ca3c04f36981n1509W0GFdWyo22WPKe",
+        "encryptId": "45637865761bb3c403d639-7GVJV",
+        "encryptUserId": "594b3553e2eaad910nx839y6FlBZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "UAT测试（外资银行）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.236275,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.502288,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0a764c26fc9930dba077ace92b6de4b5",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1.银行日常BAU的柜面业务工作，包括文件扫描归档、录入分析等\n2.负责系统迁移及验收测试等工作\n3.其他柜面辅助工作\n\n具体要求：\n1.    CET4/6, 英文读写无障碍\n2.    本科及以上学历，金融相关专业\n3.    Office软件熟练操作，包括不限于excel，ppt，word\n4.    良好的沟通能力及学习能力\n5.    金融机构实习/工作经验\n6.    短期或长期系统测试经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K·14薪",
+        "showSkills": [
+            "金融相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50503d00ca6d169107db740c7c24a6b3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vDG87EMs6lL33-O10j9nMzB_NvetaphxtZ8kFc1BpxZ-3TRlbSK5WXkEAdGTdP2OP4nNvgMTs7fnHXTmT2nZfIOTAFQaFo6nXRImGFp9wwTEX4cWxqXz6xHlkrcRndM2UUOQrYY_94aJVUzyLpFdhbuodr7Hx9thUwmq1HIfZogD6uF-BFYS71LjTgVdlTg~",
+    "selfAccess": false,
+    "sessionId": null
 }

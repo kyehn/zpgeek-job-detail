@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ILB3BTq1MuQSA-U1NmcE-HONU5hCHxXGZLAdrswF4KK1YMdWWNkbl9M7v3Uhhl_LcxVm3hHakfZ5YU9HOIpe04iGP9PLJ8yudcnPx2ETt8OMBw6c2Mw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0643d2a7411b11851Xx529m9EVBZ",
-      "encryptUserId": "6251fb3b93d61f380nx50ti4ElM~",
-      "invalidStatus": false,
-      "jobName": "运维专员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101211100,
-      "locationName": "舟山",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、计算机信息管理或航海专业，IT集成化管理经验者优先。\n2、从事信息平台应用管理（网站，业务运维管理系统）；",
-      "encryptAddressId": "80455645e0d62a5d331-3dy0E1s~",
-      "address": "舟山定海区舟山佳德建设工程有限公司临城街道船用品市场33幢东十五路8号",
-      "longitude": 122.228906,
-      "latitude": 29.972797,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54d83724250c073f2a57abfea6c3b15d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/810371f0dcf243ebc752cffc25975f4d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "任先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "浙江弘洋科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4505f16ba387fec61XN73960FlM~",
-      "brandName": "浙江弘洋科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "互联网IT企业，承接船岸系统为主。",
-      "labels": [
-        "保底工资"
-      ],
-      "activeTime": 1728957558000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江弘洋科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江弘洋科技",
+        "certificated": true,
+        "large": null,
+        "name": "任先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1728957558000,
+        "brandName": "浙江弘洋科技",
+        "customerBrandName": "浙江弘洋科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "4505f16ba387fec61XN73960FlM~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "互联网IT企业，承接船岸系统为主。",
+        "labels": [
+            "保底工资"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "舟山定海区舟山佳德建设工程有限公司临城街道船用品市场33幢东十五路8号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "80455645e0d62a5d331-3dy0E1s~",
+        "encryptId": "0643d2a7411b11851Xx529m9EVBZ",
+        "encryptUserId": "6251fb3b93d61f380nx50ti4ElM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维专员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.972797,
+        "location": 101211100,
+        "locationName": "舟山",
+        "longitude": 122.228906,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/810371f0dcf243ebc752cffc25975f4d",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、计算机信息管理或航海专业，IT集成化管理经验者优先。\n2、从事信息平台应用管理（网站，业务运维管理系统）；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K·13薪",
+        "showSkills": [
+            "网络运维",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54d83724250c073f2a57abfea6c3b15d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ILB3BTq1MuQSA-U1NmcE-HONU5hCHxXGZLAdrswF4KK1YMdWWNkbl9M7v3Uhhl_LcxVm3hHakfZ5YU9HOIpe04iGP9PLJ8yudcnPx2ETt8OMBw6c2Mw~",
+    "selfAccess": false,
+    "sessionId": null
 }

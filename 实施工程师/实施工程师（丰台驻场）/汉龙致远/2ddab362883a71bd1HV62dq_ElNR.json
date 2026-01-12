@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BE66L4zwmu2cm-e11FcXkuyJuJaMHZngY8yBh6rzhJWwEAkM_FNmdHqNSt3HhHi7Jqq85MhAGwfEewut6xTZ3qEO-bqxAJqhyJnvXb9Z2S7lw33xN4Jrzco16-aQLnKO0bEvX6i4uULu4ZEald9YEDs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2ddab362883a71bd1HV62dq_ElNR",
-      "encryptUserId": "b913a48ce95866381Xxz39y9E1M~",
-      "invalidStatus": false,
-      "jobName": "实施工程师（丰台驻场）",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位职责：\n 1、协调沟通客户相关部门，确保项目实施进度和质量；\n 2、负责需求调研和分析，针对客户需求和行业特点，提出优化业务流程和基于项目的解决方案；\n 3、负责客户现场的系统配置、测试、演示、培训、应用指导等工作；\n 4、负责需求的维护和整理，并与研发对接；\n 5、保障系统运行期的服务响应； \n 6、参与项目实施文档的编写、汇总、整理；\n\n二、岗位要求：\n1、本科（含）以上学历；\n2、熟练使用mysql、sqlserver、oracle数据库，有一定的SQL语句编写能力； \n3、熟悉windows、Linux等主流操作系统的安装和使用。\n  4、Linux的安装、调试、维护，掌握常见的命令，常见问题会处理解决；\n  5、学习能力和沟通表达能力强，思路清晰，具备分析判断能力，工作主动性强；",
-      "encryptAddressId": "3515dbe97ce5124b1nR73Nu5GVZY",
-      "address": "北京通州区天骥·智谷60号楼7层705",
-      "longitude": 116.552752,
-      "latitude": 39.78187,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfcc14f3f26d6d9dcb4e3125ad608f2dcc6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf129e97128ff1d8042717cd9240f8fb4f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "项目调试",
-        "项目实施",
-        "实施工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "梁女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220113/607f1f3d68754fd0fafdebae8a4e49392ca2563f076f70c33a46ba6906bbf4b504c2453dc37_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "汉龙致远",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "33781ee045a6145a1nF53d65EVA~",
-      "brandName": "汉龙致远",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "高新企业 \n软件行业 \n档案行业",
-      "labels": [
-        "零食下午茶",
-        "交通补助",
-        "餐补",
-        "年终奖",
-        "加班补助",
-        "五险一金"
-      ],
-      "activeTime": 1732687524899,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "汉龙致远",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "汉龙致远",
+        "certificated": true,
+        "large": null,
+        "name": "梁女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220113/607f1f3d68754fd0fafdebae8a4e49392ca2563f076f70c33a46ba6906bbf4b504c2453dc37_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732687524899,
+        "brandName": "汉龙致远",
+        "customerBrandName": "汉龙致远",
+        "customerBrandStageName": "",
+        "encryptBrandId": "33781ee045a6145a1nF53d65EVA~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "高新企业 \n软件行业 \n档案行业",
+        "labels": [
+            "零食下午茶",
+            "交通补助",
+            "餐补",
+            "年终奖",
+            "加班补助",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京通州区天骥·智谷60号楼7层705",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "3515dbe97ce5124b1nR73Nu5GVZY",
+        "encryptId": "2ddab362883a71bd1HV62dq_ElNR",
+        "encryptUserId": "b913a48ce95866381Xxz39y9E1M~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师（丰台驻场）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.78187,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.552752,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf129e97128ff1d8042717cd9240f8fb4f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "一、岗位职责：\n 1、协调沟通客户相关部门，确保项目实施进度和质量；\n 2、负责需求调研和分析，针对客户需求和行业特点，提出优化业务流程和基于项目的解决方案；\n 3、负责客户现场的系统配置、测试、演示、培训、应用指导等工作；\n 4、负责需求的维护和整理，并与研发对接；\n 5、保障系统运行期的服务响应； \n 6、参与项目实施文档的编写、汇总、整理；\n\n二、岗位要求：\n1、本科（含）以上学历；\n2、熟练使用mysql、sqlserver、oracle数据库，有一定的SQL语句编写能力； \n3、熟悉windows、Linux等主流操作系统的安装和使用。\n  4、Linux的安装、调试、维护，掌握常见的命令，常见问题会处理解决；\n  5、学习能力和沟通表达能力强，思路清晰，具备分析判断能力，工作主动性强；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "项目调试",
+            "项目实施",
+            "实施工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfcc14f3f26d6d9dcb4e3125ad608f2dcc6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BE66L4zwmu2cm-e11FcXkuyJuJaMHZngY8yBh6rzhJWwEAkM_FNmdHqNSt3HhHi7Jqq85MhAGwfEewut6xTZ3qEO-bqxAJqhyJnvXb9Z2S7lw33xN4Jrzco16-aQLnKO0bEvX6i4uULu4ZEald9YEDs~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "01eJz2XckB6pk-p11wYKqiMt25PGPqCIC3XlYkXagvW4lcVzkOHkTVMIZmZial43yI24vsHJ1v9CzhWKWXphIGkQD10HELkFEoB3z2YVvr7-3LU2IvlzTFNb9AgopBJB2g~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1cf6f6d269fd546003R83N25ElBR",
-      "encryptUserId": "fbdbfcc6848bc4403nZ409W7GFA~",
-      "invalidStatus": false,
-      "jobName": "化工工程师",
-      "position": 100305,
-      "positionName": "测试开发",
-      "location": 101280200,
-      "locationName": "韶关",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "1.化工专业，从事水性树脂或油墨的实验，配方研究，改性等工作;有化工专业基础，在校或应届毕业生。\n2.全职或兼职，但随时可以服从调遣，服从工作\n安排\n3.能吃苦耐劳，有工作经验者优先。",
-      "encryptAddressId": "b5ff33b6b44a2a391nJ63NS-E1BRxYm2VfOf",
-      "address": "韶关南雄市广东仟邦实业有限公司公司博士室",
-      "longitude": 114.284238,
-      "latitude": 25.104175,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bff0a37482687e79fc73a51709d13b0b6a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bff4fdd221a752760308e5b557314e08716bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "黄先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200126/c618afc1856e5bc290805be8506d744f11e061dffa650f6ff7d407cdb33_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "广东仟邦实业有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "11b3667027f0d1f41HF42d-0ElQ~",
-      "brandName": "广东仟邦实业有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101202,
-      "industryName": "化工",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734665640186,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广东仟邦实业有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广东仟邦实业有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "黄先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200126/c618afc1856e5bc290805be8506d744f11e061dffa650f6ff7d407cdb33_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734665640186,
+        "brandName": "广东仟邦实业有限公司",
+        "customerBrandName": "广东仟邦实业有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "11b3667027f0d1f41HF42d-0ElQ~",
+        "focusBrand": false,
+        "industry": 101202,
+        "industryName": "化工",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "韶关南雄市广东仟邦实业有限公司公司博士室",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "b5ff33b6b44a2a391nJ63NS-E1BRxYm2VfOf",
+        "encryptId": "1cf6f6d269fd546003R83N25ElBR",
+        "encryptUserId": "fbdbfcc6848bc4403nZ409W7GFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "化工工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 25.104175,
+        "location": 101280200,
+        "locationName": "韶关",
+        "longitude": 114.284238,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bff4fdd221a752760308e5b557314e08716bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100305,
+        "positionName": "测试开发",
+        "postDescription": "1.化工专业，从事水性树脂或油墨的实验，配方研究，改性等工作;有化工专业基础，在校或应届毕业生。\n2.全职或兼职，但随时可以服从调遣，服从工作\n安排\n3.能吃苦耐劳，有工作经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231101/48ba41acc9cef1bff0a37482687e79fc73a51709d13b0b6a6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "01eJz2XckB6pk-p11wYKqiMt25PGPqCIC3XlYkXagvW4lcVzkOHkTVMIZmZial43yI24vsHJ1v9CzhWKWXphIGkQD10HELkFEoB3z2YVvr7-3LU2IvlzTFNb9AgopBJB2g~~",
+    "selfAccess": false,
+    "sessionId": null
 }

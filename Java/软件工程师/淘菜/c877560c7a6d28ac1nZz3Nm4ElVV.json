@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "SrQvBig0zX4ku-h1VmgUarupTMEeunZd7Jdnq7TI2yk0o-5aDLYlhsP22bCY-Ii2LWLh5bhAnKLuoM9Q_FYBVw3STurlkbJnVskcoblq2Lb1Nn7EaNU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c877560c7a6d28ac1nZz3Nm4ElVV",
-      "encryptUserId": "f5455889c7ac474a1nRy2tW9GFZS",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "有微信小程序开发经验者优先",
-      "encryptAddressId": "fc2ba9d3a9bc198a03Z63NS8E1s~",
-      "address": "杭州浙江省农业科创园5号楼122室",
-      "longitude": 120.194179,
-      "latitude": 30.306327,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92b6fc399ca2ab6faa4e757d939a2e0b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3efcec2e7b6295332657b54ce7b9e9d1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "HTML",
-        "分布式技术",
-        "微服务架构",
-        "网络协议",
-        "MVC开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200525/d8fae51c2373a7376639b095b5fff62d2d67733543abb5287c50526514c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "淘菜",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "772a35e57870f1430HV72tm6Fw~~",
-      "brandName": "淘菜",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100001,
-      "industryName": "电子商务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725340470349,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "淘菜",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "淘菜",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200525/d8fae51c2373a7376639b095b5fff62d2d67733543abb5287c50526514c_b.jpg",
+        "title": "主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1725340470349,
+        "brandName": "淘菜",
+        "customerBrandName": "淘菜",
+        "customerBrandStageName": "",
+        "encryptBrandId": "772a35e57870f1430HV72tm6Fw~~",
+        "focusBrand": false,
+        "industry": 100001,
+        "industryName": "电子商务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州浙江省农业科创园5号楼122室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fc2ba9d3a9bc198a03Z63NS8E1s~",
+        "encryptId": "c877560c7a6d28ac1nZz3Nm4ElVV",
+        "encryptUserId": "f5455889c7ac474a1nRy2tW9GFZS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.306327,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.194179,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3efcec2e7b6295332657b54ce7b9e9d1",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "有微信小程序开发经验者优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "SQL",
+            "HTML",
+            "分布式技术",
+            "微服务架构",
+            "网络协议",
+            "MVC开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92b6fc399ca2ab6faa4e757d939a2e0b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "SrQvBig0zX4ku-h1VmgUarupTMEeunZd7Jdnq7TI2yk0o-5aDLYlhsP22bCY-Ii2LWLh5bhAnKLuoM9Q_FYBVw3STurlkbJnVskcoblq2Lb1Nn7EaNU~",
+    "selfAccess": false,
+    "sessionId": null
 }

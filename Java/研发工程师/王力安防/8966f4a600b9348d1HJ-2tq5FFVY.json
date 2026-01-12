@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zFGCb9dIJ8UJ0-R1jskSreQVdyT6mpqTDMDDj0-WN-vRvwFLunt8d68VB7E43RNk2kZBiCBj6riS-QCW1-Lx3twWuwcuszm_yozX7P6WYwdgxRE_QqgVvYpLeUSkPHU85ahEqZVq4YrG",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8966f4a600b9348d1HJ-2tq5FFVY",
-      "encryptUserId": "ce93e8b4065c074b1n1_3dW5FVM~",
-      "invalidStatus": false,
-      "jobName": "研发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、定期培训：\n培训内容主要有：企业文化、人力资源管理、沟通及表达能力、领导能力、外语能力、协调合作能力等。\n 2、工作轮岗：\n 以跨部门轮岗的形式，较为全面的接触公司运营的各个方面。轮岗期间，协助公司完成跨部门的相关项目，完成能力规划的训练和培养。\n 3、岗位实践：\n 轮岗后，根据自身意愿和公司需求进行部门定岗，深入发展和提升业务能力。根据任务完成业绩指标，后期进行定期考核。\n4、要求：统招本科或以上，计算机、电子信息、应用数学类专业优先，后期定岗技术类方向，如：java开发工程师、安卓开发工程师、ios开发工程师、硬件工程师、软硬件测试工程师等。",
-      "encryptAddressId": "fe894bfc9d31be4c0Xxy29q-EVZRwoW9VfM~",
-      "address": "深圳南山区迈科龙大厦迈科龙大厦405",
-      "longitude": 113.954253,
-      "latitude": 22.535605,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf9d947c2a831758d5f83047dc48c061d56bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf08e004323a686e28c69f2722f548f4386bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Python",
-        "MySQL",
-        "应届生"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201119/4ccc1d60562769d935c98ebb97597ffb36bf93940beb20670837067fb9e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "王力安防",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "426aeb339a873e111Hd52t-8EFA~",
-      "brandName": "王力安防",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1720266312571,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "王力安防",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "王力安防",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201119/4ccc1d60562769d935c98ebb97597ffb36bf93940beb20670837067fb9e_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1720266312571,
+        "brandName": "王力安防",
+        "customerBrandName": "王力安防",
+        "customerBrandStageName": "",
+        "encryptBrandId": "426aeb339a873e111Hd52t-8EFA~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区迈科龙大厦迈科龙大厦405",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "fe894bfc9d31be4c0Xxy29q-EVZRwoW9VfM~",
+        "encryptId": "8966f4a600b9348d1HJ-2tq5FFVY",
+        "encryptUserId": "ce93e8b4065c074b1n1_3dW5FVM~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "研发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.535605,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.954253,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf08e004323a686e28c69f2722f548f4386bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、定期培训：\n培训内容主要有：企业文化、人力资源管理、沟通及表达能力、领导能力、外语能力、协调合作能力等。\n 2、工作轮岗：\n 以跨部门轮岗的形式，较为全面的接触公司运营的各个方面。轮岗期间，协助公司完成跨部门的相关项目，完成能力规划的训练和培养。\n 3、岗位实践：\n 轮岗后，根据自身意愿和公司需求进行部门定岗，深入发展和提升业务能力。根据任务完成业绩指标，后期进行定期考核。\n4、要求：统招本科或以上，计算机、电子信息、应用数学类专业优先，后期定岗技术类方向，如：java开发工程师、安卓开发工程师、ios开发工程师、硬件工程师、软硬件测试工程师等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K·13薪",
+        "showSkills": [
+            "Java",
+            "Python",
+            "MySQL",
+            "应届生"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf9d947c2a831758d5f83047dc48c061d56bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zFGCb9dIJ8UJ0-R1jskSreQVdyT6mpqTDMDDj0-WN-vRvwFLunt8d68VB7E43RNk2kZBiCBj6riS-QCW1-Lx3twWuwcuszm_yozX7P6WYwdgxRE_QqgVvYpLeUSkPHU85ahEqZVq4YrG",
+    "selfAccess": false,
+    "sessionId": null
 }

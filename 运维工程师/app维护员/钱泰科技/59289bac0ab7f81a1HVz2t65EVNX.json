@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VW2Bmo_nyhcxs-d1CHX_CjvyqImRpWl8Dh5VOoWeyVC2qg6lci52aF09UAFAJ4iz5AGXdhnbfD4tSIEqeSVRmCTRab_5ZMetxgQj2xr7sK6_SKd2hCPP",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "59289bac0ab7f81a1HVz2t65EVNX",
-      "encryptUserId": "564a2f305d7837700nR83t26GFRR",
-      "invalidStatus": false,
-      "jobName": "app维护员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210700,
-      "locationName": "温州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "懂全栈和服务器有一定工作经验。",
-      "encryptAddressId": "4b378e851ca4463a0XV729y8GVc~",
-      "address": "温州瑞安市浙江钱泰科技有限公司塘河北路165号",
-      "longitude": 120.650498,
-      "latitude": 27.776379,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/690e2eee3390e4063e2e06c184f97493",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18591bbcc6acc32c6a1a17abc00f275a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "IDC机房运维",
-        "运维开发/DevOps"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "林先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220406/607f1f3d68754fd08afa29e9c003acbf10bc2aee2dfa250967f0134fc8d945e1236da1dc8a0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "钱泰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d460b11da6156fb91XRz39y9EFc~",
-      "brandName": "钱泰科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220417/7b5b554d84f9729cf40479c9cedbe05209c11337121ad5b467f0134fc8d945e1236da1dc8a0eca32.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724327576713,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "钱泰科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "钱泰科技",
+        "certificated": true,
+        "large": null,
+        "name": "林先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220406/607f1f3d68754fd08afa29e9c003acbf10bc2aee2dfa250967f0134fc8d945e1236da1dc8a0_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724327576713,
+        "brandName": "钱泰科技",
+        "customerBrandName": "钱泰科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d460b11da6156fb91XRz39y9EFc~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220417/7b5b554d84f9729cf40479c9cedbe05209c11337121ad5b467f0134fc8d945e1236da1dc8a0eca32.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "温州瑞安市浙江钱泰科技有限公司塘河北路165号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4b378e851ca4463a0XV729y8GVc~",
+        "encryptId": "59289bac0ab7f81a1HVz2t65EVNX",
+        "encryptUserId": "564a2f305d7837700nR83t26GFRR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "app维护员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 27.776379,
+        "location": 101210700,
+        "locationName": "温州",
+        "longitude": 120.650498,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18591bbcc6acc32c6a1a17abc00f275a",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "懂全栈和服务器有一定工作经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "系统运维",
+            "IDC机房运维",
+            "运维开发/DevOps"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/690e2eee3390e4063e2e06c184f97493"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VW2Bmo_nyhcxs-d1CHX_CjvyqImRpWl8Dh5VOoWeyVC2qg6lci52aF09UAFAJ4iz5AGXdhnbfD4tSIEqeSVRmCTRab_5ZMetxgQj2xr7sK6_SKd2hCPP",
+    "selfAccess": false,
+    "sessionId": null
 }

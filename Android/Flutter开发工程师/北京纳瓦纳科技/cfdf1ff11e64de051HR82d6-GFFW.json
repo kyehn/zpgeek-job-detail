@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "FkBCJCx0twsOL-d1LLuvhARkVbX8efo2MpCqS3AoxnCb11Y8vIhDfwgEEEOlalV9fN3lgslNw93L5ef74iDJQsM6q4ofmTNtcDZbfrqpk7q8qd1c37hD",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cfdf1ff11e64de051HR82d6-GFFW",
-      "encryptUserId": "e82a3b704ecdefdd1nZ52tu8GVtQ",
-      "invalidStatus": false,
-      "jobName": "flutter开发工程师",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "1. 我们需要一个能够用flutter制作Web、mac和windows应用程序的flutter开发人员。\n2. 我们对移动应用程序使用GetX状态管理。\n3. 我们根据难度来支付每项任务的费用。你可以把这份工作当作兼职。\n4. flutter开发人员必须在北京并且能够说英语",
-      "encryptAddressId": "e4c27f255e3e8e551nV43dm_FFVY",
-      "address": "北京海淀区ZHONG GUAN CUN(中关村国际创新大厦店)1",
-      "longitude": 116.303401,
-      "latitude": 39.985577,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78908436634b29327af4a5935aa478a8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9dffcf37a23c18acea5e813fa506a56a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Android客户端产品研发",
-        "Flutter"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "雷先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240328/607f1f3d68754fd07d024b9b3c35adc7d179889c39351b7eb63f9857af98641b538b82992c4f099_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "北京纳瓦纳科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2a568e2fa52152d41X180t-7EFI~",
-      "brandName": "北京纳瓦纳科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100014,
-      "industryName": "人力资源服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719130032201,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京纳瓦纳科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京纳瓦纳科技",
+        "certificated": true,
+        "large": null,
+        "name": "雷先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240328/607f1f3d68754fd07d024b9b3c35adc7d179889c39351b7eb63f9857af98641b538b82992c4f099_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1719130032201,
+        "brandName": "北京纳瓦纳科技",
+        "customerBrandName": "北京纳瓦纳科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2a568e2fa52152d41X180t-7EFI~",
+        "focusBrand": false,
+        "industry": 100014,
+        "industryName": "人力资源服务",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区ZHONG GUAN CUN(中关村国际创新大厦店)1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e4c27f255e3e8e551nV43dm_FFVY",
+        "encryptId": "cfdf1ff11e64de051HR82d6-GFFW",
+        "encryptUserId": "e82a3b704ecdefdd1nZ52tu8GVtQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "flutter开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.985577,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.303401,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9dffcf37a23c18acea5e813fa506a56a",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "1. 我们需要一个能够用flutter制作Web、mac和windows应用程序的flutter开发人员。\n2. 我们对移动应用程序使用GetX状态管理。\n3. 我们根据难度来支付每项任务的费用。你可以把这份工作当作兼职。\n4. flutter开发人员必须在北京并且能够说英语",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "Android客户端产品研发",
+            "Flutter"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78908436634b29327af4a5935aa478a8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "FkBCJCx0twsOL-d1LLuvhARkVbX8efo2MpCqS3AoxnCb11Y8vIhDfwgEEEOlalV9fN3lgslNw93L5ef74iDJQsM6q4ofmTNtcDZbfrqpk7q8qd1c37hD",
+    "selfAccess": false,
+    "sessionId": null
 }

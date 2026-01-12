@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "P59myF5vGgNS4-i1MvvMLhRZFwkjfEkOMMrt334zojdP-NHu8D22_rSBf4XHNyj_jKukWEOA05ieJ3ORhvVqIhJJGrgM6qJ19h_Z3EWYS1oubTWsYkk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9871d7fde3e250291Xd609W9ElZR",
-      "encryptUserId": "6012981814290d811HR62NW4Elo~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101220900,
-      "locationName": "亳州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-11K",
-      "payTypeDesc": null,
-      "postDescription": "AOSP编译，修改，安卓开发",
-      "encryptAddressId": "4f94873bf89ebba90Xd-3965FVo~",
-      "address": "亳州利辛县阳光学府花园小区1单元",
-      "longitude": 116.21197,
-      "latitude": 33.131689,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6ab67178c62627d1541221ece7b047d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b6c9c2dab61aff2378fae5cbfc0736d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Android",
-        "Shell",
-        "软件工程师",
-        "GCC",
-        "JDK"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240507/607f1f3d68754fd02a9cdc99c666f5a273502b0291c313c66cecc053cddf1db33f4d3cddb71216c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "利辛妤慧信息科技发展",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "69ea3462e53227981XV43Nq6FlI~",
-      "brandName": "利辛妤慧信息科技发展",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722927993059,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "利辛妤慧信息科技发展",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "利辛妤慧信息科技发展",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240507/607f1f3d68754fd02a9cdc99c666f5a273502b0291c313c66cecc053cddf1db33f4d3cddb71216c_b.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722927993059,
+        "brandName": "利辛妤慧信息科技发展",
+        "customerBrandName": "利辛妤慧信息科技发展",
+        "customerBrandStageName": "",
+        "encryptBrandId": "69ea3462e53227981XV43Nq6FlI~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "亳州利辛县阳光学府花园小区1单元",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "4f94873bf89ebba90Xd-3965FVo~",
+        "encryptId": "9871d7fde3e250291Xd609W9ElZR",
+        "encryptUserId": "6012981814290d811HR62NW4Elo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 33.131689,
+        "location": 101220900,
+        "locationName": "亳州",
+        "longitude": 116.21197,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b6c9c2dab61aff2378fae5cbfc0736d",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "AOSP编译，修改，安卓开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-11K",
+        "showSkills": [
+            "Android",
+            "Shell",
+            "软件工程师",
+            "GCC",
+            "JDK"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6ab67178c62627d1541221ece7b047d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "P59myF5vGgNS4-i1MvvMLhRZFwkjfEkOMMrt334zojdP-NHu8D22_rSBf4XHNyj_jKukWEOA05ieJ3ORhvVqIhJJGrgM6qJ19h_Z3EWYS1oubTWsYkk~",
+    "selfAccess": false,
+    "sessionId": null
 }

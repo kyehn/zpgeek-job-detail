@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_sSFm4leyP22Q-K1KaVCPJKIkShNtCU-jIG_CDXUm3psmWNtnSOCXDJtLX1C6NnVUWc7j7UA8PcCVZlGI6otsT-I7so_9di3w4cb1Tz4rieGgrX7EH70JVY_GKhC-zjAbA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "93a202a4bce953a403V63d28ElpU",
-      "encryptUserId": "b022800b127a3f7e0XZ53Ni1EVA~",
-      "invalidStatus": false,
-      "jobName": "西安 初级测试（大数据平台）",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "大数据平台 初级测试\n希望是本科应届生 或者工作一年的本科同学，大数据和测试专业最好",
-      "encryptAddressId": "19d472095cea26dd1nB73N21GFpWw422UPKd",
-      "address": "西安雁塔区西安环普科技产业园G4座西安环普科技产业园G4",
-      "longitude": 108.840723,
-      "latitude": 34.2108,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf8a05455e671a546a0c0778b6921f76306bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bfce34c022d534ea2def6581b8d30ebff86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "计算机相关专业",
-        "大数据",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221027/607f1f3d68754fd07dd442f9475dea70688ab22a6370acf9c600fe8f3d417598845235d7df2_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "杭州佰钧成",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5153ea8f522e30851Hx639q-ElQ~",
-      "brandName": "杭州佰钧成",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1736332923312,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州佰钧成",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州佰钧成",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221027/607f1f3d68754fd07dd442f9475dea70688ab22a6370acf9c600fe8f3d417598845235d7df2_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1736332923312,
+        "brandName": "杭州佰钧成",
+        "customerBrandName": "杭州佰钧成",
+        "customerBrandStageName": "",
+        "encryptBrandId": "5153ea8f522e30851Hx639q-ElQ~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区西安环普科技产业园G4座西安环普科技产业园G4",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "19d472095cea26dd1nB73N21GFpWw422UPKd",
+        "encryptId": "93a202a4bce953a403V63d28ElpU",
+        "encryptUserId": "b022800b127a3f7e0XZ53Ni1EVA~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "西安 初级测试（大数据平台）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 34.2108,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.840723,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bfce34c022d534ea2def6581b8d30ebff86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "大数据平台 初级测试\n希望是本科应届生 或者工作一年的本科同学，大数据和测试专业最好",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "自动化测试",
+            "计算机相关专业",
+            "大数据",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf8a05455e671a546a0c0778b6921f76306bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_sSFm4leyP22Q-K1KaVCPJKIkShNtCU-jIG_CDXUm3psmWNtnSOCXDJtLX1C6NnVUWc7j7UA8PcCVZlGI6otsT-I7so_9di3w4cb1Tz4rieGgrX7EH70JVY_GKhC-zjAbA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

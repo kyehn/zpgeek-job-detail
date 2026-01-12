@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3yQnvn2UFbRzj-y1gmU097RpZ4-d1P9TFz3CzglW3Hhf93Ox_u1gLyEKJff0iz2XVFtFzMyzZLcex-Xuz4M3h8Ln7w6O_P45yZ-s4XmOfJGG0v0Q0i_nb3smkJd_vTTblK6WRfBJUPUT0A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2c138ddf8b2a113c1H1-3dm1EVtV",
-      "encryptUserId": "bea46088e15efe413nx909i-Fls~",
-      "invalidStatus": false,
-      "jobName": "软件测试工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "职位描述：\n1、根据产品需求文档，指定测试计划、设计测试方案、编写测试用例，对测试结果分析以及缺陷管理。\n2、参与系统功能/性能测试，包括功能测试、性能测试、接口测试、兼容性测试等。\n3.、对缺陷进行分析、定位和反馈，协助开发人员及时解决问题。\n4、对项目中的质量问题进行跟进，对系统开发提出优化意见，提高团队的整体效率。\n\n任职资格：\n1、\t具备良好的表达和沟通能力以及团队协作能力。\n2、\t主动性强，对系统质量负责，有主人翁精神，能够不断剔除改进方向，推动系统持续进步。\n3、\t能够独立承担系统的测试工作，熟悉业界主流的CI、编写自动化测试脚本、提供效率。\n\n加分项：\n1、\t熟悉Linux操作系统命令优先。\n2、\t熟悉掌握python或其他编程语言者优先。\n3、\t具有大型医疗/互联网系统测试经验优先。",
-      "encryptAddressId": "2d2ecd0243f296c61ndy2dW6FVRYy4W2UP2f",
-      "address": "南京玄武区华利大厦2706",
-      "longitude": 118.786699,
-      "latitude": 32.050638,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff01644da058646a3d647972821a9463",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7f21fabfb264bd6068dfe8dbbffcc97",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试经验",
-        "测试工作经验",
-        "自动化测试",
-        "性能测试",
-        "功能测试",
-        "计算机相关专业",
-        "掌握软件测试理论和流程"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230711/607f1f3d68754fd09ec8fd0f7e21842adb1c7f28cac35541f0db96389454a20e95a342a34af24dc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "天津艾迪研医药科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f45a9abb7dab8e2b1Xx80t67EVU~",
-      "brandName": "天津艾迪研医药科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100401,
-      "industryName": "生物/制药",
-      "introduce": "",
-      "labels": [
-        "交通补助",
-        "通讯补贴",
-        "带薪年假",
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1729849875617,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "天津艾迪研医药科技",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "天津艾迪研医药科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230711/607f1f3d68754fd09ec8fd0f7e21842adb1c7f28cac35541f0db96389454a20e95a342a34af24dc_b.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1729849875617,
+        "brandName": "天津艾迪研医药科技",
+        "customerBrandName": "天津艾迪研医药科技",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "f45a9abb7dab8e2b1Xx80t67EVU~",
+        "focusBrand": false,
+        "industry": 100401,
+        "industryName": "生物/制药",
+        "introduce": "",
+        "labels": [
+            "交通补助",
+            "通讯补贴",
+            "带薪年假",
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京玄武区华利大厦2706",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2d2ecd0243f296c61ndy2dW6FVRYy4W2UP2f",
+        "encryptId": "2c138ddf8b2a113c1H1-3dm1EVtV",
+        "encryptUserId": "bea46088e15efe413nx909i-Fls~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 32.050638,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.786699,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7f21fabfb264bd6068dfe8dbbffcc97",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "职位描述：\n1、根据产品需求文档，指定测试计划、设计测试方案、编写测试用例，对测试结果分析以及缺陷管理。\n2、参与系统功能/性能测试，包括功能测试、性能测试、接口测试、兼容性测试等。\n3.、对缺陷进行分析、定位和反馈，协助开发人员及时解决问题。\n4、对项目中的质量问题进行跟进，对系统开发提出优化意见，提高团队的整体效率。\n\n任职资格：\n1、\t具备良好的表达和沟通能力以及团队协作能力。\n2、\t主动性强，对系统质量负责，有主人翁精神，能够不断剔除改进方向，推动系统持续进步。\n3、\t能够独立承担系统的测试工作，熟悉业界主流的CI、编写自动化测试脚本、提供效率。\n\n加分项：\n1、\t熟悉Linux操作系统命令优先。\n2、\t熟悉掌握python或其他编程语言者优先。\n3、\t具有大型医疗/互联网系统测试经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K·14薪",
+        "showSkills": [
+            "自动化测试经验",
+            "测试工作经验",
+            "自动化测试",
+            "性能测试",
+            "功能测试",
+            "计算机相关专业",
+            "掌握软件测试理论和流程"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff01644da058646a3d647972821a9463"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3yQnvn2UFbRzj-y1gmU097RpZ4-d1P9TFz3CzglW3Hhf93Ox_u1gLyEKJff0iz2XVFtFzMyzZLcex-Xuz4M3h8Ln7w6O_P45yZ-s4XmOfJGG0v0Q0i_nb3smkJd_vTTblK6WRfBJUPUT0A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

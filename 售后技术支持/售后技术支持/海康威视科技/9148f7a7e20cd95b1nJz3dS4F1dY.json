@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "nfGsoTpkAW8Ad-b1SdAj7BmZAVLyQOLrq_rr2QFZxysi7EmYHuXtTIPlk5nJiHR7UXGjKi__3axXUDck69cPGM398hCc_h5EJA72vBtJv_uBKz-L0Q~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9148f7a7e20cd95b1nJz3dS4F1dY",
-      "encryptUserId": "a20469164982a5760n1z2di8FFc~",
-      "invalidStatus": false,
-      "jobName": "售后技术支持",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "1）负责海康售后故障产品（含PCB）维修，建立长期和短期维修计划，确保维修工作有序进行；\n2、）通过电话指导、远程调试等方式协助用户解决产品问题；\n3、）及时受理、记录用户投诉信息，分析解决用户对于产品的投诉，并反馈用户最终处理结果",
-      "encryptAddressId": "61b8e2a2aaedd9d71nV-3t26GFI~",
-      "address": "杭州桐庐县海康威视科技园299号",
-      "longitude": 119.738324,
-      "latitude": 29.812285,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2e913756e38b80b71d438c4be9d29665",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1732ad9738b055211b08e7f602bc8046",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "维修",
-        "售后",
-        "硬件",
-        "电路pcb"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "江先生",
-      "title": "售后经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "海康威视科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "109c6edfb62406eb33B43dq0FA~~",
-      "brandName": "海康威视科技",
-      "logo": "https://c-res.zhipin.com/jrs/486_3ba0d7986cb5c90067b5c7e3b10d5517.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "安防龙头企业，主营视频监控产品的研发、生产、销售",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1725230786842,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "海康威视科技",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "海康威视科技",
+        "certificated": true,
+        "large": null,
+        "name": "江先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "售后经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725230786842,
+        "brandName": "海康威视科技",
+        "customerBrandName": "海康威视科技",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "109c6edfb62406eb33B43dq0FA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "安防龙头企业，主营视频监控产品的研发、生产、销售",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/486_3ba0d7986cb5c90067b5c7e3b10d5517.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州桐庐县海康威视科技园299号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "61b8e2a2aaedd9d71nV-3t26GFI~",
+        "encryptId": "9148f7a7e20cd95b1nJz3dS4F1dY",
+        "encryptUserId": "a20469164982a5760n1z2di8FFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "售后技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.812285,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.738324,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1732ad9738b055211b08e7f602bc8046",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "1）负责海康售后故障产品（含PCB）维修，建立长期和短期维修计划，确保维修工作有序进行；\n2、）通过电话指导、远程调试等方式协助用户解决产品问题；\n3、）及时受理、记录用户投诉信息，分析解决用户对于产品的投诉，并反馈用户最终处理结果",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "维修",
+            "售后",
+            "硬件",
+            "电路pcb"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2e913756e38b80b71d438c4be9d29665"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "nfGsoTpkAW8Ad-b1SdAj7BmZAVLyQOLrq_rr2QFZxysi7EmYHuXtTIPlk5nJiHR7UXGjKi__3axXUDck69cPGM398hCc_h5EJA72vBtJv_uBKz-L0Q~~",
+    "selfAccess": false,
+    "sessionId": null
 }

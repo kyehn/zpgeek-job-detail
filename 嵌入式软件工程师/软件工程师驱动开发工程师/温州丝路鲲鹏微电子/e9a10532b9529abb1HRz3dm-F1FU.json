@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "4qBCIojuZjz0z-y19kpAkbc0wodI8A86gUnt1DxWmeGneaq6sN6B69pw6reijuFsFVIBgUu0Kzus1l0iZ6DOu60zObF-fA-1Vypt_BCYR8g_XvWMmlO4",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e9a10532b9529abb1HRz3dm-F1FU",
-      "encryptUserId": "77978bfe8712d1190XR-3dW6FVdZ",
-      "invalidStatus": false,
-      "jobName": "软件工程师/驱动开发工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责Linux平台DPU芯片内核驱动开发及故障解决；\n2、负责DPU芯片的硅前和硅后验证；\n3、负责DPU芯片系统联调；\n4、负责DPU相关工具开发；\n5、负责文档编写、单元测试，并为团队及客户提供技术支持。\n任职资格：\n1、计算机、软件、电子、通信、自动化、微电子等相关专业，本科及以上学历； \n2、了解CPU（x86/ARM/MIPS/RISC-V）体系结构；\n3、熟悉C/C++编程语言，编程功底扎实；\n4、熟悉Linux设备驱动开发；\n5、熟悉PCIe协议且有Linux PCIe设备驱动开发经验者优先考虑；\n6、熟悉GPU工作原理，有OPENCL开发经验者优先考虑；\n7、有国产CPU、操作系统适配经验者优先考虑；\n8、有密码应用相关经验者优先考虑；\n9、对软件工程概念及开发测试流程有一定了解；\n10、工作积极主动，有责任心，具备良好的沟通能力和团队合作能力。",
-      "encryptAddressId": "58f02d13cbe6b7333nN529u5GFI~",
-      "address": "北京朝阳区宫霄国际6层",
-      "longitude": 116.451859,
-      "latitude": 39.920673,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb079539d22b98d934783af3efc622e1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/695494253b6b6028e146a6680572322a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电气电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "董女士",
-      "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "温州丝路鲲鹏微电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8aa8772b924176c81Xx40921GFI~",
-      "brandName": "温州丝路鲲鹏微电子",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725326609015,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "温州丝路鲲鹏微电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "温州丝路鲲鹏微电子",
+        "certificated": true,
+        "large": null,
+        "name": "董女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725326609015,
+        "brandName": "温州丝路鲲鹏微电子",
+        "customerBrandName": "温州丝路鲲鹏微电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8aa8772b924176c81Xx40921GFI~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区宫霄国际6层",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "58f02d13cbe6b7333nN529u5GFI~",
+        "encryptId": "e9a10532b9529abb1HRz3dm-F1FU",
+        "encryptUserId": "77978bfe8712d1190XR-3dW6FVdZ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "软件工程师/驱动开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.920673,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.451859,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/695494253b6b6028e146a6680572322a",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "岗位职责：\n1、负责Linux平台DPU芯片内核驱动开发及故障解决；\n2、负责DPU芯片的硅前和硅后验证；\n3、负责DPU芯片系统联调；\n4、负责DPU相关工具开发；\n5、负责文档编写、单元测试，并为团队及客户提供技术支持。\n任职资格：\n1、计算机、软件、电子、通信、自动化、微电子等相关专业，本科及以上学历； \n2、了解CPU（x86/ARM/MIPS/RISC-V）体系结构；\n3、熟悉C/C++编程语言，编程功底扎实；\n4、熟悉Linux设备驱动开发；\n5、熟悉PCIe协议且有Linux PCIe设备驱动开发经验者优先考虑；\n6、熟悉GPU工作原理，有OPENCL开发经验者优先考虑；\n7、有国产CPU、操作系统适配经验者优先考虑；\n8、有密码应用相关经验者优先考虑；\n9、对软件工程概念及开发测试流程有一定了解；\n10、工作积极主动，有责任心，具备良好的沟通能力和团队合作能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "电气电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb079539d22b98d934783af3efc622e1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "4qBCIojuZjz0z-y19kpAkbc0wodI8A86gUnt1DxWmeGneaq6sN6B69pw6reijuFsFVIBgUu0Kzus1l0iZ6DOu60zObF-fA-1Vypt_BCYR8g_XvWMmlO4",
+    "selfAccess": false,
+    "sessionId": null
 }

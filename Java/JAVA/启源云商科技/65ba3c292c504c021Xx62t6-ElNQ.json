@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "K0LuVTHdDszw8-51xbv0t2V8tGYQAcsgkfratLkagnbq5cpDPADuW4HtYmm0uG2DgnHkOo11Lq_M8VNvnS1dj9_3uUxB2fShwNb7kR8DtbMKUlRje5Bc",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "65ba3c292c504c021Xx62t6-ElNQ",
-      "encryptUserId": "4bf6bdaaf60bbe280nd-09-7GFRS",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101090600,
-      "locationName": "廊坊",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "基于Java相关技术的软件设计与开发",
-      "encryptAddressId": "566392737a3708773nN40t67FlU~",
-      "address": "廊坊三河市创业大厦三层",
-      "longitude": 116.814306,
-      "latitude": 39.966284,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfbc359ca6a4c953a2609800da144dec616bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf65a92f03939b79528846d2ca790ac8cb6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "苏先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220228/607f1f3d68754fd0b5f411efa6bb92bb1337fb914f54779630ee54cf0b364436b4630574e5f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3月内活跃",
-      "bossOnline": false,
-      "brandName": "启源云商科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "678573c02552ea0e1XR829u8FVQ~",
-      "brandName": "启源云商科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722922896798,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "启源云商科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "启源云商科技",
+        "certificated": true,
+        "large": null,
+        "name": "苏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220228/607f1f3d68754fd0b5f411efa6bb92bb1337fb914f54779630ee54cf0b364436b4630574e5f_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722922896798,
+        "brandName": "启源云商科技",
+        "customerBrandName": "启源云商科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "678573c02552ea0e1XR829u8FVQ~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "廊坊三河市创业大厦三层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "566392737a3708773nN40t67FlU~",
+        "encryptId": "65ba3c292c504c021Xx62t6-ElNQ",
+        "encryptUserId": "4bf6bdaaf60bbe280nd-09-7GFRS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.966284,
+        "location": 101090600,
+        "locationName": "廊坊",
+        "longitude": 116.814306,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf65a92f03939b79528846d2ca790ac8cb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "基于Java相关技术的软件设计与开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfbc359ca6a4c953a2609800da144dec616bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "K0LuVTHdDszw8-51xbv0t2V8tGYQAcsgkfratLkagnbq5cpDPADuW4HtYmm0uG2DgnHkOo11Lq_M8VNvnS1dj9_3uUxB2fShwNb7kR8DtbMKUlRje5Bc",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Of7CxS_zXLdSV-y14IMdm1G86F3QUQ6jvdvPOvZ7xs2rlvmWKqMJ6zfDnGYp1NgOIqxinpvSb3OkYG9J-amt-V3msVkC0sxE5mn-qEtykjrLovlHNSN1q9yYOyqXeuad5ala27WpzanL8lbUYC_R5F6-GCk5qEKiWUS2o5OsUeEE-gF0kd6DAneEgGjBOw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0593d141366be1fe03Ry0tm0F1pR",
-      "encryptUserId": "2a698299dff452dd03xz2Ny_EFE~",
-      "invalidStatus": false,
-      "jobName": "运维师",
-      "position": 101408,
-      "positionName": "电子维修技术员",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "任职要求：\n1. 专业：计算机科学与技术专业、软件工程专业、网络工程专业、信息安全专业、物联网工程专业、数字媒体技术专业、智能科学与技术专业、空间信息与数字技术专业、电子与计算机工程专业、自动化专业、信息与计算科学专业、通讯工程专业、数学与应用数学专业、电子信息工程专业、数据科学专业、大数据技术专业、计算机应用技术专业、计算机信息管理专业 ；\n2. 身体健康、无不良嗜好、纠正视力不低于4.8；\n4. 学习能力较强，懂得举一反三、心手协调性好、语言逻辑清晰、 表达沟通正常良好、懂得换位思考。",
-      "encryptAddressId": "8402199abc2204711nV82N69F1VVyou5UvOe",
-      "address": "上海徐汇区漕河泾现代服务业园区A6",
-      "longitude": 121.398431,
-      "latitude": 31.163914,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e817d1d28edf156db7db0ae590fdfe07",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe2aa19aff984124c7a535983c01159c",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机科学与技术专业",
-        "软件工程专业",
-        "AI算力卡"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "人力资源经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231012/607f1f3d68754fd0ae5e3c1676bb44d5e6a6284ae5419891996e70845f9fd4ea261e40628e4d09e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "魔形智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "892b5748357546d71HF-3tm_E1U~",
-      "brandName": "魔形智能",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241224/7bf6f160950405e9043c749a58c5c03b03839cbcd517cf6e996e70845f9fd4ea261e40628e4d09e7.png.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "魔形智能（Magik Compute）致力于为全球客户提供AGI Infra与AIaaS算力平台产品和服务。我们通过创新的技术，打造端到端的人工智能加速优化解决方案，帮助企业攻克大模型开发与应用的相关难题，解锁AGI潜力，加速创新，提升效率。",
-      "labels": [
-        "团建聚餐",
-        "零食下午茶",
-        "餐补",
-        "带薪年假",
-        "股票期权",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1736347098575,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "魔形智能",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "魔形智能",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231012/607f1f3d68754fd0ae5e3c1676bb44d5e6a6284ae5419891996e70845f9fd4ea261e40628e4d09e_b.jpg",
+        "title": "人力资源经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1736347098575,
+        "brandName": "魔形智能",
+        "customerBrandName": "魔形智能",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "892b5748357546d71HF-3tm_E1U~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "魔形智能（Magik Compute）致力于为全球客户提供AGI Infra与AIaaS算力平台产品和服务。我们通过创新的技术，打造端到端的人工智能加速优化解决方案，帮助企业攻克大模型开发与应用的相关难题，解锁AGI潜力，加速创新，提升效率。",
+        "labels": [
+            "团建聚餐",
+            "零食下午茶",
+            "餐补",
+            "带薪年假",
+            "股票期权",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241224/7bf6f160950405e9043c749a58c5c03b03839cbcd517cf6e996e70845f9fd4ea261e40628e4d09e7.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区漕河泾现代服务业园区A6",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "8402199abc2204711nV82N69F1VVyou5UvOe",
+        "encryptId": "0593d141366be1fe03Ry0tm0F1pR",
+        "encryptUserId": "2a698299dff452dd03xz2Ny_EFE~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.163914,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.398431,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe2aa19aff984124c7a535983c01159c",
+        "position": 101408,
+        "positionName": "电子维修技术员",
+        "postDescription": "任职要求：\n1. 专业：计算机科学与技术专业、软件工程专业、网络工程专业、信息安全专业、物联网工程专业、数字媒体技术专业、智能科学与技术专业、空间信息与数字技术专业、电子与计算机工程专业、自动化专业、信息与计算科学专业、通讯工程专业、数学与应用数学专业、电子信息工程专业、数据科学专业、大数据技术专业、计算机应用技术专业、计算机信息管理专业 ；\n2. 身体健康、无不良嗜好、纠正视力不低于4.8；\n4. 学习能力较强，懂得举一反三、心手协调性好、语言逻辑清晰、 表达沟通正常良好、懂得换位思考。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K·13薪",
+        "showSkills": [
+            "计算机科学与技术专业",
+            "软件工程专业",
+            "AI算力卡"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e817d1d28edf156db7db0ae590fdfe07"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Of7CxS_zXLdSV-y14IMdm1G86F3QUQ6jvdvPOvZ7xs2rlvmWKqMJ6zfDnGYp1NgOIqxinpvSb3OkYG9J-amt-V3msVkC0sxE5mn-qEtykjrLovlHNSN1q9yYOyqXeuad5ala27WpzanL8lbUYC_R5F6-GCk5qEKiWUS2o5OsUeEE-gF0kd6DAneEgGjBOw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

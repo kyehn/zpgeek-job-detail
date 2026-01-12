@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EqeR9MjmG34iK-G1i2LK-exzUaY8RJKnsA9iw1BLTIHR_cDQw__AQrMixHm_0V61VyDxnL_PWDZdCZWThXfpJN1G5omt5d7NV_7BPn0ig8ef_eI9GuouYi3ozv8YKMcv8L9vQb2RXRETsgI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5eed0ee5da530d0d1nVz2d-9FFZY",
-      "encryptUserId": "0d0030903b1f76050nV52tS5F1BR",
-      "invalidStatus": false,
-      "jobName": "性能测试",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101101000,
-      "locationName": "忻州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "对医疗机构、工业企业使用的计量器具进行校准检测。",
-      "encryptAddressId": "a9df8908281e47811H1509y5GFA~",
-      "address": "忻州忻府区山西宏运丰贸易有限公司药品经营分公司三楼",
-      "longitude": 112.736783,
-      "latitude": 38.453852,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a157334fedcde2d0b45fed55cec06957",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ec3a0e503f79d0a411990fd8a98013c0",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计量器具校准测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "指导员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210419/2e5d8c30356cf9632ffbd1b8767ca0e168eafcd6d2da0e60d5ea327aff4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "百姓天元计量",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e70edc321a032f771nd929m-EVI~",
-      "brandName": "百姓天元计量",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100606,
-      "industryName": "检测/认证",
-      "introduce": "本公主要业务对医疗机构的医疗器械、工业企业的计量器具进行检测校准。",
-      "labels": [],
-      "activeTime": 1725467064095,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "百姓天元计量",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "百姓天元计量",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210419/2e5d8c30356cf9632ffbd1b8767ca0e168eafcd6d2da0e60d5ea327aff4_b.jpg",
+        "title": "指导员"
+    },
+    "brandComInfo": {
+        "activeTime": 1725467064095,
+        "brandName": "百姓天元计量",
+        "customerBrandName": "百姓天元计量",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e70edc321a032f771nd929m-EVI~",
+        "focusBrand": false,
+        "industry": 100606,
+        "industryName": "检测/认证",
+        "introduce": "本公主要业务对医疗机构的医疗器械、工业企业的计量器具进行检测校准。",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "忻州忻府区山西宏运丰贸易有限公司药品经营分公司三楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "a9df8908281e47811H1509y5GFA~",
+        "encryptId": "5eed0ee5da530d0d1nVz2d-9FFZY",
+        "encryptUserId": "0d0030903b1f76050nV52tS5F1BR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "性能测试",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.453852,
+        "location": 101101000,
+        "locationName": "忻州",
+        "longitude": 112.736783,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ec3a0e503f79d0a411990fd8a98013c0",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "对医疗机构、工业企业使用的计量器具进行校准检测。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "计量器具校准测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a157334fedcde2d0b45fed55cec06957"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EqeR9MjmG34iK-G1i2LK-exzUaY8RJKnsA9iw1BLTIHR_cDQw__AQrMixHm_0V61VyDxnL_PWDZdCZWThXfpJN1G5omt5d7NV_7BPn0ig8ef_eI9GuouYi3ozv8YKMcv8L9vQb2RXRETsgI~",
+    "selfAccess": false,
+    "sessionId": null
 }

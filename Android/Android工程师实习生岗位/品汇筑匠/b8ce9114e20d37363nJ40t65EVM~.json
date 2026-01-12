@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UUNmVMA3OoGqM-k1PFALXrFFuaFkoIWDtXKW91hfg17wOWsrT1FCllZY3SrMurvU0Y6LPilfJgjeWNAKmAkAHhgPx-lVOzt-YXqdHnoz1qx3WvYf",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b8ce9114e20d37363nJ40t65EVM~",
-      "encryptUserId": "9b3452fcb714c02f33V83d-0FVA~",
-      "invalidStatus": false,
-      "jobName": "Android工程师实习生岗位",
-      "position": 100202,
-      "positionName": "Android",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-6K",
-      "payTypeDesc": null,
-      "postDescription": "1负责android程序的开发与测试  2负责公司安卓系统客户端软件的开发，参与项目需求分析、产品设计等。  3按计划完成产品的代码编写，产品测试，并且保证代码质量。  4对安卓平台开发技术进行研究。  任职要求：  1精通JAVA开发，熟悉Android开发发环境，熟练掌握Android基本类库，熟练使用开发工具；  2熟悉android基本控件，页面布局。  3熟悉XML、JSON，掌握HTTP、TCP/IP协议；",
-      "encryptAddressId": "2dda952777476f9c1XJz2Nu-F1U~",
-      "address": "北京西城区北京建筑大学(西城校区)",
-      "longitude": 116.341397,
-      "latitude": 39.935142,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9aa579d4a2e8642b99bb4eedbda384e1",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00016d172ecf0ef06981e61128e686cd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Android",
-        "网络协议",
-        "前端开发",
-        "计算机软件",
-        "移动端"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "欧先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "品汇筑匠",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ea3647af001654e40XFy2di0Eg~~",
-      "brandName": "品汇筑匠",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200521/a939f35243f9883018e21b86cd5e4c0762c3fa7055008affc9fe9ff0ad57f484.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100703,
-      "industryName": "建筑设计",
-      "introduce": "北京品汇筑匠工程设计咨询有限公司位于北京建筑大学校内，依托于北京建筑大学和北京建工建筑设计研究院平台资源，业务涵盖建筑，规划，景观等设计项目，公司采取产学研的发展战略，集城市规划，建筑，园林景观，室内设计，机电设备等各专业多位一体的合作办公模式，搭建了一个兼顾学术与实践的开放性专业性的多元化交流合作平台。",
-      "labels": [],
-      "activeTime": 1722870285059,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "品汇筑匠",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "品汇筑匠",
+        "certificated": true,
+        "large": null,
+        "name": "欧先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722870285059,
+        "brandName": "品汇筑匠",
+        "customerBrandName": "品汇筑匠",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "ea3647af001654e40XFy2di0Eg~~",
+        "focusBrand": false,
+        "industry": 100703,
+        "industryName": "建筑设计",
+        "introduce": "北京品汇筑匠工程设计咨询有限公司位于北京建筑大学校内，依托于北京建筑大学和北京建工建筑设计研究院平台资源，业务涵盖建筑，规划，景观等设计项目，公司采取产学研的发展战略，集城市规划，建筑，园林景观，室内设计，机电设备等各专业多位一体的合作办公模式，搭建了一个兼顾学术与实践的开放性专业性的多元化交流合作平台。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200521/a939f35243f9883018e21b86cd5e4c0762c3fa7055008affc9fe9ff0ad57f484.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京西城区北京建筑大学(西城校区)",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "2dda952777476f9c1XJz2Nu-F1U~",
+        "encryptId": "b8ce9114e20d37363nJ40t65EVM~",
+        "encryptUserId": "9b3452fcb714c02f33V83d-0FVA~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Android工程师实习生岗位",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.935142,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.341397,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00016d172ecf0ef06981e61128e686cd",
+        "position": 100202,
+        "positionName": "Android",
+        "postDescription": "1负责android程序的开发与测试  2负责公司安卓系统客户端软件的开发，参与项目需求分析、产品设计等。  3按计划完成产品的代码编写，产品测试，并且保证代码质量。  4对安卓平台开发技术进行研究。  任职要求：  1精通JAVA开发，熟悉Android开发发环境，熟练掌握Android基本类库，熟练使用开发工具；  2熟悉android基本控件，页面布局。  3熟悉XML、JSON，掌握HTTP、TCP/IP协议；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-6K",
+        "showSkills": [
+            "Android",
+            "网络协议",
+            "前端开发",
+            "计算机软件",
+            "移动端"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9aa579d4a2e8642b99bb4eedbda384e1"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UUNmVMA3OoGqM-k1PFALXrFFuaFkoIWDtXKW91hfg17wOWsrT1FCllZY3SrMurvU0Y6LPilfJgjeWNAKmAkAHhgPx-lVOzt-YXqdHnoz1qx3WvYf",
+    "selfAccess": false,
+    "sessionId": null
 }

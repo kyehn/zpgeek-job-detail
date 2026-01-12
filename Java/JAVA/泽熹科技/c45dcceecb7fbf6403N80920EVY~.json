@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "XALDFzCCtY5S5-C1RsegpQYWZlzxWkHPiov0w3CHuXczr5rqAHjRtzZyrnyBp3eLSrnLur3gxRLm2wxkcYuPrw8eDP1p6bG-NGUuGO_kU8_cx4SflhYBg3_n8YBYB5R8vf2pcyMF5Pg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c45dcceecb7fbf6403N80920EVY~",
-      "encryptUserId": "6120c7e380e03eea0Xxz2dS-GFA~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "1、精通JAVA，熟悉JVM原理；\n2、熟悉前端开发技术，有复杂前端交互开发经验； \n3、熟悉Spring,ibatis,struts等开源框架的使用及原理； \n4、熟悉缓存、消息等机制；\n5、掌握多线程及高性能的设计与编码及性能调优；\n5、掌握Linux 操作系统，精通MySql、postgresql； \n6、喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队；\n7、有良好的需求理解能力和沟通能力；",
-      "encryptAddressId": "7632c6d11b50a6c01nZy2N61FVM~",
-      "address": "北京海淀区银网中心B座",
-      "longitude": 116.320753,
-      "latitude": 39.976727,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7a04749c5f9614729011bf698dca44e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/137456696b4d737ceae04380456d25f9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "企业软件",
-        "后端开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "尹先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230429/607f1f3d68754fd0a615a910fe71c66cc50f2d4b929f0f50e4ca2b6af5198192b72b61ce495_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "泽熹科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0566d0c9222c7f6c0nR529S6Ew~~",
-      "brandName": "泽熹科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725600808205,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "泽熹科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "泽熹科技",
+        "certificated": true,
+        "large": null,
+        "name": "尹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230429/607f1f3d68754fd0a615a910fe71c66cc50f2d4b929f0f50e4ca2b6af5198192b72b61ce495_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725600808205,
+        "brandName": "泽熹科技",
+        "customerBrandName": "泽熹科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0566d0c9222c7f6c0nR529S6Ew~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区银网中心B座",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7632c6d11b50a6c01nZy2N61FVM~",
+        "encryptId": "c45dcceecb7fbf6403N80920EVY~",
+        "encryptUserId": "6120c7e380e03eea0Xxz2dS-GFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.976727,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.320753,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/137456696b4d737ceae04380456d25f9",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、精通JAVA，熟悉JVM原理；\n2、熟悉前端开发技术，有复杂前端交互开发经验； \n3、熟悉Spring,ibatis,struts等开源框架的使用及原理； \n4、熟悉缓存、消息等机制；\n5、掌握多线程及高性能的设计与编码及性能调优；\n5、掌握Linux 操作系统，精通MySql、postgresql； \n6、喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队；\n7、有良好的需求理解能力和沟通能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Java",
+            "企业软件",
+            "后端开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7a04749c5f9614729011bf698dca44e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "XALDFzCCtY5S5-C1RsegpQYWZlzxWkHPiov0w3CHuXczr5rqAHjRtzZyrnyBp3eLSrnLur3gxRLm2wxkcYuPrw8eDP1p6bG-NGUuGO_kU8_cx4SflhYBg3_n8YBYB5R8vf2pcyMF5Pg~",
+    "selfAccess": false,
+    "sessionId": null
 }

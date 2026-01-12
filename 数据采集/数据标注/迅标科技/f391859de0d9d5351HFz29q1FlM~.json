@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "pA5ta67W_CLs1-p13N8X77SMy2vKDYYMQemNBi2sa_bQumFeGAc99wFRhvGP3gzlvjc-hzi-NjHnV1YRZy45b3Pa37IBGa6Kv7ME-uA9bhk3VbVd",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f391859de0d9d5351HFz29q1FlM~",
-      "encryptUserId": "565cd507f50680320nB52Ny1F1E~",
-      "invalidStatus": false,
-      "jobName": "数据标注",
-      "position": 100122,
-      "positionName": "数据采集",
-      "location": 101100100,
-      "locationName": "太原",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "地图照片数据标注处理\n\n朝九晚六 \n有雷达点云和图片数据标注经验者优先。",
-      "encryptAddressId": "fc0c6d113ecf0b841nR909S_FlE~",
-      "address": "太原小店区华德中心广场C座14层",
-      "longitude": 112.54948,
-      "latitude": 37.81843,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/298239e38b97b54e8eaa549e2ba35fd3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c37ab7e750e207d1efbbaef62a4c10d8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "算法基础",
-        "PS"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190221/bf15b812e6f227e03f0a9d2f7519fcbf02b64d374ae3302e146d57e78ea_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "迅标科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "41b0bfd45b0df8fa1HF40ty5Eg~~",
-      "brandName": "迅标科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [
-        "全勤奖",
-        "加班补助"
-      ],
-      "activeTime": 1725332371799,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迅标科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "迅标科技",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190221/bf15b812e6f227e03f0a9d2f7519fcbf02b64d374ae3302e146d57e78ea_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725332371799,
+        "brandName": "迅标科技",
+        "customerBrandName": "迅标科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "41b0bfd45b0df8fa1HF40ty5Eg~~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [
+            "全勤奖",
+            "加班补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "太原小店区华德中心广场C座14层",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "fc0c6d113ecf0b841nR909S_FlE~",
+        "encryptId": "f391859de0d9d5351HFz29q1FlM~",
+        "encryptUserId": "565cd507f50680320nB52Ny1F1E~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据标注",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.81843,
+        "location": 101100100,
+        "locationName": "太原",
+        "longitude": 112.54948,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c37ab7e750e207d1efbbaef62a4c10d8",
+        "position": 100122,
+        "positionName": "数据采集",
+        "postDescription": "地图照片数据标注处理\n\n朝九晚六 \n有雷达点云和图片数据标注经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "算法基础",
+            "PS"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/298239e38b97b54e8eaa549e2ba35fd3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "pA5ta67W_CLs1-p13N8X77SMy2vKDYYMQemNBi2sa_bQumFeGAc99wFRhvGP3gzlvjc-hzi-NjHnV1YRZy45b3Pa37IBGa6Kv7ME-uA9bhk3VbVd",
+    "selfAccess": false,
+    "sessionId": null
 }

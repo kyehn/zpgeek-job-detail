@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "lrZ4hv9310qTE-L1P9Ty0ltyhQeUsuJ_63Fu70io-M3arZRY63SCsS03zCNi5jpGgVyHc4UAu-ZJ7a3SM2MmyOdBWiNH73pPBYHSkJtI858HsetjiIM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e4274749b411ee2a1Hd93t6-GFdQ",
-      "encryptUserId": "2205a21f9d22cb360X1-3di6EFM~",
-      "invalidStatus": false,
-      "jobName": "中级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n一、日常测试\n1、及时响应主管安排的任务，并按照优先级、计划完成时间、任务要求等开展各项工作；\n2、参与需求沟通，做好需求的测试分析、用例设计及测试计划；\n3、按照测试流程进行测试打包、测试环境部署、测试执行，定位和记录发现BUG并跟进修正；\n4、自主开展负责模块性能测试，推进模块性能优化；\n5、完成需求发布后的验收工作、确保发布需求及相关功能使用正常。\n二、团队协作职责\n1、重大需求测试期间组织相关人员站了会议；\n2、及时反馈测试结果，有效推进测试进度；\n3、协助开发进行BUG重现、定位；\n4、指导新进员工进行工作、学习，提升测试工作效率。\n三、日常运维职责\n1、对项目部/用户反馈的问题及时响应，修正问题及时反馈；\n2、配合产品经理做好日常产品功能使用方面的解答。\n任职要求：\n1、大专及以上学历、计算机相关专业，3年以上软件测试工作经验；\n2、对测试方法学、测试原理、软件开发流程和质量管理流程有一定理解；\n3、熟悉一种或多种测试工具和管理工具，熟悉主流数据库操作；\n4、良好的团队合作精神；\n5、了解微服务架构测试方法、数据仓库和数据中台者优先考虑。",
-      "encryptAddressId": "4b102745b14281db1HN50ti1E1RUy4i6WPg~",
-      "address": "杭州萧山区杭州湾信息港B座1203",
-      "longitude": 120.247189,
-      "latitude": 30.203418,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bfdc0cf7de686855b13a6c4bb99cbc796e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf2b1a8c9a5627a97f3e6a1e19420b480b6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "陆女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201029/72d80996dc7c713078747a72260a6b4c411c91371ae5eb17ff11b1ffb8c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "网盛数新",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2718a1aef2ddbdcb1nF63921EVE~",
-      "brandName": "网盛数新",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731318227043,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "网盛数新",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "网盛数新",
+        "certificated": true,
+        "large": null,
+        "name": "陆女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201029/72d80996dc7c713078747a72260a6b4c411c91371ae5eb17ff11b1ffb8c_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1731318227043,
+        "brandName": "网盛数新",
+        "customerBrandName": "网盛数新",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2718a1aef2ddbdcb1nF63921EVE~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区杭州湾信息港B座1203",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "4b102745b14281db1HN50ti1E1RUy4i6WPg~",
+        "encryptId": "e4274749b411ee2a1Hd93t6-GFdQ",
+        "encryptUserId": "2205a21f9d22cb360X1-3di6EFM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "中级测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.203418,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.247189,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf2b1a8c9a5627a97f3e6a1e19420b480b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n一、日常测试\n1、及时响应主管安排的任务，并按照优先级、计划完成时间、任务要求等开展各项工作；\n2、参与需求沟通，做好需求的测试分析、用例设计及测试计划；\n3、按照测试流程进行测试打包、测试环境部署、测试执行，定位和记录发现BUG并跟进修正；\n4、自主开展负责模块性能测试，推进模块性能优化；\n5、完成需求发布后的验收工作、确保发布需求及相关功能使用正常。\n二、团队协作职责\n1、重大需求测试期间组织相关人员站了会议；\n2、及时反馈测试结果，有效推进测试进度；\n3、协助开发进行BUG重现、定位；\n4、指导新进员工进行工作、学习，提升测试工作效率。\n三、日常运维职责\n1、对项目部/用户反馈的问题及时响应，修正问题及时反馈；\n2、配合产品经理做好日常产品功能使用方面的解答。\n任职要求：\n1、大专及以上学历、计算机相关专业，3年以上软件测试工作经验；\n2、对测试方法学、测试原理、软件开发流程和质量管理流程有一定理解；\n3、熟悉一种或多种测试工具和管理工具，熟悉主流数据库操作；\n4、良好的团队合作精神；\n5、了解微服务架构测试方法、数据仓库和数据中台者优先考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bfdc0cf7de686855b13a6c4bb99cbc796e6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "lrZ4hv9310qTE-L1P9Ty0ltyhQeUsuJ_63Fu70io-M3arZRY63SCsS03zCNi5jpGgVyHc4UAu-ZJ7a3SM2MmyOdBWiNH73pPBYHSkJtI858HsetjiIM~",
+    "selfAccess": false,
+    "sessionId": null
 }

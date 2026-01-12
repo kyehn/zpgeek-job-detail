@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "RHYoXYWcpYd19-r1Y3NaIQVfYuUN-VlkF0l8qBa4t0CQxZpxc8FXS4_qR66krFoGp703xcVN67_PwvP6O7sLToDvJ6ryolBBMd0I23Hv_8YsgrGu4J67KFWd6tZ223zZQOC9G_AmkhSf",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5c0883386fe089e61nRy3tS6GFZT",
-      "encryptUserId": "a498205e43de3a8303x62d-0FFs~",
-      "invalidStatus": false,
-      "jobName": "软件开发",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、JAVA基础与算法功底扎实，精通面向对象分析，熟悉网络编程、多线程应用；\n2、熟悉JFinal/Spring Boot 等开源框架；\n3、熟悉 Linux/centos操作系统，能够使用日常操作命令，编写脚本；\n4、熟悉 MySQL/Oracle/MongoDB 数据库，熟悉数据库设计、维护与优化；\n5、熟悉Redis等的常用缓存技术；\n6、有一定的HTML/CSS、React、Vue等前端开发技能或能进行学习掌握；\n要求专科及以上学历，有软件开发经验。",
-      "encryptAddressId": "b2eb4ddc55e3993a1HN63N2_F1M~",
-      "address": "青岛崂山区滢海大厦B座602室",
-      "longitude": 120.457362,
-      "latitude": 36.107816,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3175719b8f125e0402c135698ab1fb2a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7eaea0aeb3495ef3906bd649bfaa44b1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "HTML",
-        "CSS",
-        "MySQL",
-        "Redis",
-        "react"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邹先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "图特软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "211f381d906073be1X1_2tu9GA~~",
-      "brandName": "图特软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725467310239,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "图特软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "图特软件",
+        "certificated": true,
+        "large": null,
+        "name": "邹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725467310239,
+        "brandName": "图特软件",
+        "customerBrandName": "图特软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "211f381d906073be1X1_2tu9GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛崂山区滢海大厦B座602室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b2eb4ddc55e3993a1HN63N2_F1M~",
+        "encryptId": "5c0883386fe089e61nRy3tS6GFZT",
+        "encryptUserId": "a498205e43de3a8303x62d-0FFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.107816,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.457362,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7eaea0aeb3495ef3906bd649bfaa44b1",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、JAVA基础与算法功底扎实，精通面向对象分析，熟悉网络编程、多线程应用；\n2、熟悉JFinal/Spring Boot 等开源框架；\n3、熟悉 Linux/centos操作系统，能够使用日常操作命令，编写脚本；\n4、熟悉 MySQL/Oracle/MongoDB 数据库，熟悉数据库设计、维护与优化；\n5、熟悉Redis等的常用缓存技术；\n6、有一定的HTML/CSS、React、Vue等前端开发技能或能进行学习掌握；\n要求专科及以上学历，有软件开发经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "Java",
+            "HTML",
+            "CSS",
+            "MySQL",
+            "Redis",
+            "react"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3175719b8f125e0402c135698ab1fb2a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "RHYoXYWcpYd19-r1Y3NaIQVfYuUN-VlkF0l8qBa4t0CQxZpxc8FXS4_qR66krFoGp703xcVN67_PwvP6O7sLToDvJ6ryolBBMd0I23Hv_8YsgrGu4J67KFWd6tZ223zZQOC9G_AmkhSf",
+    "selfAccess": false,
+    "sessionId": null
 }

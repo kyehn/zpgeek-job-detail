@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "VSdnBiJL4WeRg-s1bN7V2bFS5usuGaZCwigP_epBY0AmEOpdgcmp_ogH_7obtQgOMVahZrsEOwdBnI07D_WfOtr-qclyKT1ioylCME_mnZjdv3nZ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2900d6a3f66a14041H160t2-Fls~",
-      "encryptUserId": "21114cdfe9209dd60nB42ty6EFQ~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100308,
-      "positionName": "硬件测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "要求：电子工程相关专业，熟练掌握电烙铁热风枪的使用，熟练使用电脑。有原理图pcb，单片机程序开发能力的优先。\n工作内容：产品测试，焊接，包装，发货。有能力的可以开发原理图pcb和单片机程序。\n工作时间：实习1-3个月，双休，一天八个小时。",
-      "encryptAddressId": "ba08d353258107861nV709S6FlY~",
-      "address": "深圳宝安区红湾商务中心A306",
-      "longitude": 113.849806,
-      "latitude": 22.593518,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a760cab85faeab472d4dce4f6de64cd7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/764dbeaf852f869ce00b61e04ab2a54e",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试",
-        "PCB"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190220/10880f86bded22a22ea331f8eec2a65e2ae4dc2023d10d7e8e4145186dd_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "星际汇",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c926311d582522f21HF_29m6EQ~~",
-      "brandName": "星际汇",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725331851017,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "星际汇",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "星际汇",
+        "certificated": true,
+        "large": null,
+        "name": "吴先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190220/10880f86bded22a22ea331f8eec2a65e2ae4dc2023d10d7e8e4145186dd_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725331851017,
+        "brandName": "星际汇",
+        "customerBrandName": "星际汇",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c926311d582522f21HF_29m6EQ~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区红湾商务中心A306",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ba08d353258107861nV709S6FlY~",
+        "encryptId": "2900d6a3f66a14041H160t2-Fls~",
+        "encryptUserId": "21114cdfe9209dd60nB42ty6EFQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.593518,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.849806,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/764dbeaf852f869ce00b61e04ab2a54e",
+        "position": 100308,
+        "positionName": "硬件测试",
+        "postDescription": "要求：电子工程相关专业，熟练掌握电烙铁热风枪的使用，熟练使用电脑。有原理图pcb，单片机程序开发能力的优先。\n工作内容：产品测试，焊接，包装，发货。有能力的可以开发原理图pcb和单片机程序。\n工作时间：实习1-3个月，双休，一天八个小时。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "测试",
+            "PCB"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a760cab85faeab472d4dce4f6de64cd7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "VSdnBiJL4WeRg-s1bN7V2bFS5usuGaZCwigP_epBY0AmEOpdgcmp_ogH_7obtQgOMVahZrsEOwdBnI07D_WfOtr-qclyKT1ioylCME_mnZjdv3nZ",
+    "selfAccess": false,
+    "sessionId": null
 }

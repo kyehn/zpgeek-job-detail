@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "HZ9XAsriUrMqS-I1toIMbZhxKmlZUjtx5yDmS1oJUpJoJMXIE1m18_Wf5NnmUgjhygch9__pWNU6hPgeWbIs_PDz4pUzJX1SbdVM7V41MoYVYrx50J4y",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b3392bbfaaf5231c1X172tq4GVdW",
-      "encryptUserId": "2ad61e40eac2107c0nN92dy6E1NS",
-      "invalidStatus": false,
-      "jobName": "电脑技术员",
-      "position": 100801,
-      "positionName": "硬件工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "售前方案推荐，售后故障排除。服务器操作系统的安装，服务器超融合系统的搭建，服务器上架，服务器存储配件硬件设备的扩容等工作，以及公司安排的其他工作。非诚勿扰。",
-      "encryptAddressId": "3183dbed28ab32520H1z3Nq4EFM~",
-      "address": "南京玄武区新世界中心39",
-      "longitude": 118.788285,
-      "latitude": 32.049391,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/752af96e9d2d0e1a41b388cef86b4abd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f05adb9a0c12524f71482c3a3dea891",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电子电气/自动化相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "5月内活跃",
-      "bossOnline": false,
-      "brandName": "南京玄参",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2aaf42cb186112681XF639y6GFA~",
-      "brandName": "南京玄参",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725322897365,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "南京玄参",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "5月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "南京玄参",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725322897365,
+        "brandName": "南京玄参",
+        "customerBrandName": "南京玄参",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2aaf42cb186112681XF639y6GFA~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京玄武区新世界中心39",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3183dbed28ab32520H1z3Nq4EFM~",
+        "encryptId": "b3392bbfaaf5231c1X172tq4GVdW",
+        "encryptUserId": "2ad61e40eac2107c0nN92dy6E1NS",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "电脑技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.049391,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.788285,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f05adb9a0c12524f71482c3a3dea891",
+        "position": 100801,
+        "positionName": "硬件工程师",
+        "postDescription": "售前方案推荐，售后故障排除。服务器操作系统的安装，服务器超融合系统的搭建，服务器上架，服务器存储配件硬件设备的扩容等工作，以及公司安排的其他工作。非诚勿扰。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "电子电气/自动化相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/752af96e9d2d0e1a41b388cef86b4abd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "HZ9XAsriUrMqS-I1toIMbZhxKmlZUjtx5yDmS1oJUpJoJMXIE1m18_Wf5NnmUgjhygch9__pWNU6hPgeWbIs_PDz4pUzJX1SbdVM7V41MoYVYrx50J4y",
+    "selfAccess": false,
+    "sessionId": null
 }

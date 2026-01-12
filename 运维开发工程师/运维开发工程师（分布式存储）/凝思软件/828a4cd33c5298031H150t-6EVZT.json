@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "hNASMImg_b6Gq-T1MFbJ0Co9_UUftq0KDUJNrwnBNx8fz0mJ_6PqR4zqnievY2FnTo711lOaXoVszpoYDL2M8iSDnuxOK5ozRdNrQydQ-K80H2fmuCcwhFyNZErCmG8Km1A_Lsr_Gs4BxA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "828a4cd33c5298031H150t-6EVZT",
-      "encryptUserId": "83226eb9880104801XJ52ty7EVQ~",
-      "invalidStatus": false,
-      "jobName": "运维开发工程师（分布式存储）",
-      "position": 100402,
-      "positionName": "运维开发工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责分布式存储等相关产品的现场工程对接、问题分析、故障定位及BUG修复;\n2、负责Linux平台下分布式存储系统和模块的设计、开发；\n3、负责软件功能的调试和测试；\n4、负责编制项目文档和质量记录；\n5、完成领导交办的其他工作。\n\n任职要求：\n1、计算机相关专业毕业，扎实的计算机、存储、网络等相关基础知识;\n2、熟悉Linux系统编程，熟练掌握Linux下进程线程、网络编程、IO编程、Shell编程、系统调用等技术；\n3、熟悉Linux存储栈，熟悉存储相关性能指标，具有实际存储性能调优经验者优先；\n4、具有分布式存储或集中式存储相关研发、维护经验者优先；\n5、具有良好的文档编写能力。",
-      "encryptAddressId": "8fda57647e6247a0331-29S1E1Q~",
-      "address": "成都武侯区D5东方希望天祥广场B3606",
-      "longitude": 104.067854,
-      "latitude": 30.552968,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99ab80c144aeb1261e2abdbd928f1469",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2371041edbf5eff9b6b087a2942794a1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "通信/工程相关专业",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "人力资源主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220324/607f1f3d68754fd0948ed02b6702680f67ad13470636f172a23de5faa035cc420532f701a9b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "凝思软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fd4ba09661eb9b501nx709q8GVc~",
-      "brandName": "凝思软件",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231019/7bf6f160950405e9a09d7a582f8d2f017055fb1c668cfc0b4c1692da58aeb4d1118e7957f2a1d8b4.png.webp",
-      "stage": 806,
-      "stageName": "D轮及以上",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "北京凝思软件股份有限公司（以下简称“凝思软件”）由“中国Linux先行者”宫敏博士于2016年创办，是国内先进的国产安全操作系统厂商，以“实现国家大型基础设施行业基础软件国产化安全化”为使命，致力于研发生产“高安全性、高性能、高稳定性”的基础操作系统软件及相关产品和服务，在操作系统层面保障生产及关键业务系统的安全稳定运行,目前已成为国内大型基础行业国产操作系统的中坚力量。\n经过多年持续努力，凝思安全操作系统系列产品、安全平台系列产品和定制开发产品的用户遍及电力、政府、金融、铁路、电信等重点行业，在大型基础行业实现规模化部署，产品的安全性、稳定性经过了充分验证，完全能够替代生产控制领域的国外服务器、嵌入式和实时操作系统产品，已经成为国家大型基础设施行业信息化建设的坚强基石。",
-      "labels": [
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "零食下午茶",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "法定节假日三薪",
-        "绩效奖金",
-        "定期体检",
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1729847054929,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "凝思软件",
-      "customerBrandStageName": "D轮及以上"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "凝思软件",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220324/607f1f3d68754fd0948ed02b6702680f67ad13470636f172a23de5faa035cc420532f701a9b_b.jpg",
+        "title": "人力资源主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1729847054929,
+        "brandName": "凝思软件",
+        "customerBrandName": "凝思软件",
+        "customerBrandStageName": "D轮及以上",
+        "encryptBrandId": "fd4ba09661eb9b501nx709q8GVc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "北京凝思软件股份有限公司（以下简称“凝思软件”）由“中国Linux先行者”宫敏博士于2016年创办，是国内先进的国产安全操作系统厂商，以“实现国家大型基础设施行业基础软件国产化安全化”为使命，致力于研发生产“高安全性、高性能、高稳定性”的基础操作系统软件及相关产品和服务，在操作系统层面保障生产及关键业务系统的安全稳定运行,目前已成为国内大型基础行业国产操作系统的中坚力量。\n经过多年持续努力，凝思安全操作系统系列产品、安全平台系列产品和定制开发产品的用户遍及电力、政府、金融、铁路、电信等重点行业，在大型基础行业实现规模化部署，产品的安全性、稳定性经过了充分验证，完全能够替代生产控制领域的国外服务器、嵌入式和实时操作系统产品，已经成为国家大型基础设施行业信息化建设的坚强基石。",
+        "labels": [
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "零食下午茶",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "法定节假日三薪",
+            "绩效奖金",
+            "定期体检",
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231019/7bf6f160950405e9a09d7a582f8d2f017055fb1c668cfc0b4c1692da58aeb4d1118e7957f2a1d8b4.png.webp",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 806,
+        "stageName": "D轮及以上",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区D5东方希望天祥广场B3606",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8fda57647e6247a0331-29S1E1Q~",
+        "encryptId": "828a4cd33c5298031H150t-6EVZT",
+        "encryptUserId": "83226eb9880104801XJ52ty7EVQ~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维开发工程师（分布式存储）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.552968,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.067854,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2371041edbf5eff9b6b087a2942794a1",
+        "position": 100402,
+        "positionName": "运维开发工程师",
+        "postDescription": "岗位职责：\n1、负责分布式存储等相关产品的现场工程对接、问题分析、故障定位及BUG修复;\n2、负责Linux平台下分布式存储系统和模块的设计、开发；\n3、负责软件功能的调试和测试；\n4、负责编制项目文档和质量记录；\n5、完成领导交办的其他工作。\n\n任职要求：\n1、计算机相关专业毕业，扎实的计算机、存储、网络等相关基础知识;\n2、熟悉Linux系统编程，熟练掌握Linux下进程线程、网络编程、IO编程、Shell编程、系统调用等技术；\n3、熟悉Linux存储栈，熟悉存储相关性能指标，具有实际存储性能调优经验者优先；\n4、具有分布式存储或集中式存储相关研发、维护经验者优先；\n5、具有良好的文档编写能力。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "通信/工程相关专业",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99ab80c144aeb1261e2abdbd928f1469"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "hNASMImg_b6Gq-T1MFbJ0Co9_UUftq0KDUJNrwnBNx8fz0mJ_6PqR4zqnievY2FnTo711lOaXoVszpoYDL2M8iSDnuxOK5ozRdNrQydQ-K80H2fmuCcwhFyNZErCmG8Km1A_Lsr_Gs4BxA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

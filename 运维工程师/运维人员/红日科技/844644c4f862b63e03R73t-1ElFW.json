@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ijgVf3TS72F2b-h1AtwN0z4TQSyhZYP1sU_xlSyZiZCFVjJa_dW57nb7OEUvc8ejcrNg-jMyyVQ8wsHJ0C_HVOeAkMK1l_6bgTGrmhMSpvCkiKxT-N_onIUZSZweVTIw8VoTCgug1oFx4bI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "844644c4f862b63e03R73t-1ElFW",
-      "encryptUserId": "26a78c34b8f8acca0nR_2t65FFRW",
-      "invalidStatus": false,
-      "jobName": "运维人员",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101120500,
-      "locationName": "烟台",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述\n岗位职责：\n1、负责网络及其办公设备的维护、管理、故障排除等日常工作，确保公司网络日常的正常运作；\n3、维护和监控公司局域网、广域网，保证其正常运行，确保局域网、广域网在工作期间内安全稳定运行；\n4、维护数据中心，对系统数据进行备份；\n5、解决排除各种软硬件故障，做好记录，定期制作系统运行报告。\n6、熟练操作办公软件。\n7、会开车\n\n\n岗位要求：1、通信、电子工程、自动化、计算机等相关专业，大专或以上学历；\n2、熟悉和掌握各种计算机软硬件，可独立进行安装、调试及故障排除；\n3、精通局域网的维护及网络安全知识，可熟练进行局域网的搭建和网络设备的基本维护和故障处理；\n4、工作主动性强，耐心细致，有责任心，具备团队合作精神。",
-      "encryptAddressId": "a48609cd42abbbca1XZy09W7GFM~",
-      "address": "烟台芝罘区烟台科技市场(芝罘屯路)5楼528室",
-      "longitude": 121.373426,
-      "latitude": 37.550389,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca07ea603515cfae4a49d34c3f7ef65d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff2e2006baeb1aecfd42a75507e77f07",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "阎女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "红日科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b00921be848bbc861nZ-09-5GVA~",
-      "brandName": "红日科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "山东红日科技有限公司创建于1998年，注册资金人民币2000万元，拥有一批高素质的专业技术服务人员。\n公司专业为客户提供信息系统集成、IT运维服务、综合布线、监控安防、视频会议、通信设备、楼宇智能、机房建设等系统方案设计、施工及维护的服务，品牌机及服务器、网络存储产品、网络安全产品的销售等。",
-      "labels": [],
-      "activeTime": 1732356246157,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "红日科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "红日科技",
+        "certificated": true,
+        "large": null,
+        "name": "阎女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1732356246157,
+        "brandName": "红日科技",
+        "customerBrandName": "红日科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b00921be848bbc861nZ-09-5GVA~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "山东红日科技有限公司创建于1998年，注册资金人民币2000万元，拥有一批高素质的专业技术服务人员。\n公司专业为客户提供信息系统集成、IT运维服务、综合布线、监控安防、视频会议、通信设备、楼宇智能、机房建设等系统方案设计、施工及维护的服务，品牌机及服务器、网络存储产品、网络安全产品的销售等。",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "烟台芝罘区烟台科技市场(芝罘屯路)5楼528室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a48609cd42abbbca1XZy09W7GFM~",
+        "encryptId": "844644c4f862b63e03R73t-1ElFW",
+        "encryptUserId": "26a78c34b8f8acca0nR_2t65FFRW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维人员",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 37.550389,
+        "location": 101120500,
+        "locationName": "烟台",
+        "longitude": 121.373426,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff2e2006baeb1aecfd42a75507e77f07",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "职位描述\n岗位职责：\n1、负责网络及其办公设备的维护、管理、故障排除等日常工作，确保公司网络日常的正常运作；\n3、维护和监控公司局域网、广域网，保证其正常运行，确保局域网、广域网在工作期间内安全稳定运行；\n4、维护数据中心，对系统数据进行备份；\n5、解决排除各种软硬件故障，做好记录，定期制作系统运行报告。\n6、熟练操作办公软件。\n7、会开车\n\n\n岗位要求：1、通信、电子工程、自动化、计算机等相关专业，大专或以上学历；\n2、熟悉和掌握各种计算机软硬件，可独立进行安装、调试及故障排除；\n3、精通局域网的维护及网络安全知识，可熟练进行局域网的搭建和网络设备的基本维护和故障处理；\n4、工作主动性强，耐心细致，有责任心，具备团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "网络运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca07ea603515cfae4a49d34c3f7ef65d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ijgVf3TS72F2b-h1AtwN0z4TQSyhZYP1sU_xlSyZiZCFVjJa_dW57nb7OEUvc8ejcrNg-jMyyVQ8wsHJ0C_HVOeAkMK1l_6bgTGrmhMSpvCkiKxT-N_onIUZSZweVTIw8VoTCgug1oFx4bI~",
+    "selfAccess": false,
+    "sessionId": null
 }

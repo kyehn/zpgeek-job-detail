@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qOqsNnXv9jOrr-N1JCh5KTWtvQOPRowvIrV4x4qiWtWBbvOLiF4ksfJFZ4-xfhAUJue09ofXfGhsa9RT1eydDWhjChVbSvLUCR649qew1V3ffksjV4RqwZSFyK868cCBpES24I5aS7TDIx-uI1iBsq5gorM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d12cd7ec221f668f1XF72Nq_E1FQ",
-      "encryptUserId": "3b1f128bd867a5c41nZ93t6-F1s~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 负责公司产品的功能测试、性能测试及其他相关测试工作，确保产品质量和稳定性；\n2. 根据需求编写测试计划、测试用例，执行测试并提交测试报告；\n3. 跟踪和验证缺陷，推动开发团队及时修复问题；\n4. 参与需求评审和产品设计阶段，提供测试建议并提前发现潜在问题；\n5. 搭建自动化测试框架，编写自动化脚本，提升测试效率；\n6. 进行压力测试、兼容性测试等专项测试，发现性能瓶颈并提出优化建议；\n7. 持续优化测试流程，完善测试标准和规范。\n \n \n任职要求：\n1. 学历要求：专科及以上学历，计算机、软件工程、电子信息等相关专业；\n2. 工作经验：具备 1-3 年以上测试相关经验（优秀应届毕业生亦可）；\n3. 专业技能：\n• 熟悉软件测试流程和方法，能独立完成测试需求分析、用例设计及测试执行；\n• 熟悉至少一种常用的测试管理工具（如 JIRA、禅道、TestLink 等）；\n• 具备一定的编程能力，熟悉 Java/Python/JavaScript 等至少一种语言；\n• 熟悉自动化测试框架（如 Apifox、Postman 等），有自动化测试经验者优先；\n• 掌握性能测试工具（如 JMeter、LoadRunner）优先；\n• 熟悉数据库相关知识，能编写基本的 SQL 查询语句；\n• 了解常见的 CI/CD 工具及流程，如 Jenkins、GitLab。\n\n\n4. 个人能力：\n• 具备良好的问题分析与解决能力，逻辑思维清晰；\n• 良好的沟通和团队协作能力，能够与开发、产品等团队紧密合作；\n• 对细节敏感，具有高度的责任心，能够承受工作压力；\n• 乐于学习新技术、新工具，对质量保障工作有热情。",
-      "encryptAddressId": "4b39b0df493ba3cd1nd62Nm_GFNT",
-      "address": "杭州滨江区华盛达广场902",
-      "longitude": 120.182555,
-      "latitude": 30.188982,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf0e0f4f20f6e6c40123c5128cb43e5c756bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf325a820d15a25b93369e3e977e342ae06bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试",
-        "压力测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "曾先生",
-      "title": "产品总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221123/607f1f3d68754fd0cbc88f5f0a6051f5fd0101ac3d4eb01322a93448e2be021c121853fd582_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "聚工盛",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "17561091765709941XN53dm7GQ~~",
-      "brandName": "聚工盛",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220823/7bf6f160950405e9a80cf2ce29ff99af097e594a3bd9951a22a93448e2be021c121853fd582bda2a.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100907,
-      "industryName": "专用设备",
-      "introduce": "“⼯巢科技”成⽴于2018年，专为中⼩型⼯业企业提供专\n业的管理设备和服务，助⼒客户优化⽣产过程，提升供应\n链效率。我们专注于采集⽣产过程中的数据，运⽤⼤数据\n分析技术，为企业提供科学决策依据，实现供应链的持续\n优化。\n“⼯巢科技”始终坚持⾼性价⽐的产品理念，让每⼀分投\n⼊都能转化为实际的效益。选择⼯巢，让⼯业⽤品采购更\n简单、更智能，共创⼯业新未来。\n  目前总部全国7大分公司 重庆、成都、西安、东北、青岛、广东、江苏\n   筹备中的有湖北、湖南、京津冀、河北",
-      "labels": [
-        "意外险",
-        "保底工资",
-        "底薪加提成",
-        "免费工装",
-        "交通补助",
-        "社保"
-      ],
-      "activeTime": 1735293006536,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "聚工盛",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "聚工盛",
+        "certificated": true,
+        "large": null,
+        "name": "曾先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221123/607f1f3d68754fd0cbc88f5f0a6051f5fd0101ac3d4eb01322a93448e2be021c121853fd582_b.jpg",
+        "title": "产品总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1735293006536,
+        "brandName": "聚工盛",
+        "customerBrandName": "聚工盛",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "17561091765709941XN53dm7GQ~~",
+        "focusBrand": false,
+        "industry": 100907,
+        "industryName": "专用设备",
+        "introduce": "“⼯巢科技”成⽴于2018年，专为中⼩型⼯业企业提供专\n业的管理设备和服务，助⼒客户优化⽣产过程，提升供应\n链效率。我们专注于采集⽣产过程中的数据，运⽤⼤数据\n分析技术，为企业提供科学决策依据，实现供应链的持续\n优化。\n“⼯巢科技”始终坚持⾼性价⽐的产品理念，让每⼀分投\n⼊都能转化为实际的效益。选择⼯巢，让⼯业⽤品采购更\n简单、更智能，共创⼯业新未来。\n  目前总部全国7大分公司 重庆、成都、西安、东北、青岛、广东、江苏\n   筹备中的有湖北、湖南、京津冀、河北",
+        "labels": [
+            "意外险",
+            "保底工资",
+            "底薪加提成",
+            "免费工装",
+            "交通补助",
+            "社保"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220823/7bf6f160950405e9a80cf2ce29ff99af097e594a3bd9951a22a93448e2be021c121853fd582bda2a.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区华盛达广场902",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "4b39b0df493ba3cd1nd62Nm_GFNT",
+        "encryptId": "d12cd7ec221f668f1XF72Nq_E1FQ",
+        "encryptUserId": "3b1f128bd867a5c41nZ93t6-F1s~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.188982,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.182555,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf325a820d15a25b93369e3e977e342ae06bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1. 负责公司产品的功能测试、性能测试及其他相关测试工作，确保产品质量和稳定性；\n2. 根据需求编写测试计划、测试用例，执行测试并提交测试报告；\n3. 跟踪和验证缺陷，推动开发团队及时修复问题；\n4. 参与需求评审和产品设计阶段，提供测试建议并提前发现潜在问题；\n5. 搭建自动化测试框架，编写自动化脚本，提升测试效率；\n6. 进行压力测试、兼容性测试等专项测试，发现性能瓶颈并提出优化建议；\n7. 持续优化测试流程，完善测试标准和规范。\n \n \n任职要求：\n1. 学历要求：专科及以上学历，计算机、软件工程、电子信息等相关专业；\n2. 工作经验：具备 1-3 年以上测试相关经验（优秀应届毕业生亦可）；\n3. 专业技能：\n• 熟悉软件测试流程和方法，能独立完成测试需求分析、用例设计及测试执行；\n• 熟悉至少一种常用的测试管理工具（如 JIRA、禅道、TestLink 等）；\n• 具备一定的编程能力，熟悉 Java/Python/JavaScript 等至少一种语言；\n• 熟悉自动化测试框架（如 Apifox、Postman 等），有自动化测试经验者优先；\n• 掌握性能测试工具（如 JMeter、LoadRunner）优先；\n• 熟悉数据库相关知识，能编写基本的 SQL 查询语句；\n• 了解常见的 CI/CD 工具及流程，如 Jenkins、GitLab。\n\n\n4. 个人能力：\n• 具备良好的问题分析与解决能力，逻辑思维清晰；\n• 良好的沟通和团队协作能力，能够与开发、产品等团队紧密合作；\n• 对细节敏感，具有高度的责任心，能够承受工作压力；\n• 乐于学习新技术、新工具，对质量保障工作有热情。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "性能测试",
+            "压力测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf0e0f4f20f6e6c40123c5128cb43e5c756bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qOqsNnXv9jOrr-N1JCh5KTWtvQOPRowvIrV4x4qiWtWBbvOLiF4ksfJFZ4-xfhAUJue09ofXfGhsa9RT1eydDWhjChVbSvLUCR649qew1V3ffksjV4RqwZSFyK868cCBpES24I5aS7TDIx-uI1iBsq5gorM~",
+    "selfAccess": false,
+    "sessionId": null
 }

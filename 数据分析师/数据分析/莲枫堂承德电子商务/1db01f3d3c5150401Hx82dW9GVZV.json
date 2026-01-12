@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "YcEm-jGYPAZ1L-h1hz7xzhhK7YfpUrL5V5v3IqRdmXs1tNLj71sXK4uVUdb-SI8NI5RcxMQpWORyLQb8Id7GoPbNN-fzvORWBUM-_CktG817IH-v_a-M620uD5NQE8o2hpO31FTKqY1ohQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1db01f3d3c5150401Hx82dW9GVZV",
-      "encryptUserId": "8c2686b2bcf4ee0c0H1_29S_FFs~",
-      "invalidStatus": false,
-      "jobName": "数据分析",
-      "position": 100511,
-      "positionName": "数据分析师",
-      "location": 101090400,
-      "locationName": "承德",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: \n统计各县区域销售情况\n汇总表格并分析结论\n任职要求: \n熟练掌握excel 公式用法\n会数据透视  vlookup 等\n行业经验: \n1-3年数据分析领域经验",
-      "encryptAddressId": "10d68d74d31d146633V439i8F1pVwIi7Uvk~",
-      "address": "承德双桥区双桥视频文创产业园a栋301",
-      "longitude": 117.935143,
-      "latitude": 40.967522,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf0722bddc4e26b43c263807109f41a4676bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf197fd493aba333f216da358f4451be266bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "数据分析/挖掘经验",
-        "计算机相关专业",
-        "数学/统计相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "闫女士",
-      "title": "主理人",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240507/607f1f3d68754fd0f096f9032b847d84c5345ac3938c55998f3d2ffd12a2292c78863d821c6510c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "莲枫堂承德电子商务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3b5dc6682002d5421HB83dS4E1Y~",
-      "brandName": "莲枫堂承德电子商务",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728273794368,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "莲枫堂承德电子商务",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "莲枫堂承德电子商务",
+        "certificated": true,
+        "large": null,
+        "name": "闫女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240507/607f1f3d68754fd0f096f9032b847d84c5345ac3938c55998f3d2ffd12a2292c78863d821c6510c_b.jpg",
+        "title": "主理人"
+    },
+    "brandComInfo": {
+        "activeTime": 1728273794368,
+        "brandName": "莲枫堂承德电子商务",
+        "customerBrandName": "莲枫堂承德电子商务",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3b5dc6682002d5421HB83dS4E1Y~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "承德双桥区双桥视频文创产业园a栋301",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "10d68d74d31d146633V439i8F1pVwIi7Uvk~",
+        "encryptId": "1db01f3d3c5150401Hx82dW9GVZV",
+        "encryptUserId": "8c2686b2bcf4ee0c0H1_29S_FFs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据分析",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.967522,
+        "location": 101090400,
+        "locationName": "承德",
+        "longitude": 117.935143,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf197fd493aba333f216da358f4451be266bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100511,
+        "positionName": "数据分析师",
+        "postDescription": "岗位职责: \n统计各县区域销售情况\n汇总表格并分析结论\n任职要求: \n熟练掌握excel 公式用法\n会数据透视  vlookup 等\n行业经验: \n1-3年数据分析领域经验",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "数据分析/挖掘经验",
+            "计算机相关专业",
+            "数学/统计相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf0722bddc4e26b43c263807109f41a4676bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "YcEm-jGYPAZ1L-h1hz7xzhhK7YfpUrL5V5v3IqRdmXs1tNLj71sXK4uVUdb-SI8NI5RcxMQpWORyLQb8Id7GoPbNN-fzvORWBUM-_CktG817IH-v_a-M620uD5NQE8o2hpO31FTKqY1ohQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

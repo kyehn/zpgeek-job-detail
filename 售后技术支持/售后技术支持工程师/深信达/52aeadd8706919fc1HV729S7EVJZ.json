@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Ynw9HA2a8LBoc-f16MBQ1vLtzKmFz61J-9oNKYnrb_jvtqdOS4pFruv4fggIqp_f7KrdPda1xQ2pah_Cva0eW7Ppk-huizSDr52l4Zk8s5HlbY9aB4D49EEcPiWziat3Rn2KSC_LHlBz9QSV_OxHZ5_bIuCD",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "52aeadd8706919fc1HV729S7EVJZ",
-      "encryptUserId": "e24a58d930f6dcae1HJ-3N-8Elc~",
-      "invalidStatus": false,
-      "jobName": "售后技术支持工程师",
-      "position": 101202,
-      "positionName": "售后技术支持",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位职责： \n\n1、为客户提供安全产品演示； \n\n2、配合客户进行方案对接和产品运维和测试； \n\n3、进行测试并完成相关测试文档； \n\n二、任职要求： \n\n1、计算机、自动化相关专业；\n\n2、熟悉网络基本架构如拓扑图，了解服务器、存储、网络安全、网络管理等基础知识；\n\n3、熟悉windows及linux操作系统，熟悉linux下基本命令的使用； \n\n4、了解Web应用的搭建和后台数据库的基本操作。\n\n5、有C++、C#、java、python等任何一门开发语言者优先。\n\n6、应届生优先，可适应出差***优先。 \n\n三、学历 \n\n专科及以上，计算机、通信、自动化相关专业",
-      "encryptAddressId": "81e09aaf52b4d4081nB92N21EFE~",
-      "address": "苏州虎丘区中国苏州创业园(珠江路)1号楼C3032",
-      "longitude": 120.538852,
-      "latitude": 31.27634,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4291f25b75ac5a061f5766cdfced3680",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa2cab4ee2b457f46a4a4ea50aa2a038",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "技术沟通"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曹女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "深信达",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d45ff64b4c0b01321nd_2t-5FFA~",
-      "brandName": "深信达",
-      "logo": "https://c-res.zhipin.com/jrs/44d88705b746a121ef724b195592782c.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "苏州深信达是国家高新技术企业和国家软件企业，是数据安全解决方案供应商，采用内核级纵深防御技术、虚拟沙盒技术、最后一米数据安全技术、行为数字签名等技术，为政府和企事业单位提供专业级的数据安全整体解决方案。\n\n      自创立至今，深信达专注数据加密、数据防扩散、数据防泄密、数据防篡改等数据安全领域的深耕研发，旗下的所有产品都拥有完全的自主知识产权。在研发数据防泄漏、服务器数据安全、智能终端数据安全、智联网的数据安全、智能工业设备终端安全、智能仪器仪表数据安全等领域，为客户提供优质的产品和服务。",
-      "labels": [
-        "节日福利",
-        "交通补助",
-        "通讯补贴",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "年终奖",
-        "全勤奖",
-        "五险一金"
-      ],
-      "activeTime": 1741940863058,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深信达",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深信达",
+        "certificated": true,
+        "large": null,
+        "name": "曹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1741940863058,
+        "brandName": "深信达",
+        "customerBrandName": "深信达",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d45ff64b4c0b01321nd_2t-5FFA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "苏州深信达是国家高新技术企业和国家软件企业，是数据安全解决方案供应商，采用内核级纵深防御技术、虚拟沙盒技术、最后一米数据安全技术、行为数字签名等技术，为政府和企事业单位提供专业级的数据安全整体解决方案。\n\n      自创立至今，深信达专注数据加密、数据防扩散、数据防泄密、数据防篡改等数据安全领域的深耕研发，旗下的所有产品都拥有完全的自主知识产权。在研发数据防泄漏、服务器数据安全、智能终端数据安全、智联网的数据安全、智能工业设备终端安全、智能仪器仪表数据安全等领域，为客户提供优质的产品和服务。",
+        "labels": [
+            "节日福利",
+            "交通补助",
+            "通讯补贴",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "年终奖",
+            "全勤奖",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/44d88705b746a121ef724b195592782c.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州虎丘区中国苏州创业园(珠江路)1号楼C3032",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "81e09aaf52b4d4081nB92N21EFE~",
+        "encryptId": "52aeadd8706919fc1HV729S7EVJZ",
+        "encryptUserId": "e24a58d930f6dcae1HJ-3N-8Elc~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "售后技术支持工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.27634,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.538852,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa2cab4ee2b457f46a4a4ea50aa2a038",
+        "position": 101202,
+        "positionName": "售后技术支持",
+        "postDescription": "一、岗位职责： \n\n1、为客户提供安全产品演示； \n\n2、配合客户进行方案对接和产品运维和测试； \n\n3、进行测试并完成相关测试文档； \n\n二、任职要求： \n\n1、计算机、自动化相关专业；\n\n2、熟悉网络基本架构如拓扑图，了解服务器、存储、网络安全、网络管理等基础知识；\n\n3、熟悉windows及linux操作系统，熟悉linux下基本命令的使用； \n\n4、了解Web应用的搭建和后台数据库的基本操作。\n\n5、有C++、C#、java、python等任何一门开发语言者优先。\n\n6、应届生优先，可适应出差***优先。 \n\n三、学历 \n\n专科及以上，计算机、通信、自动化相关专业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "技术沟通"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4291f25b75ac5a061f5766cdfced3680"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Ynw9HA2a8LBoc-f16MBQ1vLtzKmFz61J-9oNKYnrb_jvtqdOS4pFruv4fggIqp_f7KrdPda1xQ2pah_Cva0eW7Ppk-huizSDr52l4Zk8s5HlbY9aB4D49EEcPiWziat3Rn2KSC_LHlBz9QSV_OxHZ5_bIuCD",
+    "selfAccess": false,
+    "sessionId": null
 }

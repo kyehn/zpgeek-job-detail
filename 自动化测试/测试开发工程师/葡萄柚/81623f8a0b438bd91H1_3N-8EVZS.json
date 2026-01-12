@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DZJTMiA0-AUYU-i1CyePIDUqBmCebypg30ygKfb5mGfPMPtkxmoINvkByyJvDvrBt1ViioNTAQVwR6SflzYKEhMULCj2m7J-LmUgQXTu29_uZaB8XXt2bgWHvOwNuQ1x5DBl2upr6wcAhug~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "81623f8a0b438bd91H1_3N-8EVZS",
-      "encryptUserId": "58833ae416d342ad0nZ43d25FVRR",
-      "invalidStatus": false,
-      "jobName": "测试开发工程师",
-      "position": 100302,
-      "positionName": "自动化测试",
-      "location": 101230200,
-      "locationName": "厦门",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "职责：\n•\t搭建Web 和API的自动化测试框架\n要求：\n•\t大专或以上学历，2年 Web自动化测试经验  \n•\t能熟练使用至少一种自动化测试工具和框架，如 Selenium、Playwright、Cypress 等",
-      "encryptAddressId": "183ea26ee6e202341nB50ty5GFVSy465WP2Y",
-      "address": "厦门思明区厦门市软件园2期5",
-      "longitude": 118.186126,
-      "latitude": 24.488529,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bffc61f419bac33a28a5ebeadef02afa806bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bf5ee483fd96d49fee3ae1bfac6c517cfd6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Cypress",
-        "Playwright"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230509/607f1f3d68754fd05dcb5d5bd88883ac443c4839df32d4e408857432bfe378f9a35f997eb42_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "葡萄柚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d6b492624b51fef21nVz2tu4Flc~",
-      "brandName": "葡萄柚",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730286091040,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "葡萄柚",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "葡萄柚",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230509/607f1f3d68754fd05dcb5d5bd88883ac443c4839df32d4e408857432bfe378f9a35f997eb42_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1730286091040,
+        "brandName": "葡萄柚",
+        "customerBrandName": "葡萄柚",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d6b492624b51fef21nVz2tu4Flc~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "厦门思明区厦门市软件园2期5",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "183ea26ee6e202341nB50ty5GFVSy465WP2Y",
+        "encryptId": "81623f8a0b438bd91H1_3N-8EVZS",
+        "encryptUserId": "58833ae416d342ad0nZ43d25FVRR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 24.488529,
+        "location": 101230200,
+        "locationName": "厦门",
+        "longitude": 118.186126,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bf5ee483fd96d49fee3ae1bfac6c517cfd6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100302,
+        "positionName": "自动化测试",
+        "postDescription": "职责：\n•\t搭建Web 和API的自动化测试框架\n要求：\n•\t大专或以上学历，2年 Web自动化测试经验  \n•\t能熟练使用至少一种自动化测试工具和框架，如 Selenium、Playwright、Cypress 等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "Cypress",
+            "Playwright"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bffc61f419bac33a28a5ebeadef02afa806bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DZJTMiA0-AUYU-i1CyePIDUqBmCebypg30ygKfb5mGfPMPtkxmoINvkByyJvDvrBt1ViioNTAQVwR6SflzYKEhMULCj2m7J-LmUgQXTu29_uZaB8XXt2bgWHvOwNuQ1x5DBl2upr6wcAhug~",
+    "selfAccess": false,
+    "sessionId": null
 }

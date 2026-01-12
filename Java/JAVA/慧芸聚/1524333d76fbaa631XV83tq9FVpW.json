@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qG8HqU16vbrYx-h1c5WwgtMW0mmxYTLcbEFIYD5UqqT6WJDf2v26ZEZDNyHM09P4sqws8U28kNuton9E2xKRh7xHh14RxkUd81EqH4bNg65e8s58izo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1524333d76fbaa631XV83tq9FVpW",
-      "encryptUserId": "da39f1e1a5fb5f710nF639S_FlU~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "3年左右开发经验，SpringBoot Docker",
-      "encryptAddressId": "42e3b6fb94f229ed0nZ72dq6F1s~",
-      "address": "成都锦江区锦阳商厦12107",
-      "longitude": 104.074009,
-      "latitude": 30.659708,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/26a04bc1ae9873e36a57df3e4bb12e79",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7cbbeb3e9dccdb43667a325eb044fb7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "容器技术",
-        "微服务架构",
-        "MVC开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "慧芸聚",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0fe03d61fc859be61nZ809q7GVQ~",
-      "brandName": "慧芸聚",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721574500144,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "慧芸聚",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "慧芸聚",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1721574500144,
+        "brandName": "慧芸聚",
+        "customerBrandName": "慧芸聚",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0fe03d61fc859be61nZ809q7GVQ~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都锦江区锦阳商厦12107",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "42e3b6fb94f229ed0nZ72dq6F1s~",
+        "encryptId": "1524333d76fbaa631XV83tq9FVpW",
+        "encryptUserId": "da39f1e1a5fb5f710nF639S_FlU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.659708,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.074009,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7cbbeb3e9dccdb43667a325eb044fb7",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "3年左右开发经验，SpringBoot Docker",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "容器技术",
+            "微服务架构",
+            "MVC开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/26a04bc1ae9873e36a57df3e4bb12e79"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qG8HqU16vbrYx-h1c5WwgtMW0mmxYTLcbEFIYD5UqqT6WJDf2v26ZEZDNyHM09P4sqws8U28kNuton9E2xKRh7xHh14RxkUd81EqH4bNg65e8s58izo~",
+    "selfAccess": false,
+    "sessionId": null
 }

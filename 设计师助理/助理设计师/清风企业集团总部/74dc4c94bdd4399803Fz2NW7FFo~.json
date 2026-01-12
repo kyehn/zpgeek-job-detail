@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "EgesOucmvRa0R-X1146uMDLV32qmgBx6IpnPozU7BDbHweGK42Ofy0-VIdE8CSGbP8ShSJjaz0Om0RxVcLxd3vV8_Qsd8JHwLS7-KXrkXYzUCUXi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "74dc4c94bdd4399803Fz2NW7FFo~",
-      "encryptUserId": "ebfa1b94d39718510XJ_39q8GFY~",
-      "invalidStatus": false,
-      "jobName": "助理设计师",
-      "position": 120119,
-      "positionName": "设计师助理",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-5K",
-      "payTypeDesc": null,
-      "postDescription": "1，室内设计专业；\n2，熟悉设计相关软件；\n3，协助主笔设计师完成设计工作",
-      "encryptAddressId": "eb9878359929acc31nZ82t64FFQ~",
-      "address": "苏州清风管家·清风装饰水坊路36号22栋",
-      "longitude": 120.685307,
-      "latitude": 31.300356,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1687897d1989e2f76b4a01abe0bd32b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee5310ffbc6de31b88065d8bfc4f402f",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "CAD/制图",
-        "3D设计",
-        "手绘"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "运营总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190621/7b3f6e3066127530280eccea0eb35e414735c948bae2b9c4aac33c932eb_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "清风企业集团总部",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d91415d0bcf83d951nJz3dy4FA~~",
-      "brandName": "清风企业集团总部",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180405/e2a160cf59b07da4d53bbcfc18d9c64b35c6de9e2de7dbaa879e8f97a8ffdb3a.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100704,
-      "industryName": "装修装饰",
-      "introduce": "苏州清风装饰工程营造有限公司是清风企业集团控股企业，是江苏较早从事以装饰工程为主营业务的企业。在十余年的发展中，清风装饰与时俱进，锐意进取，公司迅速发展壮大，在社会效益和经济效益等方面都取得了很大成绩，得到了社会的一致好评，赢得了各方认可。率先通过ISO9001国际质量管理体系和ISO14001环境管理体系认证，并相继荣获“国家建筑装饰设计施工二级资质施工企业”、\n“中国AAAA级诚信企业 ”、“中国知名品牌企业”、“江苏省优秀装饰企业”、“江苏诚信装饰企业”、“苏州市环保装饰企业”等多项荣誉称号。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "通讯补贴"
-      ],
-      "activeTime": 1727949661238,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "清风企业集团总部",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "清风企业集团总部",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190621/7b3f6e3066127530280eccea0eb35e414735c948bae2b9c4aac33c932eb_b.jpg",
+        "title": "运营总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727949661238,
+        "brandName": "清风企业集团总部",
+        "customerBrandName": "清风企业集团总部",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "d91415d0bcf83d951nJz3dy4FA~~",
+        "focusBrand": false,
+        "industry": 100704,
+        "industryName": "装修装饰",
+        "introduce": "苏州清风装饰工程营造有限公司是清风企业集团控股企业，是江苏较早从事以装饰工程为主营业务的企业。在十余年的发展中，清风装饰与时俱进，锐意进取，公司迅速发展壮大，在社会效益和经济效益等方面都取得了很大成绩，得到了社会的一致好评，赢得了各方认可。率先通过ISO9001国际质量管理体系和ISO14001环境管理体系认证，并相继荣获“国家建筑装饰设计施工二级资质施工企业”、\n“中国AAAA级诚信企业 ”、“中国知名品牌企业”、“江苏省优秀装饰企业”、“江苏诚信装饰企业”、“苏州市环保装饰企业”等多项荣誉称号。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "通讯补贴"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180405/e2a160cf59b07da4d53bbcfc18d9c64b35c6de9e2de7dbaa879e8f97a8ffdb3a.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州清风管家·清风装饰水坊路36号22栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "eb9878359929acc31nZ82t64FFQ~",
+        "encryptId": "74dc4c94bdd4399803Fz2NW7FFo~",
+        "encryptUserId": "ebfa1b94d39718510XJ_39q8GFY~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "助理设计师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 31.300356,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.685307,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee5310ffbc6de31b88065d8bfc4f402f",
+        "position": 120119,
+        "positionName": "设计师助理",
+        "postDescription": "1，室内设计专业；\n2，熟悉设计相关软件；\n3，协助主笔设计师完成设计工作",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-5K",
+        "showSkills": [
+            "CAD/制图",
+            "3D设计",
+            "手绘"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1687897d1989e2f76b4a01abe0bd32b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "EgesOucmvRa0R-X1146uMDLV32qmgBx6IpnPozU7BDbHweGK42Ofy0-VIdE8CSGbP8ShSJjaz0Om0RxVcLxd3vV8_Qsd8JHwLS7-KXrkXYzUCUXi",
+    "selfAccess": false,
+    "sessionId": null
 }

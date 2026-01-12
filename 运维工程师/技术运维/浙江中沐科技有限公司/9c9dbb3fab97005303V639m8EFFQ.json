@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PRGz3IyJ6Mq71-X1lhVio-1TLjiW1XVOOFxkvjm9272Hxwzv8t48Uny4lfinFH_vSleRYWNkLR0vS58c04m-HspALrFZrcn80pp3sUK5O6_fbDrHlGXZQF6X1IZ4kpp2nRruCB8a1e07x5_oJpZTNJ5aqiIbLz_vzKgd-sAoTGYb5fgKfhgRHgyaC4IZ9clddxPd5Qy_kxjMnfvpEG4Ce-IPpA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9c9dbb3fab97005303V639m8EFFQ",
-      "encryptUserId": "438844e9e0e9bf7f1nZ53tS9FlZR",
-      "invalidStatus": false,
-      "jobName": "技术运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1、参与分公司项目的研发环境、测试环境、生产环境的技术运维工作；\n2、从技术运维角度保障研发进度正常推进；\n3、保障生产环境正常运行；\n岗位要求:\n1.本科及以上，计算机、信息管理相关专业;\n2.熟练掌握Linux操作系统、网络等基础知识;\n3.熟悉K8S、Docker等技术；\n4.了解 0racle/MySql/PostgreSQL等一种常用数据库;\n5.热爱计算机以及IT技术，积极主动，善于学习;",
-      "encryptAddressId": "ef3dca16f46fbcf61nFz2ty-EFZXwYy9WP-b",
-      "address": "杭州滨江区华云科技公司慧港科技园3C-202",
-      "longitude": 120.208553,
-      "latitude": 30.189284,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfe5dd94b3a6261223815178267aa2d4b66bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bfe7df597412ce8ebcd669d4be431cc21f6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "吴女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210518/c13e46c74971a370e2f936e0b2b3520cde9fa37161217ac3858c2d370ff_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "浙江中沐科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7fde6dd1311c98d11HR739-5GFY~",
-      "brandName": "浙江中沐科技有限公司",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1736129757247,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江中沐科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "浙江中沐科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "吴女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210518/c13e46c74971a370e2f936e0b2b3520cde9fa37161217ac3858c2d370ff_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1736129757247,
+        "brandName": "浙江中沐科技有限公司",
+        "customerBrandName": "浙江中沐科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7fde6dd1311c98d11HR739-5GFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区华云科技公司慧港科技园3C-202",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "ef3dca16f46fbcf61nFz2ty-EFZXwYy9WP-b",
+        "encryptId": "9c9dbb3fab97005303V639m8EFFQ",
+        "encryptUserId": "438844e9e0e9bf7f1nZ53tS9FlZR",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "技术运维",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.189284,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.208553,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bfe7df597412ce8ebcd669d4be431cc21f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责:\n1、参与分公司项目的研发环境、测试环境、生产环境的技术运维工作；\n2、从技术运维角度保障研发进度正常推进；\n3、保障生产环境正常运行；\n岗位要求:\n1.本科及以上，计算机、信息管理相关专业;\n2.熟练掌握Linux操作系统、网络等基础知识;\n3.熟悉K8S、Docker等技术；\n4.了解 0racle/MySql/PostgreSQL等一种常用数据库;\n5.热爱计算机以及IT技术，积极主动，善于学习;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "系统运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfe5dd94b3a6261223815178267aa2d4b66bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PRGz3IyJ6Mq71-X1lhVio-1TLjiW1XVOOFxkvjm9272Hxwzv8t48Uny4lfinFH_vSleRYWNkLR0vS58c04m-HspALrFZrcn80pp3sUK5O6_fbDrHlGXZQF6X1IZ4kpp2nRruCB8a1e07x5_oJpZTNJ5aqiIbLz_vzKgd-sAoTGYb5fgKfhgRHgyaC4IZ9clddxPd5Qy_kxjMnfvpEG4Ce-IPpA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

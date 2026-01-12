@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Y0rh9GMvgTPUX-Y1A6JmO60qhbwt6qKHWQdHiEA2HbnwCJgWVSK7o2uSCzMlxU017Ku1yi6JFifmrMRtEvrMzHpA8831-k9ScELQW2vC-Y16jz5i",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "55655f6d9e8fdb6a03V53NW0FVs~",
-      "encryptUserId": "6f532c1b31ecdda60XRy3d65EVI~",
-      "invalidStatus": false,
-      "jobName": "测试员",
-      "position": 100303,
-      "positionName": "功能测试",
-      "location": 101090200,
-      "locationName": "保定",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "荧光粉性能及方案测试\n理工科专业\n有专人手把手指导\n",
-      "encryptAddressId": "c10525ecfafef2a71nVy29q0GFc~",
-      "address": "保定莲池区河北利福光电技术有限公司998号",
-      "longitude": 115.576616,
-      "latitude": 38.869341,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/861cc061a6b611f57083409667f9acaf",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4858e423e74bf85d227846f628abbd70",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "利福光电",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b9bf2b604a05187403Z53t28EQ~~",
-      "brandName": "利福光电",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101206,
-      "industryName": "新能源",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723074271887,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "利福光电",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "利福光电",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723074271887,
+        "brandName": "利福光电",
+        "customerBrandName": "利福光电",
+        "customerBrandStageName": "",
+        "encryptBrandId": "b9bf2b604a05187403Z53t28EQ~~",
+        "focusBrand": false,
+        "industry": 101206,
+        "industryName": "新能源",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "保定莲池区河北利福光电技术有限公司998号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c10525ecfafef2a71nVy29q0GFc~",
+        "encryptId": "55655f6d9e8fdb6a03V53NW0FVs~",
+        "encryptUserId": "6f532c1b31ecdda60XRy3d65EVI~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "测试员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 38.869341,
+        "location": 101090200,
+        "locationName": "保定",
+        "longitude": 115.576616,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4858e423e74bf85d227846f628abbd70",
+        "position": 100303,
+        "positionName": "功能测试",
+        "postDescription": "荧光粉性能及方案测试\n理工科专业\n有专人手把手指导\n",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "测试开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/861cc061a6b611f57083409667f9acaf"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Y0rh9GMvgTPUX-Y1A6JmO60qhbwt6qKHWQdHiEA2HbnwCJgWVSK7o2uSCzMlxU017Ku1yi6JFifmrMRtEvrMzHpA8831-k9ScELQW2vC-Y16jz5i",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "JOQa5RwQdQTMY-h1sK2vLdMkghn82Wx-jZYxunNbFT2BjBPFVQZRAPPf0X4hC9JhIxICdU4SabYY0liXkOAKWFmHa39mRhqj0JsI6DwHqVhz8Q_zpU5ZufR8G3gELfq6hCWs-0jTQw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "871366972cbebda41nB52Ny8GVNY",
-      "encryptUserId": "1fa52ca542be3df10HR529i4GA~~",
-      "invalidStatus": false,
-      "jobName": "数据分析师",
-      "position": 100603,
-      "positionName": "项目助理",
-      "location": 101180100,
-      "locationName": "郑州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "1、航空影像及卫星影像数据处理，4d产品生产\n2、倾斜实景三维模型生产。\n3、项目日常管理，技术文档编写及项目档案管理",
-      "encryptAddressId": "391c5a25671d40b303Zy3dm5EVI~",
-      "address": "郑州金水区国际企业中心A座1901",
-      "longitude": 113.676074,
-      "latitude": 34.786289,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8070ae31dc30e2b1f54a6ab5f256f46",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/34fb314a75bc5c95d9ae852fe1bc600d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT服务",
-        "产品设计",
-        "硬件实施",
-        "软件实施"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "立安测绘",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4b248f0407fc2f280HN539y_EA~~",
-      "brandName": "立安测绘",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "河南立安，一个有灵魂的公司",
-      "labels": [
-        "五险一金",
-        "定期体检",
-        "全勤奖",
-        "年终奖"
-      ],
-      "activeTime": 1720876290290,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "立安测绘",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "立安测绘",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1720876290290,
+        "brandName": "立安测绘",
+        "customerBrandName": "立安测绘",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4b248f0407fc2f280HN539y_EA~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "河南立安，一个有灵魂的公司",
+        "labels": [
+            "五险一金",
+            "定期体检",
+            "全勤奖",
+            "年终奖"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "郑州金水区国际企业中心A座1901",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "391c5a25671d40b303Zy3dm5EVI~",
+        "encryptId": "871366972cbebda41nB52Ny8GVNY",
+        "encryptUserId": "1fa52ca542be3df10HR529i4GA~~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "数据分析师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 34.786289,
+        "location": 101180100,
+        "locationName": "郑州",
+        "longitude": 113.676074,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/34fb314a75bc5c95d9ae852fe1bc600d",
+        "position": 100603,
+        "positionName": "项目助理",
+        "postDescription": "1、航空影像及卫星影像数据处理，4d产品生产\n2、倾斜实景三维模型生产。\n3、项目日常管理，技术文档编写及项目档案管理",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "IT服务",
+            "产品设计",
+            "硬件实施",
+            "软件实施"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8070ae31dc30e2b1f54a6ab5f256f46"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "JOQa5RwQdQTMY-h1sK2vLdMkghn82Wx-jZYxunNbFT2BjBPFVQZRAPPf0X4hC9JhIxICdU4SabYY0liXkOAKWFmHa39mRhqj0JsI6DwHqVhz8Q_zpU5ZufR8G3gELfq6hCWs-0jTQw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

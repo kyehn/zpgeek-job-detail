@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "0VuLTIhOlbg0U-I125l8BlY9bULUWyYaGpi9XuwZ5bB9YztHZZop_jdnX4qBR8xhmn4johlApOW4zKeMZcrKbGuCzpUbs4Vi3VG-qZBUANWyuDOqPDXnoSZXICHdXVkQe0N55AShG5HtzA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fc7dc5769a04e9a41XB72dy7GVRV",
-      "encryptUserId": "6a31862ac09322900HJ40967F1A~",
-      "invalidStatus": false,
-      "jobName": "金蝶软件实施顾问",
-      "position": 100605,
-      "positionName": "实施顾问",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.学习金蝶ERP软件，学习客户业务流程，按照金蝶实施方法论，将客户的管理需求落地。\n2.实施的主要工作内容是：需求调研、业务蓝图设计、初始化数据导入、培训指导、上线跟踪、编写文档；\n岗位要求：\n1．\t专科及以上学历，计算机或信管或财会专业优先\n2．\t为人真诚、诚实、守时、有担当；\n3．具有优秀的沟通和表达能力、业务分析能力和方案写作能力\n4．具备较强的学习能力和沟通能力、服务意识强、踏实认真；\n5、熟悉金蝶产品，或者同样级别的产品实施经验\n6．有1-2年的工作经验者优先；没有工作经验，但对ERP实施感兴趣、且学习能力和表达能力优秀的大学生，同样优先，可接受实习生\r\n\r\n加分项\r\n有以下行业经验：大数据·计算机软件·财务/审计/税务",
-      "encryptAddressId": "1d78fe864a56b96b0Xx62du7F1s~",
-      "address": "北京朝阳区北京像素南区5号楼4层0427号",
-      "longitude": 116.615922,
-      "latitude": 39.925458,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1adcc5e11f70b4865535eb61a8f4507f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e568d8008fe3b149296354b8680fdd7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李先生",
-      "title": "人事经理HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191218/356db7981af69e2e0eaae83d33aad2180bb3a12f81b30ad32445a3a758d_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "蓝特",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf458bee283501951nB-2d-6F1o~",
-      "brandName": "蓝特",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100606,
-      "industryName": "检测/认证",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725604463103,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "蓝特",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "蓝特",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191218/356db7981af69e2e0eaae83d33aad2180bb3a12f81b30ad32445a3a758d_b.jpg",
+        "title": "人事经理HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725604463103,
+        "brandName": "蓝特",
+        "customerBrandName": "蓝特",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cf458bee283501951nB-2d-6F1o~",
+        "focusBrand": false,
+        "industry": 100606,
+        "industryName": "检测/认证",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区北京像素南区5号楼4层0427号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1d78fe864a56b96b0Xx62du7F1s~",
+        "encryptId": "fc7dc5769a04e9a41XB72dy7GVRV",
+        "encryptUserId": "6a31862ac09322900HJ40967F1A~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "金蝶软件实施顾问",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.925458,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.615922,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e568d8008fe3b149296354b8680fdd7",
+        "position": 100605,
+        "positionName": "实施顾问",
+        "postDescription": "岗位职责：\n1.学习金蝶ERP软件，学习客户业务流程，按照金蝶实施方法论，将客户的管理需求落地。\n2.实施的主要工作内容是：需求调研、业务蓝图设计、初始化数据导入、培训指导、上线跟踪、编写文档；\n岗位要求：\n1．\t专科及以上学历，计算机或信管或财会专业优先\n2．\t为人真诚、诚实、守时、有担当；\n3．具有优秀的沟通和表达能力、业务分析能力和方案写作能力\n4．具备较强的学习能力和沟通能力、服务意识强、踏实认真；\n5、熟悉金蝶产品，或者同样级别的产品实施经验\n6．有1-2年的工作经验者优先；没有工作经验，但对ERP实施感兴趣、且学习能力和表达能力优秀的大学生，同样优先，可接受实习生\r\n\r\n加分项\r\n有以下行业经验：大数据·计算机软件·财务/审计/税务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "ERP"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1adcc5e11f70b4865535eb61a8f4507f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "0VuLTIhOlbg0U-I125l8BlY9bULUWyYaGpi9XuwZ5bB9YztHZZop_jdnX4qBR8xhmn4johlApOW4zKeMZcrKbGuCzpUbs4Vi3VG-qZBUANWyuDOqPDXnoSZXICHdXVkQe0N55AShG5HtzA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

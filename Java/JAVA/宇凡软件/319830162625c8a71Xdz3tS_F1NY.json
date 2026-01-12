@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "KUc3xm5fxnUNP-D1I_QiwKewXur8rYrwDgYSvtw8ND7JvSqvrMFPdiwP9aZmHRPTRXjVxlQd7pfHrsoC2gXHZuFqHp9oGXlNoX6kqLPFNIuEkw9i1yQb",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "319830162625c8a71Xdz3tS_F1NY",
-      "encryptUserId": "8a7856c103104bbf0nF509S1FldT",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解\n大学本科及以上学历，本科及以上学历，计算机相关专业",
-      "encryptAddressId": "8f90dabbcdcaaa890XN529i_EFE~",
-      "address": "南京江宁区莱茵铂郡大厦1726室",
-      "longitude": 118.859471,
-      "latitude": 31.935705,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1e099e3e0eb4a7bddfd833f8f4a1e80",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76148e5a20d4809d951f90dbee636a41",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "后端工程师",
-        "Java",
-        "Spring",
-        "MyBatis",
-        "计算机/软件工程相关经验",
-        "Java开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "宇凡软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "d497873bd5bea3181XZ52t-7F1I~",
-      "brandName": "宇凡软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719128240621,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "宇凡软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "宇凡软件",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1719128240621,
+        "brandName": "宇凡软件",
+        "customerBrandName": "宇凡软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "d497873bd5bea3181XZ52t-7F1I~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区莱茵铂郡大厦1726室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "8f90dabbcdcaaa890XN529i_EFE~",
+        "encryptId": "319830162625c8a71Xdz3tS_F1NY",
+        "encryptUserId": "8a7856c103104bbf0nF509S1FldT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.935705,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.859471,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76148e5a20d4809d951f90dbee636a41",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解\n大学本科及以上学历，本科及以上学历，计算机相关专业",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MyBatis",
+            "计算机/软件工程相关经验",
+            "Java开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1e099e3e0eb4a7bddfd833f8f4a1e80"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "KUc3xm5fxnUNP-D1I_QiwKewXur8rYrwDgYSvtw8ND7JvSqvrMFPdiwP9aZmHRPTRXjVxlQd7pfHrsoC2gXHZuFqHp9oGXlNoX6kqLPFNIuEkw9i1yQb",
+    "selfAccess": false,
+    "sessionId": null
 }

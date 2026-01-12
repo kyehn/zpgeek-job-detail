@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DujprmAI3t5HT-D1Pp5hDVQVzpdvPtxVWv6u1sa1fydnR90zn17qa69OSfJ590pFOHMR6gQtGePV9qR0njIycEE6X7Vq9bdx6wrULvudlWp1HdCnpm6HavQYN5cUdRMbb827Mv5NvI0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "75712e0edb1fc3831H1-3dq8FlZT",
-      "encryptUserId": "a051fa44528b55eb0Xd-2t64GVE~",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "具体要求:\n1，具有物联网系统一年以上测试经验。\n2，具有一定的测试用例和文档编写能力\n3，熟悉服务器，APP，物联网设备测试方法。",
-      "encryptAddressId": "3609af7cfb60bd533nx_2NW5E1FQx4-7WPs~",
-      "address": "深圳龙岗区中海信创新产业城13A栋5楼",
-      "longitude": 114.113549,
-      "latitude": 22.650687,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230803/48ba41acc9cef1bfde4ba612aa14c30bbc29abc59c2b14616bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240624/48ba41acc9cef1bfe3cd6e88121fa311454657b443b0797d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "测试工作经验",
-        "通信相关专业",
-        "性能测试",
-        "功能测试",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "詹女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210830/607f1f3d68754fd01cc43f5835c4dd00d3c8d955af954f553a090f68b8f38fda5b8e70c3c4e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "中智盛安",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5dd5fc6eefea19751XR80tu5",
-      "brandName": "中智盛安",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160511/46df39f137eec71cc06934e4837780a9ca5614cdb495b80a8d9180d6b02463f0.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "深圳市中智盛安安全技术有限公司是国内领先的智能疏散方案专业提供商。",
-      "labels": [],
-      "activeTime": 1729850311000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中智盛安",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中智盛安",
+        "certificated": true,
+        "large": null,
+        "name": "詹女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210830/607f1f3d68754fd01cc43f5835c4dd00d3c8d955af954f553a090f68b8f38fda5b8e70c3c4e_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1729850311000,
+        "brandName": "中智盛安",
+        "customerBrandName": "中智盛安",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "5dd5fc6eefea19751XR80tu5",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "深圳市中智盛安安全技术有限公司是国内领先的智能疏散方案专业提供商。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160511/46df39f137eec71cc06934e4837780a9ca5614cdb495b80a8d9180d6b02463f0.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区中海信创新产业城13A栋5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3609af7cfb60bd533nx_2NW5E1FQx4-7WPs~",
+        "encryptId": "75712e0edb1fc3831H1-3dq8FlZT",
+        "encryptUserId": "a051fa44528b55eb0Xd-2t64GVE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.650687,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.113549,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240624/48ba41acc9cef1bfe3cd6e88121fa311454657b443b0797d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "具体要求:\n1，具有物联网系统一年以上测试经验。\n2，具有一定的测试用例和文档编写能力\n3，熟悉服务器，APP，物联网设备测试方法。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "Java",
+            "测试工作经验",
+            "通信相关专业",
+            "性能测试",
+            "功能测试",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230803/48ba41acc9cef1bfde4ba612aa14c30bbc29abc59c2b14616bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DujprmAI3t5HT-D1Pp5hDVQVzpdvPtxVWv6u1sa1fydnR90zn17qa69OSfJ590pFOHMR6gQtGePV9qR0njIycEE6X7Vq9bdx6wrULvudlWp1HdCnpm6HavQYN5cUdRMbb827Mv5NvI0~",
+    "selfAccess": false,
+    "sessionId": null
 }

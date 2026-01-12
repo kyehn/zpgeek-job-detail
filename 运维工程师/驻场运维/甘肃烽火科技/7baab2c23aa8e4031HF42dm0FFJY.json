@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "uxS8l3JWqcffM-g1sjG34QnVTXxZjnntx2wnVIuHJVDWjr8F-cIEHzm2fYGOBOZBHew2dq8Hnifx-X7M5y010S9cbbf5hkL_KEn5Pz8ejlAsBOxVpgUN",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7baab2c23aa8e4031HF42dm0FFJY",
-      "encryptUserId": "efd4f5653db63b0b0XBz3dm0EFJU",
-      "invalidStatus": false,
-      "jobName": "驻场运维",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101160100,
-      "locationName": "兰州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "大专及以上学历，年龄22-40周岁，了解远程视频会议终端的原理及操作，了解LCD/LED大屏相关屏控软件或矩阵软件，了解模拟调音台或数字调音台的简单使用及原理，学习能力强，能够熟练使用办公软件。",
-      "encryptAddressId": "b900fe7ad3759c1c0HJ829-_FFBZyo65WPg~",
-      "address": "兰州城关区甘肃省公安厅兰州市庆阳路98号",
-      "longitude": 103.840307,
-      "latitude": 36.054184,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf24a626da0590aae78090df9f326fc0f56bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bff7b81d1dd61d207fe5f8c85294ba3b276bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "计算机相关专业",
-        "电子/电气/自动化相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "常女士",
-      "title": "办公室员工",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "甘肃烽火科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1891e939fb208e511HB-29q6E1o~",
-      "brandName": "甘肃烽火科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724866616807,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "甘肃烽火科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "甘肃烽火科技",
+        "certificated": true,
+        "large": null,
+        "name": "常女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "办公室员工"
+    },
+    "brandComInfo": {
+        "activeTime": 1724866616807,
+        "brandName": "甘肃烽火科技",
+        "customerBrandName": "甘肃烽火科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "1891e939fb208e511HB-29q6E1o~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "兰州城关区甘肃省公安厅兰州市庆阳路98号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b900fe7ad3759c1c0HJ829-_FFBZyo65WPg~",
+        "encryptId": "7baab2c23aa8e4031HF42dm0FFJY",
+        "encryptUserId": "efd4f5653db63b0b0XBz3dm0EFJU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "驻场运维",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.054184,
+        "location": 101160100,
+        "locationName": "兰州",
+        "longitude": 103.840307,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bff7b81d1dd61d207fe5f8c85294ba3b276bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "大专及以上学历，年龄22-40周岁，了解远程视频会议终端的原理及操作，了解LCD/LED大屏相关屏控软件或矩阵软件，了解模拟调音台或数字调音台的简单使用及原理，学习能力强，能够熟练使用办公软件。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "系统运维",
+            "计算机相关专业",
+            "电子/电气/自动化相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf24a626da0590aae78090df9f326fc0f56bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "uxS8l3JWqcffM-g1sjG34QnVTXxZjnntx2wnVIuHJVDWjr8F-cIEHzm2fYGOBOZBHew2dq8Hnifx-X7M5y010S9cbbf5hkL_KEn5Pz8ejlAsBOxVpgUN",
+    "selfAccess": false,
+    "sessionId": null
 }

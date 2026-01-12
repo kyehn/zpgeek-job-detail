@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PnoGtT8MvA0qV-S1RfF6zbw8fmHlyHiktyOUWD3IJRR7AndAiMOpeb_ixcSMAxhrBzZfVpD4fYTuTMXYcpvBJB-YjVl-N5yYAbjaBxyE_0keJeMwXgkr",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "bd92fc32228164cd1nV40ty7FVBS",
-      "encryptUserId": "35d6ea713e84dded0nR_3tq1EFVZ",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "1.指导用户进行软件使用，并解答用户在软件使用中的各种问题。\n2.熟练使用办公软件。\n3.计算机相关专业大专及以上学历。\n4.能适应长期出差，有相关工作经验者优先。",
-      "encryptAddressId": "2fdcbce53620e0331Hx629y1F1I~",
-      "address": "西安碑林区大洋时代国际A座11202",
-      "longitude": 108.920227,
-      "latitude": 34.235229,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e593b1e9ed36f0c26c13dcb83b92d406",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb0bcc572e1c4d2066ac60d79a3acb7d",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT技术支持",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "彭先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201129/9e396b3abaaed60055044d1b2ea3420e3b6e1e0a1872bb2acc3ba6f5c9f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "硅步",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0ad36e71b49dc24e1nd60tm6FlU~",
-      "brandName": "硅步",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719317624993,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "硅步",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "硅步",
+        "certificated": true,
+        "large": null,
+        "name": "彭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201129/9e396b3abaaed60055044d1b2ea3420e3b6e1e0a1872bb2acc3ba6f5c9f_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719317624993,
+        "brandName": "硅步",
+        "customerBrandName": "硅步",
+        "customerBrandStageName": "",
+        "encryptBrandId": "0ad36e71b49dc24e1nd60tm6FlU~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安碑林区大洋时代国际A座11202",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "2fdcbce53620e0331Hx629y1F1I~",
+        "encryptId": "bd92fc32228164cd1nV40ty7FVBS",
+        "encryptUserId": "35d6ea713e84dded0nR_3tq1EFVZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.235229,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.920227,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb0bcc572e1c4d2066ac60d79a3acb7d",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1.指导用户进行软件使用，并解答用户在软件使用中的各种问题。\n2.熟练使用办公软件。\n3.计算机相关专业大专及以上学历。\n4.能适应长期出差，有相关工作经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "IT技术支持",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e593b1e9ed36f0c26c13dcb83b92d406"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PnoGtT8MvA0qV-S1RfF6zbw8fmHlyHiktyOUWD3IJRR7AndAiMOpeb_ixcSMAxhrBzZfVpD4fYTuTMXYcpvBJB-YjVl-N5yYAbjaBxyE_0keJeMwXgkr",
+    "selfAccess": false,
+    "sessionId": null
 }

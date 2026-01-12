@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2ReUl74I0zN5B-M1hZ3Em5CqZHKSGpeTwygnY_LnYQ5b7r8cZpKSyQUfiA1mSVtmyU6g841HA3VshNYPQQtlOhTjQa6KjWoXgRnyahn48_cibE-yiD1r",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "741430c98f24727b1XF539i9GVJU",
-      "encryptUserId": "e7f8b55083ebafc20nZ729-9ElJV",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101210900,
-      "locationName": "金华",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "招聘岗位：智能化弱电工程施工人员，学徒工\n岗位要求：踏实肯干，不会可学\n薪资待遇：3000-8000\n工作时间：8：00-17：30\n工作地址：浦江\r\n\r\n加分项\r\n有以下行业经验：计算机服务·通信/网络设备·智能硬件",
-      "encryptAddressId": "0e51c0d8b4a471fb03V83tm9EVo~",
-      "address": "金华浦江县浦江县晶雅路",
-      "longitude": 119.891999,
-      "latitude": 29.452401,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a29de73fbb84e1a630dd6cc55a0c2b34",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4689c3610ef84c99c77b9153bd9dd248",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "包女士",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "英杰智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "155d128682e4e7481nB82di_FFM~",
-      "brandName": "英杰智能",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730759421213,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "英杰智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "英杰智能",
+        "certificated": true,
+        "large": null,
+        "name": "包女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730759421213,
+        "brandName": "英杰智能",
+        "customerBrandName": "英杰智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "155d128682e4e7481nB82di_FFM~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "金华浦江县浦江县晶雅路",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0e51c0d8b4a471fb03V83tm9EVo~",
+        "encryptId": "741430c98f24727b1XF539i9GVJU",
+        "encryptUserId": "e7f8b55083ebafc20nZ729-9ElJV",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.452401,
+        "location": 101210900,
+        "locationName": "金华",
+        "longitude": 119.891999,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4689c3610ef84c99c77b9153bd9dd248",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "招聘岗位：智能化弱电工程施工人员，学徒工\n岗位要求：踏实肯干，不会可学\n薪资待遇：3000-8000\n工作时间：8：00-17：30\n工作地址：浦江\r\n\r\n加分项\r\n有以下行业经验：计算机服务·通信/网络设备·智能硬件",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K·13薪",
+        "showSkills": [
+            "软件实施经验",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a29de73fbb84e1a630dd6cc55a0c2b34"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2ReUl74I0zN5B-M1hZ3Em5CqZHKSGpeTwygnY_LnYQ5b7r8cZpKSyQUfiA1mSVtmyU6g841HA3VshNYPQQtlOhTjQa6KjWoXgRnyahn48_cibE-yiD1r",
+    "selfAccess": false,
+    "sessionId": null
 }

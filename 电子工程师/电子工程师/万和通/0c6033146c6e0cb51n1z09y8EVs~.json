@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Au7zHViu_8ILZ-E1SPUSMAcjSrGnH2QxJwiH-f8bCU-UAiz4W-iElX4EPj3wQkEfZQHTv3AfvNlL3JKlWnTfcCLS2p0QJh0dd31feEFct6_7X-Gi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0c6033146c6e0cb51n1z09y8EVs~",
-      "encryptUserId": "fda355bbfbd2fbd71HN92dq8GVY~",
-      "invalidStatus": false,
-      "jobName": "电子工程师",
-      "position": 101401,
-      "positionName": "电子工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉pcb制程，能独立完成pcb电路设计，照明led组装调试，对元器件有一定了解",
-      "encryptAddressId": "07b5df7e131fbe2e1w~~",
-      "address": null,
-      "longitude": 0.0,
-      "latitude": 0.0,
-      "staticMapUrl": "",
-      "pcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "PCB设计",
-        "电路设计",
-        "Led组装调试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180420/df012c18afe9e3327fa893a7965d2dd2dc6b837e992b829924872eb1e08_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "万和通",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "fdd1a32f19d864161nx63ty9Fg~~",
-      "brandName": "万和通",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100026,
-      "industryName": "电子/半导体/集成电路",
-      "introduce": "电子产品领域内的技术开发；照明灯具领域内的技术开发；灯具的设计、销售；塑料制品、金属制品、电子元器件、线材、包装材料的销售。",
-      "labels": [],
-      "activeTime": 1719117414658,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "万和通",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "万和通",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180420/df012c18afe9e3327fa893a7965d2dd2dc6b837e992b829924872eb1e08_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1719117414658,
+        "brandName": "万和通",
+        "customerBrandName": "万和通",
+        "customerBrandStageName": "",
+        "encryptBrandId": "fdd1a32f19d864161nx63ty9Fg~~",
+        "focusBrand": false,
+        "industry": 100026,
+        "industryName": "电子/半导体/集成电路",
+        "introduce": "电子产品领域内的技术开发；照明灯具领域内的技术开发；灯具的设计、销售；塑料制品、金属制品、电子元器件、线材、包装材料的销售。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": null,
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "07b5df7e131fbe2e1w~~",
+        "encryptId": "0c6033146c6e0cb51n1z09y8EVs~",
+        "encryptUserId": "fda355bbfbd2fbd71HN92dq8GVY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "电子工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 0.0,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 0.0,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "",
+        "position": 101401,
+        "positionName": "电子工程师",
+        "postDescription": "熟悉pcb制程，能独立完成pcb电路设计，照明led组装调试，对元器件有一定了解",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "PCB设计",
+            "电路设计",
+            "Led组装调试"
+        ],
+        "staticMapUrl": ""
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Au7zHViu_8ILZ-E1SPUSMAcjSrGnH2QxJwiH-f8bCU-UAiz4W-iElX4EPj3wQkEfZQHTv3AfvNlL3JKlWnTfcCLS2p0QJh0dd31feEFct6_7X-Gi",
+    "selfAccess": false,
+    "sessionId": null
 }

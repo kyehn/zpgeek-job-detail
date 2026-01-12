@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZdDV_cCBEYPUC-C1I9JtqkETP7Qui4Nx3UYp9EZQGTnxZ5ExPp6ZWf0lm0ZZA4l4ZSgXIBlyUs2jxttafF__VxdEZRJurvD5bPUzGK1k9jxhUNz1igU~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f8da571b5e9b403f1nF609S1FlZW",
-      "encryptUserId": "17438f873b61d66d0nZz2dW9EFtZ",
-      "invalidStatus": false,
-      "jobName": "项目助理",
-      "position": 100603,
-      "positionName": "项目助理",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容\n1、负责对公司项目进行资料整理、素材审核\n2、协助部门总监处理部门日常事务\n3、完成上级交办的任务\n\n工作要求\n1、熟练掌握Word、Excel等办公软件；\n2、有较强的独立工作的能力。工作勤奋，具有团队合作精神，能承受一定的工作压力；\n3、会使用PR、PS等后期处理软件；\n4、工作勤奋，认真负责，态度积极；",
-      "encryptAddressId": "8cbc0177ab9ab0f103B829m8FVU~",
-      "address": "上海普陀区东方国际元中大厦B栋5楼",
-      "longitude": 121.417804,
-      "latitude": 31.240038,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c35624d1e456f18cf79a52c073ece032",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/851f45f533ca8fbf71266ce88e20bff1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "项目助理",
-        "文档"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "上海骄荏文化",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "38c31c7fa150b9e01nB_2tW-Fw~~",
-      "brandName": "上海骄荏文化",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190514/ace4b3a1b921c9d7af1a015b4a77fbbd5a5d2e62e846ca0fc47e9304a5e31509.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100103,
-      "industryName": "广播/影视",
-      "introduce": "互联网短视频公司，服务众多的4A广告公司。苏宁，中国银行，饿了么，百姓网等众多著名企业都是我们的客户。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "员工旅游",
-        "节日福利",
-        "零食下午茶"
-      ],
-      "activeTime": 1725363033867,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "上海骄荏文化",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "上海骄荏文化",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1725363033867,
+        "brandName": "上海骄荏文化",
+        "customerBrandName": "上海骄荏文化",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "38c31c7fa150b9e01nB_2tW-Fw~~",
+        "focusBrand": false,
+        "industry": 100103,
+        "industryName": "广播/影视",
+        "introduce": "互联网短视频公司，服务众多的4A广告公司。苏宁，中国银行，饿了么，百姓网等众多著名企业都是我们的客户。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "员工旅游",
+            "节日福利",
+            "零食下午茶"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190514/ace4b3a1b921c9d7af1a015b4a77fbbd5a5d2e62e846ca0fc47e9304a5e31509.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海普陀区东方国际元中大厦B栋5楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "8cbc0177ab9ab0f103B829m8FVU~",
+        "encryptId": "f8da571b5e9b403f1nF609S1FlZW",
+        "encryptUserId": "17438f873b61d66d0nZz2dW9EFtZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "项目助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.240038,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.417804,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/851f45f533ca8fbf71266ce88e20bff1",
+        "position": 100603,
+        "positionName": "项目助理",
+        "postDescription": "工作内容\n1、负责对公司项目进行资料整理、素材审核\n2、协助部门总监处理部门日常事务\n3、完成上级交办的任务\n\n工作要求\n1、熟练掌握Word、Excel等办公软件；\n2、有较强的独立工作的能力。工作勤奋，具有团队合作精神，能承受一定的工作压力；\n3、会使用PR、PS等后期处理软件；\n4、工作勤奋，认真负责，态度积极；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "项目助理",
+            "文档"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c35624d1e456f18cf79a52c073ece032"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZdDV_cCBEYPUC-C1I9JtqkETP7Qui4Nx3UYp9EZQGTnxZ5ExPp6ZWf0lm0ZZA4l4ZSgXIBlyUs2jxttafF__VxdEZRJurvD5bPUzGK1k9jxhUNz1igU~",
+    "selfAccess": false,
+    "sessionId": null
 }

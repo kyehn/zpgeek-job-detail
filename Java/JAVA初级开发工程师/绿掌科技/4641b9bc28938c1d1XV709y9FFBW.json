@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Y1PUoCCHLIorQ-81bYuxlXnPqy5UJ10iGGfL56HEurF-vRZHwOUp9oNG5rHwOhWKQUNlqbwDwPAT24WLCdMz7ngIAl6Z92Yh8X7juY9y-Yth_bkD9qTu",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4641b9bc28938c1d1XV709y9FFBW",
-      "encryptUserId": "2dedc07a34018f370nVy2tW5FlBQ",
-      "invalidStatus": false,
-      "jobName": "Java初级开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-10K",
-      "payTypeDesc": null,
-      "postDescription": "1. 计算机科学与技术、软件工程、通信工程、电子信息等相关专业应届毕业生。  \n2. 具备一定的系统调试与排错能力，良好沟通能力\n3.熟悉CentOS/Ubuntu等常用Linux操作系统原理，TCP/IP和常用网络协议\n4.熟悉Shell/Python/Go/Java/Perl至少一门语言\n5.掌握MySQL、Oracle其中至少一种数据库，熟悉数据库优化、性能调优。",
-      "encryptAddressId": "d36d3c9ceccaab580X1-2N--GVc~",
-      "address": "杭州萧山区宝兴大厦2楼Greenpalm",
-      "longitude": 120.324159,
-      "latitude": 30.200195,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc001f3e112535a8a96f4155e4521452",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76bccb9133c68cf7ad4a4805b1a80706",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "网络协议",
-        "Linux",
-        "Oracle"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "章女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210827/607f1f3d68754fd088b4582b704243c20b4b82e8410dadfbe8439eea250817b804da560ce8a_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "绿掌科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cfc155a64c9d67fc1nxy39S_GVo~",
-      "brandName": "绿掌科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210827/7b5b554d84f9729c28a0bfa9ce29424b870790f4380b0a62e8439eea250817b804da560ce8a3217a.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "杭州绿掌科技有限公司是从事物联网、智能电网相关领域的高科技企业，专注于大型物联网软件系统、先进智能制造，产品覆盖海外20多个国家和地区，长期服务于海外公用事业公司。",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "带薪年假",
-        "交通补助",
-        "节日福利",
-        "零食下午茶",
-        "项目奖金"
-      ],
-      "activeTime": 1719208670000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "绿掌科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "绿掌科技",
+        "certificated": true,
+        "large": null,
+        "name": "章女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210827/607f1f3d68754fd088b4582b704243c20b4b82e8410dadfbe8439eea250817b804da560ce8a_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1719208670000,
+        "brandName": "绿掌科技",
+        "customerBrandName": "绿掌科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "cfc155a64c9d67fc1nxy39S_GVo~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "杭州绿掌科技有限公司是从事物联网、智能电网相关领域的高科技企业，专注于大型物联网软件系统、先进智能制造，产品覆盖海外20多个国家和地区，长期服务于海外公用事业公司。",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "带薪年假",
+            "交通补助",
+            "节日福利",
+            "零食下午茶",
+            "项目奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210827/7b5b554d84f9729c28a0bfa9ce29424b870790f4380b0a62e8439eea250817b804da560ce8a3217a.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区宝兴大厦2楼Greenpalm",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "d36d3c9ceccaab580X1-2N--GVc~",
+        "encryptId": "4641b9bc28938c1d1XV709y9FFBW",
+        "encryptUserId": "2dedc07a34018f370nVy2tW5FlBQ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java初级开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.200195,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.324159,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76bccb9133c68cf7ad4a4805b1a80706",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1. 计算机科学与技术、软件工程、通信工程、电子信息等相关专业应届毕业生。  \n2. 具备一定的系统调试与排错能力，良好沟通能力\n3.熟悉CentOS/Ubuntu等常用Linux操作系统原理，TCP/IP和常用网络协议\n4.熟悉Shell/Python/Go/Java/Perl至少一门语言\n5.掌握MySQL、Oracle其中至少一种数据库，熟悉数据库优化、性能调优。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-10K",
+        "showSkills": [
+            "Python",
+            "网络协议",
+            "Linux",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc001f3e112535a8a96f4155e4521452"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Y1PUoCCHLIorQ-81bYuxlXnPqy5UJ10iGGfL56HEurF-vRZHwOUp9oNG5rHwOhWKQUNlqbwDwPAT24WLCdMz7ngIAl6Z92Yh8X7juY9y-Yth_bkD9qTu",
+    "selfAccess": false,
+    "sessionId": null
 }

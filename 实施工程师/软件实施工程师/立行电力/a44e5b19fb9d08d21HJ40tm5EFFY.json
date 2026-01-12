@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Yv2dFhH0b6n3h-x18mU-dQiFt9g80GeOhqnKPhFiBtX-Xs8GX4GjshcgemePtHaFoY0Qb9vJYJOECAchIBP4Vy-KBu542XIP52SgjDzHVg7s-hyQ6Pw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a44e5b19fb9d08d21HJ40tm5EFFY",
-      "encryptUserId": "96eae07038a034a01HB82Nq4GVY~",
-      "invalidStatus": false,
-      "jobName": "软件实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101120100,
-      "locationName": "济南",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：1.现场实施.服务器部署，系统发布.用户培训.问题跟踪协调处理；2.现场需求了解.汇总.分析；3.现场客户沟通协调。\n任职资格：1.计算机相关专业，本科及以上学历；2.思维活跃.沟通协调表达能力强；3.具备良好的应变能力和责任感；4.熟悉Linux，SQL，JAVA语言和数据库者优先；5.能承受一定的工作压力。6.接受出差\n\n所需技能： 系统运维、Linux，SQL、Java、Oracle、MySQL",
-      "encryptAddressId": "54f7a6fc724ef4840HB52d-1FVc~",
-      "address": "济南历城区中海·华山1",
-      "longitude": 117.051362,
-      "latitude": 36.718328,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbd34fa48789b94ad5753f6bbcf5867d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ea4889a726e47a1bc36269d41954eda",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吕女士",
-      "title": "人事主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220823/607f1f3d68754fd08402384ea42b0588bd4a9e05c17e8a0e0b6c39d2e82bd8c8c0019354a44_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "立行电力",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "09ff1863c118cb711ndz39S-E1A~",
-      "brandName": "立行电力",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101205,
-      "industryName": "电力/热力/燃气/水利",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "带薪年假",
-        "节日福利"
-      ],
-      "activeTime": 1724727818146,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "立行电力",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "立行电力",
+        "certificated": true,
+        "large": null,
+        "name": "吕女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220823/607f1f3d68754fd08402384ea42b0588bd4a9e05c17e8a0e0b6c39d2e82bd8c8c0019354a44_b.jpg",
+        "title": "人事主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1724727818146,
+        "brandName": "立行电力",
+        "customerBrandName": "立行电力",
+        "customerBrandStageName": "",
+        "encryptBrandId": "09ff1863c118cb711ndz39S-E1A~",
+        "focusBrand": false,
+        "industry": 101205,
+        "industryName": "电力/热力/燃气/水利",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "带薪年假",
+            "节日福利"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "济南历城区中海·华山1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "54f7a6fc724ef4840HB52d-1FVc~",
+        "encryptId": "a44e5b19fb9d08d21HJ40tm5EFFY",
+        "encryptUserId": "96eae07038a034a01HB82Nq4GVY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件实施工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 36.718328,
+        "location": 101120100,
+        "locationName": "济南",
+        "longitude": 117.051362,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ea4889a726e47a1bc36269d41954eda",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责：1.现场实施.服务器部署，系统发布.用户培训.问题跟踪协调处理；2.现场需求了解.汇总.分析；3.现场客户沟通协调。\n任职资格：1.计算机相关专业，本科及以上学历；2.思维活跃.沟通协调表达能力强；3.具备良好的应变能力和责任感；4.熟悉Linux，SQL，JAVA语言和数据库者优先；5.能承受一定的工作压力。6.接受出差\n\n所需技能： 系统运维、Linux，SQL、Java、Oracle、MySQL",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbd34fa48789b94ad5753f6bbcf5867d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Yv2dFhH0b6n3h-x18mU-dQiFt9g80GeOhqnKPhFiBtX-Xs8GX4GjshcgemePtHaFoY0Qb9vJYJOECAchIBP4Vy-KBu542XIP52SgjDzHVg7s-hyQ6Pw~",
+    "selfAccess": false,
+    "sessionId": null
 }

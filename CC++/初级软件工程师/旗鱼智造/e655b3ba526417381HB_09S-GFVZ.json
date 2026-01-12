@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "9e2ELh1LVv5rY-V1vy5is8U7whdxC0Tubob07qV_k0Pn4CBYCTJtavYa7vR5DMqlcmzM5_vULHVY4BjMR0TbtyFczuR0VDw8a-7-KMuyuZ-fHf2Ddw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e655b3ba526417381HB_09S-GFVZ",
-      "encryptUserId": "e1a6c2ebd8ce18920HZy3tS4GVs~",
-      "invalidStatus": false,
-      "jobName": "初级软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "熟练应用C# ，C++，MFC等进行软件开发",
-      "encryptAddressId": "f824571b6cf5a88e1nF_2N61F1o~",
-      "address": "苏州腾飞新苏工业坊1号楼",
-      "longitude": 120.673698,
-      "latitude": 31.304501,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21eb63e42c54ad602b03ce102cfc6d65",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f0e69e466087f60bd629b5134d286f38",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "C++",
-        "C",
-        "分布式经验",
-        "MySQL",
-        "MFC"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "旗鱼智造",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "09fe05522cb9f0cc0nBz29m_GQ~~",
-      "brandName": "旗鱼智造",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "带薪年假",
-        "餐补"
-      ],
-      "activeTime": 1727086616000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "旗鱼智造",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "旗鱼智造",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727086616000,
+        "brandName": "旗鱼智造",
+        "customerBrandName": "旗鱼智造",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "09fe05522cb9f0cc0nBz29m_GQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "带薪年假",
+            "餐补"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州腾飞新苏工业坊1号楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f824571b6cf5a88e1nF_2N61F1o~",
+        "encryptId": "e655b3ba526417381HB_09S-GFVZ",
+        "encryptUserId": "e1a6c2ebd8ce18920HZy3tS4GVs~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.304501,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.673698,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f0e69e466087f60bd629b5134d286f38",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "熟练应用C# ，C++，MFC等进行软件开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "C#",
+            "C++",
+            "C",
+            "分布式经验",
+            "MySQL",
+            "MFC"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21eb63e42c54ad602b03ce102cfc6d65"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "9e2ELh1LVv5rY-V1vy5is8U7whdxC0Tubob07qV_k0Pn4CBYCTJtavYa7vR5DMqlcmzM5_vULHVY4BjMR0TbtyFczuR0VDw8a-7-KMuyuZ-fHf2Ddw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

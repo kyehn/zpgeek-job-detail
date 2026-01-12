@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "lYRf6hb06kO2B-41t2vQ4Imy5wKnb1TojQEWFBUjg7Wz33rgXCY6t93VRBJ3bio4gq2D7C1Zr1PHjX38lcBjy6OxUAHb3gf_ME2Ta_K111yTBe57Jbg4",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "34704629da0f3e971nZ839y_FVNT",
-      "encryptUserId": "81c47789bae5d4cf0nV90tu8FFRW",
-      "invalidStatus": false,
-      "jobName": "软件技术支持",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责公司软件产品使用培训；\n2、负责手机客户需求，响应客户服务；\n3、要求有一定文档编写能力；",
-      "encryptAddressId": "62c610258fe026d703R90tq9FVA~",
-      "address": "武汉江岸区统建新干线3-1204",
-      "longitude": 114.33944,
-      "latitude": 30.665758,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/253e33b22295a537be5acf8d39a30078",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef332a6b5936545c5738d62a8d8dd5ee",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "解先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "东之林科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9826d596ad744a8c1nB429m1F1s~",
-      "brandName": "东之林科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "武汉东之林科技有限公司 成立于2003年6月，主要为通信运营商和政企客户提供信息化解决方案服务、信息化系统开发和技术服务。",
-      "labels": [],
-      "activeTime": 1725379652751,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "东之林科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "东之林科技",
+        "certificated": true,
+        "large": null,
+        "name": "解先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725379652751,
+        "brandName": "东之林科技",
+        "customerBrandName": "东之林科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9826d596ad744a8c1nB429m1F1s~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "武汉东之林科技有限公司 成立于2003年6月，主要为通信运营商和政企客户提供信息化解决方案服务、信息化系统开发和技术服务。",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江岸区统建新干线3-1204",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "62c610258fe026d703R90tq9FVA~",
+        "encryptId": "34704629da0f3e971nZ839y_FVNT",
+        "encryptUserId": "81c47789bae5d4cf0nV90tu8FFRW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.665758,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.33944,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef332a6b5936545c5738d62a8d8dd5ee",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责公司软件产品使用培训；\n2、负责手机客户需求，响应客户服务；\n3、要求有一定文档编写能力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/253e33b22295a537be5acf8d39a30078"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "lYRf6hb06kO2B-41t2vQ4Imy5wKnb1TojQEWFBUjg7Wz33rgXCY6t93VRBJ3bio4gq2D7C1Zr1PHjX38lcBjy6OxUAHb3gf_ME2Ta_K111yTBe57Jbg4",
+    "selfAccess": false,
+    "sessionId": null
 }

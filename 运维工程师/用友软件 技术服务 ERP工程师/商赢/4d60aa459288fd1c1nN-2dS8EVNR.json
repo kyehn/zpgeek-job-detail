@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Wzm4JuoWTS3M2-h1gUAfeCzqq_BOF5LSoutukciZYLKuAXEO4kXcELy1Jc_yMM-XOreIHGcFskti9nHJBZyC33HpGjG1yK4ksrePe3hhWgeg_SvWpKfFBc7YAiYW-c6sGyKrZjIXNc04uSA~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4d60aa459288fd1c1nN-2dS8EVNR",
-      "encryptUserId": "de359a2e4b0943e81nV70921EldY",
-      "invalidStatus": false,
-      "jobName": "用友软件 技术服务 ERP工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280300,
-      "locationName": "惠州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "职位描述:\n一、工作职责：\n1、负责解决客户在使用软件的过程中遇到的问题，并做好处理记录；\n2、熟练掌握产品知识与服务技巧，协助销售同事完成销售、服务合同的签约与收款；\n3、及时、准确向部门主管反馈客户的意见、需求信息，以及值班或现场服务处理的异常情况。\n \n二、任职要求：\n1、对软件服务工作有较高的工作热情，勤奋踏实，有强执行能力与学习能力；\n2、有较强的沟通表达能力，能快速理解行业，理解客户需求；\n3、吃苦耐劳，具有良好的职业操守和较强的团队合作精神、服从公司工作安排；\n4、普通话流利，会客家话优先考虑。",
-      "encryptAddressId": "c39953fce23ba9721nd92dm_GFA~",
-      "address": "惠州惠城区港惠新天地西区西区二座30楼30H房",
-      "longitude": 114.415915,
-      "latitude": 23.067439,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f36484ac44231c62b4e3e56b291bf2b5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99b7896d8b73da905440af19790308ae",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "全职",
-        "服务器配置"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘女士",
-      "title": "人事部",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210803/641faa8294828f7aa766cfbff0e99d3117d40c81356234218dff2d70acf_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "商赢",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e9dc029ee32528171nx-39W7EVA~",
-      "brandName": "商赢",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210807/0f0d76c71852b7c0b3717468d42faacd17d40c81356234218dff2d70acf4f843.jpg",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "加班补助",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "餐补",
-        "通讯补贴",
-        "交通补助"
-      ],
-      "activeTime": 1725522222000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "商赢",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "商赢",
+        "certificated": true,
+        "large": null,
+        "name": "刘女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210803/641faa8294828f7aa766cfbff0e99d3117d40c81356234218dff2d70acf_b.jpg",
+        "title": "人事部"
+    },
+    "brandComInfo": {
+        "activeTime": 1725522222000,
+        "brandName": "商赢",
+        "customerBrandName": "商赢",
+        "customerBrandStageName": "",
+        "encryptBrandId": "e9dc029ee32528171nx-39W7EVA~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "加班补助",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "餐补",
+            "通讯补贴",
+            "交通补助"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210807/0f0d76c71852b7c0b3717468d42faacd17d40c81356234218dff2d70acf4f843.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "惠州惠城区港惠新天地西区西区二座30楼30H房",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c39953fce23ba9721nd92dm_GFA~",
+        "encryptId": "4d60aa459288fd1c1nN-2dS8EVNR",
+        "encryptUserId": "de359a2e4b0943e81nV70921EldY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "用友软件 技术服务 ERP工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.067439,
+        "location": 101280300,
+        "locationName": "惠州",
+        "longitude": 114.415915,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99b7896d8b73da905440af19790308ae",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "职位描述:\n一、工作职责：\n1、负责解决客户在使用软件的过程中遇到的问题，并做好处理记录；\n2、熟练掌握产品知识与服务技巧，协助销售同事完成销售、服务合同的签约与收款；\n3、及时、准确向部门主管反馈客户的意见、需求信息，以及值班或现场服务处理的异常情况。\n \n二、任职要求：\n1、对软件服务工作有较高的工作热情，勤奋踏实，有强执行能力与学习能力；\n2、有较强的沟通表达能力，能快速理解行业，理解客户需求；\n3、吃苦耐劳，具有良好的职业操守和较强的团队合作精神、服从公司工作安排；\n4、普通话流利，会客家话优先考虑。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "全职",
+            "服务器配置"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f36484ac44231c62b4e3e56b291bf2b5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Wzm4JuoWTS3M2-h1gUAfeCzqq_BOF5LSoutukciZYLKuAXEO4kXcELy1Jc_yMM-XOreIHGcFskti9nHJBZyC33HpGjG1yK4ksrePe3hhWgeg_SvWpKfFBc7YAiYW-c6sGyKrZjIXNc04uSA~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Iw8iOv0ky2TjP-p1uvQVashRLxPNbOok1ylTV86-Wq48SKkfW1FY_Vbyvu5pP13GKm8XOLNpe_5d_jqLUbGuGWr0oGtE8fQTzXQyEPwgjD12znlC6zpOLn8CHQD83P8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "72bcd63a316bf85303R539i_FFM~",
-      "encryptUserId": "baefba0e0214728c0nx-2tm1FFU~",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-15K",
-      "payTypeDesc": null,
-      "postDescription": "1、熟悉ARM单板的下linux环境的配置与开发。\n2、熟悉ARM单板的linux qt图形界面开发。\r\n3、会modubus协议的开发。\r\n有imx6开发经验优先。",
-      "encryptAddressId": "e6b26a1fbaacc0bd1nVy3t67GFc~",
-      "address": "深圳宝安区七星创意工场402-8",
-      "longitude": 113.910182,
-      "latitude": 22.579052,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa0619f3e18f60e08a7edf087beafe95",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6fd5d8c92041a48b16a2800ca211723",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux",
-        "qt"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "潘先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "易通智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "395d74511418ae291H1_39S0FQ~~",
-      "brandName": "易通智能",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "易通智能：指一家专业从事数据采集仪的设备开发公司，其产品广泛应用于水利、电力、管廊等环境监测领域。如有意向，可发简历我。",
-      "labels": [],
-      "activeTime": 1730491537499,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "易通智能",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "易通智能",
+        "certificated": true,
+        "large": null,
+        "name": "潘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730491537499,
+        "brandName": "易通智能",
+        "customerBrandName": "易通智能",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "395d74511418ae291H1_39S0FQ~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "易通智能：指一家专业从事数据采集仪的设备开发公司，其产品广泛应用于水利、电力、管廊等环境监测领域。如有意向，可发简历我。",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区七星创意工场402-8",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e6b26a1fbaacc0bd1nVy3t67GFc~",
+        "encryptId": "72bcd63a316bf85303R539i_FFM~",
+        "encryptUserId": "baefba0e0214728c0nx-2tm1FFU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.579052,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.910182,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6fd5d8c92041a48b16a2800ca211723",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1、熟悉ARM单板的下linux环境的配置与开发。\n2、熟悉ARM单板的linux qt图形界面开发。\r\n3、会modubus协议的开发。\r\n有imx6开发经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-15K",
+        "showSkills": [
+            "Linux",
+            "qt"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa0619f3e18f60e08a7edf087beafe95"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Iw8iOv0ky2TjP-p1uvQVashRLxPNbOok1ylTV86-Wq48SKkfW1FY_Vbyvu5pP13GKm8XOLNpe_5d_jqLUbGuGWr0oGtE8fQTzXQyEPwgjD12znlC6zpOLn8CHQD83P8~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "IsNJwil3bCQky-p1I06rq81DLYPCM-d36n7DPsY2hCIyYan18f2M91pxOET8HTtEGu1cbmd2ccZCFY4BcqW2z5ykdx63D9ZQhJ9dyeQ2tgQeg6QqTCXz",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e48216767d7940a81HF739-4F1ZS",
-      "encryptUserId": "8d69961fb8d04e240Xd629S-F1BT",
-      "invalidStatus": false,
-      "jobName": "光猫测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "中专/中技",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-9K",
-      "payTypeDesc": null,
-      "postDescription": "光猫产品测试站搭建，通站，调试",
-      "encryptAddressId": "3677ae6cfce408e41HZ93Ny7FFtYxo-7VP0~",
-      "address": "武汉新洲区武汉乔普电子科技有限公司1栋",
-      "longitude": 114.577754,
-      "latitude": 30.712248,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8125c64c9f1a762deeca3df2ea80abb3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/682c1cefebc26a46f7179379c3ec8e9a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "性能测试",
-        "测试工作经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "人事总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231221/607f1f3d68754fd02ff1f2510e1cad539a2584c4ab905698d3ff23c026b570377d95910e4c31ad0_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "武汉乔普电子",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "54b1161883365a121HZ729q7EVM~",
-      "brandName": "武汉乔普电子",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723629821311,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉乔普电子",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉乔普电子",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231221/607f1f3d68754fd02ff1f2510e1cad539a2584c4ab905698d3ff23c026b570377d95910e4c31ad0_b.jpg",
+        "title": "人事总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1723629821311,
+        "brandName": "武汉乔普电子",
+        "customerBrandName": "武汉乔普电子",
+        "customerBrandStageName": "",
+        "encryptBrandId": "54b1161883365a121HZ729q7EVM~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉新洲区武汉乔普电子科技有限公司1栋",
+        "anonymous": 0,
+        "degreeName": "中专/中技",
+        "encryptAddressId": "3677ae6cfce408e41HZ93Ny7FFtYxo-7VP0~",
+        "encryptId": "e48216767d7940a81HF739-4F1ZS",
+        "encryptUserId": "8d69961fb8d04e240Xd629S-F1BT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "光猫测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.712248,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.577754,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/682c1cefebc26a46f7179379c3ec8e9a",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "光猫产品测试站搭建，通站，调试",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-9K",
+        "showSkills": [
+            "功能测试",
+            "性能测试",
+            "测试工作经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8125c64c9f1a762deeca3df2ea80abb3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "IsNJwil3bCQky-p1I06rq81DLYPCM-d36n7DPsY2hCIyYan18f2M91pxOET8HTtEGu1cbmd2ccZCFY4BcqW2z5ykdx63D9ZQhJ9dyeQ2tgQeg6QqTCXz",
+    "selfAccess": false,
+    "sessionId": null
 }

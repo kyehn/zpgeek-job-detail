@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QWwT2hGZL7VIl-01HHpckyEcFI7iVsqDYzQUGlYKKCdXeBPfIst2Ev0wS_f8txIImDbpLENurMh813wWxoXGRsUaKOGFkv5Z2InrPbf5heSgol3aneBPW8SecqFmsiyOEvRkk8EQISXMbr0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5b7d1ec49e3256e91H1z3ty7FFRS",
-      "encryptUserId": "cb4dd37701841a090Xd-2N27EVZU",
-      "invalidStatus": false,
-      "jobName": "软件测试",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.2年以上的测试工作经验，1年以上手机APP测试经验，大专及以上学历，计算机科学与技术，软件工程或相关专业；\n2.了解软件测试相关理论知识，熟悉软件测试流程及规范，熟悉\n各种测试方法；\n3.拥有物联网相关项目的测试经验者优先。",
-      "encryptAddressId": "f643a36f103fe2081nBz2dW5EVpUw4S8VP2b",
-      "address": "深圳南山区田厦商业大厦1",
-      "longitude": 113.919477,
-      "latitude": 22.531981,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bef9ed264f67f4e2e5b9a07c1fe8b292",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff4f7381685ca6095112b42beceb2ac5",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "自动化测试",
-        "性能测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "曾女士",
-      "title": "招聘顾问",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240306/607f1f3d68754fd0a82f4350ade54c072001e2d5509958814c6606d33e8ee31dae07c4f34e9bfb6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "一树数智",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8117be73828b2ca51HZ_3dW8ElM~",
-      "brandName": "一树数智",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731586763234,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "一树数智",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "一树数智",
+        "certificated": true,
+        "large": null,
+        "name": "曾女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240306/607f1f3d68754fd0a82f4350ade54c072001e2d5509958814c6606d33e8ee31dae07c4f34e9bfb6_b.jpg",
+        "title": "招聘顾问"
+    },
+    "brandComInfo": {
+        "activeTime": 1731586763234,
+        "brandName": "一树数智",
+        "customerBrandName": "一树数智",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8117be73828b2ca51HZ_3dW8ElM~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区田厦商业大厦1",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f643a36f103fe2081nBz2dW5EVpUw4S8VP2b",
+        "encryptId": "5b7d1ec49e3256e91H1z3ty7FFRS",
+        "encryptUserId": "cb4dd37701841a090Xd-2N27EVZU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.531981,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.919477,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff4f7381685ca6095112b42beceb2ac5",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "1.2年以上的测试工作经验，1年以上手机APP测试经验，大专及以上学历，计算机科学与技术，软件工程或相关专业；\n2.了解软件测试相关理论知识，熟悉软件测试流程及规范，熟悉\n各种测试方法；\n3.拥有物联网相关项目的测试经验者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "自动化测试",
+            "性能测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bef9ed264f67f4e2e5b9a07c1fe8b292"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QWwT2hGZL7VIl-01HHpckyEcFI7iVsqDYzQUGlYKKCdXeBPfIst2Ev0wS_f8txIImDbpLENurMh813wWxoXGRsUaKOGFkv5Z2InrPbf5heSgol3aneBPW8SecqFmsiyOEvRkk8EQISXMbr0~",
+    "selfAccess": false,
+    "sessionId": null
 }

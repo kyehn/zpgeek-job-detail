@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ez5RvAZwJ8gwx-t1YkOuH-FmZURYQzI7wxbS2FOAfa7M8rIS3YqufZ1yeogHggL6CClBNCZdqaiJH-gb7fq8hGHBlQivW_Coh-CB4aWfJjw0U5uoIf7xijE32r8txjQ9ImwKtC44KF4Ql9y7S9BcTzqLEg-fG4i2O0Yn9Tos6r1Y5gNCXN_bUous-1arEQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "848c0dcd222fbf1a03V72Nm9FVFY",
-      "encryptUserId": "7f88206e6dff74421Hx73Nq5GVU~",
-      "invalidStatus": false,
-      "jobName": "java技术支持",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1.负责技术支持工作， 针对客户使用中存在的问题进行分析，提出快速有效的解决方案。\n2.独立与客户、产研等多团队合作，合理拉通资源响应客户诉求，完成BUG分析、优化与对客沟通\n3.攥写所负责产品线的知识库文档，对内部人员和客户进行产品培训和技术交流。\n\n\n任职要求\n1. 计算机软件、网络等相关专业，本科及以上学历。\n2.一年以上开发工作经验\n3.至少学习过一门编程语言，有基础的代码逻辑，能看懂基础代码\n4.具有较强的逻辑思维及良好的沟通协调能力，有系统化思考、解决问题的意识和能力，有对客解决问题的丰富经验优先。\n5.有协同办公/即时通讯软件软件行业经验优先\n6.会接口调用工具Fiddler/postman优先",
-      "encryptAddressId": "3a1e1bbc362410c21nF-39i8EVFVxI26VvyX",
-      "address": "杭州余杭区联创中心1",
-      "longitude": 120.019271,
-      "latitude": 30.286709,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bf3a9603f52a6a8a19a7cc50b87e2d64876bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bf798e8712b3bc28f801882fec9f2792466bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "云计算经验",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211116/607f1f3d68754fd0be2fb50bc14f26867e9ab28f0911a1c0b29fb2c9949100150d6a2c65e7f_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "中电金信",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
-      "brandName": "中电金信",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 804,
-      "stageName": "B轮",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "节日福利"
-      ],
-      "activeTime": 1736905560157,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中电金信",
-      "customerBrandStageName": "B轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "中电金信",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211116/607f1f3d68754fd0be2fb50bc14f26867e9ab28f0911a1c0b29fb2c9949100150d6a2c65e7f_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1736905560157,
+        "brandName": "中电金信",
+        "customerBrandName": "中电金信",
+        "customerBrandStageName": "B轮",
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "中电金信是中国电子控股的二级企业，秉承中国电子“打造网信事业战略科技力量”的战略使命，通过持续研发创新，参与国家重大工程，依托行业场景，构建新型数字基础设施“源启”，为金融和重点行业数智化转型及安全发展提供全栈技术平台、应用软件和专业技术服务，并以中国数智化转型最佳实践服务全球。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 804,
+        "stageName": "B轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区联创中心1",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "3a1e1bbc362410c21nF-39i8EVFVxI26VvyX",
+        "encryptId": "848c0dcd222fbf1a03V72Nm9FVFY",
+        "encryptUserId": "7f88206e6dff74421Hx73Nq5GVU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "java技术支持",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.286709,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.019271,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bf798e8712b3bc28f801882fec9f2792466bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责\n1.负责技术支持工作， 针对客户使用中存在的问题进行分析，提出快速有效的解决方案。\n2.独立与客户、产研等多团队合作，合理拉通资源响应客户诉求，完成BUG分析、优化与对客沟通\n3.攥写所负责产品线的知识库文档，对内部人员和客户进行产品培训和技术交流。\n\n\n任职要求\n1. 计算机软件、网络等相关专业，本科及以上学历。\n2.一年以上开发工作经验\n3.至少学习过一门编程语言，有基础的代码逻辑，能看懂基础代码\n4.具有较强的逻辑思维及良好的沟通协调能力，有系统化思考、解决问题的意识和能力，有对客解决问题的丰富经验优先。\n5.有协同办公/即时通讯软件软件行业经验优先\n6.会接口调用工具Fiddler/postman优先",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-8K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "云计算经验",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240423/48ba41acc9cef1bf3a9603f52a6a8a19a7cc50b87e2d64876bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ez5RvAZwJ8gwx-t1YkOuH-FmZURYQzI7wxbS2FOAfa7M8rIS3YqufZ1yeogHggL6CClBNCZdqaiJH-gb7fq8hGHBlQivW_Coh-CB4aWfJjw0U5uoIf7xijE32r8txjQ9ImwKtC44KF4Ql9y7S9BcTzqLEg-fG4i2O0Yn9Tos6r1Y5gNCXN_bUous-1arEQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

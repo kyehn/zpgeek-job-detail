@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ktnOnTMXenqwQ-41P2Eavt7Y9aKYS17RTytPq9VsObrn1_WJAE0qIKKjoMi21IB1oRSZO6Ceb88sgam9ThVqD3inP-3sn93JGcubMyFkvWKvrRHfGWfrI0YfJGQtvbgXez5DQV8ShkwwHU5dN4OGGuy1tGggbQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e9d2a482c997d18203R-0tu9FlNU",
-      "encryptUserId": "982525c35bbbba5c0nR_3dm-FFtW",
-      "invalidStatus": false,
-      "jobName": "ESD测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责测试ESD测试；\n2.负责与客户讨论测试方案。\n\n任职要求：\n1.大专及以上学历；\n2.有一年以上经验。",
-      "encryptAddressId": "a19151cea2123bc21nV-0tW_E1Q~",
-      "address": "上海浦东新区张江集电港·科技领袖之都(西块)张东路1388号2幢01室",
-      "longitude": 121.630528,
-      "latitude": 31.217651,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cb0d56377ca4c2acc8fe95bdba1006d",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a33f7e88053bd76ec52a4329d85d77a",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ESD"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "HR",
-      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=d159b396e5356d6fjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9bnHV0sol8t4s7HgXsybVmNeT3e5cE5eu8CjgpaV0B8XBa-v6mEnIdH-C2DRc9ko9ISFrhy_xY_1lMAIG2hiIuB3cUok-eI8jtwA~~&radius=15",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "聚跃检测",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "38233676eff147051nZ_3N2-GVU~",
-      "brandName": "聚跃检测",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201118/312bc328967bbe238183be3b525f08d461728feda5ff45c27ce22cfabcd225df_s.jpg",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101405,
-      "industryName": "半导体/芯片",
-      "introduce": "上海聚跃检测技术有限公司2012年成立于上海漕河泾开发区。是一家专业的IC集成电路检测公共技术服务平台，为IC设计公司、科研院所以及半导体工厂等客户提供快速且专业的芯片检测分析服务，包括化性服务、芯片线路修补、失效分析、竞争力分析、快速封装、静电测试、可靠性验证等测试服务。目前聚跃检测依托上海为中心，设有浦东总部和浦西实验室，立足上海，分别在北京、深圳、合肥、成都设有分部，形成“东、西、南、北、中”中国区全覆盖。",
-      "labels": [
-        "年终奖",
-        "员工旅游",
-        "节日福利",
-        "年度调薪",
-        "员工宿舍"
-      ],
-      "activeTime": 1734082739904,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "聚跃检测",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "聚跃检测",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=d159b396e5356d6fjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9bnHV0sol8t4s7HgXsybVmNeT3e5cE5eu8CjgpaV0B8XBa-v6mEnIdH-C2DRc9ko9ISFrhy_xY_1lMAIG2hiIuB3cUok-eI8jtwA~~&radius=15",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1734082739904,
+        "brandName": "聚跃检测",
+        "customerBrandName": "聚跃检测",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "38233676eff147051nZ_3N2-GVU~",
+        "focusBrand": false,
+        "industry": 101405,
+        "industryName": "半导体/芯片",
+        "introduce": "上海聚跃检测技术有限公司2012年成立于上海漕河泾开发区。是一家专业的IC集成电路检测公共技术服务平台，为IC设计公司、科研院所以及半导体工厂等客户提供快速且专业的芯片检测分析服务，包括化性服务、芯片线路修补、失效分析、竞争力分析、快速封装、静电测试、可靠性验证等测试服务。目前聚跃检测依托上海为中心，设有浦东总部和浦西实验室，立足上海，分别在北京、深圳、合肥、成都设有分部，形成“东、西、南、北、中”中国区全覆盖。",
+        "labels": [
+            "年终奖",
+            "员工旅游",
+            "节日福利",
+            "年度调薪",
+            "员工宿舍"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201118/312bc328967bbe238183be3b525f08d461728feda5ff45c27ce22cfabcd225df_s.jpg",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区张江集电港·科技领袖之都(西块)张东路1388号2幢01室",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "a19151cea2123bc21nV-0tW_E1Q~",
+        "encryptId": "e9d2a482c997d18203R-0tu9FlNU",
+        "encryptUserId": "982525c35bbbba5c0nR_3dm-FFtW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "ESD测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.217651,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.630528,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a33f7e88053bd76ec52a4329d85d77a",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1.负责测试ESD测试；\n2.负责与客户讨论测试方案。\n\n任职要求：\n1.大专及以上学历；\n2.有一年以上经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K·13薪",
+        "showSkills": [
+            "ESD"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cb0d56377ca4c2acc8fe95bdba1006d"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ktnOnTMXenqwQ-41P2Eavt7Y9aKYS17RTytPq9VsObrn1_WJAE0qIKKjoMi21IB1oRSZO6Ceb88sgam9ThVqD3inP-3sn93JGcubMyFkvWKvrRHfGWfrI0YfJGQtvbgXez5DQV8ShkwwHU5dN4OGGuy1tGggbQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

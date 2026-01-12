@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8oH8LulnyYHHX-41cpyFfaOTCL6txNSsQPnKJhOovTa_9h7u0NxFuEbfdtdnC2bdaSpVvTaXyQS8_lXQkpfNTkFAXKVIShdHGTlDc_tF7iR0ghdXwTbi",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d96d16f2e97613181X162d--ElBT",
-      "encryptUserId": "5a59f3ab2d07a2b60n1729W8EVRU",
-      "invalidStatus": false,
-      "jobName": "废气、水质在线监测运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责企业废气在线监测系统、水质在线监测日常运维工作；\n2、负责现场勘查及与业主和环保局的沟通；\n3、督办相应各项工作资料，并对资料进行审核。\n任职资格：\n1、大专及以上学历，环境工程、环境科学类相关专业；\n2、熟悉废气、水质在线监测运维，有运维证以及经验者优先；\n3、有较强的技术协调能力，具有能够随时处理现场突发事件的能力，熟练使用办公软件；\n4、工作积极上进，做事有计划有原则，具有良好的团队合作精神，具有良好的纪律性。\n工作时间：8:30-17:30",
-      "encryptAddressId": "0890513f2bd487a233Fz2920GVs~",
-      "address": "广州白云区恒聚建材城4号楼201",
-      "longitude": 113.297665,
-      "latitude": 23.327117,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f27b18cbb9fe5effb5cbb0113dd2f9e",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92f3dfd12b1cac63bda9501ecebd59d2",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "废气、水质在线监测"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "白先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "广州中业环保科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "07b1bfb11865ba941XJ53ti7GVU~",
-      "brandName": "广州中业环保科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725297301043,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "广州中业环保科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "广州中业环保科技",
+        "certificated": true,
+        "large": null,
+        "name": "白先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725297301043,
+        "brandName": "广州中业环保科技",
+        "customerBrandName": "广州中业环保科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "07b1bfb11865ba941XJ53ti7GVU~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州白云区恒聚建材城4号楼201",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "0890513f2bd487a233Fz2920GVs~",
+        "encryptId": "d96d16f2e97613181X162d--ElBT",
+        "encryptUserId": "5a59f3ab2d07a2b60n1729W8EVRU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "废气、水质在线监测运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.327117,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.297665,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92f3dfd12b1cac63bda9501ecebd59d2",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责企业废气在线监测系统、水质在线监测日常运维工作；\n2、负责现场勘查及与业主和环保局的沟通；\n3、督办相应各项工作资料，并对资料进行审核。\n任职资格：\n1、大专及以上学历，环境工程、环境科学类相关专业；\n2、熟悉废气、水质在线监测运维，有运维证以及经验者优先；\n3、有较强的技术协调能力，具有能够随时处理现场突发事件的能力，熟练使用办公软件；\n4、工作积极上进，做事有计划有原则，具有良好的团队合作精神，具有良好的纪律性。\n工作时间：8:30-17:30",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "废气、水质在线监测"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f27b18cbb9fe5effb5cbb0113dd2f9e"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8oH8LulnyYHHX-41cpyFfaOTCL6txNSsQPnKJhOovTa_9h7u0NxFuEbfdtdnC2bdaSpVvTaXyQS8_lXQkpfNTkFAXKVIShdHGTlDc_tF7iR0ghdXwTbi",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Xcdxap75gs-1F-21HNOOoNSLLyzx6PNw9Jn0e56vUVSQ8STGXttKflSu4Q1stOZ2PkDla1tR44H2UgWW4WwIjN0bjY1ozKsUK2Qxnkz1aavxMv1xBuqz-0RwZCWzo-Qb_ECuVUydttgKmywVpD82ubtSPuhRvg~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "2f3b5f2ae40264bf03Rz3di8ElZW",
-      "encryptUserId": "d8be98c0285603600nZ-3tW7EldQ",
-      "invalidStatus": false,
-      "jobName": "it助理",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责网络系统维护，包括防火墙、路由器、交换机、网络接口、AP、VLAN划分及IP分配等，保障公司网络正常、安全运行；\n2.负责信息化设备的安装与维护，包括服务器、打印机、考勤、门禁、监控设备等，确保硬件系统正常运行；\n3.负责监控系统、考勤系统、门禁系统的日常运维支持，保障系统的正常运行；\n4.协助IT设备选型并进行费用预算控制,建立和维护公司信息化资源台账及调配记录；\n5.协助用户解决日常工作中遇到的网络、硬件、业务应用系统使用、数据安全等问题；\n6.负责完成公司领导交办的其他任务。\n\n\n任职要求：\n1、大专及以上学历，信息技术、软件工程、网络工程、通信电子等相关专业；\n2、熟练配置和维护主流网络设备，如路由器、防火墙、交换机，AC，AP；\n3、熟练使用Windows操作系统，对linux、数据库知识有一定的了解；\n4、责任心强，具有独立分析、解决问题的能力；\n5、学习能力、沟通能力强，有一定的文档编写能力。\n6、优秀应届生亦可。",
-      "encryptAddressId": "7ae9cfefb3b28d7e1nJ_09u6FFtWy4S-U_-d",
-      "address": "成都金堂县甘御兰广场24楼",
-      "longitude": 104.545253,
-      "latitude": 30.720196,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231111/48ba41acc9cef1bf9a5811290d75e95ab8b18cef258ead676bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231111/48ba41acc9cef1bf8aee7d4403021c29cdbe52edbbe816c66bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "网络运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "侯女士",
-      "title": "人力资源",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230703/607f1f3d68754fd05d95a40c3d89439a3fc8490388b2733925792280863c90aa6b4adf23d27_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "甘御兰集团有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "dee1541100c8a0021Xx43d67EFY~",
-      "brandName": "甘御兰集团有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101303,
-      "industryName": "农/林/牧/渔",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1735640071227,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "甘御兰集团有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "甘御兰集团有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "侯女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230703/607f1f3d68754fd05d95a40c3d89439a3fc8490388b2733925792280863c90aa6b4adf23d27_b.jpg",
+        "title": "人力资源"
+    },
+    "brandComInfo": {
+        "activeTime": 1735640071227,
+        "brandName": "甘御兰集团有限公司",
+        "customerBrandName": "甘御兰集团有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "dee1541100c8a0021Xx43d67EFY~",
+        "focusBrand": false,
+        "industry": 101303,
+        "industryName": "农/林/牧/渔",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都金堂县甘御兰广场24楼",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "7ae9cfefb3b28d7e1nJ_09u6FFtWy4S-U_-d",
+        "encryptId": "2f3b5f2ae40264bf03Rz3di8ElZW",
+        "encryptUserId": "d8be98c0285603600nZ-3tW7EldQ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "it助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.720196,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.545253,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231111/48ba41acc9cef1bf8aee7d4403021c29cdbe52edbbe816c66bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.负责网络系统维护，包括防火墙、路由器、交换机、网络接口、AP、VLAN划分及IP分配等，保障公司网络正常、安全运行；\n2.负责信息化设备的安装与维护，包括服务器、打印机、考勤、门禁、监控设备等，确保硬件系统正常运行；\n3.负责监控系统、考勤系统、门禁系统的日常运维支持，保障系统的正常运行；\n4.协助IT设备选型并进行费用预算控制,建立和维护公司信息化资源台账及调配记录；\n5.协助用户解决日常工作中遇到的网络、硬件、业务应用系统使用、数据安全等问题；\n6.负责完成公司领导交办的其他任务。\n\n\n任职要求：\n1、大专及以上学历，信息技术、软件工程、网络工程、通信电子等相关专业；\n2、熟练配置和维护主流网络设备，如路由器、防火墙、交换机，AC，AP；\n3、熟练使用Windows操作系统，对linux、数据库知识有一定的了解；\n4、责任心强，具有独立分析、解决问题的能力；\n5、学习能力、沟通能力强，有一定的文档编写能力。\n6、优秀应届生亦可。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "网络运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231111/48ba41acc9cef1bf9a5811290d75e95ab8b18cef258ead676bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Xcdxap75gs-1F-21HNOOoNSLLyzx6PNw9Jn0e56vUVSQ8STGXttKflSu4Q1stOZ2PkDla1tR44H2UgWW4WwIjN0bjY1ozKsUK2Qxnkz1aavxMv1xBuqz-0RwZCWzo-Qb_ECuVUydttgKmywVpD82ubtSPuhRvg~~",
+    "selfAccess": false,
+    "sessionId": null
 }

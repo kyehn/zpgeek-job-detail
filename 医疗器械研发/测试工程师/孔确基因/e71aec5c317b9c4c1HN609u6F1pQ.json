@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zJO6PFzb3bRTo-71rY00QvW_SMooG1Hbz9SBDz8bRmBo48Fw67uhz-qB-MzmB-2AM4hPpCmFxL5UQOOu6JKf293q2Nkte4nszDRQlWjy5GmcPSgW1ZQ~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e71aec5c317b9c4c1HN609u6F1pQ",
-      "encryptUserId": "c088005176e639a21X162tW9GVY~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 210105,
-      "positionName": "医疗器械研发",
-      "location": 101270100,
-      "locationName": "成都",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责纳米孔测序仪的集成测试及数据收集；\n2.根据不同需求分析数据并汇总反馈；\n3.主要负责纳米孔测序仪研发中微流控等相关测试工作；",
-      "encryptAddressId": "dc044431fcec732f03J82d-9F1ZUx4y4Uf8~",
-      "address": "成都武侯区大合仓·星商界501",
-      "longitude": 104.008368,
-      "latitude": 30.625786,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bfb28009f36443ef7707e604047d1f89996bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bff690cf5101ac2bf0654e15c7fa36284a6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "化学专业",
-        "体外诊断试剂",
-        "医学专业",
-        "生物专业",
-        "系统"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何先生",
-      "title": "副总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "孔确基因",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3e99d5ee85b2fa231HZ82t26GVs~",
-      "brandName": "孔确基因",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725313124887,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "孔确基因",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "孔确基因",
+        "certificated": true,
+        "large": null,
+        "name": "何先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "副总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1725313124887,
+        "brandName": "孔确基因",
+        "customerBrandName": "孔确基因",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3e99d5ee85b2fa231HZ82t26GVs~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "成都武侯区大合仓·星商界501",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "dc044431fcec732f03J82d-9F1ZUx4y4Uf8~",
+        "encryptId": "e71aec5c317b9c4c1HN609u6F1pQ",
+        "encryptUserId": "c088005176e639a21X162tW9GVY~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.625786,
+        "location": 101270100,
+        "locationName": "成都",
+        "longitude": 104.008368,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bff690cf5101ac2bf0654e15c7fa36284a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 210105,
+        "positionName": "医疗器械研发",
+        "postDescription": "1.负责纳米孔测序仪的集成测试及数据收集；\n2.根据不同需求分析数据并汇总反馈；\n3.主要负责纳米孔测序仪研发中微流控等相关测试工作；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "化学专业",
+            "体外诊断试剂",
+            "医学专业",
+            "生物专业",
+            "系统"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bfb28009f36443ef7707e604047d1f89996bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zJO6PFzb3bRTo-71rY00QvW_SMooG1Hbz9SBDz8bRmBo48Fw67uhz-qB-MzmB-2AM4hPpCmFxL5UQOOu6JKf293q2Nkte4nszDRQlWjy5GmcPSgW1ZQ~",
+    "selfAccess": false,
+    "sessionId": null
 }

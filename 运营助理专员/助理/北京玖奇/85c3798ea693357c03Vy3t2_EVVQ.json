@@ -1,99 +1,95 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "21j1rRKsMdMbh-s1i4ty58xpQpuUuWdonETeyasBBQI0g9xzLq2mTIgVN_y9-7JqpuG4twb0MF-i8jlKJRxw039LGIDxDGxPB5b_oXGG3WBcM3oHUSGdCkODj4CTz7qchLw~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "85c3798ea693357c03Vy3t2_EVVQ",
-      "encryptUserId": "df5f26b9166021001nZ4292-EVNT",
-      "invalidStatus": false,
-      "jobName": "助理",
-      "position": 130118,
-      "positionName": "运营助理/专员",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "1.负责公司内容产品的整理，包括内容梳理，模板管理，包装等运营工作； \n2.制定产品运营计划，并推动计划顺利实施； \n3.结合市场需要，整理产品内容，提炼产品特征、卖点； \n4.统计运营数据并分析，优化运营方案； \n5.渠道方沟通； \n6.图书资料整理；\n6.工作时间：早九晚六，周六日双休，法定假日正常休",
-      "encryptAddressId": "26429cbc592dc7c61nx529S5ElJUxY26VvKc",
-      "address": "北京朝阳区中国铁建国际城·乐想汇3号楼1621",
-      "longitude": 116.43823,
-      "latitude": 40.049945,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230826/48ba41acc9cef1bfa83201f562c667f8033bfb237ea66de86bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230826/48ba41acc9cef1bfd9ca2e236b775d05c7eb288f8104a0216bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250218/48ba41acc9cef1bf0ed53e845f1eb295eb723217cc4f324d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250218/48ba41acc9cef1bf69838909b1f55c870b3a3146f6fbda536bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "内容运营"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200813/c0eb9e9c13b82afb7cc74ae7405bc17faad42ef2bc5ae8b56d2c522099c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "北京玖奇",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6139eaaafcd72e981n173dy8EVc~",
-      "brandName": "北京玖奇",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100304,
-      "industryName": "学术/科研",
-      "introduce": "",
-      "labels": [
-        "五险一金",
-        "员工旅游",
-        "节日福利"
-      ],
-      "activeTime": 1739867588851,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "北京玖奇",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "北京玖奇",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200813/c0eb9e9c13b82afb7cc74ae7405bc17faad42ef2bc5ae8b56d2c522099c_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1739867588851,
+        "brandName": "北京玖奇",
+        "customerBrandName": "北京玖奇",
+        "customerBrandStageName": "",
+        "encryptBrandId": "6139eaaafcd72e981n173dy8EVc~",
+        "focusBrand": false,
+        "industry": 100304,
+        "industryName": "学术/科研",
+        "introduce": "",
+        "labels": [
+            "五险一金",
+            "员工旅游",
+            "节日福利"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区中国铁建国际城·乐想汇3号楼1621",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250218/48ba41acc9cef1bf69838909b1f55c870b3a3146f6fbda536bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20250218/48ba41acc9cef1bf0ed53e845f1eb295eb723217cc4f324d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "26429cbc592dc7c61nx529S5ElJUxY26VvKc",
+        "encryptId": "85c3798ea693357c03Vy3t2_EVVQ",
+        "encryptUserId": "df5f26b9166021001nZ4292-EVNT",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "助理",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 40.049945,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.43823,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230826/48ba41acc9cef1bfd9ca2e236b775d05c7eb288f8104a0216bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 130118,
+        "positionName": "运营助理/专员",
+        "postDescription": "1.负责公司内容产品的整理，包括内容梳理，模板管理，包装等运营工作； \n2.制定产品运营计划，并推动计划顺利实施； \n3.结合市场需要，整理产品内容，提炼产品特征、卖点； \n4.统计运营数据并分析，优化运营方案； \n5.渠道方沟通； \n6.图书资料整理；\n6.工作时间：早九晚六，周六日双休，法定假日正常休",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "内容运营"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230826/48ba41acc9cef1bfa83201f562c667f8033bfb237ea66de86bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "21j1rRKsMdMbh-s1i4ty58xpQpuUuWdonETeyasBBQI0g9xzLq2mTIgVN_y9-7JqpuG4twb0MF-i8jlKJRxw039LGIDxDGxPB5b_oXGG3WBcM3oHUSGdCkODj4CTz7qchLw~",
+    "selfAccess": false,
+    "sessionId": null
 }

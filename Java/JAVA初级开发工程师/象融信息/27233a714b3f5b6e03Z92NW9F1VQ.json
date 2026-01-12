@@ -1,94 +1,94 @@
 {
-  "appendixInfo": {
-    "canFeedback": false,
-    "chatBubble": null
-  },
-  "atsOnlineApplyInfo": {
-    "inviteType": 0,
-    "alreadyApply": false
-  },
-  "bossInfo": {
-    "name": "李先生",
-    "title": "招聘者",
-    "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-    "large": null,
-    "activeTimeDesc": "今日活跃",
-    "bossOnline": false,
-    "brandName": "象融信息",
-    "bossSource": 0,
-    "certificated": true,
-    "tagIconUrl": null,
-    "avatarStickerUrl": null
-  },
-  "brandComInfo": {
-    "encryptBrandId": "4bad88d18bd0bb0c1HF909i0GA~~",
-    "brandName": "象融信息",
-    "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-    "stage": 0,
-    "stageName": "",
-    "scale": 302,
-    "scaleName": "20-99人",
-    "industry": 100021,
-    "industryName": "计算机软件",
-    "introduce": "",
-    "labels": [],
-    "activeTime": 1742985695693,
-    "visibleBrandInfo": true,
-    "focusBrand": false,
-    "customerBrandName": "象融信息",
-    "customerBrandStageName": ""
-  },
-  "handicappedInfo": null,
-  "jobInfo": {
-    "encryptId": "27233a714b3f5b6e03Z92NW9F1VQ",
-    "encryptUserId": "ffaa1be692b2b0291nZ62dy-FVdQ",
-    "invalidStatus": false,
-    "jobName": "Java初级开发工程师",
-    "position": 100101,
-    "positionName": "Java",
-    "location": 101020100,
-    "locationName": "上海",
-    "experienceName": "1年以内",
-    "degreeName": "本科",
-    "jobType": 0,
-    "proxyJob": 0,
-    "proxyType": 0,
-    "salaryDesc": "5-9K",
-    "payTypeDesc": null,
-    "postDescription": "1、计算机相关专业，本科及以上学历 2、具有半年或一年以上BPM系统、ERP系统，工作流等相关项目开发经验 3、熟悉java语言，熟悉BS结构开发\n\n4、熟悉HTML5/CSS3，JavaScript，Ajax等Web开发技术\n\n5、熟悉Oracle、SQL server等主流数据库系统，能独立编写存储过程、触发器、函数等\n\n6、具有良好的团队意识，具有较强的团队合作精神\n7、有过数据库SQL优化经验\n8、具有主流BPM、OA 等企业管理软件开发经验者优先考虑",
-    "encryptAddressId": "5a127bfbf2a03e781n153Ni8F1pQw4m9UfyZ",
-    "address": "上海徐汇区桂中园(桂平路)604",
-    "longitude": 121.402379,
-    "latitude": 31.168712,
-    "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf19e7218437d41fa7a20cd6f756653a126bb61e3b7bce0931da574d19d1d82c88.jpg",
-    "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfd317bb624f975210e7e24c3a8eaa3bd96bb61e3b7bce0931da574d19d1d82c88.jpg",
-    "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241223/48ba41acc9cef1bffc999ef9836f151a54bd9059ce529e636bb61e3b7bce0931da574d19d1d82c88.png.webp",
-    "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241223/48ba41acc9cef1bfb15b781403ee7e70f174a1d0a92668546bb61e3b7bce0931da574d19d1d82c88.png.webp",
-    "overseasAddressList": [],
-    "overseasInfo": null,
-    "showSkills": [
-      "团队管理经验",
-      "PostgreSQL",
-      "MySQL",
-      "Oracle"
-    ],
-    "anonymous": 0,
-    "jobStatusDesc": "最新"
-  },
-  "lid": "",
-  "oneKeyResumeInfo": {
-    "inviteType": 0,
-    "alreadySend": false,
-    "canSendResume": false,
-    "canSendPhone": false,
-    "canSendWechat": false
-  },
-  "pageType": 0,
-  "relationInfo": {
-    "interestJob": false,
-    "beFriend": false
-  },
-  "securityId": "86ad4fyeCDYvW-e1qgqVFzkt7jG85o9cy8KEGOd0Ep-QkesufnA6MER6CZ_gFupfqxyglYChxYN986eLX5-UZ3L5ndRfcmhSqsg215WmI27_pwm83UzWmZIVTattnFzNH6KCFT3o7ETvljROPL6zKPcitHj8",
-  "selfAccess": false,
-  "sessionId": null
+    "appendixInfo": {
+        "canFeedback": false,
+        "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "象融信息",
+        "certificated": true,
+        "large": null,
+        "name": "李先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1742985695693,
+        "brandName": "象融信息",
+        "customerBrandName": "象融信息",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4bad88d18bd0bb0c1HF909i0GA~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区桂中园(桂平路)604",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241223/48ba41acc9cef1bfb15b781403ee7e70f174a1d0a92668546bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "baiduStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20241223/48ba41acc9cef1bffc999ef9836f151a54bd9059ce529e636bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "degreeName": "本科",
+        "encryptAddressId": "5a127bfbf2a03e781n153Ni8F1pQw4m9UfyZ",
+        "encryptId": "27233a714b3f5b6e03Z92NW9F1VQ",
+        "encryptUserId": "ffaa1be692b2b0291nZ62dy-FVdQ",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "Java初级开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.168712,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.402379,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfd317bb624f975210e7e24c3a8eaa3bd96bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、计算机相关专业，本科及以上学历 2、具有半年或一年以上BPM系统、ERP系统，工作流等相关项目开发经验 3、熟悉java语言，熟悉BS结构开发\n\n4、熟悉HTML5/CSS3，JavaScript，Ajax等Web开发技术\n\n5、熟悉Oracle、SQL server等主流数据库系统，能独立编写存储过程、触发器、函数等\n\n6、具有良好的团队意识，具有较强的团队合作精神\n7、有过数据库SQL优化经验\n8、具有主流BPM、OA 等企业管理软件开发经验者优先考虑",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-9K",
+        "showSkills": [
+            "团队管理经验",
+            "PostgreSQL",
+            "MySQL",
+            "Oracle"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf19e7218437d41fa7a20cd6f756653a126bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "86ad4fyeCDYvW-e1qgqVFzkt7jG85o9cy8KEGOd0Ep-QkesufnA6MER6CZ_gFupfqxyglYChxYN986eLX5-UZ3L5ndRfcmhSqsg215WmI27_pwm83UzWmZIVTattnFzNH6KCFT3o7ETvljROPL6zKPcitHj8",
+    "selfAccess": false,
+    "sessionId": null
 }

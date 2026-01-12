@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZTrFEaE9md7AQ-P1_u_3T3nI_WxBgR2mrcuaDoPmHgxCPisWbYbkFypijgX8S_hUWBRJghDw4KRAmJk6Ln3ji2bq5oYySA7LSfiNo_UTXq_b3XiHyYWxzkh4mHjqioK3yYRMacQpcxYirkbPpZIe8C3GG_QLfw~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ff8d962f1063e0b003Vz3d6-FVtX",
-      "encryptUserId": "8a7cf58188ef74880n1439u1EVVY",
-      "invalidStatus": false,
-      "jobName": "Java中级开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-14K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责我司公安业务系统开发、调试、部署与技术支持。\n2、配合与支持运维团队分析并解决系统生产运行中的问题。\n任职要求：\n1、有扎实的Java基础\n2、熟悉Spring全家桶，mybatis等，对redis,kafaka,es等中间件使用有一定的了解。\n3、精通SQL语言，熟练使用MySQL。\n4、了解Nginx、Tomcat等应用服务器的部署和配置；\n5、了解Linux操作系统常用命令；\n6、做事严谨踏实，责任心强，条理清楚，善于学习总结，有良好的团队合作精神和沟通协调能力，能长期稳定工作与成长；",
-      "encryptAddressId": "3c07aa91f55be92d0Xx60tW8ElNRxYW2UPw~",
-      "address": "北京海淀区品恩科技北京市海淀区丰秀中路3号院11号楼1层",
-      "longitude": 116.236259,
-      "latitude": 40.074178,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bfd9e48e34d291973e65e71103f8ab1b766bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bfc23b1bc795c82da0d8bca5e295fe5a056bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MyBatis",
-        "Redis",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "伊女士",
-      "title": "人力专员",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "合肥品恩",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a80ba3e1e20270241XJ_39u1FlI~",
-      "brandName": "合肥品恩",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1741333958799,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "合肥品恩",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "合肥品恩",
+        "certificated": true,
+        "large": null,
+        "name": "伊女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+        "title": "人力专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1741333958799,
+        "brandName": "合肥品恩",
+        "customerBrandName": "合肥品恩",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a80ba3e1e20270241XJ_39u1FlI~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京海淀区品恩科技北京市海淀区丰秀中路3号院11号楼1层",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "3c07aa91f55be92d0Xx60tW8ElNRxYW2UPw~",
+        "encryptId": "ff8d962f1063e0b003Vz3d6-FVtX",
+        "encryptUserId": "8a7cf58188ef74880n1439u1EVVY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java中级开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 40.074178,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.236259,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bfc23b1bc795c82da0d8bca5e295fe5a056bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "岗位职责：\n1、负责我司公安业务系统开发、调试、部署与技术支持。\n2、配合与支持运维团队分析并解决系统生产运行中的问题。\n任职要求：\n1、有扎实的Java基础\n2、熟悉Spring全家桶，mybatis等，对redis,kafaka,es等中间件使用有一定的了解。\n3、精通SQL语言，熟练使用MySQL。\n4、了解Nginx、Tomcat等应用服务器的部署和配置；\n5、了解Linux操作系统常用命令；\n6、做事严谨踏实，责任心强，条理清楚，善于学习总结，有良好的团队合作精神和沟通协调能力，能长期稳定工作与成长；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-14K",
+        "showSkills": [
+            "Java",
+            "MyBatis",
+            "Redis",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bfd9e48e34d291973e65e71103f8ab1b766bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZTrFEaE9md7AQ-P1_u_3T3nI_WxBgR2mrcuaDoPmHgxCPisWbYbkFypijgX8S_hUWBRJghDw4KRAmJk6Ln3ji2bq5oYySA7LSfiNo_UTXq_b3XiHyYWxzkh4mHjqioK3yYRMacQpcxYirkbPpZIe8C3GG_QLfw~~",
+    "selfAccess": false,
+    "sessionId": null
 }

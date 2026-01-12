@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "UMGsDLibu2Aco-61UFezk5duwH2mU-JU72Ou0doewZ-zungloYPOtuukpajvmXO4LRDG-zD41nXBuKmzeVkZPiMdSbr8A-p8Z5V4y0y-WkayYipcGCA_TnBG2Shgs1J_geGNonU9m41iQjs~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "72eb3af743537f951H1_2t61GFpR",
-      "encryptUserId": "0be28d4302ac65ab0nN43ty-F1FX",
-      "invalidStatus": false,
-      "jobName": "软件开发工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责: \n1.负责公司的沙盒/虚拟机程序的开发\n2.处理开发过程中遇到的技术问题\n3.与硬件工程师配合完成公司产品的开发\n\n任职要求: \n1.熟悉c/c++/c#中的一种，具备良好的编程习惯\n2.具备从0-1完成项目和独立工作的能力\n3.善于合作交流",
-      "encryptAddressId": "e209474edbaa5cd233N42di8FVVYy4W_UPo~",
-      "address": "杭州余杭区欧美金融城(EFC)T4-2204",
-      "longitude": 120.002985,
-      "latitude": 30.28106,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf2102f0468f0cf7e2b43b68b1146c78136bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bfe7063c327404dcec1a342668c361b2f26bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C#",
-        "C++",
-        "C",
-        "QT"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "周先生",
-      "title": "hr",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230719/607f1f3d68754fd0aef77d766b20641041b1fb0d4be266ddd703c46f451c1924278dd93b3abe96b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "杭州视向科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "1dd4af786a07adb71HZ509W9FFc~",
-      "brandName": "杭州视向科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100015,
-      "industryName": "企业服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730106021833,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州视向科技有限公司",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州视向科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "周先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230719/607f1f3d68754fd0aef77d766b20641041b1fb0d4be266ddd703c46f451c1924278dd93b3abe96b_b.jpg",
+        "title": "hr"
+    },
+    "brandComInfo": {
+        "activeTime": 1730106021833,
+        "brandName": "杭州视向科技有限公司",
+        "customerBrandName": "杭州视向科技有限公司",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "1dd4af786a07adb71HZ509W9FFc~",
+        "focusBrand": false,
+        "industry": 100015,
+        "industryName": "企业服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区欧美金融城(EFC)T4-2204",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e209474edbaa5cd233N42di8FVVYy4W_UPo~",
+        "encryptId": "72eb3af743537f951H1_2t61GFpR",
+        "encryptUserId": "0be28d4302ac65ab0nN43ty-F1FX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件开发工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.28106,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.002985,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bfe7063c327404dcec1a342668c361b2f26bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "岗位职责: \n1.负责公司的沙盒/虚拟机程序的开发\n2.处理开发过程中遇到的技术问题\n3.与硬件工程师配合完成公司产品的开发\n\n任职要求: \n1.熟悉c/c++/c#中的一种，具备良好的编程习惯\n2.具备从0-1完成项目和独立工作的能力\n3.善于合作交流",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "C#",
+            "C++",
+            "C",
+            "QT"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf2102f0468f0cf7e2b43b68b1146c78136bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "UMGsDLibu2Aco-61UFezk5duwH2mU-JU72Ou0doewZ-zungloYPOtuukpajvmXO4LRDG-zD41nXBuKmzeVkZPiMdSbr8A-p8Z5V4y0y-WkayYipcGCA_TnBG2Shgs1J_geGNonU9m41iQjs~",
+    "selfAccess": false,
+    "sessionId": null
 }

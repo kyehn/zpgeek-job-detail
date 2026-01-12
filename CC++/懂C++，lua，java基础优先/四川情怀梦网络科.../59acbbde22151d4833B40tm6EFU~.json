@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "165n6pPs5QhE3-T1FuMi2PL3PSjdBiqJ8Iv5JmG2ak7ohZAl3eimQyIO7tM7ahZ_PZESJUuUNBiDuWVpCe_FuvuP-Ld6kaPPC-yIMbyxHVs4RSe9bTHXzxZKtOUfRiLQ1Ev7ec2ASHj1MEsJIwU07AE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "59acbbde22151d4833B40tm6EFU~",
-      "encryptUserId": "c6a8da84b9a2791d1nV-3tS-E1RU",
-      "invalidStatus": false,
-      "jobName": "懂C++，lua，java基础优先",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101271800,
-      "locationName": "广元",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-4K",
-      "payTypeDesc": null,
-      "postDescription": "1：按规定完成任务\n2：思想灵活\n3：吃苦耐劳\n会独立思考，懂基本逻辑完成脚本",
-      "encryptAddressId": "c51547545d8947851HV82ty4F1o~",
-      "address": "广元利州区每日维多利亚温泉社区",
-      "longitude": 105.811784,
-      "latitude": 32.419474,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9143f09dae93b81fc8d7f60c4a9efe13",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a5958266e12787165fec44b5256cfb8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Lua",
-        "C#",
-        "Java"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201118/a774091d92f44ebaf06eb6f6ab9fce42fb490f8c930eb1298d12533421e_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "四川情怀梦网络科...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "901839572173752f1nVy2dm0FlQ~",
-      "brandName": "四川情怀梦网络科...",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1724737611337,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "四川情怀梦网络科...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "四川情怀梦网络科...",
+        "certificated": true,
+        "large": null,
+        "name": "何先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201118/a774091d92f44ebaf06eb6f6ab9fce42fb490f8c930eb1298d12533421e_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1724737611337,
+        "brandName": "四川情怀梦网络科...",
+        "customerBrandName": "四川情怀梦网络科...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "901839572173752f1nVy2dm0FlQ~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广元利州区每日维多利亚温泉社区",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c51547545d8947851HV82ty4F1o~",
+        "encryptId": "59acbbde22151d4833B40tm6EFU~",
+        "encryptUserId": "c6a8da84b9a2791d1nV-3tS-E1RU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "懂C++，lua，java基础优先",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.419474,
+        "location": 101271800,
+        "locationName": "广元",
+        "longitude": 105.811784,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a5958266e12787165fec44b5256cfb8",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1：按规定完成任务\n2：思想灵活\n3：吃苦耐劳\n会独立思考，懂基本逻辑完成脚本",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-4K",
+        "showSkills": [
+            "Lua",
+            "C#",
+            "Java"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9143f09dae93b81fc8d7f60c4a9efe13"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "165n6pPs5QhE3-T1FuMi2PL3PSjdBiqJ8Iv5JmG2ak7ohZAl3eimQyIO7tM7ahZ_PZESJUuUNBiDuWVpCe_FuvuP-Ld6kaPPC-yIMbyxHVs4RSe9bTHXzxZKtOUfRiLQ1Ev7ec2ASHj1MEsJIwU07AE~",
+    "selfAccess": false,
+    "sessionId": null
 }

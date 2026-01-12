@@ -1,102 +1,98 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "16lLf9M60AGbj-J11sFGkCyGKLJnDa1lNOPUSczSa1fBOccgaiUsbhwB-m4zSlg29Wb-1rxbVqiyaxB3zmwwTUVLr52J88AyXmJShvQMNVrBzHhd-A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "09af63e22db63fe51XZ53dm6FlVV",
-      "encryptUserId": "39b62d6a976fb2c80n1839W-EFc~",
-      "invalidStatus": false,
-      "jobName": "嵌入式软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责\n1负责公司硬件产品的嵌入式软件设计；\n2负责量产版本固件发布和管控；\n3参与硬件方案选型、样品模块测试以及样机制作；\n4配合硬件工程师分析设备问题；\n5现有版本维护和升级。\n\n任职需求\n1全日制本科学历，电子、通信工程、自动化及相关专业；\n2两年及以上工作经历；\n3扎实的C语言编程功底，对嵌入式体系有清晰认知；\n4熟练使用Cortex-M3、M4内核的主流MCU进行程序设计；\n5熟练使用万用表、示波器、逻辑分析仪等工具进行调试；\n6有智能穿戴类、IMU惯性传感器相关产品开发经验优先；\n7加分项：熟悉ADC/DAC，对小信号处理有了解。",
-      "encryptAddressId": "856ba5bdd135c5fb0XR83tm8FVQ~",
-      "address": "广州天河区广州虚拟动力网络技术有限公司一楼",
-      "longitude": 113.344416,
-      "latitude": 23.142747,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa262b6e86018fefde3cc54147f31f28",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61f4b44a6ee7978a599acd34ac330c45",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IMU",
-        "C语言",
-        "Cortex-M3"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "童女士",
-      "title": "HRBP",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240826/607f1f3d68754fd0c6eff1722484e4f84e40ee00301971da5efb834665e968a635d9d9aa682c6ed_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "VIRDYN(虚拟动力)",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ae01b024091b2fcc1nNy2d20Ew~~",
-      "brandName": "VIRDYN(虚拟动力)",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190926/a1fddfa57ec9d988dc500bad939211f62803894ed4ac40788de4c4334364db2e.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "虚拟动力2016年成立于广州，专注于3D虚拟人全生态应用的产品技术开发与服务，自主研发全身动作捕捉、面部表情捕捉、人脸扫描、单目动捕、AI交互等技术底座。迄今已上线多款虚拟人应用软件，提供从硬件设备供应、数字人扫描复刻及建模服务、超写实数字人直播平台、数字人短视频实时渲染平台、数字人AI智能交互平台、定制化技术API开发等不同产品线，为元宇宙应用场景提供全维度技术服务。",
-      "labels": [
-        "节日福利",
-        "零食下午茶",
-        "员工旅游",
-        "带薪年假",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1730803143917,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "VIRDYN(虚拟动力)",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "VIRDYN(虚拟动力)",
+        "certificated": true,
+        "large": null,
+        "name": "童女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240826/607f1f3d68754fd0c6eff1722484e4f84e40ee00301971da5efb834665e968a635d9d9aa682c6ed_b.jpg",
+        "title": "HRBP"
+    },
+    "brandComInfo": {
+        "activeTime": 1730803143917,
+        "brandName": "VIRDYN(虚拟动力)",
+        "customerBrandName": "VIRDYN(虚拟动力)",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "ae01b024091b2fcc1nNy2d20Ew~~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "虚拟动力2016年成立于广州，专注于3D虚拟人全生态应用的产品技术开发与服务，自主研发全身动作捕捉、面部表情捕捉、人脸扫描、单目动捕、AI交互等技术底座。迄今已上线多款虚拟人应用软件，提供从硬件设备供应、数字人扫描复刻及建模服务、超写实数字人直播平台、数字人短视频实时渲染平台、数字人AI智能交互平台、定制化技术API开发等不同产品线，为元宇宙应用场景提供全维度技术服务。",
+        "labels": [
+            "节日福利",
+            "零食下午茶",
+            "员工旅游",
+            "带薪年假",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190926/a1fddfa57ec9d988dc500bad939211f62803894ed4ac40788de4c4334364db2e.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区广州虚拟动力网络技术有限公司一楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "856ba5bdd135c5fb0XR83tm8FVQ~",
+        "encryptId": "09af63e22db63fe51XZ53dm6FlVV",
+        "encryptUserId": "39b62d6a976fb2c80n1839W-EFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "嵌入式软件工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 23.142747,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.344416,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61f4b44a6ee7978a599acd34ac330c45",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "岗位职责\n1负责公司硬件产品的嵌入式软件设计；\n2负责量产版本固件发布和管控；\n3参与硬件方案选型、样品模块测试以及样机制作；\n4配合硬件工程师分析设备问题；\n5现有版本维护和升级。\n\n任职需求\n1全日制本科学历，电子、通信工程、自动化及相关专业；\n2两年及以上工作经历；\n3扎实的C语言编程功底，对嵌入式体系有清晰认知；\n4熟练使用Cortex-M3、M4内核的主流MCU进行程序设计；\n5熟练使用万用表、示波器、逻辑分析仪等工具进行调试；\n6有智能穿戴类、IMU惯性传感器相关产品开发经验优先；\n7加分项：熟悉ADC/DAC，对小信号处理有了解。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K",
+        "showSkills": [
+            "IMU",
+            "C语言",
+            "Cortex-M3"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa262b6e86018fefde3cc54147f31f28"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "16lLf9M60AGbj-J11sFGkCyGKLJnDa1lNOPUSczSa1fBOccgaiUsbhwB-m4zSlg29Wb-1rxbVqiyaxB3zmwwTUVLr52J88AyXmJShvQMNVrBzHhd-A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

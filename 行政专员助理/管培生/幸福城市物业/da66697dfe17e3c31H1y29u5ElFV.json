@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "vuhG816UObIvR-71tiXi7XcISEiu7llp67oC89BN_De8K9OQeNUJTD72wby4VW04d_b8Ua4Ss9SYbBJW9fDEl-7P0z54eitYTlRoJJslN7jE26jF_peZ26FCMZs11N3x",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "da66697dfe17e3c31H1y29u5ElFV",
-      "encryptUserId": "850121fa7e4f14cb0XJ72d6_FA~~",
-      "invalidStatus": false,
-      "jobName": "管培生",
-      "position": 150201,
-      "positionName": "行政专员/助理",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "在校/应届",
-      "degreeName": "大专",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求（应届与实习生）\n服务业类、空乘铁乘专业、财会专业、师范类、文秘类优先\n1、从办公室综合文员岗位开始轮岗培养，晋升路径主管—项目经理—分公司经理—总助\n2，必须具备熟练（Excel表格5张以上表格，函数公式插入，一键数值分析）使用各种办公软件。\n3，自我驱动力强，自我要求高，学习能力强，抗压能力强。",
-      "encryptAddressId": "97485103c1699f851nx42ti5FlE~",
-      "address": "北京朝阳区幸福七和文创园园区",
-      "longitude": 116.556793,
-      "latitude": 39.856746,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7558232d8865e4f1af7e1f68bb59999",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1b56fce43a060c0a5272cf89eea2f35",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "发展空间大"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200902/3dfc711e6cd913df3b5a2ea504588aadfe2a6e80609eb7ac9fbe5db33c8_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "幸福城市物业",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8630d60c973ffb471nxy39q6GVU~",
-      "brandName": "幸福城市物业",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100707,
-      "industryName": "物业管理",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734611824853,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "幸福城市物业",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "幸福城市物业",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200902/3dfc711e6cd913df3b5a2ea504588aadfe2a6e80609eb7ac9fbe5db33c8_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1734611824853,
+        "brandName": "幸福城市物业",
+        "customerBrandName": "幸福城市物业",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8630d60c973ffb471nxy39q6GVU~",
+        "focusBrand": false,
+        "industry": 100707,
+        "industryName": "物业管理",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区幸福七和文创园园区",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "97485103c1699f851nx42ti5FlE~",
+        "encryptId": "da66697dfe17e3c31H1y29u5ElFV",
+        "encryptUserId": "850121fa7e4f14cb0XJ72d6_FA~~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "管培生",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 39.856746,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.556793,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1b56fce43a060c0a5272cf89eea2f35",
+        "position": 150201,
+        "positionName": "行政专员/助理",
+        "postDescription": "任职要求（应届与实习生）\n服务业类、空乘铁乘专业、财会专业、师范类、文秘类优先\n1、从办公室综合文员岗位开始轮岗培养，晋升路径主管—项目经理—分公司经理—总助\n2，必须具备熟练（Excel表格5张以上表格，函数公式插入，一键数值分析）使用各种办公软件。\n3，自我驱动力强，自我要求高，学习能力强，抗压能力强。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "发展空间大"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7558232d8865e4f1af7e1f68bb59999"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "vuhG816UObIvR-71tiXi7XcISEiu7llp67oC89BN_De8K9OQeNUJTD72wby4VW04d_b8Ua4Ss9SYbBJW9fDEl-7P0z54eitYTlRoJJslN7jE26jF_peZ26FCMZs11N3x",
+    "selfAccess": false,
+    "sessionId": null
 }

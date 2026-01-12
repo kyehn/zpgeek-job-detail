@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "CuVhP6kic9YQZ-J1DvQ3_MplybKIcAwmRbo1Feemyv-UdjKIXEq3SvjpfrckUzeL9gBGwP37jYaO54Q-ayGs9w9W07Ev2C_3YvBGgUG9J398zOhx0wNJ_C8Sib6gNv48y7c5jjfOe1L3KW54UmIWhlzI1oXaFJvFm0DJdKRbPsHZoJeJvvk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a3786a62a544fe3c03R42968EVVZ",
-      "encryptUserId": "7877ac849c8668e00nV72dq9EVdS",
-      "invalidStatus": false,
-      "jobName": "运维工程师（雍和宫）",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位内容：驻场在雍和宫，负责客户沟通、数据处理相关工作。\n\n岗位要求：\n1、大专以上学历，计算机相关专业，有运维经验优先。\n2、会sql语句，办公软件操作熟练。",
-      "encryptAddressId": "a64a109df5bdb32e1nF52NW4FVRSwo69V_Ka",
-      "address": "北京东城区雍和大厦雍和大厦",
-      "longitude": 116.420822,
-      "latitude": 39.948655,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb2b76835184127e7835c008537ef8af",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/caefe00a0ca986e295ec7c6c0ec3a564",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "高女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210420/3c24349bc170f85e262abc64073f79628a7dd22e97c71f35a2e301922fa_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "河南禾宇",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0228a33a2a740d201HZ829W5GFs~",
-      "brandName": "河南禾宇",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "河南禾宇信息科技有限公司成立于2024年1月，以软件信息化产品运维服务为主营业务。公司自成立以来，与华宇软件等上市公司深入合作，服务范围涉及北京、河北、湖北、四川，西藏等地。\n禾宇秉承“自强不息，厚德载物”的企业精神，坚持诚信为本的价值观，以“提供专业的技术、优秀的产品和卓越的服务，以信息化创造客户价值”为使命，专注于电子政务领域的软件与信息化运维服务，为客户的信息化系统稳定运行提供高品质的服务。\n公司地址：河南省郑州市金水区农业路东1号东单元8层806号\n联系电话：*************",
-      "labels": [
-        "节日福利"
-      ],
-      "activeTime": 1732587730157,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "河南禾宇",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "河南禾宇",
+        "certificated": true,
+        "large": null,
+        "name": "高女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210420/3c24349bc170f85e262abc64073f79628a7dd22e97c71f35a2e301922fa_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1732587730157,
+        "brandName": "河南禾宇",
+        "customerBrandName": "河南禾宇",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "0228a33a2a740d201HZ829W5GFs~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "河南禾宇信息科技有限公司成立于2024年1月，以软件信息化产品运维服务为主营业务。公司自成立以来，与华宇软件等上市公司深入合作，服务范围涉及北京、河北、湖北、四川，西藏等地。\n禾宇秉承“自强不息，厚德载物”的企业精神，坚持诚信为本的价值观，以“提供专业的技术、优秀的产品和卓越的服务，以信息化创造客户价值”为使命，专注于电子政务领域的软件与信息化运维服务，为客户的信息化系统稳定运行提供高品质的服务。\n公司地址：河南省郑州市金水区农业路东1号东单元8层806号\n联系电话：*************",
+        "labels": [
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京东城区雍和大厦雍和大厦",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "a64a109df5bdb32e1nF52NW4FVRSwo69V_Ka",
+        "encryptId": "a3786a62a544fe3c03R42968EVVZ",
+        "encryptUserId": "7877ac849c8668e00nV72dq9EVdS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师（雍和宫）",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 39.948655,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.420822,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/caefe00a0ca986e295ec7c6c0ec3a564",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位内容：驻场在雍和宫，负责客户沟通、数据处理相关工作。\n\n岗位要求：\n1、大专以上学历，计算机相关专业，有运维经验优先。\n2、会sql语句，办公软件操作熟练。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "实施交付运维",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb2b76835184127e7835c008537ef8af"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "CuVhP6kic9YQZ-J1DvQ3_MplybKIcAwmRbo1Feemyv-UdjKIXEq3SvjpfrckUzeL9gBGwP37jYaO54Q-ayGs9w9W07Ev2C_3YvBGgUG9J398zOhx0wNJ_C8Sib6gNv48y7c5jjfOe1L3KW54UmIWhlzI1oXaFJvFm0DJdKRbPsHZoJeJvvk~",
+    "selfAccess": false,
+    "sessionId": null
 }

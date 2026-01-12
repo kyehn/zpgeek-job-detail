@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "egB1y5byhVcLG-D1uF-o_swUWwLldGUYch8rnjkmMjEHNT4SuecUrrnb3AKr1g8rQ4mPqEt2sAE5UsO2k0tVnUeG8DDjStQvnz4OU9d0EbvV_CtiJKM~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a31eea7811477f4f1Xx729u9ElBU",
-      "encryptUserId": "31479c6abf60e1690HZ92Nq0GFo~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-6K",
-      "payTypeDesc": null,
-      "postDescription": "兼职，兼职，兼职，精通java语言，win窗口前端，oracle，redis等",
-      "encryptAddressId": "c8130a31b5cd37a833x43d29GVU~",
-      "address": "苏州张家港市亨通广场C座1206",
-      "longitude": 120.544476,
-      "latitude": 31.867759,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85544f5f8168f61842bd6838462688ff",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf8ea22265ad46bf51d04d6f45777586",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Java开发经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190814/90a352d58084e695e3a618053739baad16719feb1cd7466ca7e18dedb6c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "江阴市昊阳网络传媒",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "aa546536c3373f991XJ83Nu5F1c~",
-      "brandName": "江阴市昊阳网络传媒",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723993338738,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "江阴市昊阳网络传媒",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "江阴市昊阳网络传媒",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190814/90a352d58084e695e3a618053739baad16719feb1cd7466ca7e18dedb6c_b.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723993338738,
+        "brandName": "江阴市昊阳网络传媒",
+        "customerBrandName": "江阴市昊阳网络传媒",
+        "customerBrandStageName": "",
+        "encryptBrandId": "aa546536c3373f991XJ83Nu5F1c~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州张家港市亨通广场C座1206",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "c8130a31b5cd37a833x43d29GVU~",
+        "encryptId": "a31eea7811477f4f1Xx729u9ElBU",
+        "encryptUserId": "31479c6abf60e1690HZ92Nq0GFo~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.867759,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.544476,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf8ea22265ad46bf51d04d6f45777586",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "兼职，兼职，兼职，精通java语言，win窗口前端，oracle，redis等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-6K",
+        "showSkills": [
+            "Java",
+            "Java开发经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85544f5f8168f61842bd6838462688ff"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "egB1y5byhVcLG-D1uF-o_swUWwLldGUYch8rnjkmMjEHNT4SuecUrrnb3AKr1g8rQ4mPqEt2sAE5UsO2k0tVnUeG8DDjStQvnz4OU9d0EbvV_CtiJKM~",
+    "selfAccess": false,
+    "sessionId": null
 }

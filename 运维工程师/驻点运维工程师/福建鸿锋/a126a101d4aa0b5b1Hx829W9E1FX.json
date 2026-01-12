@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ddj3Jll1TNQlC-y1pDYbOZEbCI7GX9Ad_tDNt-troh470bmF4bDGIsK6COCUpyotFAFz_2S0pzceG2XaL6DuAOYWmWGImPQ26mWjk-QLkBavQIZ_z4ov",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "a126a101d4aa0b5b1Hx829W9E1FX",
-      "encryptUserId": "7252c602cbe9a45d0n1639i7F1VT",
-      "invalidStatus": false,
-      "jobName": "驻点运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101230500,
-      "locationName": "泉州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1. 负责驻点运维工作，完成TMS系统数据治理的日常工作\n2. 及时处理数据字段等的更新维护工作，确保系统整治正常运行\n3. 与团队合作，完成既定的运维任务和目标\n\n任职要求:\n1. 具备良好的沟通能力，能够有效地与团队成员协作\n2. 能够独立完成任务，对工作细节有较强的把控能力\n3. 具有较强的问题解决能力，能够快速应对各种突发状况",
-      "encryptAddressId": "537cd4b6281e9c6933J43ti-F1s~",
-      "address": "泉州丰泽区泉州供电公司调度大楼8楼",
-      "longitude": 118.658535,
-      "latitude": 24.912731,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95fd36d6fe3f861beb734775db3a042b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/812611f86d7c3308da8c931593565dc4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "大数据运维经验",
-        "计算机相关专业",
-        "电子/电气/自动化相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "党先生",
-      "title": "项目工程师",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230331/607f1f3d68754fd0240060913aceae9758a05f862b709c7cd1fc7c2008109de33592f58c8cc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "福建鸿锋",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4391852379cbbc311XZy3tm_GVU~",
-      "brandName": "福建鸿锋",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100024,
-      "industryName": "通信/网络设备",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1731661392000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "福建鸿锋",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "福建鸿锋",
+        "certificated": true,
+        "large": null,
+        "name": "党先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230331/607f1f3d68754fd0240060913aceae9758a05f862b709c7cd1fc7c2008109de33592f58c8cc_b.jpg",
+        "title": "项目工程师"
+    },
+    "brandComInfo": {
+        "activeTime": 1731661392000,
+        "brandName": "福建鸿锋",
+        "customerBrandName": "福建鸿锋",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "4391852379cbbc311XZy3tm_GVU~",
+        "focusBrand": false,
+        "industry": 100024,
+        "industryName": "通信/网络设备",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "泉州丰泽区泉州供电公司调度大楼8楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "537cd4b6281e9c6933J43ti-F1s~",
+        "encryptId": "a126a101d4aa0b5b1Hx829W9E1FX",
+        "encryptUserId": "7252c602cbe9a45d0n1639i7F1VT",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "驻点运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.912731,
+        "location": 101230500,
+        "locationName": "泉州",
+        "longitude": 118.658535,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/812611f86d7c3308da8c931593565dc4",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责:\n1. 负责驻点运维工作，完成TMS系统数据治理的日常工作\n2. 及时处理数据字段等的更新维护工作，确保系统整治正常运行\n3. 与团队合作，完成既定的运维任务和目标\n\n任职要求:\n1. 具备良好的沟通能力，能够有效地与团队成员协作\n2. 能够独立完成任务，对工作细节有较强的把控能力\n3. 具有较强的问题解决能力，能够快速应对各种突发状况",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K·13薪",
+        "showSkills": [
+            "大数据运维经验",
+            "计算机相关专业",
+            "电子/电气/自动化相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95fd36d6fe3f861beb734775db3a042b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ddj3Jll1TNQlC-y1pDYbOZEbCI7GX9Ad_tDNt-troh470bmF4bDGIsK6COCUpyotFAFz_2S0pzceG2XaL6DuAOYWmWGImPQ26mWjk-QLkBavQIZ_z4ov",
+    "selfAccess": false,
+    "sessionId": null
 }

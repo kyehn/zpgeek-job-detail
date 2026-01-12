@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7O2M-XuAskbUG-l1dVDQYp0LD1lpPpQz0HPEXQTsbzN97cs67_epPiDFp9xTgKjXJwst2Ca3kp4Uctm__jnBKM5Njqj13bHn55Gv8wA2cTF3aeStc7QYPN__OZ3DiqVcAsRojcquZ44b",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f021fe81d8fbf0e61X1-3dy9GVVR",
-      "encryptUserId": "09fbf12e1fa0957603d82N68Flc~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司自有项目期间的驻场运维工作（非外包），包括日常巡检及文档编写工作等；\n2、负责系统运行保障与故障排查，能够独立解决相关的技术问题；\n3、遵循甲方公司、相关行业，以及公司各项制度，严格按照工作流程执行;\n4、负责项目要求的其它任务。\n\n\n任职要求：\n1、***统招本科及以上学历，计算机相关专业，3年工作经验以上，优秀者可放宽；\n2、掌握TCP/IP网络通信基本原理，熟悉Linux操作系统及相关运维技术；\n3、熟练掌握虚拟化技术（kvm、docker），实际管理运维过服务器虚拟化高可用集群；\n4、了解Redis、MySQL、ES、Postgreql等主流数据存储方案，并有实际运维经验；\n5、熟练使用office办公软件，编制汇总故障、问题，提供运行报告及改进方案；\n6、信息安全及保密意识强，有较强的沟通协调能力及高度责任心；\n7、具有一定的系统运维经验，思维敏捷、故障诊断及独立处理能力强；\n8、吃苦耐劳，有上进心，具备团队合作精神，性格开朗，拥有良好的沟通能力、良好的服务意识及协作精神\n9、另有测绘、遥感、地理相关专业的工作经验者和相关运维证书者优先。",
-      "encryptAddressId": "ea2012f94de74ccf3n1-0tS9FVM~",
-      "address": "西安雁塔区中国地震局科技大楼地震局家属院附近",
-      "longitude": 108.983227,
-      "latitude": 34.225976,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230702/48ba41acc9cef1bf702437a1e6841012f7caceec4283bec66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230702/48ba41acc9cef1bfea701a26f283a950687a992a25138a956bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施交付运维",
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事行政经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "星球时空",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ed52ef0ca260e19b1XB40tq7EA~~",
-      "brandName": "星球时空",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731664861847,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "星球时空",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "星球时空",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人事行政经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731664861847,
+        "brandName": "星球时空",
+        "customerBrandName": "星球时空",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ed52ef0ca260e19b1XB40tq7EA~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区中国地震局科技大楼地震局家属院附近",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ea2012f94de74ccf3n1-0tS9FVM~",
+        "encryptId": "f021fe81d8fbf0e61X1-3dy9GVVR",
+        "encryptUserId": "09fbf12e1fa0957603d82N68Flc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.225976,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.983227,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230702/48ba41acc9cef1bfea701a26f283a950687a992a25138a956bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责公司自有项目期间的驻场运维工作（非外包），包括日常巡检及文档编写工作等；\n2、负责系统运行保障与故障排查，能够独立解决相关的技术问题；\n3、遵循甲方公司、相关行业，以及公司各项制度，严格按照工作流程执行;\n4、负责项目要求的其它任务。\n\n\n任职要求：\n1、***统招本科及以上学历，计算机相关专业，3年工作经验以上，优秀者可放宽；\n2、掌握TCP/IP网络通信基本原理，熟悉Linux操作系统及相关运维技术；\n3、熟练掌握虚拟化技术（kvm、docker），实际管理运维过服务器虚拟化高可用集群；\n4、了解Redis、MySQL、ES、Postgreql等主流数据存储方案，并有实际运维经验；\n5、熟练使用office办公软件，编制汇总故障、问题，提供运行报告及改进方案；\n6、信息安全及保密意识强，有较强的沟通协调能力及高度责任心；\n7、具有一定的系统运维经验，思维敏捷、故障诊断及独立处理能力强；\n8、吃苦耐劳，有上进心，具备团队合作精神，性格开朗，拥有良好的沟通能力、良好的服务意识及协作精神\n9、另有测绘、遥感、地理相关专业的工作经验者和相关运维证书者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "实施交付运维",
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230702/48ba41acc9cef1bf702437a1e6841012f7caceec4283bec66bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7O2M-XuAskbUG-l1dVDQYp0LD1lpPpQz0HPEXQTsbzN97cs67_epPiDFp9xTgKjXJwst2Ca3kp4Uctm__jnBKM5Njqj13bHn55Gv8wA2cTF3aeStc7QYPN__OZ3DiqVcAsRojcquZ44b",
+    "selfAccess": false,
+    "sessionId": null
 }

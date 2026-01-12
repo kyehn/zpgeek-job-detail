@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "1YgWgI9OUpBrf-G1Quc-5uvefOc0vQM8KnuEPCst9A4IvxQvvbJXq4FfpVuNqrXGrbW1fMPMqo4NQwlCS142iP0Tqzmb74f1-B1JgnlG_lxRhgbo0A~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6999b3e204d696dc33B50tW5ElQ~",
-      "encryptUserId": "c2f14790a1345e161nV-3dq_EVZW",
-      "invalidStatus": false,
-      "jobName": "给排水工程师",
-      "position": 220214,
-      "positionName": "给排水工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "诚招市政给排水设计师，应届或者工作1~3年的都可以。",
-      "encryptAddressId": "a013b3fc2c85f1101HV82N67EVc~",
-      "address": "杭州西湖区优盘时代中心1号楼1708",
-      "longitude": 120.100345,
-      "latitude": 30.300541,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebda98c997ea4b0dce4956e17b868ff3",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d73a5c7bdf102fe41b0d73214cb27aab",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "给排水设计师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "市政设计负责人",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "中都杭州公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ac4b92e3a78019823nR42NS4Fw~~",
-      "brandName": "中都杭州公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100703,
-      "industryName": "建筑设计",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725358340526,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "中都杭州公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "中都杭州公司",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "市政设计负责人"
+    },
+    "brandComInfo": {
+        "activeTime": 1725358340526,
+        "brandName": "中都杭州公司",
+        "customerBrandName": "中都杭州公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "ac4b92e3a78019823nR42NS4Fw~~",
+        "focusBrand": false,
+        "industry": 100703,
+        "industryName": "建筑设计",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州西湖区优盘时代中心1号楼1708",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "a013b3fc2c85f1101HV82N67EVc~",
+        "encryptId": "6999b3e204d696dc33B50tW5ElQ~",
+        "encryptUserId": "c2f14790a1345e161nV-3dq_EVZW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "给排水工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.300541,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.100345,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d73a5c7bdf102fe41b0d73214cb27aab",
+        "position": 220214,
+        "positionName": "给排水工程师",
+        "postDescription": "诚招市政给排水设计师，应届或者工作1~3年的都可以。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "给排水设计师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebda98c997ea4b0dce4956e17b868ff3"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "1YgWgI9OUpBrf-G1Quc-5uvefOc0vQM8KnuEPCst9A4IvxQvvbJXq4FfpVuNqrXGrbW1fMPMqo4NQwlCS142iP0Tqzmb74f1-B1JgnlG_lxRhgbo0A~~",
+    "selfAccess": false,
+    "sessionId": null
 }

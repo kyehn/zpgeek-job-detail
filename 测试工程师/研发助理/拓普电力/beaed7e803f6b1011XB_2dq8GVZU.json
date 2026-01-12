@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "dY6ojz2vxShEN-I17hExnyAY_bCsuz8e4eQm3O1-NZKs2GPij7_RUq0NU61H4ME1eOladr9i5Ya9VBnpriKszNqm78Mux4hhQz59HtkHlXf3XMmmpgk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "beaed7e803f6b1011XB_2dq8GVZU",
-      "encryptUserId": "b9251bb5ea4cf36f0XR_3t29FFY~",
-      "invalidStatus": false,
-      "jobName": "研发助理",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责完成研发工程师交代的跟进事宜，及时反馈真实情况。\n2、协助研发工程师准备样品、测试、数据收集、资料归档。\n3、定期或不定期向研发工程师报告所属项目进展跟踪情况。\n4、为研发工程师参加的会议准备相应资料。\n5、负责按时、保质完成研发跟进，必要时与关联部门有效沟通。\n6、完成上级领导授权交办的任务。",
-      "encryptAddressId": "f6711524ca2d5e9633N939i8GA~~",
-      "address": "北京大兴区拓普电力(北京)有限公司科绘未来产业园3号楼",
-      "longitude": 116.451808,
-      "latitude": 39.748594,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6bf96c3d7e68f16b5967eb791fba065",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c34f41485722067093871d6a642274ec",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王女士",
-      "title": "人事专员HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220901/607f1f3d68754fd0cf419a5d137ff48a0c59085999a7fbb26715a4bb7f2e530996824d8d1d6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "拓普电力",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "31c0ecf466b525521nF52Ni4GFI~",
-      "brandName": "拓普电力",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101211,
-      "industryName": "风电",
-      "introduce": "",
-      "labels": [
-        "交通补助",
-        "生日福利",
-        "节日福利",
-        "通讯补贴",
-        "免费工装",
-        "团建聚餐",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1725615996542,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "拓普电力",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "拓普电力",
+        "certificated": true,
+        "large": null,
+        "name": "王女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220901/607f1f3d68754fd0cf419a5d137ff48a0c59085999a7fbb26715a4bb7f2e530996824d8d1d6_b.jpg",
+        "title": "人事专员HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1725615996542,
+        "brandName": "拓普电力",
+        "customerBrandName": "拓普电力",
+        "customerBrandStageName": "",
+        "encryptBrandId": "31c0ecf466b525521nF52Ni4GFI~",
+        "focusBrand": false,
+        "industry": 101211,
+        "industryName": "风电",
+        "introduce": "",
+        "labels": [
+            "交通补助",
+            "生日福利",
+            "节日福利",
+            "通讯补贴",
+            "免费工装",
+            "团建聚餐",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "绩效奖金",
+            "年终奖",
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京大兴区拓普电力(北京)有限公司科绘未来产业园3号楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "f6711524ca2d5e9633N939i8GA~~",
+        "encryptId": "beaed7e803f6b1011XB_2dq8GVZU",
+        "encryptUserId": "b9251bb5ea4cf36f0XR_3t29FFY~",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "研发助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 39.748594,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.451808,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c34f41485722067093871d6a642274ec",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1、负责完成研发工程师交代的跟进事宜，及时反馈真实情况。\n2、协助研发工程师准备样品、测试、数据收集、资料归档。\n3、定期或不定期向研发工程师报告所属项目进展跟踪情况。\n4、为研发工程师参加的会议准备相应资料。\n5、负责按时、保质完成研发跟进，必要时与关联部门有效沟通。\n6、完成上级领导授权交办的任务。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6bf96c3d7e68f16b5967eb791fba065"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "dY6ojz2vxShEN-I17hExnyAY_bCsuz8e4eQm3O1-NZKs2GPij7_RUq0NU61H4ME1eOladr9i5Ya9VBnpriKszNqm78Mux4hhQz59HtkHlXf3XMmmpgk~",
+    "selfAccess": false,
+    "sessionId": null
 }

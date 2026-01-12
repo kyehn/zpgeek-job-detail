@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "DxAJvjFC7kbK0-V1uwWdykal2ieVK-cC55wZs8qM_FoE7lSZyNdpwTO8CO07Edy4EQ47T6Oj04SJ1UMjhdb0-Cqc2jekDc_LXeV2l69wfHd-IrAO99el",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9fbf0e6fa038cfb41Hx739u_GFVZ",
-      "encryptUserId": "8749d8533f08d02c0nN43Nq9ElBY",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100802,
-      "positionName": "嵌入式软件工程师",
-      "location": 101110900,
-      "locationName": "宝鸡",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "1.本科及以上学历，电子信息计算机领域，仪器仪表领域；\n2.熟悉单片机开发，ARM开发；\n3.两年及以上嵌入式系统应用软件开发经验；\n4.熟练掌握嵌入式系统编程和嵌入式系统；\n5.熟悉嵌入式操作系统freertos；\n6、积极向上，对工作积极认真负责，责任心\n强，能承受一定的工作压力，有较强的英文资料阅读能力；\n7、具有良好的沟通能力和团队合作意识，具备良好的口头表达能力和文档编写能力；\n8、参与新技术的研究，并能引入到产品开发中。",
-      "encryptAddressId": "fe171d2cd5984cd13nF63dW1FlpWwoy6VvM~",
-      "address": "宝鸡渭滨区陕西航天导航设备有限公司(宝鸡惠生医院东)大祺传感",
-      "longitude": 107.156407,
-      "latitude": 34.34835,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bfbf98a93624a0846a16ffc848bc3dde9c6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230919/48ba41acc9cef1bffd5d48853a3a160e08feca949f6e1fca6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "C"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邵女士",
-      "title": "人力资源",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "陕西大祺传感电子科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cf6b115d4ba7d8731HF-3Nq4E1o~",
-      "brandName": "陕西大祺传感电子科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101401,
-      "industryName": "智能硬件/消费电子",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729859352932,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "陕西大祺传感电子科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "陕西大祺传感电子科技",
+        "certificated": true,
+        "large": null,
+        "name": "邵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+        "title": "人力资源"
+    },
+    "brandComInfo": {
+        "activeTime": 1729859352932,
+        "brandName": "陕西大祺传感电子科技",
+        "customerBrandName": "陕西大祺传感电子科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cf6b115d4ba7d8731HF-3Nq4E1o~",
+        "focusBrand": false,
+        "industry": 101401,
+        "industryName": "智能硬件/消费电子",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宝鸡渭滨区陕西航天导航设备有限公司(宝鸡惠生医院东)大祺传感",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "fe171d2cd5984cd13nF63dW1FlpWwoy6VvM~",
+        "encryptId": "9fbf0e6fa038cfb41Hx739u_GFVZ",
+        "encryptUserId": "8749d8533f08d02c0nN43Nq9ElBY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.34835,
+        "location": 101110900,
+        "locationName": "宝鸡",
+        "longitude": 107.156407,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230919/48ba41acc9cef1bffd5d48853a3a160e08feca949f6e1fca6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100802,
+        "positionName": "嵌入式软件工程师",
+        "postDescription": "1.本科及以上学历，电子信息计算机领域，仪器仪表领域；\n2.熟悉单片机开发，ARM开发；\n3.两年及以上嵌入式系统应用软件开发经验；\n4.熟练掌握嵌入式系统编程和嵌入式系统；\n5.熟悉嵌入式操作系统freertos；\n6、积极向上，对工作积极认真负责，责任心\n强，能承受一定的工作压力，有较强的英文资料阅读能力；\n7、具有良好的沟通能力和团队合作意识，具备良好的口头表达能力和文档编写能力；\n8、参与新技术的研究，并能引入到产品开发中。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "C"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bfbf98a93624a0846a16ffc848bc3dde9c6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "DxAJvjFC7kbK0-V1uwWdykal2ieVK-cC55wZs8qM_FoE7lSZyNdpwTO8CO07Edy4EQ47T6Oj04SJ1UMjhdb0-Cqc2jekDc_LXeV2l69wfHd-IrAO99el",
+    "selfAccess": false,
+    "sessionId": null
 }

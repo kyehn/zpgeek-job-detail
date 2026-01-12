@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "PwRFD8b7MHh4G-B1ts7i3WbgEkEf5sToWJ4_SLOMeU5iU5jQWKtQZoO6ivr-Abt-9eTHs0dX7Zml5HoGEuu3PnqVET-41sRhptTu7zFVA9K9pYR4Qz0d",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "037ff5fd1da9323b1nBy3N27FVtX",
-      "encryptUserId": "84ea5f61817d54aa0nZy2d68ElVR",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101190800,
-      "locationName": "徐州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位职责\n1、负责项目实施过程中调研、收集、整理客户的需求资料，协助编制系统需求分析说明书；\n2、辅助项目经理进行具体实施工作的推进，管控项目实施进程，并控制客户需求及变更的管理等；\n3、负责项目的质量掌控、参与软件的测试、客户培训、系统上线辅导、验收等相关实施工作；\n4、负责对软件本身使用问题的解决；\n5、负责客户在软件使用过程中遇到业务问题的咨询工作。\n \n任职资格:\n1、计算机类及相关专业大专以上学历；具有一年以上工作经验； \n2、较强的自学能力，可承受较强的工作压力；\n3、了解J2EE、.net、java等常用开发语言； \n4、熟悉Oracle、SQL SERVER等数据库，熟悉windows、Linux操作系统；\n5、熟悉java web中间件tomcat、weblogic、webshere等;\n5、较好的文档编写能力，熟练使用word、ppt等文档工具； \n6、良好的服务意识，较强的理解能力、分析能力以及接受能力。  \n7、具备良好的表达沟通能力； \n8、有审计、财政、地税等行业软件实施经验的优先；",
-      "encryptAddressId": "1ccae58779c254e303B73966E1c~",
-      "address": "徐州泉山区开发大厦(王陵路)309室",
-      "longitude": 117.184191,
-      "latitude": 34.256165,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32acfd8f8af2bcdf8a53a36f5f69b3e2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/faac30ca5595d10a552bbbff218f0101",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "实施工程师/顾问"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈女士",
-      "title": "主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210419/ca0df2e39d6f32adff52266b9199d2476c88a809823cb8b762731e6a1f9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "徐州嘉吉信息科技...",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a3733063aaa346761nF929y8FVQ~",
-      "brandName": "徐州嘉吉信息科技...",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100016,
-      "industryName": "信息安全",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722149773199,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "徐州嘉吉信息科技...",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "徐州嘉吉信息科技...",
+        "certificated": true,
+        "large": null,
+        "name": "陈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210419/ca0df2e39d6f32adff52266b9199d2476c88a809823cb8b762731e6a1f9_b.jpg",
+        "title": "主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1722149773199,
+        "brandName": "徐州嘉吉信息科技...",
+        "customerBrandName": "徐州嘉吉信息科技...",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a3733063aaa346761nF929y8FVQ~",
+        "focusBrand": false,
+        "industry": 100016,
+        "industryName": "信息安全",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "徐州泉山区开发大厦(王陵路)309室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "1ccae58779c254e303B73966E1c~",
+        "encryptId": "037ff5fd1da9323b1nBy3N27FVtX",
+        "encryptUserId": "84ea5f61817d54aa0nZy2d68ElVR",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.256165,
+        "location": 101190800,
+        "locationName": "徐州",
+        "longitude": 117.184191,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/faac30ca5595d10a552bbbff218f0101",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "一、岗位职责\n1、负责项目实施过程中调研、收集、整理客户的需求资料，协助编制系统需求分析说明书；\n2、辅助项目经理进行具体实施工作的推进，管控项目实施进程，并控制客户需求及变更的管理等；\n3、负责项目的质量掌控、参与软件的测试、客户培训、系统上线辅导、验收等相关实施工作；\n4、负责对软件本身使用问题的解决；\n5、负责客户在软件使用过程中遇到业务问题的咨询工作。\n \n任职资格:\n1、计算机类及相关专业大专以上学历；具有一年以上工作经验； \n2、较强的自学能力，可承受较强的工作压力；\n3、了解J2EE、.net、java等常用开发语言； \n4、熟悉Oracle、SQL SERVER等数据库，熟悉windows、Linux操作系统；\n5、熟悉java web中间件tomcat、weblogic、webshere等;\n5、较好的文档编写能力，熟练使用word、ppt等文档工具； \n6、良好的服务意识，较强的理解能力、分析能力以及接受能力。  \n7、具备良好的表达沟通能力； \n8、有审计、财政、地税等行业软件实施经验的优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "实施工程师/顾问"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32acfd8f8af2bcdf8a53a36f5f69b3e2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "PwRFD8b7MHh4G-B1ts7i3WbgEkEf5sToWJ4_SLOMeU5iU5jQWKtQZoO6ivr-Abt-9eTHs0dX7Zml5HoGEuu3PnqVET-41sRhptTu7zFVA9K9pYR4Qz0d",
+    "selfAccess": false,
+    "sessionId": null
 }

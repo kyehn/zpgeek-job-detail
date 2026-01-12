@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "MNMHrIoHkjUkJ-u1qsm3v-Zw-AVH1G7ITiYZXU_CuJcPuLEEE4ntjCKiq4ebICcE0Ons5U-EYPu9r-1yK9NoWGgLjZCvcIggR2ksknDvKUAeUu-7uB-_JJktaE_hrOg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1cc187034e4a42d00HZy2d24FVQ~",
-      "encryptUserId": "64295cdb2bec8b1703N82tq7GVc~",
-      "invalidStatus": false,
-      "jobName": "动力运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101211100,
-      "locationName": "舟山",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位名称：动力运维工程师\n二、工作内容：负责动力设备（高低压开关设备、变压器及交直流电源屏等设备）的维护、维修等工作。\n三、岗位要求：\n1、45周岁以下，大专及以上学历；\n2、具备独立完成动力专业维修工作技能，2年以上相关工作经验，有电工证；\n3、熟练掌握常用办公软件，有团队管理经验者优先。\n四、薪酬待遇：6K-9K（根据能力而定，具体面谈），缴纳五险，高温补贴，加班补贴，入职一年后享受定期体检、年休假、生日福利、年终奖等福利。",
-      "encryptAddressId": "65e2531af9812abe1X172Nq0GFQ~",
-      "address": "舟山定海区中国联通有限公司(舟山分公司)",
-      "longitude": 122.12954,
-      "latitude": 30.013839,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c4ca63f69cee320617daced6edd89c4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82050585be0203ab0fb4f63fae858c49",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电气工程师",
-        "动力运维工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200220/12a07769e579e20a1f617624cffe56b1913165249cb1b77fca0ee34f502_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "鱼道到",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "cfac1b33ad0c70b50HJy2du4FQ~~",
-      "brandName": "鱼道到",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 101106,
-      "industryName": "其他生活服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1730579940207,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鱼道到",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鱼道到",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200220/12a07769e579e20a1f617624cffe56b1913165249cb1b77fca0ee34f502_b.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1730579940207,
+        "brandName": "鱼道到",
+        "customerBrandName": "鱼道到",
+        "customerBrandStageName": "",
+        "encryptBrandId": "cfac1b33ad0c70b50HJy2du4FQ~~",
+        "focusBrand": false,
+        "industry": 101106,
+        "industryName": "其他生活服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "舟山定海区中国联通有限公司(舟山分公司)",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "65e2531af9812abe1X172Nq0GFQ~",
+        "encryptId": "1cc187034e4a42d00HZy2d24FVQ~",
+        "encryptUserId": "64295cdb2bec8b1703N82tq7GVc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "动力运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.013839,
+        "location": 101211100,
+        "locationName": "舟山",
+        "longitude": 122.12954,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82050585be0203ab0fb4f63fae858c49",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "一、岗位名称：动力运维工程师\n二、工作内容：负责动力设备（高低压开关设备、变压器及交直流电源屏等设备）的维护、维修等工作。\n三、岗位要求：\n1、45周岁以下，大专及以上学历；\n2、具备独立完成动力专业维修工作技能，2年以上相关工作经验，有电工证；\n3、熟练掌握常用办公软件，有团队管理经验者优先。\n四、薪酬待遇：6K-9K（根据能力而定，具体面谈），缴纳五险，高温补贴，加班补贴，入职一年后享受定期体检、年休假、生日福利、年终奖等福利。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K",
+        "showSkills": [
+            "电气工程师",
+            "动力运维工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c4ca63f69cee320617daced6edd89c4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "MNMHrIoHkjUkJ-u1qsm3v-Zw-AVH1G7ITiYZXU_CuJcPuLEEE4ntjCKiq4ebICcE0Ons5U-EYPu9r-1yK9NoWGgLjZCvcIggR2ksknDvKUAeUu-7uB-_JJktaE_hrOg~",
+    "selfAccess": false,
+    "sessionId": null
 }

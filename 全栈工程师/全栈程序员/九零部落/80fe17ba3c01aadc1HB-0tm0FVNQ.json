@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "QweSFI_2mJ4eN-y17neot7-ekViQkOah-QIO1gx15sZFSV0i0soW0q-dlS9Mwxb8Ew7v6_6w0amf6PtJn8U3hRUJDTmEFY6pC4DvCE0NHAnTISEthQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "80fe17ba3c01aadc1HB-0tm0FVNQ",
-      "encryptUserId": "309984118d3052790nd62dm4EFU~",
-      "invalidStatus": false,
-      "jobName": "全栈程序员",
-      "position": 100123,
-      "positionName": "全栈工程师",
-      "location": 101040100,
-      "locationName": "重庆",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-5K",
-      "payTypeDesc": null,
-      "postDescription": "熟悉后端，熟悉前端。",
-      "encryptAddressId": "3ab14000d62884680nd709q4FFY~",
-      "address": "重庆南岸区重庆九零部落网络科技有限公司19楼",
-      "longitude": 106.586304,
-      "latitude": 29.537029,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35c7e1b450a20835bd33f58e39ff17c5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24f0abec42342e869320a5b9cbfb3dc8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Vue",
-        "PHP"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "合伙人",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190620/139fc7bec91360c773f3509ce6ac25cabda7d68cbbfe92a8d69fda4ff85_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "九零部落",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "65f861f49b0641301HB40tq1Fg~~",
-      "brandName": "九零部落",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190903/4aec4fee1efe1a4e011a0aea2247731cbda7d68cbbfe92a8d69fda4ff852753b.png",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100019,
-      "industryName": "移动互联网",
-      "introduce": "一站式互联网服务，提供软硬件配套研发",
-      "labels": [
-        "全勤奖",
-        "带薪年假",
-        "员工旅游"
-      ],
-      "activeTime": 1721464795456,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "九零部落",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "九零部落",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190620/139fc7bec91360c773f3509ce6ac25cabda7d68cbbfe92a8d69fda4ff85_b.jpg",
+        "title": "合伙人"
+    },
+    "brandComInfo": {
+        "activeTime": 1721464795456,
+        "brandName": "九零部落",
+        "customerBrandName": "九零部落",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "65f861f49b0641301HB40tq1Fg~~",
+        "focusBrand": false,
+        "industry": 100019,
+        "industryName": "移动互联网",
+        "introduce": "一站式互联网服务，提供软硬件配套研发",
+        "labels": [
+            "全勤奖",
+            "带薪年假",
+            "员工旅游"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190903/4aec4fee1efe1a4e011a0aea2247731cbda7d68cbbfe92a8d69fda4ff852753b.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "重庆南岸区重庆九零部落网络科技有限公司19楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3ab14000d62884680nd709q4FFY~",
+        "encryptId": "80fe17ba3c01aadc1HB-0tm0FVNQ",
+        "encryptUserId": "309984118d3052790nd62dm4EFU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "全栈程序员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.537029,
+        "location": 101040100,
+        "locationName": "重庆",
+        "longitude": 106.586304,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24f0abec42342e869320a5b9cbfb3dc8",
+        "position": 100123,
+        "positionName": "全栈工程师",
+        "postDescription": "熟悉后端，熟悉前端。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-5K",
+        "showSkills": [
+            "Vue",
+            "PHP"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35c7e1b450a20835bd33f58e39ff17c5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "QweSFI_2mJ4eN-y17neot7-ekViQkOah-QIO1gx15sZFSV0i0soW0q-dlS9Mwxb8Ew7v6_6w0amf6PtJn8U3hRUJDTmEFY6pC4DvCE0NHAnTISEthQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

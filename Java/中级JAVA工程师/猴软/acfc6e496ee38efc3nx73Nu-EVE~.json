@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZOsi-VkY5O7nP-u1okUpmW3fqfHOthzNBM3JZMpxiAdrZHyxIhbq20UcI9CGyd8NBZztCOLhwz0AXxXrKRFCpX6ZUNlZQhF7-x9H28_5PzKIryUA",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "acfc6e496ee38efc3nx73Nu-EVE~",
-      "encryptUserId": "b8ab33c57c72d55a0nd-2dm7GVo~",
-      "invalidStatus": false,
-      "jobName": "中级Java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K",
-      "payTypeDesc": null,
-      "postDescription": "职责描述：\n1、对所担当模块的业务需求进行独立分析；\n2、根据业务需求，进行开发，测试，部署；\n\n职位要求：\n1、熟悉SSM框架；\n2、熟悉MySQL；\n3、必须有实际的JSP项目经验；\n4、有实际的JeeSite项目经验者优先；",
-      "encryptAddressId": "5293f664436dfab61Hdy39u9Els~",
-      "address": "苏州苏州盈合工具有限公司工业园区淞北路45号8号楼",
-      "longitude": 120.799763,
-      "latitude": 31.296983,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/71f32cca59275eb8c9445ef083cec317",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f27810ed810db851797bd7b773eaf24",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SSM"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐先生",
-      "title": "后端架构师",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "猴软",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f7b02c86a0bbc43f33Z_29u7EQ~~",
-      "brandName": "猴软",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200901/5867c99f5de13fba119d62b29c624c2badc7de7fa958af1af032e149dfe1e7d5_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1719116905210,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "猴软",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "猴软",
+        "certificated": true,
+        "large": null,
+        "name": "徐先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+        "title": "后端架构师"
+    },
+    "brandComInfo": {
+        "activeTime": 1719116905210,
+        "brandName": "猴软",
+        "customerBrandName": "猴软",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "f7b02c86a0bbc43f33Z_29u7EQ~~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200901/5867c99f5de13fba119d62b29c624c2badc7de7fa958af1af032e149dfe1e7d5_s.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州苏州盈合工具有限公司工业园区淞北路45号8号楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "5293f664436dfab61Hdy39u9Els~",
+        "encryptId": "acfc6e496ee38efc3nx73Nu-EVE~",
+        "encryptUserId": "b8ab33c57c72d55a0nd-2dm7GVo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "中级Java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.296983,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.799763,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f27810ed810db851797bd7b773eaf24",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "职责描述：\n1、对所担当模块的业务需求进行独立分析；\n2、根据业务需求，进行开发，测试，部署；\n\n职位要求：\n1、熟悉SSM框架；\n2、熟悉MySQL；\n3、必须有实际的JSP项目经验；\n4、有实际的JeeSite项目经验者优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K",
+        "showSkills": [
+            "SSM"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/71f32cca59275eb8c9445ef083cec317"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZOsi-VkY5O7nP-u1okUpmW3fqfHOthzNBM3JZMpxiAdrZHyxIhbq20UcI9CGyd8NBZztCOLhwz0AXxXrKRFCpX6ZUNlZQhF7-x9H28_5PzKIryUA",
+    "selfAccess": false,
+    "sessionId": null
 }

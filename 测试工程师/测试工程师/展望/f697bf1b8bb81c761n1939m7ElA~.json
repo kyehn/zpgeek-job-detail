@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "sINELEU4wLAPp-M11WrpUDEf3NeCeEb2OAdl_iyxX19QmG60zAULpENv5b9hdsba97QMyRFKZmMItsdgBnDdAThhPZNiL6GY1d8qcHwk2oLG_d-X",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f697bf1b8bb81c761n1939m7ElA~",
-      "encryptUserId": "4babb7f68f93ad451HBy0t29E1o~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101270400,
-      "locationName": "绵阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-5K",
-      "payTypeDesc": null,
-      "postDescription": "了解学习公司的软硬件产品，\n负责成品的功能和软件测试。",
-      "encryptAddressId": "f62d245ce1afa2ae0H163t-7GA~~",
-      "address": "绵阳涪城区金阳公寓1501",
-      "longitude": 104.738202,
-      "latitude": 31.459476,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfc65626d31d134f8accf9f5aad8f227",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8640c235c770f6c6db6126151de37fb7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "硬件测试",
-        "功能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "包女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "展望",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ab414df669939f091nF62964GQ~~",
-      "brandName": "展望",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180504/daf79cdea9ef3db1f9086f943a4dbdd262dc46a598e2ff3b14f963fd54224254.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100018,
-      "industryName": "智能硬件",
-      "introduce": "展望机电自动化有限公司是是一家致力为国内外广大用户提供工业自动化产品，自动化系统集成以及特殊技术解决方案和服务的技术研发型公司，总部位于四川省南充市，在四川绵阳设有办事处，四川成都分公司位于双流区空港四路2666号",
-      "labels": [],
-      "activeTime": 1723018634553,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "展望",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "展望",
+        "certificated": true,
+        "large": null,
+        "name": "包女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1723018634553,
+        "brandName": "展望",
+        "customerBrandName": "展望",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "ab414df669939f091nF62964GQ~~",
+        "focusBrand": false,
+        "industry": 100018,
+        "industryName": "智能硬件",
+        "introduce": "展望机电自动化有限公司是是一家致力为国内外广大用户提供工业自动化产品，自动化系统集成以及特殊技术解决方案和服务的技术研发型公司，总部位于四川省南充市，在四川绵阳设有办事处，四川成都分公司位于双流区空港四路2666号",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180504/daf79cdea9ef3db1f9086f943a4dbdd262dc46a598e2ff3b14f963fd54224254.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "绵阳涪城区金阳公寓1501",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "f62d245ce1afa2ae0H163t-7GA~~",
+        "encryptId": "f697bf1b8bb81c761n1939m7ElA~",
+        "encryptUserId": "4babb7f68f93ad451HBy0t29E1o~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.459476,
+        "location": 101270400,
+        "locationName": "绵阳",
+        "longitude": 104.738202,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8640c235c770f6c6db6126151de37fb7",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "了解学习公司的软硬件产品，\n负责成品的功能和软件测试。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-5K",
+        "showSkills": [
+            "软件测试",
+            "硬件测试",
+            "功能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfc65626d31d134f8accf9f5aad8f227"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "sINELEU4wLAPp-M11WrpUDEf3NeCeEb2OAdl_iyxX19QmG60zAULpENv5b9hdsba97QMyRFKZmMItsdgBnDdAThhPZNiL6GY1d8qcHwk2oLG_d-X",
+    "selfAccess": false,
+    "sessionId": null
 }

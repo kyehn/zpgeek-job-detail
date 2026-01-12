@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZQca89pUrCsam-H1BZaupOv1HjQbejeklJkyPULDo0RJajxfjYSPLbbjNwABSghFOmCavvrGBIG3CnshXN0CtMfE88CuUAxvO0_buyfyQbl1KHm4tQVeArVBDoF8qvcoXxE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "cdbf88c2650c627a03V439y-EVFY",
-      "encryptUserId": "6ad76212da6105a60nx739q4GFdQ",
-      "invalidStatus": false,
-      "jobName": "实施工程师",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "实施公司ErP产品\n收集用户反馈的问题\n测试客户反馈的问题是否OK",
-      "encryptAddressId": "c253dda04fe649b01nVz3t-8GFRXxIi2VvOd",
-      "address": "广州番禺区中建四局总部1708B",
-      "longitude": 113.27913,
-      "latitude": 22.985852,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf4afe22bc9c13ff57e7fe86d18ddd18356bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf2d64f8d5d1b937cdc6ee700b291ae8b46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件实施经验",
-        "ERP",
-        "财务相关专业",
-        "计算机相关专业",
-        "可适应出差"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "肖先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "润钢软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "61312839fd03cdfc1HJy3ty9ElE~",
-      "brandName": "润钢软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "带薪年假",
-        "加班补助",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1737553850224,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "润钢软件",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "润钢软件",
+        "certificated": true,
+        "large": null,
+        "name": "肖先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1737553850224,
+        "brandName": "润钢软件",
+        "customerBrandName": "润钢软件",
+        "customerBrandStageName": "",
+        "encryptBrandId": "61312839fd03cdfc1HJy3ty9ElE~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "带薪年假",
+            "加班补助",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区中建四局总部1708B",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "c253dda04fe649b01nVz3t-8GFRXxIi2VvOd",
+        "encryptId": "cdbf88c2650c627a03V439y-EVFY",
+        "encryptUserId": "6ad76212da6105a60nx739q4GFdQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "实施工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.985852,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.27913,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf2d64f8d5d1b937cdc6ee700b291ae8b46bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "实施公司ErP产品\n收集用户反馈的问题\n测试客户反馈的问题是否OK",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "软件实施经验",
+            "ERP",
+            "财务相关专业",
+            "计算机相关专业",
+            "可适应出差"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf4afe22bc9c13ff57e7fe86d18ddd18356bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZQca89pUrCsam-H1BZaupOv1HjQbejeklJkyPULDo0RJajxfjYSPLbbjNwABSghFOmCavvrGBIG3CnshXN0CtMfE88CuUAxvO0_buyfyQbl1KHm4tQVeArVBDoF8qvcoXxE~",
+    "selfAccess": false,
+    "sessionId": null
 }

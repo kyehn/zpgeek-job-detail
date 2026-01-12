@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "I0VNMH9wegqc6-91DF_ulNgbtyKZiD9BGTVRZhKCxCw6VrkFlRHRinrwxJX6_qBN3IviL55INOczBA_cWsTxSH_nYN7KhgGLzaYfbHIN84TS5du7x54jeNk2mxfp5f8KiJlZsiR90v8JJn8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d9b2c19f8b2dbe811H173N27FVFX",
-      "encryptUserId": "de5d9c5540a1a9d80nJ72Nm4F1RS",
-      "invalidStatus": false,
-      "jobName": "测试技术员",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责： \n1、负责设计开发过程中的测试执行，按时保质完成分配到的测试任务（性能测试、安规测试、包装测试、环境试验、老化测试及可靠性测试等）； \n2、负责测试数据/问题的记录整理，反馈测试故障，输出测试报告；\n3、负责工具仪器设备的记录、维护、保养等\n4、负责对样品进行管理,样品流转中的记录和管理；\n5、完成上级交办的其他工作。 \n\n职位要求： \n1、大专以上学历，机械、电子、计算机等相关专业； \n2、具有1年以上测试工作经验，具备一定的软硬件实践基础，有较强的动手实践能力； \n3、有医疗器械相关测试经验优先。",
-      "encryptAddressId": "364cee9ab4c542840HZ729-0EFU~",
-      "address": "苏州太仓市苏州好博医疗器械股份有限公司紫藤路8号",
-      "longitude": 121.241832,
-      "latitude": 31.516785,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3da5148ef97b8e09db3ad4598c0a9fee",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77276d67647141e38ef16597dadfe988",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "安规测试",
-        "可靠性测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "招聘专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221010/607f1f3d68754fd049c8511c502a8ed760ca807d1057c29b8971232e607ec5ec83f50ec5d5b_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "好博医疗",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c5894c95d5b169611nx43NW8E1Q~",
-      "brandName": "好博医疗",
-      "logo": "https://c-res.zhipin.com/jrs/9a1e4a868f4be6228fb0f9745a36d110.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100403,
-      "industryName": "医疗器械",
-      "introduce": "苏州好博医疗器械股份有限公司，全国一流的医疗设备供应商和服务商，致力于康复设备的研发销售和产业化运营。\n    集团拥有苏州（太仓、工业园区）、南京、广州、深圳五大研发中心和生产基地，建立一家研究院，在全国省市设立办事处，形成完整的研发、生产、营销和服务网络。\n    未来，好博将进一步扎根康复医学，为“健康中国”战略顺利推进贡献力量，将众多循证医学与临床实践融进我们的整体康复解决方案，我们的最终目标是让更多的患者享受科技带来的温暖，在生命周期中功能最大程度得到恢复和提高，回归家庭，被社会尊重，让每一个家庭都能健康幸福，这是我们奋斗的意义。全体好博人愿用智慧和汗水，开拓进取、追求卓越，为人类健康承担更多的责任。\n公司官网：www.haobro.cn",
-      "labels": [
-        "零食下午茶",
-        "住房补贴",
-        "节日福利",
-        "包吃",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "年终奖",
-        "全勤奖",
-        "五险一金"
-      ],
-      "activeTime": 1731056493173,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "好博医疗",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "好博医疗",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221010/607f1f3d68754fd049c8511c502a8ed760ca807d1057c29b8971232e607ec5ec83f50ec5d5b_b.jpg",
+        "title": "招聘专员"
+    },
+    "brandComInfo": {
+        "activeTime": 1731056493173,
+        "brandName": "好博医疗",
+        "customerBrandName": "好博医疗",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "c5894c95d5b169611nx43NW8E1Q~",
+        "focusBrand": false,
+        "industry": 100403,
+        "industryName": "医疗器械",
+        "introduce": "苏州好博医疗器械股份有限公司，全国一流的医疗设备供应商和服务商，致力于康复设备的研发销售和产业化运营。\n    集团拥有苏州（太仓、工业园区）、南京、广州、深圳五大研发中心和生产基地，建立一家研究院，在全国省市设立办事处，形成完整的研发、生产、营销和服务网络。\n    未来，好博将进一步扎根康复医学，为“健康中国”战略顺利推进贡献力量，将众多循证医学与临床实践融进我们的整体康复解决方案，我们的最终目标是让更多的患者享受科技带来的温暖，在生命周期中功能最大程度得到恢复和提高，回归家庭，被社会尊重，让每一个家庭都能健康幸福，这是我们奋斗的意义。全体好博人愿用智慧和汗水，开拓进取、追求卓越，为人类健康承担更多的责任。\n公司官网：www.haobro.cn",
+        "labels": [
+            "零食下午茶",
+            "住房补贴",
+            "节日福利",
+            "包吃",
+            "餐补",
+            "员工旅游",
+            "带薪年假",
+            "年终奖",
+            "全勤奖",
+            "五险一金"
+        ],
+        "logo": "https://c-res.zhipin.com/jrs/9a1e4a868f4be6228fb0f9745a36d110.jpg",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州太仓市苏州好博医疗器械股份有限公司紫藤路8号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "364cee9ab4c542840HZ729-0EFU~",
+        "encryptId": "d9b2c19f8b2dbe811H173N27FVFX",
+        "encryptUserId": "de5d9c5540a1a9d80nJ72Nm4F1RS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试技术员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.516785,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 121.241832,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77276d67647141e38ef16597dadfe988",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责： \n1、负责设计开发过程中的测试执行，按时保质完成分配到的测试任务（性能测试、安规测试、包装测试、环境试验、老化测试及可靠性测试等）； \n2、负责测试数据/问题的记录整理，反馈测试故障，输出测试报告；\n3、负责工具仪器设备的记录、维护、保养等\n4、负责对样品进行管理,样品流转中的记录和管理；\n5、完成上级交办的其他工作。 \n\n职位要求： \n1、大专以上学历，机械、电子、计算机等相关专业； \n2、具有1年以上测试工作经验，具备一定的软硬件实践基础，有较强的动手实践能力； \n3、有医疗器械相关测试经验优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "安规测试",
+            "可靠性测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3da5148ef97b8e09db3ad4598c0a9fee"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "I0VNMH9wegqc6-91DF_ulNgbtyKZiD9BGTVRZhKCxCw6VrkFlRHRinrwxJX6_qBN3IviL55INOczBA_cWsTxSH_nYN7KhgGLzaYfbHIN84TS5du7x54jeNk2mxfp5f8KiJlZsiR90v8JJn8~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "2jaCL3aUEKOuO-w1hRKgprhi9R7aiWelZnCHvtnRBDDvhzHK5vETLIoM-UyKvuqVcLeSY-tK3QtpIRkLbgx8uAwVCBraYkxf2_BJF4k1XUYrGt1UiAcD",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f6afcf46ef326adb1HNy0tq0EFVT",
-      "encryptUserId": "ef1671f47ac2f7170XVz09m_EFdW",
-      "invalidStatus": false,
-      "jobName": "数据运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101221300,
-      "locationName": "宣城",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "工作内容：\n职位主要职责包括：\n1.储能柜台售后管理调度。\n2.每天储能柜云平台数据分析，数据汇总发邮件。\n3.所有销售储能柜云平台监控，故障处理跟踪。\n4.收益分析，设备数量核算，各地电费统计，峰平谷时间段设置。\n5.整个储能柜运维工作。\n6.跟业主对接收益业务。\n职位要求：\n* 1.本科及以上学历，云端数据操作相关专业优先。\n   2.从事数据相关工作1年以上经验。",
-      "encryptAddressId": "37c31ecc71e882961nZ_29y4FVRU",
-      "address": "宣城郎溪县吉厚集团郎溪经济开发区金牛东路18号",
-      "longitude": 119.219582,
-      "latitude": 31.212302,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231005/48ba41acc9cef1bfcccfc776d39ccfb4c97a7c421e1db85c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231005/48ba41acc9cef1bf63b66fa3044a31efe9f2c091ec4238916bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "行政人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "吉厚智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "a9203e9c9e0f9e8d1nd73d29F1o~",
-      "brandName": "吉厚智能",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 303,
-      "scaleName": "100-499人",
-      "industry": 100802,
-      "industryName": "汽车零部件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1728526710371,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "吉厚智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "吉厚智能",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+        "title": "行政人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1728526710371,
+        "brandName": "吉厚智能",
+        "customerBrandName": "吉厚智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "a9203e9c9e0f9e8d1nd73d29F1o~",
+        "focusBrand": false,
+        "industry": 100802,
+        "industryName": "汽车零部件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 303,
+        "scaleName": "100-499人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "宣城郎溪县吉厚集团郎溪经济开发区金牛东路18号",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "37c31ecc71e882961nZ_29y4FVRU",
+        "encryptId": "f6afcf46ef326adb1HNy0tq0EFVT",
+        "encryptUserId": "ef1671f47ac2f7170XVz09m_EFdW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "数据运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.212302,
+        "location": 101221300,
+        "locationName": "宣城",
+        "longitude": 119.219582,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231005/48ba41acc9cef1bf63b66fa3044a31efe9f2c091ec4238916bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作内容：\n职位主要职责包括：\n1.储能柜台售后管理调度。\n2.每天储能柜云平台数据分析，数据汇总发邮件。\n3.所有销售储能柜云平台监控，故障处理跟踪。\n4.收益分析，设备数量核算，各地电费统计，峰平谷时间段设置。\n5.整个储能柜运维工作。\n6.跟业主对接收益业务。\n职位要求：\n* 1.本科及以上学历，云端数据操作相关专业优先。\n   2.从事数据相关工作1年以上经验。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231005/48ba41acc9cef1bfcccfc776d39ccfb4c97a7c421e1db85c6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "2jaCL3aUEKOuO-w1hRKgprhi9R7aiWelZnCHvtnRBDDvhzHK5vETLIoM-UyKvuqVcLeSY-tK3QtpIRkLbgx8uAwVCBraYkxf2_BJF4k1XUYrGt1UiAcD",
+    "selfAccess": false,
+    "sessionId": null
 }

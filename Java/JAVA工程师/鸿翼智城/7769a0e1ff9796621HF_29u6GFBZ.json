@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "AEq5J0-CsmPlG-P1IliTgG4URAB1Cm2cR0GqFUoojHxpStP5FkMBE3rSN-wZVjkzFgpa5DXZ3yxAR0cT4GssjpY8FKaCdf-nnur4z-2XyCjthqWNG2VKxYiS5fol658Q74FTgEfNL-TuSMY~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "7769a0e1ff9796621HF_29u6GFBZ",
-      "encryptUserId": "bf05ab84349a4f521nRz3dq-GFtZ",
-      "invalidStatus": false,
-      "jobName": "java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.应届毕业，有实际开发经验优先；\n2.熟练使用Spring、myBatis等常用框架；\n3.拥有开发文档撰写经验，熟悉RESTful接口规范；\n4.精通MySQL，Oracle等主流数据库；\n5.熟悉HTTPS、Web Socket、TCP/IP等网络协议\n6.熟悉SVN，github等开发工具的使用；\n7.熟悉高并发、高负载、高可用性系统的设计、开发及调优；\n8.具有Linux上的开发经验，web前端相关技术者优先\n9.有良好的沟通能力和团队协作意识，工作认真负责，能承受工作压力；",
-      "encryptAddressId": "ef998826f9f82f191nVy29i_FFNQ",
-      "address": "上海浦东新区上海信息大厦807",
-      "longitude": 121.551211,
-      "latitude": 31.224197,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/171be57e877510b90533f20d16503ef4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b1ccb61b5c095cdb890f9c2ded1b6b70",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MyBatis",
-        "后端工程师",
-        "Spring"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "余女士",
-      "title": "项目助理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/75820813b9c5d0e5a49e985c22cc8685fa015f70e54e41ec4cf6eca70a3_b.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "鸿翼智城",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2b685cc0c9c2c5ac1nV509q0EFQ~",
-      "brandName": "鸿翼智城",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723910134750,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鸿翼智城",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鸿翼智城",
+        "certificated": true,
+        "large": null,
+        "name": "余女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/75820813b9c5d0e5a49e985c22cc8685fa015f70e54e41ec4cf6eca70a3_b.jpg",
+        "title": "项目助理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723910134750,
+        "brandName": "鸿翼智城",
+        "customerBrandName": "鸿翼智城",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2b685cc0c9c2c5ac1nV509q0EFQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区上海信息大厦807",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "ef998826f9f82f191nVy29i_FFNQ",
+        "encryptId": "7769a0e1ff9796621HF_29u6GFBZ",
+        "encryptUserId": "bf05ab84349a4f521nRz3dq-GFtZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.224197,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.551211,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b1ccb61b5c095cdb890f9c2ded1b6b70",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1.应届毕业，有实际开发经验优先；\n2.熟练使用Spring、myBatis等常用框架；\n3.拥有开发文档撰写经验，熟悉RESTful接口规范；\n4.精通MySQL，Oracle等主流数据库；\n5.熟悉HTTPS、Web Socket、TCP/IP等网络协议\n6.熟悉SVN，github等开发工具的使用；\n7.熟悉高并发、高负载、高可用性系统的设计、开发及调优；\n8.具有Linux上的开发经验，web前端相关技术者优先\n9.有良好的沟通能力和团队协作意识，工作认真负责，能承受工作压力；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "Java",
+            "MyBatis",
+            "后端工程师",
+            "Spring"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/171be57e877510b90533f20d16503ef4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "AEq5J0-CsmPlG-P1IliTgG4URAB1Cm2cR0GqFUoojHxpStP5FkMBE3rSN-wZVjkzFgpa5DXZ3yxAR0cT4GssjpY8FKaCdf-nnur4z-2XyCjthqWNG2VKxYiS5fol658Q74FTgEfNL-TuSMY~",
+    "selfAccess": false,
+    "sessionId": null
 }

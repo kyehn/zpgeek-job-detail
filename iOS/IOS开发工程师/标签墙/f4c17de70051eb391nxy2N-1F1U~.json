@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Qvy2fFCDv4Dy6-f1QVIariiWnGft_GylvzFTYYVJd1fGdqJrott9jY3EHV4aDrFS6lUuKXjYBLIxulHwKniOKVlUK01KGIAjJaKOfxaswPjQqYCf",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f4c17de70051eb391nxy2N-1F1U~",
-      "encryptUserId": "ad645bcb8ba159041HZ629q6FVA~",
-      "invalidStatus": false,
-      "jobName": "ios开发工程师",
-      "position": 100203,
-      "positionName": "iOS",
-      "location": 101110100,
-      "locationName": "西安",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\r\n1.根据需求在IOS移动端进行APP的设计与开发；\r\n2.参与项目的产品设计、分析、开发以及维护；\r\n3.参与移动端的接口开发，架构设计；\r\n4.独立完成开发工作，进行模块测试，保证代码的质量；\r\n6.深入理解Objective-C Runtime运行机制和内存管理机制，深入了解各个不同iOS版本的特性与差异；\r\n任职要求：\r\n1、计算机相关专业，1年以上工作经验\r\n2、精通IOS SDK 中的UI、熟悉多线程，网络编程（TCP/IP、HTTP）、XML/JSON解析等技术；\r\n3、熟悉IOS源生开发，熟悉IOS应用开发框架，能独立开发高性能的IOS应用；\r\n4、有上线作品开发者优先\r\n关于我们：\r\n  标签墙--让我们重新定义社交和搜索\r\n  福利待遇：\r\n    --工作设备由您来定，只要您敢玩！\r\n    --不低于业界巨头的薪资水平\r\n    --每周内部资料or讲座学习\r\n    --正式劳动合同+零食\r\n  文化态度：自由，简单，独立\r\n  我们如何工作？\r\n     提倡独立工作与团队协作，比起金字塔式结构，我们更加提倡的是扁平 \r\n 化组织结构，鼓励个体的探索精神和试错精神，尊重个体的差异和特质， \r\n 没有人轻易否定你的任何决定和天马行空的想法！\r\n    如果你是技术实习生，我们将由有经验的大牛带你进入项目，了解产品从 业务需求，架构设计到技术实现，给你充分的发展平台！\r\n   你可以躺着，蹲着，working everywhere！",
-      "encryptAddressId": "afc69c7ebd470b770HN_39m6GQ~~",
-      "address": "西安雁塔区紫竹花园大厦B座1502",
-      "longitude": 108.92477,
-      "latitude": 34.231322,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/219ff261566de897d5f492fe53b95bce",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81973ddeb126a1e8c3aea4b9d953e1ce",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "iOS",
-        "Swift"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "段女士",
-      "title": "人事部负责人",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180412/01111305e555dc14fe5c3c092d6d11d7cfcd208495d565ef66e7dff9f98_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "标签墙",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "0fb88170fc7fd03f1nB93t-0GA~~",
-      "brandName": "标签墙",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180426/eb756702e210ceaff2a32132535519eccfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 803,
-      "stageName": "A轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100003,
-      "industryName": "社交网络与媒体",
-      "introduce": "我们期望能够在中国建立社区文化，同时成为开放式文化的主导者\n我们努力尝试用技术改变国内社交和教育中的一些问题,甚至是出行领域\n如果您对此有兴趣, 希望能成为我们的一部分",
-      "labels": [
-        "零食下午茶",
-        "住房补贴",
-        "节日福利",
-        "交通补助",
-        "餐补",
-        "员工旅游",
-        "股票期权",
-        "年终奖"
-      ],
-      "activeTime": 1727358438438,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "标签墙",
-      "customerBrandStageName": "A轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "标签墙",
+        "certificated": true,
+        "large": null,
+        "name": "段女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180412/01111305e555dc14fe5c3c092d6d11d7cfcd208495d565ef66e7dff9f98_b.jpg",
+        "title": "人事部负责人"
+    },
+    "brandComInfo": {
+        "activeTime": 1727358438438,
+        "brandName": "标签墙",
+        "customerBrandName": "标签墙",
+        "customerBrandStageName": "A轮",
+        "encryptBrandId": "0fb88170fc7fd03f1nB93t-0GA~~",
+        "focusBrand": false,
+        "industry": 100003,
+        "industryName": "社交网络与媒体",
+        "introduce": "我们期望能够在中国建立社区文化，同时成为开放式文化的主导者\n我们努力尝试用技术改变国内社交和教育中的一些问题,甚至是出行领域\n如果您对此有兴趣, 希望能成为我们的一部分",
+        "labels": [
+            "零食下午茶",
+            "住房补贴",
+            "节日福利",
+            "交通补助",
+            "餐补",
+            "员工旅游",
+            "股票期权",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180426/eb756702e210ceaff2a32132535519eccfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 803,
+        "stageName": "A轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "西安雁塔区紫竹花园大厦B座1502",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "afc69c7ebd470b770HN_39m6GQ~~",
+        "encryptId": "f4c17de70051eb391nxy2N-1F1U~",
+        "encryptUserId": "ad645bcb8ba159041HZ629q6FVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "ios开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.231322,
+        "location": 101110100,
+        "locationName": "西安",
+        "longitude": 108.92477,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81973ddeb126a1e8c3aea4b9d953e1ce",
+        "position": 100203,
+        "positionName": "iOS",
+        "postDescription": "岗位职责：\r\n1.根据需求在IOS移动端进行APP的设计与开发；\r\n2.参与项目的产品设计、分析、开发以及维护；\r\n3.参与移动端的接口开发，架构设计；\r\n4.独立完成开发工作，进行模块测试，保证代码的质量；\r\n6.深入理解Objective-C Runtime运行机制和内存管理机制，深入了解各个不同iOS版本的特性与差异；\r\n任职要求：\r\n1、计算机相关专业，1年以上工作经验\r\n2、精通IOS SDK 中的UI、熟悉多线程，网络编程（TCP/IP、HTTP）、XML/JSON解析等技术；\r\n3、熟悉IOS源生开发，熟悉IOS应用开发框架，能独立开发高性能的IOS应用；\r\n4、有上线作品开发者优先\r\n关于我们：\r\n  标签墙--让我们重新定义社交和搜索\r\n  福利待遇：\r\n    --工作设备由您来定，只要您敢玩！\r\n    --不低于业界巨头的薪资水平\r\n    --每周内部资料or讲座学习\r\n    --正式劳动合同+零食\r\n  文化态度：自由，简单，独立\r\n  我们如何工作？\r\n     提倡独立工作与团队协作，比起金字塔式结构，我们更加提倡的是扁平 \r\n 化组织结构，鼓励个体的探索精神和试错精神，尊重个体的差异和特质， \r\n 没有人轻易否定你的任何决定和天马行空的想法！\r\n    如果你是技术实习生，我们将由有经验的大牛带你进入项目，了解产品从 业务需求，架构设计到技术实现，给你充分的发展平台！\r\n   你可以躺着，蹲着，working everywhere！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "iOS",
+            "Swift"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/219ff261566de897d5f492fe53b95bce"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Qvy2fFCDv4Dy6-f1QVIariiWnGft_GylvzFTYYVJd1fGdqJrott9jY3EHV4aDrFS6lUuKXjYBLIxulHwKniOKVlUK01KGIAjJaKOfxaswPjQqYCf",
+    "selfAccess": false,
+    "sessionId": null
 }

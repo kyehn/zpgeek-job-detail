@@ -1,100 +1,96 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "7Hz9-J2s1qyTG-Z17OKeHtY0XfYsNWQgT4-iop53UlqgGq_IWz511WPRF46SpU3r-5DtCwuhAf_ZbqgrDICg2yp3LVngMuncBuZV-ggGENIB3VKkfNLxyLnZFjq8o0loWvm0wTbFpNa_oQk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "85ea11d8e541419a1nFy0tu-FVpV",
-      "encryptUserId": "3511db173f228a3d0nd53tW-FVZU",
-      "invalidStatus": false,
-      "jobName": "应用软件工程师",
-      "position": 100102,
-      "positionName": "C/C++",
-      "location": 101110200,
-      "locationName": "咸阳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-10K",
-      "payTypeDesc": null,
-      "postDescription": "1.自动化控制软件设计与调试，\n2.大专以上学历，两年以上经验，熟悉C++，网络通讯、工业总线，熟悉伺服电机控制，熟悉模拟量控制。",
-      "encryptAddressId": "149e2c015b6412b41XZ_3Nq5FVM~",
-      "address": "咸阳秦都区中国电子西部智谷A8栋",
-      "longitude": 108.643156,
-      "latitude": 34.287803,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66b1590396c157158a89172359d01fbc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bcd84d305829dd6c58e52637003b2fe1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Linux",
-        "算法基础",
-        "软件工程师",
-        "网络协议",
-        "SQL"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "李女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "双玉智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9ffd8044d6d470b01nJ639m1ElM~",
-      "brandName": "双玉智能",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210529/c77179d41e7fcbf3a60c9228dcebeb1679bbad0fda9ef6ccf1243f1e4fe24d94.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "公司成立于2014年6月，专业从事电动缸，六自由度平台等精密自动化设备的设计制造。电动缸、六自由度运动平台已在航空航天、船舶等多个领域得到应用，多款大吨位六自由度平台填补了国内行业空白。",
-      "labels": [
-        "加班补助",
-        "带薪年假"
-      ],
-      "activeTime": 1729315731375,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "双玉智能",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "双玉智能",
+        "certificated": true,
+        "large": null,
+        "name": "李女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1729315731375,
+        "brandName": "双玉智能",
+        "customerBrandName": "双玉智能",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9ffd8044d6d470b01nJ639m1ElM~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "公司成立于2014年6月，专业从事电动缸，六自由度平台等精密自动化设备的设计制造。电动缸、六自由度运动平台已在航空航天、船舶等多个领域得到应用，多款大吨位六自由度平台填补了国内行业空白。",
+        "labels": [
+            "加班补助",
+            "带薪年假"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210529/c77179d41e7fcbf3a60c9228dcebeb1679bbad0fda9ef6ccf1243f1e4fe24d94.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "咸阳秦都区中国电子西部智谷A8栋",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "149e2c015b6412b41XZ_3Nq5FVM~",
+        "encryptId": "85ea11d8e541419a1nFy0tu-FVpV",
+        "encryptUserId": "3511db173f228a3d0nd53tW-FVZU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "应用软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 34.287803,
+        "location": 101110200,
+        "locationName": "咸阳",
+        "longitude": 108.643156,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bcd84d305829dd6c58e52637003b2fe1",
+        "position": 100102,
+        "positionName": "C/C++",
+        "postDescription": "1.自动化控制软件设计与调试，\n2.大专以上学历，两年以上经验，熟悉C++，网络通讯、工业总线，熟悉伺服电机控制，熟悉模拟量控制。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-10K",
+        "showSkills": [
+            "Linux",
+            "算法基础",
+            "软件工程师",
+            "网络协议",
+            "SQL"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66b1590396c157158a89172359d01fbc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "7Hz9-J2s1qyTG-Z17OKeHtY0XfYsNWQgT4-iop53UlqgGq_IWz511WPRF46SpU3r-5DtCwuhAf_ZbqgrDICg2yp3LVngMuncBuZV-ggGENIB3VKkfNLxyLnZFjq8o0loWvm0wTbFpNa_oQk~",
+    "selfAccess": false,
+    "sessionId": null
 }

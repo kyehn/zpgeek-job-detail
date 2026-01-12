@@ -1,106 +1,102 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "V36YejkSa13cU--1SjYjTAY5ZmsJ2xUA2Vur5shItcWF4w1tqxNdZJnMU15p9BgxESFQy_3TFGz_3-iRrMiTAxa0IP-SQK6Nm9MUh-mBqUUv4h8w5ET_x9lUdPlTGBlfm3i0JUy8ZerMUA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "dc17ebf24321baef1H1-3tm6E1VR",
-      "encryptUserId": "5c7a6a29d39f38ba1HR509y4GVY~",
-      "invalidStatus": false,
-      "jobName": "初级测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司产品的黑盒测试和冒烟测试。",
-      "encryptAddressId": "3345471304d10d5833153du0FldRxYy2VP0~",
-      "address": "广州番禺区金亿启创电商园325",
-      "longitude": 113.344503,
-      "latitude": 22.967362,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfe8aa569d4d2d93575bcc69965c4bf7de6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfb8389198f8b629013a2c0504e6857cdd6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "功能测试",
-        "Postman",
-        "Jira"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "夏先生",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240516/607f1f3d68754fd00000560b4d69745ffffe6413135af5fbde007c1604fdcbf19f9f2a06d88ada6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "映射科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8d7c69276d49033e1XN93N-7GFo~",
-      "brandName": "映射科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240516/7b5b554d84f9729cd9ec31276df84a762a495583cea25ebfde007c1604fdcbf19f9f2a06d88ada67.jpg.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100004,
-      "industryName": "广告营销",
-      "introduce": "核心业务：出海营销解决方案。",
-      "labels": [
-        "生日福利",
-        "有无线网",
-        "团建聚餐",
-        "零食下午茶",
-        "全勤奖",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "五险一金"
-      ],
-      "activeTime": 1729957560063,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "映射科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "映射科技",
+        "certificated": true,
+        "large": null,
+        "name": "夏先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240516/607f1f3d68754fd00000560b4d69745ffffe6413135af5fbde007c1604fdcbf19f9f2a06d88ada6_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1729957560063,
+        "brandName": "映射科技",
+        "customerBrandName": "映射科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "8d7c69276d49033e1XN93N-7GFo~",
+        "focusBrand": false,
+        "industry": 100004,
+        "industryName": "广告营销",
+        "introduce": "核心业务：出海营销解决方案。",
+        "labels": [
+            "生日福利",
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "全勤奖",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240516/7b5b554d84f9729cd9ec31276df84a762a495583cea25ebfde007c1604fdcbf19f9f2a06d88ada67.jpg.webp",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州番禺区金亿启创电商园325",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "3345471304d10d5833153du0FldRxYy2VP0~",
+        "encryptId": "dc17ebf24321baef1H1-3tm6E1VR",
+        "encryptUserId": "5c7a6a29d39f38ba1HR509y4GVY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "初级测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.967362,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.344503,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfb8389198f8b629013a2c0504e6857cdd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "负责公司产品的黑盒测试和冒烟测试。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "测试工作经验",
+            "功能测试",
+            "Postman",
+            "Jira"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfe8aa569d4d2d93575bcc69965c4bf7de6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "V36YejkSa13cU--1SjYjTAY5ZmsJ2xUA2Vur5shItcWF4w1tqxNdZJnMU15p9BgxESFQy_3TFGz_3-iRrMiTAxa0IP-SQK6Nm9MUh-mBqUUv4h8w5ET_x9lUdPlTGBlfm3i0JUy8ZerMUA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

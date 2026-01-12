@@ -1,96 +1,92 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "cPPyWKvPLJ7L0-t1E7kasBeRLAbiL5bu1abmHHKMya1ll0gt0po8vnjy8pLIXHMMb96WpYrr7ajTjDygddXyaf5PbmYGG0WstaP6WBfUevzfLm0J",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5b14d56c4e825f6f0XZ53d-_GVs~",
-      "encryptUserId": "680ac002ac43cac10HJ_2N-6FVU~",
-      "invalidStatus": false,
-      "jobName": "技术支持",
-      "position": 100405,
-      "positionName": "IT技术支持",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-7K",
-      "payTypeDesc": null,
-      "postDescription": "LED显示屏安装调试及维修。",
-      "encryptAddressId": "ce301ff615259af51HB_39S8EA~~",
-      "address": "南京鼓楼区辰龙雅苑2栋614",
-      "longitude": 118.733642,
-      "latitude": 32.055428,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21bb17433dca6dc9214b9ff63f88b225",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/30f753c32a756d98f128b5d485f138c6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT技术支持经验",
-        "售前/售后技术支持",
-        "IT技术支持",
-        "售前支持/技术咨询经验",
-        "售后支持/客户响应经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "张先生",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "华创光电",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8206849096d45e340XF-3tm-FA~~",
-      "brandName": "华创光电",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100504,
-      "industryName": "进出口贸易",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727775943107,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "华创光电",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "华创光电",
+        "certificated": true,
+        "large": null,
+        "name": "张先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727775943107,
+        "brandName": "华创光电",
+        "customerBrandName": "华创光电",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8206849096d45e340XF-3tm-FA~~",
+        "focusBrand": false,
+        "industry": 100504,
+        "industryName": "进出口贸易",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京鼓楼区辰龙雅苑2栋614",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "ce301ff615259af51HB_39S8EA~~",
+        "encryptId": "5b14d56c4e825f6f0XZ53d-_GVs~",
+        "encryptUserId": "680ac002ac43cac10HJ_2N-6FVU~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "技术支持",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 32.055428,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.733642,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/30f753c32a756d98f128b5d485f138c6",
+        "position": 100405,
+        "positionName": "IT技术支持",
+        "postDescription": "LED显示屏安装调试及维修。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-7K",
+        "showSkills": [
+            "IT技术支持经验",
+            "售前/售后技术支持",
+            "IT技术支持",
+            "售前支持/技术咨询经验",
+            "售后支持/客户响应经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21bb17433dca6dc9214b9ff63f88b225"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "cPPyWKvPLJ7L0-t1E7kasBeRLAbiL5bu1abmHHKMya1ll0gt0po8vnjy8pLIXHMMb96WpYrr7ajTjDygddXyaf5PbmYGG0WstaP6WBfUevzfLm0J",
+    "selfAccess": false,
+    "sessionId": null
 }

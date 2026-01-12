@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "K50hZDrEkGqQi-M1hvFal9UhDtwbcvZpmpLxJ969_BM1L-KQk51f6-1XjatWnEMjOGSD8chJoHnTrboBsn_iLMxOSkb9iWbECo42atXLcvgye64I8gsSwDWxLHjP-uomS5VwGie5_uzugA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ebb5636f510428db1H15096-GFJW",
-      "encryptUserId": "219350a9c4deabea1HB_2NW_E1o~",
-      "invalidStatus": false,
-      "jobName": "视频会议运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "为大型央企提供视频会议保障。\n\n1.具备顺畅的语言表达与组织、协调能力；\n2.具备计算机软件开发或系统运维方面基础知识技能；\n3.具备1年及以上视频会议系统建设或运维经验，如系统项目建设、系统的日常检查、定期（月度、季度、年度）巡检、定期预防性维修、工单及故障处理、系统数据的配置及修改、系统的优化及升级等；\n4.具备服务器及其操作系统的技术支持和运维实力；\n5.具备良好的客户服务意识；\n6.通过沟通能力、责任心和稳定性、自我认知能力的测试，且成绩全部为合格;",
-      "encryptAddressId": "78a6d6291d2fed0e1nB72t2_F1pVxYm8Wf2X",
-      "address": "深圳龙岗区大亚湾基地1楼",
-      "longitude": 114.52942,
-      "latitude": 22.593288,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7726182cc90fcb8ccc3b6e48405acc4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25ecf1b5a80501e03c7b03635cf8f2f6",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "计算机相关专业",
-        "运维经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "朱先生",
-      "title": "大客户经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180312/ee80a4b2cbe5d3a4da79af970ee57f8a332e820caebcfe51a825fd73fbc_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "鸿琳科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "2c75c9f477fcca441Hx62tq7EFc~",
-      "brandName": "鸿琳科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1729861810198,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "鸿琳科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "鸿琳科技",
+        "certificated": true,
+        "large": null,
+        "name": "朱先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180312/ee80a4b2cbe5d3a4da79af970ee57f8a332e820caebcfe51a825fd73fbc_b.jpg",
+        "title": "大客户经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1729861810198,
+        "brandName": "鸿琳科技",
+        "customerBrandName": "鸿琳科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "2c75c9f477fcca441Hx62tq7EFc~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区大亚湾基地1楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "78a6d6291d2fed0e1nB72t2_F1pVxYm8Wf2X",
+        "encryptId": "ebb5636f510428db1H15096-GFJW",
+        "encryptUserId": "219350a9c4deabea1HB_2NW_E1o~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "视频会议运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.593288,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.52942,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25ecf1b5a80501e03c7b03635cf8f2f6",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "为大型央企提供视频会议保障。\n\n1.具备顺畅的语言表达与组织、协调能力；\n2.具备计算机软件开发或系统运维方面基础知识技能；\n3.具备1年及以上视频会议系统建设或运维经验，如系统项目建设、系统的日常检查、定期（月度、季度、年度）巡检、定期预防性维修、工单及故障处理、系统数据的配置及修改、系统的优化及升级等；\n4.具备服务器及其操作系统的技术支持和运维实力；\n5.具备良好的客户服务意识；\n6.通过沟通能力、责任心和稳定性、自我认知能力的测试，且成绩全部为合格;",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K·13薪",
+        "showSkills": [
+            "系统运维",
+            "计算机相关专业",
+            "运维经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7726182cc90fcb8ccc3b6e48405acc4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "K50hZDrEkGqQi-M1hvFal9UhDtwbcvZpmpLxJ969_BM1L-KQk51f6-1XjatWnEMjOGSD8chJoHnTrboBsn_iLMxOSkb9iWbECo42atXLcvgye64I8gsSwDWxLHjP-uomS5VwGie5_uzugA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

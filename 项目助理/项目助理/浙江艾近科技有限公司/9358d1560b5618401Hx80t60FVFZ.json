@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "I7ZXglvTy3UAu-p1_GhEg3T84WiYh5DEj8BLF28oWPNvPbtNOLaBxYev7nlt41Re29GirwyjGV7TMsATrKxsJlSAs89WQj4s95rkp0Cm5_Y5C57lMf5VSjpW7qSeO3x9R488RwDMTQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "9358d1560b5618401Hx80t60FVFZ",
-      "encryptUserId": "1b0cb408a29534331XFz3NU~",
-      "invalidStatus": false,
-      "jobName": "项目助理",
-      "position": 100603,
-      "positionName": "项目助理",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责产品销售前的运营商入库流程及部分测试工作\n2、负责产品销售后的技术支撑\n任职要求：\n1、大学毕业3年内，男女不限\n2、有相关运营商的工作经验为佳，\r\n\r\n加分项\r\n有以下行业经验：通信/网络设备·智能硬件/消费电子·运营商/增值服务",
-      "encryptAddressId": "871c5d3547f997a01nZz2N26ElJWxYy-WfiY",
-      "address": "杭州萧山区XPACED栋211室",
-      "longitude": 120.259394,
-      "latitude": 30.204098,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231021/48ba41acc9cef1bfd58ab53d33d1d2d15b7ddf74d5b173966bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231021/48ba41acc9cef1bfbe963c67f1dea4c453883f05476c0d986bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件/信息技术项目"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何先生",
-      "title": "产品总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "浙江艾近科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "c100967120b28d791HJ60960FVI~",
-      "brandName": "浙江艾近科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 101403,
-      "industryName": "运营商/增值服务",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727249681000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "浙江艾近科技有限公司",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "浙江艾近科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "何先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "产品总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727249681000,
+        "brandName": "浙江艾近科技有限公司",
+        "customerBrandName": "浙江艾近科技有限公司",
+        "customerBrandStageName": "",
+        "encryptBrandId": "c100967120b28d791HJ60960FVI~",
+        "focusBrand": false,
+        "industry": 101403,
+        "industryName": "运营商/增值服务",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州萧山区XPACED栋211室",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "871c5d3547f997a01nZz2N26ElJWxYy-WfiY",
+        "encryptId": "9358d1560b5618401Hx80t60FVFZ",
+        "encryptUserId": "1b0cb408a29534331XFz3NU~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "项目助理",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.204098,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.259394,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231021/48ba41acc9cef1bfbe963c67f1dea4c453883f05476c0d986bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100603,
+        "positionName": "项目助理",
+        "postDescription": "岗位职责：\n1、负责产品销售前的运营商入库流程及部分测试工作\n2、负责产品销售后的技术支撑\n任职要求：\n1、大学毕业3年内，男女不限\n2、有相关运营商的工作经验为佳，\r\n\r\n加分项\r\n有以下行业经验：通信/网络设备·智能硬件/消费电子·运营商/增值服务",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "软件/信息技术项目"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231021/48ba41acc9cef1bfd58ab53d33d1d2d15b7ddf74d5b173966bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "I7ZXglvTy3UAu-p1_GhEg3T84WiYh5DEj8BLF28oWPNvPbtNOLaBxYev7nlt41Re29GirwyjGV7TMsATrKxsJlSAs89WQj4s95rkp0Cm5_Y5C57lMf5VSjpW7qSeO3x9R488RwDMTQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

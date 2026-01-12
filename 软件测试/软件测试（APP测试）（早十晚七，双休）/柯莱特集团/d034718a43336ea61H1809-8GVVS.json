@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "wZHWr1DQZr_XE-q1Qoc1hYnR-3xrZENS84wYfVGxvU4_9imUfXC4mqjwAc-gRF8grjLtgzY4yKnlZLw47qvZZGJEPLoFCYc9HW2oXQBfQYXDrmWSgMP9eiDa8RO7kxsRSYZx32lDMwbEbXiKNZeT0SoB1r920ORDPdTn31Ml_aF3zIAY",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d034718a43336ea61H1809-8GVVS",
-      "encryptUserId": "f21bc6c830c7d3fe0nB93tq_E1NX",
-      "invalidStatus": false,
-      "jobName": "软件测试（APP测试）（早十晚七，双休）",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-7K",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、根据项目需求独立制定测试计划，编写测试用例、进行用例评审\n2、独立实施测试，跟踪定位缺陷，撰写测试报告，与项目相关人员进行问题沟通;\n3、熟悉Mysql及相关数据库技术，可以独立解决项目中遇到的问题任职要求:\n任职要求：\n1、计算机相关专业，本科及以上学历，1-3年APP测试经验\n2、具备快速产品和业务学习能力，敏捷的逻辑思维能力\n3、沟通能力强，具备良好的团队合作精神，能快速融入多功能团队，并与其他部门同事进行良好的沟通和合作\n4、有责任心、勇于担当，具备较好的抗压能力，工作积极主动\n5、具备全流程应用系统测试的能力，包括需求评审、用例设计、制定测试计划、执行测试用例，bug跟踪和质量分析",
-      "encryptAddressId": "e06ce2fbbf9291931nR829-8FVpQwIW4UfqX",
-      "address": "上海浦东新区百度研发大厦1",
-      "longitude": 121.605831,
-      "latitude": 31.179931,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b58d3569210253494607d39f921d9227",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3497a9d791d76464af301443f51463fd",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "APP测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "孟女士",
-      "title": "招聘",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240715/607f1f3d68754fd01d14393baf70e1ed470f51657824acb7f1793c8cb01d1a55a3157ca4bb0c2b9_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "柯莱特集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "879cece58f6a7e7d1XR929W0",
-      "brandName": "柯莱特集团",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
-      "labels": [
-        "五险一金",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1732170518608,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "柯莱特集团",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "柯莱特集团",
+        "certificated": true,
+        "large": null,
+        "name": "孟女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240715/607f1f3d68754fd01d14393baf70e1ed470f51657824acb7f1793c8cb01d1a55a3157ca4bb0c2b9_b.jpg",
+        "title": "招聘"
+    },
+    "brandComInfo": {
+        "activeTime": 1732170518608,
+        "brandName": "柯莱特集团",
+        "customerBrandName": "柯莱特集团",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
+        "labels": [
+            "五险一金",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区百度研发大厦1",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "e06ce2fbbf9291931nR829-8FVpQwIW4UfqX",
+        "encryptId": "d034718a43336ea61H1809-8GVVS",
+        "encryptUserId": "f21bc6c830c7d3fe0nB93tq_E1NX",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件测试（APP测试）（早十晚七，双休）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.179931,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.605831,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3497a9d791d76464af301443f51463fd",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "工作职责：\n1、根据项目需求独立制定测试计划，编写测试用例、进行用例评审\n2、独立实施测试，跟踪定位缺陷，撰写测试报告，与项目相关人员进行问题沟通;\n3、熟悉Mysql及相关数据库技术，可以独立解决项目中遇到的问题任职要求:\n任职要求：\n1、计算机相关专业，本科及以上学历，1-3年APP测试经验\n2、具备快速产品和业务学习能力，敏捷的逻辑思维能力\n3、沟通能力强，具备良好的团队合作精神，能快速融入多功能团队，并与其他部门同事进行良好的沟通和合作\n4、有责任心、勇于担当，具备较好的抗压能力，工作积极主动\n5、具备全流程应用系统测试的能力，包括需求评审、用例设计、制定测试计划、执行测试用例，bug跟踪和质量分析",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-7K",
+        "showSkills": [
+            "APP测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b58d3569210253494607d39f921d9227"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "wZHWr1DQZr_XE-q1Qoc1hYnR-3xrZENS84wYfVGxvU4_9imUfXC4mqjwAc-gRF8grjLtgzY4yKnlZLw47qvZZGJEPLoFCYc9HW2oXQBfQYXDrmWSgMP9eiDa8RO7kxsRSYZx32lDMwbEbXiKNZeT0SoB1r920ORDPdTn31Ml_aF3zIAY",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "tuS4GVHjrp3vG-W1N4CofUJlWj445WBBuTKOl3pgKjgKgQjSKZ8zG4ZmtxX6tsW8Sgv4yMXSxwyWs0bQwfWMX4zEpzPzQu3QsA3cdHjF92cGvl-Epd-nG47CK1Ysyf4~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "921b1b58283773ff1nxz0tq6EVtU",
-      "encryptUserId": "79cc69cb57b006f60nF92NW7FVA~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "14-20K",
-      "payTypeDesc": null,
-      "postDescription": "任职要求:\n1. 大学本科及以上学历，计算机或者相关专业，从事大数据运维工作两年以上；\n2. 熟悉linux系统，有两年以上的linux系统运维经验；\n3. 掌握一门以上脚本语言(shell/perl/python等)，熟悉ansible；\n4. 具有hadoop、doris、yarn、spark、kafka、flink、CDH、StreamSets等大数据组件运维经验，深入理解其中的一个或者两个组件的内部运行机制\n5、熟悉Docker/Kubernetes相关使用经验是一个加分项\n6、具备较强的故障排查能力，有很好的技术敏感度和风险识别能力。\n\n工作内容:\n1、参与维护数据中台所有软件、硬件的正常运行，处理数据中台出现的各类异常\n2、参与数据中台相关项目的建设和维护\n3、对接各组件监控、数据，及时发现各类异常，并逐步建设智能运维系统。\n4、性能调优，熟悉掌握各类大数据组件内部原理，根据实际生产环境运行情况优化组件配置。",
-      "encryptAddressId": "98629c4da92d46ce1XV93d69GFo~",
-      "address": "长沙长沙县三一重工产业园魔豆仓",
-      "longitude": 113.097705,
-      "latitude": 28.237752,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73cfbbdac25db0274fa07bab6acad3c0",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d1c24d03f39a9df9c1f5d8a88b5d257",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Python",
-        "Shell",
-        "大数据运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "何先生",
-      "title": "大数据开发",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "三一集团",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "f59fd8315cf921ef1XF439y_",
-      "brandName": "三一集团",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160505/6705e9442416ea84cd9eb1740bc7869ec90769c6ff26a580f9e33206a8a0ddb8.jpg",
-      "stage": 807,
-      "stageName": "已上市",
-      "scale": 306,
-      "scaleName": "10000人以上",
-      "industry": 101304,
-      "industryName": "其他行业",
-      "introduce": "三一技术装备有限公司致力于推动世界向可持续能源发展，聚焦于电池装备领域，依托三一的智能制造经验和创新能力，将为客户提供最高效率的电池自动化整线设备的综合解决方案。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "带薪年假",
-        "免费班车",
-        "餐补",
-        "节日福利"
-      ],
-      "activeTime": 1730494398335,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "三一集团",
-      "customerBrandStageName": "已上市"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "三一集团",
+        "certificated": true,
+        "large": null,
+        "name": "何先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "大数据开发"
+    },
+    "brandComInfo": {
+        "activeTime": 1730494398335,
+        "brandName": "三一集团",
+        "customerBrandName": "三一集团",
+        "customerBrandStageName": "已上市",
+        "encryptBrandId": "f59fd8315cf921ef1XF439y_",
+        "focusBrand": false,
+        "industry": 101304,
+        "industryName": "其他行业",
+        "introduce": "三一技术装备有限公司致力于推动世界向可持续能源发展，聚焦于电池装备领域，依托三一的智能制造经验和创新能力，将为客户提供最高效率的电池自动化整线设备的综合解决方案。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "带薪年假",
+            "免费班车",
+            "餐补",
+            "节日福利"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160505/6705e9442416ea84cd9eb1740bc7869ec90769c6ff26a580f9e33206a8a0ddb8.jpg",
+        "scale": 306,
+        "scaleName": "10000人以上",
+        "stage": 807,
+        "stageName": "已上市",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙长沙县三一重工产业园魔豆仓",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "98629c4da92d46ce1XV93d69GFo~",
+        "encryptId": "921b1b58283773ff1nxz0tq6EVtU",
+        "encryptUserId": "79cc69cb57b006f60nF92NW7FVA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.237752,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 113.097705,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d1c24d03f39a9df9c1f5d8a88b5d257",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "任职要求:\n1. 大学本科及以上学历，计算机或者相关专业，从事大数据运维工作两年以上；\n2. 熟悉linux系统，有两年以上的linux系统运维经验；\n3. 掌握一门以上脚本语言(shell/perl/python等)，熟悉ansible；\n4. 具有hadoop、doris、yarn、spark、kafka、flink、CDH、StreamSets等大数据组件运维经验，深入理解其中的一个或者两个组件的内部运行机制\n5、熟悉Docker/Kubernetes相关使用经验是一个加分项\n6、具备较强的故障排查能力，有很好的技术敏感度和风险识别能力。\n\n工作内容:\n1、参与维护数据中台所有软件、硬件的正常运行，处理数据中台出现的各类异常\n2、参与数据中台相关项目的建设和维护\n3、对接各组件监控、数据，及时发现各类异常，并逐步建设智能运维系统。\n4、性能调优，熟悉掌握各类大数据组件内部原理，根据实际生产环境运行情况优化组件配置。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "14-20K",
+        "showSkills": [
+            "Python",
+            "Shell",
+            "大数据运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73cfbbdac25db0274fa07bab6acad3c0"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "tuS4GVHjrp3vG-W1N4CofUJlWj445WBBuTKOl3pgKjgKgQjSKZ8zG4ZmtxX6tsW8Sgv4yMXSxwyWs0bQwfWMX4zEpzPzQu3QsA3cdHjF92cGvl-Epd-nG47CK1Ysyf4~",
+    "selfAccess": false,
+    "sessionId": null
 }

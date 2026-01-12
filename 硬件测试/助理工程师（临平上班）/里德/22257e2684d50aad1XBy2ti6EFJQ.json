@@ -1,108 +1,104 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "KoYkskJMAaOvw-u1nDG2O6DeYnKn-VrDIrVgEiteTNNwJs1pPl_z1urzzdqULrRgL_BNMct8jvFGz7uTurE5XFKt2R9m9A76Ef6ehue_Ik-ufNQsr6o~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "22257e2684d50aad1XBy2ti6EFJQ",
-      "encryptUserId": "385bdebb0497fef00nZ43dq7GVJV",
-      "invalidStatus": false,
-      "jobName": "助理工程师（临平上班）",
-      "position": 100308,
-      "positionName": "硬件测试",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、初样样品调试测试\n2、调试测试文件撰写以及文件验证\n3、产线、产品指导，简单异常处理\n4、历史产品维护\n5、协助工程师完成区域内分布的任务\n\n任职要求：\n1、学历大专及以上\n2、有行业一年以上相关工作经验\n3、掌握焊接技术，认识常用电子元器件，熟练使用电子电源，负载等仪器设备。\n4、执行力强，工作严谨有担当。",
-      "encryptAddressId": "952484a0bae2b64303J929i5E1M~",
-      "address": "杭州余杭区万通中心万通中心3号楼208",
-      "longitude": 119.999842,
-      "latitude": 30.284447,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8da74217d2aaac17811754e8e41929a4",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed1decb80e135b96771b81057fd2f90b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电池/电源类"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "邵女士",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "里德",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "75e90970c0c177b20HJ72NS8FQ~~",
-      "brandName": "里德",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210527/f78ba04fb3618c4a45507268df231e3587d17fd2f260237b6d5827e7b1ced2ae.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 305,
-      "scaleName": "1000-9999人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
-      "introduce": "杭州里德通信有限公司主要业务为BMS产品研发、生产、销售及电子产品加工业务。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "定期体检",
-        "加班补助",
-        "全勤奖",
-        "年终奖",
-        "带薪年假",
-        "员工旅游",
-        "餐补",
-        "通讯补贴",
-        "交通补助",
-        "包吃",
-        "节日福利",
-        "住房补贴",
-        "孝顺金"
-      ],
-      "activeTime": 1727312446000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "里德",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "里德",
+        "certificated": true,
+        "large": null,
+        "name": "邵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1727312446000,
+        "brandName": "里德",
+        "customerBrandName": "里德",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "75e90970c0c177b20HJ72NS8FQ~~",
+        "focusBrand": false,
+        "industry": 100902,
+        "industryName": "仪器仪表/工业自动化",
+        "introduce": "杭州里德通信有限公司主要业务为BMS产品研发、生产、销售及电子产品加工业务。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "定期体检",
+            "加班补助",
+            "全勤奖",
+            "年终奖",
+            "带薪年假",
+            "员工旅游",
+            "餐补",
+            "通讯补贴",
+            "交通补助",
+            "包吃",
+            "节日福利",
+            "住房补贴",
+            "孝顺金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210527/f78ba04fb3618c4a45507268df231e3587d17fd2f260237b6d5827e7b1ced2ae.png",
+        "scale": 305,
+        "scaleName": "1000-9999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州余杭区万通中心万通中心3号楼208",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "952484a0bae2b64303J929i5E1M~",
+        "encryptId": "22257e2684d50aad1XBy2ti6EFJQ",
+        "encryptUserId": "385bdebb0497fef00nZ43dq7GVJV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "助理工程师（临平上班）",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.284447,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.999842,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed1decb80e135b96771b81057fd2f90b",
+        "position": 100308,
+        "positionName": "硬件测试",
+        "postDescription": "岗位职责：\n1、初样样品调试测试\n2、调试测试文件撰写以及文件验证\n3、产线、产品指导，简单异常处理\n4、历史产品维护\n5、协助工程师完成区域内分布的任务\n\n任职要求：\n1、学历大专及以上\n2、有行业一年以上相关工作经验\n3、掌握焊接技术，认识常用电子元器件，熟练使用电子电源，负载等仪器设备。\n4、执行力强，工作严谨有担当。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K·13薪",
+        "showSkills": [
+            "电池/电源类"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8da74217d2aaac17811754e8e41929a4"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "KoYkskJMAaOvw-u1nDG2O6DeYnKn-VrDIrVgEiteTNNwJs1pPl_z1urzzdqULrRgL_BNMct8jvFGz7uTurE5XFKt2R9m9A76Ef6ehue_Ik-ufNQsr6o~",
+    "selfAccess": false,
+    "sessionId": null
 }

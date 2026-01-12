@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "S3xgUIeLVYkY9-Q14P4Gt0rZ6jm1P-9VTb-PLyF0vQ4SXXvmnTlc_vXWEb1dEmDqc61Cy0dQMa9TGCauidVzhzQL-LOFVCKly36_faBb0k00FxV4sZBh",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "8e9ad92cf12799da1XN43dm0GFFZ",
-      "encryptUserId": "4f8e8dd68ef96acb0nJy3Nq1E1BU",
-      "invalidStatus": false,
-      "jobName": "2D游戏动效师",
-      "position": 120111,
-      "positionName": "游戏特效",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责： \n1、根据上级主管分配的产品需求，完成2D游戏项目的动作、特效制作\n2、协助优化美术资源，结合交互反馈，按要求完成游戏内UI交互动效\n3、对2D游戏项目的美术制作流程有一定的了解，配合前端调整相关的动效\n4、具备一定的手绘能力，能辅助原画切图，补图\n5、加分项：熟悉COCOS开发引擎的功能与操作\n岗位要求：\n1、大专及以上学历，具备一定美术功底，熟悉运动规律，2年以上游戏工作经验\n2、精通AE、Spine、DragonBones等主流工具；\n3、能快速的实现自我成长，学习能力、沟通协作能力、理解能力强；\n4、具有较强的创新意识、高度的责任感及团队合作意识。",
-      "encryptAddressId": "428692fb447dbcc30nd92d69EVpUwIm_WfI~",
-      "address": "长沙岳麓区长沙新天地407",
-      "longitude": 112.96247,
-      "latitude": 28.22679,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfd6ad50969a445d2d02919fb66ecd4cdf6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfa0d5a201bfbff8b34289b947fe90350c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "休闲益智"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "运营总监",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230522/607f1f3d68754fd02b9af508bed4b21aab4bc67a1a5277a61c41c0d7a54adf44fea0f666247_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
-      "brandName": "奇焕网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "352608cc658c29f51XFy2dm_EVA~",
-      "brandName": "奇焕网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100002,
-      "industryName": "游戏",
-      "introduce": "",
-      "labels": [
-        "底薪加提成",
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1727622660192,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "奇焕网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本周活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "奇焕网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230522/607f1f3d68754fd02b9af508bed4b21aab4bc67a1a5277a61c41c0d7a54adf44fea0f666247_b.jpg",
+        "title": "运营总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727622660192,
+        "brandName": "奇焕网络科技",
+        "customerBrandName": "奇焕网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "352608cc658c29f51XFy2dm_EVA~",
+        "focusBrand": false,
+        "industry": 100002,
+        "industryName": "游戏",
+        "introduce": "",
+        "labels": [
+            "底薪加提成",
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区长沙新天地407",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "428692fb447dbcc30nd92d69EVpUwIm_WfI~",
+        "encryptId": "8e9ad92cf12799da1XN43dm0GFFZ",
+        "encryptUserId": "4f8e8dd68ef96acb0nJy3Nq1E1BU",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "2D游戏动效师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.22679,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.96247,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfa0d5a201bfbff8b34289b947fe90350c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 120111,
+        "positionName": "游戏特效",
+        "postDescription": "岗位职责： \n1、根据上级主管分配的产品需求，完成2D游戏项目的动作、特效制作\n2、协助优化美术资源，结合交互反馈，按要求完成游戏内UI交互动效\n3、对2D游戏项目的美术制作流程有一定的了解，配合前端调整相关的动效\n4、具备一定的手绘能力，能辅助原画切图，补图\n5、加分项：熟悉COCOS开发引擎的功能与操作\n岗位要求：\n1、大专及以上学历，具备一定美术功底，熟悉运动规律，2年以上游戏工作经验\n2、精通AE、Spine、DragonBones等主流工具；\n3、能快速的实现自我成长，学习能力、沟通协作能力、理解能力强；\n4、具有较强的创新意识、高度的责任感及团队合作意识。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "休闲益智"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfd6ad50969a445d2d02919fb66ecd4cdf6bb61e3b7bce0931da574d19d1d82c88.jpg.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "S3xgUIeLVYkY9-Q14P4Gt0rZ6jm1P-9VTb-PLyF0vQ4SXXvmnTlc_vXWEb1dEmDqc61Cy0dQMa9TGCauidVzhzQL-LOFVCKly36_faBb0k00FxV4sZBh",
+    "selfAccess": false,
+    "sessionId": null
 }

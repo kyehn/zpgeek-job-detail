@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "iyQpak5i3y6tM-n1UtdF8ePdoGAy9QFo8zav5TnlAfb4PFdrXWBv2XgZdCtRJ23CDz8KmTxm6Go_8bo103w1JvIJ9xwcjrRAuLmpCPgu3PM24EBoAA~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "d756d2e6bb9c911f1nZ70ti0GFFQ",
-      "encryptUserId": "f82debc2ec1e26f30nF63tq6GFA~",
-      "invalidStatus": false,
-      "jobName": "Java开发工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、熟练掌握java后端代码编写、数据库操作、sql语句优化、wsdl技术调用接口、生成接口等。\n\n2、本身掌握的前端技术加上工作期间积累的html5和css3知识，会同时负责前端的实现。",
-      "encryptAddressId": "26d952b2759dafd61Hd92dS9ElM~",
-      "address": "深圳龙岗区专家村1层122办公室",
-      "longitude": 114.530443,
-      "latitude": 22.589754,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb58ed51fb38ec587c095c8a076c390a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69581af1f34dc457708d64ad5d705abc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "SQL",
-        "软件工程师",
-        "Spring",
-        "后端开发",
-        "企业级应用开发",
-        "Linux"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "曹先生",
-      "title": "部门经理",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190225/e2250e9d619b89b4b0005d84a2062a5d5ec87aafb691cd039579be36ca4_b.jpg",
-      "large": null,
-      "activeTimeDesc": "近半年活跃",
-      "bossOnline": false,
-      "brandName": "云泰软件",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "196a233809ae13021H1y09S8EQ~~",
-      "brandName": "云泰软件",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1723075215528,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "云泰软件",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "近半年活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "云泰软件",
+        "certificated": true,
+        "large": null,
+        "name": "曹先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190225/e2250e9d619b89b4b0005d84a2062a5d5ec87aafb691cd039579be36ca4_b.jpg",
+        "title": "部门经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723075215528,
+        "brandName": "云泰软件",
+        "customerBrandName": "云泰软件",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "196a233809ae13021H1y09S8EQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳龙岗区专家村1层122办公室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "26d952b2759dafd61Hd92dS9ElM~",
+        "encryptId": "d756d2e6bb9c911f1nZ70ti0GFFQ",
+        "encryptUserId": "f82debc2ec1e26f30nF63tq6GFA~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java开发工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.589754,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 114.530443,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69581af1f34dc457708d64ad5d705abc",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、熟练掌握java后端代码编写、数据库操作、sql语句优化、wsdl技术调用接口、生成接口等。\n\n2、本身掌握的前端技术加上工作期间积累的html5和css3知识，会同时负责前端的实现。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "SQL",
+            "软件工程师",
+            "Spring",
+            "后端开发",
+            "企业级应用开发",
+            "Linux"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb58ed51fb38ec587c095c8a076c390a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "iyQpak5i3y6tM-n1UtdF8ePdoGAy9QFo8zav5TnlAfb4PFdrXWBv2XgZdCtRJ23CDz8KmTxm6Go_8bo103w1JvIJ9xwcjrRAuLmpCPgu3PM24EBoAA~~",
+    "selfAccess": false,
+    "sessionId": null
 }

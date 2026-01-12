@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "_5_d6LUnCAca--j1NaeF-ZFg-7kapHl5g6qF2Ebp7Rt0pqe6Zf-qJhK0AF2m_53yi2_UrrPBo3erDXdRZklhQyvxd272zaQ4xi8fiUH7prgbaJCHv57IzCCleNw5rFW5r6jiaT1RrCCh2ZbKengRzex-URaCYQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "22e6cccef86aa94b03R909y9F1dQ",
-      "encryptUserId": "7b420c24cf1d5fd41nZ73N2_ElJZ",
-      "invalidStatus": false,
-      "jobName": "云平台运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "9-11K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1.负责公司服务器搭建，维护，监控，调优\n2.负责公司服务器安全，故障解决\n3.负责java，tomcat，nginx项目部署\n4.负责redis，elk，pgsql等项目涉及产品的部署\n \n岗位要求：\n1.本科学历，计算机相关专业\n2.熟悉防火墙、路由器、 交换机，了解TCP/IP协议。\n3.熟练Linux系统的命令\n4.熟悉nginx /tomcat / LAMP 配置和性能优化；\n5.熟练使用docker容器相关技术，K8S等。\n6.熟悉常见IT监控运维产品(如：elk、zabbix、nagios、cacti软件等配置与使用)；\n7.熟悉阿里云相关产品的使用；\n8.问题分析和处理能力强，动手能力强，热衷技术，精益求精，有一定的技术癖；\n9.熟悉APISIX使用者优先；",
-      "encryptAddressId": "881e867c937d083e1nB539W-GVFXwIW8UfKW",
-      "address": "深圳南山区深圳国家工程实验室大楼A栋8楼802",
-      "longitude": 113.948561,
-      "latitude": 22.534573,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf601527995a4a0898419fef0b4d93eee96bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfba14f446f8f59fd4e90ad0cdbd7833056bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "运维开发经验",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "杨女士",
-      "title": "人力资源部",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201115/7f62b090dbb1a9c065f9cdd3bcc6a84840a32fba775625e865befd756d6_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "笃威尔数字技术深圳",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4829bac9d307f9ec1HJ42ti_FlM~",
-      "brandName": "笃威尔数字技术深圳",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1734790367443,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "笃威尔数字技术深圳",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "笃威尔数字技术深圳",
+        "certificated": true,
+        "large": null,
+        "name": "杨女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201115/7f62b090dbb1a9c065f9cdd3bcc6a84840a32fba775625e865befd756d6_b.jpg",
+        "title": "人力资源部"
+    },
+    "brandComInfo": {
+        "activeTime": 1734790367443,
+        "brandName": "笃威尔数字技术深圳",
+        "customerBrandName": "笃威尔数字技术深圳",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4829bac9d307f9ec1HJ42ti_FlM~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳南山区深圳国家工程实验室大楼A栋8楼802",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "本科",
+        "encryptAddressId": "881e867c937d083e1nB539W-GVFXwIW8UfKW",
+        "encryptId": "22e6cccef86aa94b03R909y9F1dQ",
+        "encryptUserId": "7b420c24cf1d5fd41nZ73N2_ElJZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "云平台运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 22.534573,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.948561,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfba14f446f8f59fd4e90ad0cdbd7833056bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1.负责公司服务器搭建，维护，监控，调优\n2.负责公司服务器安全，故障解决\n3.负责java，tomcat，nginx项目部署\n4.负责redis，elk，pgsql等项目涉及产品的部署\n \n岗位要求：\n1.本科学历，计算机相关专业\n2.熟悉防火墙、路由器、 交换机，了解TCP/IP协议。\n3.熟练Linux系统的命令\n4.熟悉nginx /tomcat / LAMP 配置和性能优化；\n5.熟练使用docker容器相关技术，K8S等。\n6.熟悉常见IT监控运维产品(如：elk、zabbix、nagios、cacti软件等配置与使用)；\n7.熟悉阿里云相关产品的使用；\n8.问题分析和处理能力强，动手能力强，热衷技术，精益求精，有一定的技术癖；\n9.熟悉APISIX使用者优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "9-11K",
+        "showSkills": [
+            "系统运维",
+            "运维开发经验",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf601527995a4a0898419fef0b4d93eee96bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "_5_d6LUnCAca--j1NaeF-ZFg-7kapHl5g6qF2Ebp7Rt0pqe6Zf-qJhK0AF2m_53yi2_UrrPBo3erDXdRZklhQyvxd272zaQ4xi8fiUH7prgbaJCHv57IzCCleNw5rFW5r6jiaT1RrCCh2ZbKengRzex-URaCYQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

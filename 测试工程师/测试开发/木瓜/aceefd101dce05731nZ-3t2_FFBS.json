@@ -1,104 +1,100 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "V6uKw9_DZRr94-A1aG31T_3kI1wHA0KtPyot-nq4d1DLknrKM45HN-aTTOs92jkSPl1m__3I_dl2vBNm3TtSIOGji1_BlVpQ7-X3OL88urYNhq6hh6I~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "aceefd101dce05731nZ-3t2_FFBS",
-      "encryptUserId": "a244b1a4f9a16a060XV42N68F1Q~",
-      "invalidStatus": false,
-      "jobName": "测试开发",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101210600,
-      "locationName": "台州",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "3-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责： \n1.负责Web 端和移动端产品的功能测试和回归测试；\n2.参与需求分析，根据需求文档制定测试方案，测试计划和测试用例；\n3.及时提交bug 及用户反馈 和开发人员分析解决问题；\n4.完善测试业务文档体系；\n任职要求：\n1.计算机或相关专业大专以上学历；\n2.熟练使用软件测试常用工具；\n3.熟悉测试测试流程及测试方法；\n4.熟悉财务及ERP 软件者优先；",
-      "encryptAddressId": "b57184e8d02a88801nx73du6ElM~",
-      "address": "台州椒江区鑫泰广场(东南2门)508",
-      "longitude": 121.416928,
-      "latitude": 28.65105,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4723626490dcedcc80c8ca2db57547a5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b07cc9739a4237bfe31bc4e80c1adec7",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "软件测试",
-        "功能测试",
-        "web端测试",
-        "移动端测试",
-        "测试开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "陈先生",
-      "title": "总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
-      "large": null,
-      "activeTimeDesc": "4月内活跃",
-      "bossOnline": false,
-      "brandName": "木瓜",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4ea18224121523f21nV_29q7E1Q~",
-      "brandName": "木瓜",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [
-        "补充医疗保险",
-        "定期体检",
-        "加班补助",
-        "年终奖",
-        "带薪年假",
-        "交通补助",
-        "节日福利"
-      ],
-      "activeTime": 1725338355810,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "木瓜",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "4月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "木瓜",
+        "certificated": true,
+        "large": null,
+        "name": "陈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+        "title": "总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1725338355810,
+        "brandName": "木瓜",
+        "customerBrandName": "木瓜",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4ea18224121523f21nV_29q7E1Q~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [
+            "补充医疗保险",
+            "定期体检",
+            "加班补助",
+            "年终奖",
+            "带薪年假",
+            "交通补助",
+            "节日福利"
+        ],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "台州椒江区鑫泰广场(东南2门)508",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "b57184e8d02a88801nx73du6ElM~",
+        "encryptId": "aceefd101dce05731nZ-3t2_FFBS",
+        "encryptUserId": "a244b1a4f9a16a060XV42N68F1Q~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "测试开发",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.65105,
+        "location": 101210600,
+        "locationName": "台州",
+        "longitude": 121.416928,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b07cc9739a4237bfe31bc4e80c1adec7",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责： \n1.负责Web 端和移动端产品的功能测试和回归测试；\n2.参与需求分析，根据需求文档制定测试方案，测试计划和测试用例；\n3.及时提交bug 及用户反馈 和开发人员分析解决问题；\n4.完善测试业务文档体系；\n任职要求：\n1.计算机或相关专业大专以上学历；\n2.熟练使用软件测试常用工具；\n3.熟悉测试测试流程及测试方法；\n4.熟悉财务及ERP 软件者优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "3-8K",
+        "showSkills": [
+            "软件测试",
+            "功能测试",
+            "web端测试",
+            "移动端测试",
+            "测试开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4723626490dcedcc80c8ca2db57547a5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "V6uKw9_DZRr94-A1aG31T_3kI1wHA0KtPyot-nq4d1DLknrKM45HN-aTTOs92jkSPl1m__3I_dl2vBNm3TtSIOGji1_BlVpQ7-X3OL88urYNhq6hh6I~",
+    "selfAccess": false,
+    "sessionId": null
 }

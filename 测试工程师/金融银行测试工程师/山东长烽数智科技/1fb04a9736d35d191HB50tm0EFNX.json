@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zl8Y8ddmLZs7N-p12s1bC1-iC1djf0UN2NLhkd4f-BtQzNojsecGOuS-HlsX3tUOrego8ElNNZPSCpsyvvGO7s_qfLDFwyE5taGE4_MJuSWk4LYTCRvrctskkzgx5OHnL1uD1MU6HuR8SQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "1fb04a9736d35d191HB50tm0EFNX",
-      "encryptUserId": "2dbbf8d169dfba2903F_3d25EVM~",
-      "invalidStatus": false,
-      "jobName": "金融银行测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101120200,
-      "locationName": "青岛",
-      "experienceName": "1年以内",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-12K",
-      "payTypeDesc": null,
-      "postDescription": "1.具备软件测试理论基础，掌握测试流程及方法；2.独立设计测试用例、执行功能测试、接口测试等，保证测试效率和保证质量，适应敏捷流程 3.熟练使用测试工具如：postman、jmeter、jira、禅道等；4.掌握数据库sql语言和linux常用命令5.具备较强的逻辑分析能力、学习能力、定位问题推动解决问题能力；6.具备金融行业、互联网金融相关测试经验优先考虑；\n本科学历，计算机相关专业。",
-      "encryptAddressId": "7f3ea8c05f8555900nV80961F1s~",
-      "address": "青岛市南区华普大厦(陆丰路)9",
-      "longitude": 120.394677,
-      "latitude": 36.064695,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4279a248b5928065e939b29e2023e5d8",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10c859af1822da381b245a10eb762251",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "性能测试"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "郭女士",
-      "title": "招聘主管",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd097292adcc766936372ad20b4c3129c4522e3ca57b8779a3a28455a6199b70c1_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
-      "brandName": "山东长烽数智科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "69d141683add263c1HJ739S6EVc~",
-      "brandName": "山东长烽数智科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240722/7b5b554d84f9729cb34fc9dad0050c0a3ee757cd4c81964b2a4732b85faa915ae338410fa0ea4591.png.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 304,
-      "scaleName": "500-999人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "公司前身为建投数据科技（山东）有限公司\n\n    公司成立于2015年，是一家专注于大数据、云计算、区块链、人工智能等新一代信息技术的高科技企业。设有济南分公司、潍坊设有分公司，业务范围遍及全国10多个省市。\n     秉承“远见成就未来”的企业理念，用数据为客户创造价值。公司致力于成为青岛市新一代信息技术产业领先者，为社会经济的赋能发展贡献力量。",
-      "labels": [
-        "交通补助",
-        "生日福利",
-        "节日福利",
-        "有无线网",
-        "团建聚餐",
-        "带薪年假",
-        "节假日加班费",
-        "绩效奖金",
-        "定期体检",
-        "意外险",
-        "五险一金"
-      ],
-      "activeTime": 1731289594062,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山东长烽数智科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": true,
+        "bossSource": 0,
+        "brandName": "山东长烽数智科技",
+        "certificated": true,
+        "large": null,
+        "name": "郭女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd097292adcc766936372ad20b4c3129c4522e3ca57b8779a3a28455a6199b70c1_b.jpg",
+        "title": "招聘主管"
+    },
+    "brandComInfo": {
+        "activeTime": 1731289594062,
+        "brandName": "山东长烽数智科技",
+        "customerBrandName": "山东长烽数智科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "69d141683add263c1HJ739S6EVc~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "公司前身为建投数据科技（山东）有限公司\n\n    公司成立于2015年，是一家专注于大数据、云计算、区块链、人工智能等新一代信息技术的高科技企业。设有济南分公司、潍坊设有分公司，业务范围遍及全国10多个省市。\n     秉承“远见成就未来”的企业理念，用数据为客户创造价值。公司致力于成为青岛市新一代信息技术产业领先者，为社会经济的赋能发展贡献力量。",
+        "labels": [
+            "交通补助",
+            "生日福利",
+            "节日福利",
+            "有无线网",
+            "团建聚餐",
+            "带薪年假",
+            "节假日加班费",
+            "绩效奖金",
+            "定期体检",
+            "意外险",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240722/7b5b554d84f9729cb34fc9dad0050c0a3ee757cd4c81964b2a4732b85faa915ae338410fa0ea4591.png.webp",
+        "scale": 304,
+        "scaleName": "500-999人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "青岛市南区华普大厦(陆丰路)9",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "7f3ea8c05f8555900nV80961F1s~",
+        "encryptId": "1fb04a9736d35d191HB50tm0EFNX",
+        "encryptUserId": "2dbbf8d169dfba2903F_3d25EVM~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "金融银行测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 36.064695,
+        "location": 101120200,
+        "locationName": "青岛",
+        "longitude": 120.394677,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10c859af1822da381b245a10eb762251",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "1.具备软件测试理论基础，掌握测试流程及方法；2.独立设计测试用例、执行功能测试、接口测试等，保证测试效率和保证质量，适应敏捷流程 3.熟练使用测试工具如：postman、jmeter、jira、禅道等；4.掌握数据库sql语言和linux常用命令5.具备较强的逻辑分析能力、学习能力、定位问题推动解决问题能力；6.具备金融行业、互联网金融相关测试经验优先考虑；\n本科学历，计算机相关专业。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-12K",
+        "showSkills": [
+            "性能测试"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4279a248b5928065e939b29e2023e5d8"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zl8Y8ddmLZs7N-p12s1bC1-iC1djf0UN2NLhkd4f-BtQzNojsecGOuS-HlsX3tUOrego8ElNNZPSCpsyvvGO7s_qfLDFwyE5taGE4_MJuSWk4LYTCRvrctskkzgx5OHnL1uD1MU6HuR8SQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

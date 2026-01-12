@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ZZXeFhgl3R6V5-T1cP0GkRGff3VQuvEsvaPFT9rXJDYzxWhMxEAXJptvJ8qMRsRXjLzSzPbXtVr5CvX0Ga85kLX-AMsaWJaSdkjJChalSvm8dFEdLOLxyaYJyBJEoSLR8lFI34HqA4jaMr0~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "b74dd84b06c5bb2b1XN43NS_E1VR",
-      "encryptUserId": "0a650c6ed35f46af0nR40t-0FVNV",
-      "invalidStatus": false,
-      "jobName": "软件服务工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101230500,
-      "locationName": "泉州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司软件产品的售后服务支持、日常运行维护工作，按时完成服务任务 ；\n2、根据客户的需求进行软件的维护以及帮助客户在线远程解决软件问题；\n3、根据客户需求，远程进行二次培训或专项服务交付工作；\n4、定期总结处理的典型问题并形成问题集库，并及时分享传递给团队成员，提升服务效率；\n5、登记客户新需求，交付给开发部。\n任职要求：\n1、大学专科及以上学历，1年或以上工作经验，计算机、财务或信息管理等相关专业；\n2、有一定的财务和ERP理论知识，或在财务、供应链、生产制造等任一方面有较好的实践经验；\n3、学习能力强，有较强的客户服务意识，及较强的沟通表达能力和团队协作精神；\n4、有良好的团队合作精神和敬业精神、有担当有责任心，能够承担工作压力；\n4、熟练掌握主流数据库、工具软件的使用。具备使用企业管理类软件经验者优先考虑；\n5、有从事过软件行业等相关工作经验优先！",
-      "encryptAddressId": "38c2f4150691f7cc0H1z2d69GFI~",
-      "address": "泉州丰泽区融泰安大厦2501",
-      "longitude": 118.609921,
-      "latitude": 24.892739,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2a949fbb9bc55e499f711f544529fdc",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c0e72440afa38378e278458cc3c4bb4",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "吴先生",
-      "title": "经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "司南科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3174fc46ee4832fa1nB629q9E1o~",
-      "brandName": "司南科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "司南软件成立于2013年，是国内专业的软件公司，致力于为企业提供信息化、数字化、智能化服务。司南软件为客户提供 IT咨询、IT研发、实施运营为一体的IT解决方案。",
-      "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "年终奖",
-        "生日福利",
-        "节日福利",
-        "团建聚餐",
-        "全勤奖",
-        "工龄奖",
-        "底薪加提成",
-        "绩效奖金"
-      ],
-      "activeTime": 1727963508616,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "司南科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "司南科技",
+        "certificated": true,
+        "large": null,
+        "name": "吴先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727963508616,
+        "brandName": "司南科技",
+        "customerBrandName": "司南科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "3174fc46ee4832fa1nB629q9E1o~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "司南软件成立于2013年，是国内专业的软件公司，致力于为企业提供信息化、数字化、智能化服务。司南软件为客户提供 IT咨询、IT研发、实施运营为一体的IT解决方案。",
+        "labels": [
+            "五险一金",
+            "补充医疗保险",
+            "年终奖",
+            "生日福利",
+            "节日福利",
+            "团建聚餐",
+            "全勤奖",
+            "工龄奖",
+            "底薪加提成",
+            "绩效奖金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "泉州丰泽区融泰安大厦2501",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "38c2f4150691f7cc0H1z2d69GFI~",
+        "encryptId": "b74dd84b06c5bb2b1XN43NS_E1VR",
+        "encryptUserId": "0a650c6ed35f46af0nR40t-0FVNV",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "软件服务工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 24.892739,
+        "location": 101230500,
+        "locationName": "泉州",
+        "longitude": 118.609921,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c0e72440afa38378e278458cc3c4bb4",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "岗位职责：\n1、负责公司软件产品的售后服务支持、日常运行维护工作，按时完成服务任务 ；\n2、根据客户的需求进行软件的维护以及帮助客户在线远程解决软件问题；\n3、根据客户需求，远程进行二次培训或专项服务交付工作；\n4、定期总结处理的典型问题并形成问题集库，并及时分享传递给团队成员，提升服务效率；\n5、登记客户新需求，交付给开发部。\n任职要求：\n1、大学专科及以上学历，1年或以上工作经验，计算机、财务或信息管理等相关专业；\n2、有一定的财务和ERP理论知识，或在财务、供应链、生产制造等任一方面有较好的实践经验；\n3、学习能力强，有较强的客户服务意识，及较强的沟通表达能力和团队协作精神；\n4、有良好的团队合作精神和敬业精神、有担当有责任心，能够承担工作压力；\n4、熟练掌握主流数据库、工具软件的使用。具备使用企业管理类软件经验者优先考虑；\n5、有从事过软件行业等相关工作经验优先！",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2a949fbb9bc55e499f711f544529fdc"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ZZXeFhgl3R6V5-T1cP0GkRGff3VQuvEsvaPFT9rXJDYzxWhMxEAXJptvJ8qMRsRXjLzSzPbXtVr5CvX0Ga85kLX-AMsaWJaSdkjJChalSvm8dFEdLOLxyaYJyBJEoSLR8lFI34HqA4jaMr0~",
+    "selfAccess": false,
+    "sessionId": null
 }

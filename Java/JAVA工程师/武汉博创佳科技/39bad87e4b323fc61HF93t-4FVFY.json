@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "xDq18yv6h8fzM-61-xRW5fVBiYIOnCyRHccDJ4g_BcilNlAb4MFNKl5GJHcJYpksEbwhdDGFUdm7rFpJuxp3IThFYVH0dtJqR6nMFtBKdiY400wiikEg4B1VA-rMCv1qC_bngJvSQc-yfic~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "39bad87e4b323fc61HF93t-4FVFY",
-      "encryptUserId": "7fb882ff55e6d1650nZz2NS8FFBW",
-      "invalidStatus": false,
-      "jobName": "java工程师",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、公司微信公众号开发与维护\n2、公司营销活动的开发\n3、公司公众号H5网站的开发与维护\n\n[岗位要求]\n1、熟悉JavaScript、HTML、CSS 等常用前端技术\n2、熟练掌握微信小程序开发\n3、vue相关开发经验，熟练使用vue、vuex和vue-router\n4、熟悉前后端分离并有实际工作经验\n5、能解决常见的浏览器兼容问题\n6、熟练使用SVN进行协作开发\n7、沟通能力强，踏实，责任心强，善于分析问题，解决问题\n\n[加分项]\n1、有以上内容相关的开源项目\n2、对电信业务有一定的了解",
-      "encryptAddressId": "807e947799f738e31HF73tS9GFJQxIu8U_M~",
-      "address": "武汉江汉区汉口创业中心(发展一路)3楼301室",
-      "longitude": 114.236705,
-      "latitude": 30.623157,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230526/48ba41acc9cef1bf092651aae902ba729b7c36855b9562346bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bffc35b33440a6bf2bbf557cd2f48c40046bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "不接受居家办公",
-        "Java",
-        "MySQL",
-        "Redis",
-        "Hive",
-        "微服务经验",
-        "云计算经验",
-        "大数据经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "金女士",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "武汉博创佳科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "4cc1479480bc932e1XN92d61EFc~",
-      "brandName": "武汉博创佳科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100004,
-      "industryName": "广告营销",
-      "introduce": "",
-      "labels": [
-        "有无线网",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1724319184741,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉博创佳科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉博创佳科技",
+        "certificated": true,
+        "large": null,
+        "name": "金女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1724319184741,
+        "brandName": "武汉博创佳科技",
+        "customerBrandName": "武汉博创佳科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "4cc1479480bc932e1XN92d61EFc~",
+        "focusBrand": false,
+        "industry": 100004,
+        "industryName": "广告营销",
+        "introduce": "",
+        "labels": [
+            "有无线网",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉江汉区汉口创业中心(发展一路)3楼301室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "807e947799f738e31HF73tS9GFJQxIu8U_M~",
+        "encryptId": "39bad87e4b323fc61HF93t-4FVFY",
+        "encryptUserId": "7fb882ff55e6d1650nZz2NS8FFBW",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "java工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.623157,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.236705,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bffc35b33440a6bf2bbf557cd2f48c40046bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1、公司微信公众号开发与维护\n2、公司营销活动的开发\n3、公司公众号H5网站的开发与维护\n\n[岗位要求]\n1、熟悉JavaScript、HTML、CSS 等常用前端技术\n2、熟练掌握微信小程序开发\n3、vue相关开发经验，熟练使用vue、vuex和vue-router\n4、熟悉前后端分离并有实际工作经验\n5、能解决常见的浏览器兼容问题\n6、熟练使用SVN进行协作开发\n7、沟通能力强，踏实，责任心强，善于分析问题，解决问题\n\n[加分项]\n1、有以上内容相关的开源项目\n2、对电信业务有一定的了解",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K·13薪",
+        "showSkills": [
+            "不接受居家办公",
+            "Java",
+            "MySQL",
+            "Redis",
+            "Hive",
+            "微服务经验",
+            "云计算经验",
+            "大数据经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230526/48ba41acc9cef1bf092651aae902ba729b7c36855b9562346bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "xDq18yv6h8fzM-61-xRW5fVBiYIOnCyRHccDJ4g_BcilNlAb4MFNKl5GJHcJYpksEbwhdDGFUdm7rFpJuxp3IThFYVH0dtJqR6nMFtBKdiY400wiikEg4B1VA-rMCv1qC_bngJvSQc-yfic~",
+    "selfAccess": false,
+    "sessionId": null
 }

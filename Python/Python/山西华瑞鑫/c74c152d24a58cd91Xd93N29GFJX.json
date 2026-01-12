@@ -1,97 +1,93 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BAlTBlq1o8hfF-Y1Uc5a1jYVt0GSsZlb9ZAJUcd-PrK5dUHRLu6kqZWKRBfxuYeT7fvMzx5HSOpFujnfPp_B80sOREuGio7y-gbXqOo2jVB_WrKyZaI~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "c74c152d24a58cd91Xd93N29GFJX",
-      "encryptUserId": "dd1e95422984566d1X142Ni1GFE~",
-      "invalidStatus": false,
-      "jobName": "Python",
-      "position": 100109,
-      "positionName": "Python",
-      "location": 101100100,
-      "locationName": "太原",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "负责Python软件、服务器程序、网站后台设计，相关算法研发和优化",
-      "encryptAddressId": "e532f78026c9a0fa0XJ-3dS_GVU~",
-      "address": "太原万柏林区OEPC国际能源中心A座1307号",
-      "longitude": 112.518194,
-      "latitude": 37.857162,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ca6767ee35b6cf7993add37d950babd",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ce2ca5f4c553645551229291338b6cb",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "爬虫",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "胡女士",
-      "title": "人力资源经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "山西华瑞鑫",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "72a4c1f5fb077fca1nB8392-EFc~",
-      "brandName": "山西华瑞鑫",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101207,
-      "industryName": "环保",
-      "introduce": "山西华瑞鑫环保科技有限公司成立子2003年，以环保咨询和环保信息科技为主要业务，目前有近百名员工，是国家专精特新企业。",
-      "labels": [
-        "绩效奖金",
-        "年终奖",
-        "五险一金"
-      ],
-      "activeTime": 1723067026962,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "山西华瑞鑫",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "山西华瑞鑫",
+        "certificated": true,
+        "large": null,
+        "name": "胡女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+        "title": "人力资源经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723067026962,
+        "brandName": "山西华瑞鑫",
+        "customerBrandName": "山西华瑞鑫",
+        "customerBrandStageName": "",
+        "encryptBrandId": "72a4c1f5fb077fca1nB8392-EFc~",
+        "focusBrand": false,
+        "industry": 101207,
+        "industryName": "环保",
+        "introduce": "山西华瑞鑫环保科技有限公司成立子2003年，以环保咨询和环保信息科技为主要业务，目前有近百名员工，是国家专精特新企业。",
+        "labels": [
+            "绩效奖金",
+            "年终奖",
+            "五险一金"
+        ],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "太原万柏林区OEPC国际能源中心A座1307号",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e532f78026c9a0fa0XJ-3dS_GVU~",
+        "encryptId": "c74c152d24a58cd91Xd93N29GFJX",
+        "encryptUserId": "dd1e95422984566d1X142Ni1GFE~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Python",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.857162,
+        "location": 101100100,
+        "locationName": "太原",
+        "longitude": 112.518194,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ce2ca5f4c553645551229291338b6cb",
+        "position": 100109,
+        "positionName": "Python",
+        "postDescription": "负责Python软件、服务器程序、网站后台设计，相关算法研发和优化",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "爬虫",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ca6767ee35b6cf7993add37d950babd"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BAlTBlq1o8hfF-Y1Uc5a1jYVt0GSsZlb9ZAJUcd-PrK5dUHRLu6kqZWKRBfxuYeT7fvMzx5HSOpFujnfPp_B80sOREuGio7y-gbXqOo2jVB_WrKyZaI~",
+    "selfAccess": false,
+    "sessionId": null
 }

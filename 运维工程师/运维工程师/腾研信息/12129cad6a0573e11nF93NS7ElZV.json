@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "fNWDSEKoUwXgu-Q1xjGjZYxZw3vyNfaMhLYQnU0QkGmgM92_P8AnS9JVj7HUfO8mUNwyyz_nW4USh-mMjj7msu-akqaq992EpPanLFfEs60SH9eF",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "12129cad6a0573e11nF93NS7ElZV",
-      "encryptUserId": "3e62845d949f37f21XR53Nm0FlM~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1年以内",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "1、负责公司软件产品的售前、售后技术支持和培训工作；\n2、参与公司具体项目的实施，并能够完成项目测试工作；\n3、技术案例的整理、技术资料收集整理、技术培训；\n4、日常业务答疑、独立完成产品现场产品演示任务；\n5、具有一定文字功底，能独立撰写微信文章；\n6、完成上级交办的其他工作。\n\n任职要求：\n\n1. 大专以上学历，计算机或相关工科专业，30岁以内；\n2. 优秀本科应届生亦可，有学生干部工作经验优先；\n3. 有较好的沟通能力、学习能力和文档编写能力；\n4. 吃苦耐劳，工作态度端正，能适应短期出差\n5. 懂网络、服务器、SQL数据库、安全等知识者优先。",
-      "encryptAddressId": "dba7bfe49e8b476703Z93dm4GA~~",
-      "address": "上海浦东新区裕安大厦(东方路)东方路738号607室",
-      "longitude": 121.524728,
-      "latitude": 31.22858,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23075cd52192204cb2af475523087d5f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88586afe11f273bd4df55f33ba226e4b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "系统运维",
-        "桌面运维",
-        "应用运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "金先生",
-      "title": "HRM",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161208/6ef774124f7327851ac9eaa097111762603cf7c0626d37dda826fa4e4bf_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "腾研信息",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3896713dfefdfbcb03J63ti1",
-      "brandName": "腾研信息",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170607/6e203c59dfa81433578b5b7f628e907ace66076e25859cebfccf846faedfadf4.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1726301700441,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "腾研信息",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "腾研信息",
+        "certificated": true,
+        "large": null,
+        "name": "金先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161208/6ef774124f7327851ac9eaa097111762603cf7c0626d37dda826fa4e4bf_b.jpg",
+        "title": "HRM"
+    },
+    "brandComInfo": {
+        "activeTime": 1726301700441,
+        "brandName": "腾研信息",
+        "customerBrandName": "腾研信息",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "3896713dfefdfbcb03J63ti1",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170607/6e203c59dfa81433578b5b7f628e907ace66076e25859cebfccf846faedfadf4.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区裕安大厦(东方路)东方路738号607室",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "dba7bfe49e8b476703Z93dm4GA~~",
+        "encryptId": "12129cad6a0573e11nF93NS7ElZV",
+        "encryptUserId": "3e62845d949f37f21XR53Nm0FlM~",
+        "experienceName": "1年以内",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.22858,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.524728,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88586afe11f273bd4df55f33ba226e4b",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责公司软件产品的售前、售后技术支持和培训工作；\n2、参与公司具体项目的实施，并能够完成项目测试工作；\n3、技术案例的整理、技术资料收集整理、技术培训；\n4、日常业务答疑、独立完成产品现场产品演示任务；\n5、具有一定文字功底，能独立撰写微信文章；\n6、完成上级交办的其他工作。\n\n任职要求：\n\n1. 大专以上学历，计算机或相关工科专业，30岁以内；\n2. 优秀本科应届生亦可，有学生干部工作经验优先；\n3. 有较好的沟通能力、学习能力和文档编写能力；\n4. 吃苦耐劳，工作态度端正，能适应短期出差\n5. 懂网络、服务器、SQL数据库、安全等知识者优先。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K·13薪",
+        "showSkills": [
+            "系统运维",
+            "桌面运维",
+            "应用运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23075cd52192204cb2af475523087d5f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "fNWDSEKoUwXgu-Q1xjGjZYxZw3vyNfaMhLYQnU0QkGmgM92_P8AnS9JVj7HUfO8mUNwyyz_nW4USh-mMjj7msu-akqaq992EpPanLFfEs60SH9eF",
+    "selfAccess": false,
+    "sessionId": null
 }

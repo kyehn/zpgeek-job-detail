@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3E1UzR1sM5W5V-K1oPts7sDGRftU4XntJnFDpGt6wL9S1fq9JGLbZjfuqGqFdwBvWlASakNIsBMMP2grCwgyysb6R1RyBzc3NuFtPZsVLu5ecTrJ-QEK",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "e94d605bc3df56fd1nB_39y8FltZ",
-      "encryptUserId": "325b7cef7e3a3dc80nRz2Nm0F1tZ",
-      "invalidStatus": false,
-      "jobName": "技术工程师",
-      "position": 100801,
-      "positionName": "硬件工程师",
-      "location": 101280600,
-      "locationName": "深圳",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-8K",
-      "payTypeDesc": null,
-      "postDescription": "1.有装配或测试基础\n2.熟悉电脑硬件优先\n3.能熟练使用电烙铁、热风枪  必须符合这点\n4.有一定的电路基础",
-      "encryptAddressId": "018641434850218a1Xd83d2-FlA~",
-      "address": "深圳宝安区石岩汽车站(东北门)永和路",
-      "longitude": 113.928818,
-      "latitude": 22.684493,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e88be603b2926397257eb321e8be8b5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b78efc551fdd9aee122816db3a1330a",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "硬件项目管理经验",
-        "计算机相关专业",
-        "手机/电脑/通讯终端",
-        "计算机"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "尤先生",
-      "title": "行政",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "台进科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "41f2e2ac1c1e738c1nd73t-0FVc~",
-      "brandName": "台进科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100022,
-      "industryName": "计算机硬件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727313581000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "台进科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "台进科技",
+        "certificated": true,
+        "large": null,
+        "name": "尤先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "行政"
+    },
+    "brandComInfo": {
+        "activeTime": 1727313581000,
+        "brandName": "台进科技",
+        "customerBrandName": "台进科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "41f2e2ac1c1e738c1nd73t-0FVc~",
+        "focusBrand": false,
+        "industry": 100022,
+        "industryName": "计算机硬件",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "深圳宝安区石岩汽车站(东北门)永和路",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "018641434850218a1Xd83d2-FlA~",
+        "encryptId": "e94d605bc3df56fd1nB_39y8FltZ",
+        "encryptUserId": "325b7cef7e3a3dc80nRz2Nm0F1tZ",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "技术工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 22.684493,
+        "location": 101280600,
+        "locationName": "深圳",
+        "longitude": 113.928818,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b78efc551fdd9aee122816db3a1330a",
+        "position": 100801,
+        "positionName": "硬件工程师",
+        "postDescription": "1.有装配或测试基础\n2.熟悉电脑硬件优先\n3.能熟练使用电烙铁、热风枪  必须符合这点\n4.有一定的电路基础",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-8K",
+        "showSkills": [
+            "硬件项目管理经验",
+            "计算机相关专业",
+            "手机/电脑/通讯终端",
+            "计算机"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e88be603b2926397257eb321e8be8b5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3E1UzR1sM5W5V-K1oPts7sDGRftU4XntJnFDpGt6wL9S1fq9JGLbZjfuqGqFdwBvWlASakNIsBMMP2grCwgyysb6R1RyBzc3NuFtPZsVLu5ecTrJ-QEK",
+    "selfAccess": false,
+    "sessionId": null
 }

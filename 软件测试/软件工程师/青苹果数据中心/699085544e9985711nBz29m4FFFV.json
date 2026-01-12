@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "typzGX95L2BRr-T1b06O1m2NE-apVchYSXQRv9Xg3jVIbSBoFybT7Srv3Q06Jh_DEDycTftKE7-4wYID9FU9TowtOuEVlIi4klLzSjkWOG0FPRuGR5ZkmCL9dzNPEeX8ZNHcyhafHYQmfnE~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "699085544e9985711nBz29m4FFFV",
-      "encryptUserId": "a6f5f9e535e1447e0nZ82Nq-FFtU",
-      "invalidStatus": false,
-      "jobName": "软件工程师",
-      "position": 100309,
-      "positionName": "软件测试",
-      "location": 101010100,
-      "locationName": "北京",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司软件产品售前、售中和售后的相关技术工作。\n2、完成技术部门领导交付的工作任务。\n\n任职要求：\n1、应届毕业生，本科以上学历，计算机、信息工程等相关专业；\n2、有数据库系统相关技术工作经验者优先；\n3、有较强的学习能力和工作韧性。\n4、工作细致耐心，具有高度责任感，服从管理，能按时完成工作任务。",
-      "encryptAddressId": "fec8b549727a56851ndz39i4ElM~",
-      "address": "北京朝阳区阳明广场北楼12F",
-      "longitude": 116.424671,
-      "latitude": 39.995166,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/949449e5e036f59a3d8bbbb72fd078a2",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36b8a246bacdf31fd9432d97cdb58e23",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "功能测试",
-        "系统测试",
-        "测试开发"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "沈女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "青苹果数据中心",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3b657d625a7b0c311nFy2N24EFQ~",
-      "brandName": "青苹果数据中心",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1725604976003,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "青苹果数据中心",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "青苹果数据中心",
+        "certificated": true,
+        "large": null,
+        "name": "沈女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1725604976003,
+        "brandName": "青苹果数据中心",
+        "customerBrandName": "青苹果数据中心",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3b657d625a7b0c311nFy2N24EFQ~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "北京朝阳区阳明广场北楼12F",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "fec8b549727a56851ndz39i4ElM~",
+        "encryptId": "699085544e9985711nBz29m4FFFV",
+        "encryptUserId": "a6f5f9e535e1447e0nZ82Nq-FFtU",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 39.995166,
+        "location": 101010100,
+        "locationName": "北京",
+        "longitude": 116.424671,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36b8a246bacdf31fd9432d97cdb58e23",
+        "position": 100309,
+        "positionName": "软件测试",
+        "postDescription": "岗位职责：\n1、负责公司软件产品售前、售中和售后的相关技术工作。\n2、完成技术部门领导交付的工作任务。\n\n任职要求：\n1、应届毕业生，本科以上学历，计算机、信息工程等相关专业；\n2、有数据库系统相关技术工作经验者优先；\n3、有较强的学习能力和工作韧性。\n4、工作细致耐心，具有高度责任感，服从管理，能按时完成工作任务。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K",
+        "showSkills": [
+            "功能测试",
+            "系统测试",
+            "测试开发"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/949449e5e036f59a3d8bbbb72fd078a2"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "typzGX95L2BRr-T1b06O1m2NE-apVchYSXQRv9Xg3jVIbSBoFybT7Srv3Q06Jh_DEDycTftKE7-4wYID9FU9TowtOuEVlIi4klLzSjkWOG0FPRuGR5ZkmCL9dzNPEeX8ZNHcyhafHYQmfnE~",
+    "selfAccess": false,
+    "sessionId": null
 }

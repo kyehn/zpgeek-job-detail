@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "kwFEcqsUCosq_-l19pkkZHJ-9_sK-h8UWSnqXc0BOrR6_80KH5kWUpeZtoI-bNE6SKBwuxuQ9ilD-XWp8gliBxxkQ2OPfx3YfZQhCTFOzK7Et9anF0gSl5H4k-3U4UcJapMtIBjAD6Pn4f8~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3325caef789717c31HJ73N6_EFNY",
-      "encryptUserId": "edf3f851e11204960XVz3dm5ElZR",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "在校/应届",
-      "degreeName": "本科",
-      "jobType": 5,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-4K",
-      "payTypeDesc": null,
-      "postDescription": "1  Java，Python任意一种编程语言和一种数据库\n2  在校期间有独立完成过模块和作品\n3  热爱计算机行业\n4  会常见框架，如ORM",
-      "encryptAddressId": "121c0aa2353d32e81nZ53t2_FFFW",
-      "address": "长沙开福区标志商务楼18楼",
-      "longitude": 112.988073,
-      "latitude": 28.222754,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d936bb2efa65388805ddbe0aa6586b5",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/357b429ad52c0ebb1511ddd65c153100",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "MySQL",
-        "Spring",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "刘先生",
-      "title": "技术总监",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "湖南普麦尔网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9d543da9072ef42b1XN809u8EFc~",
-      "brandName": "湖南普麦尔网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100005,
-      "industryName": "大数据",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727147073000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖南普麦尔网络科技",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖南普麦尔网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "刘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+        "title": "技术总监"
+    },
+    "brandComInfo": {
+        "activeTime": 1727147073000,
+        "brandName": "湖南普麦尔网络科技",
+        "customerBrandName": "湖南普麦尔网络科技",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "9d543da9072ef42b1XN809u8EFc~",
+        "focusBrand": false,
+        "industry": 100005,
+        "industryName": "大数据",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙开福区标志商务楼18楼",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "121c0aa2353d32e81nZ53t2_FFFW",
+        "encryptId": "3325caef789717c31HJ73N6_EFNY",
+        "encryptUserId": "edf3f851e11204960XVz3dm5ElZR",
+        "experienceName": "在校/应届",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 5,
+        "latitude": 28.222754,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.988073,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/357b429ad52c0ebb1511ddd65c153100",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1  Java，Python任意一种编程语言和一种数据库\n2  在校期间有独立完成过模块和作品\n3  热爱计算机行业\n4  会常见框架，如ORM",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-4K",
+        "showSkills": [
+            "Java",
+            "MySQL",
+            "Spring",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d936bb2efa65388805ddbe0aa6586b5"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "kwFEcqsUCosq_-l19pkkZHJ-9_sK-h8UWSnqXc0BOrR6_80KH5kWUpeZtoI-bNE6SKBwuxuQ9ilD-XWp8gliBxxkQ2OPfx3YfZQhCTFOzK7Et9anF0gSl5H4k-3U4UcJapMtIBjAD6Pn4f8~",
+    "selfAccess": false,
+    "sessionId": null
 }

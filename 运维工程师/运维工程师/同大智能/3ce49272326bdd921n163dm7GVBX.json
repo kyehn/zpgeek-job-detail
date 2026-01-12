@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "8FkrFq9L838VI-L1cb95JyDtNEFXQ6DciuPO2bjDjOnWGvEszJBuaTxX7KFLWcnpY0ZFWJhdo4LB0wXXcnfGA2vByaBUtGj6I3jppfH5n666-wwQlMeXCuANjYFon1ILUjtp0xQ1Lj4C",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "3ce49272326bdd921n163dm7GVBX",
-      "encryptUserId": "f2ebd64b61a297310H1409S4ElM~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101220100,
-      "locationName": "合肥",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1、负责银行监控中心的日常运维和服务\n2、对安全防范系统有比较深入的了解和实际动手能力；能全面的解决银行安保系统出现的各种问题；\n3、熟悉银行监控中心系统的运用，包括对软件系统的操作，巡查和记录发生的问题，及时通知相关单位处理。\n4、工作勤奋，为人诚实。能够服从第三方管理，处理和维护好与客户的关系。",
-      "encryptAddressId": "17855a5de1dc81691nB40tW-E1E~",
-      "address": "合肥包河区金中环广场B_2008",
-      "longitude": 117.304826,
-      "latitude": 31.828004,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9db13c51863036ed0cbd9883e575b10c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d8c45608be755246b01f66df957a83b",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "监控系统运维"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "潘先生",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191022/092647cf425523e64f8baa3ce7a41ae5d1a865c2e5d38bcb5724f05e45c_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "同大智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7092d48218714a4a0XZz3dq_GA~~",
-      "brandName": "同大智能",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191102/4b1cd35861c106d80c326e9e26bb9170d1a865c2e5d38bcb5724f05e45c7161a.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100702,
-      "industryName": "工程施工",
-      "introduce": "公司主要业务是金融，学校等智能化工程",
-      "labels": [],
-      "activeTime": 1727860046086,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "同大智能",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "同大智能",
+        "certificated": true,
+        "large": null,
+        "name": "潘先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191022/092647cf425523e64f8baa3ce7a41ae5d1a865c2e5d38bcb5724f05e45c_b.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1727860046086,
+        "brandName": "同大智能",
+        "customerBrandName": "同大智能",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "7092d48218714a4a0XZz3dq_GA~~",
+        "focusBrand": false,
+        "industry": 100702,
+        "industryName": "工程施工",
+        "introduce": "公司主要业务是金融，学校等智能化工程",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191102/4b1cd35861c106d80c326e9e26bb9170d1a865c2e5d38bcb5724f05e45c7161a.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "合肥包河区金中环广场B_2008",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "17855a5de1dc81691nB40tW-E1E~",
+        "encryptId": "3ce49272326bdd921n163dm7GVBX",
+        "encryptUserId": "f2ebd64b61a297310H1409S4ElM~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.828004,
+        "location": 101220100,
+        "locationName": "合肥",
+        "longitude": 117.304826,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d8c45608be755246b01f66df957a83b",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "1、负责银行监控中心的日常运维和服务\n2、对安全防范系统有比较深入的了解和实际动手能力；能全面的解决银行安保系统出现的各种问题；\n3、熟悉银行监控中心系统的运用，包括对软件系统的操作，巡查和记录发生的问题，及时通知相关单位处理。\n4、工作勤奋，为人诚实。能够服从第三方管理，处理和维护好与客户的关系。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "监控系统运维"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9db13c51863036ed0cbd9883e575b10c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "8FkrFq9L838VI-L1cb95JyDtNEFXQ6DciuPO2bjDjOnWGvEszJBuaTxX7KFLWcnpY0ZFWJhdo4LB0wXXcnfGA2vByaBUtGj6I3jppfH5n666-wwQlMeXCuANjYFon1ILUjtp0xQ1Lj4C",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "3Bp2hfZe5U0Q2-91LQtv-IXRyCN1YpUb3Tvm0jidyN1mY_HhyQr8-DSXsmFaJt7LvdKITiv06jMO7Yw5-t-mQH20E0s-qB6hoeoPAabMMPdMzDkiZ4urEUQam-cTPJS8gtB5QqNNex8Cc80~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "24d6d89d481b2fbd1H1909u7EVFR",
-      "encryptUserId": "458e33dc31ce5fb30XZ439i4F1JW",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-8K",
-      "payTypeDesc": null,
-      "postDescription": "一、岗位职责\n1、参与软件产品全流程测试工作，包括前期需求分析、设计评审，并制定测试计划和测试用例；\n2、根据产品需求及设计文档编写软件测试用例，使其清晰.明确并具备可测性；\n3、有效的执行测试用例，对产品bug进行闭环跟踪，并能协助开发人员定位问题和解决问题；\n4、完成项目的功能测试、性能测试、系统压测和回归测试，保证项目的质量；\n5、输出测试报告，对测试结果进行分析汇总，对产品质量与效率进行评估，测试数据整理汇报等。\n\n二、任职要求\n1、计算机相关专业大专及以上学历者优先，具备2年以上APP/WEB测试经验，有数据处理相关、数据治理、数据中台相关经验者优先；\n2、熟悉软件测试流程和方法，掌握接口测试方法；\n3、熟练使用测试工具，如postman、charles、jemeter、fiddler、loadrunner等。\n4、熟悉Linux、信创等操作系统常用命令，熟悉MySQL数据及其相关操作；\n5、熟练掌握禅道、jira等Bug管理工具；\n6、稳重、踏实、积极进取、抗压能力强，具有较强的沟通能力及团队合作精神。",
-      "encryptAddressId": "777b6f42e804e7b61nV829i8EVVTwIq9UfKd",
-      "address": "武汉洪山区星光时代11楼",
-      "longitude": 114.347441,
-      "latitude": 30.50438,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f8d69d09aa7e852c5695e8bd93a8b6a",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83ab6971586cd92857a650653b17509c",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "MySQL",
-        "功能测试",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "汲先生",
-      "title": "项目经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "武汉枫谷未来科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "7dd76a3fa7e48b971HJ82Nq6GVU~",
-      "brandName": "武汉枫谷未来科技",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731060232188,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "武汉枫谷未来科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "武汉枫谷未来科技",
+        "certificated": true,
+        "large": null,
+        "name": "汲先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "项目经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1731060232188,
+        "brandName": "武汉枫谷未来科技",
+        "customerBrandName": "武汉枫谷未来科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "7dd76a3fa7e48b971HJ82Nq6GVU~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区星光时代11楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "777b6f42e804e7b61nV829i8EVVTwIq9UfKd",
+        "encryptId": "24d6d89d481b2fbd1H1909u7EVFR",
+        "encryptUserId": "458e33dc31ce5fb30XZ439i4F1JW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.50438,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.347441,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83ab6971586cd92857a650653b17509c",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "一、岗位职责\n1、参与软件产品全流程测试工作，包括前期需求分析、设计评审，并制定测试计划和测试用例；\n2、根据产品需求及设计文档编写软件测试用例，使其清晰.明确并具备可测性；\n3、有效的执行测试用例，对产品bug进行闭环跟踪，并能协助开发人员定位问题和解决问题；\n4、完成项目的功能测试、性能测试、系统压测和回归测试，保证项目的质量；\n5、输出测试报告，对测试结果进行分析汇总，对产品质量与效率进行评估，测试数据整理汇报等。\n\n二、任职要求\n1、计算机相关专业大专及以上学历者优先，具备2年以上APP/WEB测试经验，有数据处理相关、数据治理、数据中台相关经验者优先；\n2、熟悉软件测试流程和方法，掌握接口测试方法；\n3、熟练使用测试工具，如postman、charles、jemeter、fiddler、loadrunner等。\n4、熟悉Linux、信创等操作系统常用命令，熟悉MySQL数据及其相关操作；\n5、熟练掌握禅道、jira等Bug管理工具；\n6、稳重、踏实、积极进取、抗压能力强，具有较强的沟通能力及团队合作精神。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-8K",
+        "showSkills": [
+            "MySQL",
+            "功能测试",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f8d69d09aa7e852c5695e8bd93a8b6a"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "3Bp2hfZe5U0Q2-91LQtv-IXRyCN1YpUb3Tvm0jidyN1mY_HhyQr8-DSXsmFaJt7LvdKITiv06jMO7Yw5-t-mQH20E0s-qB6hoeoPAabMMPdMzDkiZ4urEUQam-cTPJS8gtB5QqNNex8Cc80~",
+    "selfAccess": false,
+    "sessionId": null
 }

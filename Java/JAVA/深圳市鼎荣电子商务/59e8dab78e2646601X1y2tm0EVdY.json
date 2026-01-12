@@ -1,95 +1,91 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "V3cL8pwppPsC0-u15B4H_brePV95zQKJufDvghz9tfYTZib6JxyP0o0SPAi8Y40izV3RW2zfJLzSOITRIznwzyITK1edKSs6bkLp0xqFL96TYgqKc5T-",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "59e8dab78e2646601X1y2tm0EVdY",
-      "encryptUserId": "1213af34c08fc63b0nx409q-FVRQ",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101280100,
-      "locationName": "广州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-12K",
-      "payTypeDesc": null,
-      "postDescription": "有非常老道经验或创新能力的",
-      "encryptAddressId": "9997225b9c707c8433V529q0EVc~",
-      "address": "广州天河区汇顺商业大厦A座/3层/305",
-      "longitude": 113.424908,
-      "latitude": 23.119491,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6498fad67d248ee1bf5360a0933a488b",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e635413c83f25ff8a1d9c7da060df2f8",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "PHP",
-        "SQL Server",
-        "后端工程师"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "徐女士",
-      "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230223/607f1f3d68754fd08b58ca32ee2b161e3db312505e26396f0d2a9bea8313a69b9812f596740_b.jpg",
-      "large": null,
-      "activeTimeDesc": "2月内活跃",
-      "bossOnline": false,
-      "brandName": "深圳市鼎荣电子商务",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "05e0efeec8e422b01XF539S5GFY~",
-      "brandName": "深圳市鼎荣电子商务",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722921545563,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "深圳市鼎荣电子商务",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2月内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "深圳市鼎荣电子商务",
+        "certificated": true,
+        "large": null,
+        "name": "徐女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230223/607f1f3d68754fd08b58ca32ee2b161e3db312505e26396f0d2a9bea8313a69b9812f596740_b.jpg",
+        "title": "招聘经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1722921545563,
+        "brandName": "深圳市鼎荣电子商务",
+        "customerBrandName": "深圳市鼎荣电子商务",
+        "customerBrandStageName": "",
+        "encryptBrandId": "05e0efeec8e422b01XF539S5GFY~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "广州天河区汇顺商业大厦A座/3层/305",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "9997225b9c707c8433V529q0EVc~",
+        "encryptId": "59e8dab78e2646601X1y2tm0EVdY",
+        "encryptUserId": "1213af34c08fc63b0nx409q-FVRQ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 23.119491,
+        "location": 101280100,
+        "locationName": "广州",
+        "longitude": 113.424908,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e635413c83f25ff8a1d9c7da060df2f8",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "有非常老道经验或创新能力的",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-12K",
+        "showSkills": [
+            "Java",
+            "PHP",
+            "SQL Server",
+            "后端工程师"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6498fad67d248ee1bf5360a0933a488b"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "V3cL8pwppPsC0-u15B4H_brePV95zQKJufDvghz9tfYTZib6JxyP0o0SPAi8Y40izV3RW2zfJLzSOITRIznwzyITK1edKSs6bkLp0xqFL96TYgqKc5T-",
+    "selfAccess": false,
+    "sessionId": null
 }

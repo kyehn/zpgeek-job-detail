@@ -1,103 +1,99 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "J31IZy1kbnZL1-D1GaYhSsB10e8W1QQFh3JXNtncMnUEf_GI0_-6ruTBdN6FxOT5yKcBpI-ozLr5F-OPEoulFlgGdR3V0if65sBZNmdrXbLrutwqtwa3WM0k-eBpW66wKZ47RZNfmdnbu4g~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "f065ee058c55f8da1HJ73Nq7F1tU",
-      "encryptUserId": "a6ebf3187b4389dd0XF82dS-EVVZ",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-10K",
-      "payTypeDesc": null,
-      "postDescription": "1. 参与公司产品的技术开发， 负责完成代码的编写工作；\n2. 参与需求分析，承担软件系统模块设计的工作；\n3. 负责软件产品部署及维护等。",
-      "encryptAddressId": "c91ec270c05177153nV709-8ElFVy4y7Ufw~",
-      "address": "武汉洪山区湖北农业科技楼1305",
-      "longitude": 114.338449,
-      "latitude": 30.480801,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfd90d017d4e0a8c055088e499dc191bbf6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230713/48ba41acc9cef1bfb3bd33956ad122d89fd9583de28864966bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "Spring",
-        "MyBatis",
-        "SpringCloud",
-        "MySQL",
-        "Oracle",
-        "PostgreSQL",
-        "不接受居家办公",
-        "大数据经验",
-        "架构设计经验"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "许女士",
-      "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "小科智能",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "e19d6ea53d4db81b1HF43Nu9FVE~",
-      "brandName": "小科智能",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "",
-      "labels": [
-        "五险一金"
-      ],
-      "activeTime": 1723588338000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "小科智能",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "小科智能",
+        "certificated": true,
+        "large": null,
+        "name": "许女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+        "title": "人事经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1723588338000,
+        "brandName": "小科智能",
+        "customerBrandName": "小科智能",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "e19d6ea53d4db81b1HF43Nu9FVE~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "",
+        "labels": [
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区湖北农业科技楼1305",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "c91ec270c05177153nV709-8ElFVy4y7Ufw~",
+        "encryptId": "f065ee058c55f8da1HJ73Nq7F1tU",
+        "encryptUserId": "a6ebf3187b4389dd0XF82dS-EVVZ",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 30.480801,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.338449,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230713/48ba41acc9cef1bfb3bd33956ad122d89fd9583de28864966bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1. 参与公司产品的技术开发， 负责完成代码的编写工作；\n2. 参与需求分析，承担软件系统模块设计的工作；\n3. 负责软件产品部署及维护等。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-10K",
+        "showSkills": [
+            "Java",
+            "Spring",
+            "MyBatis",
+            "SpringCloud",
+            "MySQL",
+            "Oracle",
+            "PostgreSQL",
+            "不接受居家办公",
+            "大数据经验",
+            "架构设计经验"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfd90d017d4e0a8c055088e499dc191bbf6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "J31IZy1kbnZL1-D1GaYhSsB10e8W1QQFh3JXNtncMnUEf_GI0_-6ruTBdN6FxOT5yKcBpI-ozLr5F-OPEoulFlgGdR3V0if65sBZNmdrXbLrutwqtwa3WM0k-eBpW66wKZ47RZNfmdnbu4g~",
+    "selfAccess": false,
+    "sessionId": null
 }

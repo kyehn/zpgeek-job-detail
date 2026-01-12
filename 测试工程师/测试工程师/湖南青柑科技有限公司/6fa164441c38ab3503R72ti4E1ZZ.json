@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "Acay1IGHbJj32-Q1QszQbLZaiPrY0xPW3NuITMfm6bT6146hQOtJD7qLwqbU3ZVY8YBVKvMmhIWOU9S38YLsr8Xxv7RBuPBJ3E6a0r_w0uqtGihjAtNlo7-wj2KtgeZhh_U-ozEX_NWU1zbNK2pOfBtLVbr1",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "6fa164441c38ab3503R72ti4E1ZZ",
-      "encryptUserId": "885c3b66e0768f5b1HBy3t68ElY~",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101250100,
-      "locationName": "长沙",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-7K",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1、参与研发项目各阶段评审，从测试角度提出改进建议，项目开发过程需要的其他测试相关事项;\n2、负责软件自动化测试:编写软件自动化测试脚本和方案，撰写测试计划和测试用例,搭建测试环境，有效执行测试用例，记录缺陷与故障，并深入分析测试数据，输出测试报告，确保测试目的达成;\n3、负责研发和生产各环节BUG处理跟踪，对BUG进行分析定位，推进BUG解决;\n4、协助产品经理做一些产品规划\n\n职位要求:\n1、熟悉软件开发流程、测试理论，掌握常用的自动化软件测试方法和测试工具；\n2、善于分析总结，挖掘测试过程中非常规的缺陷点；\n3、有SAAS系统、供应链系统经验者优先；",
-      "encryptAddressId": "9aec4f1e3df057041nZ93tq8FVZTy4i-WfOe",
-      "address": "长沙岳麓区熙望大厦808",
-      "longitude": 112.868552,
-      "latitude": 28.186312,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240406/48ba41acc9cef1bfa1e2295e767590efaafa56791a28285f6bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240406/48ba41acc9cef1bfb6780b37679b54a4e85ec24418da1e196bb61e3b7bce0931da574d19d1d82c88.png.webp",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "自动化测试",
-        "性能测试",
-        "渗透测试",
-        "压力测试",
-        "TestNG",
-        "功能测试",
-        "计算机相关专业",
-        "Postman",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "王先生",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241201/607f1f3d68754fd09151a82fb5d794e1b247810d457b3b33c7cbb07a3485ae831336c15627c28d5_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "湖南青柑科技有限公司",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "5d8c40f5b24b6ef61HJ53Ny0Els~",
-      "brandName": "湖南青柑科技有限公司",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241122/7b5b554d84f9729c4a4d658e1696c617272d4a25fa8017adc7cbb07a3485ae831336c15627c28d5d.jpg.webp",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100021,
-      "industryName": "计算机软件",
-      "introduce": "专注海外新零售电商行业SAAS平台，侧重打造自己海外线下业务的IT软硬件服务框架。",
-      "labels": [
-        "团建聚餐",
-        "零食下午茶",
-        "带薪年假",
-        "五险一金"
-      ],
-      "activeTime": 1733511811294,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "湖南青柑科技有限公司",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "湖南青柑科技有限公司",
+        "certificated": true,
+        "large": null,
+        "name": "王先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241201/607f1f3d68754fd09151a82fb5d794e1b247810d457b3b33c7cbb07a3485ae831336c15627c28d5_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1733511811294,
+        "brandName": "湖南青柑科技有限公司",
+        "customerBrandName": "湖南青柑科技有限公司",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "5d8c40f5b24b6ef61HJ53Ny0Els~",
+        "focusBrand": false,
+        "industry": 100021,
+        "industryName": "计算机软件",
+        "introduce": "专注海外新零售电商行业SAAS平台，侧重打造自己海外线下业务的IT软硬件服务框架。",
+        "labels": [
+            "团建聚餐",
+            "零食下午茶",
+            "带薪年假",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241122/7b5b554d84f9729c4a4d658e1696c617272d4a25fa8017adc7cbb07a3485ae831336c15627c28d5d.jpg.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "长沙岳麓区熙望大厦808",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "9aec4f1e3df057041nZ93tq8FVZTy4i-WfOe",
+        "encryptId": "6fa164441c38ab3503R72ti4E1ZZ",
+        "encryptUserId": "885c3b66e0768f5b1HBy3t68ElY~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 28.186312,
+        "location": 101250100,
+        "locationName": "长沙",
+        "longitude": 112.868552,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240406/48ba41acc9cef1bfb6780b37679b54a4e85ec24418da1e196bb61e3b7bce0931da574d19d1d82c88.png.webp",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责:\n1、参与研发项目各阶段评审，从测试角度提出改进建议，项目开发过程需要的其他测试相关事项;\n2、负责软件自动化测试:编写软件自动化测试脚本和方案，撰写测试计划和测试用例,搭建测试环境，有效执行测试用例，记录缺陷与故障，并深入分析测试数据，输出测试报告，确保测试目的达成;\n3、负责研发和生产各环节BUG处理跟踪，对BUG进行分析定位，推进BUG解决;\n4、协助产品经理做一些产品规划\n\n职位要求:\n1、熟悉软件开发流程、测试理论，掌握常用的自动化软件测试方法和测试工具；\n2、善于分析总结，挖掘测试过程中非常规的缺陷点；\n3、有SAAS系统、供应链系统经验者优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-7K",
+        "showSkills": [
+            "测试工作经验",
+            "自动化测试",
+            "性能测试",
+            "渗透测试",
+            "压力测试",
+            "TestNG",
+            "功能测试",
+            "计算机相关专业",
+            "Postman",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240406/48ba41acc9cef1bfa1e2295e767590efaafa56791a28285f6bb61e3b7bce0931da574d19d1d82c88.png.webp"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "Acay1IGHbJj32-Q1QszQbLZaiPrY0xPW3NuITMfm6bT6146hQOtJD7qLwqbU3ZVY8YBVKvMmhIWOU9S38YLsr8Xxv7RBuPBJ3E6a0r_w0uqtGihjAtNlo7-wj2KtgeZhh_U-ozEX_NWU1zbNK2pOfBtLVbr1",
+    "selfAccess": false,
+    "sessionId": null
 }

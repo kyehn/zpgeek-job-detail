@@ -1,93 +1,89 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "XuXusQNV_7utA-11Bh7MNX5ZqqOBPwtZBuXwqy6vmXxgGSBNgpx3D0W5pZL6CqdzinbbyXU_0hMMzBxmUhiXSY68Dgnu1dXPKo3TQiiMSGsLFliriU8SVFdrXqv_Alo--fkqhSKFQ_H3",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0681e8827f8da0321HV42NW8ElU~",
-      "encryptUserId": "8f13dace12a5d5b003R93ty-EFo~",
-      "invalidStatus": false,
-      "jobName": "网络工程师",
-      "position": 100403,
-      "positionName": "网络工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "2-3K",
-      "payTypeDesc": null,
-      "postDescription": "SEO",
-      "encryptAddressId": "e75e0e3577777f2c1XB92dS_FlA~",
-      "address": "杭州桐庐县中艺·锦绣名都",
-      "longitude": 119.6912,
-      "latitude": 29.79064,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a571a9a3a650775a36f948d6a9e45fa",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a4624db14b984f1a608a669cf7cffd9",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "IT支持",
-        "Windows"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "郭先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
-      "large": null,
-      "activeTimeDesc": "2周内活跃",
-      "bossOnline": false,
-      "brandName": "杭州惠诚防腐工程",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "3dc7515795b5dbb31HN53NS7E1E~",
-      "brandName": "杭州惠诚防腐工程",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100503,
-      "industryName": "批发/零售",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727102716000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "杭州惠诚防腐工程",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "2周内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "杭州惠诚防腐工程",
+        "certificated": true,
+        "large": null,
+        "name": "郭先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1727102716000,
+        "brandName": "杭州惠诚防腐工程",
+        "customerBrandName": "杭州惠诚防腐工程",
+        "customerBrandStageName": "",
+        "encryptBrandId": "3dc7515795b5dbb31HN53NS7E1E~",
+        "focusBrand": false,
+        "industry": 100503,
+        "industryName": "批发/零售",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州桐庐县中艺·锦绣名都",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e75e0e3577777f2c1XB92dS_FlA~",
+        "encryptId": "0681e8827f8da0321HV42NW8ElU~",
+        "encryptUserId": "8f13dace12a5d5b003R93ty-EFo~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "网络工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 29.79064,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 119.6912,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a4624db14b984f1a608a669cf7cffd9",
+        "position": 100403,
+        "positionName": "网络工程师",
+        "postDescription": "SEO",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "2-3K",
+        "showSkills": [
+            "IT支持",
+            "Windows"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a571a9a3a650775a36f948d6a9e45fa"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "XuXusQNV_7utA-11Bh7MNX5ZqqOBPwtZBuXwqy6vmXxgGSBNgpx3D0W5pZL6CqdzinbbyXU_0hMMzBxmUhiXSY68Dgnu1dXPKo3TQiiMSGsLFliriU8SVFdrXqv_Alo--fkqhSKFQ_H3",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,98 +1,94 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "zloueIWwbsVoq-m1cH2HFnImCqOoEq5c7sjZzCdav7I-S9ZytbnDqSeYNqkOcj2_m3Q0tLMidyKEUSSDGgBSXET_lx9XfWeLcx4v175jdDahjjvioHg~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fa398618ab3e454f1XB62t68GFdY",
-      "encryptUserId": "554471e8cdcdb0da1nR80ti4FldY",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101210100,
-      "locationName": "杭州",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "7-10K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "工作职责：\n1、负责线上应用系统的配置上线、运营维护、性能调优、故障处理等工作；\n2，负责中心机房服务器的日常运行和监控，及与线上应用系统的同步和容灾处理\n3、负责开发运维相关脚本，提高执行效率；\n4、参与设计和优化应用服务系统的监控系统、策略和实施；\n5、参与应用服务系统的整体规划、架构设计及优化等工作；\n6、参与数据后台及运维后台的开发工作；\n7、参与运维日常值班监控工作，编写运维文档。\n任职要求：\n1、计算机软件或相关专业，本科及以上学历，1年运维或系统管理经验；\n2、熟悉centos等操作系统及网络服务（文件服务，iptables，日志分析等）管理，及相关运维；\n3、熟悉Tomcat,nginx等Web应用服务器配置及部署，及memcached,redis等服务调试；\n4、熟悉Mysql、PG数据库的管理，精通Mysql、PG备份和恢复、监控维护、镜像容灾、集群以及性能调优；\n5、熟悉shell或python至少其中一门脚本语言；会使用java或sql开发优先；\n7、有较好的团队协作和沟通能力，有强烈的责任心；\n8、快速解决现实碰到的问题，实现系统性能的最优化，保障系统稳定性；\n9、有大型网站或app运维经验者优先；",
-      "encryptAddressId": "521f649018e70b4c1X1z3N65F1E~",
-      "address": "杭州滨江区金润科技园",
-      "longitude": 120.198388,
-      "latitude": 30.18856,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28e3d400547e29f7b19f830ccbd941d7",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a734dc0694a2ecdde46ea87fa87e4441",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "系统运维",
-        "运维开发/DevOps"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "沈先生",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "干城新物联",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "b1fadf519eca106c33V52dW8EQ~~",
-      "brandName": "干城新物联",
-      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200505/1c97283c6530b7a24fbe29e1569b517dc5d8d606fa42b5f12064cda8d365aeb1_s.jpg",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 301,
-      "scaleName": "0-20人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "杭州干城新物联科技有限公司坐落于“上有天堂，下有苏杭”的杭州钱塘江畔——滨江，是一家专业从事智慧城市相关软/硬件及配套产品研发、生产、销售、服务的高新技术企业。\n      公司深耕物联网技术领域，拥有从物联网后端管理平台到前端应用的全套成熟解决方案，经过多年探索和持续的研发投入，在交通、家居、安防、消防、环保等领域积累了丰富的示范应用，相关技术在国内达到领先水平，并拥有多项技术专利。",
-      "labels": [
-        "定期体检",
-        "五险一金"
-      ],
-      "activeTime": 1730453264204,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "干城新物联",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "干城新物联",
+        "certificated": true,
+        "large": null,
+        "name": "沈先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730453264204,
+        "brandName": "干城新物联",
+        "customerBrandName": "干城新物联",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "b1fadf519eca106c33V52dW8EQ~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "杭州干城新物联科技有限公司坐落于“上有天堂，下有苏杭”的杭州钱塘江畔——滨江，是一家专业从事智慧城市相关软/硬件及配套产品研发、生产、销售、服务的高新技术企业。\n      公司深耕物联网技术领域，拥有从物联网后端管理平台到前端应用的全套成熟解决方案，经过多年探索和持续的研发投入，在交通、家居、安防、消防、环保等领域积累了丰富的示范应用，相关技术在国内达到领先水平，并拥有多项技术专利。",
+        "labels": [
+            "定期体检",
+            "五险一金"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200505/1c97283c6530b7a24fbe29e1569b517dc5d8d606fa42b5f12064cda8d365aeb1_s.jpg",
+        "scale": 301,
+        "scaleName": "0-20人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "杭州滨江区金润科技园",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "521f649018e70b4c1X1z3N65F1E~",
+        "encryptId": "fa398618ab3e454f1XB62t68GFdY",
+        "encryptUserId": "554471e8cdcdb0da1nR80ti4FldY",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.18856,
+        "location": 101210100,
+        "locationName": "杭州",
+        "longitude": 120.198388,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a734dc0694a2ecdde46ea87fa87e4441",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "工作职责：\n1、负责线上应用系统的配置上线、运营维护、性能调优、故障处理等工作；\n2，负责中心机房服务器的日常运行和监控，及与线上应用系统的同步和容灾处理\n3、负责开发运维相关脚本，提高执行效率；\n4、参与设计和优化应用服务系统的监控系统、策略和实施；\n5、参与应用服务系统的整体规划、架构设计及优化等工作；\n6、参与数据后台及运维后台的开发工作；\n7、参与运维日常值班监控工作，编写运维文档。\n任职要求：\n1、计算机软件或相关专业，本科及以上学历，1年运维或系统管理经验；\n2、熟悉centos等操作系统及网络服务（文件服务，iptables，日志分析等）管理，及相关运维；\n3、熟悉Tomcat,nginx等Web应用服务器配置及部署，及memcached,redis等服务调试；\n4、熟悉Mysql、PG数据库的管理，精通Mysql、PG备份和恢复、监控维护、镜像容灾、集群以及性能调优；\n5、熟悉shell或python至少其中一门脚本语言；会使用java或sql开发优先；\n7、有较好的团队协作和沟通能力，有强烈的责任心；\n8、快速解决现实碰到的问题，实现系统性能的最优化，保障系统稳定性；\n9、有大型网站或app运维经验者优先；",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "7-10K·13薪",
+        "showSkills": [
+            "Java",
+            "系统运维",
+            "运维开发/DevOps"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28e3d400547e29f7b19f830ccbd941d7"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "zloueIWwbsVoq-m1cH2HFnImCqOoEq5c7sjZzCdav7I-S9ZytbnDqSeYNqkOcj2_m3Q0tLMidyKEUSSDGgBSXET_lx9XfWeLcx4v175jdDahjjvioHg~",
+    "selfAccess": false,
+    "sessionId": null
 }

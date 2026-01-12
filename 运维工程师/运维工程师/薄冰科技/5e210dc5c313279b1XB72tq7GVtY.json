@@ -1,107 +1,103 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "qoFqLG_OZVGuH-y1x1joh53F3Yy00IW3iE9CCwYQldSSTBADB4MPhcZJO1YouKQ97WKGZ6-R7ahUbl1hGgxUqOskX6eZP3tDwrVg-_MftLg18EkRKQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "5e210dc5c313279b1XB72tq7GVtY",
-      "encryptUserId": "f41deb4a6b157cf51XJ52tm5GFc~",
-      "invalidStatus": false,
-      "jobName": "运维工程师",
-      "position": 100401,
-      "positionName": "运维工程师",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "8-13K·13薪",
-      "payTypeDesc": null,
-      "postDescription": "sql审核，安全管控类产品 技术支持\n1.现场配合用户完成SQL审核\n2.收集异常情况，配合完成故障排查和重现（能写多类型SQL语句）\n3.软件升级维护\n4.升级实施前，验证bug修复，新功能poc演示",
-      "encryptAddressId": "18197d4e7dcca60c0Xx629q8EVQ~",
-      "address": "上海徐汇区宝石大楼203楼",
-      "longitude": 121.393809,
-      "latitude": 31.164675,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e32014fb9e530e9e1d5beffb903337aa",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64a76af7ee49363f254c216259e5c153",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Nginx",
-        "实施交付运维",
-        "MySQL/Oracle",
-        "Docker"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "蒋先生",
-      "title": "总经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
-      "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
-      "brandName": "薄冰科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "6c085d8cd45a009f33B-2tu0Eg~~",
-      "brandName": "薄冰科技",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220314/7bf6f160950405e9658b3ac32f47b342c05ed654ca19560b1ce940dcab2ba777ad107066b2b3be1a.jpg",
-      "stage": 808,
-      "stageName": "不需要融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100023,
-      "industryName": "计算机服务",
-      "introduce": "浙江薄冰网络科技有限公司是一家集专业数据库运维产品与服务于一体的高新技术企业。我们致力于数据库自动化运维和性能优化领域，拥有自主研发的SQL审核、性能管理、巡检及运管平台，这些产品在金融、运营商、政府和制造行业积累了丰富的成功案例，深受客户好评。\n\n我们的技术团队由业界顶尖专家组成，包括Oracle ACE专家、Oracle OCM专家、DB2专家、MySQL专家、中间件专家、SQLServer专家、Linux系统专家以及拥有多年运维开发经验的技术人员。他们凭借深厚的专业知识和丰富的实践经验，确保我们的产品能够紧密贴合实际运维场景，满足客户的多样化需求。\n\n我们的产品特点包括智能SQL提示、图形化界面操作、细粒度权限管控、SQL审核发布、防数据泄露等，旨在为数据库运维人员提供全面、高效、安全的管理工具。通过我们的平台，用户可以轻松实现数据库的自动化管理和优化，提升运维效率，保障数据安全。\n\n浙江薄冰网络科技有限公司官网zjbobingtech.com提供了更多关于我们公司和产品的详细信息。",
-      "labels": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
-        "节日福利",
-        "通讯补贴",
-        "有无线网",
-        "团建聚餐",
-        "零食下午茶",
-        "节假日加班费",
-        "加班补助",
-        "底薪加提成"
-      ],
-      "activeTime": 1726240033912,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "薄冰科技",
-      "customerBrandStageName": "不需要融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "今日活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "薄冰科技",
+        "certificated": true,
+        "large": null,
+        "name": "蒋先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+        "title": "总经理"
+    },
+    "brandComInfo": {
+        "activeTime": 1726240033912,
+        "brandName": "薄冰科技",
+        "customerBrandName": "薄冰科技",
+        "customerBrandStageName": "不需要融资",
+        "encryptBrandId": "6c085d8cd45a009f33B-2tu0Eg~~",
+        "focusBrand": false,
+        "industry": 100023,
+        "industryName": "计算机服务",
+        "introduce": "浙江薄冰网络科技有限公司是一家集专业数据库运维产品与服务于一体的高新技术企业。我们致力于数据库自动化运维和性能优化领域，拥有自主研发的SQL审核、性能管理、巡检及运管平台，这些产品在金融、运营商、政府和制造行业积累了丰富的成功案例，深受客户好评。\n\n我们的技术团队由业界顶尖专家组成，包括Oracle ACE专家、Oracle OCM专家、DB2专家、MySQL专家、中间件专家、SQLServer专家、Linux系统专家以及拥有多年运维开发经验的技术人员。他们凭借深厚的专业知识和丰富的实践经验，确保我们的产品能够紧密贴合实际运维场景，满足客户的多样化需求。\n\n我们的产品特点包括智能SQL提示、图形化界面操作、细粒度权限管控、SQL审核发布、防数据泄露等，旨在为数据库运维人员提供全面、高效、安全的管理工具。通过我们的平台，用户可以轻松实现数据库的自动化管理和优化，提升运维效率，保障数据安全。\n\n浙江薄冰网络科技有限公司官网zjbobingtech.com提供了更多关于我们公司和产品的详细信息。",
+        "labels": [
+            "五险一金",
+            "年终奖",
+            "股票期权",
+            "节日福利",
+            "通讯补贴",
+            "有无线网",
+            "团建聚餐",
+            "零食下午茶",
+            "节假日加班费",
+            "加班补助",
+            "底薪加提成"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220314/7bf6f160950405e9658b3ac32f47b342c05ed654ca19560b1ce940dcab2ba777ad107066b2b3be1a.jpg",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 808,
+        "stageName": "不需要融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海徐汇区宝石大楼203楼",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "18197d4e7dcca60c0Xx629q8EVQ~",
+        "encryptId": "5e210dc5c313279b1XB72tq7GVtY",
+        "encryptUserId": "f41deb4a6b157cf51XJ52tm5GFc~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "运维工程师",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.164675,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.393809,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64a76af7ee49363f254c216259e5c153",
+        "position": 100401,
+        "positionName": "运维工程师",
+        "postDescription": "sql审核，安全管控类产品 技术支持\n1.现场配合用户完成SQL审核\n2.收集异常情况，配合完成故障排查和重现（能写多类型SQL语句）\n3.软件升级维护\n4.升级实施前，验证bug修复，新功能poc演示",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "8-13K·13薪",
+        "showSkills": [
+            "Nginx",
+            "实施交付运维",
+            "MySQL/Oracle",
+            "Docker"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e32014fb9e530e9e1d5beffb903337aa"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "qoFqLG_OZVGuH-y1x1joh53F3Yy00IW3iE9CCwYQldSSTBADB4MPhcZJO1YouKQ97WKGZ6-R7ahUbl1hGgxUqOskX6eZP3tDwrVg-_MftLg18EkRKQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

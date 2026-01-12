@@ -1,105 +1,101 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BfyeBBWEAFR0V-E1wMrzsnX9ov7wMzdA5jhWsIwRnQ8Mhxi48gqHzVvySgbgCMlAD6_Ebn0wbO2nWQcyoGkarkNsaeAN265DAG0D1kAPjRQ_b2mbtgMram-ITLYyZehqit3MNWR4YqH7fdPnr6rHon2FrkxQ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "4ac1a374d76c0dd41nF_2t-1FFVS",
-      "encryptUserId": "c708bf3e3b67c4100nZ6296-F1ZR",
-      "invalidStatus": false,
-      "jobName": "现场调试工程师",
-      "position": 101402,
-      "positionName": "电气工程师",
-      "location": 101190100,
-      "locationName": "南京",
-      "experienceName": "经验不限",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-9K",
-      "payTypeDesc": null,
-      "postDescription": "负责公司产品现场调试，工程项目现场验收工作，欢迎应届生加入！公司提供住宿，有餐补。有继电保护，配网自动化设备，电力监控系统后台调试经验者优先考虑",
-      "encryptAddressId": "3db480bd9d0fd8400Hx82du1GFE~",
-      "address": "南京江宁区粤浦科技·南京云创中心29栋",
-      "longitude": 118.768201,
-      "latitude": 31.904738,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12e447b0fcda42658ec8b1cbcc79306f",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40cb8d45e5320ae2f9049be57a74392f",
-      "baiduStaticMapUrl": "",
-      "baiduPcStaticMapUrl": "",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "电力配网自动化"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "赵女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "卓普",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "ac9d8ce7d5c96e583nR93969EQ~~",
-      "brandName": "卓普",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250306/7bf6f160950405e9176dab3e387602a45cf75209c35aec4e42f7d304788c2086ab41fdc9379cc222.png.webp",
-      "stage": 802,
-      "stageName": "天使轮",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101406,
-      "industryName": "电子/硬件开发",
-      "introduce": "",
-      "labels": [
-        "包住",
-        "餐补",
-        "工龄奖",
-        "节假日加班费",
-        "加班补助",
-        "底薪加提成",
-        "保底工资",
-        "绩效奖金",
-        "年终奖"
-      ],
-      "activeTime": 1741941276828,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "卓普",
-      "customerBrandStageName": "天使轮"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "卓普",
+        "certificated": true,
+        "large": null,
+        "name": "赵女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1741941276828,
+        "brandName": "卓普",
+        "customerBrandName": "卓普",
+        "customerBrandStageName": "天使轮",
+        "encryptBrandId": "ac9d8ce7d5c96e583nR93969EQ~~",
+        "focusBrand": false,
+        "industry": 101406,
+        "industryName": "电子/硬件开发",
+        "introduce": "",
+        "labels": [
+            "包住",
+            "餐补",
+            "工龄奖",
+            "节假日加班费",
+            "加班补助",
+            "底薪加提成",
+            "保底工资",
+            "绩效奖金",
+            "年终奖"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250306/7bf6f160950405e9176dab3e387602a45cf75209c35aec4e42f7d304788c2086ab41fdc9379cc222.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 802,
+        "stageName": "天使轮",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "南京江宁区粤浦科技·南京云创中心29栋",
+        "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
+        "degreeName": "大专",
+        "encryptAddressId": "3db480bd9d0fd8400Hx82du1GFE~",
+        "encryptId": "4ac1a374d76c0dd41nF_2t-1FFVS",
+        "encryptUserId": "c708bf3e3b67c4100nZ6296-F1ZR",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "现场调试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 31.904738,
+        "location": 101190100,
+        "locationName": "南京",
+        "longitude": 118.768201,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40cb8d45e5320ae2f9049be57a74392f",
+        "position": 101402,
+        "positionName": "电气工程师",
+        "postDescription": "负责公司产品现场调试，工程项目现场验收工作，欢迎应届生加入！公司提供住宿，有餐补。有继电保护，配网自动化设备，电力监控系统后台调试经验者优先考虑",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-9K",
+        "showSkills": [
+            "电力配网自动化"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12e447b0fcda42658ec8b1cbcc79306f"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BfyeBBWEAFR0V-E1wMrzsnX9ov7wMzdA5jhWsIwRnQ8Mhxi48gqHzVvySgbgCMlAD6_Ebn0wbO2nWQcyoGkarkNsaeAN265DAG0D1kAPjRQ_b2mbtgMram-ITLYyZehqit3MNWR4YqH7fdPnr6rHon2FrkxQ",
+    "selfAccess": false,
+    "sessionId": null
 }

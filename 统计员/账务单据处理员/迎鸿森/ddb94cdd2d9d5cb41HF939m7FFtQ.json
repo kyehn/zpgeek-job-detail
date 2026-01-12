@@ -1,92 +1,88 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "mw7zBR4QBsL1y-D1QmHOHB8Ku3hRe5B9STkLOdfUKZV3keN-EcF44950NmJQ82bxCtUatulj53D0FMRttgdMSOsonK7wbfJs3zdrZS_9zr_8B1hT2TqZ",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "ddb94cdd2d9d5cb41HF939m7FFtQ",
-      "encryptUserId": "c2d895f454abbc7c0n163NW7FldS",
-      "invalidStatus": false,
-      "jobName": "账务/单据处理员",
-      "position": 150314,
-      "positionName": "统计员",
-      "location": 101190400,
-      "locationName": "苏州",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "4-6K",
-      "payTypeDesc": null,
-      "postDescription": "1.工作内容：区域销售单内容审核，处理等工作。\n任职要求：1.熟练操作EXCEL表格，且数据分析。           \n                  2.有实操相关软件经验，如管家婆，金蝶等系统软件。\n                  3.个人思维逻辑清晰且有对账经验。\n                  4.有快消品行业优先考虑。\n                  5.大专以上学历。\n岗位福利：岗位节假日补贴500元*12个月  节日礼品礼盒 年终奖金  年货等",
-      "encryptAddressId": "e86e08e8c3a9f45133F92ti9FFA~",
-      "address": "苏州虎丘区恒春工业园2幢",
-      "longitude": 120.666563,
-      "latitude": 31.346795,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/838771037b9cce07f3f75c08105f553c",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/827d5a0f9042dce4a7d61eed5d0d2015",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "细心  耐心  责任心"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "龚女士",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230402/607f1f3d68754fd05759a8f33c698a477c0b6dc52ebf1ac518833cf3dc8e13109a670e40f89_b.jpg",
-      "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
-      "brandName": "迎鸿森",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "94e480dcf94a78571XJ52tq_GFU~",
-      "brandName": "迎鸿森",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 101001,
-      "industryName": "食品/饮料/烟酒",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1727746041690,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "迎鸿森",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "3日内活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "迎鸿森",
+        "certificated": true,
+        "large": null,
+        "name": "龚女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230402/607f1f3d68754fd05759a8f33c698a477c0b6dc52ebf1ac518833cf3dc8e13109a670e40f89_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1727746041690,
+        "brandName": "迎鸿森",
+        "customerBrandName": "迎鸿森",
+        "customerBrandStageName": "",
+        "encryptBrandId": "94e480dcf94a78571XJ52tq_GFU~",
+        "focusBrand": false,
+        "industry": 101001,
+        "industryName": "食品/饮料/烟酒",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "苏州虎丘区恒春工业园2幢",
+        "anonymous": 0,
+        "degreeName": "大专",
+        "encryptAddressId": "e86e08e8c3a9f45133F92ti9FFA~",
+        "encryptId": "ddb94cdd2d9d5cb41HF939m7FFtQ",
+        "encryptUserId": "c2d895f454abbc7c0n163NW7FldS",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "账务/单据处理员",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.346795,
+        "location": 101190400,
+        "locationName": "苏州",
+        "longitude": 120.666563,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/827d5a0f9042dce4a7d61eed5d0d2015",
+        "position": 150314,
+        "positionName": "统计员",
+        "postDescription": "1.工作内容：区域销售单内容审核，处理等工作。\n任职要求：1.熟练操作EXCEL表格，且数据分析。           \n                  2.有实操相关软件经验，如管家婆，金蝶等系统软件。\n                  3.个人思维逻辑清晰且有对账经验。\n                  4.有快消品行业优先考虑。\n                  5.大专以上学历。\n岗位福利：岗位节假日补贴500元*12个月  节日礼品礼盒 年终奖金  年货等",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "4-6K",
+        "showSkills": [
+            "细心  耐心  责任心"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/838771037b9cce07f3f75c08105f553c"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "mw7zBR4QBsL1y-D1QmHOHB8Ku3hRe5B9STkLOdfUKZV3keN-EcF44950NmJQ82bxCtUatulj53D0FMRttgdMSOsonK7wbfJs3zdrZS_9zr_8B1hT2TqZ",
+    "selfAccess": false,
+    "sessionId": null
 }

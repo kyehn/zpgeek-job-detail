@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "BhuaP38Nx4e6H-a1tEi-_M6Pr_jVSC5IoU1eHUxFy0LHpWva9-_SBDHHIyD0uzFV18ZPAFWLAKsWAd0Pm4KIgg1uqr0OiO3RjQGd5bnoUDLJd0HuFUflPYMsLMf7PuDS2aQfpR5cl6TXxQ~~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "0fa24a9ae819b17d1H163Ny0FVtY",
-      "encryptUserId": "5e73dbf3ae5d8a4a03J73d-6FVQ~",
-      "invalidStatus": false,
-      "jobName": "软件实施",
-      "position": 100606,
-      "positionName": "实施工程师",
-      "location": 101100100,
-      "locationName": "太原",
-      "experienceName": "经验不限",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "5-8K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1. 负责运维实施工作的管理与执行\n2. 确保系统稳定运行，及时处理运维中的问题\n3. 优化运维流程，提升系统性能\n\n任职要求：\n1. 具备出色的沟通协调能力，能够高效完成任务\n2. 拥有团队合作精神，能够与团队成员紧密合作\n3. 具有良好的问题解决能力，能够应对各种运维挑战",
-      "encryptAddressId": "327da015b3c977061nV-09q4FVNQxY26UP6a",
-      "address": "太原小店区天和大厦315",
-      "longitude": 112.560347,
-      "latitude": 37.802556,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cac9f49283a098e2f4e48a697d78239",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb74debc3f8db0e457e01381953e81bc",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "ERP",
-        "计算机相关专业"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "赵先生",
-      "title": "人事",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240810/607f1f3d68754fd033ef79fd99c54a8d37715f494a8191aee1eb285a9f59ce7f77387452a119299_b.jpg",
-      "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
-      "brandName": "普昱网络科技",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "8c50b55b8d71c1261HJ_3N24EVo~",
-      "brandName": "普昱网络科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1731461534000,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "普昱网络科技",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "本月活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "普昱网络科技",
+        "certificated": true,
+        "large": null,
+        "name": "赵先生",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240810/607f1f3d68754fd033ef79fd99c54a8d37715f494a8191aee1eb285a9f59ce7f77387452a119299_b.jpg",
+        "title": "人事"
+    },
+    "brandComInfo": {
+        "activeTime": 1731461534000,
+        "brandName": "普昱网络科技",
+        "customerBrandName": "普昱网络科技",
+        "customerBrandStageName": "",
+        "encryptBrandId": "8c50b55b8d71c1261HJ_3N24EVo~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "太原小店区天和大厦315",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "327da015b3c977061nV-09q4FVNQxY26UP6a",
+        "encryptId": "0fa24a9ae819b17d1H163Ny0FVtY",
+        "encryptUserId": "5e73dbf3ae5d8a4a03J73d-6FVQ~",
+        "experienceName": "经验不限",
+        "invalidStatus": false,
+        "jobName": "软件实施",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 37.802556,
+        "location": 101100100,
+        "locationName": "太原",
+        "longitude": 112.560347,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb74debc3f8db0e457e01381953e81bc",
+        "position": 100606,
+        "positionName": "实施工程师",
+        "postDescription": "岗位职责:\n1. 负责运维实施工作的管理与执行\n2. 确保系统稳定运行，及时处理运维中的问题\n3. 优化运维流程，提升系统性能\n\n任职要求：\n1. 具备出色的沟通协调能力，能够高效完成任务\n2. 拥有团队合作精神，能够与团队成员紧密合作\n3. 具有良好的问题解决能力，能够应对各种运维挑战",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "5-8K·14薪",
+        "showSkills": [
+            "ERP",
+            "计算机相关专业"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cac9f49283a098e2f4e48a697d78239"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "BhuaP38Nx4e6H-a1tEi-_M6Pr_jVSC5IoU1eHUxFy0LHpWva9-_SBDHHIyD0uzFV18ZPAFWLAKsWAd0Pm4KIgg1uqr0OiO3RjQGd5bnoUDLJd0HuFUflPYMsLMf7PuDS2aQfpR5cl6TXxQ~~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,101 +1,97 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "ibTdhWKlqzAsg-h1vXvwzltv7a240cQSK0mUxjaOeubYYQbJwlFmv2IAeaz8UTJQ4q32_7DS30EhjWoii3Jzi17uKnIl8NSlgvrlvIBsnL8rjtwrwKQDiTH07CINk4XJII6au3iRyDnK8bo~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "675192234393988d1H183dy_FFZY",
-      "encryptUserId": "f36554f93dcef1420XF_09u9FlJW",
-      "invalidStatus": false,
-      "jobName": "测试工程师",
-      "position": 100301,
-      "positionName": "测试工程师",
-      "location": 101200100,
-      "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "6-9K·14薪",
-      "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1. 根据产品规范编测试计划，设计测试数据和测试用例；\n2. 实施软件功能测试，创建和执行测试脚本以满足测试需要，完成对产品的集成测试与系统测试；\n3. 对产品的性能及客户上线和项目验收测试任务，管理并跟踪测试过程中的各类缺陷，并对软件bug进行跟踪分析和报告；\n4. 协助开发人员分析bug原因，提交产品功能优化、性能改进的建议。\n5. 负责开发和优化高效的数据抓取工具，保证数据采集系统的稳定性和高效性。\n6. 深入研究和应对各种网站反爬虫策略，包括验证码解决方案，对采集的数据质量负责。\n\n职位要求：\n1. 本科及以上学历，2年以上测试经验；有移动端测试经验，能够独立编写测试计划、测试用例、测试报告；\n2. 熟练使用任意一种主流性能测试工具或自动化测试工具；\n3. 具有一定网络知识，了解TCP/IP，能使用抓包工具；\n4. 熟练掌握Python语言，能够使用Python强大的库和工具处理数据抓取功能。\n5. 熟悉常用的爬虫框架和工具，动态cookie以及动态token的获取，熟练使用正则表达式，Xpath，css选择器能够处理数据加密等常见问题。\n5. 熟悉功能测试（PC、小程序等）、性能测试，了解mysql数据库，能熟练编写常用SQL语句。\n6. 有较强的逻辑分析能力和学习能力，工作责任心强，细致有耐心。",
-      "encryptAddressId": "40a8d9cd9220ceea1nB_3tW-FFBRxou4V_md",
-      "address": "武汉洪山区融创智谷A5-9",
-      "longitude": 114.319881,
-      "latitude": 30.455082,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfca920b4be4da1fdac72e3baa99af645e6bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8c62a663e179524db9e115364c529f286bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "测试工作经验",
-        "通信相关专业",
-        "性能测试",
-        "功能测试",
-        "计算机相关专业",
-        "Python"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "最新"
-    },
-    "bossInfo": {
-      "name": "张女士",
-      "title": "招聘者",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd09c9de722fc6a98de9d2f35dc105f31e55e2a882d935370fbac9c3f4d4b0fa06_b.jpg",
-      "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
-      "brandName": "智标领航(武汉)",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "301bc854280dda531HF92Nu5F1Q~",
-      "brandName": "智标领航(武汉)",
-      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241016/7bf6f160950405e9aaa56fbc84ba2bdf739575785936a1a42ca949f4534974cf8f4c7ae0b89bceb3.png.webp",
-      "stage": 801,
-      "stageName": "未融资",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100028,
-      "industryName": "人工智能",
-      "introduce": "我们是一家专注于招投标业务的人工智能公司，致力于打造垂直领域中的 AI 类工具产品，致力于帮助企业减负增效，帮助客户高效处理招投标业务。\n自有研发团队、运营团队，相对完善的组织架构，环境氛围年轻化，独栋写字楼，目前正在广纳人才中。\n主营业务：面向招投标行业全业务流程的 SaaS 工具类产品，堪称招投标界的 openAI 工具，为招投标用户提供快速撰写投标方案等服务。",
-      "labels": [
-        "绩效奖金",
-        "五险"
-      ],
-      "activeTime": 1730686956616,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "智标领航(武汉)",
-      "customerBrandStageName": "未融资"
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false,
-      "chatBubble": null
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "智标领航(武汉)",
+        "certificated": true,
+        "large": null,
+        "name": "张女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd09c9de722fc6a98de9d2f35dc105f31e55e2a882d935370fbac9c3f4d4b0fa06_b.jpg",
+        "title": "招聘者"
+    },
+    "brandComInfo": {
+        "activeTime": 1730686956616,
+        "brandName": "智标领航(武汉)",
+        "customerBrandName": "智标领航(武汉)",
+        "customerBrandStageName": "未融资",
+        "encryptBrandId": "301bc854280dda531HF92Nu5F1Q~",
+        "focusBrand": false,
+        "industry": 100028,
+        "industryName": "人工智能",
+        "introduce": "我们是一家专注于招投标业务的人工智能公司，致力于打造垂直领域中的 AI 类工具产品，致力于帮助企业减负增效，帮助客户高效处理招投标业务。\n自有研发团队、运营团队，相对完善的组织架构，环境氛围年轻化，独栋写字楼，目前正在广纳人才中。\n主营业务：面向招投标行业全业务流程的 SaaS 工具类产品，堪称招投标界的 openAI 工具，为招投标用户提供快速撰写投标方案等服务。",
+        "labels": [
+            "绩效奖金",
+            "五险"
+        ],
+        "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241016/7bf6f160950405e9aaa56fbc84ba2bdf739575785936a1a42ca949f4534974cf8f4c7ae0b89bceb3.png.webp",
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 801,
+        "stageName": "未融资",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "武汉洪山区融创智谷A5-9",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "40a8d9cd9220ceea1nB_3tW-FFBRxou4V_md",
+        "encryptId": "675192234393988d1H183dy_FFZY",
+        "encryptUserId": "f36554f93dcef1420XF_09u9FlJW",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "测试工程师",
+        "jobStatusDesc": "最新",
+        "jobType": 0,
+        "latitude": 30.455082,
+        "location": 101200100,
+        "locationName": "武汉",
+        "longitude": 114.319881,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8c62a663e179524db9e115364c529f286bb61e3b7bce0931da574d19d1d82c88.jpg",
+        "position": 100301,
+        "positionName": "测试工程师",
+        "postDescription": "岗位职责：\n1. 根据产品规范编测试计划，设计测试数据和测试用例；\n2. 实施软件功能测试，创建和执行测试脚本以满足测试需要，完成对产品的集成测试与系统测试；\n3. 对产品的性能及客户上线和项目验收测试任务，管理并跟踪测试过程中的各类缺陷，并对软件bug进行跟踪分析和报告；\n4. 协助开发人员分析bug原因，提交产品功能优化、性能改进的建议。\n5. 负责开发和优化高效的数据抓取工具，保证数据采集系统的稳定性和高效性。\n6. 深入研究和应对各种网站反爬虫策略，包括验证码解决方案，对采集的数据质量负责。\n\n职位要求：\n1. 本科及以上学历，2年以上测试经验；有移动端测试经验，能够独立编写测试计划、测试用例、测试报告；\n2. 熟练使用任意一种主流性能测试工具或自动化测试工具；\n3. 具有一定网络知识，了解TCP/IP，能使用抓包工具；\n4. 熟练掌握Python语言，能够使用Python强大的库和工具处理数据抓取功能。\n5. 熟悉常用的爬虫框架和工具，动态cookie以及动态token的获取，熟练使用正则表达式，Xpath，css选择器能够处理数据加密等常见问题。\n5. 熟悉功能测试（PC、小程序等）、性能测试，了解mysql数据库，能熟练编写常用SQL语句。\n6. 有较强的逻辑分析能力和学习能力，工作责任心强，细致有耐心。",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "6-9K·14薪",
+        "showSkills": [
+            "测试工作经验",
+            "通信相关专业",
+            "性能测试",
+            "功能测试",
+            "计算机相关专业",
+            "Python"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfca920b4be4da1fdac72e3baa99af645e6bb61e3b7bce0931da574d19d1d82c88.jpg"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "ibTdhWKlqzAsg-h1vXvwzltv7a240cQSK0mUxjaOeubYYQbJwlFmv2IAeaz8UTJQ4q32_7DS30EhjWoii3Jzi17uKnIl8NSlgvrlvIBsnL8rjtwrwKQDiTH07CINk4XJII6au3iRyDnK8bo~",
+    "selfAccess": false,
+    "sessionId": null
 }

@@ -1,94 +1,90 @@
 {
-  "code": 0,
-  "message": "Success",
-  "zpData": {
-    "pageType": 0,
-    "selfAccess": false,
-    "securityId": "J9ahu8otZKpd7-21KaaNoOHBfee1kJTar4fR94DsBDyjeD7iH-0mFoAXi1wn2JfbBdd730dVkzsYyCeeQi43XCrnJ0EEjDQoRCjDZlbjYIAODAesJzGvANcQPpUmQXU_7KOAsYJOWHk~",
-    "sessionId": null,
-    "lid": "",
-    "jobInfo": {
-      "encryptId": "fc28646ef1bf93961nN83Ni5EFA~",
-      "encryptUserId": "7e73123c214ef2171Hd62tS5GFc~",
-      "invalidStatus": false,
-      "jobName": "Java",
-      "position": 100101,
-      "positionName": "Java",
-      "location": 101020100,
-      "locationName": "上海",
-      "experienceName": "1-3年",
-      "degreeName": "本科",
-      "jobType": 0,
-      "proxyJob": 0,
-      "proxyType": 0,
-      "salaryDesc": "10-20K",
-      "payTypeDesc": null,
-      "postDescription": "1:主要从事web后端开发",
-      "encryptAddressId": "807d454411a1950d0HF-2d21GA~~",
-      "address": "上海浦东新区世纪汇广场1座1007",
-      "longitude": 121.5272,
-      "latitude": 31.22745,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a341eede53674a92572abf480a54cef6",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7b46c242e47e3fe69600e40c8bc9bd1",
-      "overseasAddressList": [],
-      "overseasInfo": null,
-      "showSkills": [
-        "Java",
-        "后端开发",
-        "数据库"
-      ],
-      "anonymous": 0,
-      "jobStatusDesc": "招聘中"
-    },
-    "bossInfo": {
-      "name": "金女士",
-      "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171206/fffed656d0a613718fa6781558d71ec3c7fbd0a090b405359af35fa3428_b.jpg",
-      "large": null,
-      "activeTimeDesc": "半年前活跃",
-      "bossOnline": false,
-      "brandName": "百业并购",
-      "bossSource": 0,
-      "certificated": true,
-      "tagIconUrl": null,
-      "avatarStickerUrl": null
-    },
-    "brandComInfo": {
-      "encryptBrandId": "9075f325cb3acf411HR90929GQ~~",
-      "brandName": "百业并购",
-      "logo": null,
-      "stage": 0,
-      "stageName": "",
-      "scale": 302,
-      "scaleName": "20-99人",
-      "industry": 100020,
-      "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1721722091049,
-      "visibleBrandInfo": true,
-      "focusBrand": false,
-      "customerBrandName": "百业并购",
-      "customerBrandStageName": ""
-    },
-    "oneKeyResumeInfo": {
-      "inviteType": 0,
-      "alreadySend": false,
-      "canSendResume": false,
-      "canSendPhone": false,
-      "canSendWechat": false
-    },
-    "relationInfo": {
-      "interestJob": false,
-      "beFriend": false
-    },
-    "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+        "canFeedback": false
     },
     "atsOnlineApplyInfo": {
-      "inviteType": 0,
-      "alreadyApply": false
-    }
-  }
+        "alreadyApply": false,
+        "inviteType": 0
+    },
+    "bossInfo": {
+        "activeTimeDesc": "半年前活跃",
+        "avatarStickerUrl": null,
+        "bossOnline": false,
+        "bossSource": 0,
+        "brandName": "百业并购",
+        "certificated": true,
+        "large": null,
+        "name": "金女士",
+        "tagIconUrl": null,
+        "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171206/fffed656d0a613718fa6781558d71ec3c7fbd0a090b405359af35fa3428_b.jpg",
+        "title": "HR"
+    },
+    "brandComInfo": {
+        "activeTime": 1721722091049,
+        "brandName": "百业并购",
+        "customerBrandName": "百业并购",
+        "customerBrandStageName": "",
+        "encryptBrandId": "9075f325cb3acf411HR90929GQ~~",
+        "focusBrand": false,
+        "industry": 100020,
+        "industryName": "互联网",
+        "introduce": "",
+        "labels": [],
+        "logo": null,
+        "scale": 302,
+        "scaleName": "20-99人",
+        "stage": 0,
+        "stageName": "",
+        "visibleBrandInfo": true
+    },
+    "handicappedInfo": null,
+    "jobInfo": {
+        "address": "上海浦东新区世纪汇广场1座1007",
+        "anonymous": 0,
+        "degreeName": "本科",
+        "encryptAddressId": "807d454411a1950d0HF-2d21GA~~",
+        "encryptId": "fc28646ef1bf93961nN83Ni5EFA~",
+        "encryptUserId": "7e73123c214ef2171Hd62tS5GFc~",
+        "experienceName": "1-3年",
+        "invalidStatus": false,
+        "jobName": "Java",
+        "jobStatusDesc": "招聘中",
+        "jobType": 0,
+        "latitude": 31.22745,
+        "location": 101020100,
+        "locationName": "上海",
+        "longitude": 121.5272,
+        "overseasAddressList": [],
+        "overseasInfo": null,
+        "payTypeDesc": null,
+        "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7b46c242e47e3fe69600e40c8bc9bd1",
+        "position": 100101,
+        "positionName": "Java",
+        "postDescription": "1:主要从事web后端开发",
+        "proxyJob": 0,
+        "proxyType": 0,
+        "salaryDesc": "10-20K",
+        "showSkills": [
+            "Java",
+            "后端开发",
+            "数据库"
+        ],
+        "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a341eede53674a92572abf480a54cef6"
+    },
+    "lid": "",
+    "oneKeyResumeInfo": {
+        "alreadySend": false,
+        "canSendPhone": false,
+        "canSendResume": false,
+        "canSendWechat": false,
+        "inviteType": 0
+    },
+    "pageType": 0,
+    "relationInfo": {
+        "beFriend": false,
+        "interestJob": false
+    },
+    "securityId": "J9ahu8otZKpd7-21KaaNoOHBfee1kJTar4fR94DsBDyjeD7iH-0mFoAXi1wn2JfbBdd730dVkzsYyCeeQi43XCrnJ0EEjDQoRCjDZlbjYIAODAesJzGvANcQPpUmQXU_7KOAsYJOWHk~",
+    "selfAccess": false,
+    "sessionId": null
 }
