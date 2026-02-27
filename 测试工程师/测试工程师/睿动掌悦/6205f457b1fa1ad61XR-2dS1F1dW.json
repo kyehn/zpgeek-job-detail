@@ -1,14 +1,15 @@
 {
     "appendixInfo": {
-        "canFeedback": false
+        "canFeedback": false,
+        "chatBubble": null
     },
     "atsOnlineApplyInfo": {
         "alreadyApply": false,
         "inviteType": 0
     },
     "bossInfo": {
-        "activeTimeDesc": "3日内活跃",
-        "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png",
+        "activeTimeDesc": "刚刚活跃",
+        "avatarStickerUrl": null,
         "bossOnline": false,
         "bossSource": 0,
         "brandName": "睿动掌悦",
@@ -20,7 +21,7 @@
         "title": "人力资源"
     },
     "brandComInfo": {
-        "activeTime": 1727837552737,
+        "activeTime": 1772132619120,
         "brandName": "睿动掌悦",
         "customerBrandName": "睿动掌悦",
         "customerBrandStageName": "C轮",
@@ -50,10 +51,13 @@
         "stageName": "C轮",
         "visibleBrandInfo": true
     },
+    "certMaterials": [],
     "handicappedInfo": null,
     "jobInfo": {
         "address": "南京雨花台区南京软件谷科创城D3南7-8层",
         "anonymous": 0,
+        "baiduPcStaticMapUrl": "",
+        "baiduStaticMapUrl": "",
         "degreeName": "本科",
         "encryptAddressId": "ff43b4977b024ebb1nB90tu7F1FX",
         "encryptId": "6205f457b1fa1ad61XR-2dS1F1dW",
@@ -66,6 +70,7 @@
         "latitude": 31.937476,
         "location": 101190100,
         "locationName": "南京",
+        "locationUrl": "/c101190100/",
         "longitude": 118.743356,
         "overseasAddressList": [],
         "overseasInfo": null,
@@ -76,7 +81,7 @@
         "postDescription": "岗位职责：1、负责公司产品的测试工作，测试的产品包括PC端软件、系统端。\n2、根据软件设计需求制定测试方案、熟悉软件测试流程和规范，熟悉软件测试方法和策略，能根据需求和设计文档独立的编写测试用例和测试计划。\n3、有效地执行测试用例，提交测试报告。\n4、负责构建测试环境，能熟练使用各类测试工具。\n5、准确编写用户操作手册、软件配置说明及相关技术文档。\n6、独立完成对产品的集成测试、系统测试、验收测试，对产品的软件功能、性能及其它方面的测试。\n任职要求：\n1. 本科及以上学历，计算机相关专业。\n2. 最好有安卓测试方面的相关经验。\n3.沟通能力好，理解能力强，注重团队合作。\n4.了解软件测试相关理论，有实际项目经验可优先。\n5.能接受短期出差优先。",
         "proxyJob": 0,
         "proxyType": 0,
-        "salaryDesc": "5-6K",
+        "salaryDesc": "3-4K",
         "showSkills": [
             "系统测试",
             "移动端测试",
@@ -98,7 +103,7 @@
         "beFriend": false,
         "interestJob": false
     },
-    "securityId": "CiYM6nqqP1z1r-s1Mr2aBe80KtZUuT1aoYchvsaMl-1k2Z2hwvPSWHUpewGVVBgylaHK6qIPcae0hRM9sbc20o_1t9VDMSSvT3IZCNazYrYm4ITvoA~~",
+    "securityId": "bY0AWoW8liLrM-k1rV2Y2T5sssKLLv7gdCz0bJtI53LZesJ5jyEteW2Y97YKSKdBMViPBkaaUMr2Fc6tfdE6tphhvd0Ffu4s8gBH2UPB_S-snoMsOG10pIRzJO2yremM",
     "selfAccess": false,
     "sessionId": null
 }
